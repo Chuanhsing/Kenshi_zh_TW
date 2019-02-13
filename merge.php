@@ -38,7 +38,7 @@ class Msg
                 //echo $cmd."\n"; exit();
             } else {
                 $res['missed'][] = $file;
-                //unlink($po_file);
+                unlink($po_file);
             }
         }
         return $res;
