@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 43940-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy farmer boss
+#. Id: 44626-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 45024-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 5465-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 3131-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 13284-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13283-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 8403-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outpost Guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. Id: 3953-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk drifter
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 43940-rebirth.mod:0 44626-Dialogue.mod:6 45024-Dialogue.mod:5
+#: 5465-gamedata.base:3 13927-Escapes.mod:6 3131-gamedata.base:0
+#: 13284-Escapes.mod:2 8403-Dialogue.mod:3 3953-gamedata.base:0
+#: 18123-Recruits?Dialogue.mod:10
+msgid "What do you want?"
+msgstr ""
+
+#. Id: 43941-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43940-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy farmer boss
+#: 43941-rebirth.mod:0
+msgid "I'm just looking to trade"
+msgstr "我隻是來交易的"
+
+#. Id: 43942-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43940-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy farmer boss
+#: 43942-rebirth.mod:0
+msgid "Got any animals for sale?"
+msgstr "有任何動物可以出售麼?"
+
+#~ msgid "Nothing"
+#~ msgstr "沒事"

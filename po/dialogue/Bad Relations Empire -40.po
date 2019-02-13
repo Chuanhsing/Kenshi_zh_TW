@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 09:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 10706-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10706-Dialogue?(10).mod:0
+msgid ""
+"You better run, /SNAKE/... There are no witnesses out here, who knows what "
+"will happen"
+msgstr "你最好離開這裏, /SNAKE/... 在沒有目擊者的情況下說不定我會做出什麼來"
+
+#. Id: 10706-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10706-Dialogue?(10).mod:1
+msgid "You better run along, /SNAKE/... no one can save you from us out here"
+msgstr "你最好離開這裏, /SNAKE/... 發生了什麼可沒有人會救你"
+
+#. Id: 10706-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10706-Dialogue?(10).mod:2
+msgid "Get out of my face/ SNAKE/! No one can protect you from me out here"
+msgstr "從我麵前滾開, /SNAKE/! 這裏沒有人會保護你"
+
+#. Id: 10714-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10714-Dialogue?(10).mod:0
+msgid "And good riddance!"
+msgstr "總算把他打發走了!"
+
+#. Id: 10714-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10714-Dialogue?(10).mod:1
+msgid "That's it, run along"
+msgstr "就是那樣, 走吧"
+
+#. Id: 10714-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10714-Dialogue?(10).mod:3
+msgid "That's it, run away with your tail between your legs"
+msgstr "就是那樣, 夾著尾巴走吧"
+
+#. Id: 10717-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 10717-Dialogue?(10).mod:0
+msgid "I said LEAVE!"
+msgstr "我說了離開!"
+
+#. Id: 10717-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 10717-Dialogue?(10).mod:1
+msgid "I said RUN!"
+msgstr "我說了走!"
+
+#. Id: 10717-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 10717-Dialogue?(10).mod:2
+msgid "You deaf? I said RUN ALONG!"
+msgstr "你聾了? 我說了快走!"
+
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66230-Dialogue.mod:0
+msgid ""
+"You've got balls showing your face after the mess you caused last time..."
+msgstr ""
+
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66230-Dialogue.mod:1
+msgid "Guess this is a second chance for me to get even..."
+msgstr ""
+
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66230-Dialogue.mod:3
+msgid "You gave me an ugly scar last time..."
+msgstr ""
+
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66230-Dialogue.mod:4
+msgid "You broke my nose last time..."
+msgstr ""
+
+#. Id: 66230-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66230-Dialogue.mod:5
+msgid "You really did a number on me last time..."
+msgstr ""
+
+#. Id: 66237-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66237-Dialogue.mod:0
+msgid "This time you won't be so lucky!"
+msgstr ""
+
+#. Id: 66237-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66237-Dialogue.mod:1
+msgid "This time you're going down!"
+msgstr ""
+
+#. Id: 66232-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#. Id: 41753-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible lost to me before
+#: 66232-Dialogue.mod:0 41753-Dialogue.mod:0
+msgid "Still alive?"
+msgstr ""
+
+#. Id: 66232-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66232-Dialogue.mod:1
+msgid "Ugh, still alive and breathing?"
+msgstr ""
+
+#. Id: 66232-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66232-Dialogue.mod:2
+msgid "Still standing after the last time I thrashed you?"
+msgstr ""
+
+#. Id: 66232-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66232-Dialogue.mod:3
+msgid "Still breathing after your last beatdown?"
+msgstr ""
+
+#. Id: 66235-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66235-Dialogue.mod:0
+msgid "Well aren't you stubborn!"
+msgstr ""
+
+#. Id: 66235-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66235-Dialogue.mod:1
+msgid "Nuisance!"
+msgstr ""
+
+#. Id: 66235-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (66232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66235-Dialogue.mod:2
+msgid "Die this time!"
+msgstr ""
+
+#. Id: 66235-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (66232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-40
+#: 66235-Dialogue.mod:3
+msgid "I hate the stubborn ones."
+msgstr ""

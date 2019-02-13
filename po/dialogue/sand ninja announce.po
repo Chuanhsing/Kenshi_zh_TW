@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-11-22 22:28+0800\n"
+"PO-Revision-Date: 2018-11-23 00:26+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 96669-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<1, Tag: -1
+#: 96669-Dialogue.mod:0
+msgid "Setting up in the desert without samurai guard?"
+msgstr "在沒有武士守衛的沙漠中定居?"
+
+#. Id: 96670-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96670-Dialogue.mod:0
+msgid "Dumb move."
+msgstr "愚蠢的舉動."
+
+#. Id: 96675-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<1, Tag: -1
+#: 96675-Dialogue.mod:0
+msgid "New village, eh?"
+msgstr "新村, 呃?"
+
+#. Id: 96676-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96676-Dialogue.mod:0
+msgid "To us you're just another target."
+msgstr "對我們來說你隻不過是下一個目標."
+
+#. Id: 96683-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>1, Tag: -1
+#: 96683-Dialogue.mod:0
+msgid "Well, well! Haven't we grown into a fancy little town..."
+msgstr "好啊, 好呀! 我們這不是發展出一座別致的城鎮了..."
+
+#. Id: 96685-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96685-Dialogue.mod:0
+msgid "Here's hoping you've got the loot to match it."
+msgstr "希望這裏你能得到足夠的戰利品."
+
+#. Id: 96686-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>1, Tag: -1
+#: 96686-Dialogue.mod:0
+msgid "Place sure looks noble these days, eh... Fits in the desert real nice."
+msgstr "這地方最近看來確實宏偉許多, 嗯... 極好地融入了沙漠."
+
+#. Id: 96673-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96686-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96673-Dialogue.mod:0
+msgid "How about we bring them down a peg before they get too big for their boots..."
+msgstr "我們把他們削成楔子怎麼樣, 在他們腳長太大穿不上鞋子前..."
+
+#. Id: 96674-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 96674-Dialogue.mod:0
+msgid "And take some of their goods while we're at it!"
+msgstr "並且在我們忙個不停的時候拿一些他們的貨物!"

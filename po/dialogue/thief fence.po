@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 14494-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thief fence
+#: 14494-gamedata.base:0
+msgid "Got things to sell?"
+msgstr "拿了什麼東西來賣?"
+
+#. Id: 14494-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thief fence
+#: 14494-gamedata.base:1
+msgid "Anything to fence?"
+msgstr "有什麼要處理的麼?"
+
+#. Id: 14494-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thief fence
+#: 14494-gamedata.base:2
+msgid "Want to offload something?"
+msgstr "想要脫手什麼東西嗎?"
+
+#. Id: 14495-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (14494-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: thief fence
+#: 14495-gamedata.base:0
+msgid "[trade]"
+msgstr "[交易]"
+
+#. Id: 42904-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14494-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: thief fence
+#: 42904-rebirth.mod:0
+msgid "You're a trader? What do you sell?"
+msgstr "你是商人? 你賣什麼?"
+
+#. Id: 42905-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42904-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: thief fence
+#: 42905-rebirth.mod:0
+msgid ""
+"I don't SELL anything, I BUY things.  No questions asked, if you know what I "
+"mean..."
+msgstr ""
+"我不會賣任何東西, 我隻收購東西. 不要問太多, 如果你知道我什麼意思的話..."

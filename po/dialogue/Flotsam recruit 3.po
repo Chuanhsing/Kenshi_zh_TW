@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 50213-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50213-Dialogue.mod:0
+msgid ""
+"It's been a month since I left Stack behind now... When I came here, I met "
+"women who could use sabers, women who could speak their mind, could read, "
+"write... It was something I'd always dreamed of seeing, something that "
+"should have made me feel... something..."
+msgstr ""
+"我已經離開斯塔克差不多一個月了... 當我到這裏的時候我發現這裏有一切我夢想的東"
+"西, 這裏的女性可以用劍, 可以大膽的表達他們的思想, 可以讀寫...這在聖國是不可想"
+"象的.. 也是我覺得我本身應該有的權利..."
+
+#. Id: 50241-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50242-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50241-Dialogue.mod:0
+msgid ""
+"I want no part of it anymore. The Holy Nation, Flotsam... all of it... I "
+"killed my own father when he caught me trying to escape my home. And I feel "
+"nothing for it. This emptiness frightens me. I just want to be as far away "
+"from here as possible. No more."
+msgstr ""
+"我不想再摻和這些了. 無論是聖國還是弗萊斯穆... 我在逃離家的時候殺死了試圖抓住"
+"我的父親. 但我並沒有對此有什麼特別的感觸. 這種空洞的感覺讓我感到害怕. 我隻是"
+"想盡可能的原理這一切. 別無他求."
+
+#. Id: 50349-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50349-Dialogue.mod:0
+msgid "Maybe I can help you with that. Join /MEUS/."
+msgstr "或許在這一點上我可以幫你. 加入 /MEUS/ 吧."
+
+#. Id: 50353-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50349-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50353-Dialogue.mod:0
+msgid ""
+"That's what I was hoping you'd say, I appreciate you taking a chance on me, /"
+"BROTHER/. But I can't leave until you pay me the recruitment fee, 3000 Cats. "
+"Can you spare it, /BROTHER/?"
+msgstr ""
+"這正是我所希翼的, 我很感激你給我這個機會, /BROTHER/. 但為了以後考慮我希望你付"
+"給我 3000 Cats . 你能負擔的起麼, /BROTHER/?"
+
+#. Id: 50367-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 50437-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4500, Tag: -1
+#: 50367-Dialogue.mod:0 50437-Dialogue.mod:0
+msgid "I can't afford it, sorry."
+msgstr "抱歉我負擔不起."
+
+#. Id: 50350-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50350-Dialogue.mod:0
+msgid "I can give you the therapy you need. Trust me, I'm a doctor."
+msgstr "我是個醫生, 我能給你你所需要的治療."
+
+#. Id: 50354-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50354-Dialogue.mod:0
+msgid "... You don't look like a doctor... "
+msgstr ".... 你看起來不像個醫生..."
+
+#. Id: 50355-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50355-Dialogue.mod:0
+msgid "Look, you want to get away from here, right? Join my squad."
+msgstr "看著, 你想離開這裏, 對吧? 加入我的隊伍吧."
+
+#. Id: 50356-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50356-Dialogue.mod:0
+msgid "First off I need to remove your brainsicles and take a look at them..."
+msgstr "首先我需要把你的腦袋打開來清理下裏麵腐爛的東西..."
+
+#. Id: 50364-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50356-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50364-Dialogue.mod:0
+msgid ""
+"Brainsicles? What in Okran's name is a brainsicle? Forget it, I should never "
+"have bothered you."
+msgstr "打開腦袋? 主啊, 這太可怕了. 抱歉, 打擾你了很抱歉."
+
+#. Id: 50359-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50359-Dialogue.mod:0
+msgid "... Creep..."
+msgstr "...毛骨悚然..."
+
+#. Id: 50357-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50357-Dialogue.mod:0
+msgid "... Then just forget it."
+msgstr "... 那就忘了它把."
+
+#. Id: 50372-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50357-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50372-Dialogue.mod:0
+msgid "I- I'm sorry. I didn't mean to offend you..."
+msgstr "我很抱歉. 我並不想得罪您..."
+
+#. Id: 50351-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50351-Dialogue.mod:0
+msgid "Your own father? You monster!"
+msgstr "你的生父? 你個怪物!"
+
+#. Id: 50370-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50351-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50370-Dialogue.mod:0
+msgid "But I- .... *sigh*"
+msgstr "但是我....*歎氣*"
+
+#. Id: 50352-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50352-Dialogue.mod:0
+msgid "Trauma. You'll get over it, don't worry."
+msgstr "你會克服這個創傷的, 別擔心."
+
+#. Id: 50369-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50369-Dialogue.mod:0
+msgid ""
+"Perhaps. But you're a traveller, right? Would you take an apprentice for "
+"3000 Cats? I've no skills to offer but I'm sure I can prove my use to you "
+"somehow..."
+msgstr ""
+"也許吧. 但是你是個旅行者, 對吧? 我希望得到 3000 Cats 為了以後的生活. 我不能教"
+"你什麼但我確信我可以在什麼地方幫到你..."
+
+#. Id: 50343-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50343-Dialogue.mod:0
+msgid "The Holy Nation broke your emotions. Damn them all to the abyss!"
+msgstr "都是因為聖國才讓你落得如此下場. 讓我們把它推入深淵吧!"
+
+#. Id: 50346-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50346-Dialogue.mod:0
+msgid ""
+"They did, and I want no part of it anymore. The Holy Nation, Flotsam... all "
+"of it... I killed my own father when he caught me trying to escape my "
+"hometown. And I feel nothing for it. This emptiness frightens me. I just "
+"want to be as far away from here as possible. No more."
+msgstr ""
+"我不想再摻和這些了. 無論是聖國還是弗萊斯穆... 我在逃離家的時候殺死了試圖抓住"
+"我的父親. 但我並沒有對此有什麼特別的感觸. 這種空洞的感覺讓我感到害怕. 我隻是"
+"想盡可能的原理這一切. 別無他求."
+
+#. Id: 50347-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 3
+#: 50347-Dialogue.mod:0
+msgid ""
+"I want no part of it anymore. The Holy Nation, Flotsam... all of it... I "
+"killed my own father when he caught me trying to escape my hometown. And I "
+"feel nothing for it. This emptiness frightens me. I just want to be as far "
+"away from here as possible. No more."
+msgstr ""
+"我不想再摻和這些了. 無論是聖國還是弗萊斯穆... 我在逃離家的時候殺死了試圖抓住"
+"我的父親. 但我並沒有對此有什麼特別的感觸. 這種空洞的感覺讓我感到害怕. 我隻是"
+"想盡可能的原理這一切. 別無他求."
+
+#. Id: 50345-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#: 50345-Dialogue.mod:0
+msgid ""
+"I really don't care. Didn't anybody ever teach you not to talk to strangers?"
+msgstr "我不關心這些. 有沒有人教過你不要隨便和陌生人說話?"
+
+#~ msgid "Sure, let's go."
+#~ msgstr "當然, 我們走吧."
+
+#~ msgid "No deal."
+#~ msgstr "無法成交."

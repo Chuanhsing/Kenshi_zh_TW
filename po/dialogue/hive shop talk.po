@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 43350-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. Id: 96267-__Southern hive.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 43350-rebirth.mod:0 96267-__Southern?hive.mod:1
+msgid "Trade with me /RACENAME/"
+msgstr "和我交易麼 /RACENAME/"
+
+#. Id: 43350-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. Id: 96267-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 43350-rebirth.mod:1 96267-__Southern?hive.mod:0
+msgid "Let us trade, /RACENAME/"
+msgstr "讓我們交易吧, /RACENAME/"
+
+#. Id: 43350-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. Id: 96267-__Southern hive.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 43350-rebirth.mod:2 96267-__Southern?hive.mod:2
+msgid "Haaah, you've come to trade with us, /RACENAME/?"
+msgstr ""
+
+#. Id: 43351-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43350-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#. Id: 96273-__Southern hive.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96267-__Southern hive.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive robo shopkeep talk to
+#: 43351-rebirth.mod:0 96273-__Southern?hive.mod:0
+msgid "Show me your goods"
+msgstr "讓我看看你的商品"
+
+#. Id: 43351-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43350-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#. Id: 63541-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63540-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal trader
+#. Id: 52850-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 50283-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 43351-rebirth.mod:1 63541-rebirth.mod:0 52850-rebirth.mod:1
+#: 50283-rebirth.mod:2
+#, fuzzy
+msgid "Show me what you have"
+msgstr "讓我看看你的商品"
+
+#. Id: 43353-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43350-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#. Id: 96275-__Southern hive.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96267-__Southern hive.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive robo shopkeep talk to
+#: 43353-rebirth.mod:0 96275-__Southern?hive.mod:0
+msgid "Not today, sorry"
+msgstr "今天不行, 抱歉"
+
+#. Id: 43354-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43353-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. Id: 98669-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98665-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: swamp hound vist ally talk to
+#: 43354-rebirth.mod:0 98669-Dialogue.mod:0
+msgid "Why not?"
+msgstr "為什麼不?"
+
+#. Id: 43355-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43354-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43355-rebirth.mod:0
+msgid "Why do you enter my shop but not trade?"
+msgstr "為什麼進來我的商店不買東西?"
+
+#. Id: 43356-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43355-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43356-rebirth.mod:0
+msgid "Errrr..."
+msgstr "額..."
+
+#. Id: 43357-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43355-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43357-rebirth.mod:0
+msgid "Look, I'm just not, okay? Leave me alone"
+msgstr "看著, 我隻是不想交易, 好嗎? 讓我自己逛逛"
+
+#. Id: 43358-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43357-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43358-rebirth.mod:0
+msgid "Why do you do this to the Hive?"
+msgstr "你為什麼在蜂巢裏麵這樣做?"
+
+#. Id: 43359-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43358-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43359-rebirth.mod:0
+msgid "Why do you hate the Hive?!"
+msgstr "為什麼你討厭蜂巢?!"
+
+#. Id: 43360-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43359-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 13816-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13815-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 5212-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 8373-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 3797-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 13511-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13510-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 45587-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (45583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13466-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13460-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit attacked by someone else
+#. Id: 13431-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 43360-rebirth.mod:0 4016-dialogue-02.mod:0 13816-Escapes.mod:0
+#: 5212-gamedata.base:0 8373-Dialogue.mod:0 3797-gamedata.base:1
+#: 15268-Dialogue.mod:1 13511-Escapes.mod:0 45587-Dialogue.mod:2
+#: 13466-Escapes.mod:0 13431-Escapes.mod:1
+msgid "/FUCKOFF/!"
+msgstr ""
+
+#. Id: 43363-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43360-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43363-rebirth.mod:0
+msgid "Damn you /RACENAME/! "
+msgstr "該死的 /RACENAME/! "
+
+#. Id: 43363-rebirth.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (43360-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43363-rebirth.mod:1
+msgid "Stupid /RACENAME/s!"
+msgstr "愚蠢的 /RACENAME/!"
+
+#. Id: 43364-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (43363-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 43364-rebirth.mod:0
+msgid "How would you like it if I insult your precious Emperor?"
+msgstr "如果我侮辱你尊敬的皇帝, 你會怎麼樣?"
+
+#. Id: 43361-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43359-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 43361-rebirth.mod:0
+msgid "FINE! LET'S BLOODY TRADE THEN!"
+msgstr "我明白了! 我們來交易鮮血吧! 會讓你一點都不剩!"
+
+#. Id: 43366-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Target Race(s): Hive Prince
+#. Id: 96271-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 43366-rebirth.mod:0 96271-__Southern?hive.mod:0
+msgid "You are lost! No trade for lost ones!!"
+msgstr "你瘋了! 不和瘋子交易!!"
+
+#. Id: 43366-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Target Race(s): Hive Prince
+#. Id: 96271-__Southern hive.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 43366-rebirth.mod:1 96271-__Southern?hive.mod:1
+msgid "Go away, Hiveless!"
+msgstr "走開, 放逐者!"
+
+#. Id: 43366-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Target Race(s): Hive Prince
+#. Id: 19741-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver shoo
+#. Id: 10682-Dialogue (10).mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (10680-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 99071-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99070-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Southern hive announce
+#. Id: 99076-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99075-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive announce
+#. Id: 44472-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 40653-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest shoo
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 40652-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (47446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 96271-__Southern hive.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 13939-Escapes.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13927-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13929-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13939-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 52886-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian using equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 43026-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 45721-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45717-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon witness thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43844-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 40944-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (40945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix Shoo
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43366-rebirth.mod:2 19741-Dialogue.mod:2 10682-Dialogue?(10).mod:1
+#: 99071-Dialogue.mod:0 99076-Dialogue.mod:0 44472-Dialogue.mod:1
+#: 40653-Dialogue.mod:6 40652-Dialogue.mod:7 96271-__Southern?hive.mod:2
+#: 13939-Escapes.mod:5 13929-Escapes.mod:0 13945-Escapes.mod:1
+#: 52886-Dialogue.mod:0 43026-Dialogue.mod:3 45721-Dialogue.mod:0
+#: 43844-Dialogue.mod:1 40944-Dialogue.mod:3
+msgid "Get out!"
+msgstr ""
+
+#. Id: 43366-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Target Race(s): Hive Prince
+#. Id: 96271-__Southern hive.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 43366-rebirth.mod:3 96271-__Southern?hive.mod:3
+msgid "Lost ones breed madness!"
+msgstr "迷失的人滋生瘋狂!"
+
+#. Id: 43366-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Target Race(s): Hive Prince
+#. Id: 96271-__Southern hive.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive robo shopkeep talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 43366-rebirth.mod:4 96271-__Southern?hive.mod:4
+msgid "Madness!"
+msgstr "瘋狂的人!"
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:0
+msgid "What will we buy today, /RACENAME/? How about our Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:1
+msgid "You've come far, /RACENAME/! Is it for our Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:2
+msgid ""
+"We have just the item for you, /RACENAME/: The Lantern of Radiance! Get it "
+"while you can..."
+msgstr ""
+
+#. Id: 64909-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 64909-october?17.mod:3
+msgid "Special price for our Lantern of Radiance, /RACENAME/..."
+msgstr ""
+
+#. Id: 64915-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64909-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64915-october?17.mod:0
+msgid "Lantern of Radiance?"
+msgstr ""
+
+#. Id: 64916-october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64915-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64916-october?17.mod:0
+msgid ""
+"A unique artifact, only in the hive... It will protect you from mist "
+"monsters. All the hive traders carry the Lanterns of Radiance, /RACENAME/. "
+"You'd be a fool to be without one, a fool!"
+msgstr ""
+
+#. Id: 64917-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64917-october?17.mod:0
+msgid "Everyone carries them? I thought you said they were unique?"
+msgstr ""
+
+#. Id: 64918-october 17.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64917-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64918-october?17.mod:0
+msgid ""
+"Haaaaaah. You got me, /RACENAMEHIVE/! They are rare though, this is truth I "
+"tell you, hand carved by hive queen. You won't find one in any other town, "
+"all the sand nobles of the East will envy you for your collection of shiny "
+"hive lanterns. Buy it while you can..."
+msgstr ""
+
+#. Id: 64922-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64922-october?17.mod:0
+msgid "What does it do?"
+msgstr ""
+
+#. Id: 64924-october 17.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64922-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64924-october?17.mod:0
+msgid ""
+"I already told you, /RACENAMEHIVE/. It protects from the mist, purifies the "
+"air in the northern caverns. Our lanterns have saved many souls, this is "
+"truth..."
+msgstr ""
+
+#. Id: 64926-october 17.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64924-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shop talk
+#: 64926-october?17.mod:0
+msgid "... It makes handsome bedside lamp too."
+msgstr ""
+
+#. Id: 64923-october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64916-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64923-october?17.mod:0
+msgid "Sure, let's take a look..."
+msgstr ""
+
+#. Id: 64919-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64909-october 17.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hive shop talk
+#: 64919-october?17.mod:0
+msgid "Spare me the upselling, let me see your goods."
+msgstr ""

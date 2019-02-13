@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 42206-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. Id: 42210-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42206-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. Id: 42213-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 42231-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42228-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. Id: 42218-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42212-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 42206-rebirth.mod:0 42210-rebirth.mod:0 42213-rebirth.mod:0
+#: 42231-rebirth.mod:0 42218-rebirth.mod:0
+msgid "/GARRUSOUND/!"
+msgstr "/GARRUSOUND/!"
+
+#. Id: 42216-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#: 42216-rebirth.mod:0
+msgid "Careful, it looks aggressive"
+msgstr "小心, 這個看起來比較好鬥"
+
+#. Id: 42223-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 42225-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42212-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: animal garru see neutral
+#: 42223-rebirth.mod:0 42225-rebirth.mod:0
+msgid "/GARRUSOUND/...."
+msgstr "/GARRUSOUND/...."
+
+#. Id: 42228-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42228-rebirth.mod:0
+msgid "What do you want you stupid beast!?"
+msgstr "這隻愚蠢的野獸想做什麼!?"
+
+#. Id: 42228-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42228-rebirth.mod:1
+msgid "Stupid animal! Come and get some!"
+msgstr "愚蠢的生物! 讓你嚐嚐我的力量!"
+
+#. Id: 42228-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42210-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42228-rebirth.mod:2
+msgid "You wanna fight?!"
+msgstr "你想打架?!"
+
+#. Id: 42212-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42206-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 42212-rebirth.mod:0
+msgid "STOP. Nobody move."
+msgstr "停下! 所有人都不許動."
+
+#. Id: 42212-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42206-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 42212-rebirth.mod:1
+msgid "Nobody move..."
+msgstr "都不要動..."
+
+#. Id: 42221-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42218-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#: 42221-rebirth.mod:0
+msgid "Dammit."
+msgstr "該死."
+
+#. Id: 42226-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42225-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: animal garru see neutral
+#: 42226-rebirth.mod:0
+msgid "They leave you alone if you just stand still for a while."
+msgstr "如果靜靜地站一會兒, 他們會放過你."

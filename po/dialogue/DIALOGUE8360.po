@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-12-18 19:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 8362-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8362-Dialogue.mod:1
+msgid "Ouuuuch!"
+msgstr "哎喲!"
+
+#. Id: 8362-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 8362-Dialogue.mod:2
+msgid "My leg! You broke my leg!"
+msgstr "我的腿! 你打斷了我的腿!"
+
+#. Id: 8364-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8364-Dialogue.mod:0
+msgid "Aaarh! My arm!"
+msgstr "啊額! 我的胳膊!"
+
+#. Id: 8364-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#: 8364-Dialogue.mod:1
+msgid "Help, my arm's broken!"
+msgstr "救我, 我的胳膊斷了!"
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:0
+msgid "/OHSHIT/ my head! My head is bleeding!"
+msgstr "/OHSHIT/我的腦殼! 我的腦殼在淌血!"
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:1
+msgid "Raaargh, my head!"
+msgstr "額啊, 我的腦袋!"
+
+#. Id: 8366-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 8366-Dialogue.mod:2
+msgid "Ouuuch!"
+msgstr "哎喲!"
+
+#. Id: 8369-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 8369-Dialogue.mod:1
+msgid "S.... stop!"
+msgstr "停.... 停下來!"
+
+#. Id: 8371-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8371-Dialogue.mod:0
+msgid "Tch, fine"
+msgstr "咳, 好吧"
+
+#~ msgid "What the hell!"
+#~ msgstr "搞什麼!"
+
+#~ msgid "/FUCKOFF/!"
+#~ msgstr "/FUCKOFF/!"
+
+#~ msgid "Aah!"
+#~ msgstr "啊!"

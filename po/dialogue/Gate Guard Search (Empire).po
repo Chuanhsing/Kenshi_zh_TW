@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:0
+msgid "Halt /CITIZEN/..."
+msgstr "停下 /CITIZEN/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:1
+msgid "You, stop right there..."
+msgstr "你, 停在那裏..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:2
+msgid "Don't come any further, /OUTLANDER/..."
+msgstr "不要再前近了 , /OUTLANDER/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:3
+msgid "Hey you. Don't take another step..."
+msgstr "嘿你. 不要再往前走了..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:4
+msgid "Hold it right there, /CITIZEN/..."
+msgstr "停在那裏, /CITIZEN/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:5
+msgid "Hold it /CITIZEN/..."
+msgstr "停下, /CITIZEN/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:6
+msgid "Hey, you. Hold it..."
+msgstr "嘿, 你. 停下..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:7
+msgid "Hey, stay there /CITIZEN/..."
+msgstr "嘿, 不要繼續走了 /CITIZEN/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:8
+msgid "Don't come any further, /CITIZEN/..."
+msgstr "不要再前進了, /CITIZEN/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:9
+msgid "Stop, I need to check you over..."
+msgstr "停下, 我需要檢查你的物品..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:10
+msgid "Halt /OUTLANDER/..."
+msgstr "停下 /OUTLANDER/..."
+
+#. Id: 9658-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#: 9658-Dialogue.mod:11
+msgid "Hold it right there, /OUTLANDER/..."
+msgstr "站在那裏不許動, /OUTLANDER/..."
+
+#. Id: 64283-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 64284-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 64285-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 64286-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 55121-__dont commit.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. Id: 53573-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#: 64283-Dialogue.mod:0 64284-Dialogue.mod:0 64285-Dialogue.mod:0
+#: 64286-Dialogue.mod:0 55121-__dont?commit.mod:0 53573-rebirth.mod:1
+msgid "Move along"
+msgstr ""
+
+#. Id: 55121-__dont commit.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Search (Empire)
+#. Id: 53573-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#: 55121-__dont?commit.mod:1 53573-rebirth.mod:0
+msgid "Go on through"
+msgstr ""

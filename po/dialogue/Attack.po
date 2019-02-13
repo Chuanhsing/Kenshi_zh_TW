@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 8421-Dialogue.mod:2
+msgid "Bleed /HIM/ dry!"
+msgstr "把 /HIM/的血放幹!"
+
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 8421-Dialogue.mod:3
+msgid "Make 'em scream!"
+msgstr "讓他們鬼哭狼嚎!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:0
+msgid "Stab 'em in the eyes!"
+msgstr "戳瞎他們的眼睛!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:2
+msgid "Carve their throats out!"
+msgstr "割開他們的喉嚨!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:3
+msgid "Slice their guts open!"
+msgstr "切開他們的內髒!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:4
+msgid "Rip 'em inside out!"
+msgstr "把他們撕開!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:5
+msgid "Smash 'em up!"
+msgstr "粉碎他們!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:6
+msgid "Smash 'em open!"
+msgstr "打碎他們的骨頭!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:7
+msgid "Make 'em mush!"
+msgstr "把他們搗碎!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:8
+msgid "Make 'em gush! I wanna see LOTS'VE red!"
+msgstr "讓他們噴血!我想看到很多紅色!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:9
+msgid "Slit 'em open! Slaughter 'em!"
+msgstr "切開他們!屠殺他們!"
+
+#. Id: 8434-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8434-Dialogue.mod:10
+msgid "Skin them alive! Bring me their skalps!"
+msgstr "活剝他們的皮!把他們的皮帶給我!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:0
+msgid "Stab 'im in the eyes!"
+msgstr "刺他的眼睛!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:2
+msgid "Carve /HIS/ throat out!"
+msgstr "割開/HIS/喉嚨!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:3
+msgid "Slice /HIS/ guts open!"
+msgstr "切開/HIS/內髒!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:4
+msgid "Rip /HIM/ inside out!"
+msgstr "把/HIM/撕開!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:5
+msgid "Smash /HIM/ up!"
+msgstr "粉碎/HIM/!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:6
+msgid "Smash /HIM/ open!"
+msgstr "粉碎/HIM/!"
+
+#. Id: 8438-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8438-Dialogue.mod:7
+msgid "Make /HIM/ mush!"
+msgstr "把/HIM/搗碎!"

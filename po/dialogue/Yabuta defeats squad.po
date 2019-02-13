@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 1532505-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#: 1532505-__May?18?2.mod:0
+msgid "We're back to reclaim the sands..."
+msgstr "我們回來重奪沙地..."
+
+#. Id: 1532506-__May 18 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532505-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#: 1532506-__May?18?2.mod:0
+msgid "And it's gonna be hell."
+msgstr "我要讓這裏變成地獄."
+
+#. Id: 1532508-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#: 1532508-__May?18?2.mod:0
+msgid "This is our desert now..."
+msgstr "這裏是我們的沙漠了..."
+
+#. Id: 1532509-__May 18 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532508-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#: 1532509-__May?18?2.mod:0
+msgid "The weak aren't welcome."
+msgstr "這裏不歡迎弱者."
+
+#. Id: 1532513-__May 18 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 12405-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeated someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 1532513-__May?18?2.mod:0 12405-Dialogue?(10)?(2).mod:3
+msgid "Stay down."
+msgstr "臥倒."
+
+#. Id: 1532513-__May 18 2.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 1532513-__May?18?2.mod:1
+msgid "Rot in the sand."
+msgstr "在沙地裏腐爛吧."
+
+#. Id: 1532513-__May 18 2.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 1532513-__May?18?2.mod:2
+msgid "Should've stayed in the city, eh?"
+msgstr "是不是該留在城裏,嗯?"
+
+#~ msgid "/QUICKLAUGH/."
+#~ msgstr "/QUICKLAUGH/."

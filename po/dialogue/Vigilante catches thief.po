@@ -1,0 +1,444 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-11-23 00:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:0
+msgid "/OI/! Cut that out!"
+msgstr "/OI/! 不要碰那個!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:2
+msgid "Put your hands where I can see 'em!"
+msgstr "把你手放在我看得到的地方!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:3
+msgid "Hands off!"
+msgstr "放手!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:4
+msgid "/OI/! Get away from there!"
+msgstr "/OI/! 從那裏滾開!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:6
+msgid "Back away from there!"
+msgstr "離開那裏!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:7
+msgid "/OI/! Back up!"
+msgstr "/OI/! 給我回來!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:8
+msgid "You! What are you up to?!"
+msgstr "你! 你想幹什麼?!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:9
+msgid "No funny business!"
+msgstr "不要耍任何把戲!"
+
+#. Id: 16201-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16201-Dialogue.mod:10
+msgid "Get out of it!"
+msgstr "滾出來！"
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:0 44616-Dialogue.mod:0
+msgid "You can't outrun me, /RAT/!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 13665-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13658-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:3 13665-Escapes.mod:3 44616-Dialogue.mod:5
+msgid "/HEIS/ making a run for it!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 14451-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 15175-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15164-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:4 14451-Dialogue?(4).mod:4 15175-Dialogue.mod:2
+#: 44616-Dialogue.mod:6
+msgid "Catch /HIM/!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:5 44546-Dialogue.mod:10 44616-Dialogue.mod:2
+#: 44616-Dialogue.mod:7
+msgid "Get /HIM/! /HEIS/ on the run!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:6 44616-Dialogue.mod:8
+msgid "You can't run from /MEUS/, /SKULK/er!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:7 44616-Dialogue.mod:9
+msgid "Coward! Surrender!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:8 44616-Dialogue.mod:10
+msgid "You can run but you can't hide, criminal!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44546-Dialogue.mod:9 44616-Dialogue.mod:11
+msgid "I'll hunt you down, thief! You can't run from me!"
+msgstr ""
+
+#. Id: 44546-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (16201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 5252-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#. Id: 44616-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44615-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 13820-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots prisoner escaping
+#: 44546-Dialogue.mod:11 5252-gamedata.base:4 44616-Dialogue.mod:3
+#: 13820-Escapes.mod:0
+msgid "We've got a runner!"
+msgstr ""
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 44508-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 16202-Dialogue.mod:1 44508-Dialogue.mod:1
+msgid "Robber!"
+msgstr ""
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 45364-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45363-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc spots intruder
+#. Id: 12589-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: burglar
+#. Id: 44508-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 16202-Dialogue.mod:3 45364-Dialogue.mod:1 12589-gamedata.base:0
+#: 44508-Dialogue.mod:2
+msgid "Burglar!"
+msgstr "小偷！"
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16202-Dialogue.mod:4
+msgid "We don't tolerate thieves around here!"
+msgstr "我們不能容忍周圍有小偷在轉悠!"
+
+#. Id: 16202-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16202-Dialogue.mod:5
+msgid "Thieves get beaten!"
+msgstr "偷竊理應被懲罰!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:1
+msgid "/GODDAMN/ /SKULK/er!"
+msgstr "/GODDAMN/ /SKULK/er!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:2
+msgid "Don't take too kindly to thieves 'round here!"
+msgstr "對小偷不要客氣!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:3
+msgid "Thieves aren't welcome around here!"
+msgstr "小偷在這不受歡迎!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:4
+msgid "Thieving /IDIOT/!"
+msgstr "有人偷東西 /IDIOT/!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:5
+msgid "Stealing? Not on my watch!"
+msgstr "偷東西? 在我眼皮底下想都別想!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 14367-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 16203-Dialogue.mod:6 14367-Dialogue?(4).mod:2
+msgid "Not on my watch, thief!"
+msgstr "在我眼皮底下想都別想, 小偷!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:7
+msgid "No stealing on MY watch!"
+msgstr "別想在我眼皮底下偷東西!"
+
+#. Id: 16203-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante catches thief
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 16203-Dialogue.mod:9
+msgid "No thieves allowed!"
+msgstr "這裏不允許有小偷!"

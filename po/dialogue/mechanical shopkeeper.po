@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 52849-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 52849-rebirth.mod:0 42992-Dialogue.mod:5
+msgid "Here to trade?"
+msgstr "來交易的麼?"
+
+#. Id: 52849-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 52849-rebirth.mod:1
+msgid "Looking for building materials?"
+msgstr "來找建築材料的?"
+
+#. Id: 52850-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 51598-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 56192-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56188-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: bookshop guy
+#. Id: 43746-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#. Id: 50283-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#. Id: 51533-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 52850-rebirth.mod:0 51598-Dialogue.mod:0 56192-rebirth.mod:0
+#: 43746-Dialogue.mod:0 50283-rebirth.mod:0 51533-Dialogue.mod:0
+#: 42995-Dialogue.mod:5
+msgid "Let's trade"
+msgstr "讓我們交易吧"
+
+#. Id: 52852-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 51758-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51754-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shinobi guild plastic surgeon
+#: 52852-rebirth.mod:0 51758-rebirth.mod:0
+msgid "Not right now"
+msgstr "現在不用"
+
+#. Id: 52853-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52853-rebirth.mod:0
+msgid "Actually I have some engineering questions"
+msgstr "實際上我有一些工程問題"
+
+#. Id: 52857-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52853-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52857-rebirth.mod:0
+msgid "What do you need to know?"
+msgstr "你需要知道什麼?"
+
+#. Id: 52858-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52858-rebirth.mod:0
+msgid "How do I build things?"
+msgstr "我們怎麼造東西?"
+
+#. Id: 52859-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52858-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52859-rebirth.mod:0
+msgid ""
+"You just need the raw Building Materials, or sometimes Iron Plates.  You "
+"can't just plonk down anywhere though, you'll have to find a nice spot out "
+"in the wilds where you won't bother anyone, or maybe buy a building here in "
+"town."
+msgstr ""
+"你隻需要一些建材或者鐵塊. 你並不能在任何地方建造, 需要找到一個不會打擾其他的"
+"地方建造, 或者在城鎮裏麵買個房子."
+
+#. Id: 52860-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52860-rebirth.mod:0
+msgid "Where can I build?"
+msgstr "哪裏可以建造?"
+
+#. Id: 52861-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52860-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52861-rebirth.mod:0
+msgid ""
+"Anywhere away from towns, but you'll want to do some PROSPECTING first, find "
+"an area with the resources you'll need.  Stone and Iron are the important "
+"ones you'll need.  Fertile land too if you're thinking of farming for your "
+"food."
+msgstr ""
+"任何遠離城鎮的地方, 但你最好先勘探一下, 找到一個有你要的資源的地方. 石頭和鐵"
+"是很重要的基礎資源. 土地肥沃度也很重要, 如果你要自己生產食物的話."
+
+#. Id: 52862-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52862-rebirth.mod:0
+msgid "How do I learn to build new buildings and machinery?"
+msgstr "我怎麼才能建造更多種類的建築和機器?"
+
+#. Id: 52863-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52862-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52863-rebirth.mod:0
+msgid ""
+"Ah.  For that you'll need my Books!  I sell them here, but you'll have to "
+"build yourself a Research Bench to study at.  Put your books in your "
+"Research Bench and start from there."
+msgstr ""
+"啊. 如果是那樣的話你會需要我的書的! 這裏賣有助於你學習新東西的書, 但是你需要"
+"到自己的研究台去深入學習他們. 把書放到你的研究台然後選擇你要學習的東西."
+
+#. Id: 52864-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52864-rebirth.mod:0
+msgid "That's all, thanks for your help"
+msgstr "我沒有想問的了, 謝謝你的幫助"
+
+#. Id: 52864-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 13015-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 6936-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 8988-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#. Id: 9001-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed Cold
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. Id: 9027-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9029-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 40509-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bought me -generic
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 8689-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo healed
+#. Id: 15851-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3302-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 9341-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. Id: 9265-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52864-rebirth.mod:1 13015-Dialogue?(11)?(2).mod:0 6936-Dialogue.mod:0
+#: 8988-Dialogue.mod:0 9001-Dialogue.mod:2 9027-Dialogue.mod:1
+#: 40509-gamedata.base:3 13377-Escapes.mod:4 8689-Dialogue.mod:4
+#: 15851-Dialogue.mod:0 3302-gamedata.base:0 9341-Dialogue.mod:1
+#: 9265-Dialogue.mod:0
+#, fuzzy
+msgid "Thanks"
+msgstr "謝謝!"
+
+#. Id: 52864-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52857-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52864-rebirth.mod:2
+msgid "Thanks for the help!"
+msgstr "感謝幫助!"
+
+#. Id: 52854-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: PLAYER_TECH_LEVEL>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYER_TECH_LEVEL<4, Tag: -1
+#: 52854-rebirth.mod:0
+msgid "Do you know where I can find Ancient Science books?"
+msgstr "你知道我在那裏可以找到古代科研書麼?"
+
+#. Id: 52854-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52849-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: Who: ME, Condition: PLAYER_TECH_LEVEL>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYER_TECH_LEVEL<4, Tag: -1
+#: 52854-rebirth.mod:1
+msgid "I'm looking for some Ancient Science books"
+msgstr "我想找點古代科技書"
+
+#. Id: 52865-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52865-rebirth.mod:0
+msgid "Wow.  Now there's a question."
+msgstr "哇噢. 現在我們碰到難題了."
+
+#. Id: 52866-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52865-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52866-rebirth.mod:0
+msgid ""
+"That's not something you can just buy from a shop, my friend.  You're "
+"talking about rare and priceless artifacts, ancient books dating back from "
+"past civilisations more advanced than our own...  "
+msgstr ""
+"那不是你可以簡單在商店買到的東西, 我的朋友. 你在說的東西是很少見的古代遺物, "
+"古代科研書上記載的東西遠比我們現在用的東西高級...."
+
+#. Id: 52867-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52866-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52867-rebirth.mod:0
+msgid ""
+"You'll want to ask the Machinists, they send out mad adventurers all the "
+"time to find that sort of thing."
+msgstr "你可以去問馬西尼斯人, 他們一直都在把瘋狂的冒險者派去找那個玩意."
+
+#. Id: 52869-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52869-rebirth.mod:0
+msgid "Ancient science books!?  Never heard of them, sorry."
+msgstr "古代科研書? 從來沒聽過, 抱歉."
+
+#. Id: 52869-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52869-rebirth.mod:1
+msgid "Pfft!  Wish I knew!"
+msgstr "噗呋! 真希望我知道!"
+
+#. Id: 52869-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. Id: 56298-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56294-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 52869-rebirth.mod:2 56298-Dialogue.mod:0
+msgid "No idea."
+msgstr "不知道."
+
+#. Id: 52869-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52869-rebirth.mod:3
+msgid "Can't help you there, sorry."
+msgstr "這裏幫不了你, 抱歉."
+
+#. Id: 52870-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): The Holy Nation
+#: 52870-rebirth.mod:0
+msgid "*SSHHH!!*  Don't mention those here! "
+msgstr "*噓!!*  不要在這裏提那個東西! "
+
+#. Id: 52871-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52870-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52871-rebirth.mod:0
+msgid "Get out! Leave me alone!"
+msgstr "出去! 讓我自己呆會!"
+
+#. Id: 52872-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52870-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52872-rebirth.mod:0
+msgid ""
+"*He looks around*  Look.  That stuff's forbidden here, don't talk about it.  "
+"Go ask in World's End, up north.  That's all I can tell you."
+msgstr ""
+"*他看了看周圍*  聽著.  那個東西已經被這裏拋棄了, 不要在這裏談論它.  到東北方"
+"世界的盡頭問問看.  我隻能告訴你這麼多了."
+
+#. Id: 52874-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52872-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52874-rebirth.mod:0
+msgid "Now you best get going."
+msgstr "現在你最好離開了."
+
+#. Id: 52875-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): Swampers or Mongrel
+#: 52875-rebirth.mod:0
+msgid ""
+"/LAUGH/!  Tech hunter, eh?  Used to be one myself!  Running all over the "
+"world, exploring old ruins, getting torn up by killer machines, best time of "
+"my life that was."
+msgstr ""
+"/LAUGH/!  科技獵人, 哈?  我曾經也是!  跑遍整個大陸, 探索舊遺跡, 從危險機器的"
+"刀鋒下逃命, 直到我膝蓋中了一箭. 那曾是我生命中最美好的日子."
+
+#. Id: 52876-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52875-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52876-rebirth.mod:0
+msgid ""
+"Still, dangerous business though.  Most tech hunters don't live long, gotta "
+"know when to cash out, y'know?"
+msgstr ""
+"依然, 是危險的事情. 大部分科技獵人都活不久, 不知道什麼時候才能得到你要的東"
+"西. 你明白了嗎?"
+
+#. Id: 52877-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52876-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52877-rebirth.mod:0
+msgid "So where do I go? How do I find this stuff?"
+msgstr "所以我該去哪裏? 我們找到這些東西?"
+
+#. Id: 52878-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52877-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52878-rebirth.mod:0
+msgid ""
+"Old ruins.  You gotta look at a map, go way out into the furthest reaches of "
+"the ass end of nowhere, the more dangerous the better, and then look around "
+"for old ruins and stuff."
+msgstr ""
+"遺跡咯. 你看這個地圖, 盡可能往偏的地方走, 越危險的地方越好, 然後找廢舊的遺跡."
+
+#. Id: 52879-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52878-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52879-rebirth.mod:0
+msgid "That's insane."
+msgstr "這太瘋狂了!"
+
+#. Id: 52881-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52879-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52881-rebirth.mod:0
+msgid ""
+"Well ok, it's not the smartest way.  Best way is to loot some of the old-"
+"world library buildings.  They're full of maps and information and stuff, "
+"they'll show you where the treasure is."
+msgstr ""
+"好吧. 這不是最好方式. 最好是去找舊的資料庫. 它們有古代的地圖或者也有一些有價"
+"值的資料, 可以告訴你哪裏有寶藏."
+
+#. Id: 52882-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52881-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52882-rebirth.mod:0
+msgid "And how can I find these old libraries?"
+msgstr "那麼我可以在哪裏找到這些舊的資料庫呢?"
+
+#. Id: 52883-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52882-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52883-rebirth.mod:0
+msgid ""
+"You gotta look at a map, go way out into the furthest reaches of the ass end "
+"of..."
+msgstr "看地圖, 找一些相對荒涼又沒什麼人去過的地方就有可能有..."
+
+#. Id: 52885-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52884-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52885-rebirth.mod:0
+msgid ""
+"Ha!  Only kiddin'.  You spoke to the right guy today, that you did.  Look "
+"around the far south west.  The furthest corner, past the craters.  "
+msgstr "哈! 你找對人了. 看遙遠的西南方向. 最遠的角落 穿過這個火山口. "
+
+#. Id: 52886-rebirth.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52885-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52886-rebirth.mod:0
+msgid "I owe you, sir."
+msgstr "我欠你的, 先生."
+
+#. Id: 52886-rebirth.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (52885-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52886-rebirth.mod:1
+msgid "Thanks so much"
+msgstr "非常感謝"
+
+#. Id: 52887-rebirth.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (52886-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52887-rebirth.mod:0
+msgid "Pay me back by buying something!"
+msgstr "多來買點東西就好!"
+
+#. Id: 52887-rebirth.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (52886-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52887-rebirth.mod:1
+msgid "Now buy something!"
+msgstr "現在, 買點東西吧!"
+
+#. Id: 52880-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52878-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#: 52880-rebirth.mod:0
+msgid "Blindly run around dangerous places. Got it."
+msgstr "盲目的在危險的地方尋找. 明白了."
+
+#. Id: 52888-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 52888-rebirth.mod:0
+msgid "Certainly know your stuff don't you?"
+msgstr "你當然知道要的東西不是嗎?"
+
+#. Id: 52889-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52888-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52889-rebirth.mod:0
+msgid ""
+"That's what the Tech Hunters are all about; scouring the world, searching "
+"old ruins, trying to find old artifacts like that."
+msgstr "這就是科技獵人們做的事情; 探索世界, 探索遺跡, 嚐試尋找古代智慧的結晶."
+
+#. Id: 52890-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52889-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52890-rebirth.mod:0
+msgid ""
+"It's not something you can just waltz into a store and buy, they're ancient "
+"artifacts, highly coveted."
+msgstr "這不是你可以在商店可以簡單買到的東西, 它們是古代科技的結晶, 非常罕見."
+
+#. Id: 52891-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52890-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#: 52891-rebirth.mod:0
+msgid ""
+"Ask the Tech Hunters, or the University of Machinists.  That's what they "
+"live for."
+msgstr "去問科技獵人, 或者馬西尼斯大學的人. 這是他們人生的目的."
+
+#. Id: 53091-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 53091-rebirth.mod:0
+msgid ""
+"Heh, damned if I know something like that.  I can't even read the damn "
+"things I sell here! /QUICKLAUGH/!"
+msgstr ""
+"嘿, 我知道一些像那些該死的東西一樣的東西. 我完全讀不懂這些該死的東西, 所以隻"
+"好賣掉了! /QUICKLAUGH/!"
+
+#. Id: 53091-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 53091-rebirth.mod:1
+msgid ""
+"What do you want old crap like that for?  I sell yer books right here, best "
+"in the land."
+msgstr "為什麼你要那些寫著古老的廢話的東西? 我這裏有全大陸最好的書."
+
+#. Id: 53091-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52854-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: mechanical shopkeeper
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 53091-rebirth.mod:2
+msgid ""
+"Dumb stories from mumbo-jumbo land.  There's nothing like that, it's just "
+"talk.  There's plenty of books for you here, they're all the same in the "
+"end.  Squiggly nonsense if you ask me."
+msgstr ""
+"一派胡言的愚蠢故事. 沒有那樣的東西, 他們隻是說. 這裏有很多書, 結果它們都是一"
+"樣的. 如果你問我的話, 他們說的隻是廢話."
+
+#~ msgid "Looking to buy?"
+#~ msgstr "要買東西?"
+
+#~ msgid "Show me what you have"
+#~ msgstr "讓我看看你有什麼"
+
+#~ msgid "No"
+#~ msgstr "不用"
+
+#~ msgid "Bye"
+#~ msgstr "再見"
+
+#~ msgid "*sigh*"
+#~ msgstr "*歎氣*"

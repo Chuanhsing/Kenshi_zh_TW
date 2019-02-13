@@ -1,0 +1,354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:0
+msgid "/HOLYGREET/. What can I do for you today?"
+msgstr "/HOLYGREET/. 我能為你做什麼呢?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:1
+msgid "/HOLYGREET/. How can I help you, are you looking to trade?"
+msgstr "/HOLYGREET/. 我能為你做什麼呢? 你是要交易麼?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:2
+msgid "/HOLYGREET/, how are you today? Looking for anything in particular?"
+msgstr "/HOLYGREET/, 你今天怎麼樣? 在尋找什麼特別的東西嗎?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:3
+msgid ""
+"/HOLYGREET/, I hope that you are well. What can I do for you today? Looking "
+"to trade?"
+msgstr "/HOLYGREET/, 祝你健康. 今天我能為你做什麼呢? 需要交易麼?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:4
+msgid "/HOLYGREET/. Looking to buy? "
+msgstr "/HOLYGREET/. 要買東西?"
+
+#. Id: 42991-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#: 42991-Dialogue.mod:5
+msgid "/HOLYGREET/. Today is a fine day for trading! What can I get you?"
+msgstr "/HOLYGREET/. 今天很適合交易! 你給我帶來什麼?"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:0
+msgid "Can I see your wares?"
+msgstr "我能看看你的商品嗎?"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:1
+msgid "Show me your wares"
+msgstr "讓我看看你的商品"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:2
+msgid "Let's see what you've got"
+msgstr "讓我看看你有什麼"
+
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42995-Dialogue.mod:3
+msgid "Let's get down to business"
+msgstr "我們之間開始做生意吧"
+
+#. Id: 42996-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42996-Dialogue.mod:0
+msgid "No, nothing. Sorry to bother you."
+msgstr "不, 沒事. 抱歉打擾你."
+
+#. Id: 42996-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 42996-Dialogue.mod:1
+msgid "No, nothing. Nevermind."
+msgstr "不, 沒事."
+
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42992-Dialogue.mod:1 42975-Dialogue.mod:1
+msgid "You buying?"
+msgstr "要買東西嗎?"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:0
+msgid "I don't do business with thieves!"
+msgstr "我不會和竊賊做生意的!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:1
+msgid "You think I'd trade with a thief?! Leave."
+msgstr "你覺得我會和竊賊做生意? 走開."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:2
+msgid "Take your custom elsewhere, sinner. "
+msgstr "把你東西帶到其他地方去, 罪人."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:3
+msgid "I don't deal with thieves!"
+msgstr "我不和竊賊交易!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:4
+msgid "Sticky fingered sinner! Take your business elsewhere."
+msgstr "一個手不幹淨的罪人! 這裏不歡迎你."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:5
+msgid "Not in my shop, thief. Take your Cats elsewhere."
+msgstr "我商店不和你做生意, 罪人. 帶你錢去其他地方."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:6
+msgid ""
+"Really, you want to trade? After you stole from me!? Get out of my shop!"
+msgstr "哈? 你偷了我之後還想和我做生意!? 從我店鋪裏麵滾出去!"
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:7
+msgid "You stole from me. I won't forget that. Leave."
+msgstr "你在我這裏偷過東西. 我不會忘記的. 離開吧."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:8
+msgid "Leave, thief. I got no wares for you."
+msgstr "走開竊賊. 沒有給你的商品."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:9
+msgid "I've got nothing to trade with you, thief."
+msgstr "我不會和你交易任何東西的, 竊賊."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:10
+msgid "Looks like I'm all sold out. Leave, thief."
+msgstr "看起來我賣完了. 走吧 ,竊賊."
+
+#. Id: 42994-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 42994-Dialogue.mod:11
+msgid "I won't waste my breath on a lowly thief. Leave my shop."
+msgstr "我不想和一個竊賊呼吸一樣的空氣. 從我商店出去."
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:0
+msgid "Okran bless you. How may I serve you holy /BROTHER/?"
+msgstr "奧克蘭祝福你. 我怎麼才能為一個尊敬的信徒服務呢?"
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:1
+msgid "How may I serve you, holy /BROTHER/?"
+msgstr "需要什麼幫助麼? 聖潔的 /BROTHER/?"
+
+#. Id: 43213-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 43213-Dialogue.mod:2
+msgid "Whatever you need, holy /BROTHER/. I'm here to serve."
+msgstr "聖潔的 /BROTHER, 不管你要什麼我都會提供給你."
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:1
+msgid "... Please leave"
+msgstr "...請離開"
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:2
+msgid "... I will not serve a thief"
+msgstr "...我不會為小偷服務"
+
+#. Id: 43216-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 43216-Dialogue.mod:3
+msgid "... Please, leave me, thief"
+msgstr "...請離開我, 竊賊"
+
+#~ msgid "Show me what you've got"
+#~ msgstr "那麼讓我看看你有什麼"
+
+#~ msgid "Let's trade"
+#~ msgstr "讓我們交易吧."
+
+#~ msgid "Looking to trade?"
+#~ msgstr "要談生意嗎?"
+
+#~ msgid "You trading?"
+#~ msgstr "你要交易?"
+
+#~ msgid "Here for business?"
+#~ msgstr "來做生意的?"
+
+#~ msgid "See anything you like?"
+#~ msgstr "有什麼你喜歡的東西嗎?"
+
+#~ msgid "Here to trade?"
+#~ msgstr "來談生意?"

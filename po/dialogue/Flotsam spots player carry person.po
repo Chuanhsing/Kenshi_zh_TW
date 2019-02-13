@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 60311-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam spots player carry person
+#: 60311-Dialogue.mod:0
+msgid "/HEHAS/ caught the Phoenix!"
+msgstr "/HEHAS/ 抓住了菲尼克斯!"
+
+#. Id: 60312-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam spots player carry person
+#. Id: 60313-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam spots player carry person
+#: 60312-Dialogue.mod:0 60313-Dialogue.mod:0
+msgid ".../CARRIEDPERSON/?!"
+msgstr ".../CARRIEDPERSON/?!"
+
+#. Id: 60314-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam spots player carry person
+#: 60314-Dialogue.mod:0
+msgid "Take him to Moll, /YOURNAME/."
+msgstr "把他帶到茉莉那裏去, /YOURNAME/."

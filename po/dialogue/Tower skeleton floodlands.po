@@ -1,0 +1,612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 49061-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49061-Dialogue.mod:0
+msgid ""
+"Let me guess, another adventurer? You certainly don't look like the "
+"scavenger type, or the bandit type either for that matter..."
+msgstr ""
+"恩? 讓我猜猜, 又是一名冒險者? 至少你看起來肯定不是一個拾荒者或者強盜..."
+
+#. Id: 49062-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49062-Dialogue.mod:0
+msgid "How did you know?"
+msgstr "你怎麼知道的?"
+
+#. Id: 49066-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49066-Dialogue.mod:0
+msgid ""
+"The Floodlands mostly attract the adventuring type, it's full of lost "
+"treasures of course, so why wouldnt it? Anybody else of sane mind wouldn't "
+"risk the spider bots, they keep most of the more hostile trespassers at bay "
+"at least..."
+msgstr ""
+"海神之域最容易吸引冒險者前來, 這裏有很多失落的寶藏, 但為什麼實際上沒有什麼人"
+"來呢? 因為大多數有理智的人都不會拿自己的生命去和蜘蛛機器人開玩笑, 蜘蛛也可以"
+"將很多敵人擋在外麵..."
+
+#. Id: 49067-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. Id: 49122-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49121-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49067-Dialogue.mod:0 49122-Dialogue.mod:0
+msgid ""
+"But life holed up in this tower can get dull, so it's always good to share "
+"shelter and exchange stories with fellow adventurers."
+msgstr ""
+"但是窩在這個塔裏麵的生活很乏味, 所以很樂意給前來的冒險者們提供庇護或者和他們"
+"交流現在世界上的一些事情."
+
+#. Id: 49068-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49067-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49068-Dialogue.mod:0
+msgid "Oh, so you're an adventurer too?"
+msgstr "哦, 所以你也是一個冒險者嗎?"
+
+#. Id: 49071-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 49071-Dialogue.mod:0
+msgid ""
+"Used to be. Skeletons aren't as perishable as /RACENAME/s like yourself, but "
+"we still have a limit to our existence. We start to seize up over time. Or "
+"we stop working suddenly, without warning. My time is near, my parts are "
+"wearing and I'm not as fit for exploration as I used to be. So, here I am, "
+"retired in the solitude of the Floodlands."
+msgstr ""
+"曾經是. 骨人不像你們那樣的 /RACENAME/ 一樣容易衰老, 但是我們依然有我們存在的"
+"界限. 超過界限後, 一些人開始抓狂, 一些人永遠的停止了運作, 這些預先都不會有什"
+"麼跡象. 我感覺到我的時間不多了, 我的部件無法像年輕時那樣良好的工作了. 所以, "
+"我來到了這裏, 在海神之地中孤單的退休, 也不會對其他人造成麻煩."
+
+#. Id: 49080-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49080-Dialogue.mod:0
+msgid "A shame. Still, I'm sure you've had your fair share of adventures."
+msgstr "這樣不覺得難受麼. 當然, 我認為你已經有了足夠的冒險."
+
+#. Id: 49082-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49082-Dialogue.mod:0
+msgid ""
+"I've travelled the Eastern Ashlands to the Southern Swamps. Recovering lost "
+"relics and lost pieces of history is something that's always satisfied me. "
+"And, of course, watching human behaviour as the world evolves and falls... "
+msgstr ""
+"我去過東部的灰燼之島也去過南部的沼澤地. 在那裏搜集失落的文物, 把各個曆史片段"
+"組合到一起總是能讓我感到滿足. 在曆史的長河中觀察人類行為的變化就像觀察世界的"
+"進化和退化一樣...... "
+
+#. Id: 49083-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49082-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49083-Dialogue.mod:0
+msgid "Tell me more about human evolution."
+msgstr "告訴我更多關於人類進化的事情."
+
+#. Id: 49085-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49085-Dialogue.mod:0
+msgid ""
+"Nothing ever truly changes. Trends, cultures, languages, rulers... they come "
+"and go. But behaviour bred from greed and fear hold human evolution at a "
+"standstill. Any kind of progress made is usually destroyed... reset in one "
+"way or another. Like a wave, it evolves and it falls again..."
+msgstr ""
+"人類社會實質上沒有什麼是真的改變了的. 趨勢, 文化, 語言, 統治者...... 他們的本"
+"質沒有什麼區別. 但貪婪和恐懼孕育的行為使人類的進化停滯不前. 任何形式的發展最"
+"終都會被破壞......曆史在以某種方式重置. 就像潮汐一樣, 潮起潮落, 最後回歸原"
+"點......"
+
+#. Id: 49086-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49085-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49086-Dialogue.mod:0
+msgid "Pretty deep for one with a metal brain."
+msgstr "對一個金屬腦袋來說這些東西還真是深奧."
+
+#. Id: 49089-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (49086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49089-Dialogue.mod:0
+msgid ""
+"A skeleton has a lot of time for deep contemplation. Especially one that has "
+"lived alone with nothing but spider bots as company for the last three "
+"years... "
+msgstr "骨人有很多時間來深思. 尤其是對於我這種三年都隻有機器蜘蛛陪伴的人而言. "
+
+#. Id: 49090-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (49089-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49090-Dialogue.mod:0
+msgid "Why not take one last adventure with me?"
+msgstr "為什麼不和我最後來一次冒險呢?"
+
+#. Id: 49092-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (49090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 49092-Dialogue.mod:0
+msgid ""
+"If I have the company of a fellow adventurer I suppose that shouldn't be too "
+"much for me to handle... I'd enjoy nothing more than a last adventure. Let's "
+"go. "
+msgstr ""
+"如果有一個冒險者同伴陪我一起我想應該不會太糟....沒有什麼比最後一場冒險更讓我"
+"享受的了. 我們出發吧. "
+
+#. Id: 49095-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (49092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49095-Dialogue.mod:0
+msgid "You lead, I'll follow."
+msgstr "你帶路, 我跟著."
+
+#. Id: 49094-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (49090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49094-Dialogue.mod:0
+msgid ""
+"If I have the company of a fellow adventurer I suppose that shouldn't be too "
+"much for me to handle, and I always enjoy the study of /RACENAME/ "
+"companionship... I'd enjoy nothing more than a last adventure.. Let's go."
+msgstr ""
+"如果有一個冒險者同伴陪我一起我想應該不會太糟, 我也很喜歡研究你們 /RACENAME/ "
+"的文化....沒有什麼比最後一場冒險更讓我享受的了. 我們出發吧."
+
+#. Id: 49091-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (49089-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49091-Dialogue.mod:0
+msgid "Well, it's been good talking to you but I have to go now."
+msgstr "這樣, 我很高興和你聊天但我現在得走了."
+
+#. Id: 49087-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49085-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49087-Dialogue.mod:0
+msgid "Well, that's a depressing thought."
+msgstr "好吧, 那真是讓人沮喪的想法."
+
+#. Id: 49084-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49082-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49084-Dialogue.mod:0
+msgid "You could probably teach me a thing or two about the world's history."
+msgstr "你或許可以教給我一些關於世界曆史的事情."
+
+#. Id: 49097-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49097-Dialogue.mod:0
+msgid ""
+"I wouldn't even know where to start, but I enjoy nothing more than swapping "
+"notes and imparting knowledge of the world... Can you spare a few months?"
+msgstr ""
+"不知道從哪裏開始說比較好, 我最喜歡交換知識或者傳授知識給他人了... 隻要一點時"
+"間就好, 比如幾個月?"
+
+#. Id: 49098-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49097-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49098-Dialogue.mod:0
+msgid "How about you come with me? You can impart all the knowledge you want."
+msgstr "和我一起走怎麼樣? 你可以把你所有你想傳授的知識都傳授給我."
+
+#. Id: 49100-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49097-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49100-Dialogue.mod:0
+msgid "Unfortunately not. But it's been good talking to you."
+msgstr "很不幸沒有. 不過和你交談還是很使我受益."
+
+#. Id: 49105-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (49100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49105-Dialogue.mod:0
+msgid "Likewise. Come pay me a visit another time, traveller."
+msgstr "同樣. 請再來拜訪我, 旅行者."
+
+#. Id: 49081-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49081-Dialogue.mod:0
+msgid "Do you miss travelling?"
+msgstr "你懷念旅行生活嗎?"
+
+#. Id: 49104-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49081-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49104-Dialogue.mod:0
+msgid ""
+"At times. I've travelled the Eastern Ashlands to the Southern Swamps. "
+"Recovering lost relics and lost pieces of history is something that's always "
+"satisfied me. And, of course, watching human behaviour as the world evolves "
+"and falls... "
+msgstr ""
+"經常. 我去過東部的灰燼之島也去過南部的沼澤地. 在那裏搜集失落的文物, 把各個曆"
+"史片段組合到一起總是能讓我感到滿足. 在曆史的長河中觀察人類行為的變化就像觀察"
+"世界的進化和退化一樣...... "
+
+#. Id: 49103-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49103-Dialogue.mod:0
+msgid ""
+"Used to be. My time is near, my parts are wearing and I'm not as durable for "
+"exploration as I used to be. So, here I am, retired in the solitude of the "
+"Floodlands."
+msgstr ""
+"曾經是. 我感覺到我的時間不多了, 我的部件無法像年輕時那樣良好的工作了. 所以, "
+"我來到了這裏, 在海神之地中孤單的退休, 也不會對其他人造成麻煩."
+
+#. Id: 49069-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49067-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49069-Dialogue.mod:0
+msgid "Tell me more about these treasures."
+msgstr "告訴我更多關於這些財寶的事情."
+
+#. Id: 49072-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49069-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49072-Dialogue.mod:0
+msgid ""
+"Just take a look around and you'll see with your own eyes, the place is rich "
+"in history and lost tech. But, the spiders make it hard to recover those "
+"treasures. Many adventurers are smart enough not to take the risk, others "
+"are brave enough to take the challenge, but many of those don't come back."
+msgstr ""
+"在周圍稍微看看就能找到有關財寶的遺跡, 遺跡裏麵有很多文物和失落科技相關的寶"
+"藏. 但是, 蜘蛛守衛著它, 使得難以得到這些寶藏. 一些冒險者足夠聰明而不會去冒這"
+"個險. 另外一些足夠勇敢而決定挑戰這個險, 但他們很多最後都沒有回來."
+
+#. Id: 49073-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49072-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49073-Dialogue.mod:0
+msgid "Which were you? Smart or brave?"
+msgstr "你是哪種? 聰明還是勇敢的?"
+
+#. Id: 49076-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49076-Dialogue.mod:0
+msgid "The prior of course, I'm just not wired to take unnecessary risks."
+msgstr "當然是前者, 我隻是不想冒無用的風險."
+
+#. Id: 49077-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49076-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49077-Dialogue.mod:0
+msgid "So what are you doing here?"
+msgstr "所以你在這裏做什麼?"
+
+#. Id: 49078-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49076-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49078-Dialogue.mod:0
+msgid "And you don't adventure anymore?"
+msgstr "你不再冒險了嗎?"
+
+#. Id: 49079-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49078-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49079-Dialogue.mod:0
+msgid ""
+"Skeletons aren't as perishable as /RACENAME/s like yourself, but we still "
+"have a limit to our existence. We start to seize up over time. Or we stop "
+"working suddenly, without warning. My time is near, my parts are wearing and "
+"I'm not as durable for exploration as I used to be. So, here I am, retired "
+"in the solitude of the Floodlands."
+msgstr ""
+"骨人不像你們那樣的 /RACENAME/ 一樣容易衰老, 但是我們依然有我們存在的界限. 超"
+"過界限後, 一些人開始抓狂, 一些人永遠的停止了運作, 這些預先都不會有什麼跡象. "
+"我感覺到我的時間不多了, 我的部件無法像年輕時那樣良好的工作了. 所以, 我來到了"
+"這裏, 在海神之地中孤單的退休, 也不會對其他人造成麻煩."
+
+#. Id: 49074-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49072-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49074-Dialogue.mod:0
+msgid "And you used to be an adventurer too?"
+msgstr "你以前也是一個冒險者麼?"
+
+#. Id: 49075-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49072-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49075-Dialogue.mod:0
+msgid "Thanks for the info, I'll check it out."
+msgstr "感謝你提供的這些信息, 我會注意的."
+
+#. Id: 49070-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49067-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49070-Dialogue.mod:0
+msgid "Well, thanks for the shelter, but I've no time for stories."
+msgstr "好吧, 謝謝提供庇護所. 但我沒有時間聽故事."
+
+#. Id: 49106-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49106-Dialogue.mod:0
+msgid "Of course. Come pay me a visit another time, traveller."
+msgstr "當然. 請再來拜訪我, 旅行者."
+
+#. Id: 49063-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49063-Dialogue.mod:0
+msgid "That's right. I'm searching for treasures."
+msgstr "沒錯. 我是來找寶藏的."
+
+#. Id: 49101-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49063-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49101-Dialogue.mod:0
+msgid ""
+"The Floodlands mostly attract the adventuring type, like you said, it’s full "
+"of lost treasures, so why wouldnt it? Anybody else of sane mind wouldn't "
+"risk the spider bots, they keep most of the more hostile trespassers at bay "
+"at least..."
+msgstr ""
+"海神之域最容易吸引冒險者前來, 就像你說的, 這裏有很多失落的寶藏, 但為什麼實際"
+"上沒有什麼人來呢? 因為大多數有理智的人都不會拿自己的生命去和蜘蛛機器人開玩"
+"笑, 蜘蛛也可以將很多敵人擋在外麵..."
+
+#. Id: 49064-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49064-Dialogue.mod:0
+msgid "So what if I am?"
+msgstr "那麼如果我是我會怎麼樣?"
+
+#. Id: 49107-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49107-Dialogue.mod:0
+msgid ""
+"Well, you see, if you're a raider or a bandit, I'll have to kill you before "
+"you destroy me first and take my tower. The spider bots keep most "
+"trespassers away, but now and then a couple of unwelcome ones seep through, "
+"understand?... So which is it?"
+msgstr ""
+"好吧, 你聽著, 如果你是一個強盜或者匪徒, 那麼我就不得不在你摧毀我和我的塔之前"
+"殺死你. 蜘蛛機器人讓大部分不受歡迎的人遠離這裏, 但是偶爾會有一些不受歡迎的東"
+"西溜進來, 明白了嗎?... 那麼你是什麼?"
+
+#. Id: 49108-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49107-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49108-Dialogue.mod:0
+msgid "Easy. I'm just a traveller passing through."
+msgstr "放鬆. 我隻是一個路過的旅行者."
+
+#. Id: 49120-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49108-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49120-Dialogue.mod:0
+msgid ""
+"As I thought. The Floodlands mostly attract the adventuring type, it’s full "
+"of lost treasures of course, so why wouldnt it? Anybody else of sane mind "
+"wouldn't risk the spider bots, they keep most of the more hostile "
+"trespassers at bay at least..."
+msgstr ""
+"就像我所想. 海神之域最容易吸引冒險者前來, 這裏有很多失落的寶藏, 但為什麼實際"
+"上沒有什麼人來呢? 因為大多數有理智的人都不會拿自己的生命去和蜘蛛機器人開玩"
+"笑, 蜘蛛也可以將很多敵人擋在外麵..."
+
+#. Id: 49109-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49107-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49109-Dialogue.mod:0
+msgid "Understood. I'm leaving."
+msgstr "明白了. 我準備離開了."
+
+#. Id: 49110-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49107-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49110-Dialogue.mod:0
+msgid "(Attack him)"
+msgstr "(攻擊他)"
+
+#. Id: 49112-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49112-Dialogue.mod:0
+msgid "You won't leave this tower alive."
+msgstr "你不會活著離開這座塔的."
+
+#. Id: 49115-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 49115-Dialogue.mod:0
+msgid "A traitor to your kind."
+msgstr "你這同胞叛徒."
+
+#. Id: 49065-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49065-Dialogue.mod:0
+msgid "... And who are you?"
+msgstr "....那麼你是誰?"
+
+#. Id: 49121-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49065-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#: 49121-Dialogue.mod:0
+msgid ""
+"A retired explorer. My frame is starting to seize, even Skeletons succumb to "
+"death at some point... the Floodlands seemed a good place to settle for my "
+"last years. Most people of sane mind wouldn't risk the spider bots, so they "
+"keep most of the more hostile trespassers at bay. I mainly just get the odd "
+"adventurer passing through."
+msgstr ""
+"一個退休的探險者. 我的骨架開始老化, 即使是骨人也會在某個時候死於死亡... 海神"
+"之域看起來是一個適合我最後幾年呆的庇護地, 因為大多數有理智的人都不會拿自己的"
+"生命去和蜘蛛機器人開玩笑, 蜘蛛也可以將很多我討厭的人擋在外麵. 我主要是幫助那"
+"些進來的冒險者."
+
+#. Id: 49124-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 49124-Dialogue.mod:0
+msgid "We meet again, traveller."
+msgstr "我們又見麵了, 旅行者."
+
+#. Id: 49126-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49124-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49126-Dialogue.mod:0
+msgid "Tell me about the Floodland treasures."
+msgstr "告訴我關於海神之域寶藏的事情."
+
+#. Id: 49127-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49124-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49127-Dialogue.mod:0
+msgid "You're an ex-adventurer, right? Do you ever miss travelling?"
+msgstr "你是個前冒險者, 對吧? 你不懷念旅行生活麼?"
+
+#. Id: 49128-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49124-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 49128-Dialogue.mod:0
+msgid "Nevermind, I don't have time to chat."
+msgstr "抱歉. 我沒有時間聊天."

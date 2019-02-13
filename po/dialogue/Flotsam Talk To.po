@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50967-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50967-Dialogue.mod:0
+msgid ""
+"Nowhere in this world is safe. People are either trying to burn us at the "
+"stake or they're trying to eat us alive... But at least the cannibals are "
+"good for one thing: Target practice."
+msgstr ""
+"現在這個世界沒有安全的地方. 其他人要麼是想燒死我們要麼是想吃掉我們... 不過至"
+"少食人族可以拿來練手."
+
+#. Id: 50968-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50967-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50968-Dialogue.mod:0
+msgid "That's not right, cannibals are people too, you know!"
+msgstr "那不完全對, 你要知道, 食人族也是一種人."
+
+#. Id: 50972-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50972-Dialogue.mod:0
+msgid ""
+"Sure of course they're people, they're people who try to eat me. To me, "
+"that's target practise. Anyway, you're here in my space, so I guess you want "
+"something, huh? Ask away, I've got nothing better to do 'til my next target "
+"drops by anyway..."
+msgstr ""
+"當然他們也是人, 他們是想吃掉我們的那種. 不過對我而言隻是練手的靶子. 話說你到"
+"我這裏來是有什麼事情吧, 沒錯吧? 隨便問吧, 在練習人偶過來之前都會很閑."
+
+#. Id: 50973-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: RELATIONS<85, Tag: -1
+#: 50973-Dialogue.mod:0
+msgid "Are you the leader of the Flotsam Ninjas?"
+msgstr "你是弗萊斯穆忍者的首領麼?"
+
+#. Id: 50978-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50978-Dialogue.mod:0
+msgid "Yeah."
+msgstr "是啊."
+
+#. Id: 50979-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50979-Dialogue.mod:0
+msgid "Uh... okay."
+msgstr "呃...好吧."
+
+#. Id: 50984-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#. Id: 50998-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (50996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50984-Dialogue.mod:0 50998-Dialogue.mod:0
+msgid "Next question."
+msgstr "下一個問題."
+
+#. Id: 50986-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50986-Dialogue.mod:0
+msgid "Nevermind, I'm done, thanks."
+msgstr "沒關係了, 我問完了, 謝謝."
+
+#. Id: 50980-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50980-Dialogue.mod:0
+msgid "Why set up base in a land of cannibals?"
+msgstr "為什麼在食人族的土地上設置據點?"
+
+#. Id: 50987-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50987-Dialogue.mod:0
+msgid ""
+"Because there's no Holy Nation here. No Empire. No slavers. The cannibals "
+"make a good deterrent anyway, not to mention they're mere insects compared "
+"to the Holy Nation. As long as we keep them under control, that is. My only "
+"one wish is that they'd learn how to wear pants."
+msgstr ""
+"因為神聖帝國不會把他們的手伸到這邊. 沒有貴族也沒有奴隸. 食人族可以起到很好的"
+"恐嚇作用, 而且對我們而言他們比聖國士兵弱不少, 隻要我們很好的栓住他們. 嘛 個人"
+"而言希望他們穿上褲子."
+
+#. Id: 51011-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51011-Dialogue.mod:0
+msgid "You're welcome. "
+msgstr "不客氣. "
+
+#. Id: 50982-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 50982-Dialogue.mod:0
+msgid "Then you die, wicked wench!"
+msgstr "那你死吧, 邪惡的女巫!"
+
+#. Id: 50974-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50974-Dialogue.mod:0
+msgid "Are you really in the cult of Narko?"
+msgstr "你真的信奉娜爾可的邪教麼?"
+
+#. Id: 50989-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50974-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50989-Dialogue.mod:0
+msgid ""
+"Hah! The cult of Narko? I guess you've been reading too much Holy Nation "
+"bullcrap, huh? There are hundreds of possible interpretations of a single "
+"religion, the Holy Nation's is just one of many, they only see black and "
+"white..."
+msgstr ""
+"哈! 娜爾可的邪教? 我覺得你被聖國度垃圾思想毒害太多了, 對嗎? 對一個宗教可以有"
+"數百種解釋, 聖國隻是保留了對自己有利的解釋, 說到底娜爾可隻是起源宗教的一個分"
+"支...."
+
+#. Id: 50990-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50990-Dialogue.mod:0
+msgid ""
+"Some of us are just unfortunate enough to be born evil in their eyes, some "
+"of us take that status a step further by fighting those ignorant labels. I "
+"could go off on a rant about religion, but I won't bore you..."
+msgstr ""
+"我們中的一些人不幸在他們眼中成為了邪惡的象征, 盡管他們隻是生來長的不一樣. 而"
+"另一些人為了這些不幸的人去戰鬥導致他們完全成為了邪惡的象征. 我其實不怎麼關係"
+"宗教,我可以不在宗教的問題上強行煩擾你.."
+
+#. Id: 50991-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50990-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50991-Dialogue.mod:0
+msgid "Please do."
+msgstr "請那麼做."
+
+#. Id: 50993-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50993-Dialogue.mod:0
+msgid ""
+"Most of my ninjas, the ones who escaped the Holy Lands, they still practise "
+"Okranism, but a different school of it. One where there is no good or evil, "
+"just birth and death. If you believe in Narko, check our outpost for "
+"scripts, you'll see there is no one 'right' view, only one of many possible "
+"views... But, of course, myself?... Well, I think it's ALL garbage, hah."
+msgstr ""
+"大部分這裏的成員都是從聖國逃離的被迫害者, 他們依然信奉奧克蘭, 但和聖國的教義"
+"並不相同. 那種沒有對人種好壞的劃分而隻有生與死教誨的那種. 如果你信奉娜爾可, "
+"看看我們前哨戰裏麵的手稿, 你會看到裏麵沒有所謂的邪惡與善良, 隻有多種對事物不"
+"同的觀點.. 不過當然, 對我來說... 所以的宗教都是又臭又長煩人的文字. 哈哈."
+
+#. Id: 50995-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50993-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 50995-Dialogue.mod:0
+msgid "Blasphemous whore!"
+msgstr "褻瀆的蕩婦!"
+
+#. Id: 50996-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50993-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50996-Dialogue.mod:0
+msgid "Agreed!"
+msgstr "同意!"
+
+#. Id: 50992-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50990-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50992-Dialogue.mod:0
+msgid "Please don't bore me."
+msgstr "那就不要煩擾我了."
+
+#. Id: 51001-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51001-Dialogue.mod:0
+msgid "Next question then."
+msgstr "那麼下一個問題."
+
+#. Id: 50994-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50990-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50994-Dialogue.mod:0
+msgid "Sounds like a yes to me! Die!"
+msgstr "對我來說是對的! 死吧!"
+
+#. Id: 50975-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 50975-Dialogue.mod:0
+msgid "Can I join the Flotsam Ninjas?"
+msgstr "我能加入弗萊斯穆忍者嗎?"
+
+#. Id: 51002-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51002-Dialogue.mod:0
+msgid ""
+"Well, in a world of fire happy religious zealots and flesh eating nudists, "
+"we can never have too many allies. Swear your allegiance to me and your "
+"defiance to the Phoenix, and I'll make sure my ninjas are always ready to "
+"protect you. Together, we can take down the Holy Nation."
+msgstr ""
+"當然, 在一個混亂的充滿宗教和猛獸世界裏麵, 多一些盟友對我們而言是很重要的. 對"
+"我們的盟約發誓, 幫助我們打敗菲尼克斯. 我會讓我的忍者幫助你. 讓我們一起拿下聖"
+"國吧."
+
+#. Id: 51003-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51002-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51003-Dialogue.mod:0
+msgid "I swear my allegiance to Flotsam (-75 Holy Nation relations)"
+msgstr "我對弗萊斯穆迪盟約發誓 (-75 神聖帝國關係)"
+
+#. Id: 51030-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51003-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51030-Dialogue.mod:0
+msgid ""
+"Okay, for now you're one of us... Now, go forth in your slaughter of Holy "
+"Nation lackeys! Spare the innocents, but show no mercy to the paladins, the "
+"priests and, more imporantly, that old cretin Lord Phoenix..."
+msgstr ""
+"好的, 現在你是我們的一員了.. 現在給聖國的雜種一些顏色看看! 饒恕無辜的人, 但不"
+"要對聖騎士 牧師 和其他無禮者有一點仁慈. 比如那老白癡菲尼克斯..."
+
+#. Id: 51032-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51030-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51032-Dialogue.mod:0
+msgid "Don't let me down, /BROTHER/."
+msgstr "不要讓我失望, /BROTHER/."
+
+#. Id: 51005-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51002-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51005-Dialogue.mod:0
+msgid "I swear my allegiance to the Phoenix! (-75 Flotsam relations)"
+msgstr "我永遠是菲尼克斯忠實的信徒! (-75弗萊斯穆關係)"
+
+#. Id: 51033-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51033-Dialogue.mod:0
+msgid ""
+"Make up your mind already! But now you know I've gotta kill you, right? "
+"Can't let you report my whereabouts back to the Phoenix now, can I?"
+msgstr ""
+"已經下定決心了? 那你就應該知道我現在不得不殺了你, 對吧? 畢竟我不能讓你把這裏"
+"報告給菲尼克斯."
+
+#. Id: 51006-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51002-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51006-Dialogue.mod:0
+msgid ""
+"On second thought, I'd rather not make enemies of one of the most powerful "
+"nations..."
+msgstr "又想了一下, 我還是不想成為大陸最強國家的敵人."
+
+#. Id: 51034-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51034-Dialogue.mod:0
+msgid ""
+"Understandable, I 'spose. Cowardly, but understandable. So, did you have any "
+"other questions?"
+msgstr "理解, 雖然懦弱但我可以理解, 恩 懦弱. 所以你還有什麼其他問題麼?"
+
+#. Id: 51035-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51034-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51035-Dialogue.mod:0
+msgid "One day, I'm going to make you regret calling me a coward."
+msgstr "有一天我會讓你後悔稱我為懦夫."
+
+#. Id: 50976-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50976-Dialogue.mod:0
+msgid "Will you join me as a worthy comrade?"
+msgstr "你想作為一個核心成員加入我嗎?"
+
+#. Id: 51007-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51007-Dialogue.mod:0
+msgid ""
+"Hah! Join you, huh? You know I have a whole army to run, right?... Next "
+"question."
+msgstr "哈? 加入你? 你要知道我有一個軍隊要管理, 明白麼? ... 下一個問題."
+
+#. Id: 51009-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51007-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51009-Dialogue.mod:0
+msgid "No?! You'll regret turning me down! I'll rule the world!"
+msgstr "拒絕?! 你會後悔這麼做的! 我可是要統治世界的人!"
+
+#. Id: 51010-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51010-Dialogue.mod:0
+msgid "Uhuh... Okay, crackpot, conversation's over."
+msgstr "呃... 好吧, 瘋子, 對話結束."
+
+#. Id: 50977-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 50977-Dialogue.mod:0
+msgid "Blasphemous scum! You abandoned the Phoenix!"
+msgstr "褻瀆的渣滓! 你拋棄了聖靈菲尼克斯!"
+
+#. Id: 50999-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 50999-Dialogue.mod:0
+msgid ""
+"Ah, a Holy Nation lackey, eh? How nice of you to come find me, I was getting "
+"bored of killing cannibals anyway!"
+msgstr "唔, 一個聖國的瘋子? 感謝你前來, 我正愁和食人族玩膩了呢!"
+
+#. Id: 51000-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51000-Dialogue.mod:0
+msgid "Feel the wrath of Narko, hahaha!"
+msgstr "感受娜爾可的憤怒, 哈哈哈!"
+
+#. Id: 50969-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50967-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 50969-Dialogue.mod:0
+msgid ""
+"Target practise is all fun and games 'til you find yourself boiling in a "
+"cooking pot..."
+msgstr "和人偶玩是很有趣的遊戲...直到你發現你自己在翻騰的烹飪鍋中洗澡....."
+
+#. Id: 51022-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51022-Dialogue.mod:0
+msgid ""
+"Well you're no fun, are you? They try stuffing me in a cooking pot and "
+"they're gonna find out that I bite back, hard. Anyway, you're here in my "
+"space, so I guess you want something, huh? Ask away, I've got nothing better "
+"to do 'til my next target drops by anyway..."
+msgstr ""
+"好吧你不覺得有趣, 對吧? 他們曾經嚐試把我扔到鍋裏麵但發現隻會被我反咬一口. 話"
+"說你到我這裏來是有什麼事情吧, 沒錯吧? 隨便問吧, 在有事之前都會很閑."
+
+#. Id: 51023-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51023-Dialogue.mod:0
+msgid "Actually, nevermind, I have nothing to ask."
+msgstr "實際上不要介意, 我沒有事情想問."
+
+#. Id: 51012-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51012-Dialogue.mod:0
+msgid ""
+"Anyway, you're here in my space, so I guess you want something, huh? Ask "
+"away, I've got nothing better to do 'til my next target drops by anyway..."
+msgstr "話說你到我這裏來是有什麼事情吧, 沒錯吧? 隨便問吧, 最近都會很閑."
+
+#. Id: 51024-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51012-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam Talk To
+#: 51024-Dialogue.mod:0
+msgid "No questions. I'm here to kill you... Moll."
+msgstr "沒有疑問了. 我是來殺死你的... 茉莉."
+
+#. Id: 51025-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51025-Dialogue.mod:0
+msgid ""
+"Here to kill me, huh? Lots of people TRY to kill me, they all blend into one "
+"after a while..."
+msgstr "哈? 來殺我? 很多人都嚐試過殺我, 不過那些人現在的都不存在了...哈哈.."
+
+#. Id: 51026-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51026-Dialogue.mod:0
+msgid "Let's see how YOU do, eh?"
+msgstr "呃, 讓我們看看你會怎麼做?"
+
+#. Id: 51048-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Target Race(s): Skeleton
+#: 51048-Dialogue.mod:0
+msgid ""
+"Here to kill me, huh? Had a lot of people try to kill me but never had a "
+"skeleton come for me..."
+msgstr "哈? 來殺我? 很多人都嚐試過殺我, 不過其中從來沒有過骨人.."
+
+#. Id: 51049-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#: 51049-Dialogue.mod:0
+msgid "Let's see how you do, huh?"
+msgstr "哈, 讓我們看看你會怎麼做?"
+
+#. Id: 51015-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam Talk To
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 51015-Dialogue.mod:0
+msgid "Back again? I guess you want something, huh? Ask away."
+msgstr "又回來了? 哈,看來你想從我這邊得到什麼? 說說看吧."
+
+#~ msgid "The truest words I ever did hear..."
+#~ msgstr "隻是我曾經聽過的最真實的話..."

@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-12-18 19:38+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50921-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50921-Dialogue.mod:0
+msgid ""
+"Keep loitering our aisles, /OUTLANDER/, and you'll end up trampled by sleep "
+"deprived scientists... What brings you to World's End University? Do you "
+"need something?"
+msgstr ""
+"繼續在我們的過道遊蕩, /OUTLANDER/, 那些徹夜不眠的科學家會蹂躪你的... 你來世界"
+"盡頭的大學幹嘛來的? 你需要些什麼嘛?"
+
+#. Id: 50924-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50924-Dialogue.mod:0
+msgid "Can you tell me about this place?"
+msgstr "能給我講講這個地方麼?"
+
+#. Id: 50929-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50929-Dialogue.mod:0
+msgid ""
+"Here we study and analyse lost tech from the ancient world, slowly but "
+"surely we're uncovering the secrets of our forgotten history. The problem is "
+"that most ruins have already been scavenged, making it difficult to develop "
+"accurate theories without solid evidence... "
+msgstr ""
+"我們在這裏研究和分析舊世界的遺落科技, 雖然緩慢, 可確實在揭示我們那段被遺忘的"
+"曆史中的秘密. 問題是大部分的遺跡都被盜掘了, 使得在沒有實物證明的情形下發掘出"
+"精準無誤的理論很困難... "
+
+#. Id: 50951-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50951-Dialogue.mod:0
+msgid ""
+"So, that's where our tech hunters come in. They scour the unexplored lands "
+"for any possible remains we can use in our research... If you're interested "
+"in adventuring, our stores pay good money for relics. Make sure you bring "
+"anything you find to us, okay?"
+msgstr ""
+"因此, 需要我們的科技獵人. 他們會為了任何可供我們研究的殘骸去搜索他人未經之"
+"地... 如果你喜愛冒險, 我們的商店會出高價購買古代遺物. 一定把任何你找到的東西"
+"帶給我們, 好嗎?"
+
+#. Id: 50939-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50939-Dialogue.mod:0
+msgid "Sure, I'll bear that in mind."
+msgstr "當然, 我會記得的."
+
+#. Id: 50945-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50945-Dialogue.mod:0
+msgid "Great. Now, if that's everything, I've got work to do..."
+msgstr "太好了. 現在, 如果沒有其他事情了, 我還有工作要做..."
+
+#. Id: 50940-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50940-Dialogue.mod:0
+msgid "Actually I'm no adventurer. But thanks for the info."
+msgstr "事實上我並不是冒險者. 但還是謝謝你提供的信息."
+
+#. Id: 50946-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50946-Dialogue.mod:0
+msgid "You're welcome. Now, if that's everything, I've got work to do..."
+msgstr "別客氣. 現在, 如果沒有其他事情了, 我還有工作要做..."
+
+#. Id: 50948-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50948-Dialogue.mod:0
+msgid ""
+"Here we study and analyse lost tech from the ancient world to uncover the "
+"secrets of our history. Most of the ruins have already been scavenged, "
+"making it difficult to develop accurate theories without solid evidence... "
+msgstr ""
+"我們在這裏研究和分析舊世界的遺落科技以此揭示我們曆史的秘密. 大部分的遺跡都被"
+"盜掘了, 使得在沒有實物證明的情形下發掘出精準無誤的理論很困難... "
+
+#. Id: 50952-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50952-Dialogue.mod:0
+msgid ""
+"So our tech hunters scour the unexplored lands for any possible remains we "
+"can use in our research, but most of it needs to go through me first... If "
+"you're an adventurer looking to sell relics, just make sure you bring them "
+"to our stores rather than elsewhere, okay?"
+msgstr ""
+"因此我們的科技獵人為了任何可供研究的殘骸去搜索未經之地, 不過大部分都需要經由"
+"我手... 如果你是個企圖販賣遺物的冒險者, 一定把它們帶來我們的商店而不是其他的"
+"地方, 好嗎?"
+
+#. Id: 50923-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50923-Dialogue.mod:0
+msgid "I had some questions about your work..."
+msgstr "我對你的工作有些疑問..."
+
+#. Id: 50926-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50926-Dialogue.mod:0
+msgid ""
+"Did you have something specific in mind? There's not a great deal of "
+"information I can enlighten you with that hasn't already been documented in "
+"our records..."
+msgstr ""
+"你還記著什麼特別的線索嗎? 鑒於我們的文庫裏沒有已經記錄在案的文檔, 我無法據此"
+"向你闡明更多的信息..."
+
+#. Id: 50927-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50927-Dialogue.mod:0
+msgid "Can you teach me about world history?"
+msgstr "可以給我講述一下世界的曆史麼?"
+
+#. Id: 50930-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50930-Dialogue.mod:0
+msgid ""
+"With all due respect, /OUTLANDER/, asking me to sum up the history of the "
+"world is not much different to asking a doctor to teach you medicine in ten "
+"minutes. On top of that, many scientists have different theories on events. "
+"I suggest you browse through our library if you're interested to know more."
+msgstr ""
+"恕我直言, /OUTLANDER/, 請我給你講述世界曆史無異於讓醫生在十分鍾內教你藥理. 再"
+"者, 不同的科學家對事物的理論闡述也不盡相同. 如果你想知道更多世界曆史, 我建議"
+"你瀏覽我們的圖書館."
+
+#. Id: 50943-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#. Id: 48795-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Barman
+#: 50943-Dialogue.mod:0 48795-Dialogue.mod:0
+msgid "Okay, thanks for the info."
+msgstr "好吧, 謝謝你的信息."
+
+#. Id: 50931-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50931-Dialogue.mod:0
+msgid "The Holy Nation talk of a First Extinction. What do you know of it?"
+msgstr "聖國那邊聽說的第一次滅絕. 你都知道些什麼?"
+
+#. Id: 50933-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50933-Dialogue.mod:0
+msgid ""
+"The First Extinction? I personally believe it to be a plague epidemic, but "
+"Mr Finch stands firmly by it being a 'freak tornado'. Whatever it was, it "
+"appears that the skeleton was better equipped to survive it. But, human "
+"nature is to scapegoat, in particular those that are different to them... "
+msgstr ""
+"第一次滅絕? 我個人認為那是一次瘟疫蔓延, 但是芬奇先生堅持認為是'巨大海嘯'. 不"
+"管是什麼導致的, 骨人顯然做好了生存的準備. 可是, 愛找替罪羊是人類的天性, 尤其"
+"是對那些與自己不同的種族... "
+
+#. Id: 50953-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50953-Dialogue.mod:0
+msgid ""
+"Our physical differences, in a time of panic and turmoil, only provoke "
+"further fear and clinging to ideas of blame. Hence the condemnation of my "
+"kind as playing a part in the downfall by the Holy Nation."
+msgstr ""
+"由於我們身體構造上的差異, 一段時間的慌亂和騷動, 隻會引發更進一步的恐懼和持續"
+"的指責. 因此聖國宣告我的種族有罪也算是帝國隕落的一部分."
+
+#. Id: 50932-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50932-Dialogue.mod:0
+msgid ""
+"You existed way back to the ancient times, right? Can't you remember "
+"anything?"
+msgstr "你從遠古時代存活至今, 對嗎? 你什麼都記不得麼?"
+
+#. Id: 50936-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50936-Dialogue.mod:0
+msgid ""
+"The memory of a skeleton is not as long lasting as our bodies, "
+"unfortunately. I don't even remember if I existed within the ancient race, "
+"or not. Trust me, it is highly frustrating for a theorist to have possibly "
+"existed at the very time period they are dedicated to investigating."
+msgstr ""
+"骨人的記憶並不像我們的身軀這樣長久, 這很不幸. 我甚至都不記得自己是不是在古老"
+"的種族內生活過. 相信我, 這對於一個致力於調查自己可能存在過的時代的理論工作者"
+"來說極其的沮喪."
+
+#. Id: 50934-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50934-Dialogue.mod:0
+msgid "What happened to the ancients? And how did we come to be?"
+msgstr "古人怎麼了? 我們如何形成的?"
+
+#. Id: 50935-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50935-Dialogue.mod:0
+msgid ""
+"Mr Finch believes all organics to be direct descendants of smaller tribes "
+"outside of the ancient society. And the ancients? We think they would have "
+"lived disconnected from the rest of the world, a deadly disease could have "
+"killed them off while leaving the skeletons and other tribes unnaffected. "
+"But, again, there are many different theories on how we all came to be..."
+msgstr ""
+"芬奇先生認為所有的有機生物都是遠古社會中外來部族的直係後代. 然後古人嘛? 我們"
+"認為他們與世隔絕地生活著, 一場致命的疾病把他們殺光了, 而骨人和其他部族沒有受"
+"到影響. 但是, 需要重申, 關於我們如何形成的有其他不同的理論..."
+
+#. Id: 50941-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 50941-Dialogue.mod:0
+msgid "Records? Where can I find these?"
+msgstr "記錄? 我可以在哪裏找到這些?"
+
+#. Id: 50942-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50942-Dialogue.mod:0
+msgid "Just take a look around the library. You'll find them."
+msgstr "隻要去看看圖書館. 你就會發現它們."
+
+#. Id: 53280-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Iyo University Dialogue
+#: 53280-Dialogue.mod:0
+msgid "Know where I can find any Ancient Science books?"
+msgstr "你知道我能去哪裏找些古代科技書籍嗎?"
+
+#. Id: 53281-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53280-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 53281-Dialogue.mod:0
+msgid ""
+"... You're an adventurer?... Forgive me, but freely passing out tips to our "
+"competition will land me in a great deal of trouble with Mr Finch. Try "
+"talking to the Tech Hunters over in the World's End bar."
+msgstr ""
+"... 如果你是個冒險者?... 請原諒, 隻是芬奇先生會因為我把這些消息免費分發給競爭"
+"對手而讓我受盡苦頭. 去跟世界盡頭酒吧的科技獵人談談吧."
+
+#. Id: 50928-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50928-Dialogue.mod:0
+msgid ""
+"Look, you don't need to worry... no one will ever know the truth. As long as "
+"I am Finch's second in command, I will see to that myself."
+msgstr ""
+"你看, 你沒必要擔心... 沒人會知道真相. 隻要我依舊是芬奇的二把手, 我就會自己解"
+"決問題."
+
+#. Id: 50950-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Iyo University Dialogue
+#: 50950-Dialogue.mod:0
+msgid "Let's not waste eachother's time with this act any more."
+msgstr "我們別再為此浪費彼此的時間了."
+
+#~ msgid "Nothing, nevermind."
+#~ msgstr "沒事, 別介意."

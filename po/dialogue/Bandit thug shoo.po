@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 13510-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#: 13510-Escapes.mod:0
+msgid "Who the fuck are you?"
+msgstr "你他媽的是誰？"
+
+#. Id: 13510-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#: 13510-Escapes.mod:2
+msgid "/WTF/ are you doing here?"
+msgstr "/WTF/ , 你在做什麼?"
+
+#. Id: 45583-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13510-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45583-Dialogue.mod:0
+msgid "/GETLOST/, move it!"
+msgstr "/GETLOST/, 走開!"
+
+#. Id: 45587-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45587-Dialogue.mod:0
+msgid "Shoulda done as you were told!"
+msgstr "應該像你說的那樣做!"
+
+#. Id: 45587-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (45583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45587-Dialogue.mod:1
+msgid "So it's a /BEATING/ you're after, eh?!"
+msgstr "所以接下來該揍你了麼, 嗯?!"
+
+#. Id: 45587-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (45583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit thug shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45587-Dialogue.mod:3
+msgid "I got no patience for intruders!"
+msgstr "我對入侵者沒有耐心!"
+
+#~ msgid "/WTF/..."
+#~ msgstr "/WTF/..."

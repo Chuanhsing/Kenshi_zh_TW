@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 10:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 1700-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1700-gamedata.base:0
+msgid "Dare you engage the might of Infinite Wingwang? Dare you?!"
+msgstr "你敢麵對永恒翼之王的力量嗎? 你敢嗎?!"
+
+#. Id: 1701-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1700-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1701-gamedata.base:0
+msgid "Sorry, I thought you were someone else."
+msgstr "對不起, 我把你當作其他人了."
+
+#. Id: 1702-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1700-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1702-gamedata.base:0
+msgid "What do you mean? You want a fight?"
+msgstr "你什麼意思? 你是想打架?"
+
+#. Id: 1703-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1702-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1703-gamedata.base:0
+msgid ""
+"Infinite Wingwang is for hire! So hire him! Leap on this rare and valuable "
+"opportunity you must!"
+msgstr "永恒翼之王正在尋找雇主! 所以雇了他吧! 這個難得又寶貴的機會你必須抓住!"
+
+#. Id: 1706-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (1704-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1706-gamedata.base:0
+msgid ""
+"Infinite Wingwang is no small purchase my feathered friend! Infinite "
+"Wingwang costs 100,000 Catan credits. No less!"
+msgstr ""
+"永恒翼之王可不是什麼廉價的工人, 我的長羽毛的朋友!無限之永恒翼之王要100,000 "
+"Cats. 不許砍價!"
+
+#. Id: 1707-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1707-gamedata.base:0
+msgid "Wow really? Sure I will hire you!"
+msgstr "哇真的? 我當然會雇你!"
+
+#. Id: 1725-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1707-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1725-gamedata.base:0
+msgid "Have you the hunndddrrred thouuuuusaaaannndddd?"
+msgstr "你有十...十十...萬萬萬...萬?"
+
+#. Id: 1727-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1725-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>100000
+#: 1727-gamedata.base:0
+msgid "Sure do! Take it!"
+msgstr "當然有! 拿著!"
+
+#. Id: 1729-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1727-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1729-gamedata.base:0
+msgid "Infinite Wingwang, is yours!"
+msgstr "永恒翼之王, 是你的人了!"
+
+#. Id: 1732-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (1729-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 1734-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (1713-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1732-gamedata.base:0 1734-gamedata.base:0
+msgid "[END]"
+msgstr "[結束]"
+
+#. Id: 1708-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1708-gamedata.base:0
+msgid "I'll give you 4000, and I'm changing your name."
+msgstr "我給你4000, 而且我要改掉你的名字."
+
+#. Id: 1709-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1708-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1709-gamedata.base:0
+msgid ""
+"Are you mad!? You can't just change Infinite Wingwangs name just like some "
+"kind of mad wizard!"
+msgstr "你瘋了嗎!? 你不能像瘋掉的巫婆一樣改永恒翼之王的名字!"
+
+#. Id: 1711-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1711-gamedata.base:0
+msgid "Um, 5000?"
+msgstr "呃, 5000?"
+
+#. Id: 1713-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1711-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000
+#: 1713-gamedata.base:0
+msgid ""
+"Deal! [He begins dancing on the spot like some kind of madman.  Everybody is "
+"staring]"
+msgstr "成交! [他開始像個瘋子一樣在原地跳起舞來. 所有人都在盯著他看]"
+
+#. Id: 1719-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1711-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1719-gamedata.base:0
+msgid "You cannot afford Infinite Wingwang. Infinite Wingwang is sad for you."
+msgstr "你付不起永恒翼之王要的錢. 永恒翼之王對你很失望."
+
+#. Id: 1712-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1712-gamedata.base:0
+msgid "Ok, 10,000."
+msgstr "好吧, 10,000."
+
+#. Id: 1715-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1709-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1715-gamedata.base:0
+msgid "Forget it then."
+msgstr "算了吧."
+
+#. Id: 1710-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1710-gamedata.base:0
+msgid "Pfft, get out of here."
+msgstr "呸, 給我出去."
+
+#. Id: 1720-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (1706-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1720-gamedata.base:0
+msgid "What!? I could get 10 Infinite Wingwangs for that!"
+msgstr "什麼!? 這麼多錢我都能找10個永恒翼之王了!"
+
+#. Id: 1721-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (1720-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1721-gamedata.base:0
+msgid ""
+"Fakes! You don't want 10 fake Infinite Wingwangs!  What on earth would you "
+"do with them?"
+msgstr ""
+"那一定是假貨! 你不會要10個假永恒翼之王的! 你覺得你和他們在一起能做什麼嗎?"
+
+#. Id: 1722-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1721-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#: 1722-gamedata.base:0
+msgid "Maybe I do."
+msgstr "也許我找得到呢."
+
+#. Id: 1723-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1722-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#: 1723-gamedata.base:0
+msgid "Very well, 10,000 cats. Hows that?"
+msgstr "很好, 10,000 cats. 如何?"
+
+#~ msgid "How much?"
+#~ msgstr "多少錢?"
+
+#~ msgid "Never!"
+#~ msgstr "絕不!"

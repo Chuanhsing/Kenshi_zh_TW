@@ -1,0 +1,986 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 17100-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17100-Dialogue.mod:0
+msgid "Watch your beasts, /BROTHER/..."
+msgstr "看好你的野獸, /BROTHER/..."
+
+#. Id: 17103-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17103-Dialogue.mod:0
+msgid ""
+"Any acts of heresy from them will not be tolerated. You'll be purged along "
+"with them, pure blood or not."
+msgstr ""
+"任何來自他們的異端行為都不會被容忍. 你會被和他們一起清除, 純血之外不接受."
+
+#. Id: 17103-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17103-Dialogue.mod:1
+msgid ""
+"The Holy Nation has strict laws on the control of non-humans, for the good "
+"and purity of Okran's children. Any trouble from them and you'll be punished "
+"alongside them."
+msgstr ""
+"神聖帝國對非人類的控製有嚴格的法律, 為奧克蘭的孩子們的善良和純潔著想. 他們所"
+"產生的任何麻煩, 你都會作為監護人受到連帶處罰."
+
+#. Id: 17104-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17104-Dialogue.mod:0
+msgid "Beasts?! They are my allies, not beasts!"
+msgstr "野獸?! 他們是我的朋友, 不是什麼野獸!"
+
+#. Id: 43313-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43313-Dialogue.mod:0
+msgid ""
+"Ignorant fool! The beasts are dark to the core, and they will corrupt you "
+"too. Obviously your devotion to Okran is weak, you can't be trusted to "
+"control your 'allies'. Surrender them to us for Rebirthing, the Holy Nation "
+"will take care of them now."
+msgstr ""
+"無知的傻瓜! 野獸是黑暗的根源, 他們也會腐敗你. 顯然,你對奧克蘭的熱愛不夠堅實, "
+"你不能很好的管理他們. 將他們交給我們進行重新安置, 聖國將照顧他們."
+
+#. Id: 43314-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43314-Dialogue.mod:0
+msgid "... Okay, I guess I have no choice (Surrender all non-humans)"
+msgstr "... 好吧, 我認為我別無選擇 (交出隊伍中所有非人類種族)"
+
+#. Id: 43317-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43317-Dialogue.mod:0
+msgid ""
+"This is a good start. But I've got my eye on you, faithless one. You haven't "
+"proved yourself to the Holy Nation yet."
+msgstr "這是一個好的開始. 但我有我的眼睛, 迷途的人. 你還沒有向聖國證明自己."
+
+#. Id: 43318-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43318-Dialogue.mod:0
+msgid "Harm my brothers and you'll be severely punished."
+msgstr "傷害我的兄弟, 你會受到嚴懲."
+
+#. Id: 43315-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43315-Dialogue.mod:0
+msgid "You seem to mistake me for someone who gives a dog shit about Okran"
+msgstr "你看起來把我和奧克蘭的狗屎弄混了"
+
+#. Id: 17136-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17136-Dialogue.mod:0
+msgid "Your pure human facade is apparently corrupted by darkness and sin."
+msgstr "你純潔外表顯然被黑暗和罪惡所侵蝕."
+
+#. Id: 17137-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17137-Dialogue.mod:0
+msgid "The heretics of the dark abyss are upon us! /SEIZE/ them!"
+msgstr "黑暗深淵的異端在我們周圍! /SEIZE/ 他們!"
+
+#. Id: 43316-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 43316-Dialogue.mod:0
+msgid ""
+"Ignorant woman! I suggest you stop flapping those unruly gums and divert "
+"your energies to prayer and repentance. In this city our women show respect "
+"to their holy brothers! Now, hand over your beasts for Rebirthing, an "
+"unpious one like you can't be trusted to control the dark creatures. The "
+"beasts are dark to the core, and they will corrupt you too."
+msgstr ""
+"無知的女人! 我建議你停止拍打那些不守規矩的嘴皮子, 並轉移你的精力去禱告和悔"
+"改. 在這個城市, 我們的婦女尊重他們的聖兄! 現在, 把你們的野獸交給我們, 像你這"
+"樣一個非常不幸的人無法控製那些黑暗的生物! 野獸是黑暗的根源, 他們也會腐化你."
+
+#. Id: 43319-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 17134-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43319-Dialogue.mod:0 17134-Dialogue.mod:0
+msgid "'Rebirthing'?"
+msgstr "'重生'?"
+
+#. Id: 43320-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43319-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43320-Dialogue.mod:0
+msgid ""
+"Still flapping those gums? I will have no more idle chattering from you. "
+"Show me your devotion to Okran, hand over you beasts, this is the last time "
+"I will ask you."
+msgstr ""
+"還在耍這些嘴皮子麼? 我不會再有空閑和你喋喋不休了. 告訴我你對奧克蘭的奉獻, 交"
+"出你的野獸, 這是我最後一次問你."
+
+#. Id: 43323-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43320-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43323-Dialogue.mod:0
+msgid "No. You're not taking my allies."
+msgstr "不. 你不能和我的朋友說話."
+
+#. Id: 43321-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43321-Dialogue.mod:0
+msgid "(Surrender all non-humans)"
+msgstr "(交出隊伍中所有非人類種族)"
+
+#. Id: 43324-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43321-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43324-Dialogue.mod:0
+msgid ""
+"This is a good start. But you have a long way to go to be accepted in our "
+"society. Show me your devotion to Okran and the Holy Phoenix Himself. Do not "
+"speak, I will hear nothing from your mouth."
+msgstr ""
+"這是一個好的開始. 但是, 在我們的社會, 你還有很長的路要走. 告訴我你對奧克蘭和"
+"聖靈菲尼克斯的奉獻. 不要用說的, 用你的行為來展現."
+
+#. Id: 43325-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43325-Dialogue.mod:0
+msgid "(Kneel and bow to the floor)"
+msgstr "(跪下鞠躬)"
+
+#. Id: 43326-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (43325-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43326-Dialogue.mod:0
+msgid "Go. I'll be watching you."
+msgstr "走吧, 我會監督你的."
+
+#. Id: 43322-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43316-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 43322-Dialogue.mod:0
+msgid "Hmph, you don't deserve my respect, /TINCAN/!"
+msgstr "Hmph, 你不值得我的尊重, /TINCAN/!"
+
+#. Id: 17147-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17147-Dialogue.mod:0
+msgid "How dare you backtalk me! Feisty harlot!"
+msgstr "你怎麼敢跟我這麼說 凶狠的蕩婦!"
+
+#. Id: 17149-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17149-Dialogue.mod:0
+msgid "The dark demoness /TAINT/s her! /SEIZE/ her!"
+msgstr "黑暗的惡魔 /TAINT/ 她! /SEIZE/ 她!"
+
+#. Id: 17105-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17105-Dialogue.mod:0
+msgid "No need to worry, they're just my slaves. Unholy gits."
+msgstr "沒有必要擔心, 他們隻是我的奴隸. 惡心的惡魔."
+
+#. Id: 17112-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17112-Dialogue.mod:0
+msgid "Silence, /GREASY/ woman! Did I ask you to speak?!"
+msgstr "安靜, /GREASY/ 女人! 我讓你說話了麼?!"
+
+#. Id: 17112-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17112-Dialogue.mod:1
+msgid "You will speak only when spoken to, temptress! Did I ask you to speak?!"
+msgstr "你隻有在該說的時候才能說話, 墮落者! 我讓你說話了麼?!"
+
+#. Id: 17120-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17120-Dialogue.mod:0
+msgid ""
+"Correct! Now stay in line and keep your trap SHUT! Last thing we need is /"
+"GREASY/ women trying to seduce our pure men folk with their temptress ways! "
+msgstr ""
+"正確! 現在停止你該死的詭辯! 現在 /GREASY/ 女人 嚐試用她們邪道的方式誘惑我們的"
+"純潔的弟兄! "
+
+#. Id: 17121-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17120-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17121-Dialogue.mod:0
+msgid "Go on through, get out of my sight!"
+msgstr "走吧, 滾出我的視線!"
+
+#. Id: 17118-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17115-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17118-Dialogue.mod:0
+msgid "Answer me when I speak to you, wretched woman!"
+msgstr "當我跟你說話的時候才能回答我, 可憐的女人!"
+
+#. Id: 17119-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17119-Dialogue.mod:0
+msgid "I'm so confused..."
+msgstr "我很困惑..."
+
+#. Id: 17123-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17119-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17123-Dialogue.mod:0
+msgid "Confused because the dark demoness /TAINT/s your harlot soul!"
+msgstr "困惑是因為邪惡 /TAINT/ 了你的靈魂!"
+
+#. Id: 17124-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17123-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17124-Dialogue.mod:0
+msgid "Arrest her! Take her to rebirth!"
+msgstr "逮捕她! 帶她去重生!"
+
+#. Id: 17127-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17127-Dialogue.mod:0
+msgid "I've forgotten the question..."
+msgstr "我已經忘記了你的問題..."
+
+#. Id: 17127-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17127-Dialogue.mod:1
+msgid "What was the question again?"
+msgstr "你問什麼來著?"
+
+#. Id: 17176-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17127-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17176-Dialogue.mod:0
+msgid ""
+"Just stay in line and keep your trap SHUT! Last thing we need is harlots "
+"trying to seduce our pure men folk with their temptress ways! "
+msgstr ""
+"停止你該死的詭辯! 現在 墮落者 嚐試用他們邪道的方式誘惑我們的純潔的弟兄! "
+
+#. Id: 17128-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17118-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17128-Dialogue.mod:0
+msgid "Seriously, I've had enough of this! (Punch him)"
+msgstr "煩死了, 我聽夠這些了! (撞開他)"
+
+#. Id: 17177-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17177-Dialogue.mod:0
+msgid "Guh!!"
+msgstr "Guh!!"
+
+#. Id: 17178-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17177-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17178-Dialogue.mod:0
+#, fuzzy
+msgid "The dark demoness /TAINT/s her! /SEIZE/ /HIM/!"
+msgstr "黑暗的惡魔 /TAINT/ 她! /SEIZE/ /HER/!"
+
+#. Id: 17116-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17116-Dialogue.mod:0
+msgid "... Am I allowed to answer?"
+msgstr "...我可以問問題了麼?"
+
+#. Id: 17122-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17116-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17122-Dialogue.mod:0
+msgid "I asked you a question didn't I?!"
+msgstr "我已經問你問題了!"
+
+#. Id: 17117-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17117-Dialogue.mod:0
+msgid "I'll speak all I want!"
+msgstr "我說所有我想的!"
+
+#. Id: 17180-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17117-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17180-Dialogue.mod:0
+msgid ""
+"/SEIZE/ her. She will only seduce our pure men folk with her frisky "
+"temptress ways..."
+msgstr "/SEIZE/她. 她隻會用狂熱的誘惑方式勾引我們純潔的人."
+
+#. Id: 17181-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17181-Dialogue.mod:0
+msgid "She will need cleansing in the school of Okran"
+msgstr "她需要在奧克蘭的學校進行清潔"
+
+#. Id: 17181-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (17180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17181-Dialogue.mod:1
+msgid "She will need rebirthing until she can behave with holiness and piety"
+msgstr "她將需要重生直到她能夠以聖潔和虔誠的方式行事"
+
+#. Id: 17131-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17105-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17131-Dialogue.mod:0
+msgid "Keep them under close watch... You're on holy soil now."
+msgstr "密切關注它們...你現在在聖地."
+
+#. Id: 17106-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17106-Dialogue.mod:0
+msgid "I understand, we won't make any trouble"
+msgstr "我明白了, 我們不會惹任何麻煩"
+
+#. Id: 17107-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17107-Dialogue.mod:0
+msgid "(Nod your head)"
+msgstr "(點你的頭)"
+
+#. Id: 17101-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 17101-Dialogue.mod:0
+msgid "You there, woman, watch your beasts..."
+msgstr "過來, 女人, 看好你的野獸..."
+
+#. Id: 17129-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17129-Dialogue.mod:0
+msgid ""
+"/GREASY/ heretics! Those beasts will not be allowed on holy soil without the "
+"watch of rebirth school..."
+msgstr "/GREASY/ 異教徒! 沒有經過重生的野獸不允許出現在我們的土地.."
+
+#. Id: 17130-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17130-Dialogue.mod:0
+msgid ""
+"Hand over your beasts for rebirthing, /BROTHER/. They'll be sent to serve "
+"the children of Okran and repent for their sinful nature..."
+msgstr ""
+"把你的野獸交給我們重生, /BROTHER/. 他們將被派去為奧克蘭的孩子服務, 為悔悟罪"
+"惡..."
+
+#. Id: 17139-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17139-Dialogue.mod:0
+msgid ""
+"A chance for the unpious heretics to start afresh, under the loving guidance "
+"and warmth of Lord Okran. They will study the holy teachings and live a life "
+"of servitude to the holy clergy. Relinquish your beasts, /BROTHER/, let them "
+"repent for their dark sins."
+msgstr ""
+"在奧克蘭閣下指導和溫暖下, 這個非凡的異端者有機會重新開始. 他們會研究聖潔的教"
+"義, 並作為聖神職人員的仆從服務人民."
+
+#. Id: 17141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17141-Dialogue.mod:0
+msgid "That doesn't sound so bad I suppose..."
+msgstr "這聽起來沒有那麼糟糕...."
+
+#. Id: 17144-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17144-Dialogue.mod:0
+msgid "To be rebirthed on sacred soil of the Holy Nation is a blessed fortune"
+msgstr "要在聖國的神聖土地上重生才能獲得幸福的財富"
+
+#. Id: 17145-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17145-Dialogue.mod:0
+msgid "Take care of them (Surrender all non-human squad members)"
+msgstr "照顧好他們 (交出隊伍中所有非人類種族)"
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:0
+msgid ""
+"The beasts will be cleansed and granted a blessed new life of piety and "
+"sanctity."
+msgstr "野獸將被淨化, 並獲得虔誠和神聖的祝福新生活."
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:1
+msgid ""
+"The beasts will live to serve a higher purpose for the cause of all that is "
+"light"
+msgstr "野獸將為一切光明崇高的事業服務"
+
+#. Id: 17155-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (17145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17155-Dialogue.mod:2
+msgid ""
+"Careful in your choice of allies in the future. The beasts have an unholy "
+"darkness which looms within their very essence..."
+msgstr "仔細選擇你將來的盟友. 野獸的本質中有黑暗成分..."
+
+#. Id: 17151-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17151-Dialogue.mod:0
+msgid "That's good and all, but I'd rather they stayed with me..."
+msgstr "聽起來不錯. 但我更喜歡他們和我一起.."
+
+#. Id: 17156-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17156-Dialogue.mod:0
+msgid ""
+"So you're a sympathiser of the heretics, outlander? Be you a darkened one in "
+"the guise of a pure child of Okran?... An... Agent Of Darkness in disguise?!"
+msgstr ""
+"所以你是異教徒的同情者? 你是一個墮落的人, 用一個純粹的奧克蘭來偽裝的"
+"嗎? ... ...偽裝的黑暗使者?"
+
+#. Id: 17156-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17156-Dialogue.mod:1
+msgid ""
+"So you're a sympathiser of the heretics, outlander? Be you a darkened one in "
+"the guise of a pure child of Okran?... Posessed by... robots?!"
+msgstr ""
+"所以你是異教徒的同情者? 你是一個墮落的人, 用一個純粹的奧克蘭來偽裝的"
+"嗎? ... ...被機器人驅使?!"
+
+#. Id: 17157-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17157-Dialogue.mod:0
+msgid "Of course not, here! (Surrender all non-human squad members)"
+msgstr "當然不, 給你! (交出隊伍中所有非人類種族)"
+
+#. Id: 17158-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17158-Dialogue.mod:0
+msgid "What the hell are you /TALKINGABOUT/ now?"
+msgstr "你現在在搞什麼 /TALKINGABOUT/?"
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:0
+msgid "I knew it! Agents Of Darkness!"
+msgstr "我就知道! 黑暗使者!"
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:1
+msgid "Blasphemy! /HEIS/ posessed by Skeletons!"
+msgstr "褻瀆者! /HEIS/ 被骨人驅使!"
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:2
+msgid "I knew it, /HEIS/ a robot!"
+msgstr "我就知道! /HEIS/ 機器人!"
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.3
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#. Id: 15544-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 17163-Dialogue.mod:3 15544-Dialogue.mod:8
+msgid "The darkened walk among us!"
+msgstr "黑暗降臨!"
+
+#. Id: 17163-Dialogue.mod
+#. -- Index: 9.4
+#. -- Parent line: 8 (17158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17163-Dialogue.mod:4
+msgid "Heresy! /HEIS/ posessed by robots!"
+msgstr "異端! /HEIS/ 被機器人控製!"
+
+#. Id: 17164-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (17163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17164-Dialogue.mod:1
+msgid "/BURNHIM/! The darkness must be purged!"
+msgstr "/BURNHIM/! 黑暗必須被淨化!"
+
+#. Id: 17164-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (17163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17164-Dialogue.mod:2
+msgid "Burn /HIM/! Smite /HIM/ in the name of lord Okran!"
+msgstr "燒死 /HIM/! 以奧克蘭之主之名懲罰 /HIM/ !"
+
+#. Id: 17161-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17161-Dialogue.mod:0
+msgid "What? No, I'm just a normal person!"
+msgstr "什麼? 不, 我隻是個普通人!"
+
+#. Id: 17167-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (17161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17167-Dialogue.mod:0
+msgid "Then surrender your beasts!"
+msgstr "趕快交出你的野獸!"
+
+#. Id: 17168-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17168-Dialogue.mod:0
+msgid "Run! (Make a run for it)"
+msgstr "跑! (開始逃命)"
+
+#. Id: 17152-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17152-Dialogue.mod:0
+msgid "I won't let you enslave my brethren!"
+msgstr "我不會讓你奴役我的弟兄!"
+
+#. Id: 17171-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (17152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17171-Dialogue.mod:0
+msgid ""
+"Mutinous /TERRORIST/! If you will not serve the cause of Okran, then you "
+"must be a servant of the darkness!"
+msgstr "背叛者 /TERRORIST/! 如果你不服事奧克蘭的事業, 那麼你一定是黑暗的仆人!"
+
+#. Id: 17162-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17162-Dialogue.mod:0
+msgid "I'm starting to get bored of your crap, /TINCAN/! (Punch them)"
+msgstr "我開始厭倦了你的廢話, /TINCAN/! (推開他們)"
+
+#. Id: 17162-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (17156-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17162-Dialogue.mod:1
+msgid "I'm starting to get bored of your jibber jabber, /TINCAN/! (Punch them)"
+msgstr "我開始厭倦了你的蠢話, /TINCAN/! (撞開他們)"
+
+#. Id: 17165-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (17162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17165-Dialogue.mod:1
+msgid "Grah!"
+msgstr "Grah!"
+
+#. Id: 17165-Dialogue.mod
+#. -- Index: 9.3
+#. -- Parent line: 8 (17162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17165-Dialogue.mod:3
+msgid "Oof!"
+msgstr "Oof!"
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:0
+msgid "Agents Of Darkness! /BURNHIM/!"
+msgstr "黑暗使者! /BURNHIM/!"
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:1
+msgid "The darkened walk among us! Burn them all!"
+msgstr "黑暗來臨了, 弟兄們! 燒死他們!"
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:2
+msgid "The darkened walk among us! The darkness must be purged!"
+msgstr "黑暗來臨了, 弟兄們! 必須淨化黑暗!"
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:3
+msgid "Skeletons! /BURNHIM/!"
+msgstr "骨人! /BURNHIM/!"
+
+#. Id: 17166-Dialogue.mod
+#. -- Index: 10.4
+#. -- Parent line: 9 (17165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17166-Dialogue.mod:4
+msgid "Robots! /BURNHIM/!"
+msgstr "機器人! /BURNHIM/!"
+
+#. Id: 17142-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17142-Dialogue.mod:0
+msgid "Kind of like monks?"
+msgstr "像僧侶一樣?"
+
+#. Id: 17150-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17142-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17150-Dialogue.mod:0
+msgid "Indeed, /BROTHER/, like monks of servitude"
+msgstr "事實上, /BROTHER/, 像僧侶一樣"
+
+#. Id: 17173-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17150-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17173-Dialogue.mod:0
+msgid "'Monks of servitude'? Smells like /DOG/ shit to me!"
+msgstr "'奴隸僧侶'? 聽起來像 /DOG/ 的排泄物一樣!"
+
+#. Id: 17140-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17140-Dialogue.mod:0
+msgid "So they will live as slaves..."
+msgstr "所以他們會活的像奴隸..."
+
+#. Id: 17146-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17146-Dialogue.mod:0
+msgid ""
+"Holy paladins of Okran do not enslave fellow beings! Such a hideous "
+"comparison... To be rebirthed on sacred soil in service of the superior holy "
+"ones is a blessing of righteous mercy for such ungodly beasts!"
+msgstr ""
+"奧克蘭的聖騎士不會奴役別人! 這樣是一個可怕的比較...重生為高潔事業奉獻的人而不"
+"是為了這樣邪惡的生物而同情的人吧!"
+
+#. Id: 17153-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17146-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17153-Dialogue.mod:0
+msgid "I've never heard so much bullshit!"
+msgstr "我從沒聽過如此瘋狂的話語!"
+
+#. Id: 17160-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17139-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17160-Dialogue.mod:0
+msgid "Heretics? So, not being born a human automatically makes somebody evil?"
+msgstr "異端? 人出生不就帶一些麼?"
+
+#. Id: 17169-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (17160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17169-Dialogue.mod:0
+msgid ""
+"The beasts were made in the image of darkness, not in the image of Okran as "
+"you and me. They have an unholy darkness which lingers deep within the "
+"bowels of their very soul..."
+msgstr "野獸是黑暗的象征, 人原本是沒有的. 野獸的根源無比黑暗, 生來如此..."
+
+#. Id: 17170-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17170-Dialogue.mod:0
+msgid ""
+"Yet.. you still sympathise with them, despite their /GREASY/ nature... Be "
+"you a darkened one in the guise of a pure child of Okran?... An... Agent Of "
+"Darkness in disguise?!"
+msgstr ""
+"然而, 你仍然同情他們, 盡管他們本性黑暗...你是一個墮落的人, 用一個純粹的奧克蘭"
+"來偽裝的嗎? ... ...偽裝的黑暗使者?"
+
+#. Id: 17135-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17135-Dialogue.mod:0
+msgid "I guess I don't have a choice (Surrender all non-human squad members)"
+msgstr "看來我別無選擇 (交出隊伍中所有非人類種族)"
+
+#. Id: 17133-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17130-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17133-Dialogue.mod:0
+msgid "What? No, I won't let you imprison my own allies!"
+msgstr "什麼? 不, 我不會讓你監禁我的朋友的!"
+
+#. Id: 17174-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17174-Dialogue.mod:0
+msgid ""
+"So your loyalty lies with the heretics before the Lord Okran... your piety "
+"is clear to me now, unholy one. You leave me no choice..."
+msgstr ""
+"所以你對奧克蘭的忠誠都是謊言... 我現在很清楚了, 墮落者. 你讓我別無選擇..."
+
+#. Id: 17182-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 17182-Dialogue.mod:0
+msgid ""
+"So your loyalty lies with the heretics before the Lord Okran... your piety "
+"is clear to me now, /TAINT/ed woman. You leave me no choice..."
+msgstr ""
+"所以你對奧克蘭的忠誠都是謊言... 我現在很清楚了, /TAINT/的女人. 你讓我別無選"
+"擇..."
+
+#~ msgid "... No?"
+#~ msgstr "...沒有麼?"
+
+#~ msgid "... Yes?"
+#~ msgstr "....是?"
+
+#~ msgid "Burn /HIM/!"
+#~ msgstr "燒死 /HIM/!"

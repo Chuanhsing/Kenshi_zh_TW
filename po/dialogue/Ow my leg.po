@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 7075-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7075-Dialogue.mod:0
+msgid "/OHSHIT/, my leg!"
+msgstr "/OHSHIT/, 我的腿!"
+
+#. Id: 7075-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7075-Dialogue.mod:1
+msgid "Oh god, my leg"
+msgstr "哦天, 我的腿"
+
+#. Id: 7077-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7077-Dialogue.mod:0
+msgid "/AAH/ my arm!"
+msgstr "/AAH/ 我的腿!"
+
+#. Id: 7077-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7077-Dialogue.mod:1
+msgid "Ouch, /GODDAMN/, my arm hurts"
+msgstr "痛, /GODDAMN/, 我的腿受傷了"
+
+#. Id: 7079-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7079-Dialogue.mod:0
+msgid "/TCH/, my head hurts"
+msgstr "/TCH/, 我的頭受傷了"
+
+#. Id: 7079-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ow my leg
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 7079-Dialogue.mod:1
+msgid "Ow, my head"
+msgstr "呃, 我的頭"

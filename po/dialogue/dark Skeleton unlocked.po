@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 47907-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 47907-Dialogue.mod:0
+msgid "Leave while you can."
+msgstr "當你可以的時候, 趕快離開."
+
+#. Id: 47907-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 47907-Dialogue.mod:1
+msgid "Get out while you can."
+msgstr "當你可以的時候, 趕快走."
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:0
+msgid "Save yourself, /RACENAME/, I'm not sticking around for your kind."
+msgstr "保護好你自己, /RACENAME/, 我不會困住你們."
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:1
+msgid "I'll escape on my own. A /RACENAME/ can't be trusted."
+msgstr "我會自己逃脫. /RACENAME/ 不值得信任."
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:2
+msgid "Rescued by a /RACENAME/, now I've seen everything."
+msgstr "被一個 /RACENAME/ 解救, 前所未有的體驗."
+
+#. Id: 47910-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: dark Skeleton unlocked
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47910-Dialogue.mod:3
+msgid "Save your own hide next time, /RACENAME/..."
+msgstr "下次藏好點 , /RACENAME/..."

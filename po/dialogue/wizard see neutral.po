@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:22+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50610-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 50610-rebirth.mod:0
+msgid "MEATWALKERS!"
+msgstr "會走的肉!"
+
+#. Id: 50610-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 50610-rebirth.mod:1
+msgid "MEATMEN!"
+msgstr "肉人!"
+
+#. Id: 50611-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50610-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#: 50611-rebirth.mod:0
+msgid "PROTECT GRAN' WIZARD!"
+msgstr "保護 大法師!"
+
+#. Id: 50612-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50610-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#. -- Condition: Target Race(s): Skeleton
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 50612-rebirth.mod:0
+msgid "ARGH! THE INEDIBLE ONE!!"
+msgstr "嗷! 不能吃的東西!"
+
+#. Id: 50615-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50614-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: wizard see neutral
+#: 50615-rebirth.mod:0
+msgid "The Inedible One returns!"
+msgstr "不能吃的東西回來了!"
+
+#. Id: 50615-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50614-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: wizard see neutral
+#: 50615-rebirth.mod:1
+msgid "Unedible One!"
+msgstr "不能吃的東西!"
+
+#. Id: 50616-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50615-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: wizard see neutral
+#: 50616-rebirth.mod:0
+msgid "Protec' the Gran' Wizard!"
+msgstr "保護 大 法師!"
+
+#. Id: 50617-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50616-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#: 50617-rebirth.mod:0
+msgid "The One Which Cannot Be Eaten!"
+msgstr "這個東西不能吃!"
+
+#. Id: 50618-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50610-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#. -- Condition: Target Race(s): Greenlander
+#: 50618-rebirth.mod:0
+msgid "'licious ones!"
+msgstr "美味的東西!"
+
+#. Id: 50620-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50619-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: wizard see neutral
+#: 50620-rebirth.mod:0
+msgid "Tasty ones!"
+msgstr "好吃的東西!"
+
+#. Id: 50622-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50621-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: wizard see neutral
+#: 50622-rebirth.mod:0
+msgid "Sooo good!"
+msgstr "好棒哦!"

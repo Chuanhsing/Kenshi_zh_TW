@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:0
+msgid "H-hey! It's you! I'll never forget that face! "
+msgstr ""
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:1 6866-Dialogue.mod:1
+msgid "W-wait a sec! I know you!"
+msgstr ""
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:2 6866-Dialogue.mod:2
+msgid "Hey! Hey, hello! How are you doing?"
+msgstr ""
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:3 6866-Dialogue.mod:3
+msgid "It's you! Hi!"
+msgstr ""
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:4 6866-Dialogue.mod:4
+msgid "Hi again, how are you?"
+msgstr ""
+
+#. Id: 6863-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6863-Dialogue.mod:5 6866-Dialogue.mod:5
+msgid "You!? I remember you!"
+msgstr ""
+
+#. Id: 6864-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6864-Dialogue.mod:0
+msgid "Remember me? You saved my life"
+msgstr ""
+
+#. Id: 6864-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6864-Dialogue.mod:1
+msgid "I don't know if you remember me but... you saved my life"
+msgstr ""
+
+#. Id: 6864-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6864-Dialogue.mod:2
+msgid "Do you remember me? You saved me!"
+msgstr ""
+
+#. Id: 6864-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6864-Dialogue.mod:3
+msgid "Recognize me? You saved my life..."
+msgstr ""
+
+#. Id: 6865-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
+#: 6865-Dialogue.mod:0
+msgid "Look, if you ever need anything, ANYTHING, I'm right here!"
+msgstr ""
+
+#. Id: 6865-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
+#: 6865-Dialogue.mod:1
+msgid "Just give me a shout if you ever need anything. I owe you"
+msgstr ""
+
+#. Id: 6865-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
+#: 6865-Dialogue.mod:2
+msgid "I'm right here if you ever need anything. Just say the word"
+msgstr ""
+
+#. Id: 6865-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
+#: 6865-Dialogue.mod:3
+msgid "If you ever need ANYTHING, just ask. I got your back"
+msgstr ""
+
+#. Id: 6881-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 6881-Dialogue.mod:0
+msgid "I just want to say thank you..."
+msgstr ""
+
+#. Id: 6881-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 6881-Dialogue.mod:1
+#, fuzzy
+msgid "You're a hero"
+msgstr "你會沒事的"
+
+#. Id: 6881-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 6881-Dialogue.mod:2
+msgid "Well, I just want to say.. thanks"
+msgstr ""
+
+#. Id: 6881-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 6881-Dialogue.mod:3
+msgid "You're my saviour"
+msgstr ""
+
+#. Id: 6881-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 6881-Dialogue.mod:4
+msgid "Thank you, thank you..."
+msgstr ""
+
+#. Id: 6883-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 6883-Dialogue.mod:0
+msgid "If it wasn't for you, I'd be dead right now"
+msgstr ""
+
+#. Id: 6883-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 6883-Dialogue.mod:1
+msgid "I hate to think where I'd be right now if it wasn't for you"
+msgstr ""
+
+#. Id: 6883-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 6883-Dialogue.mod:2
+msgid "If you hadn't come along when you did..."
+msgstr ""
+
+#. Id: 6883-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 6883-Dialogue.mod:3
+msgid "I'd be dead right now if you hadn't helped me"
+msgstr ""
+
+#. Id: 7111-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#: 7111-Dialogue.mod:0
+msgid "You know, I made some good trades after you rescued me"
+msgstr ""
+
+#. Id: 7114-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 7114-Dialogue.mod:0
+msgid "Here, have a cut. You deserve it"
+msgstr ""
+
+#. Id: 7114-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 7114-Dialogue.mod:1
+msgid "Here, have a share. I owe it to you"
+msgstr ""
+
+#. Id: 6866-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: FREED_ME
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 6866-Dialogue.mod:0
+msgid "H-hey! It's you! I'll never forget that face!"
+msgstr ""
+
+#. Id: 6867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6867-Dialogue.mod:0
+msgid "You're the one that freed me! Remember me?"
+msgstr ""
+
+#. Id: 6867-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6867-Dialogue.mod:1
+msgid "I don't know if you remember me but... you freed me from that cage"
+msgstr ""
+
+#. Id: 6867-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6867-Dialogue.mod:2
+msgid "Do you remember me? You set me free!"
+msgstr ""
+
+#. Id: 6867-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6867-Dialogue.mod:3
+msgid "Recognize me? You helped me escape!"
+msgstr ""
+
+#. Id: 6868-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_SHOULD_HELP_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#: 6868-Dialogue.mod:0
+msgid "He-hey, it's you! You okay? Let me help!"
+msgstr ""
+
+#. Id: 6868-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_SHOULD_HELP_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#: 6868-Dialogue.mod:1
+msgid "You! I'll help you!"
+msgstr ""
+
+#. Id: 6868-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_SHOULD_HELP_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#: 6868-Dialogue.mod:2
+msgid "You? Hang in there, I'll help!"
+msgstr ""
+
+#. Id: 6868-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_SHOULD_HELP_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
+#: 6868-Dialogue.mod:3
+msgid "Hey I'll help you fight these /BASTARD/s!"
+msgstr ""
+
+#. Id: 6873-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6873-Dialogue.mod:0
+msgid "You saved my ass once. Time for me to save your's"
+msgstr ""
+
+#. Id: 6873-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6873-Dialogue.mod:1
+#, fuzzy
+msgid "You saved my life before, time for me to return the favour"
+msgstr "你以前救過我. 我不能讓你死, 我欠你的"
+
+#. Id: 6873-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#: 6873-Dialogue.mod:2
+msgid "I'd be dead anyway if it wasn't for you"
+msgstr ""
+
+#~ msgid "You'll make it"
+#~ msgstr "你做到了"
+
+#~ msgid "I gotcha"
+#~ msgstr "我幫你來了"
+
+#~ msgid "Easy now"
+#~ msgstr "放鬆"
+
+#~ msgid "Here we go"
+#~ msgstr "我們來了"
+
+#~ msgid "Don't worry, I ain't gonna let you die"
+#~ msgstr "別擔心, 我不會讓你死的"
+
+#~ msgid "This is the least I can do after you saved MY life"
+#~ msgstr "至少你救我一條命後這是我該做的"
+
+#~ msgid "I know you, you saved my life once. I owe you this"
+#~ msgstr "我認識你, 你救過我的命. 這是我欠你的"
+
+#~ msgid "I owe you this. You save me once"
+#~ msgstr "我欠你的. 你曾救過我"
+
+#~ msgid "Call it a debt repayed"
+#~ msgstr "當這是還債了"
+
+#~ msgid "I'm repaying my debt to you, I owe it to you"
+#~ msgstr "我這是在還債, 我欠你的"
+
+#~ msgid "Now I've saved YOUR life, we can be even again"
+#~ msgstr "現在輪到我救你了, 我們又一次扯平了"
+
+#~ msgid "You helped me before. This makes us even"
+#~ msgstr "你以前幫過我. 這就算我們扯平了"

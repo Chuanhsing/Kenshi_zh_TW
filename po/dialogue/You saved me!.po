@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#. Id: 6910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6910-Dialogue.mod:0
+msgid ""
+"It's a pleasure to see you again, I hope that you're well. Anything I can do "
+"for you?"
+msgstr "很高興再見到你, 我希望你過得還好. 我能為你做什麼嗎?"
+
+#. Id: 6910-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6910-Dialogue.mod:1
+msgid "Good to see you again. Anything I can help you with?"
+msgstr "再見到你真好. 我能幫你做什麼嗎?"
+
+#. Id: 6911-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6911-Dialogue.mod:0
+msgid "/IMWERE/ broke, /IWE/ need money"
+msgstr "/IMWERE/ 破產了,  /IWE/ 需要點錢"
+
+#. Id: 96577-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 96577-Dialogue.mod:0
+msgid ""
+"Phew, you and me both, /BROTHER/... You and me both... I got 100 Cats, might "
+"get you a mouthful of grog?"
+msgstr ""
+"哇嗚, 我們倆, /BROTHER/... 我們倆... 我有100 Cats, 賞臉讓我買你一嘴酒喝吧?"
+
+#. Id: 6938-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6938-Dialogue.mod:0
+msgid "You really are useless aren't you?"
+msgstr "你這人是真的沒啥卵用啊, 是不是?"
+
+#. Id: 6943-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6943-Dialogue.mod:0
+msgid "Yes, I'm weak and poor. I'm sorry"
+msgstr "是的我又窮又弱, 我很抱歉"
+
+#. Id: 6945-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6943-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6945-Dialogue.mod:0
+msgid "Don't worry about it, it's okay"
+msgstr "別在意了, 我不在乎"
+
+#. Id: 96569-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6943-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 43144-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata spots assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Greenlander or Scorchlander
+#: 96569-Dialogue.mod:0 43144-Dialogue.mod:2
+msgid "/TCH/..."
+msgstr "/TCH/..."
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:0
+msgid ""
+"Hey, that's pretty cruel. I do pretty good massages. And I make a mean "
+"potato loaf too"
+msgstr "嘿, 太過分了. 我很擅長按摩推拿. 還能做一手很不錯的馬鈴薯麵包"
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:1
+msgid ""
+"Well that's a bit harsh. I mean I'm a pretty good butcher... even if I AM a "
+"peace loving /MISER/..."
+msgstr "那有點傷人了. 我這人雖然愛好和平... 但我確實是個不錯的屠夫 /MISER/..."
+
+#. Id: 9788-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9788-Dialogue.mod:2
+msgid ""
+"That seems a little harsh. You know, I'm a pretty good carpenter... even if "
+"I AM poor and useless in a fight..."
+msgstr "聽著略刺耳. 我這人雖然打架的時候很廢物... 但我木工技術很不錯..."
+
+#. Id: 6939-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96577-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6939-Dialogue.mod:0
+msgid "You know what, don't worry about it"
+msgstr "那啥, 這不是問題"
+
+#. Id: 6942-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6942-Dialogue.mod:0
+msgid "Sorry I couldn't help you out"
+msgstr "很抱歉我幫不了你"
+
+#. Id: 6947-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6947-Dialogue.mod:0
+msgid ""
+"Well, I have 200 Cats I was going to use some of it on food. But I guess you "
+"can have the whole lot if you need it"
+msgstr ""
+"那個, 我本想用我身上這200 Cats拿一些出來買點食物. 但是如果你需要的話我猜我這"
+"錢不妨都給你"
+
+#. Id: 6948-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6948-Dialogue.mod:0
+msgid "Give it to me"
+msgstr "把錢給我"
+
+#. Id: 6949-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6949-Dialogue.mod:0
+msgid "Forget about it"
+msgstr "不用了"
+
+#. Id: 6950-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6950-Dialogue.mod:0
+msgid "I'm sorry"
+msgstr "我很抱歉"
+
+#. Id: 6912-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6912-Dialogue.mod:0
+msgid "/IMWERE/ in trouble, can you come help /MEUS/?"
+msgstr "/IMWERE/ 有麻煩了, 您能幫幫 /MEUS/嗎?"
+
+#. Id: 6918-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6918-Dialogue.mod:0
+msgid "Uhhh, actually I don't really fight. I'm so sorry... anything else?"
+msgstr "呃, 實際上我不太會打架, 我很抱歉... 還有別的事嗎?"
+
+#. Id: 6918-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6918-Dialogue.mod:1
+msgid ""
+"Uhhh, actually I'm not really much of a fighter. I'd be completely useless "
+"to you... I'd probably just get killed by a newborn wolf puppy or something "
+"embarrassing. Anything else I can help you with instead?"
+msgstr ""
+"額, 我並不能稱得上是一名戰士. 我對你來說派不上大用場... 我去打架大概率會遇到"
+"被一隻剛出生的狼寶寶咬死或者其他更丟人的死法. 我能幫你幹點別的嗎?"
+
+#. Id: 6926-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6926-Dialogue.mod:0
+msgid "But you said ANYTHING. So what CAN you do for /MEUS/?"
+msgstr "但你說你願意為我幹'任何'事. 所以你能 /MEUS/?"
+
+#. Id: 6927-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6927-Dialogue.mod:0
+msgid "Umm, I guess I was hoping you wouldn't ask... Hm, I have money?"
+msgstr "額, 我猜我之前想不到你會這樣要求... 額, 我給錢?"
+
+#. Id: 6928-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6928-Dialogue.mod:0
+msgid "Forget it, you can keep your money thanks"
+msgstr "省省吧, 你可以留著你的錢不用謝"
+
+#. Id: 6930-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6930-Dialogue.mod:0
+msgid "Okay, I'm sorry I couldn't help you back"
+msgstr "好的, 很抱歉我沒法報答你"
+
+#. Id: 6929-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6929-Dialogue.mod:0
+msgid "/TCH/, how much?"
+msgstr "/TCH/, 多少錢?"
+
+#. Id: 96578-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 96578-Dialogue.mod:0
+msgid "[They dig through their pockets and pull out a sad handful of Cats]"
+msgstr "[他們奮力翻找著他們的口袋嘩啦出可憐的一點點錢]"
+
+#. Id: 6931-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6931-Dialogue.mod:0
+msgid "You useless /IDIOT/! You owe me your LIFE! Do as I say!"
+msgstr "沒用的 /IDIOT/! 你欠我你的命! 照我說的去做!"
+
+#. Id: 9791-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9791-Dialogue.mod:0
+msgid "No! Now leave me alone, please!"
+msgstr "不! 放過我吧, 求求您了!"
+
+#. Id: 96579-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 6924-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 96579-Dialogue.mod:0 6924-Dialogue.mod:0
+msgid "Uhhh... okay..."
+msgstr "呃... 好吧..."
+
+#. Id: 6920-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6920-Dialogue.mod:0
+msgid ""
+"Fight?! Me? Well you see uh, I'm not much of a fighter, that sounds like "
+"suicide! I was thinking or something a little less dangerous..."
+msgstr ""
+"戰鬥?! 我? 那個你懂的, 我壓根算不上一個戰士, 聽起來你是讓我去自殺! 我希望您能"
+"讓我做點不那麼危險的事情..."
+
+#. Id: 6922-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 6922-Dialogue.mod:0
+msgid "/QUICKLAUGH/, sounds like fun! Lead the way!"
+msgstr "/QUICKLAUGH/, 成! 帶路吧!"
+
+#. Id: 6925-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 6925-Dialogue.mod:0
+msgid "Fight? I don't know about that..."
+msgstr "戰鬥? 我對此一無所知..."
+
+#. Id: 6913-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6913-Dialogue.mod:0
+msgid "/IWE/ could use some extra manpower. Can you join /MEUS/?"
+msgstr "/IWE/ 能用得上更多人手, 要不你加入 /MEUS/?"
+
+#. Id: 6954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6954-Dialogue.mod:0
+msgid "Join you? Sounds kind of dangerous, what will you have me do?"
+msgstr "加入你? 聽起來很危險, 你要我做什麼?"
+
+#. Id: 6963-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6963-Dialogue.mod:0
+msgid "Don't worry nothing dangerous. Just a bit of labour"
+msgstr "別擔心不會有危險的, 隻是做個勞力"
+
+#. Id: 6965-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6965-Dialogue.mod:0
+msgid "Okay, as long as I don't have to fight anyone. I'm not good in combat"
+msgstr "好的, 隻要我再也不用擔心戰鬥, 我不太擅長作戰"
+
+#. Id: 6966-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6966-Dialogue.mod:0
+msgid "Okay then, let's go"
+msgstr "好的, 我們走"
+
+#. Id: 6968-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 53348-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53338-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 6968-Dialogue.mod:0 53348-Dialogue.mod:0
+msgid "I'll follow"
+msgstr "我會跟著你"
+
+#. Id: 6967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6967-Dialogue.mod:0
+msgid "On second thought, you might slow us down, don't worry"
+msgstr "想了想, 你更可能會托我們後腿, 別擔心"
+
+#. Id: 6964-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6964-Dialogue.mod:0
+msgid ""
+"There's always going to be danger. If you don't want to join, don't worry "
+"about it"
+msgstr "不能保證永遠安全, 如果你不想加入, 沒事的"
+
+#. Id: 6970-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6970-Dialogue.mod:0
+msgid ""
+"Okay, I'd best not join you. I'm sorry I can't help, I'm just not much of a "
+"fighter, I don't want to die. "
+msgstr ""
+"好的, 我最好還是別加入你了. 我很抱歉幫不上忙, 我並算不上戰士, 我不想死. "
+
+#. Id: 6971-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6970-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6971-Dialogue.mod:0
+msgid "Okay then, nevermind"
+msgstr "那好, 沒關係"
+
+#. Id: 6973-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6970-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6973-Dialogue.mod:0
+msgid "No, actually. /IWE/ saved your life, you owe /MEUS/ this"
+msgstr "不, 實際上. /IWE/ 救了你的命, 這是你欠 /MEUS/ 的"
+
+#. Id: 6974-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6974-Dialogue.mod:0
+msgid "What? Are you trying to force me to join you?"
+msgstr "啥? 你這是試圖強迫我假如你嗎?"
+
+#. Id: 6975-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6974-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6975-Dialogue.mod:0
+msgid "Yes. You need to repay your debt, don't weasel out of this"
+msgstr "是的, 你必須把欠債還清, 不要想蒙混過去"
+
+#. Id: 6978-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (6975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6978-Dialogue.mod:0
+msgid "Fine. I'll join you"
+msgstr "行吧. 我會加入你們"
+
+#. Id: 6980-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (6975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6980-Dialogue.mod:0
+msgid "No, I won't join you, leave me alone"
+msgstr "不, 我不想加入你們, 放過我吧"
+
+#. Id: 6976-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6974-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6976-Dialogue.mod:0
+msgid "Forget it. Got no space for /COWARD/s anyway"
+msgstr "當我沒說過, 我們反正沒地方給 /COWARD/s"
+
+#. Id: 6972-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6972-Dialogue.mod:0
+msgid ""
+"... I'll join you. I want to follow you, I want to learn. There's nothing "
+"here for me anyway, I NEED an opportunity like this"
+msgstr ""
+"... 我願意加入你們. 我想追隨你, 我想學. 我在這裏反正已經一無所有了, 我正需要"
+"這樣的機會"
+
+#. Id: 6983-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6983-Dialogue.mod:0
+msgid "Follow /MEUS/"
+msgstr "跟隨 /MEUS/"
+
+#. Id: 6958-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6958-Dialogue.mod:0
+msgid "Join you? I don't know about that, Look, I have a family here..."
+msgstr "加入你? 我一點都不想這樣, 你看, 我在這裏有個家..."
+
+#. Id: 6958-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6958-Dialogue.mod:1
+msgid ""
+"Join you? I don't know about that, Look, I have business to take care of "
+"here..."
+msgstr "加入你? 我一點都不樂意, 你看, 我在這有生意要做..."
+
+#. Id: 6984-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#. Id: 42250-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 6984-Dialogue.mod:0 42250-Dialogue.mod:0
+#, fuzzy
+msgid "Okay, nevermind then"
+msgstr "那好, 沒關係"
+
+#. Id: 6985-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6985-Dialogue.mod:0
+msgid "So what CAN you do for /MEUS/?"
+msgstr "所以你'能'為 /MEUS/做什麼?"
+
+#. Id: 6986-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6986-Dialogue.mod:0
+msgid "Umm... I have money?"
+msgstr "額... 我有點錢?"
+
+#. Id: 6961-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6961-Dialogue.mod:0
+msgid ""
+"Join you? Really?... hell, why not? I hate this place, and I'd be honored to "
+"follow you of all people... you're a hero! You'd really take a nobody like "
+"me under your wing?"
+msgstr ""
+"加入你? 真的?... 操, 為什麼不願意? 我恨這個地方, 我很榮幸加入你們... 你們就是"
+"英雄! 你真的願意接納我這樣的平凡人加入?"
+
+#. Id: 6987-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6961-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6987-Dialogue.mod:0
+msgid "Great, so it's agreed! Follow /MEUS/"
+msgstr "很好, 事情就這麼定了! 跟隨 /MEUS/"
+
+#. Id: 6988-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 6995-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 8954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. Id: 7242-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. Id: 7250-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7249-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 6988-Dialogue.mod:0 6995-Dialogue.mod:0 8954-Dialogue.mod:0
+#: 7242-Dialogue.mod:0 7250-Dialogue.mod:0
+msgid "Lead the way"
+msgstr "帶路吧"
+
+#. Id: 6914-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6914-Dialogue.mod:0
+msgid ""
+"My saviour, it's good to see you again! Need someone to watch your back, "
+"help you out with anything? I owe you my life afterall"
+msgstr ""
+"我的救命恩人, 很高興再見到您! 需要有人幫您關注背後, 幫你做任何事情? 我畢竟欠"
+"您整條命"
+
+#. Id: 6914-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 6914-Dialogue.mod:1
+msgid ""
+"It's good to see my rescuer again! How goes your travels? Need a hand with "
+"anything, someone to watch your back? You saved my life once, the least I "
+"can do is return the favour"
+msgstr ""
+"真高興又見到了拯救我的人! 你的旅途順利嗎? 需要有人照顧你,幫你處理任何事情嗎? "
+"你曾經救了我的命, 至少讓我做點我能做的回報恩情"
+
+#. Id: 6990-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6990-Dialogue.mod:0
+msgid ""
+"Actually I could use your help. Can you come follow /MEUS/ for a second?"
+msgstr "實際上我確實用得著你的幫助. 你能過來跟隨 /MEUS/ 一會嗎?"
+
+#. Id: 6992-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6992-Dialogue.mod:0
+msgid "Of course I can, /BROTHER/, lead the way"
+msgstr "當然可以,  /BROTHER/, 帶路"
+
+#. Id: 6991-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6991-Dialogue.mod:0
+msgid "Actually yes. Want to join /MEUS/?"
+msgstr "呃好的, 想加入 /MEUS/?"
+
+#. Id: 6993-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6993-Dialogue.mod:0
+msgid "Anything for you, /BROTHER/. I have your back"
+msgstr "你說啥就是啥, /BROTHER/. 有我支持你"
+
+#. Id: 6993-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 6993-Dialogue.mod:1
+msgid "Anything for you, /FRIEND/. I have your back"
+msgstr "你說啥就是啥, /FRIEND/. 有我支持你"
+
+#. Id: 6994-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6993-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 6994-Dialogue.mod:0
+msgid "Okay let's go"
+msgstr "好的我們走"
+
+#. Id: 9786-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 9786-Dialogue.mod:0
+msgid "Thank you. But no need to owe /MEUS/ anything"
+msgstr "謝謝你, 但是你沒必要覺得欠 /MEUS/ 任何東西"
+
+#. Id: 9787-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9786-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#: 9787-Dialogue.mod:0
+msgid "You're a good /MAN/. Take care of yourself, /BROTHER/"
+msgstr "你真是個好 /MAN/. 保重, /BROTHER/"
+
+#. Id: 6916-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#: 6916-Dialogue.mod:0
+msgid ""
+"It's good to see you again, brave warrior. Can I help you out with anything? "
+"Need me to come fight for you? I owe you my life afterall"
+msgstr ""
+"很高興再見到你, 勇猛的戰士. 我能幫你做什麼嗎? 需要我來為你而戰嗎? 我畢竟欠你"
+"一條命"
+
+#. Id: 6916-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#: 6916-Dialogue.mod:1
+msgid ""
+"A great champion in the making! It's good to see you again, /BROTHER/. Can I "
+"aid you with anything? Need me to come fight for you? Least I can do is "
+"repay you with my life"
+msgstr ""
+"未來的偉大戰士! 很高興又見到了你,  /BROTHER/. 我能幫你做什麼嗎? 需要我加入你"
+"為你而戰嗎? 至少我能用我這一生來回報你"
+
+#~ msgid "See ya"
+#~ msgstr "再見"
+
+#~ msgid "Nevermind then..."
+#~ msgstr "沒關係..."
+
+#~ msgid "Okay"
+#~ msgstr "好的"

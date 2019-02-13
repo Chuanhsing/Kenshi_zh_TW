@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#. Id: 62620-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62620-Dialogue.mod:0
+msgid ""
+"I'm looking for a place to settle. Somewhere free from nobles, free from "
+"gang wars... Are you accepting new citizens? I can work for my keep, could "
+"use a change from wandering."
+msgstr ""
+"我想找個地方安定下來. 沒有那些貴族, 沒有幫派鬥爭的地方... 你們接收新市民嗎? "
+"我可以用勞動換取我的居住權, 不想再流浪了."
+
+#. Id: 62620-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62620-Dialogue.mod:1
+msgid ""
+"I'm looking to start over. Left my hometown with nothing but a sack of "
+"rations and the clothes on my back. Can I join your party?"
+msgstr "我想重新做人. 隻帶了點幹糧和衣物就離開了家鄉. 我能加入你們嗎?"
+
+#. Id: 62623-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62620-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wanderer asks to join base
+#: 62623-Dialogue.mod:0
+msgid "Sure, welcome aboard."
+msgstr "當然, 歡迎加入."
+
+#. Id: 62626-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62623-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62626-Dialogue.mod:0
+msgid "/GREAT/, I'll make myself useful, I promise you that..."
+msgstr "/GREAT/, 我會讓自己變得有用的, 我向你保證..."
+
+#. Id: 62627-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62627-Dialogue.mod:0
+msgid "To a new start!"
+msgstr "重新做人啦!"
+
+#. Id: 62627-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (62626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62627-Dialogue.mod:1
+msgid "Cheers to a fresh start..."
+msgstr "為新的開始歡呼..."
+
+#. Id: 62627-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (62626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62627-Dialogue.mod:2
+msgid "Place looks cosy..."
+msgstr "地方看著不錯..."
+
+#. Id: 62627-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (62626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62627-Dialogue.mod:3
+msgid "Get many bandits out here?"
+msgstr "帶了不少土匪到這裏?"
+
+#. Id: 62627-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (62626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62627-Dialogue.mod:4
+msgid "Beats living in the city, hands down..."
+msgstr "你最好住城裏, 那更輕鬆..."
+
+#. Id: 62624-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62620-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wanderer asks to join base
+#: 62624-Dialogue.mod:0
+msgid "Sorry, you'll have to find somewhere else."
+msgstr "對不住, 你隻能找個別的地方."
+
+#. Id: 62630-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62629-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#: 62630-Dialogue.mod:0
+msgid "Back to drifting for me."
+msgstr "給我回去流浪去."
+
+#. Id: 62621-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 62621-Dialogue.mod:0
+msgid ""
+"I heard of this new town that popped up out in the outlands away from the "
+"paladins and samurai. So I packed my bags and snuck out in the night while "
+"my brother slept. A fresh start... Will you take me in?"
+msgstr ""
+"我聽說原理聖騎士和武士的國外出現了一座新鎮子. 所以我夜裏趁我兄弟睡著打包好就"
+"溜出來了. 一個嶄新的開始... 算我一個?"
+
+#. Id: 62621-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wanderer asks to join base
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 62621-Dialogue.mod:1
+msgid ""
+"So, this place really exists... A town free from the Phoenix' rule, free "
+"from the desert's corruption... I left my life behind when I heard about it, "
+"I couldn't stay in that city any longer. Are you accepting new residents?"
+msgstr ""
+"原來, 這地方真的存在... 一個遠離菲尼克斯統治, 遠離沙漠侵蝕的新鎮... 我一聽說"
+"這地方就把一切拋下了, 我在以前的城市裏再也呆不下去了. 你們接收新居民嗎?"

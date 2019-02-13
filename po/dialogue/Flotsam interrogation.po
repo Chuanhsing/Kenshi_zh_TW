@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 49789-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Flotsam Ninjas
+#: 49789-Dialogue.mod:0
+msgid ""
+"Stop right there, 'brother'... My comrades have you surrounded and they're "
+"ready to kill, you're heavily outnumbered, so I suggest you co-operate. Tell "
+"me who you are."
+msgstr ""
+"停下, '兄弟'... 我的人已經包圍你們了, 他們的數量遠遠多於你們, 請不要輕舉妄"
+"動, 否則我們會馬上殺死你們. 我建議你配合我的詢問. 現在, 告訴我你是誰."
+
+#. Id: 49790-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49789-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49790-Dialogue.mod:0
+msgid "What's with the third degree?"
+msgstr "這是在威脅麼?"
+
+#. Id: 49795-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49795-Dialogue.mod:0
+msgid "I'm the one asking the questions. Last warning. Speak."
+msgstr "我才是問問題的人. 最後一次警告. 回答我的問題."
+
+#. Id: 49797-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49795-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49797-Dialogue.mod:0
+msgid "Big talk for a little lady. Then humour me, I dare you to try me."
+msgstr "一個說大話的小女孩. 笑死我了, 有本事你就來啊."
+
+#. Id: 49832-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49832-Dialogue.mod:0
+msgid ""
+"Ha! The arrogance of a man never ceases to amaze me! Only a fool "
+"underestimates /HIS/ enemy..."
+msgstr "哈! 傲慢的人永遠都不會讓我感到無聊! 隻有傻子才會低估 /HIS/ 敵人..."
+
+#. Id: 49833-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49833-Dialogue.mod:0
+msgid "Kill /HIM/. We can't let /HIM/ reveal our location."
+msgstr "殺了 /HIM/. 我們不能讓 /HIM/ 報告我們的位置."
+
+#. Id: 49834-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49805-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49834-Dialogue.mod:0
+msgid ""
+"I don't believe in killing unless it's absolutely necessary. But the lives "
+"of the many outweigh the lives of the few, and you're a risk to my comrades."
+msgstr ""
+"除非有必要, 否則我絕對不會殺人. 對於少數危險分子而言, 其他多數人的生命更重"
+"要, 而你對我們而言是個危險."
+
+#. Id: 49835-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49834-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49835-Dialogue.mod:0
+msgid "Don't say I didn't warn you."
+msgstr "別說我沒有警告過你."
+
+#. Id: 49791-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49789-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49791-Dialogue.mod:0
+msgid "I'm just an adventurer. I don't want any trouble here."
+msgstr "我隻是一個冒險者. 我不會在這裏惹麻煩的."
+
+#. Id: 49798-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49798-Dialogue.mod:0
+msgid ""
+"Well, adventurer, you're trespassing on private land. Guess you discovered "
+"the wrong place at the wrong time, see we're not too keen on people knowing "
+"our business here. So, give me one reason why I should let you live."
+msgstr ""
+"好吧, 冒險者, 你現在侵入了一個私人領地. 看起來你在錯誤的時間探索了錯誤的地"
+"點, 我們不想讓太多人知道我們在這裏. 所以, 給我一個放你走的理由."
+
+#. Id: 49799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49798-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49799-Dialogue.mod:0
+msgid "Because trying to kill /MEUS/ would be suicide."
+msgstr "因為嚐試殺死 /MEUS/ 和自殺無異."
+
+#. Id: 49822-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49822-Dialogue.mod:0
+msgid ""
+"Only a fool underestimates his enemy. The lives of the many outweigh the "
+"lives of the few. I can't risk letting you give our position away to the "
+"enemy... "
+msgstr ""
+"隻有傻子才會低估他的敵人. 多數人比少數人的生命更重要. 我不能冒你把這裏位置透"
+"露給我們敵人的風險.... "
+
+#. Id: 49823-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49822-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49823-Dialogue.mod:0
+msgid "Women, kill /HIM/."
+msgstr "姐妹們, 殺了 /HIM/."
+
+#. Id: 49824-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49824-Dialogue.mod:0
+msgid ""
+"Wait! I have allies that know I'm here. You kill me, they'll come looking "
+"for me."
+msgstr "等等! 我還有同伴在等著我回去. 你殺了我他們就會過來找我."
+
+#. Id: 49826-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49826-Dialogue.mod:0
+msgid ""
+"Kch!... Well, you look filthy enough to truly be an adventurer anyway. But "
+"you're not completely off the hook just yet... Swear on the Phoenix, swear "
+"on your god that you are what you say you are, that you aren't just some "
+"lackey of the Holy Nation."
+msgstr ""
+"唔! 好吧, 你看起來是真的專業冒險者. 但還是有點不夠謹慎... 對菲尼克斯發誓, 對"
+"你的信仰發誓你所說屬實, 而不是那種聖國的雜碎走狗."
+
+#. Id: 49825-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49825-Dialogue.mod:0
+msgid "If you're going to kill me, make it quick already."
+msgstr "如果你想殺我, 就利落點."
+
+#. Id: 49800-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49798-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49800-Dialogue.mod:0
+msgid "/IWE/ have supplies. Food, med kits, weapons..."
+msgstr "/IWE/ 有補給,食物,醫療物品,以及武器..."
+
+#. Id: 49803-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49803-Dialogue.mod:0
+msgid ""
+"... Lucky for you we're running low on stocks at the moment, courtesy of the "
+"local cannibal hordes killing off our regular suppliers. You'll find trade "
+"points inside the village, do your business and leave. But last of all, "
+"before I let you go just yet, I need you to prove you're no Okranite lackey. "
+"Swear on the Phoenix, swear on your god that you are what you say you are. "
+"Swear to me that you are here for trade, and trade alone."
+msgstr ""
+"...你很幸運, \"多虧了\"食人族襲擊我們的補給隊, 我們現在物資緊缺. 你會在村子裏"
+"麵找到能和你交易的人, 做完生意馬上離開. 但再我讓你進去之前, 你得證明你不是聖"
+"國的走狗. 對你的聖靈發誓你所言屬實. 對我發誓你是單獨來交易的."
+
+#. Id: 49806-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49806-Dialogue.mod:0
+msgid "I swear to Okran, on Phoenix' life, I mean no harm."
+msgstr "我以我的性命對奧克蘭的聖靈發誓, 我沒有惡意."
+
+#. Id: 49809-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49806-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49809-Dialogue.mod:0
+msgid ""
+"... Okay. I'll be watching you closely while you're in the my neck of the "
+"forest, got it?"
+msgstr ""
+"...好吧. 在我的地盤時我會緊緊的盯著你, 就像刀架在你的脖子上一樣, 明白了麼?"
+
+#. Id: 49810-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49810-Dialogue.mod:0
+msgid "Thanks I guess. What is this place anyway?"
+msgstr "總之多謝了. 這到底是個什麼地方?"
+
+#. Id: 49813-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49813-Dialogue.mod:0
+msgid ""
+"The less you know, the better. Forgive me if I'm not overly talkative around "
+"strange men."
+msgstr "你知道的越少越好. 抱歉我不喜歡和陌生人套近乎."
+
+#. Id: 49820-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49820-Dialogue.mod:0
+msgid "We're done talking here. Watch yourself, I'll be keeping my eye on you."
+msgstr "你該知道的我都告訴你了. 管好你自己, 我會一直盯著你的."
+
+#. Id: 49811-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49811-Dialogue.mod:0
+msgid "Sure, loud and clear."
+msgstr "當然, 我已經充分理解你的警告了."
+
+#. Id: 49812-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49812-Dialogue.mod:0
+msgid "Whatever you gotta do."
+msgstr "無論你要我做什麼我都會照做的."
+
+#. Id: 49807-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 49843-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49841-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 43690-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43685-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 1714-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (1712-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Wingwang
+#. Id: 5195-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (5193-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 49807-Dialogue.mod:0 49843-Dialogue.mod:0 43690-Dialogue.mod:0
+#: 1714-gamedata.base:0 5195-gamedata.base:3
+msgid "Never!"
+msgstr ""
+
+#. Id: 49831-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49831-Dialogue.mod:0
+msgid ""
+"Poor predictable Okranite, in the end, your god is your biggest weakness... "
+"Well, the lives of the many outweigh the lives of the few and I can't let "
+"you reveal our whereabouts to the Holy Nation."
+msgstr ""
+"可憐的奧克蘭走狗, 最後你的信仰是你最大的弱點... 好吧為了防止你暴露我們的位置"
+"危害我的同伴, 請你去死吧."
+
+#. Id: 53580-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 53580-rebirth.mod:0
+msgid "Okran is no god of mine."
+msgstr "我不信奉奧克蘭."
+
+#. Id: 53581-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53580-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 53581-rebirth.mod:0
+msgid "Hmm... That will do, I guess"
+msgstr "嗯...這樣, 那就沒關係了."
+
+#. Id: 49801-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49798-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49801-Dialogue.mod:0
+msgid "I'm a doctor. I can help tend to your wounded."
+msgstr "我是一名醫生. 我能幫助你治療傷口."
+
+#. Id: 49802-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49802-Dialogue.mod:0
+msgid ""
+"We have plenty of first aiders here already... Whether you've got a good "
+"stock of medkits though, now that's another story.  But last of all, before "
+"I let you go just yet, I need you to prove you're no Okranite lackey. Swear "
+"on the Phoenix, swear on your god that you are truly what you say you are..."
+msgstr ""
+"我們已經有很多醫療人員了... 要是你有好的藥品也不錯, 不過那是另外一件事了. 但"
+"再我讓你進去之前, 你得證明你不是聖國的走狗. 對你的聖靈發誓你所言屬實...."
+
+#. Id: 49792-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49789-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49792-Dialogue.mod:0
+msgid "I don't think that's any of your business, lady."
+msgstr "我不認為這和你有任何關係, 女士."
+
+#. Id: 49804-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49804-Dialogue.mod:0
+msgid ""
+"It's my business when you're a risk to each and every one of my comrades. "
+"Don't make me kill you, wise guy. Last warning. Speak."
+msgstr ""
+"當你對我的同伴造成危險時就與我有關了. 別讓我不得不殺死你, 小滑頭. 最後一次警"
+"告. 回答我的問題."
+
+#. Id: 49793-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49789-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49793-Dialogue.mod:0
+msgid "Just a Holy Nation Okranite on a pilgrimage, m'lady."
+msgstr "隻是一名聖國的奧克蘭信徒, 我的女士."
+
+#. Id: 49827-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49793-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49827-Dialogue.mod:0
+msgid ""
+"Okranite?!... The lives of the many outweigh the lives of the few. I can't "
+"let you reveal our whereabouts to the Holy Nation."
+msgstr "聖國奧克蘭信徒?! ... 為了我的同伴我不能讓你把這裏報告回聖國."
+
+#. Id: 49794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49789-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49794-Dialogue.mod:0
+msgid "I'm a merchant, I'm looking to sell some supplies."
+msgstr "我是一名商人, 來賣東西的."
+
+#. Id: 49830-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49830-Dialogue.mod:0
+msgid ""
+"A merchant, huh?... Lucky for you we're running low on stocks at the moment, "
+"courtesy of the cannibal hordes killing off our regular suppliers. You''ll "
+"find trade points inside the village, do your business and leave. But before "
+"I let you go just yet, prove to me you're no Okranite lackey. Swear on the "
+"Phoenix, swear on your god that you are what you say you are. Swear to me "
+"that you are here for trade, and trade alone."
+msgstr ""
+"哈?一個商人?...你很幸運, \"多虧了\"食人族襲擊我們的補給隊, 我們現在物資緊缺. "
+"你會在村子裏麵找到能和你交易的人, 做完生意馬上離開. 但再我讓你進去之前, 你得"
+"證明你不是聖國的走狗. 對你的聖靈發誓你所言屬實. 對我發誓你是單獨來交易的."
+
+#. Id: 49839-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 49839-Dialogue.mod:0
+msgid ""
+"I'm sorry, my sister... but I can't let you leave this place alive without "
+"knowing who you are and where you came from. This is private land. What are "
+"you doing here?"
+msgstr ""
+"抱歉我的姐妹... 我不能在不知道你來這裏的目的的情況下讓你離開這個私人領地. 你"
+"來做什麼的?"
+
+#. Id: 49840-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49840-Dialogue.mod:0
+msgid "I'm a traveller seeking rest and supplies."
+msgstr "我是一名旅行者.. 需要休息和補給."
+
+#. Id: 49841-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49841-Dialogue.mod:0
+msgid ""
+"... Swear to me, swear to Okran, on Phoenix' life, that you are no more than "
+"a traveller. That you have not been sent by the Holy Nation."
+msgstr ""
+"....對我發誓, 用生命對奧克蘭聖靈發誓, 發誓你隻是一個旅行者. 而不是一個聖國派"
+"來的走狗."
+
+#. Id: 49842-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49841-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49842-Dialogue.mod:0
+msgid "I swear to Okran, on the Phoenix' life."
+msgstr "我以我的性命對奧克蘭的聖靈發誓."
+
+#. Id: 49844-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 49844-Dialogue.mod:0
+msgid ""
+"Good, that rules you out as a Holy Nation spy at least... An Okranite's "
+"biggest weakness is their stubborn devotion to their god...."
+msgstr ""
+"好的, 至少證明你不是聖國派來的間諜... 奧克蘭信徒最大的弱點就是無法違背他們的"
+"信仰...."
+
+#. Id: 49845-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49845-Dialogue.mod:0
+msgid ""
+"You're free to trade and rest up, but make it quick. We've barely got enough "
+"food to go around for ourselves, let alone for surprise visitors."
+msgstr ""
+"你可以自由交易和休息, 但是不要占用我們太多資源. 我們自己其實已經有點物資緊缺"
+"了, 並沒有多少給其他人."
+
+#. Id: 49847-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49846-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49847-Dialogue.mod:0
+msgid ""
+"Guess you're not from the Holy Nation, are you? This is a refugee village "
+"for those escaping the oppression of the Phoenix and his 'holy crusade'. If "
+"you value your life as a woman at all, you'll keep our whereabouts to "
+"yourself. Because if the Holy Nation were to get a hold and spread out, you "
+"wouldn't be roaming free with your happy band of swords right now..."
+msgstr ""
+"看起來你不是聖國來的人? 對吧? 這是是逃避菲尼克斯和他的\"聖騎士\" 的難民所組成"
+"的村落. 如果你作為一個女人想要愉快的活下去的話, 你就應該會幫助我們阻止菲尼克"
+"斯的教義腐化其他地方. 這樣你才能帶著你的劍愉快的站在這裏..."
+
+#. Id: 49848-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49848-Dialogue.mod:0
+msgid "Of course, I understand."
+msgstr "當然, 我理解了."
+
+#. Id: 49849-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49849-Dialogue.mod:0
+msgid "Remember, in Holy Nation territory, we're the only allies you've got."
+msgstr "記住, 如果在聖國領土上, 我們是你唯一的朋友."
+
+#. Id: 49850-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49850-Dialogue.mod:0
+msgid "Your secret is safe with me."
+msgstr "我會好好保守你們的秘密的."
+
+#. Id: 49851-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49851-Dialogue.mod:0
+msgid "All I care about is catching some sleep."
+msgstr "我所關心的隻是睡覺."
+
+#. Id: 49890-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49890-Dialogue.mod:0
+msgid "Thanks, I guess..."
+msgstr "總之, 多謝了..."
+
+#. Id: 49852-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49852-Dialogue.mod:0
+msgid "I'm from the Holy Lands. I'm on a pilgrimage."
+msgstr "我從聖域來. 正在朝聖."
+
+#. Id: 49859-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49852-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49859-Dialogue.mod:0
+msgid ""
+"... On a pilgrimage, huh? And without a male escort too! You must be one "
+"very special lady to be allowed out all on your own... But I'm no fool. I'm "
+"sorry it had to come to this, my sister, but I cannot risk you reporting our "
+"location to the Holy Nation..."
+msgstr ""
+"...一個沒有從者護送的女性奧克蘭信徒? 你一定是非常奇特的女士... 但很抱歉, 我不"
+"能讓你把我們的位置透露給聖國...."
+
+#. Id: 49860-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49859-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49860-Dialogue.mod:0
+msgid "The lives of the many outweigh the lives of the few..."
+msgstr "多數人比少數的性命更重要..."
+
+#. Id: 49853-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49853-Dialogue.mod:0
+msgid "I'm a refugee. Please, help me."
+msgstr "我是被迫害的難民, 請幫幫我."
+
+#. Id: 49858-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49853-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49858-Dialogue.mod:0
+msgid ""
+"... We're always here for those who need refuge. But we also can't afford to "
+"be naive... Swear to me, swear to Okran, on Phoenix' life, that you are no "
+"more than a refugee. That you have not been sent by the Holy Nation."
+msgstr ""
+"...我們很樂意幫助難民. 但並不幼稚....對我發誓, 用生命對奧克蘭聖靈發誓, 發誓你"
+"隻是一個難民. 而不是一個聖國派來的走狗."
+
+#. Id: 49854-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49854-Dialogue.mod:0
+msgid "I'm a merchant looking for business."
+msgstr "我是一名尋求商機的商人."
+
+#. Id: 49857-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49854-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49857-Dialogue.mod:0
+msgid ""
+"Well your timing couldn't be better... restocking our reserves is becoming "
+"more and more difficult with the nearby cannibals hordes attacking all of "
+"our suppliers. Our stocks have just begun to run low... But first, swear to "
+"me, swear to Okran, on Phoenix' life, that you are no more than a merchant. "
+"That you have not been sent by the Holy Nation."
+msgstr ""
+"你真是來的很及時...由於食人族襲擊我們的補給隊, 我們現在物資越來越緊缺. 現在馬"
+"上就要告罄了. 但再我讓你進去之前, 你得證明你不是聖國的走狗. 對你的聖靈發誓你"
+"所言屬實. 發誓你隻是一個商人. 而不是一個聖國派來的走狗."
+
+#. Id: 49856-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49856-Dialogue.mod:0
+msgid "Perhaps I should be asking the same to you...?"
+msgstr "或許我應該對你抱有一樣的疑問...?"
+
+#. Id: 49861-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49856-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49861-Dialogue.mod:0
+msgid ""
+"I'll remind you that you're in my territory now and my squad has you "
+"surrounded. I'm the one asking the questions... Your presence here puts the "
+"lives of my comrades at risk and I won't hesitate to kill you if I have to. "
+"Last chance, speak."
+msgstr ""
+"我要提醒你, 你周圍伺機而動的我的同伴都在懷疑你. 而且我是問問題的人... 當危及"
+"到我們的時候我不介意殺死你. 最後的機會. 回答我的問題."
+
+#. Id: 49863-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49861-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 49888-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49885-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#. Id: 49584-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (49583-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation shout at slave
+#. Id: 52298-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52295-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 49863-Dialogue.mod:0 49888-Dialogue.mod:0 49584-Dialogue.mod:9
+#: 52298-Dialogue.mod:1
+msgid "Make me."
+msgstr "有本事就來啊."
+
+#. Id: 49864-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49864-Dialogue.mod:0
+msgid "*sigh*... You're either a terrible spy or a brilliant anarchist."
+msgstr "*歎氣*..... 你要麼是一個可怕的間諜要麼就是一個閃亮的無政府主義者."
+
+#. Id: 49869-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 49869-Dialogue.mod:0
+msgid ""
+"You're trespassing on private land, /RACENAME/, co-operate peacefully and we "
+"won't have to resort to violence. What do you want?"
+msgstr ""
+"你現在侵入了一個私人領地,  /RACENAME/. 和平配合我的詢問, 我們就可不必訴諸暴"
+"力. 你來這裏做什麼?"
+
+#. Id: 49873-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49873-Dialogue.mod:0
+msgid "I'm a merchant. Can I trade here?"
+msgstr "我是一個商人. 我能在這裏做生意麼?"
+
+#. Id: 49876-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49876-Dialogue.mod:0
+msgid ""
+"A trader, huh? Well your timing couldn't be better... restocking our "
+"reserves is becoming more and more difficult with the nearby cannibals "
+"hordes attacking all of our usual suppliers. Our stocks have just begun to "
+"run low... "
+msgstr ""
+"哈?一個商人? 你真是來的很及時...由於食人族襲擊我們的補給隊, 我們現在物資越來"
+"越緊缺. 現在馬上就要告罄了....."
+
+#. Id: 49877-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49877-Dialogue.mod:0
+msgid ""
+"You're free to rest up and trade, but you'd do well to keep your head down "
+"and make it quick. I have no qualms with /RACENAME/s, but I can't say the "
+"same for some for the other villagers. Many of them are devout Okranites and "
+"non-humans can make them nervous to say the least."
+msgstr ""
+"你可以隨意休息和交易. 但你最好不要暴露你的種族 並且快速完成. 我對 /RACENAME/ "
+"沒有成見, 但是我不能說我的其他同伴不是這樣. 他們一些人仍然信奉奧克蘭的部分教"
+"義, 非人族可能會使得他們緊張. "
+
+#. Id: 49874-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49874-Dialogue.mod:0
+msgid "Thanks. What is this place?"
+msgstr "感謝, 這是什麼地方?"
+
+#. Id: 49878-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49874-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49878-Dialogue.mod:0
+msgid ""
+"All you need to know is that we're enemies of the Holy Nation... Same as "
+"you. We're the closest thing to allies you're going to find this side of the "
+"world, so I trust you'll keep our location to yourself..."
+msgstr ""
+"所有你需要知道的就是, 我們的敵人是聖國... 就和你一樣. 我們是你可以在這邊找到"
+"的最有可能成為盟友的人. 所以我相信你不會泄露我們的位置."
+
+#. Id: 49879-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49878-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49879-Dialogue.mod:0
+msgid "The less you know, the better. We're done talking here."
+msgstr "你知道的越少越好. 我們要說的都說完了."
+
+#. Id: 49880-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49880-Dialogue.mod:0
+msgid "Great. Sounds like a real friendly bunch..."
+msgstr "太棒了. 感覺我能和這裏的人搞好關係..."
+
+#. Id: 49881-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49881-Dialogue.mod:0
+msgid ""
+"They were all raised within the Holy Nation, what do you expect? All you "
+"need to know is that we're the closest thing to allies you're going to find "
+"this side of the world, so I trust you'll keep our location to yourself..."
+msgstr ""
+"我們都是被聖國放逐的你在期待什麼呢? 你隻要知道我們是你可以在這邊找到的最有可"
+"能成為盟友的人. 所以我相信你不會泄露我們的位置."
+
+#. Id: 49882-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49882-Dialogue.mod:0
+msgid "Like I said, watch your step."
+msgstr "就像我所說, 注意你的行為."
+
+#. Id: 49875-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49875-Dialogue.mod:0
+msgid "I just want refuge, shelter, rest..."
+msgstr "我隻想避難, 庇護, 休息..."
+
+#. Id: 49883-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49875-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49883-Dialogue.mod:0
+msgid ""
+"... Well, you've not picked the best of places to seek refuge. I have no "
+"qualms with /RACENAME/s, but I can't say the same for some for the other "
+"villagers. Many of them are devout Okranites and non-humans can make them "
+"nervous to say the least.  You're free to rest up and trade, but you'd do "
+"well to keep your head down and make it quick."
+msgstr ""
+"... 好吧, 你找到了最適合避難的地方. 我對 /RACENAME/ 沒有成見, 但是我不能說我"
+"的其他同伴不是這樣. 他們一些人仍然信奉奧克蘭的部分教義, 非人族可能會使得他們"
+"緊張. 你可以隨意休息和交易. 但你最好不要暴露你的種族 並且快速完成."
+
+#. Id: 49885-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49885-Dialogue.mod:0
+msgid ""
+"Your presence here puts the lives of my comrades at risk and I won't "
+"hesitate to kill you if I have to. Last chance, speak."
+msgstr ""
+"如果你的來臨會危及到我們的時候我不介意殺死你. 最後的機會. 回答我的問題."
+
+#. Id: 49886-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49869-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam interrogation
+#: 49886-Dialogue.mod:0
+msgid "I want to kill all humans!"
+msgstr "我要殺死所有人類!"
+
+#. Id: 49887-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#: 49887-Dialogue.mod:0
+msgid "Kch... Nutcase."
+msgstr "唉... 瘋子."
+
+#~ msgid "Kill /HIM/."
+#~ msgstr "殺了 /HIM/."
+
+#~ msgid "What is this place?"
+#~ msgstr "這是什麼地方?"

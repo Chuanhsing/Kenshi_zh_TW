@@ -1,0 +1,431 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:3
+msgid "If you got Cats, I got time..."
+msgstr "你獲得錢, 我獲得時間..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:4
+msgid "Welcome, Cats- I mean- customer!"
+msgstr "歡迎, 錢-啊不我的意思是-顧客!"
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:6
+msgid "'Procurement' is my specialty. You need something, I can get it..."
+msgstr "'采購' 是我的專長. 不管你需要什麼, 我都可以得到..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:7
+msgid "Drugs? Organs? Hookers? I got it all..."
+msgstr "毒品? 器官? 妓女? 我都有..."
+
+#. Id: 44628-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44628-Dialogue.mod:8
+msgid "Come and browse... but don't ask too many questions."
+msgstr "進來看看...不過不要問太多問題."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:0
+msgid "How goes things, /OUTLANDER/?"
+msgstr "事情怎麼樣, /OUTLANDER/?"
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:1
+msgid "Hoy, /OUTLANDER/, welcome!"
+msgstr "喔, /OUTLANDER/, 歡迎!"
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:2
+msgid "Come on in, /OUTLANDER/..."
+msgstr "進來看看, /OUTLANDER/..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:3
+msgid "Take a look around, /OUTLANDER/..."
+msgstr "來到處看看, /OUTLANDER/..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:4
+msgid "Hey there..."
+msgstr "嘿..."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:5
+msgid "Take a look at my stock, /OUTLANDER/."
+msgstr "看看我的東西, /OUTLANDER/."
+
+#. Id: 44629-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44629-Dialogue.mod:6
+msgid "Come on in, don't mind the mess..."
+msgstr "來看看, 雖然有點亂.."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:0
+msgid "No funny business in my shop, got it, /OUTLANDER/?"
+msgstr "我這裏可沒有什麼有趣的生意, 知道了嗎? /OUTLANDER/?"
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:1
+msgid "Don't try and steal anything."
+msgstr "可別想偷東西哦."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:2
+msgid "Try stealin' from me and I break your fingers."
+msgstr "如果你偷我東西, 我就折斷你的手指."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:3
+msgid "Thieves get their fingers broken."
+msgstr "小偷總會斷幾根手指."
+
+#. Id: 44775-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>10, Tag: -1
+#: 44775-Dialogue.mod:4
+#, fuzzy
+msgid "I got no patience for thieves, got it /OUTLANDER/?"
+msgstr "我對竊賊不是很有耐心, 明白了麼 /OUTLANDER/?"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:0
+msgid "/OI/, thief, /GETLOST/!"
+msgstr "/OI/, 小偷, /GETLOST/!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:1
+msgid "Get out or I kick you out, thief!"
+msgstr "竊賊, 自己滾出去或者我把你踢出去?"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:2
+msgid "/GETLOST/, thief!"
+msgstr "/GETLOST/, 小偷!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:3
+msgid "You got guts showin' your face here again, thief!"
+msgstr "有膽你就再來這裏, 小偷!"
+
+#. Id: 44828-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 44828-Dialogue.mod:4
+msgid "You got some balls comin' back here again, thief!"
+msgstr "有點能力了再回來這裏, 小偷!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:0
+msgid "/GETLOST/, go on! Don't make me cut you!"
+msgstr "/GETLOST/, 再繼續我會考慮把你切開賣掉!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:1
+msgid ""
+"Just give me an excuse to make you bleed! Leave if you know what's good for "
+"you!"
+msgstr "給我一點時間我給你點血的教訓! 讓你知道你該做什麼!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:2
+msgid "I ain't in a welcomin' mood! Get out, or eat steel!"
+msgstr "我現在不歡迎人! 出去, 或者你想吃點刀子?"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:3
+msgid "I ain't in the mood to see yer ugly thievin' face! /GETLOST/!"
+msgstr "我現在不想看到你那醜陋盜賊的臉! /GETLOST/!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:4
+msgid "/GETLOST/ before I /CUTTHOSELIPS/!"
+msgstr "/GETLOST/ 在我 /CUTTHOSELIPS/ 之前!"
+
+#. Id: 44829-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 44829-Dialogue.mod:5
+msgid "/THREAT/! Leave!"
+msgstr "/THREAT/! 離開!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:0
+msgid "I warned you!"
+msgstr "我警告過你你了!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:1
+msgid "Let me show you the door!"
+msgstr "讓我告訴你正確的方式!"
+
+#. Id: 44835-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 44835-Dialogue.mod:3
+msgid "Dumb /INSULT/! Shoulda left when I told you to!"
+msgstr "愚蠢的 /INSULT/! 我和你說過了不要再過來!"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 9526-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<48, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>24, Tag: -1
+#. Id: 50547-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#: 44845-Dialogue.mod:0 9526-Dialogue.mod:1 50547-Dialogue.mod:1
+msgid "Back already?"
+msgstr ""
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#: 44845-Dialogue.mod:1
+msgid "Back again, eh?"
+msgstr "又回來了, 呃?"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 66259-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. Id: 65034-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65033-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#: 44845-Dialogue.mod:2 66259-Dialogue.mod:1 65034-october?17.mod:0
+msgid "Couldn't stay away, eh?"
+msgstr "就不能離開麼, 呃?"
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#: 44845-Dialogue.mod:3
+msgid "Here we go again..."
+msgstr "又開始了...."
+
+#. Id: 44845-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: outlaw shopkeep
+#. Id: 18624-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 59331-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek law bounty
+#: 44845-Dialogue.mod:5 18624-Dialogue.mod:3 59331-Dialogue.mod:1
+msgid "Mm?"
+msgstr ""

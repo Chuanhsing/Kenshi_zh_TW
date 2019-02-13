@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2017-10-29 01:39+0800\n"
+"PO-Revision-Date: \n"
+"Language-Team: Lo-Fi Games\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+
+#. Id: 2368-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2368-gamedata.base:0
+msgid "Greetings, good sirs..."
+msgstr "您好, 先生.."
+
+#. Id: 2368-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2368-gamedata.base:1
+msgid "Hoy there!"
+msgstr "您好!"
+
+#. Id: 2370-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2368-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2370-gamedata.base:0
+msgid "I am a diplomatic agent of the Traders Guild!"
+msgstr "我是貿易行會的使者!"
+
+#. Id: 2370-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (2368-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2370-gamedata.base:1
+msgid "I am an Agent of the Territorial division of the Traders Guild!"
+msgstr "我是貿易行會領土部門的代理人!"
+
+#. Id: 2372-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2370-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2372-gamedata.base:0
+msgid "I come peacefully!  "
+msgstr "我沒有敵意!"
+
+#. Id: 2374-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2372-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#. Id: 2381-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (2379-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#. Id: 2385-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (2383-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2374-gamedata.base:0 2381-gamedata.base:0 2385-gamedata.base:0
+msgid "Please send out a representative to talk!"
+msgstr "請派代表出來談話!"
+
+#. Id: 2374-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (2372-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2374-gamedata.base:1
+msgid "May I speak with your leader?"
+msgstr "我能和你的長官談談麼?"
+
+#. Id: 2377-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2374-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2377-gamedata.base:0
+msgid ""
+"You are building a potential trade hub within Traders Guild jurisdiction!"
+msgstr "您正在行會管轄區內建立潛在的貿易中心!"
+
+#. Id: 2379-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2377-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2379-gamedata.base:0
+msgid ""
+"As such you are classed as a rival merchant and are subject to rates and "
+"protection!"
+msgstr "因此, 您被歸類為商家, 並受到保障!"
+
+#. Id: 2383-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (2381-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce --Unfinished--
+#: 2383-gamedata.base:0
+msgid ""
+"Refusal to engage in diplomatic relations will be considered an act of "
+"hostility!"
+msgstr "拒絕參與行會將被視為惡性商業競爭!"

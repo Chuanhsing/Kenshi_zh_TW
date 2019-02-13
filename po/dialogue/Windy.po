@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:0
+msgid "Can't see a thing in this dust..."
+msgstr "在沙子裏麵看不到任何東西..."
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:1
+msgid "I can't see..."
+msgstr "我什麼都看不見...."
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:2
+msgid "Can't see a damn thing..."
+msgstr "我看不到一點該死的東西..."
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:3
+msgid "Damn this dust..."
+msgstr "該死的沙塵暴..."
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:4
+msgid "To the abyss with this wind!"
+msgstr "感覺像是在風暴的深淵, 什麼都看不見!"
+
+#. Id: 57699-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57699-Dialogue.mod:5
+msgid "The eye of the storm. This should be interesting..."
+msgstr "在風暴中睜開眼睛. 一定很有意思..."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:0
+msgid "Curse this wind."
+msgstr "詛咒這個風."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:1
+msgid "Curses to the wind."
+msgstr "詛咒可惡的風."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:2
+msgid "Dust."
+msgstr "沙暴."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:3
+msgid "Curses."
+msgstr "該死的風."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:4
+msgid "On your toes. Anything may lurk in the dust."
+msgstr "保存警惕. 沙暴中可以潛伏任何東西."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:5
+msgid "Irksome."
+msgstr "風好大."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57700-Dialogue.mod:6
+msgid "Kch."
+msgstr "唔..眼睛睜不開."
+
+#. Id: 57700-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#. Id: 51562-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (45957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 51581-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (51580-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. Id: 59761-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66194-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan talk to
+#. Id: 59615-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. Id: 96571-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96569-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 97068-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (97067-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 97070-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (97068-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#. Id: 97020-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 61309-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek tribute announcement pt2
+#. Id: 59776-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught phoenix crowd trigger (shame)
+#. Id: 63929-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#. Id: 52285-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 52291-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#. Id: 52286-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 57700-Dialogue.mod:7 51562-Dialogue.mod:1 51581-Dialogue.mod:0
+#: 59761-Dialogue.mod:0 59615-Dialogue.mod:0 96571-Dialogue.mod:0
+#: 97068-Dialogue.mod:0 97070-Dialogue.mod:0 97020-Dialogue.mod:0
+#: 61309-Dialogue.mod:0 59776-Dialogue.mod:4 63929-Dialogue.mod:0
+#: 52285-Dialogue.mod:0 52291-Dialogue.mod:0 52286-Dialogue.mod:0
+msgid "Hmph."
+msgstr ""
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:0
+msgid "/FUCKING/ dust in me eyeballs!"
+msgstr "/FUCKING/ 的沙子打到我眼球上了!"
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:1
+msgid "To hell with this /FUCKING/ storm!"
+msgstr "/FUCKING/ 的風暴下地獄吧!"
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:2
+msgid "/GREAT/, a dust storm! Just what /IWE/ need right now..."
+msgstr "/GREAT/, 一場風暴! 正是 /IWE/ 現在需要的..."
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:3
+msgid "Blech! Breathin' in dust here..."
+msgstr "可惡! 沙暴裏麵都不能好好呼吸..."
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:4
+msgid "I hate storms..."
+msgstr "我討厭風暴..."
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:5
+msgid "Can't see shit in this dust."
+msgstr "沙暴裏麵什麼都看不到."
+
+#. Id: 57701-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Windy
+#: 57701-Dialogue.mod:6
+msgid "Ah, nothin' like a fistful o' dust in the ol' eyeballs..."
+msgstr "啊, 沙暴裏麵眼睛跟傻瓜一樣..."

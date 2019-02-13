@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:0
+msgid "You've come to the wrong place, at the wrong time"
+msgstr "你在錯誤的時間來到了錯誤的地點"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:1
+msgid "You should never have come here"
+msgstr "你應該永遠都不要來這裏"
+
+#. Id: 8273-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8273-Dialogue.mod:2
+msgid "I HATE people invading my space"
+msgstr "我討厭有人入侵我的領域"
+
+#. Id: 8274-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8274-Dialogue.mod:0
+msgid "You come for my bounty, little worm?"
+msgstr "哼, 你是來要我的賞金麼, 小蟲子?"
+
+#. Id: 8274-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8270-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 8274-Dialogue.mod:1
+msgid "Come to get a piece of my bounty, little worm?"
+msgstr "你是想從我的賞金裏麵分一點麼, 小蟲子?"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:0
+msgid "/QUICKLAUGH/, just you try it, boy"
+msgstr "/QUICKLAUGH/, 你就盡力的去努力吧, 小家夥"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:1
+msgid "/QUICKLAUGH/ I'd like to see you try it, boy"
+msgstr "/QUICKLAUGH/ 我會很愉悅的看著你努力的, 小家夥"
+
+#. Id: 8276-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 8276-Dialogue.mod:2
+msgid "/QUICKLAUGH/, aw how cute"
+msgstr "/QUICKLAUGH/, 多麼弱不禁風"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:0
+msgid "/QUICKLAUGH/, just you try it"
+msgstr "/QUICKLAUGH/, 你就盡力的去努力吧"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:1
+msgid "/QUICKLAUGH/, I'd like to see you try it"
+msgstr "/QUICKLAUGH/ 我會很愉悅的看著你努力的"
+
+#. Id: 8278-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8274-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8278-Dialogue.mod:2
+msgid "/QUICKLAUGH/, aw how precious"
+msgstr "/QUICKLAUGH/, 多麼柔軟的人啊"
+
+#. Id: 8289-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 8289-Dialogue.mod:0
+msgid "You again, little worm?"
+msgstr "又是你麼, 小蟲子?"
+
+#. Id: 8295-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#: 8295-Dialogue.mod:0
+msgid "Go on, I'm not going to beat you again. Stomping on ants isn't any fun"
+msgstr "繼續吧, 我已經懶得理你了. 碾壓一隻蟲子並不好玩"
+
+#. Id: 8291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 8291-Dialogue.mod:0
+msgid "You again? Bwahaha, come back for more?"
+msgstr "又是你? 吧哈哈, 覺得我上次教訓的你不夠麼?"

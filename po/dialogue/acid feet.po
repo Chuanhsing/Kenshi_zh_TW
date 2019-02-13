@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 09:59+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:0
+#, fuzzy
+#| msgid "Ah /GODDAMMIT/!  My feet are burning!"
+msgid "/AAH/! My feet! It burns!"
+msgstr "Ah /GODDAMMIT/!  我的腳在燃燒!"
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:1
+msgid "/AAH/! Acid soil! My feet!"
+msgstr ""
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:2
+msgid "/ARG/! Bare feet on acid dirt! It hurts!"
+msgstr ""
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:3
+msgid "/AAH/! It hurts so bad! The ground... Nngh!"
+msgstr ""
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:4
+#, fuzzy
+#| msgid "This ground is burning my /GODDAMN/ feet off!"
+msgid "The ground... It's burning me! My feet...!"
+msgstr "這個 /GODDAMN/ 地快把我腳燒沒了!"
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:5
+msgid "/AAH/! The ground, it's acid!"
+msgstr ""
+
+#. Id: 55664-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55664-Dialogue.mod:6
+msgid "It hurts... Must be acid dirt!"
+msgstr ""
+
+#. Id: 55665-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55665-Dialogue.mod:0
+msgid "I don't know how much longer I can go on like this! I need shoes!"
+msgstr ""
+
+#. Id: 55665-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid feet civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55665-Dialogue.mod:1
+msgid "I need shoes... I can't take this..."
+msgstr ""
+
+#~ msgid "/ARG/! "
+#~ msgstr "/ARG/! "
+
+#~ msgid "I need some /FUCKING/ boots!"
+#~ msgstr "/FUCKING/ 我需要一雙鞋!"
+
+#~ msgid "I need some /GODDAMN/ footwear!"
+#~ msgstr "我需要一些 /GODDAMN/ 的鞋來穿!"

@@ -1,0 +1,373 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 50202-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50202-Dialogue.mod:0
+msgid ""
+"A woman from the godless lands, huh, don't get many of those wash up here. "
+"Hopefully you'll talk more sense than everyone else around here..."
+msgstr ""
+"一個來自不敬虔的土地的女人, 嗬嗬, 這樣的人很少來這裏. 希望你能比之前那些更有"
+"趣一些..."
+
+#. Id: 50204-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50203-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50204-Dialogue.mod:0
+msgid ""
+"I learnt the hard way that there is no god. But a lot of the refugees here, "
+"they just can't let go of their belief in Okran, even after Okran betrayed "
+"us all, abandoned us to be left at the mercy of man... I just can't live "
+"amongst this nonsense any longer. I despise it."
+msgstr ""
+"我在艱難之中明白了並沒有什麼上帝. 但是這裏很多的難民就是不能放棄對奧克蘭的信"
+"仰, 甚至在奧克蘭背叛拋棄了我們之後, 也依然如此......我無法與這樣的人在一起. "
+"我鄙視他們."
+
+#. Id: 50205-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50205-Dialogue.mod:0
+msgid "So, you're looking to leave?"
+msgstr "所以你在找機會離開?"
+
+#. Id: 50206-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50206-Dialogue.mod:0
+msgid ""
+"I am. But I'll serve no man again, only you, sister. I was trained by the "
+"Flotsam Ninjas as an apprentice, although I never quite made it to be a "
+"fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 "
+"Cats, I think that's a fair price tag for my sword skills."
+msgstr ""
+"我是. 但我不會再為人類服務, 隻有你可以, 姐姐. 作為一名學徒, 我被弗萊斯穆的忍"
+"者訓練過, 雖然我依然無法成為一個合格的聖騎士殺手, 因為我的\"憤怒問題\". 我的"
+"開價是6000 cats. 我覺得我的劍技值這個價."
+
+#. Id: 50261-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50251-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50261-Dialogue.mod:0
+msgid "I look forward to our travels, /BROTHER/."
+msgstr "我期待著我們的旅行 , /BROTHER/."
+
+#. Id: 50252-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 50252-Dialogue.mod:0
+msgid "I'd like to, but I can't afford that."
+msgstr "我也是, 但我負擔不起."
+
+#. Id: 50260-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50260-Dialogue.mod:0
+msgid "Unfortunate. But you know where to find me if you need me."
+msgstr "不幸. 你改變主意了可以再來找我."
+
+#. Id: 50211-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50205-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50211-Dialogue.mod:0
+msgid ""
+"I am. It's funny, I swore I'd serve no man again... But you're no 'pure "
+"blood', perhaps you're different? I love nothing more than sticking it to "
+"the the Holy Nation anyway, and what better way than joining the dark side! "
+"I was trained by the Flotsam Ninjas as an apprentice, although I never quite "
+"made it to be a fully fledged Paladin basher on account of my 'anger "
+"issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword "
+"skills. So are you hiring?"
+msgstr ""
+"我是. 這真有趣. 我發誓我不會再服務任何人... 但你不是\"純血\", 也許你不太一"
+"樣? 我喜歡任何和聖國搗亂的方式, 但看起來加入\"黑暗\"的一邊是最好的選擇! 作為"
+"一名學徒, 我被弗萊斯穆的忍者訓練過, 雖然我依然無法成為一個合格的聖騎士殺手, "
+"因為我的\"憤怒問題\". 我的開價是6000 cats. 我覺得我的劍技值這個價. 你覺得怎麼"
+"樣?"
+
+#. Id: 50243-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50243-Dialogue.mod:0
+msgid "But Okran didn't abandon you. You're free now, right?"
+msgstr "但是奧克蘭沒有拋棄你, 你現在自由了, 對吧?"
+
+#. Id: 50245-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50243-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50245-Dialogue.mod:0
+msgid ""
+"I escaped with my own grit and blood, I need no god. And what of my hundreds "
+"of other sisters still living in that hell, under the rule of Okran's so-"
+"called champion? Sure, I'm free now, but Okran's not taking my credit for "
+"that."
+msgstr ""
+"我用自己的勇氣和血液逃脫的, 而不是上帝. 我仍然有成百上千姐妹生活在那個地獄, "
+"在奧克蘭所謂的照顧下. 當然我現在自由了, 但是奧克蘭得為此付出代價."
+
+#. Id: 50282-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50245-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50282-Dialogue.mod:0
+msgid "Then you'll rot in the abyss for your faithlessness."
+msgstr "那麼你將在深淵裏腐爛, 為了你那毫無忠誠的心."
+
+#. Id: 50283-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50245-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50283-Dialogue.mod:0
+msgid "I like your spirit, I could use some of that grit on my team."
+msgstr "你的精神可嘉, 我想可以成為我隊伍的勇氣."
+
+#. Id: 50284-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50284-Dialogue.mod:0
+msgid ""
+"Well you're in luck, I'll serve no man again but I'll serve you, sister. I "
+"was trained by the Flotsam Ninjas as an apprentice, although I never quite "
+"made it to be a fully fledged Paladin basher on account of my 'anger "
+"issues'. My fee is 6000 Cats, I think that's a fair price tag for my sword "
+"skills."
+msgstr ""
+"你很幸運, 我不會為了你之外的人服務了, 姐姐. 作為一名學徒, 我被弗萊斯穆的忍者"
+"訓練過, 雖然我依然無法成為一個合格的聖騎士殺手, 因為我的\"憤怒問題\". 我的開"
+"價是6000 cats. 我覺得我的劍技值這個價."
+
+#. Id: 50285-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50285-Dialogue.mod:0
+msgid ""
+"It's funny, I swore I'd serve no man again... But you're no 'pure blood', "
+"perhaps you're different? I love nothing more than sticking it to the the "
+"Holy Nation anyway, and what better way than joining the dark side! I was "
+"trained by the Flotsam Ninjas as an apprentice, although I never quite made "
+"it to be a fully fledged Paladin basher on account of my 'anger issues'. My "
+"fee is 6000 Cats, I think that's a fair price tag for my sword skills. So "
+"are you hiring?"
+msgstr ""
+"這真有趣. 我發誓我不會再服務任何人... 但你不是\"純血\", 也許你不太一樣? 我喜"
+"歡任何和聖國搗亂的方式, 但看起來加入\"黑暗\"的一邊是最好的選擇! 作為一名學"
+"徒, 我被弗萊斯穆的忍者訓練過, 雖然我依然無法成為一個合格的聖騎士殺手, 因為我"
+"的\"憤怒問題\". 我的開價是6000 cats. 我覺得我的劍技值這個價. 你覺得怎麼樣?"
+
+#. Id: 50244-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50244-Dialogue.mod:0
+msgid "Tell me about it, I'm sick of people spouting their bullshit."
+msgstr "告訴我這件事, 我厭惡那些吹噓他們廢話的人."
+
+#. Id: 50248-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50248-Dialogue.mod:0
+msgid ""
+"Glad we're on the same level of thinking. Are you hiring? I'm looking to "
+"leave town but I'll serve no man again, only you, sister. I was trained by "
+"the Flotsam Ninjas as an apprentice, although I never quite made it to be a "
+"fully fledged Paladin basher on account of my 'anger issues'. My fee is 6000 "
+"Cats, I think that's a fair price tag for my sword skills."
+msgstr ""
+"很高興我們的想法相同. 我準備離開這裏, 你要雇傭我嗎? 我不會再為人類服務, 隻有"
+"你可以, 姐姐. 作為一名學徒, 我被弗萊斯穆的忍者訓練過, 雖然我依然無法成為一個"
+"合格的聖騎士殺手, 因為我的\"憤怒問題\". 我的開價是6000 cats. 我覺得我的劍技值"
+"這個價."
+
+#. Id: 50249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 50249-Dialogue.mod:0
+msgid ""
+"I'm sure you of all people are, likely being on the recieving end of that "
+"bullshit most of the time. It's funny, I swore I'd serve no man again... But "
+"you're no 'pure blood', perhaps you're different? I love nothing more than "
+"sticking it to the the Holy Nation anyway, and what better way than joining "
+"the dark side! I was trained by the Flotsam Ninjas as an apprentice, "
+"although I never quite made it to be a fully fledged Paladin basher on "
+"account of my 'anger issues'. My fee is 6000 Cats, I think that's a fair "
+"price tag for my sword skills. Are you hiring?"
+msgstr ""
+"我相信你們所有的人, 大多數聽我廢話的人都不是什麼壞人. 這真有趣. 我發誓我不會"
+"再服務任何人... 但你不是\"純血\", 也許你不太一樣? 我喜歡任何和聖國搗亂的方"
+"式, 但看起來加入\"黑暗\"的一邊是最好的選擇! 作為一名學徒, 我被弗萊斯穆的忍者"
+"訓練過, 雖然我依然無法成為一個合格的聖騎士殺手, 因為我的\"憤怒問題\". 我的開"
+"價是6000 cats. 我覺得我的劍技值這個價. 你覺得怎麼樣?"
+
+#. Id: 50247-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50204-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50247-Dialogue.mod:0
+msgid "Nonsense? No, their faith in Okran is just fierce, unlike yours."
+msgstr "廢話?  不, 他們對奧克蘭的信仰是非常忠實的, 不像你."
+
+#. Id: 50269-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50269-Dialogue.mod:0
+msgid ""
+"You disappoint me, /BROTHER/. I thought I'd be in for a no-nonsense "
+"conversation, free of preaching and free of gods. But it looks like I'm "
+"cursed never to escape Okran's presence along with his blind followers..."
+msgstr ""
+"你太讓我失望了, /BROTHER/. 我以為我會進行一個沒有廢話的談話, 沒有宗教, 沒有神"
+"靈. 但是看起來我無法逃脫奧克蘭和它盲目狂信徒的詛咒了..."
+
+#. Id: 50272-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50269-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50272-Dialogue.mod:0
+msgid "Nevermind. It was foolish of me to make such assumptions of outsiders."
+msgstr "沒事了. 我不應該對外來者這麼揣測."
+
+#. Id: 50267-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50267-Dialogue.mod:0
+msgid "Sure. Talk away."
+msgstr "當然. 說吧."
+
+#. Id: 50268-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50268-Dialogue.mod:0
+msgid "I'll try not to disappoint you too much..."
+msgstr "我會盡量不要讓你太失望...."
+
+#. Id: 50274-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50274-Dialogue.mod:0
+msgid "Or not. I don't have time for chatter, sorry."
+msgstr "不了. 我沒有時間浪費口舌, 抱歉."
+
+#. Id: 50207-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 50207-Dialogue.mod:0
+msgid ""
+"A /RACENAME/ from the godless lands, huh, don't get many of those wash up "
+"here. Hopefully you'll talk more sense than everyone else around here..."
+msgstr ""
+"一個來自不敬虔的土地的 /RACENAME/, 嗬嗬, 這樣的人很少來這裏. 希望你能比之前那"
+"些更有趣一些..."
+
+#. Id: 50208-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 50208-Dialogue.mod:0
+msgid "... What is it?"
+msgstr "...怎麼了?"
+
+#. Id: 50209-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50209-Dialogue.mod:0
+msgid "I'm looking for recruits. Are you for hire?"
+msgstr "我想招募點成員. 你在找工作麼?"
+
+#. Id: 50210-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50209-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50210-Dialogue.mod:0
+msgid ""
+"I am... But not for you, /OUTLANDER/, I'll serve no man. I served men long "
+"enough when I was living in the Holy Lands..."
+msgstr ""
+"我是, 但不是你這種, /OUTLANDER/, 我不為人類服務. 我已經在聖國服務人類足夠久"
+"了..."
+
+#. Id: 50262-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50210-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50262-Dialogue.mod:0
+msgid "I'm done with it."
+msgstr "我知道了."
+
+#. Id: 50264-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50263-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam recruit 2
+#: 50264-Dialogue.mod:0
+msgid "Then quit bothering me."
+msgstr "那就別打擾我了."

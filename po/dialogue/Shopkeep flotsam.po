@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 50162-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander
+#: 50162-Dialogue.mod:0
+msgid "Oh Lord, not here... why my shop, why?"
+msgstr "哦 主啊, 在這裏... 為什麼在我的商店, 為什麼?"
+
+#. Id: 50162-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander
+#: 50162-Dialogue.mod:1
+msgid "Oh no... no, no, no..."
+msgstr "哦不... 不, 不, 不..."
+
+#. Id: 50163-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50163-Dialogue.mod:0
+msgid "Nnngh..."
+msgstr "唔...."
+
+#. Id: 50163-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50163-Dialogue.mod:2
+msgid "Please... just turn around and leave..."
+msgstr "請...轉身並離開就好..."
+
+#. Id: 50163-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (50162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50163-Dialogue.mod:3
+msgid "I can't... I just can't..."
+msgstr "我不能...我隻是不能..."
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:0
+msgid "/HELLO/, /BROTHER/. Come on in and take a look around..."
+msgstr "歡迎回來, /BROTHER/. 請隨便看看..."
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:1
+msgid "Come on in, take a look at my stock, /BROTHER/..."
+msgstr "進來, 看看我的商品, /BROTHER/..."
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:2
+msgid "Welcome, /BROTHER/..."
+msgstr "歡迎, /BROTHER/..."
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:3
+msgid "Looking for something specific, /BROTHER/?"
+msgstr "找上門特別的東西麼, /BROTHER/?"
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:4
+msgid "Come inside and have a browse, /BROTHER/..."
+msgstr "進來看看, /BROTHER/..."
+
+#. Id: 50168-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 50168-Dialogue.mod:5
+msgid "How can I help you, /BROTHER/?"
+msgstr "需要幫忙嗎, /BROTHER/?"
+
+#. Id: 50177-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 50177-Dialogue.mod:0
+msgid "Leave, thief!"
+msgstr "走開, 小偷!"
+
+#. Id: 50177-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 50177-Dialogue.mod:1
+msgid "You're not welcome here, thief! Leave!"
+msgstr "離開! 這裏不歡迎你, 小偷."
+
+#. Id: 50177-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 50177-Dialogue.mod:2
+msgid "You again! Scram, thief!"
+msgstr "又是你! 該死的小偷!"
+
+#. Id: 50179-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>4, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 50179-Dialogue.mod:0
+msgid "Good to see you again. Back for business?"
+msgstr "很高興再次見到你. 來做生意的?"
+
+#. Id: 50179-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>4, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 50179-Dialogue.mod:1
+msgid "Welcome back, /BROTHER/."
+msgstr "歡迎回來, /BROTHER/."
+
+#. Id: 50179-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shopkeep flotsam
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>4, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 50179-Dialogue.mod:2
+msgid "Welcome back, /BROTHER/. Come on in."
+msgstr "歡迎回來, /BROTHER/. 進來看看吧."

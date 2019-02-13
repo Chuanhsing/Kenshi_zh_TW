@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2017-11-13 00:31+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:0 42046-Dialogue.mod:0 42048-Dialogue.mod:0
+#: 42050-Dialogue.mod:0
+msgid "Help! Help me, please!"
+msgstr "救命! 幫幫我, 求你了!"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:1 42046-Dialogue.mod:1 42048-Dialogue.mod:1
+#: 42050-Dialogue.mod:1
+msgid "Help! Please help me!"
+msgstr "救命!請幫幫我!"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:2 42046-Dialogue.mod:2 42048-Dialogue.mod:2
+#: 42050-Dialogue.mod:2
+msgid "Helpppp! Helppppp!"
+msgstr "救命----!救命----!"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:3 42046-Dialogue.mod:3 42048-Dialogue.mod:3
+#: 42050-Dialogue.mod:3
+msgid "H- hey! Wait up! Over here, /OUTLANDER/!"
+msgstr "嘿- 嘿你! 等一下! 看這裏, /OUTLANDER/!"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:4 42046-Dialogue.mod:4 42048-Dialogue.mod:4
+#: 42050-Dialogue.mod:4
+msgid "Wait! You, over there, /OUTLANDER/! Wait up!"
+msgstr "等下! 那邊的那個/OUTLANDER/看這裏! 等一下!"
+
+#. Id: 42043-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. Id: 42046-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 42048-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 42050-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 42043-Dialogue.mod:5 42046-Dialogue.mod:5 42048-Dialogue.mod:5
+#: 42050-Dialogue.mod:5
+msgid "Wait! You, /OUTLANDER/! I need help!"
+msgstr "等一下! /OUTLANDER/! 我需要幫助!"
+
+#. Id: 42052-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42052-Dialogue.mod:0
+msgid "I'm hurt, I need aid..."
+msgstr "我受傷了, 請幫幫我...."
+
+#. Id: 42052-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42052-Dialogue.mod:1
+msgid "Urgh!.. I'm wounded..."
+msgstr "呃!....我受傷了...救命...."
+
+#. Id: 42052-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42052-Dialogue.mod:2
+msgid "Come hear me out... I'm hurt..."
+msgstr "請救救我吧...我受傷了..."
+
+#. Id: 42052-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42052-Dialogue.mod:3
+msgid "Don't leave me here... I'm hurt..."
+msgstr "不要留我在這裏...我受傷了..."
+
+#. Id: 42053-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42053-Dialogue.mod:0
+msgid ""
+"I can barely walk... The /DOG/s will eat me alive if you leave me out here!"
+msgstr "我無法走路... 如果你把我留在這裏 /DOG/ 將會把我活活吃掉!"
+
+#. Id: 42053-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42053-Dialogue.mod:1
+msgid ""
+"I'm prime pickings for bandits out here on my own... have a heart, /"
+"OUTLANDER/..."
+msgstr "我自己走的話隻會被強盜抓住...發發慈悲吧, /OUTLANDER/..."
+
+#. Id: 42053-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42053-Dialogue.mod:2
+msgid ""
+"I'll be torn apart by cannibals if you leave me here like this... I can "
+"barely defend myself..."
+msgstr "如果你不帶我走的話我會成為食人族營養的一部分....我無法保護好自己..."
+
+#. Id: 42054-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42054-Dialogue.mod:0
+msgid "Take me with you, please... don't leave me like this..."
+msgstr "把我帶走吧, 求求你....不要把我留在這裏..."
+
+#. Id: 42054-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42054-Dialogue.mod:1
+msgid "Can I join you?... I'll never survive on my own..."
+msgstr "我能加入你麼?....我一個人活不下來的..."
+
+#. Id: 42054-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42054-Dialogue.mod:2
+msgid ""
+"Can I come with you?... please don't leave me alone out here like this..."
+msgstr "我能和你一起走麼?....請不要把我丟在這裏..."
+
+#. Id: 42054-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42053-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42054-Dialogue.mod:3
+msgid "Please.. can I follow you?.. I won't make it on my own.. not like this"
+msgstr "求求你...我能跟隨你麼?...我自己像這裏走不出去的..."
+
+#. Id: 42055-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42055-Dialogue.mod:0
+msgid "I've been through too much to die alone like this..."
+msgstr "我已經經曆了太多的這樣的死亡..."
+
+#. Id: 42055-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (42054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42055-Dialogue.mod:1
+msgid "I've come too far... too far to die alone out here in the /SANDS/..."
+msgstr "我已經走的太遠... 遠到隻能孤獨的死在這 /SANDS/..."
+
+#. Id: 42055-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (42054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped holy nation slave (recruit)
+#: 42055-Dialogue.mod:2
+msgid "I can't die now, not like this... "
+msgstr "我不像這樣在這裏死去...."

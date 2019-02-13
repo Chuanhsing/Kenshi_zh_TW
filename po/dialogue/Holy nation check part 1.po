@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 53179-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 53179-Dialogue.mod:0
+msgid "/HOLYGREET/. Your time for a moment."
+msgstr "/HOLYGREET/. 占用你點時間."
+
+#. Id: 53179-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 53179-Dialogue.mod:1
+msgid "/HOLYGREET/, brother. Come, I need to speak with you."
+msgstr "/HOLYGREET/, 兄弟. 過來, 我需要和你談談."
+
+#. Id: 53179-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 53179-Dialogue.mod:2
+msgid ""
+"/HOLYGREET/, brother. I need to check your belongings before you can enter."
+msgstr "/HOLYGREET/, 兄弟.在你進去之前我需要檢查下你的行李."
+
+#. Id: 53181-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 53181-Dialogue.mod:0
+msgid "You! Stop there, I need to talk to you."
+msgstr "你! 停下, 我需要問你點事情."
+
+#. Id: 53181-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation check part 1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 53181-Dialogue.mod:1
+msgid "You, stop. Come talk to me."
+msgstr "你, 停下. 過來."
+
+#~ msgid "Go on through"
+#~ msgstr "走吧"
+
+#~ msgid "Move along"
+#~ msgstr "趕快走"

@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:0
+msgid "Welcome. Are you looking to buy, /BROTHER/?"
+msgstr "歡迎. 你要買點什麼東西麼, /BROTHER/?"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:1
+msgid "/HELLO/, /BROTHER/. Looking to trade?"
+msgstr "/HELLO/, /BROTHER/. 來做生意的?"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:2
+msgid "What can I do for you, /BROTHER/?"
+msgstr "我能為你做點什麼嗎, /BROTHER/?"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:3
+msgid "/HELLO/, /BROTHER/. Need something?"
+msgstr "/HELLO/, /BROTHER/. 需要點什麼嗎?"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:4
+msgid "/HELLO/, /BROTHER/. Can I help you?"
+msgstr "/HELLO/, /BROTHER/. 我能幫你什麼忙嗎?"
+
+#. Id: 50146-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50146-Dialogue.mod:5
+msgid "Can I help you, /BROTHER/?"
+msgstr "需要幫忙嗎, /BROTHER/?"
+
+#. Id: 50144-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50146-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam trader
+#: 50144-Dialogue.mod:0
+msgid "I'd like to trade..."
+msgstr "我想交易..."
+
+#. Id: 50145-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50146-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam trader
+#. Id: 50338-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50145-Dialogue.mod:0 50338-Dialogue.mod:1
+msgid "Forget it, nevermind."
+msgstr "算了,別提了."
+
+#. Id: 50148-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50148-Dialogue.mod:0
+msgid "No... I can't serve you... please... please, just leave..."
+msgstr "不... 我不能給你服務...拜托,請走開..."
+
+#. Id: 50193-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 50193-Dialogue.mod:0
+msgid "/HOLYGREET/, /BROTHER/. Are you looking to buy?"
+msgstr "/HOLYGREET/, /BROTHER/. 您想要買點什麼?"
+
+#. Id: 50193-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 50193-Dialogue.mod:1
+msgid "/HOLYGREET/, /BROTHER/. What can I do for you?"
+msgstr "/HOLYGREET/, /BROTHER/. 有什麼能為您效勞的嗎?"
+
+#. Id: 50197-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50193-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam trader
+#: 50197-Dialogue.mod:0
+msgid "You still believe in god after abandoning the Holy Nation?"
+msgstr "你在拋棄了聖國之後仍然相信神?"
+
+#. Id: 50198-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam trader
+#: 50198-Dialogue.mod:0
+msgid ""
+"Of course. The Lord Okran has freed me from my shackles and given me a more "
+"useful purpose. The Holy Nation twist the word of god to serve only the men, "
+"but it does not make our religion any less true. Who were the scriptures of "
+"radiance written by? A man, the Phoenix. You cannot trust the whispers of "
+"men passed down through generations, true faith comes from the heart."
+msgstr ""
+"當然. 奧克蘭神釋放了我的枷鎖, 並且賜予我一個更崇高的目標. 雖然聖國歪曲神的旨"
+"意來讓人們為他們服務. 但這並不會讓我失去信仰, 是誰譜寫的光輝的聖典? 是他, 菲"
+"尼克斯. 你不要相信人類世世代代傳下來的耳語, 真正的信仰來自內心."

@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:0
+msgid "Welcome!"
+msgstr "歡迎！"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:1
+msgid "Hello!"
+msgstr "哈囉!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:2
+msgid "Welcome! Come and browse!"
+msgstr "歡迎! 來看看吧!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:3
+msgid "Welcome customer!"
+msgstr "歡迎客戶!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:4
+msgid "Welcome new customer!"
+msgstr "歡迎新客戶!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:5
+msgid "Welcome! Have a browse!"
+msgstr "歡迎! 來看一下吧!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:6
+msgid "Come in, have a browse!"
+msgstr "進來看看吧!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:7
+msgid "Take a look around, customer!"
+msgstr "隨便看看, 顧客!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:8
+msgid "/HI/, customer!"
+msgstr "/HI/, 顧客!"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:9
+msgid "Welcome, customer, what can I do for you?"
+msgstr "歡迎, 我能為你做些什麼?"
+
+#. Id: 3201-gamedata.base
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>18
+#: 3201-gamedata.base:10
+msgid "Welcome, take a look around..."
+msgstr "歡迎, 周圍隨便看看吧..."
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:0
+msgid "Welcome back!"
+msgstr "再次歡迎光臨!"
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:1
+msgid "Good to see you again!"
+msgstr "很高興再見到你!"
+
+#. Id: 3204-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3204-gamedata.base:2
+msgid "My favorite customer!"
+msgstr "我最喜歡的客戶!"
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:0
+msgid "Welcome, friend."
+msgstr "歡迎, 朋友."
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:1
+msgid "Looking for something?"
+msgstr "找什麼東西麼?"
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:2
+msgid "Come in. Have a browse."
+msgstr "進來. 隨便看看吧."
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:3
+msgid "Take a look around."
+msgstr "隨便看看吧."
+
+#. Id: 3295-D-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>12, Tag: -1
+#: 3295-D-dialogue-01.mod:4
+msgid "Ah, a new buyer. Welcome."
+msgstr "啊, 一個新的顧客. 歡迎."
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 19261-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. Id: 9522-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 65034-october 17.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65033-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#: 3296-D-dialogue-01.mod:0 18216-Recruits?Dialogue.mod:5 19261-Dialogue.mod:3
+#: 9522-Dialogue.mod:0 65034-october?17.mod:1
+#, fuzzy
+msgid "Welcome back."
+msgstr "再次歡迎光臨!"
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:1
+msgid "Good to see you again."
+msgstr "很高興再次見到你."
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:2
+msgid "Well, well. My favorite customer!"
+msgstr "瞧瞧誰來了. 我最喜歡的顧客!"
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:3
+msgid "Back for more goods?"
+msgstr "來買更多東西了麼?"
+
+#. Id: 3296-D-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#: 3296-D-dialogue-01.mod:4
+msgid "Did you forget to buy something?"
+msgstr "你忘記買什麼啦嘛?"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:0
+msgid "Back again, thief!"
+msgstr "你又來了, 小偷!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:1
+msgid "It's that damn thief again!"
+msgstr "又是那該死的小偷!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:2
+msgid "Damn thief, /GETLOST/!"
+msgstr "該死的小偷, /GETLOST/!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:4
+msgid "You're not welcome here, thief!"
+msgstr "這裏不歡迎你, 小偷!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:5
+msgid "Think I'm stupid? Get out, thief!"
+msgstr "覺得我會忘記? 滾出去, 小偷!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:6
+msgid "You, thief! Get out!"
+msgstr "你, 小偷! 滾出去!"
+
+#. Id: 12596-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shop welcome customer
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 12596-gamedata.base:7
+msgid "I never forget a thief! Leave!"
+msgstr "你這個小偷的臉我可以記一輩子! 滾出去!"
+
+#~ msgid "Get lost, thief!"
+#~ msgstr "走開, 小偷!"

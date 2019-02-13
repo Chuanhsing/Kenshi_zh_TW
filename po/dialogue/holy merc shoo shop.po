@@ -1,0 +1,670 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 43385-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 46925-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (46924-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 43385-Dialogue.mod:0 46925-Dialogue.mod:1
+msgid "We're closing up now, /BROTHER/"
+msgstr "我們現在要關門了, /BROTHER/"
+
+#. Id: 43385-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 46925-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (46924-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 43385-Dialogue.mod:1 46925-Dialogue.mod:2
+msgid "Shop's closing, /BROTHER/. Make your way out."
+msgstr "商店要關門了, /BROTHER/. 離開吧."
+
+#. Id: 43385-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 46925-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (46924-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 43385-Dialogue.mod:2 46925-Dialogue.mod:3
+msgid "Gotta close up now, /BROTHER/..."
+msgstr "要關門啦, /BROTHER/..."
+
+#. Id: 43386-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46928-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (46925-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43386-Dialogue.mod:0 46928-Dialogue.mod:0
+msgid "Be quick. I got places to be."
+msgstr "快點離開吧. 我趕時間."
+
+#. Id: 43386-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46928-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (46925-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43386-Dialogue.mod:1 46928-Dialogue.mod:1
+msgid "Make it quick. I ain't paid overtime."
+msgstr "快點. 我沒有加班的打算."
+
+#. Id: 43386-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46928-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (46925-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43386-Dialogue.mod:2 46928-Dialogue.mod:2
+msgid "Chop chop, shoo!"
+msgstr "快點出去, 噓!"
+
+#. Id: 43386-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46928-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (46925-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43386-Dialogue.mod:3 46928-Dialogue.mod:3
+msgid "Go on, shoo..."
+msgstr "出去, 噓...."
+
+#. Id: 43386-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46891-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46928-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (46925-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43386-Dialogue.mod:4 46891-Dialogue.mod:3 46928-Dialogue.mod:4
+#: 44137-Dialogue.mod:7
+msgid "Hurry it up, shoo, come on..."
+msgstr ""
+
+#. Id: 43387-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46929-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46928-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43387-Dialogue.mod:0 46893-Dialogue.mod:1 46929-Dialogue.mod:0
+msgid "Still here? Leave."
+msgstr "還在這裏? 出去."
+
+#. Id: 43387-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46929-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46928-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43387-Dialogue.mod:1 46893-Dialogue.mod:2 46929-Dialogue.mod:1
+msgid "I'm starting to get impatient..."
+msgstr "我開始失去耐心了..."
+
+#. Id: 43387-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46929-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46928-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43387-Dialogue.mod:2 46893-Dialogue.mod:3 46929-Dialogue.mod:2
+msgid "I'm growing tired of this..."
+msgstr "我有點不耐煩了, 出去..."
+
+#. Id: 43387-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46929-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (46928-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43387-Dialogue.mod:3 46893-Dialogue.mod:4 46929-Dialogue.mod:3
+msgid "I'm not gonna ask you again..."
+msgstr "我不會再問你了.."
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43388-Dialogue.mod:1 46930-Dialogue.mod:1 44139-Dialogue.mod:5
+msgid "Timewasters..."
+msgstr ""
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43388-Dialogue.mod:3 46930-Dialogue.mod:3
+msgid "There's a message for you outside..."
+msgstr "這是讓你離開的意思..."
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43388-Dialogue.mod:4 46930-Dialogue.mod:4
+msgid "Come on already, my bed's calling me...."
+msgstr "快點走啦, 我的床在呼喚我.."
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43388-Dialogue.mod:5 46930-Dialogue.mod:5
+msgid "Come on, it's bed time already..."
+msgstr "嘿, 現在已經是睡覺時間了, 快點出去..."
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.6
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43388-Dialogue.mod:6 46930-Dialogue.mod:6
+msgid "AHEM!"
+msgstr "咳咳!"
+
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.7
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 43388-Dialogue.mod:7 46893-Dialogue.mod:5 46930-Dialogue.mod:7
+msgid "Don't you have some place to be?"
+msgstr "你沒有地方去麼? 那也不要在這裏打擾我."
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:0 46900-Dialogue.mod:0
+msgid "'Bout time..."
+msgstr "'錘人時間..."
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:1 46900-Dialogue.mod:1
+msgid "Thought /HE/'d never leave..."
+msgstr "看起來 /HE/ 永遠不想離開了..."
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:2 46900-Dialogue.mod:2
+msgid "Ah! Peace!"
+msgstr "啊! 安寧!"
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:3 46900-Dialogue.mod:3
+msgid "Phew! Now for some ME time..."
+msgstr "不快! 現在需要你來償還我的時間了...."
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:4 46900-Dialogue.mod:4
+msgid "Some people... "
+msgstr "有些人...."
+
+#. Id: 43848-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43848-Dialogue.mod:5 46900-Dialogue.mod:5
+msgid "Some people are so rude..."
+msgstr "有些人過於無禮了..."
+
+#. Id: 49906-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 49906-Dialogue.mod:0
+msgid "We're closing up now, beast. Scram."
+msgstr "我們現在要關門了, beast. Scram."
+
+#. Id: 49906-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 49906-Dialogue.mod:1
+msgid "You need to leave, beast. We're closed."
+msgstr "你得離開了, beast. 我們要關門了."
+
+#. Id: 49906-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 49906-Dialogue.mod:2
+msgid "Leave, beast. We're closed."
+msgstr "離開, 我們關門了."
+
+#. Id: 49909-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (49906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. Id: 3128-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 12635-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12633-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 95837-__december17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 98831-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#: 49909-Dialogue.mod:1 3128-gamedata.base:0 12635-Dialogue?(11)?(2).mod:0
+#: 95837-__december17.mod:0 98831-Dialogue.mod:0
+#, fuzzy
+msgid "Get out."
+msgstr "出去."
+
+#. Id: 49909-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (49906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49909-Dialogue.mod:2
+msgid "I said go."
+msgstr "我說了離開."
+
+#. Id: 49915-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49915-Dialogue.mod:0
+msgid "Scam!"
+msgstr "該死的, 快離開!"
+
+#. Id: 49915-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12350-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12351-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49915-Dialogue.mod:1 13945-Escapes.mod:6 12350-Dialogue?(10).mod:4
+msgid "Beat it!"
+msgstr "扁他!"
+
+#. Id: 49917-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49917-Dialogue.mod:0
+msgid ""
+"Tch. Boss won't be happy when we gotta clean your carcass out the shop..."
+msgstr "Tch. 我們把你屍體掃出店裏的時候老板也不會開心的..."
+
+#. Id: 49917-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49917-Dialogue.mod:1
+msgid "Tch. Great. Don't say I didn't warn you, beast!"
+msgstr "Tch. 該死. 別說我沒有警告過你, beast!"
+
+#. Id: 49917-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (49915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49917-Dialogue.mod:2
+msgid "DO.. YOU.. SPEAK... PERSON..? Tch!"
+msgstr "你聽不懂人話麼? Tch!"
+
+#. Id: 49917-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (49915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 49917-Dialogue.mod:3
+msgid "Great. Now things gotta get messy!"
+msgstr "棒極了. 現在這個事情變得麻煩了!"
+
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 50122-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam refugee spots player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander
+#. Id: 1532358-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64645-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 49910-Dialogue.mod:0 50122-Dialogue.mod:2 1532358-Dialogue.mod:0
+#: 64645-Dialogue.mod:0
+msgid "Skeleton!"
+msgstr "骨人!"
+
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 41096-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 41064-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver paladin witness assault
+#: 49910-Dialogue.mod:1 41096-Dialogue.mod:2 41064-Dialogue.mod:1
+msgid "Dark one!"
+msgstr "黑暗之人!"
+
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 49910-Dialogue.mod:2
+msgid "The darkness! Skeleton!"
+msgstr "黑暗惡魔! 骨人!"
+
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 49910-Dialogue.mod:3
+msgid "Skeletons?! We're all screwed!"
+msgstr "骨人?! 該死我們要完蛋了!"
+
+#. Id: 49910-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 49910-Dialogue.mod:4
+msgid "Skeleton! Oh god, lord Okran, it's hideous!"
+msgstr "骨人! 天呐, 奧克蘭主, 這太可怕了!"

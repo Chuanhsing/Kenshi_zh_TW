@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#. Id: 7562-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7562-Dialogue.mod:0
+msgid "You!! You killed /NAME/!"
+msgstr "你!! 你殺了 /NAME/!"
+
+#. Id: 7562-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7562-Dialogue.mod:1
+msgid "You! You murdered my friend!"
+msgstr "你!! 你殺了我朋友!"
+
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7564-Dialogue.mod:1
+msgid "I'll butcher you for what you did!"
+msgstr "我要讓你血償!"
+
+#. Id: 7564-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7564-Dialogue.mod:2
+msgid "I hate you! I'll kill you!"
+msgstr "我恨你! 我要殺了你!"
+
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7565-Dialogue.mod:2
+msgid "Die die die!"
+msgstr "給我死!"
+
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#: 7565-Dialogue.mod:3
+msgid "I hate you!"
+msgstr "我恨你!"
+
+#~ msgid "I'll kill you!"
+#~ msgstr "我要殺了你!"

@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 59212-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59212-Dialogue.mod:0
+msgid "Sir."
+msgstr "閣下."
+
+#. Id: 59218-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59218-Dialogue.mod:0
+msgid ""
+"Noble Squire Supreme Yamdu, nice to meet you, sir. We handle master Longen's "
+"businesses. Is there anything we can help you with, sir?"
+msgstr ""
+"在下貴族總管亞麻大, 很榮幸見到您.我們負責處理我們主人龍恩的事務. 有什麼需要幫"
+"忙的嗎,閣下?"
+
+#. Id: 59219-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 59219-Dialogue.mod:0
+msgid "Yes, I want to make an alliance."
+msgstr "好的, 我想加盟."
+
+#. Id: 59220-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59219-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59220-Dialogue.mod:0
+msgid ""
+"Oh, but that's easy, sir! Lifetime membership to the Traders Guild costs "
+"100,000 Cats. Unless you have a trading post in the area. Do you have a "
+"trading post, sir?"
+msgstr ""
+"好的, 馬上給您安排! 商人工會終生會員需繳納100, 000 Cats. 除非您在這片地區有交"
+"易站. 請問您名下有交易站嗎, 閣下？"
+
+#. Id: 59221-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 59221-Dialogue.mod:0
+msgid "Stop calling me sir."
+msgstr "不用叫我閣下."
+
+#. Id: 59223-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59221-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59223-Dialogue.mod:0
+msgid "B-but.... [He stutters and looks bemused]... "
+msgstr "但-但是...[他頓住了一臉茫然]... "
+
+#. Id: 59224-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL<1, Tag: -1
+#. Id: 59232-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#: 59224-Dialogue.mod:0 59232-Dialogue.mod:0
+msgid "Okay, sign me up"
+msgstr "好, 我加入"
+
+#. Id: 59233-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59224-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59233-Dialogue.mod:0
+msgid ""
+"Oh good, sir! Welcome to the Traders Guild. Please, take your membership "
+"pack and have a nice day."
+msgstr ""
+"哦很好, 閣下! 歡迎您加入貿易行會. 請帶上這份會員包, 祝您有個美好的一天."
+
+#. Id: 59234-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 59243-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59242-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59234-Dialogue.mod:0 59243-Dialogue.mod:0
+msgid "Safe travels, sir..."
+msgstr "一路順風, 閣下..."
+
+#. Id: 59225-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL>-1, Tag: -1
+#: 59225-Dialogue.mod:0
+msgid "I do have an outpost..."
+msgstr "我確實有一個據點..."
+
+#. Id: 59229-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59229-Dialogue.mod:0
+msgid "Oh good, sir! Then you get discounts, 75,000 Cats."
+msgstr "很好, 閣下!那麼您將享受折扣, 75,000 Cats."
+
+#. Id: 59259-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 60930-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59259-Dialogue.mod:0 60930-Dialogue.mod:0
+msgid "So, what does my membership get me?"
+msgstr "說起來, 我的會員資格有什麼好處？"
+
+#. Id: 59260-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 60931-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59260-Dialogue.mod:0 60931-Dialogue.mod:0
+msgid ""
+"Oh, so many things, sir. Free trade, protection, slave exemption, and "
+"'class', of course. It is the desert man's dream to one day become a member "
+"of the fine Traders Guild!"
+msgstr ""
+"噢, 很多東西, 閣下. 自由貿易, 保護, 奴隸豁免, 保護, 免除奴役, 當然還能享有'階"
+"級特權'. 有朝一日能成為光榮的貿易行會的一份子是所有沙漠人的夢想！"
+
+#. Id: 64253-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (59260-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75000, Tag: -1
+#. Id: 64249-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<100000, Tag: -1
+#: 64253-Dialogue.mod:0 64249-Dialogue.mod:0
+msgid "I can't afford a membership right now."
+msgstr "我現在還付不起入會費用."
+
+#. Id: 59265-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59226-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59265-Dialogue.mod:0
+msgid "No problem. You know where to find us if you need anything..."
+msgstr "沒有問題. 您有任何需求請再來找我們..."
+
+#. Id: 64247-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59220-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL<0, Tag: -1
+#: 64247-Dialogue.mod:0
+msgid "I don't have a trading post."
+msgstr "我名下沒有交易站."
+
+#. Id: 64248-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 64248-Dialogue.mod:0
+msgid ""
+"I see. Then I cannot give you discount, how sad. Your membership will cost "
+"the full price, sir."
+msgstr ""
+"好的. 這樣的話我無法給您折扣, 真是遺憾. 您的會員資格需要繳納全款, 閣下."
+
+#. Id: 59242-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 59242-Dialogue.mod:0
+msgid "No, nothing thank you."
+msgstr "好, 沒事的謝謝你."
+
+#. Id: 59215-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59212-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 59215-Dialogue.mod:0
+msgid "I'm not a 'sir'..."
+msgstr "我不是'閣下'..."
+
+#. Id: 1534290-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59212-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534290-Dialogue.mod:0
+msgid "Let's talk about war."
+msgstr "讓我們談談戰況."
+
+#. Id: 1534291-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534291-Dialogue.mod:0
+msgid "Oh certainly, sir."
+msgstr "悉聽尊便, 閣下."
+
+#. Id: 1534297-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534297-Dialogue.mod:0
+msgid ""
+"Good call, sir. The Holy Nation wastes many resources, it’s a shame to leave "
+"all of that iron ore unharvested when we can claim it for ourselves and put "
+"some of those uneducated civilians to good use."
+msgstr ""
+"問得好, 閣下. 聖國浪費了太多資源, 明明有那麼多金屬礦可供我們開發還能順帶讓那"
+"些沒教養的市民們能派上好用場."
+
+#. Id: 1534302-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534297-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. Id: 1534308-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534302-Dialogue.mod:0 1534308-Dialogue.mod:0
+msgid "So where do we start?"
+msgstr "那麼我們該從何說起呢?"
+
+#. Id: 1534303-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534302-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534303-Dialogue.mod:0
+msgid ""
+"Well you see, sir. We don't really have to get our hands bloody at all. We "
+"can unleash a great chaos upon the Holy Nation, and we can have the Shek "
+"destroy themselves too, as they are so raring to do."
+msgstr ""
+"您能明白的, 閣下. 我們真的沒必要讓血髒了手. 我們完全能夠在聖國內部引起巨大混"
+"亂, 也能讓史克人們把自己玩死, 說得好像他們自己就不會玩死自己一樣."
+
+#. Id: 1534304-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534303-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534304-Dialogue.mod:0
+msgid ""
+"All you need to do is assassinate the Stone Golem, sir. She’s the only thing "
+"holding the Shek back from war. Take her out of the picture and the Shek "
+"will surely fight themselves extinct, and the Holy Nation will be overrun "
+"with any surviving war mongerers."
+msgstr ""
+"你隻要刺殺了那個'岩魔'女王, 閣下. 她是唯一能阻止史克內亂的人. 把她踢出局後史"
+"克人一定會自相殘殺到滅絕, 這之後聖國一定能碾壓任何內戰中的幸存者."
+
+#. Id: 1534305-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534305-Dialogue.mod:0
+msgid "Seems like pretty blood hands to me..."
+msgstr "這在我看來的確手上會髒很多血..."
+
+#. Id: 1534306-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534306-Dialogue.mod:0
+msgid ""
+"Oh, of course YOU'LL need to get your hands bloody when you assassinate the "
+"queen. The rest of us though, sir, we’ll be completely unsullied."
+msgstr ""
+"啊, 當您刺殺女王的時候您的手上'當然會'沾上血. 至於我們這些剩餘的人, 閣下, 我"
+"們可是完全清白的."
+
+#. Id: 1534316-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534316-Dialogue.mod:0
+msgid "Thanks for the tip, Yamdu."
+msgstr "感謝你的情報, 亞麻大."
+
+#. Id: 1534317-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534317-Dialogue.mod:0
+msgid "I have another question..."
+msgstr "我還有個疑問..."
+
+#. Id: 1534318-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534318-Dialogue.mod:0
+msgid "You do, sir?"
+msgstr "請講, 閣下?"
+
+#. Id: 1534436-__Fixes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534436-__Fixes.mod:0
+msgid ""
+"Oh yes, sir. Very nice work eradicating the Stone Golem. Okran's Pride is "
+"now in chaos with kamikaze shek, their paladins are starting to become "
+"overwhelmed..."
+msgstr ""
+"好的, 閣下. 抹除'岩魔'的工作非常出色. ‘奧克蘭之耀’現在已經陷入史克敢死隊引起"
+"的混亂中, 他們的聖騎士們已經開始被壓製了..."
+
+#. Id: 1534437-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534437-__Fixes.mod:0
+msgid ""
+"They're still holding on to a strong defensive position on the southern "
+"border though. I suggest next assassinating Seta in the town of Stack. You "
+"would essentially be opening the Holy Nation's back door nice and wide for "
+"the attacking Shek to have their vengeance even more freely, sir."
+msgstr ""
+"他們在南部邊境依然建立了一個強大的防禦據點. 我建議下一步到‘斯塔克’城刺殺塞"
+"塔. 本質上您相當於在聖國開了一道又寬又便利的後門以供進攻的史克人複仇得更加自"
+"由順利, 閣下."
+
+#. Id: 1534438-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534438-__Fixes.mod:0
+msgid ""
+"The High Inquisitors still hold strong defensive positions though. I suggest "
+"next assassinating Seta in the town of Stack. You would essentially be "
+"opening the Holy Nation's back door nice and wide for the attacking Shek to "
+"have their vengeance even more freely, sir."
+msgstr ""
+"至高審判官依然建立了強大的防禦據點, 我建議下一步到‘斯塔克’城刺殺塞塔. 本質上"
+"您相當於在聖國開了一道又寬又便利的後門以供進攻的史克人複仇得更加自由順利, 閣"
+"下."
+
+#. Id: 1534439-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534439-__Fixes.mod:0
+msgid ""
+"With Seta out of the way and their southern defenses open, the Shek are "
+"overrunning Okran's Plains like an infestation. Dispose of Valtena and we "
+"can very easily nudge Tengu into sending United Cities forces in to Okran's "
+"Shield. Then we finally have our foot in the door to harvest those green "
+"plains see, sir."
+msgstr ""
+"當塞塔不再成為史克人的阻礙, 聖國的南部防線大開, 史克像蟲群一樣席卷了奧克蘭平"
+"原. 借助瓦爾特那我們將輕易推動天皇派遣聯合城軍隊進入奧克蘭之盾. 屆時我們終於"
+"能踏上那些綠色的平原, 閣下."
+
+#. Id: 1534441-__Fixes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534436-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534441-__Fixes.mod:0
+msgid ""
+"Both of the Phoenix' inquisitors are out of the way and we've captured their "
+"richest resources. As far as the Traders Guild is concerned, we have all we "
+"need from Okran's Pride. We'd prefer not to take Blister Hill and have such "
+"power go too much to Tengu's head, sir..."
+msgstr ""
+"菲尼克斯的兩個最高審判官都不再成為阻礙後我們占據了他們最富有的資源. 目前經過"
+"商人工會考量後, 我們能從奧克蘭之耀獲取一切所需. 我們傾向於不再繼續拿下水泡山"
+"以至於勢力太大驚動天皇, 閣下..."
+
+#. Id: 1534298-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534298-Dialogue.mod:0
+msgid ""
+"Ah yes, sir. Profits in the weapons trade... [He pulls out a clip board]... "
+"have plummeted 45% since the Stone Golem took the throne in Stenn. Starting "
+"a war with the Shek would be very beneficial to kickstart a few more sales."
+msgstr ""
+"嗯好的, 閣下. 武器交易的利潤...[他拉出一張剪貼板]...已經垂直下跌了45%, 托‘岩"
+"魔’在斯坦登基的福. 將史克王國拖入戰爭將對開展更多生意有巨大幫助."
+
+#. Id: 1534307-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534308-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534307-Dialogue.mod:0
+msgid ""
+"Well, sir, when it comes to the Shek Kingdom we can kill two bonedogs with "
+"one nodachi, see. The Stone Golem, stationed in Admag, is the only thing "
+"holding the Shek back from war. Assassinate her covertly and the Shek "
+"extremists will surely assume the Phoenix responsible. They'll fight "
+"themselves extinct and the Holy Nation will be overrun with the vengeful war "
+"mongerers that are left..."
+msgstr ""
+"那麼, 閣下, 關於史克王國我們有句俗話說的好, 一把野太刀能殺兩隻骨狗, 您懂的. "
+"駐紮在埃德馬歌的'岩魔'是組織史克王國陷入戰爭的唯一要素. 暗殺掉她後顯然史克極"
+"端份子將認為是菲尼克斯幹的. 史克人將內鬥至滅絕而聖國將能碾壓內戰幸存者..."
+
+#. Id: 1534309-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534307-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534309-Dialogue.mod:0
+msgid ""
+"Lord Longen will make a tidy profit and the Slave Traders will have lots of "
+"new resources to mine in the Holy Nation plains. Not to mention the Shek and "
+"the Holy Nation will no longer harrass any innocents that happen not to look "
+"like them. Everybody wins."
+msgstr ""
+"龍恩大人將獲取穩定的收益並且奴隸販子們將能有更多人力開發聖國大地的礦物. 更別"
+"提史克人和聖國人將不再騷擾那些湊巧看起來非己族類的無辜者了, 這對大家都好."
+
+#. Id: 1534310-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534310-Dialogue.mod:0
+msgid "Yamdu... do you have a soul?"
+msgstr "亞麻大... 你有良心嗎?"
+
+#. Id: 1534311-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534310-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534311-Dialogue.mod:0
+msgid "A soul, sir?"
+msgstr "良心是啥, 閣下？"
+
+#. Id: 1534312-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1534311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534312-Dialogue.mod:0
+msgid "Do you only ever think about profits?"
+msgstr "你想到的從來都隻有利益嗎?"
+
+#. Id: 1534313-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (1534312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534313-Dialogue.mod:0
+msgid ""
+"Oh sir, it's Yamdu's job. This is how we keep ourselves from going insane "
+"after all, isn't it? By doing the best job we can do, ahaha haha ha."
+msgstr ""
+"啊哈, 閣下, 這是亞麻大的工作. 避免我們發瘋的最佳辦法, 歸根結底就是幹我們最擅"
+"長的工作, 不是嗎?啊哈哈哈 哈哈哈哈 哈哈 哈."
+
+#. Id: 1534314-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (1534313-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534314-Dialogue.mod:0
+msgid "[He sticks a thumb up and his empty black eyes glisten]"
+msgstr "[他豎起了一根拇指,空洞的黑色眼睛閃閃發光 ]"
+
+#. Id: 1534315-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (1534314-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534315-Dialogue.mod:0
+msgid "... Forget I said anything."
+msgstr "...當我什麼都沒說過."
+
+#. Id: 1534321-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (1534314-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534321-Dialogue.mod:0
+msgid "Aha...haha."
+msgstr "啊哈...哈哈."
+
+#. Id: 1534319-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534319-Dialogue.mod:0
+msgid "I don't care about profits, Yamdu. I just want to kill."
+msgstr "我不在乎利潤, 亞麻大. 我隻想殺人."
+
+#. Id: 1534294-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534294-Dialogue.mod:0
+msgid "I want to destroy the swampers."
+msgstr "我想摧毀蜂巢人."
+
+#. Id: 1534299-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534294-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534299-Dialogue.mod:0
+msgid ""
+"The swampers? Oh, no sir, the swampers are really quite profitable for us. "
+"Best to leave them be."
+msgstr "蜂巢人? 哦別把, 閣下, 蜂巢人真的給我們帶來了很多利潤. 最好放過他們吧."
+
+#. Id: 1534295-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534295-Dialogue.mod:0
+msgid "I want to destroy the rebel farmers."
+msgstr "我想摧毀造反農民."
+
+#. Id: 1534300-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534300-Dialogue.mod:0
+msgid ""
+"Oh, but sir, there is much less competition for us when the farmers are "
+"hiding in the mountains. Since Simion organised his bandits, the slave "
+"farm's profits have gone through the roof. Some of the caravans are taking a "
+"hit, but demand has increased so... highs and lows, sir."
+msgstr ""
+"噢, 但是閣下, 那些農民躲進山裏能大大減少我們遇到的競爭. 自從西蒙組建了他的匪"
+"幫, 我們的奴隸農場的利潤增長都高過屋頂了. 雖然一些商隊受到了襲擊, 但是市場需"
+"求增長得實在太... 有利有弊, 閣下."
+
+#. Id: 1534301-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534301-Dialogue.mod:0
+msgid ""
+"Ah yes, sir. Quite troublesome for production... The main leaders are hiding "
+"in the Forbidden Zone, south of the desert, we don’t know where exactly. The "
+"Forbidden Zone is out of bounds, it became expensive sending soldiers "
+"there... as thrall feed imaginably. But in order for us to continue "
+"expanding, Tinfist’s operation needs to be shut down. Once he is killed, his "
+"faction will crumble. You would be rewarded well for his eradication."
+msgstr ""
+"噢好的, 閣下. 雖然生產部門會感到十分頭疼... 主要領導人們都隱藏在禁忌之地, 位"
+"於沙漠南部, 我們不清楚具體位置. 禁忌之地位於境外, 所以派士兵過去的花費將過於"
+"昂貴... 從奴隸們的營養狀況能看得出來. 但是為了我們的繼續擴張. 小拳頭的行動需"
+"要被遏止. 一旦他被殺, 他的勢力將會瓦解. 消滅他你將會被重賞."
+
+#. Id: 1534322-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534322-Dialogue.mod:0
+msgid ""
+"All I can say, sir, is search south. He’ll likely be hiding in a dangerous "
+"spot you wouldn’t expect. He is very sneaky afterall, sir."
+msgstr ""
+"我隻能建議, 閣下, 您去南部搜尋. 他很可能隱藏在某個您意想不到的危險地點. 畢竟"
+"此人十分狡詐, 閣下."
+
+#. Id: 59240-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 59240-Dialogue.mod:0
+msgid "Good to see you again, sir. Is there anything I can help you with?"
+msgstr "很高興再見到您, 閣下. 有什麼我能幫您的嗎?"
+
+#~ msgid "Nevermind, I've changed my mind."
+#~ msgstr "算了, 我改變主意了."

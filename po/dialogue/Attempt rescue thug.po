@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 10:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 13234-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 14418-Dialogue?(4).mod:0 13234-Escapes.mod:0
+msgid "Come on, come on"
+msgstr ""
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 14418-Dialogue?(4).mod:1
+msgid "Yeah, that's it..."
+msgstr "對,就這樣..."
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 14418-Dialogue?(4).mod:2
+msgid "Yeah... keep going..."
+msgstr "對...繼續..."
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 14418-Dialogue?(4).mod:3
+msgid "Nearly got it..."
+msgstr "就差一點了..."
+
+#. Id: 14418-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attempt rescue thug
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 14418-Dialogue?(4).mod:4
+msgid "Easy..."
+msgstr "放鬆..."

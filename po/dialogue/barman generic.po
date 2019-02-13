@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 56169-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: barman generic
+#: 56169-rebirth.mod:0
+msgid "What can I get you?"
+msgstr "我能得到什麼?"
+
+#. Id: 56169-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: barman generic
+#: 56169-rebirth.mod:1
+msgid "Whaddya want?"
+msgstr "那麼, 你需要什麼?"
+
+#. Id: 56169-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: barman generic
+#. Id: 3953-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk drifter
+#: 56169-rebirth.mod:3 3953-gamedata.base:3
+msgid "Hmm?"
+msgstr ""
+
+#. Id: 56170-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56169-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: barman generic
+#: 56170-rebirth.mod:0
+msgid "Show me what you got."
+msgstr "給我看看你有什麼."
+
+#. Id: 56170-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56169-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: barman generic
+#: 56170-rebirth.mod:1
+msgid "Drink."
+msgstr "飲料."
+
+#. Id: 56170-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56169-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: barman generic
+#: 56170-rebirth.mod:2
+msgid "Food."
+msgstr "食物."
+
+#. Id: 56171-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56169-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: barman generic
+#. Id: 43943-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43940-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy farmer boss
+#. Id: 1829-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1827-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 5468-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5465-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. Id: 14486-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14475-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#: 56171-rebirth.mod:0 43943-rebirth.mod:0 1829-gamedata.base:0
+#: 5468-gamedata.base:0 14486-rebirth.mod:0
+msgid "Nothing"
+msgstr ""
+
+#. Id: 56171-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56169-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: barman generic
+#. Id: 62840-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62837-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: goat buying
+#. Id: 5094-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. Id: 44817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#. Id: 5470-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. Id: 5476-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. Id: 5468-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5465-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. Id: 97577-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97569-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive robo shopkeep talk to
+#. Id: 98476-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. Id: 18165-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18163-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 5000
+#: 56171-rebirth.mod:1 62840-rebirth.mod:0 5094-gamedata.base:2
+#: 44817-Dialogue.mod:0 5470-gamedata.base:0 5476-gamedata.base:0
+#: 5468-gamedata.base:1 97577-__March?18.mod:0 98476-__March?18.mod:0
+#: 18165-Recruits?Dialogue.mod:0
+msgid "Nevermind"
+msgstr ""

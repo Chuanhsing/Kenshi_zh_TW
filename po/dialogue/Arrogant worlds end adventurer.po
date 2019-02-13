@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50791-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 50791-Dialogue.mod:0
+msgid ""
+"You there, looking for work? I'm leaving on an expedition at dawn tomorrow, "
+"I'll need a strong back to carry my equipment. You'll get 3000 Cats upfront "
+"and you'll be fed well during your service, how about it?"
+msgstr ""
+"嘿你,想找工作嗎?我的探險隊將與明天一早出發,需要個強壯的家夥來扛我的裝備.你會"
+"得到3000Cats的並且保障整個工作期間的吃喝,怎麼樣?"
+
+#. Id: 50792-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50792-Dialogue.mod:0
+msgid "I was about to ask you the same thing..."
+msgstr "我正想問你這件事..."
+
+#. Id: 50796-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50796-Dialogue.mod:0
+msgid ""
+"Hah! You, an adventurer!? An amateur like you wouldn't last ten minutes "
+"navigating uncharted lands! The winged beak ogres would eat you alive! And "
+"that's if the cannibals didn't make you run home pissing your pants first, "
+"hah!"
+msgstr ""
+"哈!你是個冒險者!?像你這樣的菜鳥穿越未知的土地一般堅持不了十分種! 飛行喙嘴獸會"
+"把你活活吞下去!當然前提是你不會被食人族嚇的回家尿褲子,嗬嗬!"
+
+#. Id: 50798-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50798-Dialogue.mod:0
+msgid "Beak ogres? Already killed twenty of 'em. What of it."
+msgstr "喙嘴獸?我已經殺掉二十隻.怎麼了."
+
+#. Id: 50802-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50802-Dialogue.mod:0
+msgid ""
+"That's nothing! I've seen and slaughtered fifty of them in my time. Lie "
+"harder next time, amateur..."
+msgstr "那並不怎麼樣! 到現在為止我已經殺了五十隻了.下次吹牛再吹大點,菜鳥..."
+
+#. Id: 50803-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50803-Dialogue.mod:0
+msgid ""
+"Call me an amateur when you kill your first flame behemoth, sweetie (Walk "
+"away)"
+msgstr "等你殺死你這輩子第一隻火焰比蒙巨獸再叫我菜鳥,甜心(離開)"
+
+#. Id: 50804-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50804-Dialogue.mod:0
+msgid "Flame behe...? Uh, right, yeah, killed ten of them already. "
+msgstr "火焰比...比...?呃,是的,對,已經殺掉十隻了."
+
+#. Id: 50805-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50805-Dialogue.mod:0
+msgid "To hell with this. I've got more important things to do."
+msgstr "見鬼去吧.我還有更重要的事做."
+
+#. Id: 50806-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50806-Dialogue.mod:0
+msgid ""
+"Dogshit. You couldn't even slaughter a swamp raptor with that rusty sword."
+msgstr "太荒唐了.你那把破劍甚至連沼澤野獸都殺不掉一隻."
+
+#. Id: 50807-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50806-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50807-Dialogue.mod:0
+msgid ""
+"Any adventurer would know that a worn sword is the sign of good use! Look, "
+"unless you're here to work as my pack gar, I've no interest in wasting my "
+"breath on amateurs..."
+msgstr ""
+"任何一個冒險者都知道一把鏽劍是曆經風雨的標誌!如果你不是來這裏給我做騾子的,就"
+"不要再浪費我的時間了.."
+
+#. Id: 50808-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 50817-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50808-Dialogue.mod:0 50817-Dialogue.mod:0
+msgid "Bar keep! Bring me another rum, I'm out."
+msgstr "服務員!再來一瓶朗姆酒,就這樣吧."
+
+#. Id: 50797-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50797-Dialogue.mod:0
+msgid "Winged beak ogres? You're full of dogshit."
+msgstr "飛行喙嘴獸?你滿嘴都是謊言."
+
+#. Id: 50801-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50801-Dialogue.mod:0
+msgid ""
+"Travel far enough and you'll see them alright. Look like gutters but bigger, "
+"and with wings too. Trick is to pull your shit together, see, they're blind "
+"but they smell fear. Surviving an encounter with one of those is the true "
+"test of a tech hunter with balls of iron..."
+msgstr ""
+"隻要你走的夠遠你就會見到他們.外形上像戈特但是更大,而且有翅膀.騙你就是狗屎, 聽"
+"著, 他們雖然看不見但是嗅覺很靈敏. 遇到一個並戰勝它是對一個科技獵手的真正試"
+"煉.."
+
+#. Id: 50811-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50811-Dialogue.mod:0
+msgid "Interesting, where can I find these?"
+msgstr "有意思,我到哪能找到它們?"
+
+#. Id: 50814-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50814-Dialogue.mod:0
+msgid ""
+"To the north west, a black valley filled with ruined cities. It's at least a "
+"month's journey though, and the path is infested with bandits, cannibals and "
+"every kind of wild beast imaginable. You'd be lucky just to make it there in "
+"one piece, take my advice and go back home, /OUTLANDER/. "
+msgstr ""
+"在西北方,一個充滿廢墟的黑色山穀.至少一個月的路程,一路上都是強盜,食人族和各種"
+"各樣你想象的到的野獸.你要十分幸運才能完好無損的到那,接受我的建議回家吧, /"
+"OUTLANDER/. "
+
+#. Id: 50812-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50812-Dialogue.mod:0
+msgid "Ha, right, whatever you say. Maybe lay off the sauce for a while, eh?"
+msgstr "哈,好,不管你怎麼說,能把你的無理收斂一會嗎,嗯?"
+
+#. Id: 50815-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50812-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50815-Dialogue.mod:0
+msgid ""
+"Look, unless you're here to work as my pack gar, I've no interest in wasting "
+"my breath on amateurs..."
+msgstr "聽著,除非你是來這裏做騾子幫我駝東西的,否則就不要再浪費我的時間了..."
+
+#. Id: 50816-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50801-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50816-Dialogue.mod:0
+msgid "I'm leaving. I don't have time for your nonsense stories."
+msgstr "我要走了.我沒時間聽你這些無聊的故事."
+
+#. Id: 50799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50796-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 9452-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 50799-Dialogue.mod:0 9452-Dialogue.mod:2
+msgid "I don't have time for this..."
+msgstr "我沒有時間做這個..."
+
+#. Id: 50800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50800-Dialogue.mod:0
+msgid "Hah, thinks /HEIS/ an adventurer..."
+msgstr "哈,  看來 /HEIS/ 是一個冒險者..."
+
+#. Id: 50793-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50793-Dialogue.mod:0
+msgid "What?! That's my line!"
+msgstr "什麼?!這句話該由我來說!"
+
+#. Id: 50794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50794-Dialogue.mod:0
+msgid "Do I look like a goddamn pack gar to you?"
+msgstr "我看起來像你該死的騾子嗎？"
+
+#. Id: 50810-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50810-Dialogue.mod:0
+msgid ""
+"Well, you certainly don't look like an adventurer, so why else would you be "
+"at World's End? An amateur like you wouldn't last ten minutes navigating "
+"uncharted lands! The winged beak ogres would eat you alive, and that's if "
+"the cannibals didn't make you run home pissing your pants first, hah!"
+msgstr ""
+"好吧, 你看起來的確不像一個冒險者, 為什麼你會在世界盡頭? 像你這樣的菜鳥穿越未"
+"知的土地一般堅持不了十分種! 飛行喙嘴獸會把你活活吞下去!當然前提是你不會被食人"
+"族嚇的回家尿褲子,嗬嗬!"
+
+#. Id: 50795-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Arrogant worlds end adventurer
+#. Id: 45016-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 51505-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#. Id: 18816-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8917-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drunken myths
+#: 50795-Dialogue.mod:0 45016-Dialogue.mod:0 51505-Dialogue.mod:0
+#: 18816-Dialogue.mod:0
+msgid "... (Walk away)"
+msgstr ""
+
+#. Id: 50809-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Arrogant worlds end adventurer
+#: 50809-Dialogue.mod:0
+msgid "Psh, fine, be like that!"
+msgstr "蛤, 好, 就這樣!"

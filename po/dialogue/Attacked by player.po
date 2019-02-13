@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 08:56+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#: 6443-Dialogue.mod:0
+msgid "What the...!"
+msgstr "這到底是....!"
+
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#: 6443-Dialogue.mod:5
+msgid "What IS this?!"
+msgstr "你想幹嘛 ?!"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:0
+msgid "/IDIOT/! You think you can beat me? "
+msgstr "/IDIOT/! 你以為能打敗我嗎? "
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:1
+msgid "/TCH/! Damn /PUNK/!"
+msgstr "/TCH/! 該死 /PUNK/!"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:2
+msgid "I OWN you, /PUNK/! You should never have messed with /MEUS/!"
+msgstr "你是我的, /PUNK/! 你不應該攪進來 /MEUS/!"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:3
+msgid "I will CRUSH you, /PUNK/!"
+msgstr "我將摧毀你, /PUNK/!"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:4
+msgid "You dumb /IDIOT/! You can't beat me!"
+msgstr "愚蠢的 /IDIOT/!你不可能打敗我！"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:5
+msgid "What are you stupid? I'll smash you!"
+msgstr "腦子秀逗了? 看我怎麼修理你 !"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:6
+msgid "You're going to regret this!"
+msgstr "你會後悔的!"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:7
+msgid "That was a dumb move, /PUNK/"
+msgstr "那動作很蠢, /PUNK/"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:8
+msgid "You're not going to get away with this"
+msgstr "不會讓你跑掉的"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:9
+msgid "You'll go down for this"
+msgstr "你會因為這個倒大黴的"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:10
+msgid "You won't get away with this"
+msgstr "不會讓你逃跑的"
+
+#. Id: 6444-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (6443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 6444-Dialogue.mod:11
+msgid "I won't let you get away!"
+msgstr "我不會讓你跑掉 !"
+
+#~ msgid "What do you think you're doing?!"
+#~ msgstr "你到底想做什麼?!"

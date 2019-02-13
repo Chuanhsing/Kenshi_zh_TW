@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 1533887-__SE world states.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533881-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533887-__SE?world?states.mod:0
+msgid "Mind if I tag along a while?"
+msgstr "介意我跟你一起行動一段時間嗎?"
+
+#. Id: 1533887-__SE world states.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1533881-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533887-__SE?world?states.mod:1
+msgid "I'm coming with you..."
+msgstr "我跟你一起去..."
+
+#. Id: 1533887-__SE world states.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1533881-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533887-__SE?world?states.mod:2
+msgid "You planning any slave camp heists?"
+msgstr "你在策劃什麼奴隸營搶劫案嗎?"
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 1533888-__SE?world?states.mod:0 1533874-__SE?world?states.mod:0
+#: 1534420-__Fixes.mod:0 1534421-__Fixes.mod:0 1534422-__Fixes.mod:0
+#: 1534423-__Fixes.mod:0 1534424-__Fixes.mod:0
+msgid "I could use some action with the legend /HIMSELF/."
+msgstr ""
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 1533888-__SE?world?states.mod:1 1533874-__SE?world?states.mod:1
+#: 1534420-__Fixes.mod:1 1534421-__Fixes.mod:1 1534422-__Fixes.mod:1
+#: 1534423-__Fixes.mod:1 1534424-__Fixes.mod:1
+msgid "I'm itching for some slaver kicking.."
+msgstr ""
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533888-__SE?world?states.mod:2
+msgid "Fighting alongside /YOURNAME/... Today's my lucky day."
+msgstr "並肩作戰吧, /YOURNAME/... 今天是我的幸運日."
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533888-__SE?world?states.mod:3
+msgid "You ain't leaving me out of all the action."
+msgstr "你不能總是把我排除在行動之外."
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533888-__SE?world?states.mod:4
+msgid "Now it's my turn to get in on the action."
+msgstr "現在輪到我也在這個事情上參一腳了."
+
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533888-__SE?world?states.mod:5
+msgid "If I'm gonna go down, I'm going down with a legendary anti-slaver."
+msgstr "如果我要實現我的夢想, 那當然是跟隨一個充滿傳奇的自由戰士更好."
+
+#. Id: 1535079-__November6.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533888-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#. Id: 8930-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drunken myths
+#: 1535079-__November6.mod:0 8930-Dialogue.mod:0
+msgid "Lead the way!"
+msgstr ""

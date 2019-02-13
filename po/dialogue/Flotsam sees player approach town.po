@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 50032-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: In town(s) of faction(s): Flotsam Ninjas
+#: 50032-Dialogue.mod:0
+msgid "You! Don't take another step!"
+msgstr "你! 不許再往前走了!"
+
+#. Id: 53202-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50032-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. Id: 51752-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK=0, Tag: -1
+#. Id: 13927-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 3865-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (3864-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 46040-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton spots intruder
+#. -- Condition: My Race(s): Skeleton
+#: 53202-Dialogue.mod:0 51752-rebirth.mod:2 13927-Escapes.mod:0
+#: 3865-gamedata.base:1 46040-Dialogue.mod:2
+msgid "What are you doing here?"
+msgstr "你在這裏做什麼?"
+
+#. Id: 50037-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53202-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#: 50037-Dialogue.mod:0
+msgid "You and I need to have a little chat..."
+msgstr "我需要和你聊聊...."
+
+#. Id: 50034-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50037-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 50034-Dialogue.mod:0
+msgid ""
+"I'm telling you now! You so much as twitch again and I'll kill you myself!"
+msgstr "我和你說過了不要再走了! 如果你再動我就殺了你!"
+
+#. Id: 50041-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 50041-Dialogue.mod:0
+msgid "Tch, don't say I didn't warn you..."
+msgstr "切, 別說我沒有警告過你...."
+
+#. Id: 50042-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50041-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player approach town
+#. -- Condition: Who: TARGET, Condition: WITHIN_TOWN_WALLS=1, Tag: -1
+#. Id: 49828-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. Id: 49865-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. Id: 48772-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 50042-Dialogue.mod:0 49828-Dialogue.mod:0 49865-Dialogue.mod:0
+#: 48772-Dialogue.mod:2
+msgid "Kill /HIM/."
+msgstr ""

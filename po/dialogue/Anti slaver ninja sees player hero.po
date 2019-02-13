@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2018-12-12 10:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 60761-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60761-Dialogue.mod:0
+msgid "Congrats on taking down Eyegore, comrade."
+msgstr "恭喜你拿下了艾格瑞, 同誌."
+
+#. Id: 60765-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60765-Dialogue.mod:0
+msgid "Even Tinfist himself hasn't managed to defeat the monster..."
+msgstr "就連'小拳頭'都沒辦法擊敗那個怪物....."
+
+#. Id: 60766-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60766-Dialogue.mod:0
+msgid "You have my respect."
+msgstr "向您致敬."
+
+#. Id: 60762-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60762-Dialogue.mod:0
+msgid "Hurrah, hurrah, the pawn is gone!"
+msgstr "萬歲, 好哇, 走狗們都下地獄了!"
+
+#. Id: 60767-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60762-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60767-Dialogue.mod:0
+msgid "That monster Tengu is finally out of our hair and it's all thanks to you."
+msgstr "那個怪物一樣的天皇終於沒法再壓迫我們了, 這都要歸功於你."
+
+#. Id: 60763-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60763-Dialogue.mod:0
+msgid "Even Tinfist struggled to get to Longen..."
+msgstr "就連'小拳頭'也難以到達龍恩....."
+
+#. Id: 60768-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60768-Dialogue.mod:0
+msgid "I think congrats are in order after the feat you pulled."
+msgstr "我想在你取得的壯舉之後, 恭喜是有必要的."
+
+#. Id: 60764-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60764-Dialogue.mod:0
+msgid "Kana was a loud-mouthed, sharp thorn in our side..."
+msgstr "我們那邊都知道嘉娜是一個響亮, 尖銳的刺...."
+
+#. Id: 60769-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#: 60769-Dialogue.mod:0
+msgid "Thank you for ridding the world of her, comrade."
+msgstr "謝謝你把她趕出了這個世界, 同誌."
+
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533874-__SE?world?states.mod:0 1534420-__Fixes.mod:0 1534421-__Fixes.mod:0
+#: 1534422-__Fixes.mod:0 1534423-__Fixes.mod:0 1534424-__Fixes.mod:0
+#: 1533888-__SE?world?states.mod:0
+msgid "I could use some action with the legend /HIMSELF/."
+msgstr "我能做到和傳奇的 /HIM/ 一樣的動作."
+
+#. Id: 1533874-__SE world states.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 1534420-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534421-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534422-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534423-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1534424-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero
+#. Id: 1533888-__SE world states.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (1533887-__SE world states.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver ninja sees player hero (join)
+#: 1533874-__SE?world?states.mod:1 1534420-__Fixes.mod:1 1534421-__Fixes.mod:1
+#: 1534422-__Fixes.mod:1 1534423-__Fixes.mod:1 1534424-__Fixes.mod:1
+#: 1533888-__SE?world?states.mod:1
+msgid "I'm itching for some slaver kicking.."
+msgstr "我很想踢一些奴隸主."

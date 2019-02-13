@@ -1,0 +1,669 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:1
+msgid "/HOLYGREET/. How can I help you?"
+msgstr "/HOLYGREET/. 我改怎麼幫助你?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:2
+msgid "/HOLYGREET/. Need supplies?"
+msgstr "/HOLYGREET/. 需要物資?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:3
+msgid "/HOLYGREET/. Looking to trade?"
+msgstr "/HOLYGREET/. 要交易麼?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:4
+msgid "/HOLYGREET/. Here for business?"
+msgstr "/HOLYGREET/. 來談生意?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:6
+msgid "/HOLYGREET/. Can I help you?"
+msgstr "/HOLYGREET/. 我能幫助你麼?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:7
+msgid "Welcome. /HOLYGREET/."
+msgstr "歡迎./HOLYGREET/."
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:8
+msgid "/HOLYGREET/. Take a look around."
+msgstr "/HOLYGREET/. 請隨便看看."
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:9
+msgid "/HOLYGREET/. See anything you like?"
+msgstr "/HOLYGREET/. 有什麼你喜歡的東西?"
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:10
+msgid "Ah, a new buyer. /HOLYGREET/."
+msgstr "哈, 一個新的顧客. /HOLYGREET/. "
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:11
+msgid "/HOLYGREET/, have a browse."
+msgstr "/HOLYGREET/. 來看看吧."
+
+#. Id: 42970-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42970-Dialogue.mod:12
+msgid "A customer! /HOLYGREET/!"
+msgstr "一個顧客! /HOLYGREET/. "
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:0
+msgid "Ah, back again? /HOLYGREET/."
+msgstr "嗨, 又來了? /HOLYGREET/. "
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:1
+msgid "Good to see you again, /BROTHER/."
+msgstr "很高興再次見到你, /BROTHER/."
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:2
+msgid "Welcome back, /BROTHER/, take a look around."
+msgstr "歡迎回來, /BROTHER/. 請隨便看看."
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:3
+msgid "Welcome back, customer. Come on in."
+msgstr "歡迎再次光臨, 顧客. 進來看看吧."
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:4
+msgid "Welcome back, /BROTHER/! Looking for anything in particular?"
+msgstr "再次歡迎, /BROTHER/! 找什麼特別的東西嗎?"
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:5
+msgid "Come on in, /BROTHER/. Have a browse."
+msgstr "進來, /BROTHER/. 隨便看看吧."
+
+#. Id: 42974-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<30, Tag: -1
+#: 42974-Dialogue.mod:6
+msgid "Ah, /HOLYGREET/. Back for more goods?"
+msgstr "嗨, /HOLYGREET/. 回來買更多東西了?"
+
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42975-Dialogue.mod:4
+msgid "Come to trade?"
+msgstr "來交易?"
+
+#. Id: 42975-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 42975-Dialogue.mod:5
+msgid "Yes, need something?"
+msgstr "恩, 要買什麼嗎?"
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:0
+msgid "... Your kind aren't welcome in my shop."
+msgstr "... 這裏不歡迎你這種人."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:1
+msgid "... I don't serve your kind."
+msgstr ".... 我不能為你這樣的人服務."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:2 42978-Dialogue.mod:3
+msgid "... Pure bloods only."
+msgstr ".... 隻為聖潔之血服務."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:4
+msgid "I don't sell to your kind."
+msgstr "我不會賣東西給你這種人."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:5
+msgid "Your money isn't welcome here, beast."
+msgstr "這裏不歡迎你的錢, 野獸."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:6
+msgid "Unshackled beasts not allowed."
+msgstr "未管製的野獸不允許入內."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:7
+msgid "I only serve pure bloods."
+msgstr "我隻為聖潔之血服務."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:8
+msgid "You, you're no Okranite. I only serve children of the light."
+msgstr "你, 你不是奧克蘭信徒. 我隻為光之子服務."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:9
+msgid "Dark ones aren't welcome in my shop."
+msgstr "不歡迎黑暗之人進我的商店."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:10
+msgid "Take your money elsewhere, dark one. I don't want your custom."
+msgstr "帶上你的錢去其它地方, 黑暗之人. 我不要你這樣的顧客."
+
+#. Id: 42978-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 42978-Dialogue.mod:11
+msgid "Walk on, dark one. Your Cats aren't welcome here."
+msgstr "走開, 黑暗之人. 這裏不要你的錢."
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:1
+msgid ""
+"... Corrupting our city with your /GREASY/ ways... Take your business "
+"elsewhere. "
+msgstr ".... 我可不想被你 /GREASY/ 的方式破壞城市... 去其他地方吧. "
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:2
+msgid "Take your business elsewhere, /GREASY/ one."
+msgstr "去其它地方做你的生意,  /GREASY/ 之人."
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:3
+msgid "Leave. "
+msgstr "走開. "
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:4
+msgid "... Beasts like you should be shackled."
+msgstr ".... 像你一樣的野獸應該被關起來."
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:5
+msgid ""
+"Don't need your dark energy in here. I got enough to deal with already, "
+"thanks."
+msgstr "這裏不需要你的黑暗能量. 我已經有很多了, 謝謝."
+
+#. Id: 42979-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (42978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#: 42979-Dialogue.mod:6
+msgid "Spreading all your dark juju around my shop. No thanks."
+msgstr "讓你在我的商店傳播juju黑暗? 不用, 謝謝."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:0
+msgid "/GREASY/ thief. You're not welcome in my shop anymore."
+msgstr "/GREASY/ 犯罪者. 我的商店不歡迎你."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:1
+msgid "/GREASY/ criminal. That's right, I remember your face. Leave."
+msgstr "/GREASY/ 犯罪者. 沒錯, 我記得你臉. 離開這裏."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:2
+msgid "You again! You're not welcome here, thief."
+msgstr "又是你! 這裏不歡迎你, 小偷."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:3
+msgid "You again... /GREASY/ thief, get out of my shop."
+msgstr "又是你... /GREASY/ 小偷, 從我商店裏麵滾出去."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:4
+msgid "You. You lost your trading rights when you stole from me!"
+msgstr "你. 當你從我這裏偷東西的時候就喪失了和我交易的資格!"
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:5
+msgid "Get out, /GREASY/ thief."
+msgstr "滾出去, /GREASY/ 小偷."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:6
+msgid "Not you again? Leave, thief."
+msgstr "不是吧又是你? 給我離開, 小偷."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:7
+msgid "/GREASY/ thief, I remember you. I'm watching you."
+msgstr "/GREASY/ 小偷, 我記得你. 我會盯著你的."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:8
+msgid "I've got my eye on you, thief."
+msgstr "我會盯緊你的, 小偷."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:9
+msgid "Touch anything and I'm calling the /GUARD/s."
+msgstr "如果你碰了任何東西我就會叫 /GUARD/ 們過來."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:10
+msgid "Keep your /GREASY/ fingers off my stock."
+msgstr "把你 /GREASY/ 的手指從我貨物上移開."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:11
+msgid "Don't touch anything, thief. I've got my eye on you."
+msgstr "不要嚐試碰任何東西, 小偷. 我會盯緊你的."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:12
+msgid "Don't try anything stupid, thief."
+msgstr "不要嚐試任何愚蠢的舉動, 小偷."
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:13
+msgid "Okran protect me from /GREASY/ thieves"
+msgstr "奧克蘭保護我免受 /GREASY/ 小偷的危害"
+
+#. Id: 42985-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep greet holy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 42985-Dialogue.mod:14
+msgid "Okran protect my shop from sinners"
+msgstr "奧克蘭保護我免受罪人的危害"
+
+#~ msgid "You buying?"
+#~ msgstr "買東西?"

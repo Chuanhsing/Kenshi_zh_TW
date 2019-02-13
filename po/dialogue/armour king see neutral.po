@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-05-19 06:40+0800\n"
+"PO-Revision-Date: 2018-05-19 10:01+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50254-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50254-rebirth.mod:0
+msgid "Greetings new customer!"
+msgstr "嘿新客戶!"
+
+#. Id: 50257-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50254-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50257-rebirth.mod:0
+msgid "Welcome to Armour King!  The greatest armour shop in the world."
+msgstr "歡迎來到盔甲之王! 這裏有世界上最好的盔甲."
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:0
+msgid "Armour King has the best selection in the remnants of the world"
+msgstr "來盔甲之王是你最好的選擇"
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:1
+msgid "My armour is the greatest."
+msgstr "我的盔甲是最幫的."
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:2
+msgid "I am Armour King"
+msgstr "我是盔甲之王"
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:3
+msgid "This shop is called \"Armour King\", because the armour is the best."
+msgstr "這個商店叫'盔甲之王', 因為, 它的盔甲是最好的~."
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:4
+msgid "Tell your friends that Armour King has the best armour."
+msgstr "像你的朋友推薦盔甲之王把."
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:5
+msgid "Forgive me for following you, but you look like a thief."
+msgstr "原諒我跟著你, 因為你看起來有點..像小偷."
+
+#. Id: 50258-rebirth.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50258-rebirth.mod:6
+msgid ""
+"I must keep my eye on you so that you are not tempted to steal such amazing "
+"armour.  Ha ha."
+msgstr "我必須隨時盯著你, 因為我不想平白失去這麼精美的盔甲. 哈哈."
+
+#. Id: 50265-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50265-rebirth.mod:0
+msgid "You cannot buy better armour anywhere in the world. "
+msgstr "你在其它地方可找不到這麼好的盔甲."
+
+#. Id: 50266-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50265-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50266-rebirth.mod:0
+msgid "I have checked.  It took me 67 years."
+msgstr "我看過了. 那個花費了我67年."
+
+#. Id: 50269-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50269-rebirth.mod:0
+msgid ""
+"I can't blame you if you try to steal my armour, because it is the best."
+msgstr "就算你想偷我也能理解, 因為這盔甲實在是太精美了."
+
+#. Id: 50269-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50269-rebirth.mod:1
+msgid ""
+"You are probably tempted to steal things, I would feel the same in your "
+"position."
+msgstr "我估計你想偷盔甲, 如果我是你的話我也會這樣想的."
+
+#. Id: 50269-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50269-rebirth.mod:2
+msgid ""
+"If you feel the urge to steal, that's okay, it's a natural feeling when "
+"presented with such great armour."
+msgstr "如果你有想偷的衝動, 也能理解, 因為沒有人能抵擋住這麼好的裝甲的誘惑."
+
+#. Id: 50270-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50269-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50270-rebirth.mod:0
+msgid "But I will have to kill you."
+msgstr "但是我不得不殺掉你."
+
+#. Id: 50270-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50269-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50270-rebirth.mod:1
+msgid "I will end you though."
+msgstr "之後我不得不終結你."
+
+#. Id: 50270-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50269-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50270-rebirth.mod:2
+msgid "Don't though."
+msgstr "想都別想."
+
+#. Id: 50271-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 50271-rebirth.mod:0
+msgid ""
+"Now maybe you are thinking, \"I should kill Armour King so I can take all "
+"his great armour\""
+msgstr "現在你會想,\"我可以殺了盔甲之王,這樣我就可以拿到所有盔甲\""
+
+#. Id: 50276-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50271-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50276-rebirth.mod:0
+msgid "I don't recommend this action however."
+msgstr "然而我不建議你這麼做."
+
+#. Id: 50276-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50271-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50276-rebirth.mod:1
+msgid "You cannot.  I am deadly."
+msgstr "你做不到."
+
+#. Id: 50276-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50271-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50276-rebirth.mod:2
+msgid "You will fail at this."
+msgstr "你會栽在這個上的."
+
+#. Id: 50277-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander
+#: 50277-rebirth.mod:0
+msgid ""
+"Beings like yourselves are squishy and vulnerable to stabbing by pointed "
+"objects."
+msgstr "你們這種生物, 很容易被尖尖的東西刺傷."
+
+#. Id: 50277-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander
+#: 50277-rebirth.mod:1
+msgid "Humans are weak against stabbing"
+msgstr "人類是脆弱的"
+
+#. Id: 50277-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander
+#: 50277-rebirth.mod:2
+msgid "Some advice:  Your soft skins are easily pierced by sharp objects."
+msgstr "一點建議: 你那柔軟的身體很容易被尖銳的物體貫穿."
+
+#. Id: 50280-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50277-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50280-rebirth.mod:0
+msgid "Overcome your weakness with armour from the Armour King"
+msgstr "要克服這個缺點你就需要我的盔甲"
+
+#. Id: 50280-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50277-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 50280-rebirth.mod:1
+msgid "Armour King has the solution."
+msgstr "盔甲之王可以解決你的煩惱."
+
+#. Id: 95999-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 95999-rebirth.mod:0
+msgid "Armour King! Armour King! Saving Lives! With Armour-ing!"
+msgstr "盔甲之王! 盔甲之王! 用護甲拯救生命!"
+
+#. Id: 96001-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 96001-rebirth.mod:0
+msgid "Do not mind the Thralls!"
+msgstr "不要介意這些傭人!"
+
+#. Id: 96013-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96001-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96013-rebirth.mod:0
+msgid "I retrieved them from the Ashlands"
+msgstr "我在灰燼之島找到了他們"
+
+#. Id: 96009-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96013-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96009-rebirth.mod:0
+msgid ""
+"But do not fear! I modified them myself to make them only murderous to "
+"armour thieves!"
+msgstr "不必擔心! 我修改了他們, 他們隻會對想對我盔甲出手的小人攻擊!"
+
+#. Id: 96002-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96009-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96002-rebirth.mod:0
+msgid ""
+"They are much stronger than normal thralls, but don't let that scare you!"
+msgstr "他們比普通的強很多, 但也不用太在意他們!"
+
+#. Id: 96003-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96002-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96003-rebirth.mod:0
+msgid "Unless you are a thief..."
+msgstr "除非(盯), 你是一個小偷...."
+
+#. Id: 96005-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 96005-rebirth.mod:0
+msgid ""
+"Even though the Thralls have no heads, they are good at spotting thievery! "
+"Oh yes!"
+msgstr "沒錯! 盡管這些傭人沒有腦袋, 但是他們依然很擅長發現小偷!"
+
+#. Id: 96007-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96005-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96007-rebirth.mod:0
+msgid ""
+"I gave them special audio sensors.  In their hands.  That is how they know a "
+"thief you see."
+msgstr "我給了他們一個特殊的聲波傳感器. 在他們手上. 這也是他們發現小偷的方法."
+
+#. Id: 96008-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96007-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king see neutral
+#: 96008-rebirth.mod:0
+msgid ""
+"And I upgraded their armour of course.  It's the best armour in the world!"
+msgstr "當然我也增強了他們的盔甲. 畢竟我可是盔甲之王!"

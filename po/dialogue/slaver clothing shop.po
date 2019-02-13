@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:0
+msgid "Looking to buy some clothing?"
+msgstr "來買衣服的麼?"
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:1
+msgid "Need gear? Second hand, good prices!"
+msgstr "需要裝備? 副手? 這裏都有!"
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:2
+msgid "Looking to trade? Discount clothing?"
+msgstr "來交易? 要不要打折的衣服?"
+
+#. Id: 54551-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54551-rebirth.mod:3
+msgid "Used gear? Second hand clothing? Best prices!"
+msgstr "需要裝備? 備用衣服? 我可以給你一個好價格!"
+
+#. Id: 54552-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#. Id: 62759-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade free trader
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 95571-Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95569-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 50412-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher Village barman
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 95596-__Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95738-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 182-gamedata.quack
+#. -- Index: 1.2
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 48150-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering trader
+#. Id: 47214-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Travelling hive merchant
+#. Id: 48724-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48722-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Barman
+#: 54552-rebirth.mod:0 62759-Dialogue.mod:0 1534130-__Fixes.mod:2
+#: 95564-Mourn.mod:2 95571-Mourn.mod:0 50412-Dialogue.mod:0
+#: 45027-Dialogue.mod:2 95585-__Mourn.mod:2 95596-__Mourn.mod:0
+#: 182-gamedata.quack:2 48150-Dialogue.mod:1 47214-Dialogue.mod:1
+#: 48724-Dialogue.mod:0
+msgid "Let's trade."
+msgstr ""
+
+#. Id: 54557-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54557-rebirth.mod:0
+msgid "What are you selling?"
+msgstr "你賣什麼?"
+
+#. Id: 54559-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54557-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54559-rebirth.mod:0
+msgid ""
+"Second hand gear, clothing mostly. Confiscated goods.  Y'know.  You can find "
+"some real bargains sometimes."
+msgstr "備用裝備, 衣服. 被沒收的物品. 你知道. 你可以在這裏找到真正的便宜貨."
+
+#. Id: 54560-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54559-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54560-rebirth.mod:0
+msgid "So it's what you strip from the slaves you that you /BASTARD/s kidnap?"
+msgstr "所以這是你從你 /BASTARD/綁架的奴隸身上搶過來的?"
+
+#. Id: 54567-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54560-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54567-rebirth.mod:0
+msgid "/QUICKLAUGH/! What are you one of those anti-slave /IDIOT/s?"
+msgstr "/QUICKLAUGH/! 你是那些反對奴隸 /IDIOT/ 的一份子麼?"
+
+#. Id: 54568-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54567-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54568-rebirth.mod:0
+msgid ""
+"HA! This is too much! I didn't think /IDIOT/s like that actually existed! /"
+"LAUGH/!"
+msgstr "哈! 這真有趣! 沒想到這樣的 /IDIOT/ 真的實際存在! /LAUGH/!"
+
+#. Id: 54569-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54568-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54569-rebirth.mod:0
+msgid "[leave]"
+msgstr "[離開]"
+
+#. Id: 54561-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54559-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54561-rebirth.mod:0
+msgid "So it's what you take from the slaves?"
+msgstr "所有這就是你從奴隸身上獲得的?"
+
+#. Id: 54562-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54561-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#: 54562-rebirth.mod:0
+msgid ""
+"Yeah, all used, but in serviceable condition.  All the other scraps we just "
+"burn.  Usually when they're watching, heh heh."
+msgstr ""
+"是啊, 都是用過的, 但都還可以用. 其他用不了的廢品我們都燒掉了. 通常是當著他們"
+"麵燒, 哈哈."
+
+#. Id: 54563-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54562-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54563-rebirth.mod:0
+msgid "I think I'm gonna kill you now."
+msgstr "我覺得我還是殺掉你這樣的人比較好."
+
+#. Id: 54565-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54563-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#. Id: 5443-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 54565-rebirth.mod:0 5443-gamedata.base:2
+msgid "/WTF/!?"
+msgstr "/WTF/!?"
+
+#. Id: 54566-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54562-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#: 54566-rebirth.mod:0
+msgid "I'm not buying that."
+msgstr "我不會買那種東西的."
+
+#. Id: 54558-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54551-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: slaver clothing shop
+#. Id: 14511-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (14494-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: thief fence
+#. Id: 64662-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64658-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep robo repair
+#. Id: 51784-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51781-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: fish and drugs talk to me
+#: 54558-rebirth.mod:1 14511-gamedata.base:0 64662-rebirth.mod:0
+#: 51784-rebirth.mod:1
+msgid "Not today"
+msgstr "不是今天"
+
+#. Id: 54553-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slaver clothing shop
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 54553-rebirth.mod:0
+msgid "Damn slave! Get back in your cage!"
+msgstr "該死! 奴隸回到你的籠子裏麵的去!"

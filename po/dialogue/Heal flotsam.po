@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 51060-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#: 51060-Dialogue.mod:0
+msgid "Knew I could rely on you, /BROTHER/."
+msgstr "我知道我可以依靠你, /BROTHER/."
+
+#. Id: 51060-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#: 51060-Dialogue.mod:1
+msgid "Knew I could trust you to come through for me, /BROTHER/."
+msgstr "我知道我可以相信你是為我而來, /BROTHER/."
+
+#. Id: 51061-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#. -- Condition: Who: TARGET, Condition: RELATIONS<50, Tag: -1
+#: 51061-Dialogue.mod:0
+msgid "Guess I owe you now, eh?"
+msgstr "猜猜我現在欠你了,呃?"
+
+#. Id: 51061-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Heal flotsam
+#. -- Condition: Who: TARGET, Condition: RELATIONS<50, Tag: -1
+#: 51061-Dialogue.mod:1
+msgid "Good work, Flotsam will remember this."
+msgstr "感謝, 弗萊斯穆感謝你的幫助."

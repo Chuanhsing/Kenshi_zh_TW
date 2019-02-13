@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-11-19 19:56+0800\n"
+"PO-Revision-Date: 2018-11-19 21:51+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 48847-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#. -- Condition: My Race(s): Hive Prince
+#: 48847-Dialogue.mod:0
+msgid ""
+"Are you here to recapture me, or are you here to free me?... Or am I just "
+"cannon fodder that happened to belong to your enemy?"
+msgstr "你這是又要來抓我, 還是說你要給我自由?... 又或者我恰巧是你敵人家的炮灰?"
+
+#. Id: 48847-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#. -- Condition: My Race(s): Hive Prince
+#: 48847-Dialogue.mod:1
+msgid ""
+"So, am I free to go, or are you here to recapture me?... Or am I just a "
+"beaten up slave that happened to get lucky?"
+msgstr "那麼, 我自由了, 還是說你又要抓我?... 又或者我是個恰巧要遭受毒打的奴隸?"
+
+#. Id: 48848-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48848-Dialogue.mod:0
+msgid "Relax, I'm not here to recapture you."
+msgstr "放鬆, 我不是來再次抓你的."
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:0
+msgid ""
+"Whew... I leave my queen, only to serve another master in shackles. You "
+"saved me from a cruel fate, thank you. You have my respect."
+msgstr ""
+"哎呀... 我離開了自己的女王, 結果卻帶著枷鎖侍奉另一個主人. 您把我從殘酷的命運"
+"中解救了出來, 謝謝您. 我尊敬您."
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:1
+msgid ""
+"Must be my lucky day... You saved me from a messed up situation, for that I "
+"thank you... You know, I don't do well on my own, it's that hiver nature "
+"I've never been able to shake off... "
+msgstr ""
+"我今天真是走運... 我對您把我從糟糕的環境中拯救出來表示感謝... 您看, 我能照顧"
+"好我自己, 隻是我無法擺脫掉蜂巢人的本性... "
+
+#. Id: 48851-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (48848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48851-Dialogue.mod:2
+msgid ""
+"Thank you. You're a hero. The sort of person I could follow without the need "
+"for shackles... or pheromones..."
+msgstr ""
+"謝謝您. 您是一位英雄. 您是那種不用枷鎖... 或是信息素就能讓我跟隨的人..."
+
+#. Id: 48853-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48853-Dialogue.mod:0
+msgid "If you need more men, I'll happily serve you with my sword."
+msgstr "如果您需要更多人手, 我會很樂意為您兩肋插刀."
+
+#. Id: 48853-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48853-Dialogue.mod:1
+msgid "If you need the crew, I'll happily serve you with my sword."
+msgstr "如果您需要更多成員, 我會很樂意為您效勞."
+
+#. Id: 48854-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48854-Dialogue.mod:0
+msgid "Sure, follow /MEUS/."
+msgstr "當然, 緊跟/MEUS/."
+
+#. Id: 48855-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48855-Dialogue.mod:0
+msgid "Sorry, I'm not looking for recruits."
+msgstr "抱歉, 我現在不需要招募成員."
+
+#. Id: 48858-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48855-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48858-Dialogue.mod:0
+msgid "A shame... Well, take care anyway, hero. "
+msgstr "真可惜... 好吧, 自己保重, 英雄. "
+
+#. Id: 48856-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48853-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48856-Dialogue.mod:0
+msgid "You're welcome. But I need no men, thank you."
+msgstr "謝謝, 我很歡迎你. 隻是我不需要人手."
+
+#. Id: 48849-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48849-Dialogue.mod:0
+msgid "The latter. I've no interest in you."
+msgstr "後來者. 我對你不感興趣."
+
+#. Id: 48849-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48847-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Saved hiver ronin from master
+#: 48849-Dialogue.mod:1
+msgid "I'm just here for the loot. You mean nothing to me."
+msgstr "我隻是來找戰利品的. 你在我麵前什麼都不是."
+
+#. Id: 48864-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48849-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48864-Dialogue.mod:0
+msgid "I see. Well, thanks anyway. You saved me from a cruel fate."
+msgstr "我明白的. 那好吧, 還是很謝謝您. 您從殘酷的命運中拯救了我."
+
+#. Id: 48865-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48865-Dialogue.mod:0
+msgid "I'm finally free..."
+msgstr "我終於自由了..."
+
+#. Id: 48859-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48850-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48859-Dialogue.mod:0
+msgid "Uh..."
+msgstr "呃..."
+
+#. Id: 48860-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48859-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Saved hiver ronin from master
+#: 48860-Dialogue.mod:0
+msgid "Well, I'm outta here anyway..."
+msgstr "好吧, 無論如何我還是自由了..."

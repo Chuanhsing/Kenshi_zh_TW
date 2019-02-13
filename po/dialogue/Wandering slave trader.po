@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2\n"
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:0
+msgid ""
+"That's a lot of backpacks you got there, /OUTLANDER/... How about a new "
+"slave to carry 'em for ya? Cheaper than a pack garru. Smell a whole lot "
+"better too. Well... mostly."
+msgstr ""
+"你們的背包真多, /OUTLANDER/... 不如分點讓這個新奴隸幫你背吧? 比一個背包加魯獸"
+"便宜. 身上的味兒也沒那麼大. 那個... 味兒差不多沒那麼大."
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:1
+msgid ""
+"We don't carry our own belongings in United Cities land, /OUTLANDER/! This "
+"is the land of the elite, that's what the slaves are for! But you're just in "
+"luck, I've got a great selection for you..."
+msgstr ""
+"我們聯合城的人從不把財產背在自己身上, /OUTLANDER/! 我們都是社會精英, 財產有奴"
+"隸來背! 不過你運氣不錯, 我正好有一批上好的奴隸推薦給你..."
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:2
+msgid ""
+"Don't be seen in the United Cities carrying your own bags, /OUTLANDER/... "
+"Buy yourself a slave to carry your luggage!"
+msgstr "別在聯合城被人看見你自己背著包, /OUTLANDER/... 快來買個奴隸奴隸幫你背!"
+
+#. Id: 54504-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 54504-Dialogue.mod:3
+msgid ""
+"Rest your back, eh, /OUTLANDER/? I've got the perfect slave to carry those "
+"backpacks for you..."
+msgstr ""
+"你的腰背需要休養,不是嗎, /OUTLANDER/? 我這有批很好的奴隸來幫你背那些包..."
+
+#. Id: 54505-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 54505-Dialogue.mod:0
+msgid ""
+"Is that a slave you wanna offload? I'll pay you a good rate for 'im, 400 "
+"Cats."
+msgstr "你卸下來的是個奴隸? 我付給你 400 Cats買了."
+
+#. Id: 54505-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 54505-Dialogue.mod:1
+msgid "Ah, got a fresh slave for me, eh? I'll give you 400 Cats for 'em."
+msgstr "噢, 抓了個新鮮奴隸給我, 是嗎? 我會給你 400 Cats."
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:0
+msgid "Pleasure to do business..."
+msgstr "很高興做生意..."
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:1
+msgid "A little funny looking, but this one will do..."
+msgstr "看著有點不舒服, 不過不影響..."
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:2
+msgid "Interesting specimen..."
+msgstr "有趣的人種..."
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:3
+msgid "Good... good... come to master..."
+msgstr "很好... 很好... 到主人這裏來..."
+
+#. Id: 54525-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (54524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54525-Dialogue.mod:4
+msgid "Chain 'im up and throw 'im with the rest..."
+msgstr "栓起來和其他人丟一起..."
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:0
+msgid ""
+"Unless you're buying or selling slaves, I ain't one for chitchat. So, you "
+"trading?"
+msgstr "除非你來買賣奴隸, 我不接受閑聊. 所以, 是來交易的嗎?"
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:1
+msgid "Got some slaves you wanna offload? Or you looking to buy?"
+msgstr "你帶了些奴隸想賣? 還是想買?"
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:2
+msgid ""
+"Keep your hands clean and treat yourself to a new slave, /OUTLANDER/. Dirty "
+"work is for slaves, not for you..."
+msgstr ""
+"別把手弄髒了給你自己找個新的奴隸吧, /OUTLANDER/. 髒活適合奴隸幹, 不用給你自己"
+"幹..."
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:3
+msgid ""
+"In the Empire we have slaves to break their backs for us. None of that "
+"filthy labour for the elite, no /SIR/. So, buying yourself a new slave, /"
+"OUTLANDER/?"
+msgstr ""
+"在帝國我們自然有奴隸替我們幹重活. 髒活累活都不是給精英幹的, 不是給 /SIR/幹"
+"的. 所以要給自己買個新的奴隸嗎, /OUTLANDER/?"
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:4
+msgid ""
+"Only the best quality slaves for the best customers! What'll it be, /"
+"OUTLANDER/? You buying or selling?"
+msgstr "我們隻為最好的顧客提供最好的奴隸! 來看看, /OUTLANDER/? 你是買還是賣?"
+
+#. Id: 54506-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Wandering slave trader
+#: 54506-Dialogue.mod:5
+msgid ""
+"We sell only the best slaves, /OUTLANDER/. One hundred percent obedient and "
+"disease free..."
+msgstr "我們隻賣最好的奴隸, /OUTLANDER/. 百分百沒病又順從..."
+
+#. Id: 54529-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54529-Dialogue.mod:0
+msgid "I'd like to see your slaves for sale"
+msgstr "我想看看你賣的最好的奴隸"
+
+#. Id: 54529-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54529-Dialogue.mod:1
+msgid "I'm looking to buy slaves"
+msgstr "我想買奴隸"
+
+#. Id: 54530-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54530-Dialogue.mod:0
+msgid "I want to sell some slaves"
+msgstr "我想賣點奴隸"
+
+#. Id: 54530-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54506-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#: 54530-Dialogue.mod:1
+msgid "I have some slaves to sell"
+msgstr "我有一些奴隸想賣"
+
+#~ msgid "Deal"
+#~ msgstr "成交"
+
+#~ msgid "Sure"
+#~ msgstr "好"

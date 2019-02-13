@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 5071-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 5071-gamedata.base:0
+msgid "What is it? Need to hire a sword?"
+msgstr "怎麼了? 需要找個人幫你打架麼?"
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:0
+msgid "I need an armed guard."
+msgstr "我需要個武裝警衛."
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:1
+msgid "I need protection."
+msgstr "我需要護衛."
+
+#. Id: 5072-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5071-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5072-gamedata.base:2
+msgid "I need help."
+msgstr "我需要幫助."
+
+#. Id: 5073-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 5073-gamedata.base:0
+msgid ""
+"I'm not in the best of health right now, you best find somebody else for "
+"this job."
+msgstr "我現在健康狀況不好, 你最好找其他人來完成這個工作."
+
+#. Id: 5075-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5075-gamedata.base:0
+msgid "How long do you need /MEUS/ for? It's 2000 cats per day."
+msgstr "你需要 /MEUS/ 多少天? 一天傭金2000cats."
+
+#. Id: 5075-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5072-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5075-gamedata.base:1
+msgid "It'll cost you 2000 cats per day."
+msgstr "每天需要你支付2000cats."
+
+#. Id: 5076-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#: 5076-gamedata.base:0
+msgid "Just a 6 hour job [500 cats]"
+msgstr "隻需要6小時 [花費 500 cats]"
+
+#. Id: 5089-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (5076-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5089-gamedata.base:0
+msgid "Okay /IWEARE/ in.  /IWE/'ll follow you wherever, lead on."
+msgstr "好的  /IWEARE/ 收到了.  /IWE/ 會跟隨你, 帶路吧."
+
+#. Id: 5089-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (5076-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard for hire
+#: 5089-gamedata.base:1
+msgid "Okay, you've got yourself a bodyguard."
+msgstr "好的, 現在就開始保護你."
+
+#. Id: 5077-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1000, Tag: -1
+#: 5077-gamedata.base:0
+msgid "Half a day [1000 cats]"
+msgstr "半天 [花費 1000 cats]"
+
+#. Id: 5078-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>2000, Tag: -1
+#: 5078-gamedata.base:0
+msgid "One day [2000 cats]"
+msgstr "一天 [花費 2000 cats]"
+
+#. Id: 5079-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>4000, Tag: -1
+#: 5079-gamedata.base:0
+msgid "Two days [4000 cats]"
+msgstr "兩天 [花費 4000 cats]"
+
+#. Id: 5080-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5075-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bodyguard for hire
+#: 5080-gamedata.base:0
+msgid "Actually never mind."
+msgstr "實際上我改變主意了."

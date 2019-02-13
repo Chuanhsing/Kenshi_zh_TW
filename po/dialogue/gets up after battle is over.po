@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.4\n"
+
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 3616-dialogue-01.mod:1 15977-Dialogue.mod:1
+msgid "Agh..."
+msgstr "唔啊..."
+
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 3616-dialogue-01.mod:2 15977-Dialogue.mod:2
+msgid "Mmmph..."
+msgstr "嗚喵..."
+
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 3616-dialogue-01.mod:3 15977-Dialogue.mod:3
+msgid "Eurrh..."
+msgstr "嗚唔..."
+
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 3616-dialogue-01.mod:4 15977-Dialogue.mod:4
+msgid "Unnff..."
+msgstr "啊哈..."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15978-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:0 15978-Dialogue.mod:0
+msgid "I'm a mess."
+msgstr "一團糟."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:1
+msgid "Couldn't even win that."
+msgstr "那太難贏了."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:2
+msgid "Hope no one saw me."
+msgstr "希望沒人看到我."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:3
+msgid "Bet they're laughing at me."
+msgstr "打賭他們在笑我."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:4
+msgid "Stupid of me to try."
+msgstr "我怎麼會想打敗他們, 太愚蠢了."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:5
+msgid "Should've picked a different fight."
+msgstr "應該避免這次戰鬥的..."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15978-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:6 15978-Dialogue.mod:2
+msgid "If only I stayed home today."
+msgstr "我今天隻想呆在家裏.."
+
+#. Id: 3617-dialogue-01.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15978-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 3617-dialogue-01.mod:7 15978-Dialogue.mod:1
+msgid "Well. My luck hasn't changed."
+msgstr "算了, 我還是很幸運."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:0 15979-Dialogue.mod:0
+msgid "Could've gone a lot worse."
+msgstr "還好沒有變得更糟."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:1 15979-Dialogue.mod:1
+msgid "Survived that, at least."
+msgstr "至少, 我還活著."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:2 15979-Dialogue.mod:2
+msgid "Managed to pull through."
+msgstr "得設法度過難關."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:3 15979-Dialogue.mod:3
+msgid "Skin of my teeth."
+msgstr "虎口脫險, 太危險了."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:4 15979-Dialogue.mod:4
+msgid "You only lose when you die."
+msgstr "隻有你死掉才是真正的失敗."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:5 15979-Dialogue.mod:5
+msgid "Hah! I'm all right."
+msgstr "哈! 我還能打."
+
+#. Id: 3619-dialogue-01.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15979-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3619-dialogue-01.mod:6 15979-Dialogue.mod:6
+msgid "Looks like my luck's changed!"
+msgstr "看起來我的運氣開始走下坡路了!"
+
+#. Id: 3621-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15980-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3621-dialogue-01.mod:0 15980-Dialogue.mod:0
+msgid "I'll get them for this."
+msgstr "我會讓他們為此付出代價的."
+
+#. Id: 3621-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15980-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3621-dialogue-01.mod:1 15980-Dialogue.mod:1
+msgid "They'll regret not killing me."
+msgstr "他們會後悔沒殺死我的."
+
+#. Id: 3621-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15980-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3621-dialogue-01.mod:2 15980-Dialogue.mod:2
+msgid "Better watch myself."
+msgstr "這讓我看清了我自己的能力."
+
+#. Id: 3621-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15980-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3621-dialogue-01.mod:3 15980-Dialogue.mod:3
+msgid "Won't let that happen again."
+msgstr "不會再讓這發生了."
+
+#. Id: 3621-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3616-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15980-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 3621-dialogue-01.mod:5 15980-Dialogue.mod:5
+msgid "They'll bleed for this."
+msgstr "他們會為此付出血的代價."

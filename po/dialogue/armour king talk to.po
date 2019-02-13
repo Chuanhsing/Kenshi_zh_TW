@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 10:02+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 50282-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50282-rebirth.mod:0
+msgid "Welcome customer!  Would you like to buy the best armour in the world?"
+msgstr "歡迎光臨! 要看看世界上最好的盔甲麼?"
+
+#. Id: 50283-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50283-rebirth.mod:1
+msgid "Show me your armour then."
+msgstr "既然這樣就讓我看看吧."
+
+#. Id: 50302-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50282-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50302-rebirth.mod:0
+msgid "Can I ask you some questions?"
+msgstr "我能問點事情麼?"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:0
+msgid "Ask me anything, I am an expert in armour"
+msgstr "想問什麼, 我可是盔甲的專家"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:1
+msgid "Ask me your questions about armour"
+msgstr "隻能回答盔甲的問題哦"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:2
+msgid "I know all about armour"
+msgstr "我知道關於盔甲的一切"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:3
+msgid "What would you like to know?"
+msgstr "你想知道什麼?"
+
+#. Id: 50308-rebirth.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (50302-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50308-rebirth.mod:4
+msgid "Another armour question?"
+msgstr "還有其他關於盔甲的問題麼?"
+
+#. Id: 50291-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50291-rebirth.mod:0
+msgid "How did you get here?"
+msgstr "你怎麼到這裏的?"
+
+#. Id: 50291-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50291-rebirth.mod:1
+msgid "How did you come to set up a shop here?"
+msgstr "為什麼你要在這裏設置一個商店?"
+
+#. Id: 50292-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50291-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50292-rebirth.mod:0
+msgid ""
+"I started up this shop in the Second Empire town of Catch.  It was a "
+"thriving market town, growing very strongly, a great place to start anew and "
+"craft the greatest armours in the remnants of the world."
+msgstr ""
+"我開這個商店的時候這裏是第二帝國的卡馳. 那曾經是一個蓬勃發展的貿易都市, 很適"
+"合在這個殘存的世界銷售最強的盔甲."
+
+#. Id: 50293-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50293-rebirth.mod:0
+msgid "How long ago was that?"
+msgstr "那是多久之前的事情了?"
+
+#. Id: 50294-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50293-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50294-rebirth.mod:0
+msgid "I am proud to say this shop has been up and running for 637 years!"
+msgstr "我很自豪的告訴你, 這個商店已經運營了637年了!"
+
+#. Id: 50295-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50295-rebirth.mod:0
+msgid "What happened to the town?"
+msgstr "那後來鎮上發生了什麼事?"
+
+#. Id: 50300-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50295-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50300-rebirth.mod:0
+msgid ""
+"The Second Empire ran its course.  Once everyone was gone, it fell into "
+"disrepair."
+msgstr "第二帝國垮台了, 一次戰亂之後鎮上的居民都走了, 小鎮也這樣荒廢了."
+
+#. Id: 50301-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50300-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50301-rebirth.mod:0
+msgid "But not Armour King!  I maintain it well."
+msgstr "但是不包括盔甲之王! 我依舊把這家店經營的很好."
+
+#. Id: 50303-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50301-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50303-rebirth.mod:0
+msgid "But how did it end up in this river?"
+msgstr "但是它最後怎麼終結在這條河裏?"
+
+#. Id: 50304-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (50303-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#. Id: 50299-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50298-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50304-rebirth.mod:0 50299-rebirth.mod:0
+msgid "*silence*"
+msgstr "*沉默*"
+
+#. Id: 50296-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50292-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50296-rebirth.mod:0
+msgid "How did the Second Empire end?"
+msgstr "第二帝國是如何毀滅的?"
+
+#. Id: 50297-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50296-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50297-rebirth.mod:0
+msgid ""
+"It just sort of rotted and fell apart.  A mental disease.  Very strange.  "
+"Not at all like the first empire."
+msgstr ""
+"第二帝國是因為腐敗最終導致了分裂解體, 感覺好像是精神疾病, 很令人不解, 完全不"
+"像第一帝國."
+
+#. Id: 50298-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50297-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50298-rebirth.mod:0
+msgid ""
+"The First Empire!  What happened to that?  How did the First Empire end?"
+msgstr "第一帝國! 他們發生了什麼? 第一帝國是怎麼毀滅的?"
+
+#. Id: 50285-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50284-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50285-rebirth.mod:0
+msgid "Armour King! "
+msgstr "盔甲之王! "
+
+#. Id: 50286-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50286-rebirth.mod:0
+msgid "Why are you HERE?  In a ruin in a river?"
+msgstr "為什麼你在這裏? 為什麼在這個水中的遺跡?"
+
+#. Id: 50287-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50286-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50287-rebirth.mod:0
+msgid "To sell the greatest armour in the remnants of the world."
+msgstr "為了賣這世界上最好的盔甲."
+
+#. Id: 50288-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50287-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50288-rebirth.mod:0
+msgid ""
+"I mean specifically, in this extremely remote and hidden location?  It's a "
+"ruin."
+msgstr "我是說, 為什麼要在這個如此隱藏的位置? 在這個廢墟?"
+
+#. Id: 50289-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50288-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50289-rebirth.mod:0
+msgid ""
+"The world is a ruin, people dwell and start anew in the ruins and remnants "
+"of fallen civilisations.  I fail to see any difference in my own behavior."
+msgstr ""
+"這個世界就是一個廢墟, 人們在廢墟中不斷的重建和毀滅文明. 我不認為我的行為有什"
+"麼不妥."
+
+#. Id: 50309-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50309-rebirth.mod:0
+msgid "How old are you?"
+msgstr "你度過了多少歲月了?"
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:0
+msgid "That's not a polite question to ask a Skeleton"
+msgstr "問一個骨人這個問題可是不禮貌的"
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:1
+msgid "That's a personal question for a Skeleton."
+msgstr "最好不要問骨人這個問題."
+
+#. Id: 50311-rebirth.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (50309-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: armour king talk to
+#: 50311-rebirth.mod:2
+msgid "Next question..."
+msgstr "下一個問題..."
+
+#. Id: 50310-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#: 50310-rebirth.mod:0
+msgid "That's all."
+msgstr "這是我知道的全部."
+
+#~ msgid "Let's trade"
+#~ msgstr "讓他們談談生意"
+
+#~ msgid "Show me what you have"
+#~ msgstr "讓我看看你有什麼"

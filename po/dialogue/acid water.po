@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:0
+msgid "HOT HOT HOT!"
+msgstr "燙燙燙!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:1
+msgid "I'm boiling alive!"
+msgstr "我在被活煮!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:2
+msgid "/ARG/! That's HOT!"
+msgstr "/ARG/! 那很燙!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:4
+msgid "/ARG/, it burns!"
+msgstr "/ARG/, 它燒起來了!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:5
+msgid "I'm /FUCKING/ melting!"
+msgstr "我 /FUCKING/ 在被融化!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:6
+msgid "/AAH/, I'm melting alive!"
+msgstr "/AAH/, 我要融化了!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:7
+msgid "/AAH/! Feels like I'm on fire!"
+msgstr "/AAH/! 感覺要著火了!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:8
+msgid "Feels like I'm swimming in a /FUCKING/ fire!"
+msgstr "感覺我像在 /FUCKING/ 的火中遊泳!"
+
+#. Id: 55772-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55772-Dialogue.mod:9
+msgid "/DAMN/, that burns!"
+msgstr "/DAMN/, 它燒起來了!"
+
+#. Id: 55775-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55775-Dialogue.mod:0
+msgid "Stay the hell out of the water!"
+msgstr "快點從這該死的水裏麵離開!"
+
+#. Id: 55775-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.22
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 55775-Dialogue.mod:1 6004-Dialogue.mod:22
+msgid "I gotta get out of here!"
+msgstr "我得趕快從這裏離開!"
+
+#. Id: 55775-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55775-Dialogue.mod:2
+msgid "This stuff burns like a bitch!"
+msgstr "這東西好燙!"
+
+#. Id: 55775-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55775-Dialogue.mod:3
+msgid "This shit burns like a bastard!"
+msgstr "該死要燒起來了!"
+
+#. Id: 55775-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55775-Dialogue.mod:4
+msgid "If I don't get out fast, I'll be soup!"
+msgstr "如果我不出去, 我會變成一碗湯!"
+
+#. Id: 55773-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. Id: 8747-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles being healed
+#: 55773-Dialogue.mod:0 8747-Dialogue.mod:4
+msgid "Rrrrgh!"
+msgstr "Rrrrgh!"
+
+#. Id: 55773-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55773-Dialogue.mod:1
+msgid "Raargh!"
+msgstr "Raargh!"
+
+#. Id: 55773-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55773-Dialogue.mod:2
+msgid "Burning!"
+msgstr "燒起來了!"
+
+#. Id: 55773-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55773-Dialogue.mod:3
+msgid "Hot!"
+msgstr "燙!"
+
+#. Id: 55774-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55773-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55774-Dialogue.mod:0
+msgid "It's like swimming in fire! Stay out of the water!"
+msgstr "感覺就像是在火中遊泳! 離這水遠一點!"
+
+#. Id: 55774-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55773-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55774-Dialogue.mod:1
+msgid "This is no water, this is acid!"
+msgstr "這不是水, 這是酸!"
+
+#. Id: 55774-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55773-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55774-Dialogue.mod:2
+msgid "Liquid fire! Stay out of the water!"
+msgstr "液體火! 離開這個水!"
+
+#. Id: 55774-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55773-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55774-Dialogue.mod:3
+msgid "The water burns! Stay out!"
+msgstr "這個水燒起來了! 離遠點!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:0
+msgid "My skin! This water's eating right through me!"
+msgstr "我的皮膚! 這個水在吃我!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:1
+msgid "/ARG/! It's like swimming in fire!"
+msgstr "/ARG/! 感覺像在火中遊泳!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:2
+msgid "My skin! It burns all over!"
+msgstr "我的皮膚! 它燒焦了!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:3
+msgid "/ARG/! This isn't just water, it's acid water!"
+msgstr "/ARG/! 它不是普通的水, 它是酸水!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:4
+msgid "/ARG/! Acid!... Feels like I'm on fire!"
+msgstr "/ARG/! 酸水!... 感覺我要著火了!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:5
+#, fuzzy
+msgid "/ARG/, acid water!"
+msgstr "/ARG/, 它燒起來了!"
+
+#. Id: 55776-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 55776-Dialogue.mod:6
+msgid "This isn't water... it's acid!... The burning!"
+msgstr "它不是的水, 它是酸水!"
+
+#. Id: 55777-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55777-Dialogue.mod:0
+msgid "Stay in here much longer and I'm soup!"
+msgstr "在這呆太久我會變成湯的!"
+
+#. Id: 55777-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 55777-Dialogue.mod:1
+msgid "Keep swimming in this and I'll have no skin left!"
+msgstr "再繼續這麼遊下去的話我就沒有好的皮膚剩下了...."
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:0
+msgid "Aaaah!"
+msgstr "Aaaah!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:1
+msgid "Gahhhh!"
+msgstr "Gahhhh!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:2
+msgid "It burns!"
+msgstr "燒起來了!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:4
+msgid "Arghhh!"
+msgstr "Arghhh!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:5
+msgid "Aughhh!"
+msgstr "Aughhh!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. Id: 8487-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. Id: 61475-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Killed noble announce
+#: 57697-Dialogue.mod:6 57696-Dialogue.mod:3 8487-Dialogue.mod:0
+#: 61475-Dialogue.mod:0
+#, fuzzy
+msgid "Rrgh!"
+msgstr "Rrrrgh!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:7
+msgid "Raghhh!"
+msgstr "Raghhh!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. Id: 3583-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is healed by someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15857-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 57697-Dialogue.mod:8 3583-dialogue-01.mod:2 15857-Dialogue.mod:6
+msgid "That hurts!"
+msgstr "好疼!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:9
+msgid "Agony!"
+msgstr "好痛苦!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:10
+msgid "Pain!"
+msgstr "疼!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#. Id: 40693-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted
+#: 57697-Dialogue.mod:11 40693-Dialogue.mod:5
+msgid "ARGH!"
+msgstr "ARGH!"
+
+#. Id: 57697-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid water
+#: 57697-Dialogue.mod:12
+msgid "GRAHH!"
+msgstr "GRAHH!"
+
+#~ msgid "/ARG/! "
+#~ msgstr "/ARG/! "
+
+#~ msgid "Don't go in the water!"
+#~ msgstr "別靠近這個水!"
+
+#~ msgid "The /FUCKING/ water is burning!"
+#~ msgstr "這個 /FUCKING/ 的水是酸的!"
+
+#~ msgid "/GODDAMN/ acid!"
+#~ msgstr "該死 酸!"
+
+#, fuzzy
+#~| msgid "/ARG/, acid water!"
+#~ msgid "/ARG/, acid waters! My skin is on fire! "
+#~ msgstr "/ARG/, 酸水!"

@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 56188-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_ENEMY=0, Tag: -1
+#: 56188-rebirth.mod:0
+msgid "Welcome to my bookshop!"
+msgstr "歡迎來到我的書店!"
+
+#. Id: 56196-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56193-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#: 56196-rebirth.mod:0
+msgid ""
+"It's a bookshop, I've gathered books and papers from all over the world "
+"here.  I even have a few writings from the Holy Nation."
+msgstr ""
+"這是一個書店, 這裏有我從世界上收集的所有紙和書. 甚至有有些神聖帝國相關的讀物."
+
+#. Id: 56197-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56196-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: bookshop guy
+#: 56197-rebirth.mod:0
+msgid "What's the point of that? Most people can't even read"
+msgstr "這有什麼用? 大部分人都看不懂書"
+
+#. Id: 56199-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56197-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#: 56199-rebirth.mod:0
+msgid ""
+"Because knowledge is a valuable thing in this world.  Someone has to try and "
+"protect it and spread it around."
+msgstr "因為知識在這世界上無疑是有用的東西. 一定會有人保護並傳播這些知識."
+
+#. Id: 56201-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56197-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#. -- Condition: Target Race(s): Skeleton
+#: 56201-rebirth.mod:0
+msgid ""
+"I'm protecting the valuable knowledge that humans need to survive.  And "
+"obviously in this position I can keep certain things hidden too... y'know."
+msgstr ""
+"我保護那些人類延續下去必須的東西. 當然在這個位置我也可以保護隱藏一些特別的東"
+"西...你會明白的."
+
+#. Id: 56202-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56201-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: bookshop guy
+#: 56202-rebirth.mod:0
+msgid "Keep what hidden?"
+msgstr "你不想什麼東西讓人知道?"
+
+#. Id: 56203-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56202-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#: 56203-rebirth.mod:0
+msgid "C'mon, don't play dumb.  Do you want to trade or not?"
+msgstr "拜托, 這種事情怎麼能問呢? 你想不想交易?"
+
+#. Id: 56204-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56201-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: bookshop guy
+#: 56204-rebirth.mod:0
+msgid "Oh... Those things..."
+msgstr "哦....我知道了..."
+
+#. Id: 56200-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56198-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bookshop guy
+#: 56200-rebirth.mod:0
+msgid ""
+"Also I've got the most comprehensive collection of blueprints and technology "
+"you'll find anywhere else.  This is some powerful stuff if you know how to "
+"use it."
+msgstr ""
+"我也收集了很多古代科技的知識和藍圖. 如果你會用的話, 這些是非常有價值的東西."
+
+#~ msgid "Show me what you got"
+#~ msgstr "讓我看看你有什麼"

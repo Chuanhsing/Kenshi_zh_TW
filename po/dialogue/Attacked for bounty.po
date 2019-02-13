@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: 2018-05-19 08:58+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 11996-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#: 11996-Dialogue?(10).mod:0
+msgid "An Empire puppet comes for my bounty, hrm?"
+msgstr "哼, 一個為了我的賞金而來的帝國木偶?"
+
+#. Id: 11996-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#: 11996-Dialogue?(10).mod:1
+msgid "An Empire stooge comes after my bounty, hrm?"
+msgstr "哼, 為了賞金而來的帝國的小醜？"
+
+#. Id: 11996-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#: 11996-Dialogue?(10).mod:2
+msgid "Another Empire lackey comes for my bounty, hrm?"
+msgstr "哼, 又一個來拿賞金的帝國走狗?"
+
+#. Id: 11996-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#: 11996-Dialogue?(10).mod:3
+msgid "Another Empire pawn comes after my bounty, hrm?"
+msgstr "哼, 又一個為了我的賞金而來的帝國走狗?"
+
+#. Id: 11996-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#: 11996-Dialogue?(10).mod:4
+msgid "Another Empire sucker wants my bounty, hrm?"
+msgstr "哼, 又一個來拿懸賞的帝國呆瓜?"
+
+#. Id: 11997-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11996-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11997-Dialogue?(10).mod:0
+msgid "I'll rip your bones from you flesh first"
+msgstr "我要先把你骨頭扯出來"
+
+#. Id: 11997-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11996-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11997-Dialogue?(10).mod:1
+msgid "I'll rip your limbs from your body first"
+msgstr "我先把你的胳膊卸下來"
+
+#. Id: 11997-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11996-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11997-Dialogue?(10).mod:2
+msgid "I'll tear your eyes from their sockets first"
+msgstr "我要先把你的眼睛摳出來"
+
+#. Id: 11997-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (11996-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11997-Dialogue?(10).mod:3
+msgid "I'll pull your spine from your flesh first"
+msgstr "我先把你的脊椎剔出來"
+
+#. Id: 11997-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (11996-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11997-Dialogue?(10).mod:4
+msgid "I'll unravel you from your guts first"
+msgstr "我會先讓你肚破腸流"
+
+#. Id: 11999-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11997-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11999-Dialogue?(10).mod:0
+msgid "Come closer!"
+msgstr "過來點!"
+
+#. Id: 11999-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11997-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11999-Dialogue?(10).mod:1
+msgid "Don't be shy, come closer!"
+msgstr "靠近點,別害羞!"
+
+#. Id: 11999-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (11997-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#: 11999-Dialogue?(10).mod:2
+msgid "Come on then, don't be shy!"
+msgstr "來啊,別害羞!"
+
+#~ msgid "Try me!"
+#~ msgstr "有本事就來啊!"

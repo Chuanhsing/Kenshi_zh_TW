@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 5466-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5465-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#: 5466-gamedata.base:0
+msgid "I'm looking to hire some bodyguards"
+msgstr "我想找一點保鏢"
+
+#. Id: 5469-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5466-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#: 5469-gamedata.base:0
+msgid "2000 'cats per day. 1 day minimum charge. No refunds."
+msgstr "2000 一天. 至少一天. 不接受還價."
+
+#. Id: 5470-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#: 5470-gamedata.base:1
+msgid "Ah, no thanks."
+msgstr "額, 不用了."
+
+#. Id: 5471-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 44792-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44784-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 98458-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98512-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 5471-gamedata.base:0 44792-Dialogue.mod:0 98458-__March?18.mod:0
+#: 98512-__March?18.mod:0
+msgid "1 day"
+msgstr "1天"
+
+#. Id: 5473-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5469-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 5477-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 44793-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44784-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 44787-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 98521-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 98469-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98523-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 5473-gamedata.base:0 5477-gamedata.base:0 44793-Dialogue.mod:0
+#: 44787-Dialogue.mod:0 98521-__March?18.mod:0 98469-__March?18.mod:0
+#: 98523-__March?18.mod:0
+msgid "2 days"
+msgstr "2天"
+
+#. Id: 5467-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5465-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#: 5467-gamedata.base:0
+msgid "I need some mercenaries to guard my outpost"
+msgstr "我需要傭兵保護我的據點"
+
+#. Id: 5475-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5467-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#: 5475-gamedata.base:0
+msgid "1000 cats per day, 2 day minimum. We get looting rights too."
+msgstr "1000一天, 至少2天. 我們有戰利品的所有權."
+
+#. Id: 5478-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 44788-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 98471-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 5478-gamedata.base:0 44788-Dialogue.mod:0 98471-__March?18.mod:0
+msgid "4 days"
+msgstr "4天"
+
+#. Id: 5479-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 44789-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 98473-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>9000, Tag: -1
+#: 5479-gamedata.base:0 44789-Dialogue.mod:0 98473-__March?18.mod:0
+msgid "6 days"
+msgstr "6天"
+
+#. Id: 5480-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5475-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>8000, Tag: -1
+#. Id: 44790-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>8000, Tag: -1
+#. Id: 98475-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98468-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>12000, Tag: -1
+#: 5480-gamedata.base:0 44790-Dialogue.mod:0 98475-__March?18.mod:0
+msgid "8 days"
+msgstr "8天"
+
+#. Id: 12675-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12675-Dialogue?(11)?(2).mod:1
+msgid "Need help, /OUTLANDER/?"
+msgstr "需要幫助麼, /OUTLANDER/?"
+
+#. Id: 12675-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12675-Dialogue?(11)?(2).mod:2
+msgid "What can I do for you, /OUTLANDER/?"
+msgstr "我能為你做什麼, /OUTLANDER/?"
+
+#. Id: 12676-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12676-Dialogue?(11)?(2).mod:0
+msgid "Need a merc?"
+msgstr "需要雇傭兵?"
+
+#. Id: 12676-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12676-Dialogue?(11)?(2).mod:1
+msgid "Need a bodyguard?"
+msgstr "需要保鏢?"
+
+#. Id: 12676-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44806-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug2
+#: 12676-Dialogue?(11)?(2).mod:2 44806-Dialogue.mod:4
+msgid "Need protection?"
+msgstr "需要保護?"
+
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 12677-Dialogue?(11)?(2).mod:0 42992-Dialogue.mod:3
+msgid "Here for business?"
+msgstr "來談生意嘛?"
+
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12677-Dialogue?(11)?(2).mod:1
+msgid "Looking for a bodyguard?"
+msgstr "來找保鏢?"
+
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 1739-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12677-Dialogue?(11)?(2).mod:2 1739-gamedata.base:2
+#, fuzzy
+msgid "Looking for some muscle?"
+msgstr "來找傭兵?"
+
+#. Id: 12677-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12677-Dialogue?(11)?(2).mod:3
+msgid "Looking for a merc?"
+msgstr "來找傭兵?"
+
+#~ msgid "Can I help you, /OUTLANDER/?"
+#~ msgstr "我能幫助你麼, /OUTLANDER/?"

@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 18900-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 18900-gamedata.base:0
+msgid "Greetings!  Are you looking to trade?"
+msgstr "嘿! 來做生意的?"
+
+#. Id: 18901-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18901-gamedata.base:0
+msgid "I'm looking to buy some slaves"
+msgstr "我來買點奴隸"
+
+#. Id: 18901-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18901-gamedata.base:1
+msgid "I'm here to buy"
+msgstr "我來買點東西"
+
+#. Id: 18902-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18902-gamedata.base:0
+msgid "I'm looking to sell some slaves"
+msgstr "我來賣點奴隸"
+
+#. Id: 18902-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18902-gamedata.base:1
+msgid "I'm here to sell"
+msgstr "我來賣點東西"
+
+#. Id: 1532007-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18902-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=1, Tag: -1
+#: 1532007-Dialogue.mod:0
+msgid "Good! But come back in a few minutes..."
+msgstr ""
+
+#. Id: 1532010-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 1532010-Dialogue.mod:0
+msgid "I'm just need to process this here slave first."
+msgstr ""
+
+#. Id: 18905-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (18900-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18905-gamedata.base:0
+msgid "What are you trading?"
+msgstr "你的商品是什麼?"
+
+#. Id: 18906-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (18905-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 18906-gamedata.base:0
+msgid "Slaves of course.  This is the slave shop."
+msgstr "當然是奴隸. 這是奴隸商店."
+
+#. Id: 18907-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (18906-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 18907-gamedata.base:0
+msgid "Oh, of course it is."
+msgstr "哦, 它當然是."
+
+#. Id: 40521-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (18907-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40521-gamedata.base:0
+msgid "So? What do you want?"
+msgstr "所以? 你想要點什麼?"
+
+#. Id: 40521-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (18907-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40521-gamedata.base:1
+msgid "What do you want then?"
+msgstr "然後你要些什麼?"
+
+#. Id: 40515-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (18906-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 40515-gamedata.base:0
+msgid "You disgust me, Slaver!"
+msgstr "你讓我感到惡心, 奴隸!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:0
+msgid "Bloody loonies! /QUICKLAUGH/!"
+msgstr "不得了的瘋子! /QUICKLAUGH/!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.1
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:1
+msgid "/QUICKLAUGH/! Get a load of this looney!"
+msgstr "/QUICKLAUGH/! 把這個瘋子帶走!"
+
+#. Id: 40516-gamedata.base
+#. -- Index: 4.2
+#. -- Parent line: 3 (40515-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40516-gamedata.base:2
+msgid "/QUICKLAUGH/! Looney slave-huggers! How quaint!"
+msgstr "/QUICKLAUGH/! 發瘋的關愛奴隸的人! 真有趣!"
+
+#. Id: 40517-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (40516-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40517-gamedata.base:0
+msgid ""
+"Where do you think all the iron comes from that makes your pretty sword? Eh?"
+msgstr "你覺得你用的那把劍的鐵是哪裏來的啊?"
+
+#. Id: 40518-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (40517-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40518-gamedata.base:0
+msgid ""
+"Who mines all the stone to make your building materials? Who farms your food?"
+msgstr "是誰挖的你住的建築的材料? 你的食物是誰種植的?"
+
+#. Id: 40519-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (40518-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40519-gamedata.base:0
+msgid "Where do you think the clothes on your back came from, eh?"
+msgstr "你身上的衣服是哪裏來的, 你知道嗎?"
+
+#. Id: 40523-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (40519-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40523-gamedata.base:0
+msgid ""
+"It's all from slave labour! But you don't care about any of that when you're "
+"shopping around for cheap gear do you? No, take it out on the poor slave "
+"traders!"
+msgstr ""
+"全部都奴隸勞工的傑作! 但是你有在買東西的時候意識到這個麼? 沒有, 把它帶走, 貧"
+"窮的奴隸商人!"
+
+#. Id: 40520-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (40523-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40520-gamedata.base:0
+msgid "/FUCKING/ hypocrite!"
+msgstr "/FUCKING/ 偽君子!"
+
+#. Id: 40524-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#. -- Condition: Who: TARGET, Condition: CARRYING_SOMEONE_TO_ENSLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: CARRYING_SOMEONE_TO_ENSLAVE=0, Tag: -1
+#: 40524-gamedata.base:0
+msgid "Watchya got there? A new slave? Give you 400 'cats for 'im."
+msgstr "是什麼風把你帶過來了? 一個新奴隸? 我拿 400 cats 換他."
+
+#. Id: 40526-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 54524-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54505-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#. Id: 12683-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 98664-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98663-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: swamp hound vist ally talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 40526-gamedata.base:0 54524-Dialogue.mod:1 12683-Dialogue?(11)?(2).mod:0
+#: 98664-Dialogue.mod:0
+msgid "Sure"
+msgstr ""
+
+#. Id: 40529-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (40526-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: trade slaves
+#: 40529-gamedata.base:0
+msgid "Come to master"
+msgstr "到主人這裏來"
+
+#. Id: 40530-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#: 40530-gamedata.base:0
+msgid "This one's not for sale."
+msgstr "這個不賣的."

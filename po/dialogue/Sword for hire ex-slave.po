@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VERSION\n"
+"POT-Creation-Date: 2018-11-22 22:28+0800\n"
+"PO-Revision-Date: 2018-11-23 00:27+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE TEAM <EMAIL@ADDRESS>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#. Id: 41239-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire ex-slave
+#: 41239-Dialogue.mod:0
+msgid "I'll never get tired of this air. Gritty, dry, but oh so sweet."
+msgstr "我絕不會對這種空氣感到厭煩. 摻著砂礫, 幹燥無比, 卻甘之如飴."
+
+#. Id: 41240-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41239-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41240-Dialogue.mod:0
+msgid "It's air, what's the big deal?"
+msgstr "什麼都沒有，怎麼了？"
+
+#. Id: 41243-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire ex-slave
+#: 41243-Dialogue.mod:0
+msgid ""
+"It's nothing like the air in that mine. Tasted like metal, but not the kind "
+"we were looking for. Same smell in the cages. Sweaty, burning....I'd rather "
+"not think about it too much. Dwelling on the life of a slave is a shackling "
+"in itself. Sometimes I need to remember I'm free now."
+msgstr ""
+"這和那礦井裏的味兒不一樣. 聞起來想金屬, 但不是我期待的那種. 這和籠子裏的氣味"
+"一樣. 汗臭, 刺鼻....我不願再想了. 總想著奴隸時的生活本就是一種枷鎖. 有時我得"
+"記得自己已現在是自由身."
+
+#. Id: 41244-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41243-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41244-Dialogue.mod:0
+msgid "Right, well...so long."
+msgstr "好吧，那這樣...再見。"
+
+#. Id: 41245-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41243-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41245-Dialogue.mod:0
+msgid "An ex-slave? Aren't you worried someone will overhear?"
+msgstr "前奴隸? 難道你不怕有人無意間聽見麼?"
+
+#. Id: 41246-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire ex-slave
+#: 41246-Dialogue.mod:0
+msgid ""
+"I was bought out, I don't have a brand anymore. It's free drifting all the "
+"way from here on out."
+msgstr "我被贖出來了, 再也沒有奴隸戳了.可以自由的四處走了."
+
+#. Id: 41241-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41239-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41241-Dialogue.mod:0
+msgid "Looking to join up?"
+msgstr "期待加入?"
+
+#. Id: 41247-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire ex-slave
+#: 41247-Dialogue.mod:0
+msgid ""
+"Roam free with a band of blades...something awfuly romantic about it, being "
+"a former slave and all. I'd gladly join your group, however I need to settle "
+"a debt. I'm 3000 Cats short, if you can help I'll walk with you."
+msgstr ""
+"當過奴隸, 也做過其他的事情, 若能和一群劍客一起漫遊...那得多麼浪漫. 我很樂意加"
+"入你, 然而我需要償還一項債務. 我還差3000Cats, 如你傾囊相助我就跟你走."
+
+#. Id: 41248-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41248-Dialogue.mod:0
+msgid "Sure, 3000 it is. Good to have along"
+msgstr "當然, 3000就3000. 很高興與你同路"
+
+#. Id: 41249-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41249-Dialogue.mod:0
+msgid ""
+"Don't kid yourself. Here's your cash. Title or no title, you work for me "
+"now, worm."
+msgstr "別騙自己了. 這是你的錢. 有沒有頭銜都一樣, 你現在得為我工作, 可憐蟲."
+
+#. Id: 41250-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41250-Dialogue.mod:0
+msgid "On second thought, I'll pass."
+msgstr "我又想了想, 還是算了."
+
+#. Id: 41251-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 41251-Dialogue.mod:0
+msgid "I'm running a bit dry here. Another time."
+msgstr "我手頭有些緊. 下次吧."
+
+#. Id: 41242-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41239-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire ex-slave
+#: 41242-Dialogue.mod:0
+msgid "Yeah, uh, sure...bye."
+msgstr "是啊, 額, 當然...再會."

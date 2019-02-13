@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.1\n"
+
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 43745-Dialogue.mod:6
+msgid "You buying?..."
+msgstr "你買東西嗎?..."
+
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 43745-Dialogue.mod:7
+msgid "Here to buy?..."
+msgstr "來買東西的?..."
+
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 43745-Dialogue.mod:15
+msgid "*Glaring at you*"
+msgstr "*瞪著你*"
+
+#. Id: 43747-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#: 43747-Dialogue.mod:1
+msgid "Nevermind, I've changed my mind"
+msgstr "沒事, 我改變主意了"
