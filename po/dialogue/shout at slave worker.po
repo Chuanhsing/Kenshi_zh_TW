@@ -1,0 +1,445 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:0
+msgid "Work! Work!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 40890-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation shout at slave
+#: 5264-gamedata.base:1 40890-Dialogue.mod:4
+msgid "Work!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:2
+msgid "Work is everything!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 40890-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation shout at slave
+#: 5264-gamedata.base:3 40890-Dialogue.mod:0
+msgid "Work harder!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:4
+msgid "Work or die!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:5
+msgid "Work is life!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:6
+msgid "Work is freedom!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:7
+msgid "You're all fit to work!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 5269-gamedata.base
+#. -- Index: 1.6
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:8 5269-gamedata.base:6
+msgid "Work is the best pain-killer!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:9
+msgid "If you can feel pain it's because you're not working hard enough!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:10
+msgid "Bloody work-shy! That's what you are!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:11
+msgid "Lazy /BASTARD/s!"
+msgstr ""
+
+#. Id: 5264-gamedata.base
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5264-gamedata.base:12
+msgid "You are nothing without work!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5265-gamedata.base:0
+msgid "Move faster!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5265-gamedata.base:1
+msgid "Work faster!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 12350-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12351-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 5265-gamedata.base:2 12350-Dialogue?(10).mod:2
+msgid "Move it!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5265-gamedata.base:3
+msgid "Hurry up!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5265-gamedata.base:4
+msgid "Faster!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 40890-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation shout at slave
+#: 5265-gamedata.base:5 40890-Dialogue.mod:3
+msgid "Get to work!"
+msgstr ""
+
+#. Id: 5265-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5265-gamedata.base:6
+msgid "Get to /FUCKING/ work!"
+msgstr ""
+
+#. Id: 5267-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5267-gamedata.base:0
+msgid "Aww feeling a little woozy?"
+msgstr ""
+
+#. Id: 5267-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5267-gamedata.base:1
+msgid "Feeling unwell?"
+msgstr ""
+
+#. Id: 5267-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5267-gamedata.base:2
+msgid "Injured?"
+msgstr ""
+
+#. Id: 5267-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5267-gamedata.base:3
+msgid "Aww are you nearly dead?"
+msgstr ""
+
+#. Id: 5267-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5267-gamedata.base:4
+msgid "Nearly dead, eh?"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:0
+msgid "You're fit to work!"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:1
+msgid "Work harder then!"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:2
+msgid "If you can't work you go in the furnace!"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.3
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:3
+msgid "Non workers go in the furnace!"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.4
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:4
+msgid "If you can't keep up then it's the furnace for you!"
+msgstr ""
+
+#. Id: 5269-gamedata.base
+#. -- Index: 1.5
+#. -- Parent line: 0 (5267-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#: 5269-gamedata.base:5
+msgid "Better keep up!"
+msgstr ""
+
+#. Id: 5270-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 40895-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation shout at slave
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5270-gamedata.base:0 40895-Dialogue.mod:0
+msgid "Bad leg?"
+msgstr ""
+
+#. Id: 5270-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5270-gamedata.base:1
+msgid "Broken legs?"
+msgstr ""
+
+#. Id: 5270-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5270-gamedata.base:2
+msgid "What's wrong with your leg?"
+msgstr ""
+
+#. Id: 5272-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 5272-gamedata.base:0
+msgid "Broken arm?"
+msgstr ""
+
+#. Id: 5272-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 40898-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation shout at slave
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 5272-gamedata.base:1 40898-Dialogue.mod:0
+msgid "Bad arm?"
+msgstr ""
+
+#. Id: 5272-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 5272-gamedata.base:2
+msgid "Isn't your arm working?"
+msgstr ""
+
+#. Id: 5274-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 5274-gamedata.base:0
+msgid "Head injury, eh?"
+msgstr ""
+
+#. Id: 5274-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 5274-gamedata.base:1
+msgid "Got concussion? /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 5274-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 5274-gamedata.base:2
+msgid "Skull feeling a little fractured? /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 5274-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 5274-gamedata.base:3
+msgid "So, got a horrific head wound, eh? "
+msgstr ""
+

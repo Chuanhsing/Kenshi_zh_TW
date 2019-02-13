@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18537-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18537-Dialogue.mod:0
+msgid "You did it, minion!"
+msgstr ""
+
+#. Id: 18538-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<8000, Tag: -1
+#. Id: 18541-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>2500, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<5000, Tag: -1
+#. Id: 18542-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1000, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<2500, Tag: -1
+#. Id: 18546-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>8000, Tag: -1
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<10000, Tag: -1
+#. Id: 18549-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>10000, Tag: -1
+#: 18538-Dialogue.mod:0 18541-Dialogue.mod:0 18542-Dialogue.mod:0 18546-Dialogue.mod:0 18549-Dialogue.mod:0
+msgid "Here! Have some Cats."
+msgstr ""
+
+#. Id: 18539-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18539-Dialogue.mod:0
+msgid "You'll always be an ally of /MYFACTION/ now, /BOY2/!"
+msgstr ""
+
+#. Id: 18539-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18539-Dialogue.mod:1
+msgid "I'll remember this, /BOY2/!"
+msgstr ""
+
+#. Id: 18539-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18539-Dialogue.mod:2
+msgid "/MYFACTION/ will remember you for this, /BOY2/!"
+msgstr ""
+
+#. Id: 18561-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<1000, Tag: -1
+#: 18561-Dialogue.mod:0
+msgid "Oh... I must have left my coin sack back at the palace..."
+msgstr ""
+
+#. Id: 18561-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<1000, Tag: -1
+#. Id: 41979-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18561-Dialogue.mod:1 41979-Dialogue.mod:0
+msgid "Oh... I must have left my Cat sack back at the palace..."
+msgstr ""
+
+#. Id: 18563-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18563-Dialogue.mod:0
+msgid "Oh well. You'll always be an ally of /MYFACTION/ anyway now, /BOY2/"
+msgstr ""
+
+#. Id: 18564-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 18564-Dialogue.mod:0
+msgid "I'll be sure to spread the news of your heroism! /NOBLELAUGH/!"
+msgstr ""
+
+#. Id: 41977-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18537-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 41977-Dialogue.mod:0
+msgid "Your heroism will be rewarded!"
+msgstr ""
+
+#. Id: 41978-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000, Tag: -1
+#: 41978-Dialogue.mod:0
+msgid "Make it rain riches!"
+msgstr ""
+
+#. Id: 41985-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 41985-Dialogue.mod:0
+msgid "I'll remember this, /OUTLANDER/! You'll always have a place in my Empire!"
+msgstr ""
+
+#. Id: 41980-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>10000, Tag: -1
+#: 41980-Dialogue.mod:0
+msgid "Here! Have some riches, lots of riches!"
+msgstr ""
+
+#. Id: 56385-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 56385-Dialogue.mod:0
+msgid "You've made yourself a powerful ally today, /YOURNAME/..."
+msgstr ""
+
+#. Id: 56386-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>8000, Tag: -1
+#. Id: 56388-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>15000, Tag: -1
+#: 56386-Dialogue.mod:0 56388-Dialogue.mod:0
+msgid "Here, compensation for your efforts. Take it..."
+msgstr ""
+
+#. Id: 56393-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 56393-Dialogue.mod:0
+msgid "The Traders Guild will remember this always. Farewell."
+msgstr ""
+
+#. Id: 56387-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Noble
+#: 56387-Dialogue.mod:0
+msgid "Unfortunately I've been stripped of my Cats, but nonetheless..."
+msgstr ""
+

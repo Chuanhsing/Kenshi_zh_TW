@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 97106-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 97106-Dialogue.mod:0
+msgid "Make it past a few lasers and a human thinks it's invincible..."
+msgstr ""
+
+#. Id: 97108-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 97108-Dialogue.mod:0
+msgid "Is that a breather, Screamer? Certainly is ugly, isn't it?"
+msgstr ""
+
+#. Id: 97109-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97108-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. Id: 97121-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97120-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97109-Dialogue.mod:0 97121-Dialogue.mod:0
+msgid "Really, Ponk, clean your eyes. You've been at that bench too long."
+msgstr ""
+
+#. Id: 97110-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97109-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. Id: 97122-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97121-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97110-Dialogue.mod:0 97122-Dialogue.mod:0
+msgid "A conservation scientist has no room for such trivial routine."
+msgstr ""
+
+#. Id: 97111-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97111-Dialogue.mod:0
+msgid "Whatever, sort out this mess. That disgusting.. thing.. will get it's fluids all over the lab."
+msgstr ""
+
+#. Id: 97112-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97111-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97112-Dialogue.mod:0
+msgid "Let the thralls take care of it. It's THEIR job, not mine."
+msgstr ""
+
+#. Id: 97138-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97108-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Target Race(s): Skeleton
+#: 97138-Dialogue.mod:0
+msgid "And a volunteer too? How very welcome you are, skeleton."
+msgstr ""
+
+#. Id: 97113-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 97113-Dialogue.mod:0
+msgid "Would you look at this, Ponk. A human made it all the way here..."
+msgstr ""
+
+#. Id: 97115-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97114-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#: 97115-Dialogue.mod:0
+msgid "Stubborn animals... Even the lasers can't stamp them out."
+msgstr ""
+
+#. Id: 97116-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97115-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#: 97116-Dialogue.mod:0
+msgid "Thralls: Exterminate."
+msgstr ""
+
+#. Id: 97118-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97118-Dialogue.mod:0
+msgid "A volunteer? How very welcome you are, skeleton."
+msgstr ""
+
+#. Id: 97120-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97119-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97120-Dialogue.mod:0
+msgid "What model is he, Screamer? We could certainly use another heavy."
+msgstr ""
+
+#. Id: 97123-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97122-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97123-Dialogue.mod:0
+msgid "Whatever. Secure the subject and get him fitted."
+msgstr ""
+
+#. Id: 97124-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97123-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97124-Dialogue.mod:0
+msgid "Leave it to the thralls. It's THEIR job, not mine."
+msgstr ""
+
+#. Id: 97125-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97124-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97125-Dialogue.mod:0
+msgid "But they'll scrape him up again... Such a waste of such perfection."
+msgstr ""
+
+#. Id: 97126-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (97125-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Screamer sees player
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 97126-Dialogue.mod:0
+msgid "Then YOU can fix him back up, can't you?"
+msgstr ""
+

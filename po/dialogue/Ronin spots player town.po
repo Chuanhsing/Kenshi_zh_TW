@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62473-Dialogue.mod:0
+msgid "You're... hive too?"
+msgstr ""
+
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62473-Dialogue.mod:1
+msgid "You're from hive?"
+msgstr ""
+
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62473-Dialogue.mod:2
+msgid "Hive?"
+msgstr ""
+
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62473-Dialogue.mod:6
+msgid "Hive..."
+msgstr ""
+
+#. Id: 62473-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (62475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62473-Dialogue.mod:7
+msgid "You're... you're hive...?"
+msgstr ""
+
+#. Id: 62485-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (62473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#: 62485-Dialogue.mod:1
+msgid "We..."
+msgstr ""
+
+#. Id: 62485-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (62473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#: 62485-Dialogue.mod:2
+msgid "Where..."
+msgstr ""
+
+#. Id: 62486-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin spots player town
+#: 62486-Dialogue.mod:0
+msgid "You look lost, brother."
+msgstr ""
+
+#. Id: 62486-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (62485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin spots player town
+#: 62486-Dialogue.mod:1
+msgid "Lost your queen, guy?"
+msgstr ""
+
+#. Id: 62487-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62486-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin spots player town
+#: 62487-Dialogue.mod:0
+msgid "I remember that feeling all too well."
+msgstr ""
+
+#. Id: 62487-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (62486-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin spots player town
+#: 62487-Dialogue.mod:2
+msgid "I know that feeling."
+msgstr ""
+
+#. Id: 62489-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#: 62489-Dialogue.mod:0
+msgid "... Can you help me?"
+msgstr ""
+
+#. Id: 62477-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62477-Dialogue.mod:0
+msgid "Back to work..."
+msgstr ""
+
+#. Id: 62477-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin spots player town
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 62477-Dialogue.mod:1
+msgid "Back to our task..."
+msgstr ""
+

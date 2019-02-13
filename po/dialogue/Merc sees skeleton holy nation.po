@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:0
+msgid "We have to leave. Now."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:1
+msgid "Run. Now."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:2
+msgid "Run. We have to get the hell out of here."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:3
+msgid "We have to get out of here."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:4
+msgid "Run away. Run away and don't look back."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:5
+msgid "Run. And whatever you do, don't turn back."
+msgstr ""
+
+#. Id: 41454-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 41454-Dialogue.mod:6
+msgid "Run! No matter what happens, don't turn back!"
+msgstr ""
+
+#. Id: 41456-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 41456-Dialogue.mod:0
+msgid "Nope. Not today. Nope."
+msgstr ""
+
+#. Id: 41457-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. Id: 15663-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15662-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed military
+#: 41457-Dialogue.mod:0 15663-Dialogue.mod:4
+msgid "I have to get out of here"
+msgstr ""
+
+#. Id: 41457-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#: 41457-Dialogue.mod:2
+msgid "I can't let them catch me!"
+msgstr ""
+
+#. Id: 41466-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 41466-Dialogue.mod:0
+msgid "Everyone get out of here!"
+msgstr ""
+
+#. Id: 41466-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 41466-Dialogue.mod:1
+msgid "Get to safety, get out of here!"
+msgstr ""
+
+#. Id: 41466-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 41466-Dialogue.mod:2
+msgid "Run away, get yourselves to safety!"
+msgstr ""
+
+#. Id: 41466-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 41466-Dialogue.mod:3
+msgid "Arm yourselves!"
+msgstr ""
+
+#. Id: 41472-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 41472-Dialogue.mod:0
+msgid "Get out! Get out of my city!"
+msgstr ""
+
+#. Id: 41472-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 41472-Dialogue.mod:2
+msgid "Leave here!"
+msgstr ""
+
+#. Id: 41474-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 41474-Dialogue.mod:0
+msgid "Not in this city!"
+msgstr ""
+
+#. Id: 41474-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 41474-Dialogue.mod:1
+msgid "Go back to the abyss, monster!"
+msgstr ""
+
+#. Id: 41474-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 41474-Dialogue.mod:2
+msgid "/GODDAMN/ monsters!"
+msgstr ""
+
+#. Id: 41476-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#: 41476-Dialogue.mod:0
+msgid "A little help over here...!"
+msgstr ""
+
+#. Id: 41476-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#: 41476-Dialogue.mod:1
+msgid "Could use a little help..."
+msgstr ""
+
+#. Id: 41476-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#: 41476-Dialogue.mod:3
+msgid "Get over here and help me, somebody!"
+msgstr ""
+

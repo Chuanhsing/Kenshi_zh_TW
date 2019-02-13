@@ -1,0 +1,512 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 97950-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 97950-Dialogue.mod:0
+msgid "/IWE/ just want food..."
+msgstr ""
+
+#. Id: 97950-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 97950-Dialogue.mod:1
+msgid "/IWE/ don't want to fight unless /IWE/ have to, /IWE/ just want food... "
+msgstr ""
+
+#. Id: 97951-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 97951-Dialogue.mod:0
+msgid "Hand over your food and nobody dies..."
+msgstr ""
+
+#. Id: 97956-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97956-Dialogue.mod:0
+msgid "Are you /CRAZY/? Half starved and picking fights?"
+msgstr ""
+
+#. Id: 97956-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97956-Dialogue.mod:1
+msgid "This is /CRAZY/. Half starved and making threats at me?"
+msgstr ""
+
+#. Id: 97956-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97956-Dialogue.mod:2
+msgid "You look half dead. You're in no condition to rob me..."
+msgstr ""
+
+#. Id: 97960-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 97960-Dialogue.mod:0
+msgid "You don't even know... what hunger does to you. What it feels like, what it drives you to... I don't want to fight you. But more than I don't want to fight, I want to live another day..."
+msgstr ""
+
+#. Id: 97964-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
+#: 97964-Dialogue.mod:0
+msgid "Put your sword away. I can help you."
+msgstr ""
+
+#. Id: 97967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
+#. Id: 97968-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#. Id: 97969-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1500, Tag: -1
+#. Id: 14611-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14609-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 41880-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41879-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>5000, Tag: -1
+#. Id: 6951-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You saved me!
+#. Id: 15845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: You saved my life!
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 98171-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1500, Tag: -1
+#. Id: 1532726-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532724-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt tax evasion campaign
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 97967-Dialogue.mod:0 97968-Dialogue.mod:0 97969-Dialogue.mod:0 14611-Dialogue?(4).mod:0 41880-Dialogue.mod:0 6951-Dialogue.mod:0 15845-Dialogue.mod:0 98171-Dialogue.mod:0 1532726-Dialogue.mod:0
+msgid "Here..."
+msgstr ""
+
+#. Id: 97983-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97967-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97983-Dialogue.mod:0
+msgid "Great... that will get me half a chewstick..."
+msgstr ""
+
+#. Id: 97984-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97983-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97984-Dialogue.mod:0
+msgid "... But it's better than a broken rib at least."
+msgstr ""
+
+#. Id: 97985-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 13366-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13363-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 9875-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9884-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 7064-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 97985-Dialogue.mod:0 13366-Escapes.mod:0 9875-Dialogue.mod:1 9884-Dialogue.mod:0 7064-Dialogue.mod:0
+msgid "Thank you..."
+msgstr ""
+
+#. Id: 97985-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (97968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97985-Dialogue.mod:1
+msgid "Look at all those Cats...!"
+msgstr ""
+
+#. Id: 97985-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (97968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97985-Dialogue.mod:2
+msgid "You'd really just give me all those Cats...?"
+msgstr ""
+
+#. Id: 97986-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 98088-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 97986-Dialogue.mod:0 98088-Dialogue.mod:0
+msgid "Thank you, friend."
+msgstr ""
+
+#. Id: 98211-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98209-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 98211-Dialogue.mod:0
+msgid "Okay... this is good."
+msgstr ""
+
+#. Id: 97965-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97965-Dialogue.mod:0
+msgid "Cry me a river, dreg. You can't win. Run while you can."
+msgstr ""
+
+#. Id: 97988-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97965-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 97988-Dialogue.mod:0
+msgid "[Their eyes dart around themselves as they size up your squad]"
+msgstr ""
+
+#. Id: 97997-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97997-Dialogue.mod:0
+msgid "Today isn't our day. Let's get outta here..."
+msgstr ""
+
+#. Id: 97989-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97965-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#: 97989-Dialogue.mod:0
+msgid "I've nowhere to run."
+msgstr ""
+
+#. Id: 97993-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97965-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97993-Dialogue.mod:0
+msgid "[They cough feebly and give a pained look]"
+msgstr ""
+
+#. Id: 97971-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97971-Dialogue.mod:0
+msgid "I have nothing to give. I'm not worth fighting."
+msgstr ""
+
+#. Id: 97991-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=0, Tag: -1
+#: 97991-Dialogue.mod:0
+msgid "I doubt that..."
+msgstr ""
+
+#. Id: 97961-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 97961-Dialogue.mod:0
+msgid "The fuck do I care! If I can fill my stomach it's worth the risk fighting a /INSULT/ like you..."
+msgstr ""
+
+#. Id: 97961-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (97956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 97961-Dialogue.mod:1
+msgid "All I give a shit about is filling my stomach."
+msgstr ""
+
+#. Id: 98008-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97961-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 98008-Dialogue.mod:0
+msgid "Eat a cactus, /RUNT/. I worked hard for my food. "
+msgstr ""
+
+#. Id: 98010-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#: 98010-Dialogue.mod:0
+msgid "Then you'll have plenty to loot..."
+msgstr ""
+
+#. Id: 97962-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97962-Dialogue.mod:0
+msgid "Die of starvation, or die by a swords/MAN/'s blade. Don't matter at this point, does it? And believe you me, /RUNT/, you DO NOT wanna fight a--"
+msgstr ""
+
+#. Id: 97963-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97963-Dialogue.mod:0
+msgid "*cough* *hack* *splutter*"
+msgstr ""
+
+#. Id: 98009-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97963-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 98009-Dialogue.mod:0
+msgid "Well, you're about as intimidating as a riceweed, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 98014-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=0, Tag: -1
+#: 98014-Dialogue.mod:0
+msgid "Don't interrupt me while I'm talking, /INSULT/!"
+msgstr ""
+
+#. Id: 98018-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 98018-Dialogue.mod:0
+msgid "I'll show you just how intimidating I can be!"
+msgstr ""
+
+#. Id: 98020-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 63400-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63398-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu vault prisoner
+#: 98020-Dialogue.mod:0 63400-Dialogue.mod:0
+msgid "*cough* *hack*"
+msgstr ""
+
+#. Id: 97957-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 97957-Dialogue.mod:0
+msgid "Leave! You're stinking up my town and the last thing I need are corpse flies..."
+msgstr ""
+
+#. Id: 98026-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 98026-Dialogue.mod:0
+msgid "I warned you to hand over your food, /INSULT/..."
+msgstr ""
+
+#. Id: 98031-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 98031-Dialogue.mod:0
+msgid "You should have handed over your food, friend..."
+msgstr ""
+
+#. Id: 98032-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 98032-Dialogue.mod:0
+msgid "Then we'll just have to take your food..."
+msgstr ""
+
+#. Id: 97958-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97958-Dialogue.mod:0
+msgid "Calm down... We don't need to spill blood here."
+msgstr ""
+
+#. Id: 97958-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97958-Dialogue.mod:1
+msgid "There's no need for violence. Let's talk about this."
+msgstr ""
+
+#. Id: 98027-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 98027-Dialogue.mod:0
+msgid "Then cough up! Give me your food..."
+msgstr ""
+
+#. Id: 98030-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 98030-Dialogue.mod:0
+msgid "Then... please... help me. Spare some food..."
+msgstr ""
+
+#. Id: 97959-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97959-Dialogue.mod:0
+msgid "I've had it with you annoying starvers! (Attack)"
+msgstr ""
+
+#. Id: 97959-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (97951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt
+#: 97959-Dialogue.mod:1
+msgid "/GETLOST/, starver! (Attack)"
+msgstr ""
+
+#. Id: 97952-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#: 97952-Dialogue.mod:0
+msgid "Drop your weapons and hand over your Cats..."
+msgstr ""
+

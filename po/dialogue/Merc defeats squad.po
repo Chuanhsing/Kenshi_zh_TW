@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13230-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13230-Escapes.mod:0
+msgid "It's over"
+msgstr ""
+
+#. Id: 13230-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13230-Escapes.mod:1
+msgid "It's done"
+msgstr ""
+
+#. Id: 13230-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13230-Escapes.mod:2
+msgid "It's finished"
+msgstr ""
+
+#. Id: 16152-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16152-Dialogue.mod:0
+msgid "Bleeeeed for me!"
+msgstr ""
+
+#. Id: 16152-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16152-Dialogue.mod:1
+msgid "Yosh!"
+msgstr ""
+
+#. Id: 16152-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16152-Dialogue.mod:3
+msgid "And that's how you fight"
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:0
+msgid "... Got blood on my rags..."
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:1
+msgid "... Made my rags dirty..."
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:2
+msgid "Gonna behave yourself now?"
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:4
+msgid "Not too shabby, 'ol /MEMAN/"
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:5
+msgid "... Good. I was starting to get bored."
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:6
+msgid "Over already, huh?"
+msgstr ""
+
+#. Id: 16153-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16153-Dialogue.mod:7
+msgid "/IMWERE/ done here"
+msgstr ""
+
+#. Id: 16154-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16154-Dialogue.mod:0
+msgid "/DANG/..."
+msgstr ""
+
+#. Id: 16154-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16154-Dialogue.mod:1
+msgid "/DANG/!"
+msgstr ""
+
+#. Id: 16154-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16154-Dialogue.mod:2
+msgid "Sweet victory"
+msgstr ""
+
+#. Id: 16154-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16154-Dialogue.mod:3
+msgid "The taste of victory"
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:0
+msgid "'Bout time you finally rolled over..."
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:1
+msgid "Someone get me a drink..."
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:2
+msgid "This deserves a drink"
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:3
+msgid "'Bout time"
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:4
+msgid "Down you go"
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:5
+msgid "All this fightin's made me thirsty"
+msgstr ""
+
+#. Id: 16158-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 16158-Dialogue.mod:6
+msgid "Ahh..."
+msgstr ""
+

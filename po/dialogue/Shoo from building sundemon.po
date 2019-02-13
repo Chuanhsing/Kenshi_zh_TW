@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42709-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42709-Dialogue.mod:0
+msgid "Whoa, d'ya mind? I'm kinda busy in here..."
+msgstr ""
+
+#. Id: 42709-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42709-Dialogue.mod:1
+msgid "/OI/, wrong house... /GETLOST/..."
+msgstr ""
+
+#. Id: 42709-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42709-Dialogue.mod:2
+msgid "/OI/, you can't just come strollin' in here..."
+msgstr ""
+
+#. Id: 42709-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42709-Dialogue.mod:3
+msgid "Bar's that way... /GETLOST/..."
+msgstr ""
+
+#. Id: 42718-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42718-Dialogue.mod:0
+msgid "/OI/! Got sand in your ears?"
+msgstr ""
+
+#. Id: 42718-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42718-Dialogue.mod:1
+msgid "Annnd you're still here..."
+msgstr ""
+
+#. Id: 42718-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42718-Dialogue.mod:2
+msgid "You listenin' to me?! I don't like your attitude, /GUY/!"
+msgstr ""
+
+#. Id: 42710-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42710-Dialogue.mod:0
+msgid "Oh SURE! Come on in, make yourself comfortable..."
+msgstr ""
+
+#. Id: 42710-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42710-Dialogue.mod:1
+msgid "Ah, make yourself comfortable, why don't you!"
+msgstr ""
+
+#. Id: 42710-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42710-Dialogue.mod:2
+msgid "HEYYY! Make yourself at home, /GUY/-I-don't-know!"
+msgstr ""
+
+#. Id: 42711-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42711-Dialogue.mod:0
+msgid "That was sarcasm by the way..."
+msgstr ""
+
+#. Id: 42711-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42711-Dialogue.mod:1
+msgid "Geez, what the hell..."
+msgstr ""
+
+#. Id: 42711-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42711-Dialogue.mod:2
+msgid "What kind of wierd-ass tribe did you come from anyway?"
+msgstr ""
+
+#. Id: 42713-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42713-Dialogue.mod:0
+msgid "Seriously, /GETLOST/..."
+msgstr ""
+
+#. Id: 42713-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42713-Dialogue.mod:1
+msgid "Seriously, you gonna leave or what?"
+msgstr ""
+
+#. Id: 42713-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42713-Dialogue.mod:2
+msgid "What am I, gonna have to KICK your butt out or what?"
+msgstr ""
+
+#. Id: 42713-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (42711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42713-Dialogue.mod:3
+msgid "Oh yipee! You're still here!... Why the hell are you still here?!"
+msgstr ""
+
+#. Id: 42714-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42713-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42714-Dialogue.mod:0
+msgid "Alright, enough is enough!"
+msgstr ""
+
+#. Id: 42714-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42713-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42714-Dialogue.mod:1
+msgid "Alright, this has gone way past the stage of awkward entertainment!"
+msgstr ""
+
+#. Id: 42714-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42713-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo from building sundemon
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42714-Dialogue.mod:2
+msgid "/GODDAMN/it, seriously?! You're really making me have to do this?"
+msgstr ""
+

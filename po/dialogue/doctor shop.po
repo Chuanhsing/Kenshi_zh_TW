@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14475-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 14475-rebirth.mod:2
+msgid "What's wrong?"
+msgstr ""
+
+#. Id: 14476-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14475-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#: 14476-rebirth.mod:0
+msgid "Do you have any medical supplies for sale?"
+msgstr ""
+
+#. Id: 14479-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14475-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#: 14479-rebirth.mod:0
+msgid "Can you change my appearance?"
+msgstr ""
+
+#. Id: 14480-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14479-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 14480-rebirth.mod:0
+msgid "Seriously? I guess so, 500 cats."
+msgstr ""
+
+#. Id: 14480-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (14479-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 14480-rebirth.mod:1
+msgid "It will cost you 500 cats."
+msgstr ""
+
+#. Id: 14480-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (14479-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 14480-rebirth.mod:2
+msgid "I'm pretty busy. You'll have to pay 500 cats"
+msgstr ""
+
+#. Id: 14480-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (14479-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 14480-rebirth.mod:3
+msgid "Sure, why not? 500 cats."
+msgstr ""
+
+#. Id: 14481-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 14481-rebirth.mod:1
+msgid "Ok"
+msgstr ""
+
+#. Id: 14484-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#: 14484-rebirth.mod:0
+msgid "Actually nevermind"
+msgstr ""
+
+#. Id: 14484-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#: 14484-rebirth.mod:1
+msgid "Hmm, I better not"
+msgstr ""
+

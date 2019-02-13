@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:0
+msgid "That belongs to the queen!"
+msgstr ""
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:1
+msgid "They're taking us away!"
+msgstr ""
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:2
+msgid "You can't take that! We've got work to do!"
+msgstr ""
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:3
+msgid "Put us down! We need to work!"
+msgstr ""
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:5
+msgid "Where are you taking us?!"
+msgstr ""
+
+#. Id: 52345-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52345-Dialogue.mod:6
+msgid "But we've got work to do! You can't take us!"
+msgstr ""
+
+#. Id: 52346-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52346-Dialogue.mod:1
+msgid "Kidnappers!"
+msgstr ""
+
+#. Id: 52346-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52346-Dialogue.mod:2
+msgid "Takers!"
+msgstr ""
+
+#. Id: 52347-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52347-Dialogue.mod:0
+msgid "Gaaaah! They've come to take us away!"
+msgstr ""
+
+#. Id: 52347-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52347-Dialogue.mod:1
+msgid "Gaaaah! They've come for us!"
+msgstr ""
+
+#. Id: 52347-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52347-Dialogue.mod:2
+msgid "Gaaaaah! Takers!"
+msgstr ""
+
+#. Id: 52347-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52347-Dialogue.mod:3
+msgid "Taking us away!"
+msgstr ""
+
+#. Id: 52347-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#: 52347-Dialogue.mod:5
+msgid "Ngahhhhh! They're stealing hive peoples!"
+msgstr ""
+
+#. Id: 52348-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19747-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52348-Dialogue.mod:1 19747-Dialogue.mod:0
+msgid "They attack the Hive!"
+msgstr ""
+
+#. Id: 52348-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19744-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 52348-Dialogue.mod:2 19744-Dialogue.mod:0
+msgid "Enemies of the Hive!"
+msgstr ""
+
+#. Id: 52348-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hive worker
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 52348-Dialogue.mod:3
+msgid "The enemies are taking us away!"
+msgstr ""
+

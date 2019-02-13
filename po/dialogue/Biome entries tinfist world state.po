@@ -1,0 +1,206 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries tinfist world state
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65708-Dialogue.mod:0
+msgid "Say goodbye to the days of pantless dreg, say hello to noble status!"
+msgstr ""
+
+#. Id: 65709-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries tinfist world state
+#: 65709-Dialogue.mod:0
+msgid "We'll go down as heroes for taking down the Iron Brute."
+msgstr ""
+
+#. Id: 65711-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65710-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#. Id: 65716-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65715-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65711-Dialogue.mod:0 65716-Dialogue.mod:0
+msgid "Don't be so naive... The nobles are as fickle as fish."
+msgstr ""
+
+#. Id: 65712-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65711-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#. Id: 65717-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65716-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65712-Dialogue.mod:0 65717-Dialogue.mod:0
+msgid "You'll be forgotten in a month, on with the next new fad..."
+msgstr ""
+
+#. Id: 65714-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65713-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65714-Dialogue.mod:0
+msgid "Haha... did you just get called naive by a child?"
+msgstr ""
+
+#. Id: 65719-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65718-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65719-Dialogue.mod:0
+msgid "Tinfist was the last of us to try and change the world..."
+msgstr ""
+
+#. Id: 65720-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65719-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65720-Dialogue.mod:0
+msgid "Perhaps he should have known better than to fight human battles..."
+msgstr ""
+
+#. Id: 65721-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65720-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65721-Dialogue.mod:0
+msgid "Or perhaps he'd lived long enough to risk it all for what he believed."
+msgstr ""
+
+#. Id: 65723-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65722-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65723-Dialogue.mod:0
+msgid "Mm. Pride, kin."
+msgstr ""
+
+#. Id: 65724-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65723-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65724-Dialogue.mod:0
+msgid "A legend is replaced by the new..."
+msgstr ""
+
+#. Id: 65727-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65726-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65727-Dialogue.mod:0
+msgid "I guess we put an end to his terrorism..."
+msgstr ""
+
+#. Id: 65731-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65730-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65731-Dialogue.mod:0
+msgid "You're proud of what we did? Tinfist was the people's only hope..."
+msgstr ""
+
+#. Id: 65732-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65731-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries tinfist world state
+#: 65732-Dialogue.mod:0
+msgid "I don't even know what I'm fighting for anymore."
+msgstr ""
+
+#. Id: 65734-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65733-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65734-Dialogue.mod:0
+msgid "He was a terrorist."
+msgstr ""
+
+#. Id: 65738-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65737-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65738-Dialogue.mod:0
+msgid "We do what we've gotta do to survive."
+msgstr ""
+
+#. Id: 65739-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65738-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65739-Dialogue.mod:0
+msgid "If it keeps us alive, who cares if it's pretty."
+msgstr ""
+
+#. Id: 65741-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65740-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65741-Dialogue.mod:0
+msgid "We picked the winning side, and we joined it."
+msgstr ""
+
+#. Id: 65742-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65741-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries tinfist world state
+#: 65742-Dialogue.mod:0
+msgid "Nothing wrong with surviving."
+msgstr ""
+
+#. Id: 65736-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65735-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries tinfist world state
+#: 65736-Dialogue.mod:0
+msgid "He fought for people like me. Label him a brute but..."
+msgstr ""
+
+#. Id: 65743-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65736-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries tinfist world state
+#: 65743-Dialogue.mod:0
+msgid "He was on my side and I helped destroy him."
+msgstr ""
+

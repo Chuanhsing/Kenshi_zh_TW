@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 15742-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by neutral military
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 16674-Dialogue.mod:2 15742-Dialogue.mod:0 7063-Dialogue.mod:2
+msgid "Good job"
+msgstr ""
+
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 9029-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 16674-Dialogue.mod:3 9029-Dialogue.mod:0 5963-Dialogue.mod:5 13807-Escapes.mod:2
+msgid "I'm out!"
+msgstr ""
+
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 11466-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock Shek neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 14107-Dialogue (12).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 16674-Dialogue.mod:5 11466-Dialogue?(10).mod:0 14107-Dialogue?(12).mod:0
+msgid "You did it"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:0
+msgid "I'm getting the hell out of here"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:1
+msgid "I'm getting the hell out of this place"
+msgstr ""
+
+#. Id: 16675-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#: 16675-Dialogue.mod:2
+msgid "Now I run like hell"
+msgstr ""
+

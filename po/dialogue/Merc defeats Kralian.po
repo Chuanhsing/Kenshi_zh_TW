@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12544-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12544-Dialogue?(11)?(2).mod:0
+msgid "I swear, /BONEHEAD/s are all /DAMN/ suicidal maniacs"
+msgstr ""
+
+#. Id: 12544-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12544-Dialogue?(11)?(2).mod:1
+msgid "Is it just me, or are all /BONEHEAD/s /DAMN/ suicidal pychopaths?"
+msgstr ""
+
+#. Id: 12544-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12544-Dialogue?(11)?(2).mod:2
+msgid "Why are all /BONEHEAD/s such stubborn pyschos?"
+msgstr ""
+
+#. Id: 12544-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12544-Dialogue?(11)?(2).mod:3
+msgid "Crazy damn /BONEHEAD/"
+msgstr ""
+
+#. Id: 12549-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12549-Dialogue?(11)?(2).mod:0
+msgid "Say hi to your precious Kral for me"
+msgstr ""
+
+#. Id: 12549-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12549-Dialogue?(11)?(2).mod:1
+msgid "Glorious enough death for you, huh /BONEHEAD/?"
+msgstr ""
+
+#. Id: 12549-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12549-Dialogue?(11)?(2).mod:2
+msgid "Glorious enough battle for you, huh /BONEHEAD/?"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:0
+msgid "Tell your Kral I said Fuck You"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:1
+msgid "Not so tough now, are ya /BONEHEAD/?"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:2
+msgid "I thought you /BONEHEAD/ Kral lickers were supposed to be tough?"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:3
+msgid "Your precious Kral can bite me"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:4
+msgid "And I'd kick your Kral's ass too!"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:5
+msgid "You /BONEHEAD/s are nothin' but a bunch of /RUNT/s"
+msgstr ""
+
+#. Id: 12550-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12550-Dialogue?(11)?(2).mod:6
+msgid "Just a /BONEHEAD/ /RUNT/ is what you are, /QUICKLAUGH/"
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:0
+msgid "Now stay down... stubborn /GODDAMN/ /BONEHEAD/s"
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:1
+msgid "Persistent /GODDAMN/ /BONEHEAD/s..."
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:2
+msgid "Bullheaded /GODDAMN/ /BONEHEAD/s..."
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:3
+msgid "Boneheaded /GODDAMN/ maniacs..."
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:4
+msgid "/GODDAMN/ /BONEHEAD/s don't know when to quit..."
+msgstr ""
+
+#. Id: 12553-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats Kralian
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12553-Dialogue?(11)?(2).mod:5
+msgid "Tenacious, I'll give you that"
+msgstr ""
+

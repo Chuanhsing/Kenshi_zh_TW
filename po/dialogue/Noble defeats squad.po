@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:0
+msgid "Like vermin..."
+msgstr ""
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:1
+msgid "The vermin need stamping out..."
+msgstr ""
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:2
+msgid "/DIRTY/ /PEASANT/s..."
+msgstr ""
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:3
+msgid "How troublesome..."
+msgstr ""
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:4
+msgid "The rotten /PEASANT/s need to be weeded out"
+msgstr ""
+
+#. Id: 18582-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18582-Dialogue.mod:5
+msgid "The /TERRORIST/s need weeding from the /PEASANT/s"
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:0
+msgid "The nobles rule the /SANDS/. Remember that, /PEASANT/"
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:1
+msgid "WE run the outlands, /WORM/. Don't forget it."
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:2
+msgid "You don't mess with the nobles, /WORM/. Remember it."
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:3
+msgid "You don't screw with the nobles and get away with it"
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:4
+msgid "The nobles rule the /SANDS/. Remember that, /TERRORIST/"
+msgstr ""
+
+#. Id: 18583-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18583-Dialogue.mod:5
+msgid "Never mess with the nobles, /TERRORIST/. Remember that."
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:0
+msgid "You shouldn't have messed with me, /PEASANT/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:1
+msgid "You should never have crossed me, /PEASANT/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:2
+msgid "You'll regret crossing me, /WORM/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:3
+msgid "You'll be punished for opposing a noble, /PEASANT/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:4
+msgid "You won't get away with crossing me, /WORM/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:5
+msgid "You'll be punished for opposing a noble, /TERRORIST/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:6
+msgid "You won't get away with crossing me, /TERRORIST/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:7
+msgid "You should never have crossed me, /TERRORIST/"
+msgstr ""
+
+#. Id: 18584-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18584-Dialogue.mod:8
+msgid "You'll regret crossing me, /TERRORIST/"
+msgstr ""
+
+#. Id: 18585-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18585-Dialogue.mod:0
+msgid "/DUMB/ /PEASANT/, you can't win against the nobles!"
+msgstr ""
+
+#. Id: 18585-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18585-Dialogue.mod:1
+msgid "You never stood a chance against us, /PEASANT/"
+msgstr ""
+
+#. Id: 18585-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18585-Dialogue.mod:2
+msgid "/NOBLELAUGH/, /DUMB/ /PEASANT/!"
+msgstr ""
+
+#. Id: 18585-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18585-Dialogue.mod:3
+msgid "You never stood a chance against us, /TERRORIST/ /PEASANT/"
+msgstr ""
+
+#. Id: 18586-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18586-Dialogue.mod:0
+msgid "/DUMB/ /PEASANT/s, you can't win against the nobles!"
+msgstr ""
+
+#. Id: 18586-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18586-Dialogue.mod:1
+msgid "You never stood a chance against us... /DIRTY/ /WORM/s"
+msgstr ""
+
+#. Id: 18586-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18586-Dialogue.mod:2
+msgid "/NOBLELAUGH/, /DUMB/ /PEASANT/s!"
+msgstr ""
+
+#. Id: 18586-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18586-Dialogue.mod:3
+msgid "You never stood a chance against us... /TERRORIST/ /PEASANT/s"
+msgstr ""
+
+#. Id: 18593-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18593-Dialogue.mod:0
+msgid "I want these /TERRORIST/s punished"
+msgstr ""
+
+#. Id: 18593-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18593-Dialogue.mod:1
+msgid "Somebody deal with this mess"
+msgstr ""
+
+#. Id: 18593-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18593-Dialogue.mod:2
+msgid "/DIRTY/ /TERRORIST/ /WORM/s"
+msgstr ""
+
+#. Id: 18593-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18593-Dialogue.mod:3
+msgid "I want these /TERRORIST/s to suffer for crossing me"
+msgstr ""
+
+#. Id: 18593-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18593-Dialogue.mod:4
+msgid "/DIRTY/ /TERRORISTS/! Nobody gets away with crossing the nobles!"
+msgstr ""
+
+#. Id: 18597-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18593-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18597-Dialogue.mod:0
+msgid "They'll rue the day they crossed me! RUE THE DAY!"
+msgstr ""
+
+#. Id: 18597-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18593-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats squad
+#: 18597-Dialogue.mod:1
+msgid "They'll regret ever crossing my path!"
+msgstr ""
+

@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17700-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17700-Dialogue.mod:0
+msgid "To be caged up and slaughtered like an animal. The greatest of dishonours..."
+msgstr ""
+
+#. Id: 17700-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17700-Dialogue.mod:1
+msgid "This is no way to die..."
+msgstr ""
+
+#. Id: 17700-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17700-Dialogue.mod:3
+msgid "Cage up and slaughtered like livestock...This. This is no death."
+msgstr ""
+
+#. Id: 17700-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17700-Dialogue.mod:4
+msgid "I can't die like this..."
+msgstr ""
+
+#. Id: 17700-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17700-Dialogue.mod:5
+msgid "No. I can't die like this, slaughtered like an animal in a coop..."
+msgstr ""
+
+#. Id: 17704-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17704-Dialogue.mod:0
+msgid "I'll get you out, leave it to me"
+msgstr ""
+
+#. Id: 17704-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17704-Dialogue.mod:1
+msgid "I'll get us out, I've got this"
+msgstr ""
+
+#. Id: 17704-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17704-Dialogue.mod:2
+msgid "Leave it to me, I'll get you free"
+msgstr ""
+
+#. Id: 17714-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17714-Dialogue.mod:0
+msgid "That, I'd like to see"
+msgstr ""
+
+#. Id: 17714-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17714-Dialogue.mod:1
+msgid "Be my guest, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17714-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17714-Dialogue.mod:2
+msgid "No time like the present, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17705-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17705-Dialogue.mod:0
+msgid "Oh be silent and face your death like a real warrior"
+msgstr ""
+
+#. Id: 17705-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17705-Dialogue.mod:1
+msgid "Quiet down and face your end like a true warrior..."
+msgstr ""
+
+#. Id: 17705-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17705-Dialogue.mod:2
+msgid "Pipe down will you? We all have to die at some point"
+msgstr ""
+
+#. Id: 17706-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17706-Dialogue.mod:0
+msgid "So escape with me, help me sneak out..."
+msgstr ""
+
+#. Id: 17706-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17706-Dialogue.mod:1
+msgid "So bust out with me. Help me get out of here"
+msgstr ""
+
+#. Id: 17706-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17706-Dialogue.mod:2
+msgid "Then help me bust out. We'll escape together"
+msgstr ""
+
+#. Id: 17716-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 17716-Dialogue.mod:0
+msgid "That, I can do. Get this lock open, I'll follow your lead, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17724-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17724-Dialogue.mod:0
+msgid "Cunning... Can you get these locks open?"
+msgstr ""
+
+#. Id: 17724-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17724-Dialogue.mod:1
+msgid "I'll help you. Can you get these locks open?"
+msgstr ""
+
+#. Id: 17724-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17724-Dialogue.mod:2
+msgid "Okay. Can you get this door open?"
+msgstr ""
+
+#. Id: 17707-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17707-Dialogue.mod:0
+msgid "We're so screwed..."
+msgstr ""
+
+#. Id: 17707-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17707-Dialogue.mod:1
+msgid "Oh god, we're so screwed"
+msgstr ""
+
+#. Id: 17707-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17700-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17707-Dialogue.mod:2
+msgid "We're so doomed..."
+msgstr ""
+
+#. Id: 17701-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17701-Dialogue.mod:0
+msgid "THIS is how I die?! ARGGH!"
+msgstr ""
+
+#. Id: 17701-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17701-Dialogue.mod:3
+msgid "Not like this... I can't die like this..."
+msgstr ""
+
+#. Id: 17702-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 17702-Dialogue.mod:0
+msgid "To be enslaved and caged in a hutch like livestock... *sigh*"
+msgstr ""
+
+#. Id: 17708-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17702-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17708-Dialogue.mod:0
+msgid "Should have thought about that before you went and got caught"
+msgstr ""
+
+#. Id: 17725-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17725-Dialogue.mod:0
+msgid "... You're a fool"
+msgstr ""
+
+#. Id: 17725-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17725-Dialogue.mod:1
+msgid "... You're lucky I'm stuck in this wretched coop"
+msgstr ""
+
+#. Id: 17725-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (17708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17725-Dialogue.mod:2
+msgid "I should never have let myself get caught alive"
+msgstr ""
+
+#. Id: 17709-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17702-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17709-Dialogue.mod:0
+msgid "Don't worry, they'll get what's coming to them..."
+msgstr ""
+
+#. Id: 17726-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17726-Dialogue.mod:0
+msgid "I like your spirit, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 17726-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17726-Dialogue.mod:1
+msgid "Truth. If I ever get out of here, I'll be back for blood"
+msgstr ""
+
+#. Id: 17710-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17710-Dialogue.mod:0
+msgid "I'll gut them for this. Caging me up like a filthy animal? I'll gut them!"
+msgstr ""
+
+#. Id: 17710-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17710-Dialogue.mod:1
+msgid "They won't get away with this. I'll tear their throats out!"
+msgstr ""
+
+#. Id: 17710-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17710-Dialogue.mod:2
+msgid "How dare they cage me up like a filthy dog! I'll pull their spines out, I'll rip them apart!"
+msgstr ""
+
+#. Id: 17711-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17710-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned shek
+#: 17711-Dialogue.mod:0
+msgid "Oh that's good, you can create a decoy for me"
+msgstr ""
+
+#. Id: 17712-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17712-Dialogue.mod:0
+msgid "Stay in that coop for all I care, /CRAVEN/! They won't take ME alive!"
+msgstr ""
+
+#. Id: 17712-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (17711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17712-Dialogue.mod:1
+msgid "Stay in that hutch for all I care, /CRAVEN/! They won't take ME alive!"
+msgstr ""
+
+#. Id: 17713-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17713-Dialogue.mod:0
+msgid "Hrmph!"
+msgstr ""
+
+#. Id: 17713-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (17712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned shek
+#: 17713-Dialogue.mod:1
+msgid "Hrmph..."
+msgstr ""
+

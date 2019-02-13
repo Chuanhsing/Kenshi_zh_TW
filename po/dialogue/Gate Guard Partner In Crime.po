@@ -1,0 +1,384 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 9522-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9522-Dialogue.mod:1
+msgid "How's business?"
+msgstr ""
+
+#. Id: 9522-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9522-Dialogue.mod:2
+msgid "Making the rounds?"
+msgstr ""
+
+#. Id: 9524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9524-Dialogue.mod:0
+msgid "Just let me check your stuff real quick..."
+msgstr ""
+
+#. Id: 9533-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9533-Dialogue.mod:0
+msgid "Okay, looks good. Go on in"
+msgstr ""
+
+#. Id: 52690-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 52690-Dialogue.mod:0
+msgid "Okay, looks good. Go on in."
+msgstr ""
+
+#. Id: 9523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9523-Dialogue.mod:0
+msgid "Well, if it isn't my favourite merchant..."
+msgstr ""
+
+#. Id: 9523-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9523-Dialogue.mod:1
+msgid "/YOURNAME/! Good to see you again, /BROTHER/..."
+msgstr ""
+
+#. Id: 9523-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9523-Dialogue.mod:2
+msgid "Good day, /YOURNAME/."
+msgstr ""
+
+#. Id: 9535-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9535-Dialogue.mod:0
+msgid "You're all clear. Go on in."
+msgstr ""
+
+#. Id: 9678-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9535-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 9678-Dialogue.mod:0
+msgid "Wink!"
+msgstr ""
+
+#. Id: 9682-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9681-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9682-Dialogue.mod:0
+msgid "Wink? You know you're not supposed to actually shout 'wink', right? "
+msgstr ""
+
+#. Id: 53012-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 53012-Dialogue.mod:0
+msgid "Where's my money, /YOURNAME/? I thought we had a deal?"
+msgstr ""
+
+#. Id: 53014-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 53014-Dialogue.mod:0
+msgid "If I don't get my cut, then you don't get free entry!"
+msgstr ""
+
+#. Id: 53015-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 53015-Dialogue.mod:0
+msgid "This one's smuggling, /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 53018-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 53018-Dialogue.mod:0
+msgid "Why are you running from me, eh? You picked the wrong /MEMAN/ to double cross, /YOURNAME/!"
+msgstr ""
+
+#. Id: 9537-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9526-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9537-Dialogue.mod:0
+msgid "Go ahead, you can pass"
+msgstr ""
+
+#. Id: 9532-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9526-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9532-Dialogue.mod:0
+msgid "Just going to need to seach you before you enter..."
+msgstr ""
+
+#. Id: 9532-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9526-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9532-Dialogue.mod:1
+msgid "Let me check your belongings "
+msgstr ""
+
+#. Id: 52192-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9532-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. Id: 51870-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (51867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52411-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 53960-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52192-Dialogue.mod:0 51870-Dialogue.mod:0 52411-Dialogue.mod:0 53960-Dialogue.mod:0
+msgid "Go on through."
+msgstr ""
+
+#. Id: 9527-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9527-Dialogue.mod:0
+msgid "Been a while, /BROTHER/. Any news from the outside?"
+msgstr ""
+
+#. Id: 9527-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9527-Dialogue.mod:1
+msgid "Been a long time since I saw you last, /BROTHER/"
+msgstr ""
+
+#. Id: 9528-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9528-Dialogue.mod:0
+msgid "You're clear, go on in"
+msgstr ""
+
+#. Id: 9530-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9530-Dialogue.mod:0
+msgid "Wait a minute. Just going to need to seach you before you enter..."
+msgstr ""
+
+#. Id: 9530-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 9530-Dialogue.mod:1
+msgid "Okay, hold up a second. Let me check your belongings "
+msgstr ""
+
+#. Id: 9539-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9530-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9539-Dialogue.mod:0
+msgid "Okay go ahead"
+msgstr ""
+
+#. Id: 52987-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52987-Dialogue.mod:0
+msgid "Good to see you again, /YOURNAME/"
+msgstr ""
+
+#. Id: 52987-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52987-Dialogue.mod:1
+msgid "/YOURNAME/. Good to see your face again."
+msgstr ""
+
+#. Id: 52987-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52987-Dialogue.mod:2
+msgid "Good day to you, /YOURNAME/."
+msgstr ""
+
+#. Id: 52987-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52987-Dialogue.mod:3
+msgid "Looking well, /YOURNAME/."
+msgstr ""
+
+#. Id: 52987-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52987-Dialogue.mod:4
+msgid "Back again, /YOURNAME/?"
+msgstr ""
+
+#. Id: 52988-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 52988-Dialogue.mod:0
+msgid "Clean as always. Go on through."
+msgstr ""
+
+#. Id: 53000-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#: 53000-Dialogue.mod:0
+msgid "You're all clear, go on through."
+msgstr ""
+
+#. Id: 53021-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 53021-Dialogue.mod:0
+msgid "... Wait..."
+msgstr ""
+
+#. Id: 52994-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
+#: 52994-Dialogue.mod:0
+msgid "Well, well, look who it is. Back to see our beautiful city, eh?"
+msgstr ""
+
+#. Id: 52994-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
+#: 52994-Dialogue.mod:1
+msgid "Well if it isn't old /YOURNAME/. It's been a while..."
+msgstr ""
+
+#. Id: 52994-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
+#: 52994-Dialogue.mod:2
+msgid "I've missed you, /YOURNAME/. Well, my Cat sack has anyway."
+msgstr ""
+

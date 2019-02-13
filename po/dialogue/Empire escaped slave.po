@@ -1,0 +1,349 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54413-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54413-Dialogue.mod:0
+msgid "Just as I thought my luck as a fugitive couldn't get any worse. Well, you found me... But I won't go back to the mines that easy. I won't let you report me to the slavers, /OUTLANDER/... [They grab their weapon]..."
+msgstr ""
+
+#. Id: 54413-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54413-Dialogue.mod:1
+msgid "You're from the Empire?... Well, you found me. But I can't let you live now that you've seen me on the run from the slavers, /OUTLANDER/. See, I'm not going back to the mines... [They grab their weapon]..."
+msgstr ""
+
+#. Id: 54413-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54413-Dialogue.mod:2
+msgid "Just as I thought my luck as a fugitive couldn't get any worse... Well, you found me. But I can't let you live now that you've seen me, /OUTLANDER/, I won't go back to the mines that easy... [They grab their weapon]..."
+msgstr ""
+
+#. Id: 54413-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54413-Dialogue.mod:3
+msgid "... Guess you're gonna be wanting to report me to the slavers, huh? I'm just a pitiful slave after all, ain't I?... Well, you're not sending me back there, /OUTLANDER/. I won't let you live to report me!... [They grab their weapon]..."
+msgstr ""
+
+#. Id: 54413-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54413-Dialogue.mod:4
+msgid "It took too much blood and sweat to escape the masters... And I won't let the likes of YOU risk my freedom, /OUTLANDER/. You've seen too much now... [They grab their weapon]..."
+msgstr ""
+
+#. Id: 54414-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54414-Dialogue.mod:0
+msgid "Don't attack, I'm on your side..."
+msgstr ""
+
+#. Id: 54414-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54414-Dialogue.mod:1
+msgid "This is a mistake, I'm on your side..."
+msgstr ""
+
+#. Id: 54419-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54419-Dialogue.mod:0
+msgid "No-one in this godforsaken land is on the side of a 'lowly slave'! It's kill or be killed... and I won't go back to the slave camp without a fight..."
+msgstr ""
+
+#. Id: 54419-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54419-Dialogue.mod:1
+msgid "I'd be an idiot to believe anyone to be on the side of a 'pitiful' slave... After all, once a slave always a slave, am I right? It's kill or be killed and I won't go down without a fight..."
+msgstr ""
+
+#. Id: 54420-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54420-Dialogue.mod:0
+msgid "/BATTLECRY/, DIE!"
+msgstr ""
+
+#. Id: 54421-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54421-Dialogue.mod:0
+msgid "No-one in this godforsaken land is on the side of a 'lowly slave'... How do I know you won't trick me and send me back to the slave camp? I warn you, I won't go back without a fight..."
+msgstr ""
+
+#. Id: 54421-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54421-Dialogue.mod:1
+msgid "I'd be an idiot to believe anyone to be on the side of a 'pitiful' slave... How do I know you're not lying to me, that you won't report me next chance you get? After all, once a slave always a slave, am I right? But I'm telling you now, I won't go down without a fight..."
+msgstr ""
+
+#. Id: 54422-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54422-Dialogue.mod:0
+msgid "/IWE/ can help you. Trust /MEUS/, what have you got to lose?"
+msgstr ""
+
+#. Id: 54426-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54426-Dialogue.mod:0
+msgid "Alright. You don't look like the normal Empire type at least. But, take me anywhere near a slave camp and I'll kill you."
+msgstr ""
+
+#. Id: 54427-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54426-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54427-Dialogue.mod:0
+msgid "Come, you're safe with /MEUS/."
+msgstr ""
+
+#. Id: 54430-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54430-Dialogue.mod:0
+msgid "... Thank you, /OUTLANDER/. I'm forever in your debt..."
+msgstr ""
+
+#. Id: 54428-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54426-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54428-Dialogue.mod:0
+msgid "Threatening to kill me already? I think we'll get on just fine."
+msgstr ""
+
+#. Id: 54429-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54426-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54429-Dialogue.mod:0
+msgid "Trust me, I hate slavers just as much as you."
+msgstr ""
+
+#. Id: 54423-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54423-Dialogue.mod:0
+msgid "I really don't want to get involved in this..."
+msgstr ""
+
+#. Id: 54449-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54449-Dialogue.mod:0
+msgid "It's too late, you've seen me now, you're already involved... I can't risk you getting me caught."
+msgstr ""
+
+#. Id: 54415-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54415-Dialogue.mod:0
+msgid "You're a fool to attack me... [Grab your weapon]"
+msgstr ""
+
+#. Id: 54434-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54434-Dialogue.mod:0
+msgid "Kill or be killed, I won't go back to the slave camp without a fight!"
+msgstr ""
+
+#. Id: 54416-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54416-Dialogue.mod:0
+msgid "A runt like you will always belong in the mines!"
+msgstr ""
+
+#. Id: 54416-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54416-Dialogue.mod:1
+msgid "Slave! Where's your master?!"
+msgstr ""
+
+#. Id: 54435-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54416-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54435-Dialogue.mod:0
+msgid "I knew it, you ARE one of them! Right from the heartless United Cities! Well, I won't go back to the slave camp without a fight..."
+msgstr ""
+
+#. Id: 54417-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54417-Dialogue.mod:0
+msgid "Don't do this. I can help you."
+msgstr ""
+
+#. Id: 54436-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#: 54436-Dialogue.mod:0
+msgid "Take a look at me. I'm a slave too... I'm one of you."
+msgstr ""
+
+#. Id: 54436-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#: 54436-Dialogue.mod:1
+msgid "Take a look at me. I'm a slave too... We're the same."
+msgstr ""
+
+#. Id: 54436-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (54413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#: 54436-Dialogue.mod:2
+msgid "You're not the only one running from the slavers... I'm a slave too."
+msgstr ""
+
+#. Id: 54439-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54439-Dialogue.mod:0
+msgid "Yeah, I see it now... You escaped too? This place is crawling with slavers and Empire informers, no-one can be trusted..."
+msgstr ""
+
+#. Id: 54440-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54440-Dialogue.mod:0
+msgid "You don't have to survive this alone. Stick with me."
+msgstr ""
+
+#. Id: 54443-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54443-Dialogue.mod:0
+msgid "The more of us there are, the more we'll stick out like tin men in an Okranite temple... "
+msgstr ""
+
+#. Id: 54444-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54444-Dialogue.mod:0
+msgid "But hell... surviving all alone in /THISPLACE/ is hard enough. Perhaps the higher our numbers, the stronger our defense. I'll stick with you."
+msgstr ""
+
+#. Id: 54445-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54444-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54445-Dialogue.mod:0
+msgid "Let's get the hell out of here already"
+msgstr ""
+
+#. Id: 54441-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54441-Dialogue.mod:0
+msgid "Then let /MEUS/ go, before someone spots us..."
+msgstr ""
+
+#. Id: 54446-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54441-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire escaped slave
+#: 54446-Dialogue.mod:0
+msgid "Of course. Forgive me for attacking you, /BROTHER/, it's kill or be killed for a lowly slave like you and me..."
+msgstr ""
+
+#. Id: 54442-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire escaped slave
+#: 54442-Dialogue.mod:0
+msgid "All the more reason not to linger. I've no time for this."
+msgstr ""
+

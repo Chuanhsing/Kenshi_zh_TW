@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12453-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 12453-Dialogue?(10)?(2).mod:0
+msgid "Urk... Did we win...?"
+msgstr ""
+
+#. Id: 12453-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 12453-Dialogue?(10)?(2).mod:1
+msgid "Rph!... Did we get 'em?"
+msgstr ""
+
+#. Id: 12453-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 12453-Dialogue?(10)?(2).mod:2
+msgid "Oof... How'd we do?"
+msgstr ""
+
+#. Id: 12453-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 12453-Dialogue?(10)?(2).mod:3
+msgid "*cough*... Did I do good?"
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:0
+msgid "Really did a number on me..."
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. Id: 13270-Escapes.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc being healed
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12456-Dialogue?(10)?(2).mod:1 13270-Escapes.mod:7
+msgid "That stings..."
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:2
+msgid "Grh, that smarts"
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:3
+msgid "Messed me up good"
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:5
+msgid "Ah, /FUCK/"
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:6
+msgid "Ah, /DAMN/ it"
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:7
+msgid "At least I'm still in one piece... I think..."
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:8
+msgid "I taste blood..."
+msgstr ""
+
+#. Id: 12456-Dialogue (10) (2).mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#: 12456-Dialogue?(10)?(2).mod:9
+msgid "I don't feel so good"
+msgstr ""
+
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12458-Dialogue?(10)?(2).mod:0
+msgid "Where'd they go? I'll bite their /BODYPARTS/ off!"
+msgstr ""
+
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12458-Dialogue?(10)?(2).mod:1
+msgid "Where'd they go? I wasn't done with 'em yet!"
+msgstr ""
+
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12458-Dialogue?(10)?(2).mod:2
+msgid "Wha? Nah, I missed all the fun!? /ARG/!"
+msgstr ""
+
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12458-Dialogue?(10)?(2).mod:3
+msgid "Where'd they go? I'll gut 'em!"
+msgstr ""
+
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12458-Dialogue?(10)?(2).mod:5
+msgid "Mm, I taste blood"
+msgstr ""
+

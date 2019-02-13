@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66341-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Guard comments on bounties
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 66341-Dialogue.mod:0
+msgid "Congrats on capturing the Skin Eater..."
+msgstr ""
+
+#. Id: 66342-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Guard comments on bounties
+#: 66342-Dialogue.mod:0
+msgid "You saved a lot of painful deaths... I wouldn't wish that fate on anybody."
+msgstr ""
+
+#. Id: 66343-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Guard comments on bounties
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 66343-Dialogue.mod:0
+msgid "Took down Tinfist, eh..."
+msgstr ""
+
+#. Id: 66344-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Guard comments on bounties
+#: 66344-Dialogue.mod:0
+msgid "Someone had to clean up that mess... Good on you."
+msgstr ""
+

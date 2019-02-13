@@ -1,0 +1,305 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. Id: 44349-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44348-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Small bounty
+#. Id: 13645-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13644-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spotting a generic crime
+#. Id: 14040-Dialogue (12).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14039-Dialogue (12).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots slave
+#: 14997-Dialogue.mod:0 44349-Dialogue.mod:0 13645-Escapes.mod:0 14040-Dialogue?(12).mod:0
+msgid "Surrender yourself!"
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:1
+msgid "Bad move!"
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:2
+msgid "Hmph. This one's got a deathwish."
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:3
+msgid "I'll end this quickly."
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:4
+msgid "This one must be looking to die!"
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:5
+msgid "Wrong move!"
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. Id: 12756-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 14997-Dialogue.mod:6 12756-Dialogue?(11)?(2).mod:1 16193-Dialogue.mod:0 16193-Dialogue.mod:3
+msgid "Give it up!"
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:8
+msgid "Leave /HIM/ to me."
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:9
+msgid "I'll take care of this one."
+msgstr ""
+
+#. Id: 14997-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 14997-Dialogue.mod:10
+msgid "I'll make this quick and clean."
+msgstr ""
+
+#. Id: 14998-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14998-Dialogue.mod:0
+msgid "Bad /FLATSKIN/"
+msgstr ""
+
+#. Id: 14998-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14998-Dialogue.mod:1
+msgid "Disobedience"
+msgstr ""
+
+#. Id: 14998-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 12333-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14998-Dialogue.mod:2 12333-Dialogue?(10).mod:2
+msgid "Crazy /FLATSKIN/"
+msgstr ""
+
+#. Id: 14998-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14998-Dialogue.mod:4
+msgid "Brainless /FLATSKIN/"
+msgstr ""
+
+#. Id: 14998-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 11499-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17577-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 12333-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 14998-Dialogue.mod:5 11499-Dialogue?(10).mod:3 17577-Dialogue.mod:0 12333-Dialogue?(10).mod:0
+msgid "Foolish /FLATSKIN/"
+msgstr ""
+
+#. Id: 55471-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 55471-Dialogue.mod:0
+msgid "Hrm! Think you can fight without a blade? "
+msgstr ""
+
+#. Id: 55471-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 55471-Dialogue.mod:1
+msgid "Hm hm! Fighting without a sword?"
+msgstr ""
+
+#. Id: 55471-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 55471-Dialogue.mod:2
+msgid "So you think you can win with your fists alone?"
+msgstr ""
+
+#. Id: 55471-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 55471-Dialogue.mod:3
+msgid "Think you can survive /MEUS/ without a blade?"
+msgstr ""
+
+#. Id: 55471-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 55471-Dialogue.mod:4
+msgid "Hmph! Think you can dodge /MEUS/ without a blade?"
+msgstr ""
+
+#. Id: 55472-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 55472-Dialogue.mod:0
+msgid "Nice try..."
+msgstr ""
+
+#. Id: 55472-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 55472-Dialogue.mod:1
+msgid "Admirable..."
+msgstr ""
+
+#. Id: 55472-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#: 55472-Dialogue.mod:2
+msgid "Commendable..."
+msgstr ""
+
+#. Id: 55472-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek guard witness crime
+#. Id: 49088-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49085-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tower skeleton floodlands
+#: 55472-Dialogue.mod:3 49088-Dialogue.mod:0
+msgid "Interesting..."
+msgstr ""
+

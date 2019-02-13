@@ -1,0 +1,1337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7642-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7642-Dialogue.mod:0 7668-Dialogue.mod:0 7693-Dialogue.mod:0
+msgid "Get the fuck out of here!"
+msgstr ""
+
+#. Id: 7642-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7642-Dialogue.mod:1
+msgid "This is MY territory!"
+msgstr ""
+
+#. Id: 7642-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7642-Dialogue.mod:2
+msgid "You got balls showin' your faces around here"
+msgstr ""
+
+#. Id: 7642-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7642-Dialogue.mod:3
+msgid "Get off my land! You ain't welcome here, /BASTARD/s"
+msgstr ""
+
+#. Id: 7642-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7642-Dialogue.mod:4
+msgid "/BASTARD/s. I'll take these guys down"
+msgstr ""
+
+#. Id: 7647-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7647-Dialogue.mod:0
+msgid "You ugly /BASTARD/s"
+msgstr ""
+
+#. Id: 7647-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7647-Dialogue.mod:1
+msgid "I hate your /FUCKING/ faces"
+msgstr ""
+
+#. Id: 7647-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7647-Dialogue.mod:2
+msgid "You're some pieces of shit aintcha"
+msgstr ""
+
+#. Id: 7647-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7647-Dialogue.mod:3
+msgid "Who do these guys think they are!"
+msgstr ""
+
+#. Id: 7647-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7647-Dialogue.mod:4
+msgid "I don't like your faces!"
+msgstr ""
+
+#. Id: 7652-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12864-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 13929-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13939-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13943-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 3130-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 41472-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees skeleton holy nation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 12350-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12351-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 7652-Dialogue.mod:0 12864-Dialogue?(11)?(2).mod:0 16193-Dialogue.mod:2 13929-Escapes.mod:4 13943-Escapes.mod:0 3130-gamedata.base:0 41472-Dialogue.mod:1 12350-Dialogue?(10).mod:1
+msgid "Get out of here!"
+msgstr ""
+
+#. Id: 7652-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7652-Dialogue.mod:1
+msgid "You've done enough damage, /GETLOST/!"
+msgstr ""
+
+#. Id: 7655-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7655-Dialogue.mod:0
+msgid "It's them..."
+msgstr ""
+
+#. Id: 7655-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7655-Dialogue.mod:1
+msgid "It's those guys..."
+msgstr ""
+
+#. Id: 7655-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 14625-Dialogue (4).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (14617-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit hold up 1
+#. Id: 98715-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (98714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally second chance
+#. Id: 42289-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (42282-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot see neutral
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 97861-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97860-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hired thug base attack
+#. Id: 3734-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 97878-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 7655-Dialogue.mod:2 14625-Dialogue?(4).mod:0 98715-Dialogue.mod:0 42289-gamedata.base:0 97861-Dialogue.mod:0 3734-gamedata.base:4 97878-Dialogue.mod:0
+msgid "Get 'em!"
+msgstr ""
+
+#. Id: 7657-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 7687-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7735-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7657-Dialogue.mod:0 7687-Dialogue.mod:0 7735-Dialogue.mod:0
+msgid "Hm! Some new target practise"
+msgstr ""
+
+#. Id: 7657-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 7687-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7735-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7657-Dialogue.mod:1 7687-Dialogue.mod:1 7735-Dialogue.mod:1
+msgid "Do I smell a fight?"
+msgstr ""
+
+#. Id: 7657-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 7687-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7735-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7657-Dialogue.mod:2 7687-Dialogue.mod:3 7735-Dialogue.mod:3
+msgid "Time to try out mah new sword!"
+msgstr ""
+
+#. Id: 7659-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7659-Dialogue.mod:0
+msgid "These guys. Just my /FUCKING/ luck"
+msgstr ""
+
+#. Id: 7659-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7659-Dialogue.mod:1
+msgid "THESE /BASTARD/s? Great"
+msgstr ""
+
+#. Id: 7659-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7659-Dialogue.mod:2
+msgid "/FUCK/. I hate these guys"
+msgstr ""
+
+#. Id: 7659-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7659-Dialogue.mod:3
+msgid "Urgh. I really hate these guys"
+msgstr ""
+
+#. Id: 7716-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7716-Dialogue.mod:0
+msgid "Why can't you all just die already?"
+msgstr ""
+
+#. Id: 7716-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. Id: 7729-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7716-Dialogue.mod:1 7729-Dialogue.mod:0
+msgid "Just fuck off and die already"
+msgstr ""
+
+#. Id: 7716-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. Id: 7729-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7716-Dialogue.mod:2 7729-Dialogue.mod:1
+msgid "Leave us the hell alone!"
+msgstr ""
+
+#. Id: 7716-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. Id: 7729-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7716-Dialogue.mod:3 7729-Dialogue.mod:2
+msgid "Will you just die already?"
+msgstr ""
+
+#. Id: 7716-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7716-Dialogue.mod:4
+msgid "Somebody just hurry up and kill them"
+msgstr ""
+
+#. Id: 7664-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7664-Dialogue.mod:0
+msgid "Get the hell outta here yous!"
+msgstr ""
+
+#. Id: 7664-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7664-Dialogue.mod:1
+msgid "What are yous doin' on our land?!"
+msgstr ""
+
+#. Id: 7664-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7664-Dialogue.mod:2
+msgid "This is OUR terry tory! /FUCKOFF/!"
+msgstr ""
+
+#. Id: 7666-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7666-Dialogue.mod:0
+msgid "You seem to be on my land, /BASTARD/s"
+msgstr ""
+
+#. Id: 7666-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7666-Dialogue.mod:1
+msgid "I'm gonna /CUT/ you up for screwing with us!"
+msgstr ""
+
+#. Id: 7666-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 7692-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 7738-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7666-Dialogue.mod:2 7692-Dialogue.mod:2 7738-Dialogue.mod:2
+msgid "I'm gonna make you pay for messing with us! "
+msgstr ""
+
+#. Id: 7666-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7666-Dialogue.mod:3
+msgid "YOU guys! You're in for an /EYE/ stabbing!"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:1 7693-Dialogue.mod:1
+msgid "I'll pop your head clean off!"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:2 7693-Dialogue.mod:2
+msgid "You got balls showin' your face around here"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:3
+msgid "Get off my land! You ain't welcome here, /BASTARD/"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:4
+msgid "This joker?"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:5
+msgid "This is the /BASTARD/ that's been causin' all the trouble?"
+msgstr ""
+
+#. Id: 7668-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7668-Dialogue.mod:6 7693-Dialogue.mod:6
+msgid "You got guts showin' up here all alone, /INSULT/"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7679-Dialogue.mod:0 7694-Dialogue.mod:0
+msgid "You're a piece of shit aintcha"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7679-Dialogue.mod:1
+msgid "Who's this /GUY/ think /HE/ is!?"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7679-Dialogue.mod:2 7694-Dialogue.mod:2
+msgid "I don't like your face!"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7679-Dialogue.mod:3
+msgid "Hey /INSULT/. Feelin' lonely?"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7679-Dialogue.mod:4
+msgid "Aw. Where's all ya mates, /INSULT/?"
+msgstr ""
+
+#. Id: 7679-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7679-Dialogue.mod:5 7694-Dialogue.mod:5
+msgid "/OI/! Billy-no-mates. /FUCKOFF/"
+msgstr ""
+
+#. Id: 7681-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7681-Dialogue.mod:0
+msgid "You ugly damn /BASTARD/"
+msgstr ""
+
+#. Id: 7681-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7681-Dialogue.mod:1
+msgid "I hate your /FUCKING/ face"
+msgstr ""
+
+#. Id: 7681-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7681-Dialogue.mod:2
+msgid "We got you now, /INSULT/! All ALONE as well..."
+msgstr ""
+
+#. Id: 7683-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7683-Dialogue.mod:0
+msgid "Looks like your luck's run out now, /RUNT/"
+msgstr ""
+
+#. Id: 7683-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7683-Dialogue.mod:1
+msgid "You gonna run away? Or you gonna fight?"
+msgstr ""
+
+#. Id: 7683-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7683-Dialogue.mod:2
+msgid "C'mon, fight me. Show me what all the fuss is about, /RUNT/"
+msgstr ""
+
+#. Id: 7685-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7685-Dialogue.mod:1
+msgid "It's /HIM/! Attack, attack!"
+msgstr ""
+
+#. Id: 7685-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7734-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7685-Dialogue.mod:2 7734-Dialogue.mod:2
+msgid "We've got you now, /INSULT/!"
+msgstr ""
+
+#. Id: 7687-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7687-Dialogue.mod:2
+msgid "/BASTARD/. I'll take this guy down"
+msgstr ""
+
+#. Id: 7687-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7687-Dialogue.mod:4
+msgid "/QUICKLAUGH! This is too easy"
+msgstr ""
+
+#. Id: 7688-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7688-Dialogue.mod:0
+msgid "This guy. Just my /FUCKING/ luck"
+msgstr ""
+
+#. Id: 7688-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7688-Dialogue.mod:1
+msgid "THIS /BASTARD/? Great"
+msgstr ""
+
+#. Id: 7688-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7688-Dialogue.mod:2
+msgid "/FUCK/. I hate this guy"
+msgstr ""
+
+#. Id: 7688-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7688-Dialogue.mod:3
+msgid "Urgh. I really hate this guy"
+msgstr ""
+
+#. Id: 7729-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7729-Dialogue.mod:3
+msgid "Somebody just hurry up and kill /HIM/"
+msgstr ""
+
+#. Id: 7691-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7691-Dialogue.mod:0
+msgid "You! Get the hell outta here!"
+msgstr ""
+
+#. Id: 7691-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7691-Dialogue.mod:1
+msgid "This is OUR turf! /GETLOST/!"
+msgstr ""
+
+#. Id: 7691-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7691-Dialogue.mod:2
+msgid "What are YOU doin' on our land?!"
+msgstr ""
+
+#. Id: 7692-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7692-Dialogue.mod:0
+msgid "You seem to be on my land, /BASTARD/"
+msgstr ""
+
+#. Id: 7692-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7692-Dialogue.mod:1
+msgid "/BOY/, I'm gonna /CUT/ you up for screwing with us!"
+msgstr ""
+
+#. Id: 7692-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7692-Dialogue.mod:3
+msgid "YOU! You're in for an /EYE/ stabbing!"
+msgstr ""
+
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7693-Dialogue.mod:3
+msgid "Get off my land! You ain't welcome here, /BROAD/"
+msgstr ""
+
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7693-Dialogue.mod:4
+msgid "This /BROAD/?"
+msgstr ""
+
+#. Id: 7693-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7693-Dialogue.mod:5
+msgid "This is the /BROAD/ that's been causin' all the trouble?"
+msgstr ""
+
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7694-Dialogue.mod:1
+msgid "Who's this /BROAD/ think she is!?"
+msgstr ""
+
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7694-Dialogue.mod:3
+msgid "Hey /BROAD/. Lookin' kinda lonely aintcha"
+msgstr ""
+
+#. Id: 7694-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7694-Dialogue.mod:4
+msgid "Aw. Where's all ya buddies, /BROAD/?"
+msgstr ""
+
+#. Id: 7695-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7695-Dialogue.mod:0
+msgid "I don't like broads. 'Specially cocky broads. Not one /FUCKING/ bit. "
+msgstr ""
+
+#. Id: 7695-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7695-Dialogue.mod:1
+msgid "You're an ugly /BROAD/ aintcha? Damn troublemaker!"
+msgstr ""
+
+#. Id: 7695-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7695-Dialogue.mod:2
+msgid "Damn disrespectful /BROAD/. Obey us!"
+msgstr ""
+
+#. Id: 7695-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7695-Dialogue.mod:3
+msgid "You! I'm sick of hearing about your shit, /BROAD/!"
+msgstr ""
+
+#. Id: 7695-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7695-Dialogue.mod:4
+msgid "I ain't gonna be pushed around by some WOMAN"
+msgstr ""
+
+#. Id: 7696-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7696-Dialogue.mod:0
+msgid "Looks like your luck's run out now, little girl"
+msgstr ""
+
+#. Id: 7696-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7696-Dialogue.mod:1
+msgid "You gonna run away, girl? Or you gonna fight?"
+msgstr ""
+
+#. Id: 7696-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7696-Dialogue.mod:2
+msgid "C'mon, fight me. Show me what all the fuss is about, little girl"
+msgstr ""
+
+#. Id: 7734-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 7820-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7819-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7734-Dialogue.mod:0 7820-Dialogue.mod:0
+msgid "Get her!"
+msgstr ""
+
+#. Id: 7734-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7734-Dialogue.mod:1
+msgid "It's her! Attack, attack!"
+msgstr ""
+
+#. Id: 7735-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7735-Dialogue.mod:2
+msgid "I'll take this /RUNT/ girl down"
+msgstr ""
+
+#. Id: 7735-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7735-Dialogue.mod:4
+msgid "/QUICKLAUGH/! This is too easy"
+msgstr ""
+
+#. Id: 7736-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7736-Dialogue.mod:0
+msgid "This woman? Just my /FUCKING/ luck"
+msgstr ""
+
+#. Id: 7736-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7736-Dialogue.mod:1
+msgid "THIS /BROAD/? Great"
+msgstr ""
+
+#. Id: 7736-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7736-Dialogue.mod:2
+msgid "/FUCK/. I hate this girl"
+msgstr ""
+
+#. Id: 7736-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 7736-Dialogue.mod:3
+msgid "Urgh. I really hate this woman"
+msgstr ""
+
+#. Id: 7737-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7737-Dialogue.mod:0
+msgid "Hey /BROAD/! This is OUR turf! /FUCKOFF/!"
+msgstr ""
+
+#. Id: 7737-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7737-Dialogue.mod:1
+msgid "You, /BROAD/! Get the hell outta here!"
+msgstr ""
+
+#. Id: 7737-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7737-Dialogue.mod:2
+msgid "What are YOU doin' on our land, woman?!"
+msgstr ""
+
+#. Id: 7737-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7737-Dialogue.mod:3
+msgid "This mouthy woman needs to be put in her place eh"
+msgstr ""
+
+#. Id: 7738-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7738-Dialogue.mod:0
+msgid "You seem to be on my land, /BROAD/"
+msgstr ""
+
+#. Id: 7738-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7738-Dialogue.mod:1
+msgid "Lady, I'm gonna /CUT/ you up for screwing with us!"
+msgstr ""
+
+#. Id: 7738-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7738-Dialogue.mod:3
+msgid "YOU! You're in for an /EYE/ stabbing, bitch!"
+msgstr ""
+
+#. Id: 7761-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7738-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#: 7761-Dialogue.mod:1
+msgid "/QUICKLAUGH/ this should be fun"
+msgstr ""
+

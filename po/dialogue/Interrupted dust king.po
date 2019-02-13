@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45195-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted dust king
+#: 45195-Dialogue.mod:0
+msgid "You're gonna regret messin' with me!"
+msgstr ""
+
+#. Id: 45195-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted dust king
+#: 45195-Dialogue.mod:1
+msgid "Don't mess with the Dust King!"
+msgstr ""
+
+#. Id: 45196-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted dust king
+#. Id: 45200-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45199-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust king interrupted by other
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 45196-Dialogue.mod:0 45200-Dialogue.mod:0 13428-Escapes.mod:2
+msgid "I'll /SLITYOURTHROAT/!"
+msgstr ""
+
+#. Id: 45196-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted dust king
+#: 45196-Dialogue.mod:2
+msgid "I'll stab you! I'll stab you up good!"
+msgstr ""
+

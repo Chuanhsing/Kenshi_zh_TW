@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11531-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11531-Dialogue?(10).mod:0
+msgid "Dust bandits..."
+msgstr ""
+
+#. Id: 11533-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11532-Dialogue (10).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek rogues picking fights
+#: 11533-Dialogue?(10).mod:0
+msgid "This should be interesting"
+msgstr ""
+
+#. Id: 11534-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11533-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11534-Dialogue?(10).mod:0
+msgid "/OI/, bandit vermin! Try and rob a Shek warrior, I dare you"
+msgstr ""
+
+#. Id: 11692-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11692-Dialogue?(10).mod:0
+msgid "That way... /TINCAN/ trash, look"
+msgstr ""
+
+#. Id: 11692-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11692-Dialogue?(10).mod:1
+msgid "Over there... /TINCAN/ trash, see?"
+msgstr ""
+
+#. Id: 11694-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11693-Dialogue (10).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek rogues picking fights
+#: 11694-Dialogue?(10).mod:0
+msgid "Rrrrrgh, I'll rip their throats out!"
+msgstr ""
+
+#. Id: 11694-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11693-Dialogue (10).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek rogues picking fights
+#: 11694-Dialogue?(10).mod:1
+msgid "I'll tear them limb from limb!"
+msgstr ""
+
+#. Id: 11695-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11694-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11695-Dialogue?(10).mod:0
+msgid "Hold it. We shouldn't disobey Esata's orders"
+msgstr ""
+
+#. Id: 11696-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11695-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11696-Dialogue?(10).mod:0
+msgid "So we just let the enemy float on by? It's a dishonor to Kral!"
+msgstr ""
+
+#. Id: 11698-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11697-Dialogue (10).mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Shek rogues picking fights
+#: 11698-Dialogue?(10).mod:0
+msgid "Mmh. Agreed. We go. We show them the true strength of the Shek"
+msgstr ""
+
+#. Id: 11699-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11698-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11699-Dialogue?(10).mod:0
+msgid "Hrm."
+msgstr ""
+
+#. Id: 11701-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (11700-Dialogue (10).mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Shek rogues picking fights
+#: 11701-Dialogue?(10).mod:0
+msgid "Swords up, /TINCAN/ scum!"
+msgstr ""
+
+#. Id: 11701-Dialogue (10).mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (11700-Dialogue (10).mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Shek rogues picking fights
+#: 11701-Dialogue?(10).mod:1
+msgid "Raise your swords, /TINCAN/ dogs!"
+msgstr ""
+
+#. Id: 11704-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 11704-Dialogue?(10).mod:0
+msgid "Look. Cannibals."
+msgstr ""
+
+#. Id: 11706-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11705-Dialogue (10).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek rogues picking fights
+#: 11706-Dialogue?(10).mod:0
+msgid "Cannibals? Might as well brawl with dogs. Savages"
+msgstr ""
+
+#. Id: 11707-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11706-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11707-Dialogue?(10).mod:0
+msgid "See them swarm like bugs. I find it alluring"
+msgstr ""
+
+#. Id: 11714-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11713-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogues picking fights
+#: 11714-Dialogue?(10).mod:0
+msgid "Let them come for us. We'll wipe them clean from the sands"
+msgstr ""
+

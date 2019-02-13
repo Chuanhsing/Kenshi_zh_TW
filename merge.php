@@ -24,11 +24,12 @@ class Msg
     {
         $po_dialogues = array_diff(scandir($po_dialogue), array('..', '.'));
         foreach($po_dialogues as $file) {
+            if (pathinfo($file, PATHINFO_EXTENSION) != 'po') {
+                continue;
+            }
             $po_file = $po_dialogue.$file;
             $pot_file = $pot_dialogue.$file.'t';
             if (file_exists($pot_file)) {
-                //$cmd = "msgmerge -U \"{$po_file}\" \"{$pot_file}\"";
-                //exec($cmd, $output, $return_var);
                 $return_var = $this->merge($po_file, $pot_file);
                 if ($return_var == 0) {
                     $res['merged'][] = $file;
@@ -41,6 +42,20 @@ class Msg
                 unlink($po_file);
             }
         }
+
+        $pot_dialogues = array_diff(scandir($pot_dialogue), array('..', '.'));
+        foreach($pot_dialogues as $file) {
+            if (pathinfo($file, PATHINFO_EXTENSION) != 'pot') {
+                continue;
+            }
+            $po_file = $po_dialogue.substr($file, 0, -1);
+            $pot_file = $pot_dialogue.$file;
+            if (!file_exists($po_file)) {
+                $this->pot2po($po_file, $pot_file);
+                $res['new'][] = $file;
+            }
+        }
+
         return $res;
     }
 
@@ -86,4 +101,13 @@ class Msg
         return $return_var;
     }
 
+    function pot2po($def, $ref)
+    {
+        $tmp = $this->pot_fix($ref);
+        $contents = file_get_contents($tmp);
+        $contents = str_replace("Language: en", "Language: zh_TW", $contents);
+        file_put_contents($def, $contents);
+        unlink($tmp);
+        return 0;
+    }
 }

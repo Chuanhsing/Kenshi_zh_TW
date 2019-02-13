@@ -1,0 +1,633 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:0
+msgid "Either buy me a drink or /GETLOST/..."
+msgstr ""
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:1
+msgid "You gonna buy me a drink, or you gonna stand there gawpin' at me?"
+msgstr ""
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:2
+msgid "I'm not in the mood for chit chat right now, either buy me or drink or /GETLOST/."
+msgstr ""
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:3
+msgid "What do you want? You gonna buy me a drink or you just gonna stand there /LOOKING/ at me?"
+msgstr ""
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:4
+msgid "My last Cats, drowned away in this shithole bar. How about you be a good /BOY2/ and buy me another, eh? I'm kinda runnin' dry here..."
+msgstr ""
+
+#. Id: 44811-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44811-Dialogue.mod:5
+msgid "*sigh* I'm runnin' a little dry here, /BOY2/. Wanna buy me another grog?"
+msgstr ""
+
+#. Id: 44813-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#: 44813-Dialogue.mod:0
+msgid "Sure, drinks are on me"
+msgstr ""
+
+#. Id: 44814-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44814-Dialogue.mod:0
+msgid "...*Gulp*..."
+msgstr ""
+
+#. Id: 44815-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44815-Dialogue.mod:0
+msgid "Ah... Drinkin’, it helps calm my nerves before a mission... I ain’t completely soulless, you know, it’s a dark place out there..."
+msgstr ""
+
+#. Id: 44815-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44815-Dialogue.mod:1
+msgid "Ah... That's the way of the drunken sword, ya see, gotta prep for battle. Can't hit for shit when I'm sober..."
+msgstr ""
+
+#. Id: 44815-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44815-Dialogue.mod:2
+msgid "Ah... Drinkin' drowns out the voices in my head..."
+msgstr ""
+
+#. Id: 44815-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44815-Dialogue.mod:3
+msgid "Ah... The more brain cells I can kill off, the better..."
+msgstr ""
+
+#. Id: 44816-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 44816-Dialogue.mod:0
+msgid "You're alright..."
+msgstr ""
+
+#. Id: 45030-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45030-Dialogue.mod:0
+msgid "Had a run-in with the bug master down south. Hard times. You ever heard of the bug master, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 45031-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45031-Dialogue.mod:0
+msgid "No, who's that?"
+msgstr ""
+
+#. Id: 45032-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45032-Dialogue.mod:0
+msgid "Trust me, you don't wanna meet 'im. The guy's got a freakin' whole army of bugs and he's out for blood. I hear he's half bug, half man, his father was human, his mother insect. Okran know's how old he is, legends say he's immortal, been around since ancient civilisation..."
+msgstr ""
+
+#. Id: 45033-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45033-Dialogue.mod:0
+msgid "So, the guy despises his human lineage, I mean, he's a freak of nature, right? But now he takes out all his rage on the human race, guy's a maniac, I tell you. Had to hide under my comrade's damn cold body, I would have been slaughtered for sure if I hadn't... It's the sort of thing you only see in nightmares...."
+msgstr ""
+
+#. Id: 45038-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45038-Dialogue.mod:0
+msgid "That's terrible..."
+msgstr ""
+
+#. Id: 45042-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45038-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45042-Dialogue.mod:0
+msgid "... Nothin' a good amount of grog won't fix..."
+msgstr ""
+
+#. Id: 45043-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (45042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45043-Dialogue.mod:0
+msgid "Thanks for the drink anyway"
+msgstr ""
+
+#. Id: 45039-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45039-Dialogue.mod:0
+msgid "Sounds like the kinda guy I'd like to fight!"
+msgstr ""
+
+#. Id: 45041-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45039-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45041-Dialogue.mod:0
+msgid "Ha! Arrogant /IDIOT/..."
+msgstr ""
+
+#. Id: 45073-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45073-Dialogue.mod:0
+msgid "I think he's just misunderstood. I feel sorry for him."
+msgstr ""
+
+#. Id: 45074-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45074-Dialogue.mod:0
+msgid "Well, let's see you say that after his bugs butcher your comrades in front of you..."
+msgstr ""
+
+#. Id: 45075-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (45074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45075-Dialogue.mod:0
+msgid "I feel no sympathy for mass murderers."
+msgstr ""
+
+#. Id: 45036-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45036-Dialogue.mod:0
+msgid "I've heard stories."
+msgstr ""
+
+#. Id: 45037-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45037-Dialogue.mod:0
+msgid "Of course. I've crossed blades with him before."
+msgstr ""
+
+#. Id: 45069-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45037-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45069-Dialogue.mod:0
+msgid "Yeah?... Then it's a miracle you're alive and here today. The guy's a /GODDAMN/ maniac, a freak of nature..."
+msgstr ""
+
+#. Id: 45070-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45069-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45070-Dialogue.mod:0
+msgid "I don't ever wanna cross that guy or his bugs again..."
+msgstr ""
+
+#. Id: 45071-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45071-Dialogue.mod:0
+msgid "No, and I'm not interested in who he is either..."
+msgstr ""
+
+#. Id: 45035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45035-Dialogue.mod:0
+msgid "... You ever heard of the Blood Bandits?"
+msgstr ""
+
+#. Id: 45061-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45061-Dialogue.mod:0
+msgid "I haven't, no..."
+msgstr ""
+
+#. Id: 45062-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45062-Dialogue.mod:0
+msgid "These guys ain't just your standard bandit. These guys are sick in the head and they don't stop at stealing your loot. Or killing you for that matter... No amount of grog is gonna help me wipe out these nightmares..."
+msgstr ""
+
+#. Id: 45471-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45062-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45471-Dialogue.mod:0
+msgid "What did they do to you?"
+msgstr ""
+
+#. Id: 45472-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45472-Dialogue.mod:0
+msgid "I got a job guarding a caravan, shoulda been a straightforward journey... But then the raid started as we set up camp for the night. They picked a couple of us out... they... they made us kill our own comrades, fights to the death. At first we refused, but then they started the torture... it was a living hell."
+msgstr ""
+
+#. Id: 45476-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45472-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45476-Dialogue.mod:0
+msgid "Those animals need putting down!"
+msgstr ""
+
+#. Id: 45482-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45476-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45482-Dialogue.mod:0
+msgid "Yeah, they do. But they're not the kind of enemy you wanna lose to either..."
+msgstr ""
+
+#. Id: 45483-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (45482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45483-Dialogue.mod:0
+msgid "Thanks for the drink."
+msgstr ""
+
+#. Id: 45477-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45472-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45477-Dialogue.mod:0
+msgid "I'll find these bandits. And I'll kill 'em."
+msgstr ""
+
+#. Id: 45484-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45477-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45484-Dialogue.mod:0
+msgid "Mm... Just don't lose to 'em, whatever you do..."
+msgstr ""
+
+#. Id: 45478-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45472-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45478-Dialogue.mod:0
+msgid "You did what you had to do to survive."
+msgstr ""
+
+#. Id: 45479-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45472-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45479-Dialogue.mod:0
+msgid "You're a coward. You should have stood up to them."
+msgstr ""
+
+#. Id: 45480-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45480-Dialogue.mod:0
+msgid "You think we didn't try!? "
+msgstr ""
+
+#. Id: 45481-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (45480-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45481-Dialogue.mod:0
+msgid "Dumb comments like that are gonna land you in deep shit, /BOY2/..."
+msgstr ""
+
+#. Id: 45474-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45474-Dialogue.mod:0
+msgid "I don't have time for stories, sorry"
+msgstr ""
+
+#. Id: 45473-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45473-Dialogue.mod:0
+msgid "They're the guys that torture their victims, right?"
+msgstr ""
+
+#. Id: 45475-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45475-Dialogue.mod:0
+msgid "Nope, and I'm not interested either..."
+msgstr ""
+
+#. Id: 45044-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45044-Dialogue.mod:0
+msgid "My last mission, it was a pretty hairy one, let's just put it that way... Drinkin' helps me relax, at least a little..."
+msgstr ""
+
+#. Id: 45046-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45045-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45046-Dialogue.mod:0
+msgid "We were tryin' to take down a cannibal camp. But we got caught... You ever hear what those savages do to their victims? "
+msgstr ""
+
+#. Id: 45048-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45047-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45048-Dialogue.mod:0
+msgid "They eat them, limb by limb. It's not a pretty way to go, let's just say that... I managed to pick my lock and escape. But they'd already started on my buddy, kept him alive while they ate away at him, like some.. thing... a piece of meat. I had to end his suffering..."
+msgstr ""
+
+#. Id: 45049-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45048-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45049-Dialogue.mod:0
+msgid "At least you were around to end your friend's misery..."
+msgstr ""
+
+#. Id: 45051-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45051-Dialogue.mod:0
+msgid "... That's one way of lookin' at it I guess..."
+msgstr ""
+
+#. Id: 45050-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (45048-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45050-Dialogue.mod:0
+msgid "I hate cannibals. I swear I'll kill every last one of them."
+msgstr ""
+
+#. Id: 45052-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45050-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45052-Dialogue.mod:0
+msgid "I wish it were that easy..."
+msgstr ""
+
+#. Id: 45052-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (45050-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45052-Dialogue.mod:1
+msgid "You and me both..."
+msgstr ""
+
+#. Id: 45053-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45044-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45053-Dialogue.mod:0
+msgid "That's too bad. See you around anyway."
+msgstr ""
+
+#. Id: 45066-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45066-Dialogue.mod:0
+msgid "I had a rough encounter with the bug master this week... Ever hear of 'im?"
+msgstr ""
+
+#. Id: 45068-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45066-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45068-Dialogue.mod:0
+msgid "No. Who's the bug master?"
+msgstr ""
+
+#. Id: 45063-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45068-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45063-Dialogue.mod:0
+msgid "He's not someone you wanna come across, trust me. Some say he was abandoned as a kid and raised by bugs. The guy practically has an army of giant insects under his control, communicates with 'em, speaks their language..."
+msgstr ""
+
+#. Id: 45065-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45065-Dialogue.mod:0
+msgid "The guy's a madman, thinks he's a /GODDAMN/ bug or something. Who know's why he hate's humans so much... *sigh*... Half my squadron, slaughtered by 'im. It was a bloodbath..."
+msgstr ""
+
+#. Id: 45072-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45066-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 45072-Dialogue.mod:0
+msgid "I've heard tales, nothing more."
+msgstr ""
+
+#. Id: 44817-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 44817-Dialogue.mod:1
+msgid "Uh, no, sorry"
+msgstr ""
+
+#. Id: 44817-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 44817-Dialogue.mod:2
+msgid "I'm leaving, ask someone else"
+msgstr ""
+
+#. Id: 45058-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50, Tag: -1
+#. Id: 18802-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 45058-Dialogue.mod:0 18802-Dialogue.mod:2
+msgid "Sorry, I don't have enough..."
+msgstr ""
+
+#. Id: 45060-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45060-Dialogue.mod:0
+msgid "Then I ain't interested..."
+msgstr ""
+
+#. Id: 45060-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (45058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45060-Dialogue.mod:1
+msgid "Then I ain't talkin'..."
+msgstr ""
+
+#. Id: 45060-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (45058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45060-Dialogue.mod:2
+msgid "Then quit wastin' my time..."
+msgstr ""
+
+#. Id: 45060-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (45058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug4
+#: 45060-Dialogue.mod:3
+msgid "Then leave me alone..."
+msgstr ""
+

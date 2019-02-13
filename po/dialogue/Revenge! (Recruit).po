@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 20259-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 20259-Dialogue.mod:0
+msgid "Nowhere in this world is truly safe, even within the famous Swamper capital there are eyes everywhere... you, /OUTLANDER/, you look well-travelled..  what are your thoughts on... on slavery?"
+msgstr ""
+
+#. Id: 18852-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18852-Dialogue.mod:0
+msgid "People are lazy by nature. Sometimes slavery is necessary."
+msgstr ""
+
+#. Id: 18854-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18852-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18854-Dialogue.mod:0
+msgid "I wonder if you'd still hold that opinion after being enslaved yourself in one of their stone camps?"
+msgstr ""
+
+#. Id: 20262-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18854-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 20262-Dialogue.mod:0
+msgid "... Nevermind, I've said too much..."
+msgstr ""
+
+#. Id: 18851-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18851-Dialogue.mod:0
+msgid "I couldn't care less about slavers. I prefer to live and let live."
+msgstr ""
+
+#. Id: 20260-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 20260-Dialogue.mod:0
+msgid "I think it's an ugly practice. I want no involvement in it."
+msgstr ""
+
+#. Id: 8890-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 8890-Dialogue.mod:0
+msgid "I do too... The slavers, they took somebody from me. Somebody very special to me. Branded her body and put her to work in that stinking hell hole of a mine. This needs to stop, we need to stand up and fight this barbaric slave culture. I plan to... visit the slaver's outpost, but I need allies. "
+msgstr ""
+
+#. Id: 9693-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9693-Dialogue.mod:0
+msgid "Who did they take?"
+msgstr ""
+
+#. Id: 9695-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9693-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9695-Dialogue.mod:0
+msgid "...my wife... For as long as I live I will never give up on finding retribution for her. And I'll make them pay for what they've done, for the life that they've stolen from her. I want to wipe those slaver scum off the face of the planet..."
+msgstr ""
+
+#. Id: 9698-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9695-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 10518-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9698-Dialogue.mod:0 10518-Dialogue?(7).mod:0
+msgid "Have you tried the anti-slavery guild?"
+msgstr ""
+
+#. Id: 9699-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 10519-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10518-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9699-Dialogue.mod:0 10519-Dialogue?(7).mod:0
+msgid "... I did. They failed. They couldn't save her."
+msgstr ""
+
+#. Id: 9700-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9699-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9700-Dialogue.mod:0
+msgid "So she's already dead?"
+msgstr ""
+
+#. Id: 9701-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9701-Dialogue.mod:0
+msgid "...Yes... To be tortured and broken by those people, worked to death like an animal... I'm a walking ghost without her. No one else should have to suffer like that and I want to personally make sure of it"
+msgstr ""
+
+#. Id: 9702-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9701-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9702-Dialogue.mod:0
+msgid "And the Anti-slavery Guild wouldn't accept you as a recruit?"
+msgstr ""
+
+#. Id: 9703-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9702-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9703-Dialogue.mod:0
+msgid "They wouldn't take me. Said I was an emotional risk... I promise you I'm NOT a risk. Have you ever run into slavers? They're evil..."
+msgstr ""
+
+#. Id: 9706-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9703-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9706-Dialogue.mod:0
+msgid "I know what you mean, they're pure evil. But what can WE do about it?"
+msgstr ""
+
+#. Id: 9711-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9711-Dialogue.mod:0
+msgid "We can TRY. We can try to build an army of other people who have suffered, who have had enough of the fear and the pain. I for one have nothing to lose anymore and I will keep on searching for allies for as long as I breathe"
+msgstr ""
+
+#. Id: 9707-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9703-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9707-Dialogue.mod:0
+msgid "They're not that bad. I think you dwell too much"
+msgstr ""
+
+#. Id: 9709-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9707-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9709-Dialogue.mod:0
+msgid "How can you be so cold? Are you just trying to wind me up? Please, leave me alone"
+msgstr ""
+
+#. Id: 9708-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9703-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9708-Dialogue.mod:0
+msgid "I think you're crazy. Making enemies with them is suicide... But I like crazy people"
+msgstr ""
+
+#. Id: 9705-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9703-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9705-Dialogue.mod:0
+msgid "Unfortunately I have run into them before. I despise them"
+msgstr ""
+
+#. Id: 9710-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9710-Dialogue.mod:0
+msgid "So you DO feel the same way? Look, I don't know who you are or what you're doing here but, you and me, together we can start a revolution! We can rid the world of those vermin, recruit other people like us... We can stand up and fight our oppressors!"
+msgstr ""
+
+#. Id: 9712-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (9710-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9712-Dialogue.mod:0
+msgid "I admire your spirit, /IWE/'d be honored to join you"
+msgstr ""
+
+#. Id: 9714-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (9712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9714-Dialogue.mod:0
+msgid "We WILL defeat them!"
+msgstr ""
+
+#. Id: 9713-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (9710-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9713-Dialogue.mod:0
+msgid "I think you're on a suicide mission. I'm sorry, this isn't for me"
+msgstr ""
+
+#. Id: 9716-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (9713-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9716-Dialogue.mod:0
+msgid "I understand. Wish me luck"
+msgstr ""
+
+#. Id: 9704-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9701-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9704-Dialogue.mod:0
+msgid "Revenge isn't always the answer"
+msgstr ""
+
+#. Id: 9717-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9717-Dialogue.mod:0
+msgid "So what, is it pointless to try and stop those scum from torturing innocents, breaking their souls, working them to death like animals? Revenge is an ugly word but sometimes the byproducts of it are far from ugly. Freedom, re-uniting loved ones... Do you really think revenge isn't the answer? Or are you just scared?"
+msgstr ""
+
+#. Id: 9719-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9717-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9719-Dialogue.mod:0
+msgid "You have a good point, innocents shouldn't have to suffer like that..."
+msgstr ""
+
+#. Id: 9721-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9721-Dialogue.mod:0
+msgid "What's your story? Have you ever run into slavers? They need to be stopped..."
+msgstr ""
+
+#. Id: 9720-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9717-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9720-Dialogue.mod:0
+msgid "But you can't possibly win, you'll die. And so will everyone else you convince to join you"
+msgstr ""
+
+#. Id: 9722-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9720-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9722-Dialogue.mod:0
+msgid "That's their choice, the same as it is my own. I won't force anybody to join me. Even if I can save just one life, I will have succeeded. Have you ever run into slavers before?"
+msgstr ""
+
+#. Id: 18864-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9717-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18864-Dialogue.mod:0
+msgid "I disagree. Revenge just brings more death and ugliness. You need to move on."
+msgstr ""
+
+#. Id: 18865-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (18864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18865-Dialogue.mod:0
+msgid "'Just move on'. Some of us prefer not to sit by while others are suffering..."
+msgstr ""
+
+#. Id: 10512-Dialogue (7).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9701-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 10512-Dialogue?(7).mod:0
+msgid "I completely agree. No more suffering"
+msgstr ""
+
+#. Id: 10513-Dialogue (7).mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (10512-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 10513-Dialogue?(7).mod:0
+msgid "You do? Look, I don't know who you are or what you're doing here but, you and me, together we can start a revolution! We can rid the world of those vermin, recruit other people like us... We can stand up and fight our oppressors!"
+msgstr ""
+
+#. Id: 9718-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9699-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9718-Dialogue.mod:0
+msgid "And what makes you think you can save her?"
+msgstr ""
+
+#. Id: 9723-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9718-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9723-Dialogue.mod:0
+msgid "Nothing. But I can try. And I can try and stop those scum from hurting others.. torturing innocents, breaking their souls, working them like animals until they're dead and used up. I can at least try."
+msgstr ""
+
+#. Id: 18863-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18863-Dialogue.mod:0
+msgid "The innocent need protecting, I know what you mean."
+msgstr ""
+
+#. Id: 18866-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9699-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18866-Dialogue.mod:0
+msgid "Then let's save her together"
+msgstr ""
+
+#. Id: 18867-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (18866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18867-Dialogue.mod:0
+msgid "... Right... We can help others. We can try to build an army of other people who have suffered, who have had enough of the fear and the pain. United, we can stand up to our oppressors!"
+msgstr ""
+
+#. Id: 18868-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (18867-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 13308-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13302-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#: 18868-Dialogue.mod:0 13308-Escapes.mod:0
+msgid "I've changed my mind, sorry"
+msgstr ""
+
+#. Id: 9724-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9695-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9724-Dialogue.mod:0
+msgid "I despise slavers. I know how you feel"
+msgstr ""
+
+#. Id: 9725-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9724-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9725-Dialogue.mod:0
+msgid "Have you lost someone to them too?"
+msgstr ""
+
+#. Id: 9726-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9725-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9726-Dialogue.mod:0
+msgid "Yes, a comrade. The anti-slavery guild can help though, have you tried them?"
+msgstr ""
+
+#. Id: 9727-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9725-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9727-Dialogue.mod:0
+msgid "I haven't, but I've witnessed their raids before"
+msgstr ""
+
+#. Id: 9733-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9733-Dialogue.mod:0
+msgid "But you despise them? You feel the same way as I do? Look, I don't know who you are or what you're doing here but, you and me, together we can start a revolution! We can rid the world of those vermin, recruit other people like us... We can stand up and fight our oppressors!"
+msgstr ""
+
+#. Id: 9728-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9725-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9728-Dialogue.mod:0
+msgid "I am an ex-slave. I escaped"
+msgstr ""
+
+#. Id: 9729-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9729-Dialogue.mod:0
+msgid "I'm sorry for your suffering... Do you ever think about revenge?"
+msgstr ""
+
+#. Id: 9731-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9731-Dialogue.mod:0
+msgid "Of course. I hate them. But I also like being alive... Fighting them is suicide"
+msgstr ""
+
+#. Id: 9732-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9732-Dialogue.mod:0
+msgid "But we can help others. We can try to build an army of other people who have suffered, who have had enough of the fear and the pain. I for one have nothing to lose anymore and I will keep on searching for allies for as long as I breathe"
+msgstr ""
+
+#. Id: 18861-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9732-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18861-Dialogue.mod:0
+msgid "... Then I'll stand with you and fight them!"
+msgstr ""
+
+#. Id: 18855-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18855-Dialogue.mod:0
+msgid "Yes. One day I will destroy every last one of them"
+msgstr ""
+
+#. Id: 18856-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (18855-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18856-Dialogue.mod:0
+msgid "Look, I don't know who you are or what you're doing here but, you and me, together we can start a revolution! We can rid the world of those vermin, recruit other people like us... We can stand up and fight our oppressors!"
+msgstr ""
+
+#. Id: 18857-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (18856-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18857-Dialogue.mod:0
+msgid "Then let's stand together and fight!"
+msgstr ""
+
+#. Id: 18858-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (18856-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18858-Dialogue.mod:0
+msgid "Actually, I fight better alone..."
+msgstr ""
+
+#. Id: 18859-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (18858-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18859-Dialogue.mod:0
+msgid "That's disappointing. Good luck."
+msgstr ""
+
+#. Id: 18860-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (18856-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#. Id: 12727-Dialogue (11) (2).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (12723-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 1741-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (8816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18860-Dialogue.mod:0 12727-Dialogue?(11)?(2).mod:0 1741-gamedata.base:1
+msgid "I'm not interested, sorry"
+msgstr ""
+
+#. Id: 9694-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9694-Dialogue.mod:0
+msgid "And you think you can still save her?"
+msgstr ""
+
+#. Id: 10509-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9694-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 10509-Dialogue?(7).mod:0
+msgid "... I don't know... Either way somebody needs to put a stop to this barbaric culture of enslaving the weak. It's like a disease and it's eating away at our lands, at all the innocent people... "
+msgstr ""
+
+#. Id: 10514-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10509-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 10514-Dialogue?(7).mod:0
+msgid "I completely agree, they're pure evil"
+msgstr ""
+
+#. Id: 10515-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10509-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 10515-Dialogue?(7).mod:0
+msgid "I think you're /CRAZY/. You can't beat them"
+msgstr ""
+
+#. Id: 9166-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9166-Dialogue.mod:0
+msgid "Are you /CRAZY/? That's suicide"
+msgstr ""
+
+#. Id: 9740-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9740-Dialogue.mod:0
+msgid "Shh, keep your voice down, will you?"
+msgstr ""
+
+#. Id: 57306-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9740-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 57306-Dialogue.mod:0
+msgid "Forget I said anyting... bystander."
+msgstr ""
+
+#. Id: 18873-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8890-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 18873-Dialogue.mod:0
+msgid "So if I go to the slaver's outpost, you'll join me for free?"
+msgstr ""
+
+#. Id: 18874-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 18874-Dialogue.mod:0
+msgid "Shh, keep your voice down, somebody might hear us... I'll join you for free. And you'll join me in the fight against slavery?"
+msgstr ""
+
+#. Id: 9734-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9734-Dialogue.mod:0
+msgid "I've got other stuff to do, but we can beat on some slavers if you want"
+msgstr ""
+
+#. Id: 9738-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9738-Dialogue.mod:0
+msgid "Hm. Okay, we'll see how it goes"
+msgstr ""
+
+#. Id: 9735-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9735-Dialogue.mod:0
+msgid "Well, not really, I just want a free worker"
+msgstr ""
+
+#. Id: 9736-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 9736-Dialogue.mod:0
+msgid "Sounds like slaver talk to me..."
+msgstr ""
+
+#. Id: 20263-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 20263-Dialogue.mod:0
+msgid "Just forget it. I've said too much anyway."
+msgstr ""
+
+#. Id: 9737-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 9737-Dialogue.mod:0
+msgid "Of course I will, I fight for the oppressed. Let's do this."
+msgstr ""
+
+#. Id: 20264-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 20264-Dialogue.mod:0
+msgid "Of course not! Damn, you're gullible!"
+msgstr ""
+
+#. Id: 20266-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20265-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Revenge! (Recruit)
+#: 20266-Dialogue.mod:0
+msgid "Just, get the hell out of here. I've already said too much."
+msgstr ""
+
+#. Id: 20261-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Revenge! (Recruit)
+#: 20261-Dialogue.mod:0
+msgid "Slavers are scumbags. One day, they'll get their comeuppance."
+msgstr ""
+

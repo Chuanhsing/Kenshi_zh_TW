@@ -1,0 +1,54 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1531898-__May 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver bandit get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 1531899-__May 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1531898-__May 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver bandit get up fight
+#. Id: 1531900-__May 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1531899-__May 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver bandit get up fight
+#. -- Condition: Who: ME, Condition: IS_KO=0, Tag: -1
+#: 1531898-__May?18.mod:0 1531899-__May?18.mod:0 1531900-__May?18.mod:0
+msgid "Erase..."
+msgstr ""
+
+#. Id: 1531898-__May 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver bandit get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 1531898-__May?18.mod:1
+msgid "Erase enemies of the hive!"
+msgstr ""
+
+#. Id: 1531898-__May 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver bandit get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 1531898-__May?18.mod:2
+msgid "Erase... enemies..."
+msgstr ""
+

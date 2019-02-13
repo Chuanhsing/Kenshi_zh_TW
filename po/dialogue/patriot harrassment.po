@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42297-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42299-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (42298-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42300-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (42299-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 64900-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42300-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42301-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (64900-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 64897-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42298-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 64899-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64898-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: patriot harrassment
+#. Id: 42308-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42307-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: patriot see neutral
+#: 42297-gamedata.base:1 42299-gamedata.base:0 42300-gamedata.base:0 64900-rebirth.mod:0 42301-gamedata.base:0 64897-rebirth.mod:0 64899-rebirth.mod:0 42308-rebirth.mod:0
+msgid "/RACISTNAME/!"
+msgstr ""
+
+#. Id: 42298-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (42297-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#: 42298-gamedata.base:0
+msgid "/OI/, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42299-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (42298-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#: 42299-gamedata.base:1
+msgid "We're gonna /FUCKVERB/ you up, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42302-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (42301-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: ME, Condition: WITHIN_TOWN_WALLS=0, Tag: -1
+#: 42302-gamedata.base:0
+msgid "Git the /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42302-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (42301-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: ME, Condition: WITHIN_TOWN_WALLS=0, Tag: -1
+#: 42302-gamedata.base:1
+msgid "Get 'im!"
+msgstr ""
+
+#. Id: 42302-gamedata.base
+#. -- Index: 6.2
+#. -- Parent line: 5 (42301-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: ME, Condition: WITHIN_TOWN_WALLS=0, Tag: -1
+#: 42302-gamedata.base:2
+msgid "/FUCKVERB/ 'em up!"
+msgstr ""
+

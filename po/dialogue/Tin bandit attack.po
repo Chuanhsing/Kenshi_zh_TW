@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#: 63006-Dialogue.mod:0
+msgid "Enemy! Exterminate!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#: 63006-Dialogue.mod:1
+msgid "Enemy! Destroy!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:2 42601-Dialogue.mod:0
+msgid "Bow before the Skele-tons!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:3 42601-Dialogue.mod:1
+msgid "Submit before the Skele-tons!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:4 42601-Dialogue.mod:2
+msgid "The robots are the masters of all!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:5 42601-Dialogue.mod:3
+msgid "The Skele-tons are the master race!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#: 63006-Dialogue.mod:6
+msgid "Exterminate! Exterminate all enemies!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#: 63006-Dialogue.mod:7
+msgid "Destroy! Destroy all enemies!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:8 42601-Dialogue.mod:6
+msgid "Great Stobe's war rages eternal in the Skele-ton!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 63196-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit attack enemy
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:9 63196-Dialogue.mod:0 42601-Dialogue.mod:7
+msgid "A /RACENAME/ sacrifice for Great Stobe!"
+msgstr ""
+
+#. Id: 63006-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin bandit attack
+#. Id: 42601-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can spot human attack --UNFINISHED-- (add masked branch)
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 63006-Dialogue.mod:10 42601-Dialogue.mod:8
+msgid "In memory of Great Stobe we fight!"
+msgstr ""
+

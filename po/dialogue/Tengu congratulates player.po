@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59032-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu congratulates player
+#: 59032-Dialogue.mod:0
+msgid "You! Aren't you that, uh, /BOY/... the one who took down Tinfist?"
+msgstr ""
+
+#. Id: 59033-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59032-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu congratulates player
+#: 59033-Dialogue.mod:0
+msgid "I guess congratulations are in order..."
+msgstr ""
+
+#. Id: 59034-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59033-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu congratulates player
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 59034-Dialogue.mod:0
+msgid "Men: Congratulate the /BOY/."
+msgstr ""
+
+#. Id: 59052-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59033-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu congratulates player
+#: 59052-Dialogue.mod:0
+msgid "Men: Congratulate the people."
+msgstr ""
+

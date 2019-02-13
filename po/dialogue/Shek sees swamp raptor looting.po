@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44105-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#: 44105-Dialogue.mod:4
+msgid "I'll deal with you, vermin."
+msgstr ""
+
+#. Id: 44105-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#: 44105-Dialogue.mod:6
+msgid "Just vermin. No trouble."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:0
+msgid "Stay away from those crops, vermin..."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:1
+msgid "Touch those crops, you die, vermin."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:2
+msgid "This is a vermin-free farm. And it stays that way."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:3
+msgid "Be gone, vermin."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:4
+msgid "Not on my land, vermin."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:5
+msgid "You step on my soil, you die, vermin."
+msgstr ""
+
+#. Id: 44106-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees swamp raptor looting
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 44106-Dialogue.mod:6
+msgid "Don't touch those crops, vermin."
+msgstr ""
+

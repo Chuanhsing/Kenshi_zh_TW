@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48542-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed grim
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 48542-Dialogue.mod:0
+msgid "... You're freeing me now?... Just like that?"
+msgstr ""
+
+#. Id: 48541-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48542-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed grim
+#: 48541-Dialogue.mod:0
+msgid "... Crazy fucking freak!"
+msgstr ""
+
+#. Id: 48547-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed grim
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 48547-Dialogue.mod:0
+msgid "Nice work. Although I could've escaped without your help, ya know."
+msgstr ""
+
+#. Id: 48549-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48547-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed grim
+#: 48549-Dialogue.mod:0
+msgid "Anyway, no time for talkin'. I'm outta here."
+msgstr ""
+
+#. Id: 48550-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48549-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed grim
+#: 48550-Dialogue.mod:0
+msgid "Be a dear and distract the enemy for me, eh?"
+msgstr ""
+

@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57046-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>80, Tag: -1
+#: 57046-Dialogue.mod:0
+msgid "You've fought by my comrade's side long enough, /YOURNAME/. Reverence. To the Shek, you are no longer an outsider... You are our kin. "
+msgstr ""
+
+#. Id: 57234-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57046-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#: 57234-Dialogue.mod:0
+msgid "This day, I name you a warrior of Kral, an honorary Invincible..."
+msgstr ""
+
+#. Id: 57235-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#: 57235-Dialogue.mod:0
+msgid "/YOURNAME/ The Battle Born!"
+msgstr ""
+
+#. Id: 57236-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57235-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#: 57236-Dialogue.mod:0
+msgid "Honor to /YOURNAME/!"
+msgstr ""
+
+#. Id: 57399-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>35, Tag: -1
+#: 57399-Dialogue.mod:0
+msgid "/YOURNAME/, you did what I could not... The Phoenix mutt is finally dead by your sword. Reverence. To the Shek, you are no longer an outsider... You are our kin."
+msgstr ""
+
+#. Id: 57400-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>35, Tag: -1
+#: 57400-Dialogue.mod:0
+msgid "/YOURNAME/, you did what no Shek ever could... The Bugmaster is finally dead by your sword. Reverence. To the Shek, you are no longer an outsider... You are our kin."
+msgstr ""
+
+#. Id: 58521-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>35, Tag: -1
+#: 58521-Dialogue.mod:0
+msgid "/YOURNAME/, you did what I could not... The Phoenix mutt is finally defeated by your sword. Reverence. To the Shek, you are no longer an outsider... You are our kin."
+msgstr ""
+
+#. Id: 58524-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>35, Tag: -1
+#: 58524-Dialogue.mod:0
+msgid "/YOURNAME/, you did what no Shek ever could... The Bugmaster is finally defeated by your sword. Reverence. To the Shek, you are no longer an outsider... You are our kin."
+msgstr ""
+

@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41898-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41898-Dialogue.mod:0
+msgid "You should be careful out here. Get lots of fires and the like, know what I mean?"
+msgstr ""
+
+#. Id: 41898-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41898-Dialogue.mod:1
+msgid "Should be careful out 'ere, settler. Get lots of wild animals and the like, know what I mean?"
+msgstr ""
+
+#. Id: 41900-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41898-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41900-Dialogue.mod:1
+msgid "Nope, I don't follow..."
+msgstr ""
+
+#. Id: 41901-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41901-Dialogue.mod:0
+msgid "I can help watch over your outpost, know what I mean? But it will cost you..."
+msgstr ""
+
+#. Id: 41902-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41901-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41902-Dialogue.mod:0
+msgid "... How much?"
+msgstr ""
+
+#. Id: 41915-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41915-Dialogue.mod:0
+msgid "3500 Cats."
+msgstr ""
+
+#. Id: 41917-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
+#. Id: 64112-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64109-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>8000, Tag: -1
+#: 41917-Dialogue.mod:0 64112-Dialogue.mod:0
+msgid "Okay, here."
+msgstr ""
+
+#. Id: 61891-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 64129-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64118-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61891-Dialogue.mod:0 64129-Dialogue.mod:0
+msgid "Pleasure doin' business with you, /BOY/."
+msgstr ""
+
+#. Id: 61892-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61891-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61892-Dialogue.mod:0
+msgid "Consider yourself 'protected'... *cough* From us..."
+msgstr ""
+
+#. Id: 61892-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (61891-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61892-Dialogue.mod:1
+msgid "Consider yourself 'protected'... "
+msgstr ""
+
+#. Id: 41920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 64113-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64109-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<8000, Tag: -1
+#: 41920-Dialogue.mod:0 64113-Dialogue.mod:0
+msgid "I don't have that much!"
+msgstr ""
+
+#. Id: 41923-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41920-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41923-Dialogue.mod:0
+msgid "Alright, we can work out a nice discount, I don't much like gettin' my hands dirty if I can avoid it. But you'll owe me for it. 3000 Cats."
+msgstr ""
+
+#. Id: 61893-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 61893-Dialogue.mod:0
+msgid "Okay, here"
+msgstr ""
+
+#. Id: 61894-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 64132-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64131-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61894-Dialogue.mod:0 64132-Dialogue.mod:0
+msgid "I don't have that much either..."
+msgstr ""
+
+#. Id: 61899-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61894-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61899-Dialogue.mod:0
+msgid "Aw, well ain't that too bad... Seems you're pretty vuln'able without Stone Rat protection."
+msgstr ""
+
+#. Id: 61900-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (61899-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61900-Dialogue.mod:1
+msgid "Tear the place up!"
+msgstr ""
+
+#. Id: 64135-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (61900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64135-Dialogue.mod:1
+msgid "Shoulda just paid the Cats, /INSULT//S/!"
+msgstr ""
+
+#. Id: 41919-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 41919-Dialogue.mod:0
+msgid "2500 Cats."
+msgstr ""
+
+#. Id: 61907-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 64117-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61907-Dialogue.mod:0 64117-Dialogue.mod:0
+msgid "Since I'm in a good mood, it's a deal."
+msgstr ""
+
+#. Id: 61908-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61908-Dialogue.mod:0
+msgid "Don't think the Stone Rats 're worth more than that, eh? Well, ain't that too bad for you... Guess you don't want our protection."
+msgstr ""
+
+#. Id: 64109-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>2, Tag: -1
+#: 64109-Dialogue.mod:0
+msgid "8000 Cats."
+msgstr ""
+
+#. Id: 64109-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (41902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>2, Tag: -1
+#: 64109-Dialogue.mod:1
+msgid "8000. "
+msgstr ""
+
+#. Id: 64131-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64113-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64131-Dialogue.mod:0
+msgid "Alright, we can work out a nice discount, I don't much like gettin' my hands dirty if I can avoid it. But you'll owe me for it. 6000 Cats."
+msgstr ""
+
+#. Id: 64114-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64109-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 64114-Dialogue.mod:0
+msgid "5000 Cats."
+msgstr ""
+
+#. Id: 64116-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64116-Dialogue.mod:0
+msgid "6000."
+msgstr ""
+
+#. Id: 64124-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64116-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
+#: 64124-Dialogue.mod:0
+msgid "I can't afford that much."
+msgstr ""
+
+#. Id: 64126-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64124-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64126-Dialogue.mod:0
+msgid "... Fine. 5000. Give it here."
+msgstr ""
+
+#. Id: 41903-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41901-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41903-Dialogue.mod:0
+msgid "Are you threatening me?"
+msgstr ""
+
+#. Id: 41924-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41924-Dialogue.mod:0
+msgid "Nooooo, 'course not... Can't really speak for the wolves though... or the swamp bandits... The Stone Rats can protect you against them though, for a price."
+msgstr ""
+
+#. Id: 61889-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61889-Dialogue.mod:0
+msgid "I can handle them myself. Now leave, I'm busy."
+msgstr ""
+
+#. Id: 61912-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61912-Dialogue.mod:0
+msgid "Thanks for the warning, but /IWE/ don't need your help."
+msgstr ""
+
+#. Id: 41904-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41901-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41904-Dialogue.mod:0
+msgid "Get lost, waster! "
+msgstr ""
+
+#. Id: 41905-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41905-Dialogue.mod:0
+msgid "Well, if that's the way you wanna play..."
+msgstr ""
+
+#. Id: 41916-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41901-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41916-Dialogue.mod:0
+msgid "You can? Great!"
+msgstr ""
+
+#. Id: 61888-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61888-Dialogue.mod:0
+msgid "'Course. So, pay up for it. 3500 Cats."
+msgstr ""
+
+#. Id: 41911-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41898-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41911-Dialogue.mod:0
+msgid "Really? Thanks for the warning."
+msgstr ""
+
+#. Id: 41912-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41898-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 41912-Dialogue.mod:0
+msgid "Spit it out already, what are you talking about?"
+msgstr ""
+
+#. Id: 41914-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 41914-Dialogue.mod:0
+msgid "Pay up a cut of your earnings or we'll smash your outpost up. Or we'll just smash your skulls up. Depends on my mood."
+msgstr ""
+
+#. Id: 61904-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61904-Dialogue.mod:0
+msgid "... You really wanna try that, be my guest (Draw weapon)"
+msgstr ""
+
+#. Id: 61904-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (41914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61904-Dialogue.mod:2
+msgid "And maybe I'll let you live. Depends on my mood."
+msgstr ""
+
+#. Id: 61885-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41898-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61885-Dialogue.mod:0
+msgid "Same to you. Accidents happen within these walls. Know what I mean?"
+msgstr ""
+
+#. Id: 61886-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61886-Dialogue.mod:0
+msgid "[They scratch their head]... You tryin' a be smart with me, /BOY/? We're the ones makin' the threats here! But if you won't play nice and pay the protection fee, that makes your 'lil town ripe for raidin'..."
+msgstr ""
+
+#. Id: 61915-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61915-Dialogue.mod:0
+msgid "Nobody threatens the Stone Rats..."
+msgstr ""
+
+#. Id: 64138-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64138-Dialogue.mod:0
+msgid "/CUT/ /EM/!"
+msgstr ""
+
+#. Id: 64138-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (61915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64138-Dialogue.mod:1
+msgid "Crush /EM/!"
+msgstr ""
+
+#. Id: 64138-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (61915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 64138-Dialogue.mod:2
+msgid "Make /EM/ hurt!"
+msgstr ""
+
+#. Id: 61882-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61882-Dialogue.mod:0
+msgid "Got some settlers getting cozy around here I see. Alright, protection money, cough it up, you're on Stone Rat territory now."
+msgstr ""
+
+#. Id: 61884-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61884-Dialogue.mod:0
+msgid "PROTECTION MONEY. Do I gotta spell it out for ya? You wanna stay safe out here, you gotta keep your local swamp gang happy. And I ain't finding your play dumb attitude cute."
+msgstr ""
+
+#. Id: 61884-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61884-Dialogue.mod:1
+msgid "You wanna carry on plodding along with unbroken legs in your little protective outpost bubble? Then pay up. Keep your local swamp gang happy."
+msgstr ""
+
+#. Id: 61884-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61884-Dialogue.mod:2
+msgid "PROTECTION MONEY. Do I gotta spell it out for ya? My guys've got a hobby ya see, they like breakin' legs and crackin' skulls... You wanna stay safe out here, you gotta give us some pocket money, keep us busy at the casino."
+msgstr ""
+
+#. Id: 61913-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61882-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61913-Dialogue.mod:0
+msgid "I don't much like your tone, thug."
+msgstr ""
+
+#. Id: 61914-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#: 61914-Dialogue.mod:0
+msgid "An' you won't like my boot in your face if you keep backtalkin' me either, /RUNT/! If you ain't a friend of the Stone Rats, that makes you target practise... So pay up, buy our friendship with Cats. 3500."
+msgstr ""
+
+#. Id: 61917-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61882-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 61917-Dialogue.mod:0
+msgid "It's MY territory now, rat/MAN/... (Draw sword)"
+msgstr ""
+

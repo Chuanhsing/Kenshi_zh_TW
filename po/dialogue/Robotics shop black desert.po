@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95814-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 95814-Dialogue.mod:0
+msgid "A human?... It's not everyday I get a human customer... but, sure, I've got plenty of parts that should fit you fine indeed... Did you travel all the way here just for my expertise?... Gosh... I'm flattered... I don't blame you though, human, flesh is good for nothing but rotting... Where was I going with this?"
+msgstr ""
+
+#. Id: 95813-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#: 95813-Dialogue.mod:0
+msgid "... Right that was it, guess you're looking to buy some parts? Or maybe you're looking for some repairs? I can fix anything, trust me, years of experience. Everybody thinks they're a robotics expert these days I bet, but they've got nothing on the robotics capital of the land, believe you me... You were right to pilgrimage hundreds of miles just to seek me out, I really am good at this stuff... Where was I going with this?"
+msgstr ""
+
+#. Id: 95816-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95813-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Robotics shop black desert
+#: 95816-Dialogue.mod:0
+msgid "I need repair."
+msgstr ""
+
+#. Id: 95819-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#: 95819-Dialogue.mod:0
+msgid "That will be 1000 Cats..."
+msgstr ""
+
+#. Id: 95820-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#: 95820-Dialogue.mod:0
+msgid "Lie on the repair bed when you're ready."
+msgstr ""
+
+#. Id: 97582-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 97582-__March?18.mod:0
+msgid "But... You have nothing to repair."
+msgstr ""
+
+#. Id: 97584-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 97584-__March?18.mod:0
+msgid "You have nothing to repair... I might have something to fit your... er... missing arm though. Take a look."
+msgstr ""
+
+#. Id: 97585-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 97585-__March?18.mod:0
+msgid "You have nothing to repair... I might have something to fit your... er... missing leg though. Take a look."
+msgstr ""
+
+#. Id: 95818-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 95818-Dialogue.mod:0
+msgid "New guy in town, I see... Well, got plenty of parts for sale, no shortage in the Black Desert City..."
+msgstr ""
+
+#. Id: 95827-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#: 95827-Dialogue.mod:0
+msgid "What can I get you today?"
+msgstr ""
+
+#. Id: 95837-__december17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95837-__december17.mod:1
+msgid "Leave, thief."
+msgstr ""
+
+#. Id: 95837-__december17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95837-__december17.mod:2
+msgid "Think I don't remember a thief? Leave."
+msgstr ""
+
+#. Id: 95837-__december17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics shop black desert
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95837-__december17.mod:3
+msgid "I never forget the face of a thief."
+msgstr ""
+

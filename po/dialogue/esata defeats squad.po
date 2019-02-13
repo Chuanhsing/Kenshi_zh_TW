@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43130-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#: 43130-Dialogue.mod:0
+msgid "I am the undefeated. Nobody can win against me."
+msgstr ""
+
+#. Id: 43130-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#: 43130-Dialogue.mod:1
+msgid "To me, you're nothing more than a worm."
+msgstr ""
+
+#. Id: 43130-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#: 43130-Dialogue.mod:2
+msgid "Attacking me is futile. I'm unbeatable."
+msgstr ""
+
+#. Id: 43130-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#: 43130-Dialogue.mod:3
+msgid "Come back when you've got the skills."
+msgstr ""
+
+#. Id: 43130-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#: 43130-Dialogue.mod:4
+msgid "Unchallenging. Where are all the worthy warriors?"
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:0
+msgid "Foolishness."
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:1
+msgid "Somebody do something about this mess."
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:2
+msgid "Take /HIM/ away, guards. Do what you will with /HIM/."
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:3
+msgid "A waste of my skills."
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:4
+msgid "Fool. Undeserving of my blade."
+msgstr ""
+
+#. Id: 43131-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata defeats squad
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 43131-Dialogue.mod:5
+msgid "Well that was a dull fight. Somebody clean this up."
+msgstr ""
+

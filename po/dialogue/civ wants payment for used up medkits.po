@@ -1,0 +1,672 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4692-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4692-dialogue-02.mod:0
+msgid "/OI/. Pay up."
+msgstr ""
+
+#. Id: 4692-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4692-dialogue-02.mod:1
+msgid "Don't think I did that for free."
+msgstr ""
+
+#. Id: 4692-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4692-dialogue-02.mod:2
+msgid "You're paying for those."
+msgstr ""
+
+#. Id: 4692-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4692-dialogue-02.mod:3
+msgid "All done. Now pay me."
+msgstr ""
+
+#. Id: 4692-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4692-dialogue-02.mod:4
+msgid "/OI/. Those medkits had a price."
+msgstr ""
+
+#. Id: 4791-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#. Id: 64103-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (64102-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 4791-dialogue-02.mod:0 64103-Dialogue.mod:0
+msgid "Guess not."
+msgstr ""
+
+#. Id: 4791-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 4791-dialogue-02.mod:1
+msgid "Didn't think so."
+msgstr ""
+
+#. Id: 4791-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 4791-dialogue-02.mod:2
+msgid "Hah. My gut was right."
+msgstr ""
+
+#. Id: 4802-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4791-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4802-dialogue-02.mod:0
+msgid "/CHEAP/ /BASTARD/."
+msgstr ""
+
+#. Id: 4803-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4803-dialogue-02.mod:0
+msgid "Come on."
+msgstr ""
+
+#. Id: 4803-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4803-dialogue-02.mod:1
+msgid "I'm not made of coin, here."
+msgstr ""
+
+#. Id: 4803-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4692-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4803-dialogue-02.mod:2
+msgid "I don't do charity work."
+msgstr ""
+
+#. Id: 4805-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4805-dialogue-02.mod:0
+msgid "You have money, don't you?"
+msgstr ""
+
+#. Id: 4805-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4805-dialogue-02.mod:1
+msgid "Please tell me you're good for it."
+msgstr ""
+
+#. Id: 4805-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4805-dialogue-02.mod:2
+msgid "You don't look broke, so..."
+msgstr ""
+
+#. Id: 4806-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4805-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4806-dialogue-02.mod:0
+msgid "Couple hundred /CATS/?"
+msgstr ""
+
+#. Id: 4806-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4805-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4806-dialogue-02.mod:1
+msgid "Say, 200 /CATS/?"
+msgstr ""
+
+#. Id: 4806-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4805-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4806-dialogue-02.mod:2
+msgid "Two hundred ought to do."
+msgstr ""
+
+#. Id: 4811-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4806-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4811-dialogue-02.mod:0
+msgid "Well?"
+msgstr ""
+
+#. Id: 4811-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4806-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4811-dialogue-02.mod:1
+msgid "Anything?"
+msgstr ""
+
+#. Id: 4811-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (4806-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4811-dialogue-02.mod:2
+msgid "What do you say?"
+msgstr ""
+
+#. Id: 4812-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4811-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4812-dialogue-02.mod:0
+msgid "Anything at all?"
+msgstr ""
+
+#. Id: 4812-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4811-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4812-dialogue-02.mod:1
+msgid "How about half that?"
+msgstr ""
+
+#. Id: 4812-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4811-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4812-dialogue-02.mod:2
+msgid "Even just a few coins?"
+msgstr ""
+
+#. Id: 4813-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4812-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4813-dialogue-02.mod:0
+msgid "Just gonna keep quiet?"
+msgstr ""
+
+#. Id: 4813-dialogue-02.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (4812-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4813-dialogue-02.mod:1
+msgid "You can understand me, can't you?"
+msgstr ""
+
+#. Id: 4813-dialogue-02.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (4812-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4813-dialogue-02.mod:2
+msgid "I'm not being unreasonable here."
+msgstr ""
+
+#. Id: 4814-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4813-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4814-dialogue-02.mod:0
+msgid "Ugh. Great."
+msgstr ""
+
+#. Id: 4814-dialogue-02.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (4813-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4814-dialogue-02.mod:1
+msgid "Fucking fantastic."
+msgstr ""
+
+#. Id: 4814-dialogue-02.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (4813-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4814-dialogue-02.mod:2
+msgid "Goddamn it."
+msgstr ""
+
+#. Id: 4815-dialogue-02.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (4814-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4815-dialogue-02.mod:0
+msgid "Another damn bum."
+msgstr ""
+
+#. Id: 4815-dialogue-02.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (4814-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4815-dialogue-02.mod:1
+msgid "Sack of shit."
+msgstr ""
+
+#. Id: 4816-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#: 4816-dialogue-02.mod:0
+msgid "Didn't ask you to do that."
+msgstr ""
+
+#. Id: 4816-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#: 4816-dialogue-02.mod:1
+msgid "You didn't have to help me."
+msgstr ""
+
+#. Id: 4816-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4803-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#: 4816-dialogue-02.mod:2
+msgid "Did I ask for your medkits?"
+msgstr ""
+
+#. Id: 4817-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4816-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4817-dialogue-02.mod:0
+msgid "You'd rather I left you bleeding?"
+msgstr ""
+
+#. Id: 4817-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4816-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4817-dialogue-02.mod:1
+msgid "Didn't have a choice, did I."
+msgstr ""
+
+#. Id: 4817-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4816-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4817-dialogue-02.mod:2
+msgid "Yeah, well, I did it and here we are."
+msgstr ""
+
+#. Id: 4818-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4817-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ wants payment for used up medkits
+#: 4818-dialogue-02.mod:0
+msgid "Should've just minded your own business."
+msgstr ""
+
+#. Id: 4818-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4817-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ wants payment for used up medkits
+#: 4818-dialogue-02.mod:1
+msgid "Should've left me alone."
+msgstr ""
+
+#. Id: 4821-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4820-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4821-dialogue-02.mod:0
+msgid "I hope someone'll /THREAT_ACTION/ your /BODYPART/."
+msgstr ""
+
+#. Id: 4781-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#: 4781-dialogue-02.mod:0
+msgid "Good. Now where's my money?"
+msgstr ""
+
+#. Id: 4782-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4781-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. Id: 3855-gamedata.base
+#. -- Index: 10.0
+#. -- Parent line: 9 (3854-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 4690-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#: 4782-dialogue-02.mod:0 3855-gamedata.base:0 4690-dialogue-02.mod:0
+msgid "/OI/."
+msgstr ""
+
+#. Id: 4783-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4782-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4783-dialogue-02.mod:0
+msgid "Where's my money?"
+msgstr ""
+
+#. Id: 4783-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4782-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4783-dialogue-02.mod:1
+msgid "Where is it?"
+msgstr ""
+
+#. Id: 4784-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4783-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4784-dialogue-02.mod:0
+msgid "I said, where's my /FUCKING/ money?"
+msgstr ""
+
+#. Id: 4786-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4786-dialogue-02.mod:0
+msgid "/OI/! You owe me!"
+msgstr ""
+
+#. Id: 4786-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4786-dialogue-02.mod:1
+msgid "You gonna square away your debt or what?"
+msgstr ""
+
+#. Id: 4787-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4786-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4787-dialogue-02.mod:0
+msgid "You think medkits are free? Huh?!"
+msgstr ""
+
+#. Id: 4787-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4786-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4787-dialogue-02.mod:1
+msgid "Those medkits cost something!"
+msgstr ""
+
+#. Id: 4787-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4786-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4787-dialogue-02.mod:2
+msgid "I needed those medkits, too!"
+msgstr ""
+
+#. Id: 4788-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4787-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4788-dialogue-02.mod:0
+msgid "You think I'm some idiot just giving the damn things away?!"
+msgstr ""
+
+#. Id: 4788-dialogue-02.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (4787-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4788-dialogue-02.mod:1
+msgid "It's called 'give and take', you /INSULT/!"
+msgstr ""
+
+#. Id: 4797-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4788-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4797-dialogue-02.mod:0
+msgid "Fuck that! You're dead!"
+msgstr ""
+
+#. Id: 4789-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4787-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4789-dialogue-02.mod:0
+msgid "Unbelievable."
+msgstr ""
+
+#. Id: 4789-dialogue-02.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (4787-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4789-dialogue-02.mod:1
+msgid "I can't believe this shit."
+msgstr ""
+
+#. Id: 4790-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4789-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4790-dialogue-02.mod:0
+msgid "People these days..."
+msgstr ""
+
+#. Id: 4790-dialogue-02.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (4789-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4790-dialogue-02.mod:1
+msgid "Can't trust anyone anymore."
+msgstr ""
+
+#. Id: 4790-dialogue-02.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (4789-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4790-dialogue-02.mod:2
+msgid "Not a shred of decency."
+msgstr ""
+
+#. Id: 4808-dialogue-02.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (4807-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4808-dialogue-02.mod:0
+msgid "Can you believe this shit?"
+msgstr ""
+
+#. Id: 4809-dialogue-02.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (4808-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: civ wants payment for used up medkits
+#: 4809-dialogue-02.mod:0
+msgid "You should've known better."
+msgstr ""
+
+#. Id: 4809-dialogue-02.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (4808-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: civ wants payment for used up medkits
+#: 4809-dialogue-02.mod:1
+msgid "What'd you expect?"
+msgstr ""
+
+#. Id: 4792-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 4792-dialogue-02.mod:0
+msgid "You've got to be kidding me."
+msgstr ""
+
+#. Id: 4792-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 4792-dialogue-02.mod:1
+msgid "Are you shitting me."
+msgstr ""
+
+#. Id: 4792-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 4792-dialogue-02.mod:2
+msgid "You're joking."
+msgstr ""
+
+#. Id: 4794-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 4794-dialogue-02.mod:0
+msgid "Are you seriously running away?!"
+msgstr ""
+
+#. Id: 4794-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4784-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 4794-dialogue-02.mod:1
+msgid "You really trying to get away?!"
+msgstr ""
+
+#. Id: 4796-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4794-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 5252-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#: 4796-dialogue-02.mod:0 44620-Dialogue.mod:4 5252-gamedata.base:2
+msgid "Get back here!"
+msgstr ""
+
+#. Id: 4796-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4794-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 4796-dialogue-02.mod:2
+msgid "Come back!"
+msgstr ""
+

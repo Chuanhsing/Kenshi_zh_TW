@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40789-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 41488-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest sees robot/ beast
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 40789-Dialogue.mod:4 41488-Dialogue.mod:4
+msgid "Darkness from the abyss!"
+msgstr ""
+
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40790-Dialogue.mod:0
+msgid "You won't escape Okran's purging!"
+msgstr ""
+
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40790-Dialogue.mod:6
+msgid "You will not evade my sword, by Okran's will!"
+msgstr ""
+
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40791-Dialogue.mod:0
+msgid "The agents of darkness must be burned!"
+msgstr ""
+
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40791-Dialogue.mod:2
+msgid "The Skeletons will not prevail!"
+msgstr ""
+
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40791-Dialogue.mod:3
+msgid "Your reign of darkness must be stopped!"
+msgstr ""
+
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40791-Dialogue.mod:4
+msgid "Burn away all the darkness! Destroy /HIM/!"
+msgstr ""
+
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40791-Dialogue.mod:5
+msgid "Burn away the darkness! Burn /HIM/ in flame!"
+msgstr ""
+
+#. Id: 40792-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 40792-Dialogue.mod:1
+msgid "/BURNHIM/, /BURNHIM/!"
+msgstr ""
+
+#. Id: 41132-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41132-Dialogue.mod:0
+msgid "You!... This time I'll make sure you don't survive!"
+msgstr ""
+
+#. Id: 41132-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41132-Dialogue.mod:1
+msgid "Still alive?!.. I won't let you live this time!"
+msgstr ""
+
+#. Id: 41132-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41132-Dialogue.mod:2
+msgid "You survived?!... I failed Okran... This time you can't survive..."
+msgstr ""
+
+#. Id: 41134-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41134-Dialogue.mod:0
+msgid "Defeated by a Skeleton.. You'll burn for this!"
+msgstr ""
+
+#. Id: 41134-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41134-Dialogue.mod:1
+msgid "I won't be beaten by a Skeleton... I'll destroy you..."
+msgstr ""
+
+#. Id: 41134-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41134-Dialogue.mod:2
+msgid "This time I won't be defeated"
+msgstr ""
+

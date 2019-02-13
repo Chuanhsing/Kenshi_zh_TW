@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65915-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab town recruit
+#: 65915-Dialogue.mod:0
+msgid "[Her eyes widen excitedly]... Do you know what I love more than anything in all the land?"
+msgstr ""
+
+#. Id: 65916-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#: 65916-Dialogue.mod:0
+msgid "*sigh*... crabs?"
+msgstr ""
+
+#. Id: 65923-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab town recruit
+#: 65923-Dialogue.mod:0
+msgid "Yeah, I love 'em! The way they smell like old boots, the way they gurgle when you tickle their eye stalks... *sigh*..."
+msgstr ""
+
+#. Id: 65927-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab town recruit
+#: 65927-Dialogue.mod:0
+msgid "But enough about crabs. Need a merc? I'm looking for work, I charge 6000 Cats..."
+msgstr ""
+
+#. Id: 65909-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>6000, Tag: -1
+#: 65909-Dialogue.mod:0
+msgid "Okay, you're hired."
+msgstr ""
+
+#. Id: 65935-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65910-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab town recruit
+#: 65935-Dialogue.mod:0
+msgid "I'll be here if you change your mind!"
+msgstr ""
+
+#. Id: 65924-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab town recruit
+#: 65924-Dialogue.mod:0
+msgid "...Crabs!"
+msgstr ""
+
+#. Id: 65917-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#: 65917-Dialogue.mod:0
+msgid "Gristleflaps?"
+msgstr ""
+

@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:0
+msgid "/IDIOT/! I can see what you're doing!"
+msgstr ""
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:1
+msgid "You serious?! /WTF/ do you think you're doing?"
+msgstr ""
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:2
+msgid "Are you THAT /DUMB/?! I see what you're doing!"
+msgstr ""
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:3
+msgid "Hey /IDIOT/! Leave it!"
+msgstr ""
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:4
+msgid "Hey /IDIOT/! Don't touch that!"
+msgstr ""
+
+#. Id: 12770-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12770-Dialogue?(11)?(2).mod:5
+msgid "/IDIOT/! You dare touch that!"
+msgstr ""
+
+#. Id: 12773-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12770-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12773-Dialogue?(11)?(2).mod:0
+msgid "/GETLOST/! Go on!"
+msgstr ""
+
+#. Id: 12773-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12770-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12773-Dialogue?(11)?(2).mod:1
+msgid "Psss! /GETLOST/, get out of here!"
+msgstr ""
+
+#. Id: 12773-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12770-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12773-Dialogue?(11)?(2).mod:2
+msgid "Get out of it! Go on, /GETLOST/!"
+msgstr ""
+
+#. Id: 12773-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12770-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 12779-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 14798-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12484-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12864-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. Id: 52886-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian using equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 45721-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45717-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon witness thief
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 12773-Dialogue?(11)?(2).mod:3 12779-Dialogue?(11)?(2).mod:2 14798-Dialogue.mod:1 12864-Dialogue?(11)?(2).mod:1 52886-Dialogue.mod:1 15268-Dialogue.mod:2 45721-Dialogue.mod:1 55111-Dialogue.mod:5
+msgid "/GETLOST/!"
+msgstr ""
+
+#. Id: 12773-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12770-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12773-Dialogue?(11)?(2).mod:4
+msgid "I won't warn you twice, /RAT/"
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:0
+msgid "I see what you're doing. Have some shame damnit"
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:1
+msgid "Don't touch that. Shameless /RAT/..."
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:2
+msgid "Get away from there. Shameless /RAT/..."
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:3
+msgid "Don't touch that. Disgraceful /RAT/..."
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:4
+msgid "Get away from there. Disgraceful /RAT/..."
+msgstr ""
+
+#. Id: 12776-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12776-Dialogue?(11)?(2).mod:5
+msgid "I see what you're doing, /RAT/"
+msgstr ""
+
+#. Id: 12777-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12776-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12777-Dialogue?(11)?(2).mod:0
+msgid "Get out of here, go!"
+msgstr ""
+
+#. Id: 12777-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12776-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12777-Dialogue?(11)?(2).mod:1
+msgid "/GETLOST/, go!"
+msgstr ""
+
+#. Id: 12777-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12776-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12777-Dialogue?(11)?(2).mod:2
+msgid "Leave... go!"
+msgstr ""
+
+#. Id: 12779-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12779-Dialogue?(11)?(2).mod:0
+msgid "Hey! Get out of here!"
+msgstr ""
+
+#. Id: 12779-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 13939-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13927-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15638-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15636-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12350-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12351-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 12779-Dialogue?(11)?(2).mod:1 13939-Escapes.mod:2 13945-Escapes.mod:7 15638-Dialogue.mod:3 12350-Dialogue?(10).mod:3
+msgid "Scram!"
+msgstr ""
+
+#. Id: 12779-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12779-Dialogue?(11)?(2).mod:3
+msgid "Get your /GODDAMN/ filthy paws off of that!"
+msgstr ""
+
+#. Id: 12780-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12779-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12780-Dialogue?(11)?(2).mod:0
+msgid "/GODDAMN/ scavenging /RAT/"
+msgstr ""
+
+#. Id: 12780-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12779-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
+#: 12780-Dialogue?(11)?(2).mod:1
+msgid "/GODDAMN/ /GREASY/ looters"
+msgstr ""
+
+#. Id: 12784-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12784-Dialogue?(11)?(2).mod:0
+msgid "Drop it, /RAT/"
+msgstr ""
+
+#. Id: 12784-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12784-Dialogue?(11)?(2).mod:1
+msgid "Leave it, /RAT/"
+msgstr ""
+
+#. Id: 12784-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12784-Dialogue?(11)?(2).mod:2
+msgid "Go scavenge somewhere else, /RAT/"
+msgstr ""
+
+#. Id: 12785-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12784-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 12785-Dialogue?(11)?(2).mod:0
+msgid "Before I /THREAT_ACTION/ your skull"
+msgstr ""
+
+#. Id: 12785-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12784-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 12785-Dialogue?(11)?(2).mod:1
+msgid "Before I stick my sword through your /BODYPART/"
+msgstr ""
+
+#. Id: 12788-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Shek or Greenlander
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12788-Dialogue?(11)?(2).mod:0 44128-Dialogue.mod:0 47388-Dialogue.mod:0
+msgid "Hey! Scram!"
+msgstr ""
+
+#. Id: 12788-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Shek or Greenlander
+#: 12788-Dialogue?(11)?(2).mod:1
+msgid "Hey! /GETLOST/!"
+msgstr ""
+
+#. Id: 12794-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12788-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 12636-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12635-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 12794-Dialogue?(11)?(2).mod:0 12636-Dialogue?(11)?(2).mod:1
+msgid "I said /GETLOST/!"
+msgstr ""
+
+#. Id: 12794-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12788-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 12794-Dialogue?(11)?(2).mod:1
+msgid "Start running before I cut you!"
+msgstr ""
+
+#. Id: 12794-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12788-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 12794-Dialogue?(11)?(2).mod:2 46446-Dialogue.mod:3
+msgid "I said scram!"
+msgstr ""
+
+#. Id: 12794-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12788-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness ally being looted
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 12794-Dialogue?(11)?(2).mod:3
+msgid "You'd better start running!"
+msgstr ""
+

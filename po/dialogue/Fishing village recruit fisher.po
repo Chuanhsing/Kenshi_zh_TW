@@ -1,0 +1,137 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50436-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#: 50436-Dialogue.mod:0
+msgid "Psst... You hiring, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50450-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50450-Dialogue.mod:0
+msgid "Maybe... But why so secretive?"
+msgstr ""
+
+#. Id: 50451-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#: 50451-Dialogue.mod:0
+msgid "Because if my brother finds out I'm leaving, he'll throw me out to the cannibals I'm sure. We took over father's fishing business when he died last year but... there just aren't enough fish to make a living these days. The business is dead, along with my sense of smell too. Lord save me from the stench of rotten fish... "
+msgstr ""
+
+#. Id: 50453-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50451-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50453-Dialogue.mod:0
+msgid "So what skills have you got?"
+msgstr ""
+
+#. Id: 50454-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#: 50454-Dialogue.mod:0
+msgid "Always been pretty good with my hands, never much of a fisherman though... Was practically piecing together blueprints before I even learnt to walk. All I need is 3500 Cats to tie up some loose ends and I'm ready to go. What do you say?"
+msgstr ""
+
+#. Id: 50452-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50454-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
+#: 50452-Dialogue.mod:0
+msgid "Sure, you can come with /MEUS/."
+msgstr ""
+
+#. Id: 50461-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#: 50461-Dialogue.mod:0
+msgid "Really? Great! You won't regret hiring me!"
+msgstr ""
+
+#. Id: 50455-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50454-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3500, Tag: -1
+#: 50455-Dialogue.mod:0
+msgid "Sorry, I can't afford it."
+msgstr ""
+
+#. Id: 50499-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#. Id: 50500-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fishing village recruit fisher
+#: 50499-Dialogue.mod:0 50500-Dialogue.mod:0
+msgid "Come back when you have the money, won't you?"
+msgstr ""
+
+#. Id: 50456-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50454-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50456-Dialogue.mod:0
+msgid "Forget it, I've no need for labourers."
+msgstr ""
+
+#. Id: 50498-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50451-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50498-Dialogue.mod:0
+msgid "Well, I'm not hiring, sorry."
+msgstr ""
+
+#. Id: 50465-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50465-Dialogue.mod:0
+msgid "I am. You seem tense, why?"
+msgstr ""
+
+#. Id: 50458-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fishing village recruit fisher
+#: 50458-Dialogue.mod:0
+msgid "No, sorry, ask someone else."
+msgstr ""
+

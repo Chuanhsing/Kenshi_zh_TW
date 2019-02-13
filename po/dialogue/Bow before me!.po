@@ -1,0 +1,949 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:0
+msgid "You /BOY2/!.. /GROVEL/ before me!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:1
+msgid "You, /DIRTY/ peasant /BOY2/! /GROVEL/ before your noble man!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:2
+msgid "Your dirtying my soil, peasant /BOY2/! Bow for my forgiveness!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:3
+msgid "You're spoiling my view with your ugliness, peasant /BOY2/! Bow for my forgiveness!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:4
+msgid "You're spoiling my walk with your horrid stench, peasant /BOY2/! I am offended! /GROVEL/ for my forgiveness!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:5
+msgid "Ew! You reek of poor! Unnacceptable! /GROVEL/ before me, /BOY2/!"
+msgstr ""
+
+#. Id: 16442-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16442-Dialogue.mod:6
+msgid "Ohhoh! You stink of poor! How repugnant! /GROVEL/ before me, peasant /BOY2/!"
+msgstr ""
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:0
+msgid "Mercy! (/GROVEL/)"
+msgstr ""
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:1
+msgid "Your grace! (/GROVEL/)"
+msgstr ""
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:2
+msgid "I'm not worthy! (/GROVEL/)"
+msgstr ""
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:3
+msgid "My Lord! (/GROVEL/)"
+msgstr ""
+
+#. Id: 16448-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16448-Dialogue.mod:4
+msgid "Have mercy! (/GROVEL/)"
+msgstr ""
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:0
+msgid "Did I tell you to speak? Your words are poor and ugly! Disgusting! Now, /GROVEL/ before me!"
+msgstr ""
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:1
+msgid "Did I tell you to speak? Your voice is hideous! How vile!... Try again! /GROVEL/!"
+msgstr ""
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:2
+msgid "/YUCK/! Such a foul tone!.. Did I say you could speak? No! Now try that again, /BOY2?!"
+msgstr ""
+
+#. Id: 16449-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16449-Dialogue.mod:3
+msgid "/YUCK/! The peasant speaks!.. Did I say you could speak? No, I didn't! Try that again, /BOY2?!"
+msgstr ""
+
+#. Id: 16447-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16447-Dialogue.mod:0
+msgid "... (/GROVEL/)"
+msgstr ""
+
+#. Id: 16447-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16447-Dialogue.mod:1
+msgid "(/GROVEL/)"
+msgstr ""
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:0
+msgid "Pathetic /PEASANT/!... Be gone, you're stinking up my space!"
+msgstr ""
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:1
+msgid "/DIRTY/ /PEASANT/!... Go!"
+msgstr ""
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:2
+msgid "/YUCK/! /DIRTY/ /BOY2/! Now, get away from me!"
+msgstr ""
+
+#. Id: 16465-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16465-Dialogue.mod:3
+msgid "Worthless /BOY2/... That is all, I am finished with you now."
+msgstr ""
+
+#. Id: 16466-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 42682-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon being healed
+#. -- Condition: My Sub-Race(s): Greenlander
+#. Id: 46453-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 16466-Dialogue.mod:0 42682-Dialogue.mod:2 46453-Dialogue.mod:0
+msgid "Urgh!"
+msgstr ""
+
+#. Id: 16466-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16466-Dialogue.mod:1
+msgid "Ew!"
+msgstr ""
+
+#. Id: 16466-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16466-Dialogue.mod:2
+msgid "/YUCK/!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:0
+msgid "Now go!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:1
+msgid "Now be off with you!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:2
+msgid "Now get out of my way!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:3
+msgid "Now move out of my way!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:4
+msgid "Now move it!"
+msgstr ""
+
+#. Id: 16467-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16467-Dialogue.mod:5
+msgid "Okay. Be gone."
+msgstr ""
+
+#. Id: 16468-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16468-Dialogue.mod:0
+msgid "/YUCK/..."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:0
+msgid "I bow to no-one."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:1
+msgid "I bow before nobody."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:2
+msgid "I bow before no man."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:3
+msgid "I will not /GROVEL/ like an animal."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:4
+msgid "No. Find another lackey."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:5
+msgid "No... I won't be treated that way."
+msgstr ""
+
+#. Id: 16450-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16450-Dialogue.mod:6
+msgid "No. Find someone else to feed your ego."
+msgstr ""
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:0
+msgid "... Excuse ME? "
+msgstr ""
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:1
+msgid "... What did you say?!"
+msgstr ""
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:2
+msgid "... What?!"
+msgstr ""
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:3
+msgid "... You'd defy ME?"
+msgstr ""
+
+#. Id: 16462-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16462-Dialogue.mod:4
+msgid "... You scorn me!"
+msgstr ""
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:0
+msgid "Guards!!! Punish /HIM/! Cut /HIM/ down"
+msgstr ""
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:1
+msgid "Guards! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:2
+msgid "I want /HIM/ punished!... Guards!!!"
+msgstr ""
+
+#. Id: 16463-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16463-Dialogue.mod:3
+msgid "Guards! Tear /HIM/ down! Make /HIM/ know REAL pain!!!"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:0
+msgid "(/PUNCH/ 'em in the chops)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:1
+msgid "(/PUNCH/ 'em in the guts)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:2
+msgid "(/PUNCH/ 'em in the eyes)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:3
+msgid "(/PUNCH/ 'em in the kisser)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:4
+msgid "(/PUNCH/ 'em in the nose)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:5
+msgid "(/PUNCH/ 'em in the neck)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:6
+msgid "(/PUNCH/ 'em in the throat)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:7
+msgid "(Slap 'em round the face)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:8
+msgid "(Slap 'em round the chops)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:9
+msgid "(Boot 'em in the groin)"
+msgstr ""
+
+#. Id: 16451-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (16442-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bow before me!
+#: 16451-Dialogue.mod:10
+msgid "(Kick 'em in the crotch)"
+msgstr ""
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:0
+msgid "AUUGHHHH!!!"
+msgstr ""
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:1
+msgid "*Gasp*!!!"
+msgstr ""
+
+#. Id: 16454-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16454-Dialogue.mod:2
+msgid "AIIIIEEEEE!!!!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:0
+msgid "WH-WHAT ARE YOU DOING?!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:1
+msgid "H- HOW DARE YOU!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:2
+msgid "Y- YOU CAN'T DO THIS!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:3
+msgid "Y- YOU CAN'T DO THIS TO ME!!!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 18611-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18610-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#: 16455-Dialogue.mod:4 18611-Dialogue.mod:1
+msgid "HOW VERY DARE YOU!"
+msgstr ""
+
+#. Id: 16455-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16455-Dialogue.mod:5
+msgid "WHAT IS THIS!!? Y- YOU SCOUNDREL!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:0
+msgid "Get /HIM/, kill /HIM/, BLEED /HIM/!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:1
+msgid "I want /HIS/ HEAD!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:2
+msgid "Bring me /HIS/ HEAD!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:3
+msgid "Kill /HIM/! Don't let /HIM/ get away! Make /HIM/ bleeeeeeed!!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:4
+msgid "I want /HIM/ DEAD!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:5
+msgid "Guards!!! I want every limb on /HIS/ body BROKEN! BROKEN!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:6
+msgid "Bleed /HIM/! Bleeeeeeed!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.7
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:7
+msgid "Guards!!! Show /HIM/ true pain! Break /HIS/ body, make him die!!! Die, die, DIE!!!"
+msgstr ""
+
+#. Id: 16457-Dialogue.mod
+#. -- Index: 4.8
+#. -- Parent line: 3 (16455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16457-Dialogue.mod:8
+msgid "DIE! DIE!!!!"
+msgstr ""
+
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95989-Dialogue.mod:0 95986-Dialogue.mod:0 95990-Dialogue.mod:0 95991-Dialogue.mod:1 95982-Dialogue.mod:0 95983-Dialogue.mod:0
+msgid "I'll make your life hell, /PEASANT/!"
+msgstr ""
+
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95989-Dialogue.mod:1 95986-Dialogue.mod:1 95990-Dialogue.mod:1 95991-Dialogue.mod:2 95982-Dialogue.mod:1 95983-Dialogue.mod:1
+msgid "YOU'LL RUE THIS DAY, DREG!"
+msgstr ""
+
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.3
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95989-Dialogue.mod:2 95986-Dialogue.mod:2 95990-Dialogue.mod:2 95991-Dialogue.mod:3 95982-Dialogue.mod:2 95983-Dialogue.mod:2
+msgid "NO-ONE CROSSES THE NOBLES AND GETS AWAY WITH IT!"
+msgstr ""
+
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.4
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95989-Dialogue.mod:3 95986-Dialogue.mod:3 95990-Dialogue.mod:3 95991-Dialogue.mod:4 95982-Dialogue.mod:3 95983-Dialogue.mod:3
+msgid "A NOBLE NEVER FORGETS!"
+msgstr ""
+
+#. Id: 95989-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (16457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#. Id: 95986-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (47715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin noble
+#. Id: 95990-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (18627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 95991-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (54895-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#. Id: 95982-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18611-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by player
+#. Id: 95983-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#: 95989-Dialogue.mod:4 95986-Dialogue.mod:4 95990-Dialogue.mod:4 95991-Dialogue.mod:0 95982-Dialogue.mod:4 95983-Dialogue.mod:4
+msgid "I'LL HAVE YOU HUNTED DOWN!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:0
+msgid "How- how is this POSSIBLE!? You can't do this to ME!!!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:1
+msgid "H- how dare you!... HOW VERY DARE YOU!!!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:2
+msgid "Th- this can't be!? You... you /DIRTY/ scoundrel!!!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:3
+msgid "Wh- what is this?! You can't do this!!!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:4
+msgid "You can't do this to me... ME! I'm your superior!!!"
+msgstr ""
+
+#. Id: 16456-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (16454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bow before me!
+#: 16456-Dialogue.mod:5
+msgid "You- your're /CRAZY/! You can't do that!!!"
+msgstr ""
+

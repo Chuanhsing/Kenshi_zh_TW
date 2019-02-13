@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15267-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 15267-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you doin'?"
+msgstr ""
+
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 15268-Dialogue.mod:0
+msgid "Back up!"
+msgstr ""
+
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 15268-Dialogue.mod:3
+msgid "Just you try runnin', /INSULT/!"
+msgstr ""
+
+#. Id: 15268-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 15268-Dialogue.mod:4
+msgid "You can't outrun me, thief!"
+msgstr ""
+
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 15269-Dialogue.mod:0
+msgid "I'll teach you not to loot from /MEUS/!"
+msgstr ""
+
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 15269-Dialogue.mod:1
+msgid "Don't fuck with /MEUS/, /IDIOT/!"
+msgstr ""
+
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 15269-Dialogue.mod:3
+msgid "Shouldn't 've tried that!"
+msgstr ""
+
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 15269-Dialogue.mod:4
+msgid "Lootin' from /MEUS/?"
+msgstr ""
+
+#. Id: 15269-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 15269-Dialogue.mod:5
+msgid "You lootin'?"
+msgstr ""
+
+#. Id: 15270-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15270-Dialogue.mod:0
+msgid "I'll stab your eyes out for that!"
+msgstr ""
+
+#. Id: 15270-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15270-Dialogue.mod:1
+msgid "I'll gut you like a fish for that!"
+msgstr ""
+
+#. Id: 15270-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15270-Dialogue.mod:2
+msgid "I'll gut you like a /DOG/ for that!"
+msgstr ""
+
+#. Id: 15270-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15270-Dialogue.mod:3
+msgid "I'll make you eat my sword for that!"
+msgstr ""
+
+#. Id: 48768-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48768-Dialogue.mod:0
+msgid "You steal from /MYFACTION/, you die!"
+msgstr ""
+
+#. Id: 48768-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48768-Dialogue.mod:2
+msgid "You cheat /MYFACTION/, you don't walk away!"
+msgstr ""
+
+#. Id: 48768-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48768-Dialogue.mod:3
+msgid "Tryin' to cheat /MYFACTION/?!"
+msgstr ""
+
+#. Id: 48781-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48781-Dialogue.mod:0
+msgid "Thief!.. Don't you know who we are?"
+msgstr ""
+
+#. Id: 48781-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48781-Dialogue.mod:1
+msgid "You don't steal from US, thief!"
+msgstr ""
+
+#. Id: 48780-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48780-Dialogue.mod:0
+msgid "We're /MYFACTION/, /INSULT/! And you're gonna die for messin' with us!"
+msgstr ""
+
+#. Id: 48780-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48780-Dialogue.mod:1
+msgid "We're /MYFACTION/... Remember it! You'll pay with blood for crossin' us!"
+msgstr ""
+
+#. Id: 48780-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48780-Dialogue.mod:2
+msgid "You're in for a /STABBIN/ for tryin' a cheat /MYFACTION/!"
+msgstr ""
+
+#. Id: 48780-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48780-Dialogue.mod:3
+msgid "I'll teach you not to steal from a Stone Rat!"
+msgstr ""
+
+#. Id: 48780-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48780-Dialogue.mod:4
+msgid "You steal from a Stone Rat, you're in for a /STABBIN/!"
+msgstr ""
+

@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50424-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50424-Dialogue.mod:0
+msgid "Here's the deal, /OUTLANDER/, I'm a treasure hunter and I got a real juicy tip on a valuable looting spot. Thing is, my squad got killed off by those blasted cannibals, so here I am recuperating in this dusty old snore fest of a village..."
+msgstr ""
+
+#. Id: 50425-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50424-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50425-Dialogue.mod:0
+msgid "Now, you look like the adventuring type, correct me if I'm wrong... So how about you pay off my bill at the Flophouse, we /TEAMUP/ and we finish what me and my squad started? We'll be rich, /OUTLANDER/, you and me!"
+msgstr ""
+
+#. Id: 50426-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50425-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#: 50426-Dialogue.mod:0
+msgid "How much is your bill?"
+msgstr ""
+
+#. Id: 50427-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50427-Dialogue.mod:0
+msgid "I need 4500 Cats."
+msgstr ""
+
+#. Id: 50434-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4500, Tag: -1
+#: 50434-Dialogue.mod:0
+msgid "Sure, I'll pay your bills. But this better be worth it."
+msgstr ""
+
+#. Id: 50439-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50439-Dialogue.mod:0
+msgid "Thanks, I'll make it worth both our while... There's a tower made of sand, as legend has it anwyay. It's located north of the painted cannibal lair, marked by a flock of birds, but it's protected by a giant beast that sleeps inside..."
+msgstr ""
+
+#. Id: 50442-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50442-Dialogue.mod:0
+msgid "It's full of lost tech from the ancients. A guy in a bar told me so."
+msgstr ""
+
+#. Id: 50501-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50501-Dialogue.mod:0
+msgid "Then come back when you can afford it. It'll be worth your investment!"
+msgstr ""
+
+#. Id: 50438-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#: 50438-Dialogue.mod:0
+msgid "Forget it, I'm not paying that."
+msgstr ""
+
+#. Id: 50502-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50502-Dialogue.mod:0
+msgid "You're missing out on a good deal, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 50428-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50425-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#: 50428-Dialogue.mod:0
+msgid "How about you just tell me what you know?"
+msgstr ""
+
+#. Id: 50431-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50431-Dialogue.mod:0
+msgid "No can do, /OUTLANDER/, can't let you beat me to my loot now, can I?"
+msgstr ""
+
+#. Id: 50432-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50431-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#: 50432-Dialogue.mod:0
+msgid "Then I'm not interested."
+msgstr ""
+
+#. Id: 50433-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50432-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher village recruit adventurer
+#: 50433-Dialogue.mod:0
+msgid "Suit yourself!"
+msgstr ""
+
+#. Id: 50429-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50425-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher village recruit adventurer
+#: 50429-Dialogue.mod:0
+msgid "I'm no treasure hunter, and I'm not interested in your tip."
+msgstr ""
+

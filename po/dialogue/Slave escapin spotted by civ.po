@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13908-Escapes.mod:0
+msgid "Slave! Guards! /HEIS/ getting away!"
+msgstr ""
+
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13908-Escapes.mod:1
+msgid "Slave's escaping! Guards, guards! Help!"
+msgstr ""
+
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13908-Escapes.mod:2
+msgid "Guards! The slave is escaping!"
+msgstr ""
+
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13908-Escapes.mod:3
+msgid "Guards! /HEIS/ making a run for it!"
+msgstr ""
+
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13908-Escapes.mod:4
+msgid "A slave's escaped!"
+msgstr ""
+
+#. Id: 16015-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16015-Dialogue.mod:0
+msgid "/TERRORIST/! /HEIS/ escaped!"
+msgstr ""
+
+#. Id: 16015-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16015-Dialogue.mod:1
+msgid "/TERRORIST/! Guards, /HEIS/ getting away!"
+msgstr ""
+
+#. Id: 16015-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16015-Dialogue.mod:2
+msgid "A /TERRORIST/ is on the loose!"
+msgstr ""
+
+#. Id: 16015-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16015-Dialogue.mod:3
+msgid "/TERRORIST/! /TERRORIST/ on the loose!"
+msgstr ""
+
+#. Id: 16015-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16015-Dialogue.mod:5
+msgid "Wha?!... Guards! Over here!"
+msgstr ""
+
+#. Id: 16017-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 16017-Dialogue.mod:2
+msgid "You're..?!"
+msgstr ""
+

@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:0
+msgid "...got to get out of here..."
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:1
+msgid "...should've been more careful..."
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#. Id: 15904-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 40833-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 18624-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 12759-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>2, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 20228-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#. Id: 5465-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 44505-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 57340-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57338-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep talk to recruit
+#. Id: 44777-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug1
+#. Id: 8325-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. Id: 14475-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: doctor shop
+#: 3312-dialogue-01.mod:2 15904-Dialogue.mod:0 40833-Dialogue.mod:0 18624-Dialogue.mod:1 12759-Dialogue?(11)?(2).mod:4 20228-Dialogue.mod:5 5465-gamedata.base:2 44505-Dialogue.mod:0 57340-rebirth.mod:0 44777-Dialogue.mod:2 8325-Dialogue.mod:0 14475-rebirth.mod:0
+msgid "What?"
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:3
+msgid "The hell are you looking at?"
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:4
+msgid "...last time I trust anyone..."
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:5
+msgid "...no good deed..."
+msgstr ""
+
+#. Id: 3312-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: My Race(s): Greenlander
+#: 3312-dialogue-01.mod:6
+msgid "...want to go home..."
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:0
+msgid "Hey. Get me out?"
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:1
+msgid "Come on. Open the lock!"
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:2
+msgid "Help me out of here."
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:3
+msgid "Psssst."
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:4
+msgid "You there. Little help?"
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:5
+msgid "Give me a hand, would you?"
+msgstr ""
+
+#. Id: 3313-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS>15, Tag: -1
+#. -- Condition: My Race(s): Greenlander
+#: 3313-dialogue-01.mod:6
+msgid "Hey now, don't just leave me!"
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:0
+msgid "Laugh it up."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#. Id: 1402-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: get lost
+#. -- Condition: Who: ME, Condition: RELATIONS<10
+#. Id: 44777-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug1
+#. Id: 41306-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 3315-dialogue-01.mod:1 1402-gamedata.base:0 44777-Dialogue.mod:10 41306-Dialogue.mod:0
+msgid "Get lost."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:2
+msgid "Go die in a fire."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#. Id: 45682-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from sundemon
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. -- Condition: My Sub-Race(s): Greenlander
+#. Id: 4820-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4818-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ wants payment for used up medkits
+#: 3315-dialogue-01.mod:3 45682-Dialogue.mod:4 4820-dialogue-02.mod:0
+msgid "Fuck you."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:4
+msgid "Go eat shit."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:5
+msgid "Bugger off!"
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#. Id: 64177-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek thug hunter
+#. Id: 64180-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek thug hunter
+#: 3315-dialogue-01.mod:6 64177-Dialogue.mod:0 64180-Dialogue.mod:0
+msgid "Keep walking."
+msgstr ""
+
+#. Id: 3315-dialogue-01.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - meets stranger
+#. -- Condition: Who: ME, Condition: RELATIONS<0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander
+#: 3315-dialogue-01.mod:7
+msgid "Watch it."
+msgstr ""
+

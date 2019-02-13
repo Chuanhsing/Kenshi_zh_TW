@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66254-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66254-Dialogue.mod:0
+msgid "/OI/, come 'ere! I owe you somethin'..."
+msgstr ""
+
+#. Id: 66255-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66255-Dialogue.mod:0
+msgid "... A sword to the face!"
+msgstr ""
+
+#. Id: 66256-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66256-Dialogue.mod:0
+msgid "Nobody knocks me out cold and gets away with it!"
+msgstr ""
+
+#. Id: 66256-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (66255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66256-Dialogue.mod:1
+msgid "Taste steel!"
+msgstr ""
+
+#. Id: 66256-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (66255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66256-Dialogue.mod:2
+msgid "I'll feed you your own /BODYPART/!"
+msgstr ""
+
+#. Id: 66256-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (66255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66256-Dialogue.mod:3
+msgid "We're far from bein' even yet, /INSULT/!"
+msgstr ""
+
+#. Id: 66257-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66257-Dialogue.mod:0
+msgid "Thought you could leave me bloody last time, eh?"
+msgstr ""
+
+#. Id: 66257-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66257-Dialogue.mod:1
+msgid "/OI/, /INSULT/! I'm still spitting teeth after our last fight..."
+msgstr ""
+
+#. Id: 66258-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66257-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66258-Dialogue.mod:0
+msgid "Time to return the favour!"
+msgstr ""
+
+#. Id: 66259-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 66259-Dialogue.mod:0
+msgid "Come back for more, eh?"
+msgstr ""
+
+#. Id: 66259-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 66259-Dialogue.mod:2
+msgid "/QUICKLAUGH/, well look who's still alive an' kickin'..."
+msgstr ""
+
+#. Id: 66260-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66260-Dialogue.mod:0
+msgid "You shoulda learned your lesson after your last /BEATING/!"
+msgstr ""
+
+#. Id: 66260-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66260-Dialogue.mod:1
+msgid "You oughtta no better than to pick a fight with ME!"
+msgstr ""
+
+#. Id: 66261-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 66261-Dialogue.mod:0
+msgid "Remember me, /INSULT/?"
+msgstr ""
+
+#. Id: 66262-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug sees player after defeat
+#: 66262-Dialogue.mod:0
+msgid "Or maybe you'd recognize me without the BROKEN NOSE!?"
+msgstr ""
+

@@ -1,0 +1,394 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19780-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19780-Dialogue.mod:0
+msgid "WHAT'S HAPPENING!?"
+msgstr ""
+
+#. Id: 19780-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19780-Dialogue.mod:1
+msgid "What are you doing, no-hive?!"
+msgstr ""
+
+#. Id: 19780-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19780-Dialogue.mod:2
+msgid "WHAT IS THIS?!"
+msgstr ""
+
+#. Id: 19780-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19780-Dialogue.mod:3
+msgid "Are you stealing, no-hive?!!"
+msgstr ""
+
+#. Id: 19780-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19780-Dialogue.mod:4
+msgid "Why are you doing that, no-hive?!!"
+msgstr ""
+
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19782-Dialogue.mod:1 19782-Dialogue.mod:6
+msgid "Stealer!"
+msgstr ""
+
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. Id: 19785-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 18129-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 19762-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 19765-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19782-Dialogue.mod:2 19785-Dialogue.mod:1 18129-Dialogue.mod:1 19762-Dialogue.mod:0 19765-Dialogue.mod:2
+msgid "They steal from us!"
+msgstr ""
+
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. Id: 19785-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 18129-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 19762-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 19765-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19782-Dialogue.mod:3 19785-Dialogue.mod:3 18129-Dialogue.mod:0 19762-Dialogue.mod:1 19765-Dialogue.mod:0
+msgid "They steal from the Hive!"
+msgstr ""
+
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19782-Dialogue.mod:4
+msgid "Stealing from the Hive! Stealing from the Queen!"
+msgstr ""
+
+#. Id: 19782-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19782-Dialogue.mod:5
+msgid "No stealing!"
+msgstr ""
+
+#. Id: 45176-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45176-Dialogue.mod:0
+msgid "Don't let the no-hive escape! Kill them!"
+msgstr ""
+
+#. Id: 45176-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45176-Dialogue.mod:1 45178-Dialogue.mod:0
+msgid "They're trying to get away! Erase them!"
+msgstr ""
+
+#. Id: 45176-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45176-Dialogue.mod:2
+msgid "No! They can't get away from us!"
+msgstr ""
+
+#. Id: 45176-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45176-Dialogue.mod:3 45178-Dialogue.mod:1
+msgid "Thief! No fair! No running away!"
+msgstr ""
+
+#. Id: 19781-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19781-Dialogue.mod:0
+msgid "Stealing!!"
+msgstr ""
+
+#. Id: 19781-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19781-Dialogue.mod:1
+msgid "What are you doing?! Gahh!"
+msgstr ""
+
+#. Id: 19781-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19781-Dialogue.mod:2
+msgid "Ngahh! Why are you doing that?!"
+msgstr ""
+
+#. Id: 19781-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#: 19781-Dialogue.mod:3
+msgid "Stealer!!"
+msgstr ""
+
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45178-Dialogue.mod:2
+msgid "Don't let them escape! Kill them!"
+msgstr ""
+
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45178-Dialogue.mod:3
+msgid "You can't escape us! You can't escape the Queen!"
+msgstr ""
+
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45178-Dialogue.mod:4
+msgid "You can't escape the hive!"
+msgstr ""
+
+#. Id: 45178-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (19781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Western Hive
+#: 45178-Dialogue.mod:5
+msgid "You steal from the hive, you die in the hive!"
+msgstr ""
+
+#. Id: 19785-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19785-Dialogue.mod:0
+msgid "Stealing from us!"
+msgstr ""
+
+#. Id: 19785-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 19765-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19785-Dialogue.mod:2 19765-Dialogue.mod:1
+msgid "Stealing from the Hive!"
+msgstr ""
+
+#. Id: 45183-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 1531964-__May 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1531963-__May 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Kidnapping hiver lost
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 60655-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60663-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60670-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore hunts down player
+#. Id: 60674-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (60673-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Eyegore hunts down player
+#. Id: 61487-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61486-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Killed noble announce
+#. Id: 61488-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Killed noble announce
+#. Id: 19729-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by target hiver
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 3695-dialogue-01.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3693-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up as enemy starts walking away
+#. Id: 61665-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (61664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 45183-Dialogue.mod:1 64732-Dialogue.mod:1 1531964-__May?18.mod:0 14552-Dialogue?(4).mod:4 60655-Dialogue.mod:0 60663-Dialogue.mod:0 60670-Dialogue.mod:0 60674-Dialogue.mod:0 61487-Dialogue.mod:0 61488-Dialogue.mod:0 19729-Dialogue.mod:2 3695-dialogue-01.mod:1 61665-Dialogue.mod:0
+msgid "Kill!"
+msgstr ""
+

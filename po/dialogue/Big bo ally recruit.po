@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60873-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. Id: 64473-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. Id: 64474-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 60873-Dialogue.mod:0 64473-Dialogue.mod:0 64474-Dialogue.mod:0
+msgid "So you're the new /GUY/, eh... Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 60881-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60873-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big bo ally recruit
+#: 60881-Dialogue.mod:0
+msgid "Let's go!"
+msgstr ""
+
+#. Id: 60886-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60886-Dialogue.mod:0
+msgid "Bwahaha! Don't let me down, /YOURNAME/..."
+msgstr ""
+
+#. Id: 60893-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60893-Dialogue.mod:0
+msgid "Lets find some slavers to fuck up."
+msgstr ""
+
+#. Id: 60894-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 60894-Dialogue.mod:0
+msgid "Bwahaha! Don't let me down, emperor killer..."
+msgstr ""
+
+#. Id: 60895-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. Id: 60898-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 60895-Dialogue.mod:0 60898-Dialogue.mod:0
+msgid "Bwahaha! Don't let me down, noble killer..."
+msgstr ""
+
+#. Id: 60899-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 60899-Dialogue.mod:0
+msgid "Bwahaha! Don't let me down, monster killer..."
+msgstr ""
+
+#. Id: 60882-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60873-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big bo ally recruit
+#: 60882-Dialogue.mod:0
+msgid "You're Big Bo? But you're so small..."
+msgstr ""
+
+#. Id: 60902-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60902-Dialogue.mod:0
+msgid "Yeah, yeah, looks can be decieving, /YOURNAME/. I got a big bite for a little bark... So, we gonna find some action or what? "
+msgstr ""
+
+#. Id: 60883-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60873-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big bo ally recruit
+#: 60883-Dialogue.mod:0
+msgid "No thanks, I don't swing that way."
+msgstr ""
+
+#. Id: 60904-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60904-Dialogue.mod:0
+msgid "Idiot! I'm talking slaver blood... You've got a big reputation to live up to. And I want to break slaver skulls along side it."
+msgstr ""
+
+#. Id: 60906-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big bo ally recruit
+#: 60906-Dialogue.mod:0
+msgid "Sorry, I'm not taking recruits right now."
+msgstr ""
+
+#. Id: 60907-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60907-Dialogue.mod:0
+msgid "The hell? We could have had fun, you and me!... Dammit!"
+msgstr ""
+
+#. Id: 60908-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60907-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60908-Dialogue.mod:0
+msgid "We'd be a force to be reckoned with... Psh!"
+msgstr ""
+
+#. Id: 60885-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 60885-Dialogue.mod:0
+msgid "You, me, our fists, our swords. How about we go tenderize some slaver meat? Don't let me down now, you got a big reputation to live up to..."
+msgstr ""
+
+#. Id: 1534484-__November.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=0, Tag: -1
+#: 1534484-__November.mod:0
+msgid "[She looks over your companions and pouts]... Dang. Your party's looking a little full actually. Maybe another time, eh, /YOURNAME/?"
+msgstr ""
+
+#. Id: 60888-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 60888-Dialogue.mod:0
+msgid "So you're the famous /YOURNAME/ giving Eyegore a run for his money, eh... Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 60889-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 60889-Dialogue.mod:0
+msgid "So you're the famous /YOURNAME/ giving Kana a run for her money, eh... Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 60890-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 60890-Dialogue.mod:0
+msgid "So you're the famous /YOURNAME/ giving Longen a run for his money, eh... Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 60891-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 60891-Dialogue.mod:0
+msgid "So you're the famous /YOURNAME/ giving Tengu a run for his money, eh... Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 60909-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 60909-Dialogue.mod:0
+msgid "Bwaha, I knew you'd be back. What kind of moron rejects THE Big Bo anyway?"
+msgstr ""
+
+#. Id: 1534478-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 1534478-__November.mod:0
+msgid "So you're the new /GUY/, eh... Well, how about you come back to me when you've trained up a little more. I'm not here to hand hold rookies..."
+msgstr ""
+
+#. Id: 1534482-__November.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534478-__November.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 1534482-__November.mod:0
+msgid "Come back to me when you've assassinated your first slave master, eh?"
+msgstr ""
+
+#. Id: 1534483-__November.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534482-__November.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 1534483-__November.mod:0
+msgid "Good luck! Bwaha!"
+msgstr ""
+
+#. Id: 1534479-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#. Id: 1534480-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 1534479-__November.mod:0 1534480-__November.mod:0
+msgid "So you're the new /GUY/, eh... Heard you been causing quite some chaos in the stone camps, bwahaha! Well, how about we have some fun together?"
+msgstr ""
+
+#. Id: 1534481-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big bo ally recruit
+#: 1534481-__November.mod:0
+msgid "So you're the new /GUY/, eh... I've been hearing all about your desert noble shenanigans, bwahaha!... Well, how about we have some fun together?"
+msgstr ""
+

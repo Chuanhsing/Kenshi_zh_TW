@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60590-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 60590-Dialogue.mod:0
+msgid "Then here's a gift, for your hard work [c. 2000]"
+msgstr ""
+
+#. Id: 60595-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60590-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60595-Dialogue.mod:0
+msgid "[They smirk]... But, you know, I'm gonna need an even bigger gift to unsee those hemp farms of yours. Make it 3000 Cats and I won't bust you for growing illegal narcotics..."
+msgstr ""
+
+#. Id: 60597-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 60597-Dialogue.mod:0
+msgid "... You saw nothing."
+msgstr ""
+
+#. Id: 60608-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60608-Dialogue.mod:0
+msgid "I saw nothing."
+msgstr ""
+
+#. Id: 60609-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 60609-Dialogue.mod:0
+msgid "I've no more money to give..."
+msgstr ""
+
+#. Id: 61183-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61183-Dialogue.mod:0
+msgid "You're growing hemp yet you don't have a spare 1000 Cats?... Whatever, I'll just take the 2000 Cats and we'll forget all about the farms."
+msgstr ""
+
+#. Id: 61191-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61191-Dialogue.mod:0
+msgid "Setting up on Empire land and you can't afford a simple contribution? Pathetic. Should have 3000 Cats worth of goods lying around though, eh?"
+msgstr ""
+
+#. Id: 96790-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61191-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#: 96790-Dialogue.mod:0
+msgid "I'll be reporting back to headquarters about your... activities."
+msgstr ""
+
+#. Id: 61185-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61185-Dialogue.mod:0
+msgid "I made my offer already, take it or leave it."
+msgstr ""
+
+#. Id: 61186-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61186-Dialogue.mod:0
+msgid "Oho! Giving me lip? Then I'll leave it, how about that? But, see now, if you ain't paying me then I gotta go back to doing my normal day job..."
+msgstr ""
+
+#. Id: 61189-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61186-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61189-Dialogue.mod:0
+msgid "Taking down drug growers!"
+msgstr ""
+
+#. Id: 61187-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61187-Dialogue.mod:0
+msgid "... Tch, then pay up. I'm not in the mood for reporting your activities to the superiors today anyway, count yourself lucky."
+msgstr ""
+
+#. Id: 61194-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61194-Dialogue.mod:0
+msgid "In that case, it's cheaper for me to destroy my witnesses instead..."
+msgstr ""
+
+#. Id: 61195-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61194-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61195-Dialogue.mod:0
+msgid "/QUICKLAUGH/, is that so? You've got to be a complete /IDIOT/ to think you can take on the Empire army..."
+msgstr ""
+
+#. Id: 96731-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60590-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 96731-Dialogue.mod:0
+msgid "[They smirk]... But, you know, I'm gonna need an even bigger gift to unsee those hemp machines of yours. Make it 3000 Cats and I won't bust you for growing illegal narcotics..."
+msgstr ""
+
+#. Id: 60614-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60614-Dialogue.mod:0
+msgid "Well? Got any gifts of appreciation for your local Empire guard, dreg? Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
+Play nice. And I'll play nice."
+msgstr ""
+
+#. Id: 60614-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60614-Dialogue.mod:1
+msgid "Silence? Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, dreg. Especially so when you have an outpost full of illegal hemp farms, hmm?... Tread lightly here, dreg. I expect a worthwhile gift to unsee this."
+msgstr ""
+
+#. Id: 60605-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60605-Dialogue.mod:0
+msgid "You should know better than to disrespect the authority of the empire, /PEASANT/. Especially so when you've got an outpost full of narcotics, eh?"
+msgstr ""
+
+#. Id: 60612-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60602-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60612-Dialogue.mod:0
+msgid "Some appreciation... But more importantly, some respect, /WORM/. How about you try being a little more polite to your protectors? A donation perhaps... Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
+Play nice. And I'll play nice."
+msgstr ""
+
+#. Id: 60612-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60602-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60612-Dialogue.mod:1
+msgid "A bit of appreciation for your protectors sweating in the outlands. A donation. Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
+Play nice. And I'll play nice."
+msgstr ""
+
+#. Id: 60613-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (60612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 60613-Dialogue.mod:1
+msgid "I've no money to give..."
+msgstr ""
+
+#. Id: 61201-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60613-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61201-Dialogue.mod:0
+msgid "*sigh* Well ain't that disappointing. Now I've gotta sweat doing my job, and you, you've gotta pay out your punishment in blood... Didn't plan this well at all, did you, farmer?"
+msgstr ""
+
+#. Id: 61209-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61209-Dialogue.mod:0
+msgid "I'm not giving you shit. Beat it or bleed."
+msgstr ""
+
+#. Id: 61207-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62166-__additions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61207-Dialogue.mod:0
+msgid "No? Nothing?... Then I guess there's nothing left for me to do but go back to my job: hunting down hemp farmers... Did you think me blind? Your farms are illegal on UC territory, fool..."
+msgstr ""
+
+#. Id: 61207-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (62166-__additions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 61207-Dialogue.mod:2
+msgid "Well. Guess that's my entertainment over from you... Now back to my job: Taking down illegal farmers. Did you really think you could get away with growing hemp on United Cities territory without sweetening the local guards? Fool."
+msgstr ""
+
+#. Id: 96729-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 96729-Dialogue.mod:0
+msgid "Hoy, hope you got a gift ready for your local samurai. It's a hungry job guarding these streets, you know?"
+msgstr ""
+
+#. Id: 96729-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 96729-Dialogue.mod:1
+msgid "Phew, hard day's work today! Most of the smarter /PEASANT/s give us gifts to reward us for our hard work, you know?"
+msgstr ""
+
+#. Id: 60588-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 60588-Dialogue.mod:0
+msgid "[They catch their breath and lean on their sword over-dramatically]..."
+msgstr ""
+

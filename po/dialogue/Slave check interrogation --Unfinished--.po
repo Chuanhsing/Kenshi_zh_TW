@@ -1,0 +1,414 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41828-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41828-Dialogue.mod:0
+msgid "The shaved one, are they your slave?"
+msgstr ""
+
+#. Id: 41829-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41828-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41829-Dialogue.mod:0
+msgid "That's my slave, yes."
+msgstr ""
+
+#. Id: 41833-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41833-Dialogue.mod:0
+msgid "Why are they unshackled? What kind of moron lets their slaves roam freely?"
+msgstr ""
+
+#. Id: 41833-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41833-Dialogue.mod:1
+msgid "Seems pretty cosy for a slave... Roaming free, left to their own devices... Care to explain?"
+msgstr ""
+
+#. Id: 41833-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41833-Dialogue.mod:2
+msgid "They look like they got it pretty easy for a slave... What kind of slave has free roam?"
+msgstr ""
+
+#. Id: 41833-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41833-Dialogue.mod:3
+msgid "Pretty rare thing to see an armed slave without shackles... care to explain?"
+msgstr ""
+
+#. Id: 41833-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (41829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41833-Dialogue.mod:4
+msgid "Unshackled... armed... they look like fugitives to me, not slaves."
+msgstr ""
+
+#. Id: 41834-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41833-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41834-Dialogue.mod:0
+msgid "Shackles and chains are so outdated. I use other methods of control."
+msgstr ""
+
+#. Id: 41856-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41834-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 41856-Dialogue.mod:0
+msgid "/DOG/ shit, don't lie to me. Harboring fugitives is a serious crime... Be a good /MAN2/, tell me the truth and perhaps I'll consider pardoning you for your deception..."
+msgstr ""
+
+#. Id: 41861-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41856-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41861-Dialogue.mod:0
+msgid "I'm not lying to you. And I don't want any trouble..."
+msgstr ""
+
+#. Id: 41863-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41861-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41863-Dialogue.mod:0
+msgid "Well, you've got trouble, I warned you not to lie to me... I know a fugitive when I see one and the United Cities doesn't tolerate anti-slavery..."
+msgstr ""
+
+#. Id: 96022-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41856-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96022-Dialogue.mod:0
+msgid "Okay. You got me. Perhaps we can negotiate..."
+msgstr ""
+
+#. Id: 96023-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96023-Dialogue.mod:0
+msgid "...Negotiate? The United Cities doesn't tolerate anti-slavery, there is no negotiation on blatant terrorism and thievery of workers. "
+msgstr ""
+
+#. Id: 96024-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96023-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96024-Dialogue.mod:0
+msgid "... And your attempt at bribery is poor..."
+msgstr ""
+
+#. Id: 96025-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96025-Dialogue.mod:0
+msgid "Arrest them."
+msgstr ""
+
+#. Id: 96914-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#: 96914-Dialogue.mod:0
+msgid "Consider this reported."
+msgstr ""
+
+#. Id: 41879-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 41879-Dialogue.mod:0
+msgid "... As I thought. But I'm open to work this out... You could buy their freedom. Of course, slave sympathisers are usually punished, so I'd expect some kind of compensation to cover your crime as well... As a matter of duty, I simply can't let you break the law and walk away without fine."
+msgstr ""
+
+#. Id: 96045-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (41880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96045-Dialogue.mod:0
+msgid "Glad we could work this out quickly..."
+msgstr ""
+
+#. Id: 42016-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41879-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 42016-Dialogue.mod:0
+msgid "In other words, you want a bribe?"
+msgstr ""
+
+#. Id: 96047-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (42016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96047-Dialogue.mod:0
+msgid "An anti-slaver terrorist calling me out on bribery? Really?"
+msgstr ""
+
+#. Id: 96048-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96047-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96048-Dialogue.mod:0
+msgid "You want to make this difficult, so be it... But blatant terrorism and kidnapping of workers, it's not a crime I'll stand around negotiating for dreg change."
+msgstr ""
+
+#. Id: 96923-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41879-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<5000, Tag: -1
+#: 96923-Dialogue.mod:0
+msgid "I don't have much money to give..."
+msgstr ""
+
+#. Id: 96925-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96925-Dialogue.mod:0
+msgid "That's too bad. but But blatant terrorism and kidnapping of workers, it's not a crime I'll stand around negotiating for dreg change."
+msgstr ""
+
+#. Id: 96021-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41834-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96021-Dialogue.mod:0
+msgid "/DOG/ shit, don't lie to me..."
+msgstr ""
+
+#. Id: 41835-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41833-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41835-Dialogue.mod:0
+msgid "A happier slave is a healthier slave. The results are worth the risk."
+msgstr ""
+
+#. Id: 41857-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41835-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 41857-Dialogue.mod:0
+msgid "A happy slave is a sloppy slave, fear is the most efficient method of control. You'll have a rebellion on  your hands in no time..."
+msgstr ""
+
+#. Id: 41859-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41857-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41859-Dialogue.mod:0
+msgid "But they're YOUR slaves, so I'll leave you to it. "
+msgstr ""
+
+#. Id: 41836-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41833-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41836-Dialogue.mod:0
+msgid "Are you interrogating me?! These are MY slaves and it’s none of your business..."
+msgstr ""
+
+#. Id: 41864-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41836-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41864-Dialogue.mod:0
+msgid "Stolen slaves ARE my business, /WORM/! And stealing from AND decieving a United Cities Samurai is a serious crime!"
+msgstr ""
+
+#. Id: 41865-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41836-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 41865-Dialogue.mod:0
+msgid "... Fine. Do what you want with your slaves, but you'll have a rebellion on your hands in no time..."
+msgstr ""
+
+#. Id: 41837-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41833-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41837-Dialogue.mod:0
+msgid "I suggest you stop asking so many questions... (unsheathe your weapon)"
+msgstr ""
+
+#. Id: 41840-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41837-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41840-Dialogue.mod:0
+msgid "... So that's how it is..."
+msgstr ""
+
+#. Id: 41876-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41876-Dialogue.mod:0
+msgid "Get 'em."
+msgstr ""
+
+#. Id: 41830-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41828-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41830-Dialogue.mod:0
+msgid "This one? No, they're not a slave, they just had lice is all. Nasty stuff."
+msgstr ""
+
+#. Id: 96034-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 96034-Dialogue.mod:0
+msgid "Hmmm... Next time try rubbing cactus rum on the roots. Ain't good, the slave look."
+msgstr ""
+
+#. Id: 96035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96035-Dialogue.mod:0
+msgid "[They glance around them]... Alright. Well, everything else looks in order here..."
+msgstr ""
+
+#. Id: 96036-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96035-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 96036-Dialogue.mod:0
+msgid "That will be all."
+msgstr ""
+
+#. Id: 41831-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41828-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41831-Dialogue.mod:0
+msgid "I don’t think it’s any of your concern. You're on MY territory now."
+msgstr ""
+
+#. Id: 41841-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41841-Dialogue.mod:0
+msgid "So, you're protecting fugitive slaves? Why would you risk your own life for a worthless slave? "
+msgstr ""
+
+#. Id: 41841-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41841-Dialogue.mod:1
+msgid "Is that your final answer? You won’t co-operate with us?"
+msgstr ""
+
+#. Id: 41875-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41875-Dialogue.mod:0
+msgid "It doesn't matter anyway. You've made your choice. Get 'em."
+msgstr ""
+
+#. Id: 41852-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 41852-Dialogue.mod:0
+msgid "Harbouring fugitives will land you in serious trouble. I’ll be back to deal with you! "
+msgstr ""
+
+#. Id: 41832-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41828-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Slave check interrogation --Unfinished--
+#: 41832-Dialogue.mod:0
+msgid "How about you turn around and leave before things start getting ugly?"
+msgstr ""
+

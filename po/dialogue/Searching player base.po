@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95872-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=0, Tag: -1
+#: 95872-Dialogue.mod:0
+msgid "... Well, everything looks in order..."
+msgstr ""
+
+#. Id: 95974-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95974-Dialogue.mod:0
+msgid "No fugitives... no illegal activity... "
+msgstr ""
+
+#. Id: 95951-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95974-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95951-Dialogue.mod:0
+msgid "That's a start."
+msgstr ""
+
+#. Id: 96040-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 96040-Dialogue.mod:0
+msgid "Now how about a warm welcome?"
+msgstr ""
+
+#. Id: 95969-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95969-Dialogue.mod:0
+msgid "... Somebody gonna come greet us or what?"
+msgstr ""
+
+#. Id: 95975-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95975-Dialogue.mod:0
+msgid "Most of the other farmers give us snacks and grog..."
+msgstr ""
+
+#. Id: 95976-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. Id: 48911-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 48905-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#. Id: 55183-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (55182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter talk to
+#. Id: 57684-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hamut spots slavers
+#: 95976-Dialogue.mod:0 48911-Dialogue.mod:0 48905-Dialogue.mod:0 17627-Dialogue.mod:8 55183-Dialogue.mod:0 57684-Dialogue.mod:0
+msgid "Kch..."
+msgstr ""
+
+#. Id: 95971-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (95970-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95971-Dialogue.mod:0
+msgid "Dregs these days... no respect."
+msgstr ""
+
+#. Id: 95877-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95875-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95877-Dialogue.mod:0
+msgid "That one over there..."
+msgstr ""
+
+#. Id: 95878-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95877-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 95878-Dialogue.mod:0
+msgid "They look like a slave."
+msgstr ""
+
+#. Id: 95879-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95878-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 95879-Dialogue.mod:0
+msgid "Harbouring escaped slaves is a serious crime..."
+msgstr ""
+
+#. Id: 95880-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 95880-Dialogue.mod:0
+msgid "... Who's in charge here?"
+msgstr ""
+
+#. Id: 95882-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 95882-Dialogue.mod:0
+msgid "No-one's gonna step forward, uh?"
+msgstr ""
+
+#. Id: 95883-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#: 95883-Dialogue.mod:0
+msgid "Then I'm arresting this party for anti-slavery activity!"
+msgstr ""
+
+#. Id: 96933-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>8, Tag: -1
+#: 96933-Dialogue.mod:0
+msgid "Then I'll be reporting this to the Slave Traders."
+msgstr ""
+
+#. Id: 97476-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (96933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 97476-Dialogue.mod:1
+msgid "Move on."
+msgstr ""
+
+#. Id: 97478-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (97477-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#: 97478-Dialogue.mod:0
+msgid "Those anti-slavers will be punished."
+msgstr ""
+

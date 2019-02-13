@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55257-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#: 55257-Dialogue.mod:0
+msgid "Stay away from that. You'll break it."
+msgstr ""
+
+#. Id: 55257-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#: 55257-Dialogue.mod:1
+msgid "Don't touch that. You'll break it."
+msgstr ""
+
+#. Id: 55257-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#: 55257-Dialogue.mod:2
+msgid "Stay away from my machines. You'll break something."
+msgstr ""
+
+#. Id: 55257-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#: 55257-Dialogue.mod:3
+msgid "That's not yours to touch. Leave, before you break something."
+msgstr ""
+
+#. Id: 55257-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#: 55257-Dialogue.mod:4
+msgid "My machines... what are you doing?"
+msgstr ""
+
+#. Id: 55265-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55264-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 55265-Dialogue.mod:0
+msgid "Last time. Leave it."
+msgstr ""
+
+#. Id: 55272-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55265-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 45750-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 55272-Dialogue.mod:0 45750-Dialogue.mod:0
+msgid "You leave me no choice."
+msgstr ""
+
+#. Id: 55258-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. Id: 17618-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 55258-Dialogue.mod:0 17618-Dialogue.mod:3
+msgid "Don't do that."
+msgstr ""
+
+#. Id: 55260-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55259-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 55260-Dialogue.mod:0
+msgid "You'll ruin my equipment. "
+msgstr ""
+
+#. Id: 55262-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 55262-Dialogue.mod:0
+msgid "I asked you once, I won't ask again."
+msgstr ""
+

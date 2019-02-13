@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:0
+msgid "Keep meat /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:1
+msgid "Dhis turn meat /CANNIBALSOFT/."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:2
+msgid "Meat not go /CANNIBALTOUGH/."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:3
+msgid "Neber let meat go bad."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:4
+msgid "Erbadibs. Lots."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:5
+msgid "Woun' need erbadibs."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:6
+msgid "I gibb erbadibs."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:7
+msgid "Salt heal woun'."
+msgstr ""
+
+#. Id: 3728-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal heal other
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 3728-gamedata.base:8
+msgid "Salt make meat tase good too."
+msgstr ""
+

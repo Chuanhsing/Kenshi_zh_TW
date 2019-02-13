@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56690-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56690-Dialogue.mod:0
+msgid "Okay, no time to lose, let's get to safety..."
+msgstr ""
+
+#. Id: 56690-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56690-Dialogue.mod:1
+msgid "We need to move. Go..."
+msgstr ""
+
+#. Id: 56690-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56690-Dialogue.mod:2
+msgid "Go, go, go!"
+msgstr ""
+
+#. Id: 56706-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56690-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#: 56706-Dialogue.mod:0
+msgid "I'll watch your back."
+msgstr ""
+
+#. Id: 56707-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56707-Dialogue.mod:0
+msgid "Escape while you can, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 56707-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56707-Dialogue.mod:1
+msgid "Waste no more time, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 56707-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked ninja pt3
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 56707-Dialogue.mod:2
+msgid "Get out while you can, /OUTLANDER/..."
+msgstr ""
+

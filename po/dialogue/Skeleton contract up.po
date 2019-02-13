@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47586-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#. -- Condition: My Race(s): Skeleton
+#: 47586-Dialogue.mod:0
+msgid "My time is up..."
+msgstr ""
+
+#. Id: 47586-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#. -- Condition: My Race(s): Skeleton
+#: 47586-Dialogue.mod:1
+msgid "My job has come to an end..."
+msgstr ""
+
+#. Id: 47586-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#. -- Condition: My Race(s): Skeleton
+#: 47586-Dialogue.mod:2
+msgid "I'm finished for the day..."
+msgstr ""
+
+#. Id: 47586-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#. -- Condition: My Race(s): Skeleton
+#: 47586-Dialogue.mod:3
+msgid "My contract has ended..."
+msgstr ""
+
+#. Id: 47587-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47586-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#: 47587-Dialogue.mod:0
+msgid "It's safe here, I'll leave you now. "
+msgstr ""
+
+#. Id: 47587-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47586-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#: 47587-Dialogue.mod:1
+msgid "If you need me again, you know where to find me."
+msgstr ""
+
+#. Id: 47587-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47586-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#. Id: 46141-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (46137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: event skeleton escaped
+#: 47587-Dialogue.mod:2 46141-Dialogue.mod:1
+msgid "Take care of yourself."
+msgstr ""
+
+#. Id: 47587-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (47586-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton contract up
+#: 47587-Dialogue.mod:3
+msgid "Nice knowing you."
+msgstr ""
+

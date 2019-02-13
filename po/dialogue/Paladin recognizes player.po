@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66212-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66212-Dialogue.mod:0
+msgid "Okran spared you last time we fought..."
+msgstr ""
+
+#. Id: 66212-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66212-Dialogue.mod:2
+msgid "The Light spared you last time we fought..."
+msgstr ""
+
+#. Id: 66212-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66212-Dialogue.mod:3
+msgid "Last time was not your time, bless the Light..."
+msgstr ""
+
+#. Id: 66212-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66212-Dialogue.mod:4
+msgid "Okran was not ready to deliver you last time we fought..."
+msgstr ""
+
+#. Id: 66214-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66214-Dialogue.mod:0
+msgid "This time you'll fall, with god as my guide!"
+msgstr ""
+
+#. Id: 66214-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66214-Dialogue.mod:1
+msgid "But you won't live for drawing the blood of a paladin, son of Light!"
+msgstr ""
+
+#. Id: 66214-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (66212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66214-Dialogue.mod:2
+msgid "But this time I'll send you to the abyss!"
+msgstr ""
+
+#. Id: 66214-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (66212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66214-Dialogue.mod:3
+msgid "This time you'll fall, with the sacred flame as my blade!"
+msgstr ""
+
+#. Id: 66214-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (66212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66214-Dialogue.mod:4
+msgid "But this time I'll purge you by my own sword!"
+msgstr ""
+
+#. Id: 66213-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66213-Dialogue.mod:0
+msgid "Okran saved me from death... But this time you won't win."
+msgstr ""
+
+#. Id: 66213-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66213-Dialogue.mod:1
+msgid "I still live, Okran protects me...  Defeat me once, but evil will not prevail."
+msgstr ""
+
+#. Id: 66213-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66213-Dialogue.mod:2
+msgid "I stand here today, still, preserved by Okran. See, you cannot destroy me."
+msgstr ""
+
+#. Id: 66213-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 66213-Dialogue.mod:3
+msgid "The Light preserves me. Did you really think you could defeat a child of Okran?"
+msgstr ""
+
+#. Id: 66217-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66217-Dialogue.mod:0
+msgid "In the name of Okran, be purged, heretic!"
+msgstr ""
+
+#. Id: 66217-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (66213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66217-Dialogue.mod:1
+msgid "In the name of the Light, I will deliver you to the abyss!"
+msgstr ""
+
+#. Id: 66217-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (66213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin recognizes player
+#: 66217-Dialogue.mod:2
+msgid "To the abyss with you, heretic!"
+msgstr ""
+

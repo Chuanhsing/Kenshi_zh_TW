@@ -1,0 +1,1535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43004-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43004-Dialogue.mod:0
+msgid "Okran bless you, brother. Come back again."
+msgstr ""
+
+#. Id: 43004-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43004-Dialogue.mod:1
+msgid "Bless you, brother. Come again."
+msgstr ""
+
+#. Id: 43004-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43004-Dialogue.mod:2
+msgid "Come back again soon, brother. Love and devotion to you."
+msgstr ""
+
+#. Id: 43004-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43004-Dialogue.mod:3
+msgid "It's getting dark out, tread carefully, brother. "
+msgstr ""
+
+#. Id: 43004-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43004-Dialogue.mod:4
+msgid "Thanks for visiting! May the light protect you, brother. "
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:0
+msgid "Shop's closing now..."
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:1
+msgid "I'm closing up now so..."
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:2
+msgid "Shop's just about to close up now, customer..."
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:3
+msgid "It's getting late, time to close up shop..."
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:4
+msgid "It's getting dark out. Time to close up."
+msgstr ""
+
+#. Id: 43005-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (43004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43005-Dialogue.mod:5
+msgid "It's closing time now. Thank you for your custom..."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:0
+msgid "I need to lock up, brother."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:1
+msgid "I need to lock up for the night, brother."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:2
+msgid "I need to lock up. You can come back tomorrow, brother."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:3
+msgid "We'll be open for business in the morning, brother."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:4
+msgid "Come back tomorrow morning if you need anything, brother."
+msgstr ""
+
+#. Id: 43006-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (43005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43006-Dialogue.mod:5
+msgid "Open as usual tomorrow morning, brother."
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:0
+msgid "... Why aren't you leaving? We're closed..."
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:1
+msgid "... You're not leaving...?"
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:2
+msgid "... Did you hear me? I said we're closed."
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:3
+msgid "... You need to leave already."
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:4
+msgid "... I need you to leave now."
+msgstr ""
+
+#. Id: 43007-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (43006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43007-Dialogue.mod:5
+msgid "... I said we're closed... why are you still here?"
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:1
+msgid "No, don't worry about me, I have no life outside of work or anything..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:2
+msgid "I don't want any ugliness now. Come on..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:3
+msgid "I'd rather not have to get the /GUARD/s involved..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:4
+msgid "... Or just take your time, sure, I LOVE working overtime..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:5
+msgid "... Tch..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:6
+msgid "... Tch, foreigners..."
+msgstr ""
+
+#. Id: 43008-Dialogue.mod
+#. -- Index: 4.7
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43008-Dialogue.mod:7
+msgid "... Hmph!"
+msgstr ""
+
+#. Id: 46884-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46884-Dialogue.mod:0
+msgid "Is there a problem here, brother?"
+msgstr ""
+
+#. Id: 46885-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46885-Dialogue.mod:0
+msgid "I'm not sure..."
+msgstr ""
+
+#. Id: 46886-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46885-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46886-Dialogue.mod:0
+msgid "You there. You need to leave. "
+msgstr ""
+
+#. Id: 46888-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46888-Dialogue.mod:0
+msgid "This is odd... Hey... Do you... do you think they're a... a r-o-b-o-t?"
+msgstr ""
+
+#. Id: 46888-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (46886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46888-Dialogue.mod:1
+msgid "Do you... do you think they could be a... a s-k-e-l-e-t-o-n?"
+msgstr ""
+
+#. Id: 46888-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (46886-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46888-Dialogue.mod:2
+msgid "How odd... maybe... maybe they're a robot, a robot in disguise!"
+msgstr ""
+
+#. Id: 46889-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46888-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46889-Dialogue.mod:0
+msgid ".... Or being controlled by one..."
+msgstr ""
+
+#. Id: 46889-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46888-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46889-Dialogue.mod:1
+msgid "... Or... possessed by one..."
+msgstr ""
+
+#. Id: 46889-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (46888-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46889-Dialogue.mod:2
+msgid "Don't. Just don't. You're giving me the heebie jeebies."
+msgstr ""
+
+#. Id: 46890-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46889-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46890-Dialogue.mod:0
+msgid "Just... just keep an eye on /HIM/. But don't provoke /HIM/..."
+msgstr ""
+
+#. Id: 46891-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46891-Dialogue.mod:0
+msgid "You. Do as he says, you need to leave."
+msgstr ""
+
+#. Id: 46891-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46891-Dialogue.mod:1
+msgid "Be quick. We got places to be."
+msgstr ""
+
+#. Id: 46891-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46891-Dialogue.mod:2
+msgid "Make it quick, customer. I ain't paid overtime."
+msgstr ""
+
+#. Id: 46893-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46892-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46893-Dialogue.mod:0
+msgid "Don't make this unpleasant for yourself..."
+msgstr ""
+
+#. Id: 46894-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46893-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46894-Dialogue.mod:0
+msgid "... He's still here..."
+msgstr ""
+
+#. Id: 46896-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46894-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46896-Dialogue.mod:0
+msgid "Only a darkened one would ignore their holy brothers like this!"
+msgstr ""
+
+#. Id: 46897-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46896-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46897-Dialogue.mod:0
+msgid "It's okay, it's okay... I'm sure it's fine..."
+msgstr ""
+
+#. Id: 46898-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46897-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46898-Dialogue.mod:0
+msgid "I won't let him out of my sight, you can count on me."
+msgstr ""
+
+#. Id: 46899-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46899-Dialogue.mod:0
+msgid "I'm sure he's just shopping... it's fine. No need to get the paladins in here smashing the place up."
+msgstr ""
+
+#. Id: 46902-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46902-Dialogue.mod:0
+msgid "/THISGUY/ is acting really wierd..."
+msgstr ""
+
+#. Id: 46903-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46903-Dialogue.mod:0
+msgid "I know, I mean, are they sneaking? Like we can't see /HIM/ or something?"
+msgstr ""
+
+#. Id: 46904-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46903-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46904-Dialogue.mod:0
+msgid "Makes me think this one's been darkened or something..."
+msgstr ""
+
+#. Id: 46904-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46903-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46904-Dialogue.mod:1
+msgid "... A darkened one maybe?"
+msgstr ""
+
+#. Id: 46905-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46905-Dialogue.mod:0
+msgid "Don't even go there. Last thing I need is the paladins pulling my shop apart on a robot hunt."
+msgstr ""
+
+#. Id: 46950-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46950-Dialogue.mod:0
+msgid "Maybe if we just ignore /HIM/ /HE/'ll go away..."
+msgstr ""
+
+#. Id: 46906-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46906-Dialogue.mod:0
+msgid "/THISGUY/ acting really wierd..."
+msgstr ""
+
+#. Id: 46906-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46883-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46906-Dialogue.mod:1
+msgid "What /IS/ /HE/ actually doing? /HEIS/ not even shopping..."
+msgstr ""
+
+#. Id: 46907-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46907-Dialogue.mod:0
+msgid "I know. Odd. /HE/ seemed fine when /HE/ first came in..."
+msgstr ""
+
+#. Id: 46900-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (43007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 46900-Dialogue.mod:6
+msgid "Quickly, shut /HIM/ out..."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:0
+msgid "Shop's closing now. Please, make your way out"
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:1
+msgid "Shop's closing now. I need to lock up."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:2
+msgid "Closing time, I'm locking up now..."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:3
+msgid "It's closing time. Time to go home."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:4
+msgid "Time to go, we're closing up now."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:5
+msgid "It's getting late, time to close up."
+msgstr ""
+
+#. Id: 43015-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43015-Dialogue.mod:6
+msgid "Shutting up shop now. Please finish up and make your way out."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:0
+msgid "I said we're closing..."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 56379-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen shoo
+#: 43016-Dialogue.mod:1 56379-Dialogue.mod:0
+msgid "You need to leave..."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:2
+msgid "I said we're shutting now..."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:3
+msgid "You. Shop's shut..."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:4
+msgid "I'm talking to you. Shop's closed now..."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:5
+msgid "Hear what I said? We're closed."
+msgstr ""
+
+#. Id: 43016-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (46944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43016-Dialogue.mod:6
+msgid "Right, doors that way..."
+msgstr ""
+
+#. Id: 46922-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46922-Dialogue.mod:0
+msgid "Come back in the morning."
+msgstr ""
+
+#. Id: 46922-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46922-Dialogue.mod:1
+msgid "Open as usual tomorrow."
+msgstr ""
+
+#. Id: 46922-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46922-Dialogue.mod:2
+msgid "Unless you want to get locked in here?"
+msgstr ""
+
+#. Id: 46922-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46922-Dialogue.mod:3
+msgid "Move it."
+msgstr ""
+
+#. Id: 46922-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46922-Dialogue.mod:4
+msgid "Make your way out."
+msgstr ""
+
+#. Id: 43017-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (46922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43017-Dialogue.mod:0
+msgid "Having trouble hearing me, woman?"
+msgstr ""
+
+#. Id: 43017-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (46922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43017-Dialogue.mod:1
+msgid "Problems with your hearing, woman? We're closed."
+msgstr ""
+
+#. Id: 43017-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (46922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43017-Dialogue.mod:2
+msgid "Is there a problem, woman? Why aren't you leaving?"
+msgstr ""
+
+#. Id: 43017-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (46922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43017-Dialogue.mod:3
+msgid "What's wrong with you? Got a problem, woman?"
+msgstr ""
+
+#. Id: 43018-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43018-Dialogue.mod:0
+msgid "Perhaps the dark demoness has clouded your senses?!"
+msgstr ""
+
+#. Id: 43018-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (43017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43018-Dialogue.mod:1
+msgid "Only a /TAINT/ed woman would harass her holy brethren like this! Leave!"
+msgstr ""
+
+#. Id: 43018-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (43017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43018-Dialogue.mod:2
+msgid "This looks like the work of the dark demoness! Leave, woman, or I'll call the /GUARD/s!"
+msgstr ""
+
+#. Id: 46913-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46912-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46913-Dialogue.mod:0
+msgid "You think she's tainted? Keep away from her!"
+msgstr ""
+
+#. Id: 46914-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46914-Dialogue.mod:0
+msgid "Stay away woman! Get out! Go!"
+msgstr ""
+
+#. Id: 46915-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46914-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 15536-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15548-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 46346-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot hunt Okranite
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 46915-Dialogue.mod:0 15536-Dialogue.mod:0 15548-Dialogue.mod:0 46346-Dialogue.mod:4
+msgid "Evil!"
+msgstr ""
+
+#. Id: 43023-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43023-Dialogue.mod:0
+msgid "Wretched woman! /GUARD/s! I have an intruder!"
+msgstr ""
+
+#. Id: 43023-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43023-Dialogue.mod:1
+msgid "/GREASY/ woman! /GUARD/s! I have an intruder!"
+msgstr ""
+
+#. Id: 46955-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (43023-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46955-Dialogue.mod:0
+msgid "Move!"
+msgstr ""
+
+#. Id: 46919-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46919-Dialogue.mod:0
+msgid "Why in Okran's name aren't you leaving!?"
+msgstr ""
+
+#. Id: 46916-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46916-Dialogue.mod:0
+msgid "You need to learn some respect!"
+msgstr ""
+
+#. Id: 46917-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46917-Dialogue.mod:0
+msgid "Only a /TAINT/ed woman would so rudely ignore her holy brother like this!"
+msgstr ""
+
+#. Id: 43024-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43024-Dialogue.mod:0
+msgid "Maybe the /GUARD/s can help show you out! /GUARD/s!"
+msgstr ""
+
+#. Id: 43024-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43024-Dialogue.mod:1
+msgid "Wretched woman! Guards!"
+msgstr ""
+
+#. Id: 43024-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (46917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43024-Dialogue.mod:2
+msgid "Guards! This woman is harassing me!"
+msgstr ""
+
+#. Id: 46920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46920-Dialogue.mod:0
+msgid "You're something else, aren't you? You need to learn to LISTEN."
+msgstr ""
+
+#. Id: 46921-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46920-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46921-Dialogue.mod:0
+msgid "I've no patience for troublesome women!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:0
+msgid "Why aren't you leaving?! Are you trying to /TAINT/ me, /TEMPTRESS/?!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:1
+msgid "Why are you still here? You try to seduce me in my own home?!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:2
+msgid "Why are you still here, woman?! We're closed!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:3
+msgid "Why are you harassing me, woman!? Leave!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:4
+msgid "You're still here!? What are you, trying to /TAINT/ me, wretched woman?!"
+msgstr ""
+
+#. Id: 43022-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (46921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43022-Dialogue.mod:5
+msgid "Leave me alone, woman! I won't be /TAINT/ed by you!"
+msgstr ""
+
+#. Id: 43021-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43021-Dialogue.mod:0
+msgid "/GUARD/s! This /TEMPTRESS/ tries to /TAINT/ me with her /GREASY/ ways!"
+msgstr ""
+
+#. Id: 43021-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (43022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43021-Dialogue.mod:1
+msgid "/GUARD/s! I'm being harassed!"
+msgstr ""
+
+#. Id: 43021-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (43022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43021-Dialogue.mod:2
+msgid "/GUARD/s! The /TAINT/ed woman is harassing me!"
+msgstr ""
+
+#. Id: 43021-Dialogue.mod
+#. -- Index: 8.3
+#. -- Parent line: 7 (43022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43021-Dialogue.mod:3
+msgid "/GUARD/s! Make her go away! Wretched woman!"
+msgstr ""
+
+#. Id: 43021-Dialogue.mod
+#. -- Index: 8.4
+#. -- Parent line: 7 (43022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43021-Dialogue.mod:4
+msgid "/GUARD/s! Help me! This /TEMPTRESS/ tries to /TAINT/ me!"
+msgstr ""
+
+#. Id: 43025-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43025-Dialogue.mod:0
+msgid "We're closing. Leave already."
+msgstr ""
+
+#. Id: 43025-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43025-Dialogue.mod:1
+msgid "I'm closing up now. Leave."
+msgstr ""
+
+#. Id: 43025-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43025-Dialogue.mod:2
+msgid "Shop's closing up now. Leave."
+msgstr ""
+
+#. Id: 43026-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43026-Dialogue.mod:4
+msgid "Leave my shop!"
+msgstr ""
+
+#. Id: 43026-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (43025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43026-Dialogue.mod:5
+msgid "I don't want you here!"
+msgstr ""
+
+#. Id: 43026-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (43025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43026-Dialogue.mod:6
+msgid "You're not wanted here!"
+msgstr ""
+
+#. Id: 43027-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43027-Dialogue.mod:0
+msgid "Get out of my shop, beast! Paladins!"
+msgstr ""
+
+#. Id: 43027-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43027-Dialogue.mod:1
+msgid "Paladins! The dark one, won't leave!"
+msgstr ""
+
+#. Id: 43027-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43027-Dialogue.mod:3
+msgid "Help! Intruder! Get /HIM/ out!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:0
+msgid "/GUARD/s! I have an intruder!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:1
+msgid "Intruder! Paladins!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:2
+msgid "Trespasser! Paladins, help!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:3
+msgid "Assistance, paladins! Intruder!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:4
+msgid "Intruder! Intruder, paladins!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:5
+msgid "Help, paladins! Intruder!"
+msgstr ""
+
+#. Id: 43009-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (43026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 43009-Dialogue.mod:6
+msgid "Help me, paladins! /HEIS/ trespassing!"
+msgstr ""
+
+#. Id: 43227-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43227-Dialogue.mod:0
+msgid "Shop's closing soon, holy /BROTHER/"
+msgstr ""
+
+#. Id: 43227-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43227-Dialogue.mod:1
+msgid "It's almost closing time, holy /BROTHER/"
+msgstr ""
+
+#. Id: 43227-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43227-Dialogue.mod:2
+msgid "I'm sorry, holy /BROTHER/, we're closing now"
+msgstr ""
+
+#. Id: 43233-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43233-Dialogue.mod:1
+msgid "But, er, I can wait for you. Take your time."
+msgstr ""
+
+#. Id: 46925-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46924-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 46925-Dialogue.mod:0
+msgid "You need to leave. The shop's closing."
+msgstr ""
+
+#. Id: 46931-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46930-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46931-Dialogue.mod:0
+msgid "Ugh... I give up. He's all yours."
+msgstr ""
+
+#. Id: 46932-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46932-Dialogue.mod:0
+msgid "... o..okay..."
+msgstr ""
+
+#. Id: 43232-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43232-Dialogue.mod:0
+msgid "I'm closing up soon, sister. Please come back again soon."
+msgstr ""
+
+#. Id: 43232-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43232-Dialogue.mod:1
+msgid "Thanks for visiting! May the light protect you, sister."
+msgstr ""
+
+#. Id: 43232-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 43232-Dialogue.mod:2
+msgid "It's getting dark out, tread carefully, sister."
+msgstr ""
+
+#. Id: 43237-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43237-Dialogue.mod:0
+msgid "I need to lock up now..."
+msgstr ""
+
+#. Id: 43237-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43237-Dialogue.mod:1
+msgid "I need to lock up the shop..."
+msgstr ""
+
+#. Id: 43237-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43232-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43237-Dialogue.mod:2
+msgid "I'll be locking the doors now..."
+msgstr ""
+
+#. Id: 43238-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43238-Dialogue.mod:0
+msgid "Please leave..."
+msgstr ""
+
+#. Id: 43238-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43238-Dialogue.mod:1
+msgid "Please leave now. You can come back in the morning."
+msgstr ""
+
+#. Id: 43238-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43238-Dialogue.mod:2
+msgid "I'll be open as usual in the morning. Please leave now."
+msgstr ""
+
+#. Id: 46938-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46936-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46938-Dialogue.mod:0
+msgid "Wretched woman!"
+msgstr ""
+
+#. Id: 46939-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46938-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 46939-Dialogue.mod:0
+msgid "If you're not out soon, I'll throw you out myself!"
+msgstr ""
+
+#. Id: 46940-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46939-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 3115-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46940-Dialogue.mod:0 3115-gamedata.base:0 46446-Dialogue.mod:0
+msgid "Be off with you!"
+msgstr ""
+
+#. Id: 46941-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 46941-Dialogue.mod:0
+msgid "Intruder! I warned you!"
+msgstr ""
+
+#. Id: 49921-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 49921-Dialogue.mod:0
+msgid "Paladins! Skeleton! Sk- skeletons are here!"
+msgstr ""
+
+#. Id: 49925-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 49925-Dialogue.mod:0
+msgid "It's taken over my shop!"
+msgstr ""
+
+#. Id: 49925-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (49921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep holy shoo
+#: 49925-Dialogue.mod:1
+msgid "My shop! My shop is infested! I'm plagued by the darkness!"
+msgstr ""
+

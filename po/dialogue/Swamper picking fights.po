@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 49208-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper picking fights
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 49208-Dialogue.mod:0
+msgid "Well wouldya lookit that big sword!... Obviously makin' up for shortcomin's in the sack, eh?"
+msgstr ""
+
+#. Id: 49213-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper picking fights
+#: 49213-Dialogue.mod:0
+msgid "...You lookin' for a fight, /INSULT/? Cuz if that's what you want, that's what you'll get!"
+msgstr ""
+
+#. Id: 49213-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (49208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper picking fights
+#: 49213-Dialogue.mod:1
+msgid "Oh yeah? An' you call that skinny piece o' shit a sword? I'll show you what a real sword feels like!"
+msgstr ""
+
+#. Id: 49213-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (49208-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper picking fights
+#: 49213-Dialogue.mod:2
+msgid "Keep pushin' me, /INSULT/. See what happens."
+msgstr ""
+
+#. Id: 49216-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper picking fights
+#: 49216-Dialogue.mod:0
+msgid "Got a big mouth for a little pecker, don'tcha?"
+msgstr ""
+

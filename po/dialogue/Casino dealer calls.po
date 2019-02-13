@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:0
+msgid "Aye, you, /OUTLANDER/! How about a game o' Cat Crawlers?"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:1
+msgid "New game startin' up, Crawlin' for Cats. Take a seat and make some credits!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:2
+msgid "Put your money where your mouth is and come play Crawlin' for Cats!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:3
+msgid "Hoy, /OUTLANDER/! Wanna make some money? Come play!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:4
+msgid "You, /OUTLANDER/. Sit your ass down and come play some Cat Crawlers!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:5
+msgid "Come try your luck at a game of Cat Crawlers, /OUTLANDER/! Sit on down!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:6
+msgid "Here to gamble, /OUTLANDER/? Take a seat!"
+msgstr ""
+
+#. Id: 48353-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48353-Dialogue.mod:7
+msgid "Everyone's a winner with Cat Crawlers! Come play a game and make some Cats, /OUTLANDER/!"
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:0
+msgid "Back for another game, /OUTLANDER/? Sit on down and play a round, eh?"
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:1
+msgid "Well if it ain't my favourite gambler! Come take a seat and play, eh?"
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:2
+msgid "Back for more, /OUTLANDER/? Never know, today might be your lucky day for a win!"
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:3
+msgid "Back for another game o' Cat Crawlers, /OUTLANDER/? Take a seat..."
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:4
+msgid "Come back for another round o' Cat Crawlers, eh? Sit on down, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 48354-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 48354-Dialogue.mod:5
+msgid "Take a seat and play another game o' Cat Crawlers, /OUTLANDER/!"
+msgstr ""
+
+#. Id: 66160-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#: 66160-__November.mod:0
+msgid "And it's a dryout! Bad luck, gambler..."
+msgstr ""
+
+#. Id: 51276-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66160-__November.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51276-Dialogue.mod:0
+msgid "Wha? I'm all dried out?! But it was a clean lick! A CLEAN LICK!"
+msgstr ""
+
+#. Id: 51277-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51276-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51277-Dialogue.mod:0
+msgid "It's 'cause you punched the birds! I wanted to tickle the wheat with a buxom red! Go to hell dealer, you can shove your rollback!"
+msgstr ""
+
+#. Id: 51278-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#: 51278-Dialogue.mod:0
+msgid "Learn to play better next time, amateur. I don't pull the licks. The licks pull you."
+msgstr ""
+
+#. Id: 51279-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51278-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51279-Dialogue.mod:0
+msgid "Don't blame the licks! We all know you're a shady dealer! You're just lucky you're behind that counter right now..."
+msgstr ""
+
+#. Id: 51280-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#: 51280-Dialogue.mod:0
+msgid "You'll be back. You'll come crawlin' back for another game by nightfall, just like you always do. They don't call it cat crawlers for nothing. "
+msgstr ""
+
+#. Id: 51281-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51280-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51281-Dialogue.mod:0
+msgid "... Fine... 100 Cats. Weep the garru."
+msgstr ""
+
+#. Id: 66161-__November.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#: 66161-__November.mod:0
+msgid "And we have a loser with a dryout!"
+msgstr ""
+
+#. Id: 51273-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66161-__November.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51273-Dialogue.mod:0
+msgid "Whoa whoa ay! I had a plank! What're ya doin' to me, hive? Those were my last Cats, dammit!"
+msgstr ""
+
+#. Id: 51274-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51273-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#: 51274-Dialogue.mod:0
+msgid "Them's the rules. Better luck next time."
+msgstr ""
+
+#. Id: 51275-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51274-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Casino dealer calls
+#: 51275-Dialogue.mod:0
+msgid "Tch, this game is dog shit, I tell ya..."
+msgstr ""
+
+#. Id: 51286-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Casino dealer calls
+#: 51286-Dialogue.mod:0
+msgid "You'll be back... You'll be back..."
+msgstr ""
+

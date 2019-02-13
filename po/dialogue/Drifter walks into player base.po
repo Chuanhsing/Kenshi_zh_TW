@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62640-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62640-Dialogue.mod:0
+msgid "/HELLO/!"
+msgstr ""
+
+#. Id: 62646-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62640-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62646-Dialogue.mod:0
+msgid "Nice place you've got here..."
+msgstr ""
+
+#. Id: 62649-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62649-Dialogue.mod:0
+msgid "No?"
+msgstr ""
+
+#. Id: 62650-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62650-Dialogue.mod:0
+msgid "Kch... miserable grouch..."
+msgstr ""
+
+#. Id: 62650-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (62649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62650-Dialogue.mod:1
+msgid "So much for travelling all the way here..."
+msgstr ""
+
+#. Id: 62651-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62650-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 62651-Dialogue.mod:0
+msgid "Fine... I'm leaving."
+msgstr ""
+
+#. Id: 62644-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 62644-Dialogue.mod:0
+msgid "/HI/, /BROTHER/!"
+msgstr ""
+

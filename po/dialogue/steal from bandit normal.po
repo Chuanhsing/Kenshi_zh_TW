@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13468-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13468-Escapes.mod:0
+msgid "/WTF/ are you doin' /BOY/!?"
+msgstr ""
+
+#. Id: 13468-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13468-Escapes.mod:1
+msgid "/INSULT/! /WTF/ are you doin'?!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:0
+msgid "I'll gut you for that!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:1
+msgid "I'll /SLITYOURTHROAT/ for that!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:2
+msgid "You stealin' from ME!? I'll kill you!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:3
+msgid "You stealin' from ME!? I'll gut you!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:4
+msgid "I'll /SNAP/ yer head off!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:5
+msgid "You stealin' from ME!? I'll /SNAP/ yer head off!"
+msgstr ""
+
+#. Id: 13472-Escapes.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (13468-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 13472-Escapes.mod:6
+msgid "You're a dead /MAN/!"
+msgstr ""
+
+#. Id: 13883-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 13883-Escapes.mod:0
+msgid "/WTF/!... er..."
+msgstr ""
+
+#. Id: 13883-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 13883-Escapes.mod:1
+msgid "/OI/! ... er..."
+msgstr ""
+

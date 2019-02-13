@@ -1,0 +1,705 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61081-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61081-Dialogue.mod:0
+msgid "Under order of the Empire..."
+msgstr ""
+
+#. Id: 61081-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61081-Dialogue.mod:1
+msgid "Under Empire law..."
+msgstr ""
+
+#. Id: 61082-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61081-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61082-Dialogue.mod:0
+msgid "You have been sentenced for multiple crimes of treason..."
+msgstr ""
+
+#. Id: 61083-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61083-Dialogue.mod:0
+msgid "By punishment of death."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:0
+msgid "At the ready..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:1
+msgid "Ready..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:2
+msgid "Positions, soldiers..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:3
+msgid "Positions..."
+msgstr ""
+
+#. Id: 61084-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (61083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61084-Dialogue.mod:4
+msgid "Weapons at the ready..."
+msgstr ""
+
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 98001-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt
+#. Id: 95500-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 56065-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56056-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. Id: 61025-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! crowd trigger
+#. Id: 17995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 19808-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin attacked by someone else
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 96622-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (96621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninjas announce
+#. Id: 96646-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96645-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamp ninjas announce
+#. Id: 99085-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 46329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. Id: 46330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 98066-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 43836-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 15735-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 47722-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: assassin fail hiver
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 8386-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prepare the turrets
+#. Id: 96701-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 3274-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 17605-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 47730-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Assassin failed military
+#. Id: 1532360-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 63557-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63556-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase
+#. Id: 98141-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 59501-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver witness assault
+#. Id: 96475-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Krals Chosen announce
+#. Id: 3734-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 1531997-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase Prayer Day
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#. Id: 1531989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1531988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN Assault phase woman
+#. Id: 96671-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#. Id: 96677-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sand ninja announce
+#: 61085-Dialogue.mod:0 98001-Dialogue.mod:0 95500-Dialogue.mod:1 56065-rebirth.mod:0 61025-Dialogue.mod:1 17995-Dialogue.mod:0 19808-Dialogue.mod:2 96622-Dialogue.mod:2 96646-Dialogue.mod:0 99085-Dialogue.mod:0 46318-Dialogue.mod:3 46328-Dialogue.mod:4 46329-Dialogue.mod:0 46330-Dialogue.mod:0 98066-Dialogue.mod:0 43836-Dialogue.mod:1 15735-Dialogue.mod:0 47722-Dialogue.mod:1 14552-Dialogue?(4).mod:3 8386-Dialogue.mod:0 96701-Dialogue.mod:0 3274-gamedata.base:0 17605-Dialogue.mod:0 47730-Dialogue.mod:5 1532360-Dialogue.mod:0 17935-Dialogue.mod:0 63557-Dialogue.mod:0 98141-Dialogue.mod:0 59501-Dialogue.mod:0 96475-Dialogue.mod:0 3734-gamedata.base:1 1531997-Dialogue.mod:0 15705-Dialogue.mod:2 15709-Dialogue.mod:0 95893-Dialogue.mod:1 1531989-Dialogue.mod:0 96671-Dialogue.mod:0 96677-Dialogue.mod:0
+msgid "Attack!"
+msgstr ""
+
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 96305-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (96304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver freaks out protecting queen shoo
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 13939-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13927-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13945-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13943-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 61780-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hired thug base attack
+#. Id: 43844-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 3734-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit join in fight
+#. Id: 15140-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 3000
+#. Id: 40943-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40942-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 40944-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (40945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix Shoo
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 40946-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (40945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 61085-Dialogue.mod:1 96305-Dialogue.mod:3 13939-Escapes.mod:1 13945-Escapes.mod:0 61780-Dialogue.mod:0 43844-Dialogue.mod:3 3734-gamedata.base:2 15140-Dialogue.mod:0 40943-Dialogue.mod:2 40944-Dialogue.mod:5 40946-Dialogue.mod:3
+msgid "Go!"
+msgstr ""
+
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 44365-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. Id: 96210-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96209-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Small bounty
+#. Id: 16696-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16690-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting slaver ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Slave Traders
+#. Id: 52839-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52764-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 15608-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15606-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness looting
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 15611-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15610-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness looting
+#. Id: 15165-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16586-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 53261-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (53260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16522-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (16521-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 41048-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41047-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin sees escaped slave
+#. Id: 15560-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15555-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. Id: 15621-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness stealing from me
+#. Id: 8386-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prepare the turrets
+#. Id: 52367-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (52366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military kidnapping
+#. Id: 63513-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63511-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault guard
+#. Id: 52469-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52262-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52191-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52186-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 16599-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 41066-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver paladin witness assault
+#. Id: 60690-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (60688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire assault on enemy player
+#. Id: 15546-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 61085-Dialogue.mod:2 44365-Dialogue.mod:0 96210-Dialogue.mod:0 16696-Dialogue.mod:0 52839-Dialogue.mod:0 52764-Dialogue.mod:0 15608-Dialogue.mod:1 15611-Dialogue.mod:0 15165-Dialogue.mod:0 53261-Dialogue.mod:0 16522-Dialogue.mod:0 41048-Dialogue.mod:0 15560-Dialogue.mod:0 15621-Dialogue.mod:0 8386-Dialogue.mod:6 52367-Dialogue.mod:3 63513-Dialogue.mod:2 52469-Dialogue.mod:0 52262-Dialogue.mod:0 52186-Dialogue.mod:0 16599-Dialogue.mod:0 41066-Dialogue.mod:0 60690-Dialogue.mod:2 15546-Dialogue.mod:1 15598-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 95500-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 1532675-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation enemy hunt
+#. Id: 61025-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Charge! crowd trigger
+#. Id: 15723-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 64414-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver enemy announce
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 61026-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 60690-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire assault on enemy player
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 61988-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 64389-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (64388-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#: 61085-Dialogue.mod:3 95500-Dialogue.mod:0 1532675-Dialogue.mod:5 61025-Dialogue.mod:0 15723-Dialogue.mod:9 14738-Dialogue.mod:6 10970-Dialogue?(10).mod:7 64414-Dialogue.mod:1 17599-Dialogue.mod:4 17935-Dialogue.mod:1 61026-Dialogue.mod:0 60690-Dialogue.mod:1 15705-Dialogue.mod:7 15709-Dialogue.mod:4 61988-Dialogue.mod:0 64389-Dialogue.mod:2 95893-Dialogue.mod:0
+msgid "Charge!"
+msgstr ""
+
+#. Id: 61085-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (61084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#. Id: 95893-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (96754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Illegal building announce
+#: 61085-Dialogue.mod:4 95893-Dialogue.mod:2
+msgid "Strike!"
+msgstr ""
+
+#. Id: 61086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61086-Dialogue.mod:0
+msgid "Come out, criminal!"
+msgstr ""
+
+#. Id: 61086-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61086-Dialogue.mod:1
+msgid "Face your punishment, criminal!"
+msgstr ""
+
+#. Id: 61087-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61087-Dialogue.mod:0
+msgid "Your crime spree has finally come to an end today..."
+msgstr ""
+
+#. Id: 61092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61092-Dialogue.mod:0
+msgid "This is the moment you'll finally learn to respect the Empire!"
+msgstr ""
+
+#. Id: 61088-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61088-Dialogue.mod:0
+msgid "You think anyone who disrespects the Empire ever lives to tell the tale?"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:0
+msgid "Think again, /TERRORIST/!"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:1
+msgid "Think again, criminal!"
+msgstr ""
+
+#. Id: 61089-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61089-Dialogue.mod:2
+msgid "You can't escape your past, /TERRORIST/."
+msgstr ""
+
+#. Id: 61090-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61090-Dialogue.mod:0
+msgid "Because the Empire never forgets!"
+msgstr ""
+
+#. Id: 61090-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire standard assault announce
+#: 61090-Dialogue.mod:1
+msgid "Because the Empire never forgives!"
+msgstr ""
+

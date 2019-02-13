@@ -1,0 +1,1535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57908-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#: 57908-Dialogue.mod:0
+msgid "So!... Pissed off the wrong people, eh? Well, not to worry, I ain't one to judge 'n I certainly ain't one to kick a drownin' asshole either. I'm all ears... Here, sid-down, sid-down, welcome to my office... [They shove empty grog tankards from the table with a loud crash]"
+msgstr ""
+
+#. Id: 57909-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57909-Dialogue.mod:0
+msgid "I dunno who's soup you spat in but the United Cities really ain't likin' ya these days, are they? Lucky for you some of us still got enough charm left in us to smooth things out for ya. But my silver tongue don't come cheap"
+msgstr ""
+
+#. Id: 57916-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57909-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57916-Dialogue.mod:0
+msgid "I wouldn't call that tongue of yours silver..."
+msgstr ""
+
+#. Id: 57918-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57918-Dialogue.mod:0
+msgid "Eh, now?... Then answer me this, /OUTLANDER/: do you call shit-smeared silver, shit?"
+msgstr ""
+
+#. Id: 57920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57920-Dialogue.mod:0
+msgid "Only an idiot judges by shit smears. Don't be an idiot."
+msgstr ""
+
+#. Id: 57923-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57923-Dialogue.mod:0
+msgid "How very profound..."
+msgstr ""
+
+#. Id: 57926-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57926-Dialogue.mod:0
+msgid "Yeah... well, enough'a my wisdom nuggets. Interested in my help or not?"
+msgstr ""
+
+#. Id: 57925-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57925-Dialogue.mod:0
+msgid "Why.. why are we talking about shit now?"
+msgstr ""
+
+#. Id: 57951-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57951-Dialogue.mod:0
+msgid "Don't lookit me, you started it. Now, interested in my help or not?"
+msgstr ""
+
+#. Id: 57921-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57921-Dialogue.mod:0
+msgid "...Yes?"
+msgstr ""
+
+#. Id: 57917-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57909-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57944-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57947-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57911-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57949-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57912-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57917-Dialogue.mod:0 57944-Dialogue.mod:0 57947-Dialogue.mod:0 57949-Dialogue.mod:0
+msgid "Okay. How much?"
+msgstr ""
+
+#. Id: 57928-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 57928-Dialogue.mod:0
+msgid "Well. You musta killed your fair share of nobles, 'cause they really hate you. Like, REALLY hate you. Whew I would not want to be in your shoes right now. It's gonna cost you 100,000 Cats. I got my work cut out for me on this one..."
+msgstr ""
+
+#. Id: 57960-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. Id: 58178-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57945-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. Id: 58180-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57948-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. Id: 58179-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#. Id: 58025-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50000, Tag: -1
+#. Id: 65040-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#: 57960-Dialogue.mod:0 58178-Dialogue.mod:0 58180-Dialogue.mod:0 58179-Dialogue.mod:0 58025-Dialogue.mod:0 65040-Dialogue.mod:0
+msgid "Deal [Relations +80]"
+msgstr ""
+
+#. Id: 57961-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57960-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57961-Dialogue.mod:0
+msgid "Consider it done! Asshole levels neutralised! Maybe try keepin' your head down in future eh? Or, ya know, try being NICE to people..."
+msgstr ""
+
+#. Id: 57998-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57953-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57985-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58026-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58029-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58032-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58035-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 52673-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#. Id: 47100-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 57998-Dialogue.mod:0 57953-Dialogue.mod:0 57985-Dialogue.mod:0 58026-Dialogue.mod:0 58029-Dialogue.mod:0 58032-Dialogue.mod:0 58035-Dialogue.mod:0 52673-Dialogue.mod:2 47100-Dialogue.mod:1
+msgid "Forget it, I'm not interested."
+msgstr ""
+
+#. Id: 58000-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57998-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58000-Dialogue.mod:0
+msgid "Not interested? Whew, you're gonna regret that when the Five Invincibles come looking for ya..."
+msgstr ""
+
+#. Id: 58003-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58000-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58003-Dialogue.mod:0
+msgid "I give ya a week. Still alive after that, I'll eat my hat."
+msgstr ""
+
+#. Id: 58001-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57998-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58001-Dialogue.mod:0
+msgid "Not interested? Whew, you're gonna regret that when Eyegore turns up on your doorstep... Would NOT wanna be in your shoes right now..."
+msgstr ""
+
+#. Id: 58002-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57998-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58002-Dialogue.mod:0
+msgid "Not interested? Then Okran save ya, you're gonna regret that when the high inquisitor tracks ya down..."
+msgstr ""
+
+#. Id: 58007-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57998-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58007-Dialogue.mod:0
+msgid "No? Well, ain't that a shame..."
+msgstr ""
+
+#. Id: 58005-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58005-Dialogue.mod:0
+msgid "Ouch. Wouldn't wanna be in your boots right now...  I feel for ya, I really do..."
+msgstr ""
+
+#. Id: 58006-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58006-Dialogue.mod:0
+msgid "*Cough* Even if you are a royal asshole..."
+msgstr ""
+
+#. Id: 57929-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#. Id: 58135-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#. Id: 58140-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#. Id: 58145-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#: 57929-Dialogue.mod:0 58135-Dialogue.mod:0 58140-Dialogue.mod:0 58145-Dialogue.mod:0
+msgid "75,000 Cats. In this case, talk ain't cheap."
+msgstr ""
+
+#. Id: 57952-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#. Id: 58188-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#. Id: 58189-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58140-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#. Id: 58190-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58145-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#. Id: 58028-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>40000, Tag: -1
+#. Id: 65041-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65036-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75000, Tag: -1
+#: 57952-Dialogue.mod:0 58188-Dialogue.mod:0 58189-Dialogue.mod:0 58190-Dialogue.mod:0 58028-Dialogue.mod:0 65041-Dialogue.mod:0
+msgid "Deal [Relations +60]"
+msgstr ""
+
+#. Id: 57959-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58225-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58025-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58230-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58250-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58252-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58254-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57959-Dialogue.mod:0 58225-Dialogue.mod:0 58230-Dialogue.mod:0 58250-Dialogue.mod:0 58252-Dialogue.mod:0 58254-Dialogue.mod:0
+msgid "Consider it done! Come back to me with that lil Cat sack o' yours when you screw up again won'tcha?"
+msgstr ""
+
+#. Id: 57962-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57962-Dialogue.mod:0
+msgid "Blessin's of Okran to ya..."
+msgstr ""
+
+#. Id: 57965-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57965-Dialogue.mod:0
+msgid "Never know, you might actually like it..."
+msgstr ""
+
+#. Id: 57966-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 57970-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57966-Dialogue.mod:0 57970-Dialogue.mod:0
+msgid "Behave yourself now, eh..."
+msgstr ""
+
+#. Id: 57968-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58231-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58251-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58250-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58253-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58255-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57968-Dialogue.mod:0 58231-Dialogue.mod:0 58251-Dialogue.mod:0 58253-Dialogue.mod:0 58255-Dialogue.mod:0
+msgid "And say hi to Moll for me..."
+msgstr ""
+
+#. Id: 57969-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58226-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58232-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58256-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58250-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58257-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58258-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57969-Dialogue.mod:0 58226-Dialogue.mod:0 58232-Dialogue.mod:0 58256-Dialogue.mod:0 58257-Dialogue.mod:0 58258-Dialogue.mod:0
+msgid "Don't do what I wouldn't do, got it?"
+msgstr ""
+
+#. Id: 57971-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58227-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58233-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57971-Dialogue.mod:0 58227-Dialogue.mod:0 58233-Dialogue.mod:0
+msgid "Remember, don't be an asshole..."
+msgstr ""
+
+#. Id: 57963-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57963-Dialogue.mod:0
+msgid "No? Heh. Then this'll be one hell of a shit show. I give you two weeks, max..."
+msgstr ""
+
+#. Id: 57964-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57964-Dialogue.mod:0
+msgid "*Snort* Good luck..."
+msgstr ""
+
+#. Id: 57955-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57955-Dialogue.mod:0
+msgid "Then come back to me when you find it... If you haven't been bumped off by royal assassins by then..."
+msgstr ""
+
+#. Id: 57956-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57956-Dialogue.mod:0
+msgid "*Snort* Safe travels, asshole."
+msgstr ""
+
+#. Id: 57930-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#. Id: 58136-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#. Id: 58141-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#. Id: 58146-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#: 57930-Dialogue.mod:0 58136-Dialogue.mod:0 58141-Dialogue.mod:0 58146-Dialogue.mod:0
+msgid "You came to me at the right time. The earlier we fix this, the better. 55,000 Cats."
+msgstr ""
+
+#. Id: 57984-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>55000, Tag: -1
+#. Id: 58197-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58136-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>55000, Tag: -1
+#. Id: 58198-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58141-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>55000, Tag: -1
+#. Id: 58199-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58146-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>55000, Tag: -1
+#. Id: 58031-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>30000, Tag: -1
+#. Id: 65042-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65037-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>55000, Tag: -1
+#: 57984-Dialogue.mod:0 58197-Dialogue.mod:0 58198-Dialogue.mod:0 58199-Dialogue.mod:0 58031-Dialogue.mod:0 65042-Dialogue.mod:0
+msgid "Deal [Relations +40]"
+msgstr ""
+
+#. Id: 57990-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57990-Dialogue.mod:0
+msgid "You'll be back... you'll be back..."
+msgstr ""
+
+#. Id: 57991-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57991-Dialogue.mod:0
+msgid "Then you'll just have to find it, wont'cha?"
+msgstr ""
+
+#. Id: 57940-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#. Id: 58137-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#. Id: 58142-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#. Id: 58147-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#: 57940-Dialogue.mod:0 58137-Dialogue.mod:0 58142-Dialogue.mod:0 58147-Dialogue.mod:0
+msgid "Oughta make short work of this job. Call it 35,000 Cats for a fresh start."
+msgstr ""
+
+#. Id: 57992-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>35000, Tag: -1
+#. Id: 58206-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>35000, Tag: -1
+#. Id: 58209-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58142-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>35000, Tag: -1
+#. Id: 58222-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58147-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>35000, Tag: -1
+#. Id: 58034-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>20000, Tag: -1
+#. Id: 65043-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65038-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>35000, Tag: -1
+#: 57992-Dialogue.mod:0 58206-Dialogue.mod:0 58209-Dialogue.mod:0 58222-Dialogue.mod:0 58034-Dialogue.mod:0 65043-Dialogue.mod:0
+msgid "Deal [Relations +20]"
+msgstr ""
+
+#. Id: 57993-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58114-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 42428-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 57993-Dialogue.mod:0 58114-Dialogue.mod:0 42428-Dialogue.mod:0
+msgid "Forget it, I'm not interested"
+msgstr ""
+
+#. Id: 58112-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#. Id: 58138-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#. Id: 58143-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#. Id: 58148-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#: 58112-Dialogue.mod:0 58138-Dialogue.mod:0 58143-Dialogue.mod:0 58148-Dialogue.mod:0
+msgid "Oughta make short work of this job. Call it 15,000 Cats for a fresh start."
+msgstr ""
+
+#. Id: 58113-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#. Id: 58212-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58138-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#. Id: 58215-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58143-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#. Id: 58219-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58148-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#. Id: 58248-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58242-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>10000, Tag: -1
+#. Id: 65044-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65039-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#: 58113-Dialogue.mod:0 58212-Dialogue.mod:0 58215-Dialogue.mod:0 58219-Dialogue.mod:0 58248-Dialogue.mod:0 65044-Dialogue.mod:0
+msgid "Deal [Relations +10]"
+msgstr ""
+
+#. Id: 57927-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57909-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 63382-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63381-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: vault prisoner unlock attempt
+#: 57927-Dialogue.mod:0 63382-Dialogue.mod:0
+msgid "I don't need your help."
+msgstr ""
+
+#. Id: 57910-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57910-Dialogue.mod:0
+msgid "I know, I know, it ain't hard to piss off the Holy Nation I'll give ya that. Hell, they give out the stinkeye like hash at a swamp party. But, me, I got an in. I can fix this for you, for a price."
+msgstr ""
+
+#. Id: 57945-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 57945-Dialogue.mod:0
+msgid "Your name's as black as mud in the Holy Nation, it's gonna be a tough one. I mean, hell, you've overtaken Moll herself as the new devil in the priest's eyes. For this, it's gonna take every trick in the book... 100,000 Cats."
+msgstr ""
+
+#. Id: 57911-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57911-Dialogue.mod:0
+msgid "Now, the Shek, they like havin' enemies, see. Gives 'em an excuse for a fight. It ain't easy but I can smooth 'em over for ya, call it gift of the gab! Hard things cost hard Cats though..."
+msgstr ""
+
+#. Id: 57948-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 57948-Dialogue.mod:0
+msgid "They're mad. And I mean really mad. I've not seen them this riled up about anyone since the bugmaster... 100,000 Cats and we're all friends again."
+msgstr ""
+
+#. Id: 57912-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57912-Dialogue.mod:0
+msgid "Been causin' quite a stir ain'tcha? But the Traders Guild, they're a fickle bunch, show 'em some Cats and all is forgotten. I can sort this for you."
+msgstr ""
+
+#. Id: 57950-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 57950-Dialogue.mod:0
+msgid "Well... they're mad. An' that's an understatement. It's gonna take a lot of Cats to buy 'em back. 100,000, to be precise... "
+msgstr ""
+
+#. Id: 57913-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57913-Dialogue.mod:0
+msgid "Now, the Hounds, sure they like makin' examples of people in their own messy ways. But they're quick to forget. Brains of fish. I can smooth things over for a price."
+msgstr ""
+
+#. Id: 58015-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57913-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 65028-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65029-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 47098-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 58015-Dialogue.mod:0 65028-Dialogue.mod:0 47098-Dialogue.mod:0
+msgid "Okay, how much?"
+msgstr ""
+
+#. Id: 58020-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 58020-Dialogue.mod:0
+msgid "Well, the damage is... bad. But it's doable. 50,000 Cats and I can smooth things over real nice for ya..."
+msgstr ""
+
+#. Id: 58228-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58234-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58259-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58250-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58260-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 58261-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 58228-Dialogue.mod:0 58234-Dialogue.mod:0 58259-Dialogue.mod:0 58260-Dialogue.mod:0 58261-Dialogue.mod:0
+msgid "Behave yourself now, eh?"
+msgstr ""
+
+#. Id: 58021-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#: 58021-Dialogue.mod:0
+msgid "40,000 Cats."
+msgstr ""
+
+#. Id: 58022-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#: 58022-Dialogue.mod:0
+msgid "30,000 Cats."
+msgstr ""
+
+#. Id: 58023-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#: 58023-Dialogue.mod:0
+msgid "20,000 Cats."
+msgstr ""
+
+#. Id: 58242-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#: 58242-Dialogue.mod:0
+msgid "10,000 Cats."
+msgstr ""
+
+#. Id: 57914-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57914-Dialogue.mod:0
+msgid "Looks like you're in Moll's bad books. Let me talk to her for you, I'll make things right again. Gonna have to cough up though. Think of it as paying for your mistakes, wiping the slate clean, eh?"
+msgstr ""
+
+#. Id: 57915-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57915-Dialogue.mod:0
+msgid "Well, you screwed up big with the anti-slavers, didn'tcha? The asshole of assholes, eh?... But like I said, I ain't judgin', I ain't judgin'... Well, I am... but moving on. I can get 'em to kiss and make up. For a price."
+msgstr ""
+
+#. Id: 57915-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 57915-Dialogue.mod:1
+msgid "I dunno what you did to the anti-slavers and... to be honest, I don't wanna know. Lucky for you, they can easily be distracted though. This, I can arrange. For a price."
+msgstr ""
+
+#. Id: 58281-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#: 58281-Dialogue.mod:0
+msgid "Well, you've rattled /MYFACTION/ cage just a little, sure. But I've had worse messes to fix up, believe you me. I can set things straight, all YOU gotta do is keep your nose clean... But my services come with a price."
+msgstr ""
+
+#. Id: 58281-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#: 58281-Dialogue.mod:1
+msgid "Well, you've ruffled a few feathers within /MYFACTION/, sure. But I've had worse messes to fix up, believe you me. I can set things straight, all YOU gotta do is keep your nose clean... But my services come with a price."
+msgstr ""
+
+#. Id: 59778-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59778-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The Stone Golem slayer?"
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:0
+msgid "You're gonna need a miracle to fix your alliance after pulling that one!"
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:1
+msgid "Some things can't be fixed. And this is one of them..."
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:2
+msgid "Some things can't be forgotten, /YOURNAME/. You've made yourself an enemy for life..."
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:3
+msgid "Alliances can only be patched so much before they fall to pieces. I can't help you."
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:4
+msgid "Some slates can never be wiped clean. And this is one of them."
+msgstr ""
+
+#. Id: 59780-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (59778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59780-Dialogue.mod:5
+msgid "There are some sins that you can never leave behind, /YOURNAME/."
+msgstr ""
+
+#. Id: 59779-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59779-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The Stone Golem 'napper?"
+msgstr ""
+
+#. Id: 59879-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59879-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The Phoenix killer?"
+msgstr ""
+
+#. Id: 59880-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. Id: 59883-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59880-Dialogue.mod:0 59883-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The inquisitor killer?"
+msgstr ""
+
+#. Id: 59884-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59884-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? You killed the Stone Golem's daughter..."
+msgstr ""
+
+#. Id: 59885-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59885-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? You killed Bayan..."
+msgstr ""
+
+#. Id: 59922-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 59922-Dialogue.mod:0
+msgid "Wait... You're part of the Flotsam ninjas. Did you really think the Holy Nation would let that slide so easy?"
+msgstr ""
+
+#. Id: 60264-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60264-Dialogue.mod:0
+msgid "Wait... You're part of the Holy Nation. Did you really think Flotsam would let that slide so easy?"
+msgstr ""
+
+#. Id: 60265-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60265-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? After what you did to their leader..."
+msgstr ""
+
+#. Id: 60410-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60410-Dialogue.mod:0
+msgid "Wait... You, I know you, you're an anti slaver! /LAUGH/, and you thought you could tidy things up with the Empire, just like that?"
+msgstr ""
+
+#. Id: 60414-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60414-Dialogue.mod:0
+msgid "/LAUGH/, think again, anti slaver!"
+msgstr ""
+
+#. Id: 60411-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60411-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The Tengu assassin? As much as I'm sure a lot of Empire folk appreciate being rid of that clown, you ain't exactly gonna be a trustworthy face in their eyes..."
+msgstr ""
+
+#. Id: 60412-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60412-Dialogue.mod:0
+msgid "Wait, hang on a second... /YOURNAME/... the one that took out the emperor's most favourite sergeant, Eyegore?"
+msgstr ""
+
+#. Id: 60728-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60728-Dialogue.mod:0
+msgid "Wait, hang on a second... /YOURNAME/... the one that took out Tinfist the Metal Brute?"
+msgstr ""
+
+#. Id: 60729-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60729-Dialogue.mod:0
+msgid "Wait, hang on a second... /YOURNAME/... the one that took out Old Grey?"
+msgstr ""
+
+#. Id: 60732-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60732-Dialogue.mod:0
+msgid "Wait, hang on a second... /YOURNAME/... the one that took out Jaegar the Mad?"
+msgstr ""
+
+#. Id: 60734-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60734-Dialogue.mod:0
+msgid "Wait, hang on a second... /YOURNAME/... the one that took out Big Bo?"
+msgstr ""
+
+#. Id: 60735-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60735-Dialogue.mod:0
+msgid "Wait... You're part of the United Cities. Did you really think the Anti Slavers would let that slide so easy?"
+msgstr ""
+
+#. Id: 60737-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60737-Dialogue.mod:0
+msgid "/LAUGH/, think again, boot licker!"
+msgstr ""
+
+#. Id: 60736-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60736-Dialogue.mod:0
+msgid "Wait... You're part of the Traders Guild. Did you really think the Anti Slavers would let that slide so easy?"
+msgstr ""
+
+#. Id: 60738-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60738-Dialogue.mod:0
+msgid "Wait... You're part of the Holy Nation. Did you really think the Anti Slavers would let that slide so easy?"
+msgstr ""
+
+#. Id: 60739-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60738-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60739-Dialogue.mod:0
+msgid "/LAUGH/, think again Okranite!"
+msgstr ""
+
+#. Id: 60934-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60934-Dialogue.mod:0
+msgid "Wait... You, I know you, you're an anti slaver! /LAUGH/, and you thought you could tidy things up with the Traders Guild, just like that?"
+msgstr ""
+
+#. Id: 60935-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60935-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? You... you took out Longen! I mean, holy- *cough*... I mean, you ain't exactly gonna be a face worthy of their forgiveness..."
+msgstr ""
+
+#. Id: 60936-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 60936-Dialogue.mod:0
+msgid "[They move in closer and examine your face]... Wait a minute... /YOURNAME/? The Kana assassin? As much as I'm sure a lot of Guild folk appreciate being rid of that witch, you ain't exactly gonna be a trustworthy face in their eyes..."
+msgstr ""
+
+#. Id: 57972-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 57972-Dialogue.mod:0
+msgid "Back so soon? Need help smoothin' things out with /MYFACTION/, eh?"
+msgstr ""
+
+#. Id: 57976-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-10, Tag: -1
+#: 57976-Dialogue.mod:0
+msgid "Ever need help smoothing things over with /MYFACTION/, you know where to find me..."
+msgstr ""
+
+#. Id: 58100-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-10, Tag: -1
+#: 58100-Dialogue.mod:0
+msgid "I'm done for the day. Still need something, come back tomorrow."
+msgstr ""
+
+#. Id: 65027-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#: 65027-Dialogue.mod:0
+msgid "[They hold up a finger and finish drinking their grog]"
+msgstr ""
+
+#. Id: 65029-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65029-Dialogue.mod:0
+msgid "So the slave lover comes crawling back to fix /HIS/ relationship with the slavers, eh? Well it's gonna cost you big to hide that reputation..."
+msgstr ""
+
+#. Id: 65035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-80, Tag: -1
+#: 65035-Dialogue.mod:0
+msgid "100,000 Cats. Pay up and I'll smooth things over for you, erase your bad deeds you could say. The Slave Traders will forget they ever even hated you."
+msgstr ""
+
+#. Id: 65056-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65056-Dialogue.mod:0
+msgid "Really, /MEN2/ fighting the slave trade in this day and age... You'd rather watch the world starve and burn it seems. Lucky for you, even stinking slave lovers can still buy back respect around here..."
+msgstr ""
+
+#. Id: 65057-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65057-Dialogue.mod:0
+msgid "I don't wanna have to have this conversation with you again, /YOURNAME/..."
+msgstr ""
+
+#. Id: 65036-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-80, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#: 65036-Dialogue.mod:0
+msgid "75,000 Cats. Pay up and I'll smooth things over for you, erase your bad deeds you could say. The Slave Traders will forget they ever even hated you."
+msgstr ""
+
+#. Id: 65037-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-60, Tag: -1
+#: 65037-Dialogue.mod:0
+msgid "55, 000 Cats. Pay up and I'll smooth things over for you, erase your bad deeds you could say. The Slave Traders will forget they ever even hated you."
+msgstr ""
+
+#. Id: 65038-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#: 65038-Dialogue.mod:0
+msgid "35,000 Cats. Pay up and I'll smooth things over for you. Erase your bad deeds, you could say..."
+msgstr ""
+
+#. Id: 65058-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65058-Dialogue.mod:0
+msgid "Alright, all is forgotten. Lucky for you, the Slave Traders like Cats more than they like grudges."
+msgstr ""
+
+#. Id: 65059-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65059-Dialogue.mod:0
+msgid "Now, move along."
+msgstr ""
+
+#. Id: 65039-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>-20, Tag: -1
+#: 65039-Dialogue.mod:0
+msgid "15,000 Cats. Pay up and I'll smooth things over for you. Erase your bad deeds, you could say..."
+msgstr ""
+
+#. Id: 65031-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65031-Dialogue.mod:0
+msgid "If you think you can fix your relationship with the slavers, slave lover, think again. Lady Kana was a big influence... some crimes can't be forgiven."
+msgstr ""
+
+#. Id: 65060-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65060-Dialogue.mod:0
+msgid "Really, /MEN2/ fighting the slave trade in this day and age... You'd rather watch the world starve and burn it seems..."
+msgstr ""
+
+#. Id: 65032-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65032-Dialogue.mod:0
+msgid "If you think you can fix your relationship with the slavers, slave lover, think again. Longen was a big cog in the slave trade machine... some crimes can't be forgiven."
+msgstr ""
+
+#. Id: 65033-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65033-Dialogue.mod:0
+msgid "If you think you can fix your relationship with the slavers, anti slaver, think again. "
+msgstr ""
+
+#. Id: 65034-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65034-Dialogue.mod:0
+msgid "If you think you can fix your relationship with the slavers, slave lover, think again. Tengu was our richest - I mean - most treasured supporter... some crimes can't be forgiven."
+msgstr ""
+
+#. Id: 65064-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65064-Dialogue.mod:0
+msgid "I'm not one for helping slave lovers out but... If you wanna fix things with the Slave Traders, you better make friends with the United Cities first. We're all united as part of the Empire... make enemies with them and you make enemies with us..."
+msgstr ""
+
+#. Id: 65066-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65066-Dialogue.mod:0
+msgid "'Til then... shoo."
+msgstr ""
+
+#. Id: 65065-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier bar diplomat talk to
+#: 65065-Dialogue.mod:0
+msgid "I'm not one for helping slave lovers out but... If you wanna fix things with the Slave Traders, you better make friends with the Traders Guild first. We're all united as part of the Empire... make enemies with them and you make enemies with us..."
+msgstr ""
+

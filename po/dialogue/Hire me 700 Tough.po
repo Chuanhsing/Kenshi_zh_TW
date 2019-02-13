@@ -1,0 +1,1109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:0
+msgid "I'm looking to band up and get out of town. You looking to /TEAMUP/?"
+msgstr ""
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:1
+msgid "I'm looking to band up and get out of town. You interested, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:2
+msgid "I'm looking to leave town. You looking to /TEAMUP/, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:3
+msgid "I need to leave town. You looking to /TEAMUP/, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:4
+msgid "Looking for an ally, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18677-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18677-Dialogue.mod:5
+msgid "Need an extra comrade, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18678-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18678-Dialogue.mod:2
+msgid "I am. I take it you charge a fee?"
+msgstr ""
+
+#. Id: 18678-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18678-Dialogue.mod:3
+msgid "Of course, I'm interested"
+msgstr ""
+
+#. Id: 18678-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18678-Dialogue.mod:4
+msgid "Go on, I'm interested..."
+msgstr ""
+
+#. Id: 18678-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18678-Dialogue.mod:5
+msgid "Sure, I'd be interested"
+msgstr ""
+
+#. Id: 18679-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18679-Dialogue.mod:0
+msgid "It will cost you 3000 Cats"
+msgstr ""
+
+#. Id: 18679-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18679-Dialogue.mod:1
+msgid "First I need my worth in Cats. Can you spare 3000?"
+msgstr ""
+
+#. Id: 18679-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18679-Dialogue.mod:2
+msgid "I charge 3000 Cats, flat rate"
+msgstr ""
+
+#. Id: 18679-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18679-Dialogue.mod:3
+msgid "I'll just need 3000 Cats, then I'm free to travel with you"
+msgstr ""
+
+#. Id: 18679-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18678-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18679-Dialogue.mod:4
+msgid "Before I can leave, I'll need a 3000 Cat fee"
+msgstr ""
+
+#. Id: 18784-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 18784-Dialogue.mod:0
+msgid "Sure, here"
+msgstr ""
+
+#. Id: 18784-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 18784-Dialogue.mod:1
+msgid "You're hired!"
+msgstr ""
+
+#. Id: 18784-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 98781-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: swamp hound vist ally talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 18784-Dialogue.mod:3 98781-Dialogue.mod:0
+msgid "Sounds fair"
+msgstr ""
+
+#. Id: 18788-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18788-Dialogue.mod:0
+msgid "Then let's get out of here!"
+msgstr ""
+
+#. Id: 18788-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (18784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18788-Dialogue.mod:2
+msgid "I'm all ready to go"
+msgstr ""
+
+#. Id: 18788-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (18784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18788-Dialogue.mod:3
+msgid "Then let's do this"
+msgstr ""
+
+#. Id: 18786-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18786-Dialogue.mod:0
+msgid "Pfft, 3000 Cats? Forget it..."
+msgstr ""
+
+#. Id: 18786-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18786-Dialogue.mod:1
+msgid "How many Cats?! Forget it..."
+msgstr ""
+
+#. Id: 18786-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18786-Dialogue.mod:2
+msgid "3000 Cats?! Forget it, that's way too much..."
+msgstr ""
+
+#. Id: 18680-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18680-Dialogue.mod:3
+msgid "Maybe. But first, what's your story?"
+msgstr ""
+
+#. Id: 18680-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18680-Dialogue.mod:4
+msgid "Perhaps. But first, who are you?"
+msgstr ""
+
+#. Id: 18680-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18680-Dialogue.mod:5
+msgid "Perhaps. I'd like to know who you are first though."
+msgstr ""
+
+#. Id: 18681-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18681-Dialogue.mod:0
+msgid "I've got a dark past, /BROTHER/... Trust me, it's best left untold."
+msgstr ""
+
+#. Id: 18681-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18681-Dialogue.mod:1
+msgid "My past is an ugly one, /BROTHER/... I'd prefer to keep it to myself."
+msgstr ""
+
+#. Id: 18681-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18681-Dialogue.mod:2
+msgid "Me? I'd rather leave my story behind and start a new one, /BROTHER/"
+msgstr ""
+
+#. Id: 18681-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18681-Dialogue.mod:3
+msgid "Me? I'd prefer to bury my past and make a new story actually, /BROTHER/"
+msgstr ""
+
+#. Id: 18681-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18681-Dialogue.mod:4
+msgid "My story?... It's not something I enjoy telling, /BROTHER/."
+msgstr ""
+
+#. Id: 18765-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18765-Dialogue.mod:0
+msgid "Okay... so how much are you charging?"
+msgstr ""
+
+#. Id: 18765-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18765-Dialogue.mod:1
+msgid "Uhuh... and how much are you charging?"
+msgstr ""
+
+#. Id: 18791-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18791-Dialogue.mod:0
+msgid "I'm charging 3000 Cats"
+msgstr ""
+
+#. Id: 18791-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (18765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18791-Dialogue.mod:1
+msgid "It will cost 3000 Cats"
+msgstr ""
+
+#. Id: 18791-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (18765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18791-Dialogue.mod:2
+msgid "3000 Cats, that's all"
+msgstr ""
+
+#. Id: 18791-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (18765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18791-Dialogue.mod:3
+msgid "3000 Cats, all in"
+msgstr ""
+
+#. Id: 18791-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (18765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18791-Dialogue.mod:4
+msgid "Just 3000 Cats"
+msgstr ""
+
+#. Id: 18766-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18766-Dialogue.mod:0
+msgid "I understand, we all have our own demons"
+msgstr ""
+
+#. Id: 18766-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18766-Dialogue.mod:1
+msgid "That's okay. We're all fighting our own demons"
+msgstr ""
+
+#. Id: 18766-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18766-Dialogue.mod:2
+msgid "I understand. Some things are best left forgotten"
+msgstr ""
+
+#. Id: 18766-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18766-Dialogue.mod:3
+msgid "Keep all the bad memories pushed down deep inside, that's what I say"
+msgstr ""
+
+#. Id: 18766-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18766-Dialogue.mod:4
+msgid "Ah, good old memory repression. Don't worry, I understand."
+msgstr ""
+
+#. Id: 18792-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18792-Dialogue.mod:0
+msgid "Glad we're on the same page. I'll just need 3000 Cats before I can leave with you."
+msgstr ""
+
+#. Id: 18792-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (18766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18792-Dialogue.mod:1
+msgid "Indeed, /BROTHER/. I'll just need 3000 Cats before I can leave with you."
+msgstr ""
+
+#. Id: 18792-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (18766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18792-Dialogue.mod:2
+msgid "Glad we're on the same page. If you're interested, I charge 3000 Cats"
+msgstr ""
+
+#. Id: 18767-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18767-Dialogue.mod:0
+msgid "Forget it. Just sounds shifty to me"
+msgstr ""
+
+#. Id: 18767-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18767-Dialogue.mod:1
+msgid "Forget it. Sounds like way too much baggage for me..."
+msgstr ""
+
+#. Id: 18767-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18767-Dialogue.mod:2
+msgid "Forget it. You sound way too suspicious"
+msgstr ""
+
+#. Id: 18768-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18768-Dialogue.mod:1
+msgid "Sorry, I'm not interested after all"
+msgstr ""
+
+#. Id: 18768-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18768-Dialogue.mod:2
+msgid "Sorry, on second thought I'm not interested"
+msgstr ""
+
+#. Id: 18768-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18768-Dialogue.mod:3
+msgid "On second thought I'm not interested"
+msgstr ""
+
+#. Id: 18768-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18768-Dialogue.mod:4
+msgid "Forget it, I've changed my mind"
+msgstr ""
+
+#. Id: 18682-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18682-Dialogue.mod:0
+msgid "I have serious alcoholism and a phobia of cannibals..."
+msgstr ""
+
+#. Id: 18682-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18682-Dialogue.mod:1
+msgid "I have a serious gambling problem and an addiction to moonshine..."
+msgstr ""
+
+#. Id: 18682-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18682-Dialogue.mod:2
+msgid "Just a normal /MEMAN/ with an unhealthy hatred of authority... Ain't nobody tellin' me what to do!"
+msgstr ""
+
+#. Id: 18682-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18682-Dialogue.mod:3
+msgid "Some people like to call me the town philosopher. Others like to call me the town drunk."
+msgstr ""
+
+#. Id: 18682-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18682-Dialogue.mod:4
+msgid "Someone who likes to drink away their demons..."
+msgstr ""
+
+#. Id: 18769-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18769-Dialogue.mod:0
+msgid "That sounds... healthy."
+msgstr ""
+
+#. Id: 18769-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18769-Dialogue.mod:1
+msgid "That sounds... interesting."
+msgstr ""
+
+#. Id: 18769-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18769-Dialogue.mod:2
+msgid "Right... anyway..."
+msgstr ""
+
+#. Id: 18793-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18793-Dialogue.mod:0
+msgid "So, are you interested or not? I charge 3000 Cats"
+msgstr ""
+
+#. Id: 18793-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (18769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18793-Dialogue.mod:1
+msgid "So, you interested? I charge 3000 Cats"
+msgstr ""
+
+#. Id: 18793-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (18769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18793-Dialogue.mod:2
+msgid "So, are you interested or not? It will cost you 3000 Cats"
+msgstr ""
+
+#. Id: 18793-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (18769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18793-Dialogue.mod:3
+msgid "So, you interested? It will cost you 3000 Cats"
+msgstr ""
+
+#. Id: 18793-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (18769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18793-Dialogue.mod:4
+msgid "So, you interested? All I ask for is the bare fee, so it will cost you 3000 Cats"
+msgstr ""
+
+#. Id: 18770-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18770-Dialogue.mod:0
+msgid "Sounds okay to me! How much?"
+msgstr ""
+
+#. Id: 18684-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 18684-Dialogue.mod:0
+msgid "I'm a travelling merchant. Cannibals took my wife... I decided to stop mopin' around about it, get off my butt and go out into the world again. It's what she would've wanted..."
+msgstr ""
+
+#. Id: 18781-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18684-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18781-Dialogue.mod:0
+msgid "Sorry to hear that. So how much are you charging?"
+msgstr ""
+
+#. Id: 18782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18684-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18782-Dialogue.mod:0
+msgid "That sounds awful..."
+msgstr ""
+
+#. Id: 18794-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18782-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18794-Dialogue.mod:0
+msgid "It was... "
+msgstr ""
+
+#. Id: 18795-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18794-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18795-Dialogue.mod:0
+msgid "... (Awkward silence)"
+msgstr ""
+
+#. Id: 18783-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18684-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18783-Dialogue.mod:0
+msgid "It's for the best, moping around won't bring her back"
+msgstr ""
+
+#. Id: 18798-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18798-Dialogue.mod:0
+msgid "Right... Well, if you're interested, I charge 3000 Cats anyway"
+msgstr ""
+
+#. Id: 18751-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18751-Dialogue.mod:0
+msgid "There's only one thing you should know about me: I'm not the talkin' type."
+msgstr ""
+
+#. Id: 18751-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18751-Dialogue.mod:1
+msgid "Me? I'm a doer, not a talker. Use your intuition if you want to judge me, not your ears."
+msgstr ""
+
+#. Id: 18751-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18751-Dialogue.mod:2
+msgid "I'm a /MEMAN/ of action. Not one of words."
+msgstr ""
+
+#. Id: 18751-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18751-Dialogue.mod:3
+msgid "Me? Well, I'm not the talkin' type, you can count on that."
+msgstr ""
+
+#. Id: 18751-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18751-Dialogue.mod:4
+msgid "One thing I'm NOT, is the talkin' type. So let's just cut to the chase, /OUTLANDER/"
+msgstr ""
+
+#. Id: 18754-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18754-Dialogue.mod:0
+msgid "Someone who needs to leave town. Fast. This is a dangerous city to live and you'd be wise to remember that, /OUTLANDER/"
+msgstr ""
+
+#. Id: 18754-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18754-Dialogue.mod:1
+msgid "Just a lowly peasant who needs to get out of the city. Take a word of advice, /OUTLANDER/, don't let this city suck you into it's web.... It's a dangerous place to be."
+msgstr ""
+
+#. Id: 18754-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18754-Dialogue.mod:2
+msgid "I'm no warrior, no brainiac, no master thief... I'm just a peasant that needs to skip town and start over. "
+msgstr ""
+
+#. Id: 18754-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18754-Dialogue.mod:3
+msgid "Just a normal /MEMAN/ who needs to get out of town and start a new life. Sticking around here is getting way too dangerous for my liking."
+msgstr ""
+
+#. Id: 18779-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18754-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18779-Dialogue.mod:0
+msgid "I understand. You're welcome to come with /MEUS/"
+msgstr ""
+
+#. Id: 18780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18754-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18780-Dialogue.mod:0
+msgid "Sorry, I was looking for someone with a little more skill"
+msgstr ""
+
+#. Id: 18756-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18756-Dialogue.mod:0
+msgid "I'm just a nobody looking to be a somebody"
+msgstr ""
+
+#. Id: 18756-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18756-Dialogue.mod:1
+msgid "I'm nothing special, an Empire /PEASANT/ is all I am. But I know I can be more."
+msgstr ""
+
+#. Id: 18756-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18756-Dialogue.mod:2
+msgid "A /PEASANT/ of the Empire. But, if you give me a chance, I know I can be more than that."
+msgstr ""
+
+#. Id: 18756-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18756-Dialogue.mod:3
+msgid "An Empire /PEASANT/ is what the folks 'round here would call me. But hey, what's in a name anyway?"
+msgstr ""
+
+#. Id: 18756-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18756-Dialogue.mod:4
+msgid "A /PEASANT/ of the Empire, born and bred. But I'd take being a peasant over being a fat noble any day."
+msgstr ""
+
+#. Id: 18771-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18771-Dialogue.mod:0
+msgid "So, how much are you charging?"
+msgstr ""
+
+#. Id: 18772-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18772-Dialogue.mod:0
+msgid "Exactly the kind of person I want to /TEAMUP/ with!"
+msgstr ""
+
+#. Id: 18772-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18772-Dialogue.mod:1
+msgid "Perfect. You sound just like the type of person I want to /TEAMUP/ with"
+msgstr ""
+
+#. Id: 18772-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18772-Dialogue.mod:2
+msgid "Sounds like we'll get on nicely..."
+msgstr ""
+
+#. Id: 18799-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18799-Dialogue.mod:0
+msgid "/GREAT/. I charge 3000 Cats"
+msgstr ""
+
+#. Id: 18799-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (18772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18799-Dialogue.mod:1
+msgid "/GREAT/. It will cost you though, 3000 Cats"
+msgstr ""
+
+#. Id: 18773-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18773-Dialogue.mod:0
+msgid "Forget it. Once a peasant, always a peasant."
+msgstr ""
+
+#. Id: 18773-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18756-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18773-Dialogue.mod:1
+msgid "Just a nobody? You're really not convincing me to /TEAMUP/ with you..."
+msgstr ""
+
+#. Id: 18760-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18760-Dialogue.mod:0
+msgid "... Wh- why? Who's asking?! Did the- so the guards sent you, huh?!"
+msgstr ""
+
+#. Id: 18760-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18760-Dialogue.mod:1
+msgid "... Wouldn't YOU like to know, huh? Who cares who I am, /OUTLANDER/. Who are YOU anyway?!"
+msgstr ""
+
+#. Id: 18760-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18760-Dialogue.mod:2
+msgid "... Why? Did someone send you? You snitchin' for the guards, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18760-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 18760-Dialogue.mod:3
+msgid "... Sounds like a snitch question to me, /OUTLANDER/. Why are you so interested in my story, huh?"
+msgstr ""
+
+#. Id: 18761-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18761-Dialogue.mod:0
+msgid "... Forget I ever asked. So do you want to /TEAMUP/ or not?"
+msgstr ""
+
+#. Id: 18761-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18761-Dialogue.mod:1
+msgid "I was just making conversation... Do you want to /TEAMUP/ or not?"
+msgstr ""
+
+#. Id: 18761-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (18760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18761-Dialogue.mod:2
+msgid "I was just asking who you are... Do you want to /TEAMUP/ or not?"
+msgstr ""
+
+#. Id: 18800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18800-Dialogue.mod:0
+msgid "... Sure, but I charge 3000 Cats."
+msgstr ""
+
+#. Id: 18800-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (18761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#: 18800-Dialogue.mod:1
+msgid "... Right. But it will cost you 3000 Cats"
+msgstr ""
+
+#. Id: 18763-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18763-Dialogue.mod:0
+msgid "You know what, I'll just find someone else to /TEAMUP/ with..."
+msgstr ""
+
+#. Id: 18764-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18764-Dialogue.mod:0
+msgid "... Just forget it..."
+msgstr ""
+
+#. Id: 18776-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 18776-Dialogue.mod:0
+msgid "I'm an ex-slave with a LOT of pent up frustration."
+msgstr ""
+
+#. Id: 18805-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18805-Dialogue.mod:1
+msgid "Nah, sorry, not interested"
+msgstr ""
+
+#. Id: 18805-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 18805-Dialogue.mod:3
+msgid "Nope. Sorry, not interested"
+msgstr ""
+
+#. Id: 18809-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18809-Dialogue.mod:1
+msgid "Did you change your mind? You looking to /TEAMUP/?"
+msgstr ""
+
+#. Id: 18809-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18809-Dialogue.mod:2
+msgid "So, did you change your mind, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18809-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18809-Dialogue.mod:3
+msgid "You're back... did you change you mind, /OUTLANDER/?"
+msgstr ""
+

@@ -1,0 +1,609 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5046-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 5046-gamedata.base:0
+msgid "Beast attack!"
+msgstr ""
+
+#. Id: 5046-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 5046-gamedata.base:1
+msgid "Incoming /ANIMALTYPE/!"
+msgstr ""
+
+#. Id: 5046-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 16144-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit spots dogs
+#. -- Condition: Target Race(s): Beak Thing
+#. Id: 15733-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 43991-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 14140-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 14141-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Beak Thing
+#. Id: 44016-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 44045-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: holy civ spots raptor eating crops
+#. Id: 44056-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. Id: 15704-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Target Race(s): Beak Thing
+#. Id: 15706-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15710-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. Id: 16175-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 16176-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#: 5046-gamedata.base:2 16144-Dialogue.mod:0 15733-Dialogue.mod:0 43991-Dialogue.mod:0 14140-Dialogue?(4).mod:2 14141-Dialogue?(4).mod:2 44016-Dialogue.mod:1 44045-Dialogue.mod:4 44056-Dialogue.mod:3 44059-Dialogue.mod:2 15704-Dialogue.mod:0 15706-Dialogue.mod:2 15710-Dialogue.mod:1 16175-Dialogue.mod:0 16176-Dialogue.mod:0
+msgid "/ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 5049-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 15264-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper interrupted by stranger SWAMPER
+#. -- Condition: Target Race(s): Cannibal
+#. Id: 13957-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13955-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civilian Interrupted by
+#: 5049-gamedata.base:0 15264-Dialogue.mod:0 13957-Escapes.mod:0
+msgid "Cannibals!"
+msgstr ""
+
+#. Id: 5049-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 13459-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13458-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit attacked by someone else
+#: 5049-gamedata.base:1 13459-Escapes.mod:2
+msgid "Cannibal attack!"
+msgstr ""
+
+#. Id: 5049-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#: 5049-gamedata.base:2
+msgid "Cannibal attack! Form up!"
+msgstr ""
+
+#. Id: 5057-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5057-gamedata.base:0
+msgid "What?! I'll deal with you!"
+msgstr ""
+
+#. Id: 5057-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5057-gamedata.base:1
+msgid "Want a fight, eh!?"
+msgstr ""
+
+#. Id: 5057-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 5059-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 11589-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 44971-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 5032-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5031-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hey chump. what're you lookin' at?
+#. Id: 51352-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (51347-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shek wander fight starter
+#: 5057-gamedata.base:2 5059-gamedata.base:1 12848-Dialogue?(11)?(2).mod:1 11589-Dialogue?(10).mod:0 44971-Dialogue.mod:2 5032-Dialogue.mod:0 51352-rebirth.mod:2
+msgid "Bring it on!"
+msgstr ""
+
+#. Id: 5057-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5057-gamedata.base:3
+msgid "Looking for a fight, ah?"
+msgstr ""
+
+#. Id: 5057-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 8691-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo attacked
+#: 5057-gamedata.base:4 8691-Dialogue.mod:1
+msgid "Come on then!"
+msgstr ""
+
+#. Id: 5059-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5059-gamedata.base:0
+msgid "We're under attack! Form up!"
+msgstr ""
+
+#. Id: 5059-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5059-gamedata.base:2
+msgid "/IWEARE/ under attack!"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:1
+msgid "/MERCLAUGH/! Hit me!"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:2
+msgid "/MERCLAUGH/, this oughta be fun"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:3
+msgid "/MERCLAUGH/! Come to put me out of my misery, have you?"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:4
+msgid "Ah?!... /MERCLAUGH/, come on then, kill me already!"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:5
+msgid "Come on! Kill me! /MERCLAUGH/!"
+msgstr ""
+
+#. Id: 5063-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5063-gamedata.base:6
+msgid "/MERCLAUGH/! Come to put me down out of my torment?!"
+msgstr ""
+
+#. Id: 5067-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 8508-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 3810-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3797-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#: 5067-gamedata.base:1 8508-Dialogue.mod:2 3810-gamedata.base:0 51662-rebirth.mod:4 51662-rebirth.mod:7 6443-Dialogue.mod:1
+msgid "/WTF/?"
+msgstr ""
+
+#. Id: 12846-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12846-Dialogue?(11)?(2).mod:0
+msgid "Come for my bounty ah?"
+msgstr ""
+
+#. Id: 12846-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12846-Dialogue?(11)?(2).mod:1
+msgid "Another bounty hunter with a suicide wish ah?"
+msgstr ""
+
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 11999-Dialogue (10).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (11997-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. Id: 9906-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 12848-Dialogue?(11)?(2).mod:0 11999-Dialogue?(10).mod:4 9906-Dialogue.mod:0
+msgid "Try me!"
+msgstr ""
+
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 51077-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Moll intruder found
+#: 12848-Dialogue?(11)?(2).mod:2 51077-Dialogue.mod:0
+msgid "You'll never take me alive!"
+msgstr ""
+
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#: 12848-Dialogue?(11)?(2).mod:3
+msgid "You'll have to kill me before you can cage me up!"
+msgstr ""
+
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. Id: 11866-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (11874-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate guard super neg rel
+#. Id: 11866-Dialogue (10).mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (11874-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate guard super neg rel
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 8705-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo get up
+#. Id: 11999-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (11997-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked for bounty
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 44971-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 5032-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5031-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hey chump. what're you lookin' at?
+#. Id: 15422-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 12848-Dialogue?(11)?(2).mod:4 41723-Dialogue.mod:3 11866-Dialogue?(10).mod:5 11866-Dialogue?(10).mod:7 14738-Dialogue.mod:5 10970-Dialogue?(10).mod:6 8705-Dialogue.mod:5 11999-Dialogue?(10).mod:3 15969-Dialogue.mod:3 44971-Dialogue.mod:0 3624-dialogue-01.mod:3 17599-Dialogue.mod:3 5032-Dialogue.mod:1 15422-Dialogue.mod:0
+msgid "Come at me!"
+msgstr ""
+
+#. Id: 12848-Dialogue (11) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12846-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. Id: 44971-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 12848-Dialogue?(11)?(2).mod:5 44971-Dialogue.mod:1
+msgid "Just try me!"
+msgstr ""
+
+#. Id: 12849-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12849-Dialogue?(11)?(2).mod:0
+msgid "/FUCK/! Bounty hunter dogshits!"
+msgstr ""
+
+#. Id: 12849-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12849-Dialogue?(11)?(2).mod:1
+msgid "/FUCKING/ bounty hunters!"
+msgstr ""
+
+#. Id: 12849-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12849-Dialogue?(11)?(2).mod:2
+msgid "Bite me, bounty /IDIOT/!"
+msgstr ""
+
+#. Id: 12849-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
+#: 12849-Dialogue?(11)?(2).mod:3
+msgid "Kiss my ass, bounty /IDIOT/!"
+msgstr ""
+
+#. Id: 12870-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>5, Tag: -1
+#: 12870-Dialogue?(11)?(2).mod:0
+msgid "/ANIMALTYPE/s! A crap load of 'em too!"
+msgstr ""
+
+#. Id: 12870-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>5, Tag: -1
+#: 12870-Dialogue?(11)?(2).mod:1
+msgid "/ANIMALTYPE/s! A barrel load of 'em too!"
+msgstr ""
+
+#. Id: 12870-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>5, Tag: -1
+#: 12870-Dialogue?(11)?(2).mod:2
+msgid "/ANIMALTYPE/s! So /GODDAMN/ many of 'em!"
+msgstr ""
+
+#. Id: 12870-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>5, Tag: -1
+#: 12870-Dialogue?(11)?(2).mod:3
+msgid "/ANIMALTYPE/s! Someone, give me a hand!"
+msgstr ""
+

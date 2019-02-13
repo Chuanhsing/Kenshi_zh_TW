@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42101-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 42101-rebirth.mod:0
+msgid "I don't like this fog... "
+msgstr ""
+
+#. Id: 42101-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 42101-rebirth.mod:1
+msgid "This fog feels... wrong"
+msgstr ""
+
+#. Id: 42101-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: My Race(s): Greenlander or Shek or Scorchlander
+#: 42101-rebirth.mod:2
+msgid "I don't like this place..."
+msgstr ""
+
+#. Id: 42102-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42101-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42102-rebirth.mod:0
+msgid "Something's not right...."
+msgstr ""
+
+#. Id: 42102-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42101-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42102-rebirth.mod:1
+msgid "...something's not right about this place..."
+msgstr ""
+
+#. Id: 42144-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42142-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42144-rebirth.mod:0
+msgid "I don't like this, not one bit..."
+msgstr ""
+
+#. Id: 42144-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42142-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42144-rebirth.mod:1
+msgid "We should get the hell out of this place"
+msgstr ""
+
+#. Id: 42144-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42142-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42144-rebirth.mod:2
+msgid "Let's turn back"
+msgstr ""
+
+#. Id: 42103-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: My Race(s): Greenlander or Shek or Skeleton or Scorchlander
+#: 42103-rebirth.mod:0
+msgid "The fog islands of Mongrel"
+msgstr ""
+
+#. Id: 42103-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: My Race(s): Greenlander or Shek or Skeleton or Scorchlander
+#: 42103-rebirth.mod:1
+msgid "The fog islands"
+msgstr ""
+
+#. Id: 42104-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42103-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42104-rebirth.mod:0
+msgid "We should try to stay up high, out of the fog"
+msgstr ""
+
+#. Id: 42105-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42103-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42105-rebirth.mod:0
+msgid "Only the most desperate ever come here"
+msgstr ""
+
+#. Id: 42106-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42105-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42106-rebirth.mod:0
+msgid "Refugees from the Holy Nation, hoping to lose their pursuers to the Fogmen..."
+msgstr ""
+
+#. Id: 42109-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42107-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42109-rebirth.mod:0
+msgid "Wait, Fogmen? What are Fogmen!?"
+msgstr ""
+
+#. Id: 42109-rebirth.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (42107-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42109-rebirth.mod:1
+msgid "Fog men!?!"
+msgstr ""
+
+#. Id: 42112-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42110-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome cower
+#: 42112-rebirth.mod:0
+msgid "What, you scared? /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 42112-rebirth.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (42110-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome cower
+#: 42112-rebirth.mod:1
+msgid "Pffft! Men made of fog doesn't sound very scary.  "
+msgstr ""
+
+#. Id: 42112-rebirth.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (42110-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome cower
+#: 42112-rebirth.mod:2
+msgid "Scared, eh? Turning yellow?"
+msgstr ""
+
+#. Id: 42113-rebirth.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (42112-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42113-rebirth.mod:1
+msgid "Shut up, I ain't afraid!"
+msgstr ""
+
+#. Id: 42113-rebirth.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (42112-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42113-rebirth.mod:2
+msgid "I ain't scared! Shut up!"
+msgstr ""
+
+#. Id: 42145-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#. -- Condition: My Race(s): Hive Soldier Drone or Hive Prince or Hive Worker Drone
+#: 42145-rebirth.mod:0
+msgid "People of the Deadhive..."
+msgstr ""
+
+#. Id: 42146-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42145-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42146-rebirth.mod:0
+msgid "We shouldn't try to cross this zone.  "
+msgstr ""
+
+#. Id: 42148-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42147-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome cower
+#: 42148-rebirth.mod:0
+msgid "What's the Deadhive?"
+msgstr ""
+
+#. Id: 42149-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42148-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42149-rebirth.mod:0
+msgid "Cousins of other Hives. Lost their minds to parasite"
+msgstr ""
+
+#. Id: 42150-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42149-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42150-rebirth.mod:0
+msgid "Controls them from the inside. Nothing can be done for them now."
+msgstr ""
+
+#. Id: 42152-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42150-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome cower
+#: 42152-rebirth.mod:0
+msgid "We stick to high places, safer out of the fog."
+msgstr ""
+

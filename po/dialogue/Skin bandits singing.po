@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65195-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65195-Dialogue.mod:0
+msgid "Humans, huuuumans, we are humans..."
+msgstr ""
+
+#. Id: 65196-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65196-Dialogue.mod:0
+msgid "We breath, we eat, we sing..."
+msgstr ""
+
+#. Id: 65199-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65196-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65199-Dialogue.mod:0
+msgid "'Cause we are huuuman..."
+msgstr ""
+
+#. Id: 65197-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65199-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65197-Dialogue.mod:0
+msgid "Hoo hoo, human, hoo hoo human!"
+msgstr ""
+
+#. Id: 65200-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65200-Dialogue.mod:0
+msgid "HOOOOO!"
+msgstr ""
+
+#. Id: 65200-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (65197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65200-Dialogue.mod:1
+msgid "Hooooey hooooey human!"
+msgstr ""
+
+#. Id: 65200-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (65197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65200-Dialogue.mod:2
+msgid "HA HA HAAAA, I LAUGH CAUSE I'M HUMAN!"
+msgstr ""
+
+#. Id: 65200-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (65197-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65200-Dialogue.mod:3
+msgid "I fart cause I'm human!"
+msgstr ""
+
+#. Id: 65201-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65200-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 65201-Dialogue.mod:0
+msgid "Wait!... A human!"
+msgstr ""
+
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#: 65203-Dialogue.mod:1 63838-Dialogue.mod:1
+msgid "Give us that good skin!"
+msgstr ""
+
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#: 65203-Dialogue.mod:3
+msgid "Harvest their skin!"
+msgstr ""
+

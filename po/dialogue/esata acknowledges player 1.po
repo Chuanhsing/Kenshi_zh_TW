@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57225-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>80, Tag: -1
+#. Id: 58537-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. Id: 58554-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. Id: 57659-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Seto talk to
+#: 57225-Dialogue.mod:0 58537-Dialogue.mod:0 58554-Dialogue.mod:0 57659-Dialogue.mod:0
+msgid "*Nods*"
+msgstr ""
+
+#. Id: 57226-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#: 57226-Dialogue.mod:0
+msgid "Speak with me, /YOURNAME/..."
+msgstr ""
+
+#. Id: 58532-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#: 58532-Dialogue.mod:0
+msgid "It can't be... the... Bugmaster?"
+msgstr ""
+
+#. Id: 58533-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#: 58533-Dialogue.mod:0
+msgid "Take him to Bayan, kin. "
+msgstr ""
+
+#. Id: 58535-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#: 58535-Dialogue.mod:0
+msgid "Is that really... the Phoenix?"
+msgstr ""
+

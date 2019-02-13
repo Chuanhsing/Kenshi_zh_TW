@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19346-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19346-Dialogue.mod:0
+msgid "I had a dream last night... The Lord of Light Okran himself came to me, and he told me that I would meet a weatlhy wanderer from the outside..."
+msgstr ""
+
+#. Id: 19347-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19346-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19347-Dialogue.mod:0
+msgid "The wealthy wanderer will lead me to the truth, will lead me to the origin of the First Extinction. With this, the land of the Holy Nation will finally find peace."
+msgstr ""
+
+#. Id: 19349-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19347-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19349-Dialogue.mod:0
+msgid "First Extinction? What is that?"
+msgstr ""
+
+#. Id: 19352-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19349-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19352-Dialogue.mod:0
+msgid "The destruction of the ancient capitals thousands of years past. According to the doctrine of the Holy Lord Phoenix Himself, it was the Agents of - sorry, the Skeletons that caused the extinction..."
+msgstr ""
+
+#. Id: 19353-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19353-Dialogue.mod:0
+msgid "And it will happen again. How and why? I don't know, but this very belief is what tears our society apart. It instills such an overwhelming fear and suspicion into our nation, that we've begun to destoy our very own society by our own hands..."
+msgstr ""
+
+#. Id: 19354-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19354-Dialogue.mod:0
+msgid "And finding the truth will calm that fear..."
+msgstr ""
+
+#. Id: 19363-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19354-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19363-Dialogue.mod:0
+msgid "I believe so. And Okran will show me if you are the one to lead me to that truth. So, wanderer, I will follow you. But it will cost you 9000 Cats, do you have the coin?"
+msgstr ""
+
+#. Id: 19355-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19355-Dialogue.mod:0
+msgid "And you think that I will lead you to your salvation?"
+msgstr ""
+
+#. Id: 19357-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19355-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19357-Dialogue.mod:0
+msgid "Okran will show me if you are the one. So, wanderer, I will follow you. But it will cost you 9000 Cats, do you have the coin?"
+msgstr ""
+
+#. Id: 19358-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19357-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19358-Dialogue.mod:0
+msgid "9000 Cats? What a con! Forget it..."
+msgstr ""
+
+#. Id: 19359-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19357-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>9000, Tag: -1
+#: 19359-Dialogue.mod:0
+msgid "I have the Cats, but do you have the skill?"
+msgstr ""
+
+#. Id: 19361-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19359-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19361-Dialogue.mod:0
+msgid "I have the battle experience. I am an ex-holy sentinel afterall, although a little out of practise, it's been a few years now since I left on my pilgrimage. But I would not expect you to pay more than my worth, wanderer."
+msgstr ""
+
+#. Id: 19364-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19361-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19364-Dialogue.mod:0
+msgid "I'd be honored to have you following me"
+msgstr ""
+
+#. Id: 19365-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19361-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19365-Dialogue.mod:0
+msgid "I'll hire you. But I have no interest in your religious mission (c.9000)"
+msgstr ""
+
+#. Id: 19372-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (19365-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19372-Dialogue.mod:0
+msgid "I understand. Just do whatever you've got to do, I'll follow."
+msgstr ""
+
+#. Id: 19366-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19361-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19366-Dialogue.mod:0
+msgid "Ex-sentinel? No deal, you guys are crazy."
+msgstr ""
+
+#. Id: 19377-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19377-Dialogue.mod:0
+msgid "Then you are not my wanderer..."
+msgstr ""
+
+#. Id: 19369-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19357-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19369-Dialogue.mod:0
+msgid "How about a discount?"
+msgstr ""
+
+#. Id: 19370-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19370-Dialogue.mod:0
+msgid "The wealthy do not need discount, wanderer."
+msgstr ""
+
+#. Id: 19362-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19357-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19362-Dialogue.mod:0
+msgid "Keep looking for your wanderer, I'm not your /MEMAN/"
+msgstr ""
+
+#. Id: 19356-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19356-Dialogue.mod:0
+msgid "Poor Skeletons. They get so much crap from you zealots."
+msgstr ""
+
+#. Id: 19379-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19356-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19379-Dialogue.mod:0
+msgid "Perhaps the truth will bring peace for the Skeletons as well. If I have learned anything since my days as a sentinel, it is to keep an open mind..."
+msgstr ""
+
+#. Id: 19380-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19379-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19380-Dialogue.mod:0
+msgid "So, wanderer, are you interested in hiring me? It will cost you 9000 Cats. Question is, do you have the wealth?"
+msgstr ""
+
+#. Id: 19348-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19347-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19348-Dialogue.mod:0
+msgid "And you think that I'm your wanderer?"
+msgstr ""
+
+#. Id: 19350-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19347-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19350-Dialogue.mod:0
+msgid "Sounds like crazy talk to me"
+msgstr ""
+
+#. Id: 19378-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19378-Dialogue.mod:0
+msgid "I don't need you to believe with me, I just need you to lead me. So, wanderer, are you interested in hiring me? It will cost you 9000 Cats. Question is, do you have the wealth?"
+msgstr ""
+
+#. Id: 19351-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19347-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19351-Dialogue.mod:0
+msgid "Ugh, boring! Not interested..."
+msgstr ""
+
+#. Id: 19381-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 19381-Dialogue.mod:0
+msgid "Welcome back, wanderer."
+msgstr ""
+
+#. Id: 19381-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 19381-Dialogue.mod:1
+msgid "You're back again, wanderer?"
+msgstr ""
+
+#. Id: 19382-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19382-Dialogue.mod:0
+msgid "I want to hire you..."
+msgstr ""
+
+#. Id: 19385-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19382-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19385-Dialogue.mod:0
+msgid "It will cost you 9000 Cats. Do you have the money?"
+msgstr ""
+
+#. Id: 19387-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19385-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19387-Dialogue.mod:0
+msgid "Actually, I've changed my mind"
+msgstr ""
+
+#. Id: 19383-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 6000 Holy Nation Male
+#: 19383-Dialogue.mod:0
+msgid "Can you tell me about the First Extinction?"
+msgstr ""
+

@@ -1,0 +1,68 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55049-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Garret bar patrons
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 55049-Dialogue.mod:0
+msgid "Drink up slave, I ain't made of sake..."
+msgstr ""
+
+#. Id: 55046-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55048-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Garret bar patrons
+#: 55046-Dialogue.mod:0
+msgid "... So... why have you bought a slave into the bar, Garret? "
+msgstr ""
+
+#. Id: 55050-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55046-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Garret bar patrons
+#: 55050-Dialogue.mod:0
+msgid "Treatin' 'im to a drink, he's worked hard this week. And a happy slave makes a good slave... See? Look at his 'lil face, he's lovin' it."
+msgstr ""
+
+#. Id: 55051-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55050-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Garret bar patrons
+#: 55051-Dialogue.mod:0
+msgid "Goddammit, Garret, a bar ain't for slaves. Feed 'em sake and they ain't gonna respect you. You gotta keep 'em on their toes, give 'em a few lashings, not sakes... Seems like slave-lover words if you ask me..."
+msgstr ""
+
+#. Id: 55054-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55053-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Garret bar patrons
+#: 55054-Dialogue.mod:0
+msgid "*Smash* Slave-lover?! Who said slave-lover?!"
+msgstr ""
+
+#. Id: 55055-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Garret bar patrons
+#: 55055-Dialogue.mod:0
+msgid "Shhh! Keep your voice down, would you? I ain't no slave lover. This un's just havin' a drink while he carries my baggage, that's all... Take it easy."
+msgstr ""
+

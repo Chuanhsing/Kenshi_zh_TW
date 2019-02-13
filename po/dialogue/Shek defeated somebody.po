@@ -1,0 +1,343 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11493-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#. Id: 17563-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11493-Dialogue?(10).mod:0 17563-Dialogue.mod:6
+msgid "You put up a brave fight"
+msgstr ""
+
+#. Id: 11493-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#. Id: 17563-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11493-Dialogue?(10).mod:1 17563-Dialogue.mod:7
+msgid "You fought well"
+msgstr ""
+
+#. Id: 11493-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#. Id: 17563-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11493-Dialogue?(10).mod:2 17563-Dialogue.mod:8
+msgid "You fought with honor"
+msgstr ""
+
+#. Id: 11493-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#. Id: 17563-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11493-Dialogue?(10).mod:3 17563-Dialogue.mod:9
+msgid "You put up a good battle"
+msgstr ""
+
+#. Id: 11493-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#. Id: 17563-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11493-Dialogue?(10).mod:4 17563-Dialogue.mod:10
+msgid "It was a good effort"
+msgstr ""
+
+#. Id: 11497-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11495-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. Id: 17575-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17574-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#: 11497-Dialogue?(10).mod:0 17575-Dialogue.mod:0
+msgid "Let death consume you"
+msgstr ""
+
+#. Id: 11497-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11495-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. Id: 17575-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17574-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#: 11497-Dialogue?(10).mod:1 17575-Dialogue.mod:1
+msgid "Let death take hold of you"
+msgstr ""
+
+#. Id: 11497-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11495-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. Id: 17575-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17574-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#: 11497-Dialogue?(10).mod:2 17575-Dialogue.mod:2
+msgid "Let death devour you"
+msgstr ""
+
+#. Id: 11498-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 17576-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11498-Dialogue?(10).mod:0 17576-Dialogue.mod:1
+msgid "You will never match up to a Shek"
+msgstr ""
+
+#. Id: 11498-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 17576-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11498-Dialogue?(10).mod:1 17576-Dialogue.mod:3
+msgid "You will never win against a Shek"
+msgstr ""
+
+#. Id: 11498-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 17576-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11498-Dialogue?(10).mod:2 17576-Dialogue.mod:2
+msgid "You can't win against a Shek"
+msgstr ""
+
+#. Id: 11498-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 17576-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11498-Dialogue?(10).mod:3 17576-Dialogue.mod:0
+msgid "The greatest of honors, to fall in battle against a Shek"
+msgstr ""
+
+#. Id: 11499-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17577-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 11499-Dialogue?(10).mod:0 17577-Dialogue.mod:1
+msgid "Nice try, /FLATSKIN/"
+msgstr ""
+
+#. Id: 11499-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17577-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 11499-Dialogue?(10).mod:1 17577-Dialogue.mod:2
+msgid "Good effort, /FLATSKIN/"
+msgstr ""
+
+#. Id: 11499-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17577-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 11499-Dialogue?(10).mod:2 17577-Dialogue.mod:3
+msgid "Good, but not good enough, /FLATSKIN/"
+msgstr ""
+
+#. Id: 11501-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 12067-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. Id: 15450-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (15449-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 17899-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 11501-Dialogue?(10).mod:1 12067-Dialogue?(10).mod:2 15450-Dialogue.mod:1 17899-Dialogue.mod:1
+msgid "Disappointing..."
+msgstr ""
+
+#. Id: 14762-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14762-Dialogue.mod:1
+msgid "Don't mess with a Shek!"
+msgstr ""
+
+#. Id: 14762-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14762-Dialogue.mod:2
+msgid "Weakling"
+msgstr ""
+
+#. Id: 14762-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14762-Dialogue.mod:3
+msgid "Never cross a Shek!"
+msgstr ""
+
+#. Id: 14762-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14762-Dialogue.mod:4
+msgid "Stay down in the dirt"
+msgstr ""
+
+#. Id: 14762-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 14762-Dialogue.mod:5
+msgid "Let the blood flow"
+msgstr ""
+

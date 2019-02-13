@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7928-Dialogue.mod:0
+msgid "YOU! I'm gonna take you down, even if I die tryin'!"
+msgstr ""
+
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7928-Dialogue.mod:2
+msgid "I'm gonna kill you for everything you've done!"
+msgstr ""
+
+#. Id: 7928-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7928-Dialogue.mod:3
+msgid "You! I'll get you! I don't care if I die tryin'!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:0
+msgid "You messed with the wrong clan, /BASTARD/!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:1
+msgid "I'll make you pay for messin' with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:2
+msgid "You're gonna pay for screwin' with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:3
+msgid "Cocky /INSULT/! This ends here and NOW!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:4
+msgid "Smug /RAT/! I'll kill you!"
+msgstr ""
+
+#. Id: 7931-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7931-Dialogue.mod:5
+msgid "Never shoulda screwed with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7932-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7932-Dialogue.mod:0
+msgid "I'll make you /CRAPPY/ bunch've /BASTARD/s pay!"
+msgstr ""
+
+#. Id: 7932-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7932-Dialogue.mod:1
+msgid "You arrogant /INSULT/s are gonna pay for screwin' with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7932-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7932-Dialogue.mod:2
+msgid "You /BASTARD/s 've messed with the wrong clan!"
+msgstr ""
+
+#. Id: 7932-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7932-Dialogue.mod:3
+msgid "You /INSULT/s never shoulda screwed with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7932-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7932-Dialogue.mod:4
+msgid "I'll make you /GODDAMN/ /INSULT/s pay!"
+msgstr ""
+
+#. Id: 7934-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7934-Dialogue.mod:0
+msgid "YOU!!! You think you're so /GODDAMN/ special don'tcha?"
+msgstr ""
+
+#. Id: 7934-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 41739-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible defeated me before
+#: 7934-Dialogue.mod:1 41739-Dialogue.mod:0
+msgid "YOU!!!"
+msgstr ""
+
+#. Id: 7934-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7934-Dialogue.mod:2
+msgid "YOU!!! /WHOTHEFUCK/ do you think you are?!"
+msgstr ""
+
+#. Id: 7937-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7937-Dialogue.mod:0
+msgid "Lookit that cocky smirk... I'll /CUTTHOSELIPS/!"
+msgstr ""
+
+#. Id: 7937-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7937-Dialogue.mod:1
+msgid "I'll /CUTTHOSLIPS/! See how you like that!"
+msgstr ""
+
+#. Id: 7940-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7940-Dialogue.mod:0
+msgid "You /BASTARD/s think you're so damn special don'tcha?"
+msgstr ""
+
+#. Id: 7940-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7940-Dialogue.mod:1
+msgid "YOU /BASTARD/s!!!"
+msgstr ""
+
+#. Id: 7943-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7943-Dialogue.mod:0
+msgid "Lookit those cocky faces... I'll skin you all alive and wipe those smirks clean off!"
+msgstr ""
+
+#. Id: 7943-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7943-Dialogue.mod:1
+msgid "I'll /CUTTHOSLIPS/! See how you /IDIOT/s like that!"
+msgstr ""
+
+#. Id: 7946-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7946-Dialogue.mod:0
+msgid "How's a cocky /RUNT/ like yous do so much damage?"
+msgstr ""
+
+#. Id: 7946-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7946-Dialogue.mod:1
+msgid "How's a /RUNT/ like yous cause so much trouble?"
+msgstr ""
+
+#. Id: 7951-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7951-Dialogue.mod:1
+msgid "You'll pay for messin' with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7951-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7951-Dialogue.mod:2
+msgid "You don't mess with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7951-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 7951-Dialogue.mod:3
+msgid "You mess with /MYFACTION/, you bleed!"
+msgstr ""
+

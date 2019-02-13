@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 17047-Dialogue.mod:0
+msgid "Safety!"
+msgstr ""
+
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. Id: 13158-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. Id: 7038-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping cannibals
+#: 17047-Dialogue.mod:1 17049-Dialogue.mod:10 13158-Escapes.mod:2 7038-Dialogue.mod:2
+msgid "/WEMADEIT/!"
+msgstr ""
+
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 5435-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5437-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. Id: 5404-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour picking pt3
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 48978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek slaves esc opp saviour
+#. -- Condition: My Race(s): Shek
+#. Id: 5422-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. Id: 45918-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough merc freed by captor
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. Id: 46962-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity alone
+#. Id: 48879-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave esc opp hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 48890-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#. Id: 48878-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver slave esc opp alone
+#. Id: 61988-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver revenge
+#. Id: 62341-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight tinfist
+#. Id: 62342-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight tinfist
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 17047-Dialogue.mod:2 5435-gamedata.base:1 5404-Escapes.mod:5 48978-Dialogue.mod:0 5422-gamedata.base:2 45918-Dialogue.mod:0 42181-rebirth.mod:4 46962-rebirth.mod:2 48879-Dialogue.mod:1 48890-Dialogue.mod:1 48888-Dialogue.mod:5 48878-Dialogue.mod:1 61988-Dialogue.mod:1 62341-Dialogue.mod:9 62342-Dialogue.mod:10 5963-Dialogue.mod:0 13807-Escapes.mod:0
+msgid "Freedom!"
+msgstr ""
+
+#. Id: 17047-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. Id: 17071-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (17070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 16674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean freed
+#. Id: 13016-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc unlocked still has cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. Id: 14821-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper witness crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 6035-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 6039-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 5963-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. Id: 13807-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#: 17047-Dialogue.mod:3 17071-Dialogue.mod:0 16674-Dialogue.mod:0 13016-Dialogue?(11)?(2).mod:2 13777-Escapes.mod:3 14821-Dialogue.mod:7 6035-Dialogue.mod:2 6039-Dialogue.mod:2 5963-Dialogue.mod:3 13807-Escapes.mod:3
+msgid "Alright!"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:0
+msgid "I think we're safe... That was a close call"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. Id: 13067-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 17049-Dialogue.mod:1 13067-Escapes.mod:0
+msgid "/WEMADEIT/..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:2
+msgid "Looks clear.. Phew..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:3
+msgid "Looks clear.. Feelin' jumpy after that..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:4
+msgid "Looks clear.. Feelin' pretty on edge though"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:5
+msgid "Looks like we're outta sight... That was tense!"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:6
+msgid "Looks like we're outta sight.. Phew..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:7
+msgid "Looks like we're outta sight... Feelin' jumpy after that"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:8 17049-Dialogue.mod:9
+msgid "Looks like we're outta sight... Feelin' pretty on edge though..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:11
+msgid "Looks clear... That was a close call..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:12
+msgid "Looks like we're outta sight... That was a close call!"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:13
+msgid "I think we're safe... That was tense"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:14
+msgid "I think we're safe... Feelin' jumpy after that"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:15
+msgid "I think we're safe... Feelin' pretty on edge though"
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.16
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:16
+msgid "I think we're safe... Phew..."
+msgstr ""
+
+#. Id: 17049-Dialogue.mod
+#. -- Index: 0.17
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17049-Dialogue.mod:17
+msgid "Looks clear.. That was tense"
+msgstr ""
+
+#. Id: 17050-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17050-Dialogue.mod:0
+msgid "Guess we'll part ways here. See you around"
+msgstr ""
+
+#. Id: 17050-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17050-Dialogue.mod:1
+msgid "... Guess it's safe to split now. See you again, pal"
+msgstr ""
+
+#. Id: 17050-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17050-Dialogue.mod:2
+msgid "... I'll go my own way now. See you again"
+msgstr ""
+
+#. Id: 17050-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (17049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17050-Dialogue.mod:3
+msgid "I'll split here, see you"
+msgstr ""
+
+#. Id: 17050-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (17049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Outlaw
+#: 17050-Dialogue.mod:4
+msgid "Guess we'll split here, see you around"
+msgstr ""
+

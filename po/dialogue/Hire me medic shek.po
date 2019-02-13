@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19614-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 19615-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 19616-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 19614-Dialogue.mod:0 19615-Dialogue.mod:0 19616-Dialogue.mod:3
+msgid "Don't let those wounds fester, /FLATSKIN/. Need a medic?"
+msgstr ""
+
+#. Id: 19614-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 19614-Dialogue.mod:1
+msgid "That's an ugly wound, /FLATSKIN/. I can clean it up for you, looking to hire?"
+msgstr ""
+
+#. Id: 19614-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 19615-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 19616-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 19614-Dialogue.mod:2 19615-Dialogue.mod:2 19616-Dialogue.mod:1
+msgid "You look like you could use a doctor, /FLATSKIN/... You hiring?"
+msgstr ""
+
+#. Id: 19614-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 19615-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 19616-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 19614-Dialogue.mod:3 19615-Dialogue.mod:3 19616-Dialogue.mod:0
+msgid "Here to recruit a medic? You look like you could use one..."
+msgstr ""
+
+#. Id: 19615-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 19616-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 19615-Dialogue.mod:1 19616-Dialogue.mod:2
+msgid "That's an ugly wound you got there, /FLATSKIN/. I can clean it up for you, looking to hire?"
+msgstr ""
+
+#. Id: 19617-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19617-Dialogue.mod:0
+msgid "Scouting for recruits, /FLATSKIN/? "
+msgstr ""
+
+#. Id: 19617-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19617-Dialogue.mod:1
+msgid "Need recruits, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19617-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19617-Dialogue.mod:2
+msgid "Here for fresh recruits, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19630-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19630-Dialogue.mod:0
+msgid "I know a thing or two about medicine."
+msgstr ""
+
+#. Id: 19630-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19630-Dialogue.mod:1
+msgid "I'm no warrior, but I am a field medic."
+msgstr ""
+
+#. Id: 19630-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (19627-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19630-Dialogue.mod:2
+msgid "Yes, I'm a field medic."
+msgstr ""
+
+#. Id: 19631-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19628-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me medic shek
+#: 19631-Dialogue.mod:0
+msgid "My price is 6000 Cats."
+msgstr ""
+

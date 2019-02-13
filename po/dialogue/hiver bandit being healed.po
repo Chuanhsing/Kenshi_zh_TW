@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1531890-__May 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 1531890-__May?18.mod:0
+msgid "No, don't touch us... don't touch me..."
+msgstr ""
+
+#. Id: 1531890-__May 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 17932-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin being healed start
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 1531890-__May?18.mod:1 17932-Dialogue.mod:1
+msgid "No, don't touch that..."
+msgstr ""
+
+#. Id: 1531890-__May 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 17932-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin being healed start
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 1531890-__May?18.mod:2 17932-Dialogue.mod:4
+msgid "H-hey! Don't touch that..."
+msgstr ""
+
+#. Id: 1531890-__May 18.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 1531890-__May?18.mod:3
+msgid "We don't... I don't need any help..."
+msgstr ""
+
+#. Id: 1531893-__May 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. Id: 17934-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin being healed start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 1531893-__May?18.mod:0 17934-Dialogue.mod:0
+msgid "A broken hiver... is a bad.. hiver"
+msgstr ""
+
+#. Id: 1531893-__May 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#: 1531893-__May?18.mod:1
+msgid "... Broken hivers go in the furnace."
+msgstr ""
+
+#. Id: 1531893-__May 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hiver bandit being healed
+#. Id: 18122-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver being healed start
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 1531893-__May?18.mod:2 18122-Dialogue.mod:0
+msgid "We must be fixed"
+msgstr ""
+

@@ -1,0 +1,1380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52723-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 52723-Dialogue.mod:0
+msgid "Hand over your belongings, I need to check them for items of sacrilege."
+msgstr ""
+
+#. Id: 52723-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 52723-Dialogue.mod:1
+msgid "Submit your belongings for investigation. I can't grant you passage until you're proven clean."
+msgstr ""
+
+#. Id: 52723-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 52723-Dialogue.mod:2
+msgid "Submit for searches. I need to check your body for items of sacrilege."
+msgstr ""
+
+#. Id: 52723-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 52723-Dialogue.mod:3
+msgid "Open your bags for checks. I can't allow you entry to the city until you're proven clean."
+msgstr ""
+
+#. Id: 52724-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52729-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52724-Dialogue.mod:0 52729-Dialogue.mod:0
+msgid "What for?"
+msgstr ""
+
+#. Id: 52823-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52724-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52823-Dialogue.mod:0
+msgid "Do not question your holy brother, woman. I ask, you do."
+msgstr ""
+
+#. Id: 52828-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52828-Dialogue.mod:0
+msgid "Nobody tells me what to do... (Square up)"
+msgstr ""
+
+#. Id: 52828-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52828-Dialogue.mod:1
+msgid "The last person that told me what to do is eating through a straw..."
+msgstr ""
+
+#. Id: 52828-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52828-Dialogue.mod:2
+msgid "How about you try asking me nicely, eh? (Square up)"
+msgstr ""
+
+#. Id: 52848-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52848-Dialogue.mod:0
+msgid "Threatening your holy brother? You must surely be /TAINT/ed by Narko herself!"
+msgstr ""
+
+#. Id: 52849-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52849-Dialogue.mod:0
+msgid "/SEIZE/ the /TAINT/ed!"
+msgstr ""
+
+#. Id: 52849-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52849-Dialogue.mod:1
+msgid "/SEIZE/ the /TAINT/ed woman!"
+msgstr ""
+
+#. Id: 52850-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52850-Dialogue.mod:0
+msgid "/SEIZE/ the /TAINT/ed! Confiscate /HIS/ belongings!"
+msgstr ""
+
+#. Id: 52824-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52704-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52824-Dialogue.mod:0 52704-Dialogue.mod:0
+msgid "Yes, I understand (Show him your gear)"
+msgstr ""
+
+#. Id: 52832-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52832-Dialogue.mod:0
+msgid "[He checks your belongings in silence]"
+msgstr ""
+
+#. Id: 52832-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52832-Dialogue.mod:1
+msgid "[He checks your stuff in silence]"
+msgstr ""
+
+#. Id: 52832-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52832-Dialogue.mod:2
+msgid "[He looks through your gear without a word]"
+msgstr ""
+
+#. Id: 52829-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52829-Dialogue.mod:0
+msgid "/TAINT/ed woman! Smuggling in such vile literature! This a heinous crime... Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. Unforgiveable."
+msgstr ""
+
+#. Id: 52829-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52829-Dialogue.mod:1
+msgid "What is this vile literature?! This is forbidden in the /SACRED/ lands! Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. This is unforgiveable."
+msgstr ""
+
+#. Id: 52829-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52829-Dialogue.mod:2
+msgid "What is this heinous literature?! Taking forbidden books into the /SACRED/ lands is a serious crime. Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. "
+msgstr ""
+
+#. Id: 52829-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52829-Dialogue.mod:3
+msgid "What is this depraved literature?! This book is forbidden in the /SACRED/ lands! Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now."
+msgstr ""
+
+#. Id: 52831-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52831-Dialogue.mod:0
+msgid "Narcotics?!... /TAINT/ed woman! Smuggling in such loathsome things! Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. This is unforgiveable."
+msgstr ""
+
+#. Id: 52831-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52831-Dialogue.mod:1
+msgid "The spawn of Narko tries to smuggle Narcotics?... Why am I not surpised. This is unforgiveable. Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. "
+msgstr ""
+
+#. Id: 52831-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52831-Dialogue.mod:2
+msgid "Narcotics?!... You'd try to /TAINT/ Okran's children with your sleazy drugs?! Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. "
+msgstr ""
+
+#. Id: 52830-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52830-Dialogue.mod:0
+msgid "You're clear. Go."
+msgstr ""
+
+#. Id: 52826-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52733-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52826-Dialogue.mod:0 52733-Dialogue.mod:0
+msgid "How about you forget the checks and take a donation? (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 52826-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52733-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52826-Dialogue.mod:1 52733-Dialogue.mod:1
+msgid "I've not time for this. How about a donation instead? (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 52845-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52826-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52845-Dialogue.mod:0
+msgid "The depraved /TEMPTRESS/ tries to bribe a holy sentinel! A man's faith goes beyond selfish materialism, woman. For this vile act of bribery you must be punished."
+msgstr ""
+
+#. Id: 52846-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52846-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/ for bribery."
+msgstr ""
+
+#. Id: 52827-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52827-Dialogue.mod:0
+msgid "Nope. (Blow him a kiss)"
+msgstr ""
+
+#. Id: 52827-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52827-Dialogue.mod:1
+msgid "Make me, /TINCAN/. (Blow a kiss)"
+msgstr ""
+
+#. Id: 52827-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52827-Dialogue.mod:2
+msgid "... (Lick your lips at him)"
+msgstr ""
+
+#. Id: 52827-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52827-Dialogue.mod:3
+msgid "... (Stroke his face)"
+msgstr ""
+
+#. Id: 52827-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52827-Dialogue.mod:4
+msgid "Nope! (Poke his nose)"
+msgstr ""
+
+#. Id: 52841-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52841-Dialogue.mod:0
+msgid "*Gasp!*"
+msgstr ""
+
+#. Id: 52841-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52841-Dialogue.mod:1
+msgid "Wh- what are you doing? Why are you looking at me like that?!"
+msgstr ""
+
+#. Id: 52842-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52842-Dialogue.mod:0
+msgid "Refusing checks... seduction... /SEIZE/ the /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 53149-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 53149-Dialogue.mod:0
+msgid "Is it so necessary to check your sister of pure blood?"
+msgstr ""
+
+#. Id: 53149-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52723-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 53149-Dialogue.mod:1
+msgid "But I'm a pure blood, surely there's no need to check me?"
+msgstr ""
+
+#. Id: 53150-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 53150-Dialogue.mod:0
+msgid "It is your 'impure' blood of the demoness that makes you all the more in need of checking. Now, do not question me again, surrender for checks."
+msgstr ""
+
+#. Id: 53150-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 53150-Dialogue.mod:1
+msgid "It is your very blood that gives me all the more reason to check you, tainted sister. Pure it is not... No more questions, show me your belongings."
+msgstr ""
+
+#. Id: 53150-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 53150-Dialogue.mod:2
+msgid "Pure? Your blood is many things, tainted woman, but pure is not one of them. Now, enough with your devil tongue... your belongings."
+msgstr ""
+
+#. Id: 52728-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52728-Dialogue.mod:0
+msgid "/HOLYGREET/. Your time for a moment. I need to check your belongings before I can grant you passage to the city."
+msgstr ""
+
+#. Id: 52728-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52728-Dialogue.mod:1
+msgid "/HOLYGREET/. Your time, please. I need to search your possessions before I can allow you any further. Standard routine, nothing more."
+msgstr ""
+
+#. Id: 52730-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52729-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52730-Dialogue.mod:0
+msgid "The /SACRED/ cities will not tolerate passage of forbidden literatures, harmful substances... This is to protect our society from Narko's corruption."
+msgstr ""
+
+#. Id: 52730-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52729-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52730-Dialogue.mod:1
+msgid "The holy cities will not tolerate passage of forbidden literatures of Narko, or the passage of harmful stimulants... Any items that might corrupt our society."
+msgstr ""
+
+#. Id: 52730-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52729-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52730-Dialogue.mod:2
+msgid "The /SACRED/ cities will not tolerate passage of forbidden literature, harmful substances... Any items of corruption from Narko."
+msgstr ""
+
+#. Id: 52730-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (52729-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52730-Dialogue.mod:3
+msgid "The holy cities will not tolerate passage of forbidden literatures, harmful substances... Any items of heresy, of the demoness' influence."
+msgstr ""
+
+#. Id: 52857-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52730-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52857-Dialogue.mod:0
+msgid "Well, screw Narko, your city's gonna need protecting from ME! (Draw sword)"
+msgstr ""
+
+#. Id: 52705-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52705-Dialogue.mod:0
+msgid "Thank you, /BROTHER/. Now, let's see..."
+msgstr ""
+
+#. Id: 52706-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52706-Dialogue.mod:0
+msgid "Such heinousness! Why do you have this book?! You try to harm Okran's children with books of the demoness?!"
+msgstr ""
+
+#. Id: 52709-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52709-Dialogue.mod:0
+msgid "Hush now, you are mistaken, my brother (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 52709-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52709-Dialogue.mod:1
+msgid "Please, brother. I believe that you're mistaken (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 52712-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52709-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52712-Dialogue.mod:0
+msgid "As if your blasphemy wasn't depraved enough, now you try to tempt me into the darkness along with you!"
+msgstr ""
+
+#. Id: 52716-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52716-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/! Isolate /THISONE/ before /HE/ /TAINT//S/ us all with /HIS/ darkness!"
+msgstr ""
+
+#. Id: 52708-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52708-Dialogue.mod:0
+msgid "How did that get there?! Narko planted it there!"
+msgstr ""
+
+#. Id: 52747-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52747-Dialogue.mod:0
+msgid "Do not deceive me, /BROTHER/! This forbidden atrocity is a danger to our nation. May the high priest have mercy on your fate, this is a grave crime that cannot be forgiven."
+msgstr ""
+
+#. Id: 52710-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52710-Dialogue.mod:0
+msgid "What do you mean? What's wrong with it?"
+msgstr ""
+
+#. Id: 52710-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52710-Dialogue.mod:1
+msgid "It's just a book I was given, what's the problem?"
+msgstr ""
+
+#. Id: 52713-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52713-Dialogue.mod:0
+msgid "This book is written against the word of Okran! How could you not know this? That you would try to smuggle this into our holy nation is unforgiveable, you'll pay for your blasphemy, heretic!"
+msgstr ""
+
+#. Id: 52714-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52713-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52744-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52738-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52714-Dialogue.mod:0 52744-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/! And burn this forbidden monstrosity!"
+msgstr ""
+
+#. Id: 52749-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52749-Dialogue.mod:0
+msgid "This book is written against the word of Okran! How could you not know this?... To see a lost pure-blood is tragic, but I see you have the Holy Flame..."
+msgstr ""
+
+#. Id: 52751-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52751-Dialogue.mod:0
+msgid "I won't give up on you yet, you're not a completely lost cause. I will destroy the book and we will not speak of it again. Go to the church, pray, repent and break away your ignorance..."
+msgstr ""
+
+#. Id: 52750-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52750-Dialogue.mod:0
+msgid "This book is written against the word of Okran! Obviously you are influenced by the dark company that you keep, the dark ones are the most skilled of decievers. That you would try to smuggle this into our holy nation is unforgiveable, you'll pay for your blasphemy, heretic!"
+msgstr ""
+
+#. Id: 52711-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52711-Dialogue.mod:0
+msgid "I intended to report it to the priest..."
+msgstr ""
+
+#. Id: 52736-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52736-Dialogue.mod:0
+msgid "All forbidden literature is to be destroyed upon finding, /BROTHER/... "
+msgstr ""
+
+#. Id: 52737-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52737-Dialogue.mod:0
+msgid "But I practise compassion as the Lord Of Light has taught me. You possess the Holy Flame, I believe in your innocence. I will destroy the book and we will not speak of it again. Next time, I will not be so forgiving."
+msgstr ""
+
+#. Id: 52741-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52737-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52741-Dialogue.mod:0
+msgid "Thank you, brother."
+msgstr ""
+
+#. Id: 52743-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52741-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52743-Dialogue.mod:0
+msgid "To my brothers, I am merciful. Don't make the same mistake again."
+msgstr ""
+
+#. Id: 52738-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52738-Dialogue.mod:0
+msgid "Keeping company with foreign beasts... smuggling writings of heresy into the nation... I'd be a fool to fall for your deception! May the high priest have mercy on your fate, /BROTHER/, this is a grave crime that cannot be forgiven."
+msgstr ""
+
+#. Id: 52739-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52739-Dialogue.mod:0
+msgid "Keeping company with foreign beasts... smuggling writings of heresy into the nation... And you don't even carry the Holy Flame! I'd be a fool to fall for your deception! May the high priest have mercy on your fate, /BROTHER/, this is a grave crime that cannot be forgiven."
+msgstr ""
+
+#. Id: 52745-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52745-Dialogue.mod:0
+msgid "Do not deceive me, /BROTHER/, this forbidden atrocity is a danger to our nation. May the high priest have mercy on your fate, this is a grave crime that cannot be forgiven."
+msgstr ""
+
+#. Id: 52735-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52706-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52735-Dialogue.mod:0
+msgid "The word of Okran is bull! This book holds the truth!"
+msgstr ""
+
+#. Id: 52746-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52746-Dialogue.mod:0
+msgid "The dark one finally reveals /HIS/ true colours!"
+msgstr ""
+
+#. Id: 52874-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#: 52874-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/! Isolate/THISONE/ before /HE/ /TAINT//S/ us all with /HIS/ corruption!"
+msgstr ""
+
+#. Id: 52707-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52707-Dialogue.mod:0
+msgid "What is this?... You try to smuggle such wicked, such destructive goods into the nation?!"
+msgstr ""
+
+#. Id: 52707-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52707-Dialogue.mod:1
+msgid "Stimulants... Why do you carry these on you? You wish harm on your brothers and sisters?! To see a fellow pure-blood drift from /HIS/ righteous path is tragedy..."
+msgstr ""
+
+#. Id: 52721-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52707-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52794-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52782-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52721-Dialogue.mod:0 52794-Dialogue.mod:0
+msgid "Okran have mercy, I have an addiction!"
+msgstr ""
+
+#. Id: 52755-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52755-Dialogue.mod:0
+msgid "*Sigh*... You are my holy brother, both in spirit and blood. Have faith in Okran, do not resort to this wickedness to survive... Go, brother.  This time you are forgiven, in the spirit of the merciful Lord Of Light."
+msgstr ""
+
+#. Id: 52756-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52755-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52756-Dialogue.mod:0
+msgid "Have faith, pray, repent. Do not let me see you sin again."
+msgstr ""
+
+#. Id: 52758-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52758-Dialogue.mod:0
+msgid "What do you expect when you keep such beasts in your company? Addiction or not, possessing stimulants is a crime in the holy lands. Perhaps time spent reflecting in prison away from such dark influences will help improve your devotion to the Holy Flame."
+msgstr ""
+
+#. Id: 52759-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52759-Dialogue.mod:0
+msgid "*Sigh*... It pains me to see my pure-blood brother like this. Time spent reflecting on the Holy Lord Phoenix Himself's word, blessed be his name, in prison is the only cure for a lost being. It's for your own good, my brother."
+msgstr ""
+
+#. Id: 52722-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52707-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52795-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52782-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52722-Dialogue.mod:0 52795-Dialogue.mod:0
+msgid "Forgive me, brother, I needed to buy food. So... hungry..."
+msgstr ""
+
+#. Id: 52760-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52760-Dialogue.mod:0
+msgid "*Sigh*... Okran would not let his faithful children go hungry. Have you drifted from the righteous path?"
+msgstr ""
+
+#. Id: 52761-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52761-Dialogue.mod:0
+msgid "(Pull out the Holy Flame) My faith in Okran will never waver."
+msgstr ""
+
+#. Id: 52766-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52766-Dialogue.mod:0
+msgid "I see desperation in your crime, but I believe you can come back from this. To my brothers, I am merciful. Just this once, I will turn a blind eye. One chance."
+msgstr ""
+
+#. Id: 52765-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52765-Dialogue.mod:0
+msgid "Charity will find it's way to you, brother. Have faith, and stick to the holy path."
+msgstr ""
+
+#. Id: 52763-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52763-Dialogue.mod:0
+msgid "So you would harm your brothers and sisters for the sake of filling your own belly? The Holy Lord Phoenix Himself, blessed be his name, does not teach such selfishness! Your crime will not be forgiven, whatever your reasons."
+msgstr ""
+
+#. Id: 52767-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52767-Dialogue.mod:0
+msgid "You roam with dark beasts and practise selfishness. A true and pure Okranite would never endanger /HIS/ brothers and sisters for /HIS/ own self-centered needs... Unforgiveable."
+msgstr ""
+
+#. Id: 52754-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52707-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52754-Dialogue.mod:0
+msgid "So I smuggled. And what of it?"
+msgstr ""
+
+#. Id: 52769-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52769-Dialogue.mod:0
+msgid "You'll pay for your sins, heretic! I only hope that time spent in prison will help cure your wicked ways..."
+msgstr ""
+
+#. Id: 52720-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52720-Dialogue.mod:0
+msgid "Everything is in order. You may pass."
+msgstr ""
+
+#. Id: 52776-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52776-Dialogue.mod:0
+msgid "Let's see what you've got here..."
+msgstr ""
+
+#. Id: 52780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52780-Dialogue.mod:0
+msgid "What is this blasphemy?! Forbidden literature! The dark one endangers us all with such writings of evil! What is your final plea, heretic? May the high priest have mercy on your being."
+msgstr ""
+
+#. Id: 52781-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52780-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52781-Dialogue.mod:0
+msgid "I was to report it to the high priest, I'm innocent."
+msgstr ""
+
+#. Id: 52789-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52789-Dialogue.mod:0
+msgid "All forbidden literature against the teachings of the Holy Lord Phoenix Himself, blessed be his name, is to be destroyed upon finding. To carry such a thing on your body is blasphemy. No excuses."
+msgstr ""
+
+#. Id: 52785-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52780-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52785-Dialogue.mod:0
+msgid "Okran have mercy on my soul... (Pull out the Holy Flame)"
+msgstr ""
+
+#. Id: 52790-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 52792-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52786-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52790-Dialogue.mod:0 52792-Dialogue.mod:0
+msgid "You will have ample time to repent in prison. Okran have mercy on your soul, /BROTHER/."
+msgstr ""
+
+#. Id: 52791-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52791-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/, but show leniency for /HIS/ remorse."
+msgstr ""
+
+#. Id: 52786-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52780-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52786-Dialogue.mod:0
+msgid "Forgive me Okran, I have sinned!"
+msgstr ""
+
+#. Id: 52787-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52780-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52787-Dialogue.mod:0
+msgid "I plea baloney! The word of Okran is bull!"
+msgstr ""
+
+#. Id: 52782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52782-Dialogue.mod:0
+msgid "Narcotics! Stimulants are forbidden in this nation. This is a sacred nation of pure minds, those who put the children of Okran at risk must be punished. Will you make your final plea to the Lord Of Light for a merciful sentence?"
+msgstr ""
+
+#. Id: 52796-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52796-Dialogue.mod:0
+msgid "The true Okranite does not sin for the self! We are a community, children of Okran, there is no room for selfishness. You try to /TAINT/ the nation, you suffer the consequences."
+msgstr ""
+
+#. Id: 52778-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52778-Dialogue.mod:0
+msgid "Good, let's see... Ah, the Holy Flame. Well, just a quick check, /BROTHER/..."
+msgstr ""
+
+#. Id: 52812-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52812-Dialogue.mod:0
+msgid "All looks clean. You may pass."
+msgstr ""
+
+#. Id: 52813-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 52819-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52813-Dialogue.mod:0 52819-Dialogue.mod:0
+msgid "Fo-... Forbidden writings! Bringing such blasphemy into the /SACRED/ lands, you'll bring darkness on us all!"
+msgstr ""
+
+#. Id: 52814-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52778-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 52820-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52814-Dialogue.mod:0 52820-Dialogue.mod:0
+msgid "Narcotics!?... Exposing the /SACRED/ lands to such temptation, you'll bring darkness on us all!"
+msgstr ""
+
+#. Id: 52816-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52816-Dialogue.mod:0
+msgid "/SEIZE/ the heretic!"
+msgstr ""
+
+#. Id: 52810-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 52818-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52810-Dialogue.mod:0 52818-Dialogue.mod:0
+msgid "Good, let's see..."
+msgstr ""
+
+#. Id: 52731-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52731-Dialogue.mod:0
+msgid "Is it so necessary to check your brother of pure blood?"
+msgstr ""
+
+#. Id: 52734-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52734-Dialogue.mod:0
+msgid "If you truly have nothing to hide, then there is nothing to be feared, /BROTHER/. Come, your belongings."
+msgstr ""
+
+#. Id: 52734-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52734-Dialogue.mod:1
+msgid "The sinless need not fear trial, /BROTHER/. Come, your bags."
+msgstr ""
+
+#. Id: 52734-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52734-Dialogue.mod:2
+msgid "Fear not, /BROTHER/. If there is nothing to hide then there is nothing to condemn. Trust in Okran. Now, show me your possessions. "
+msgstr ""
+
+#. Id: 52773-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52773-Dialogue.mod:0
+msgid "...This is for the good of the nation. Please."
+msgstr ""
+
+#. Id: 52773-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52773-Dialogue.mod:1
+msgid "... I must carry out my duty. For Okran."
+msgstr ""
+
+#. Id: 52799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52799-Dialogue.mod:0
+msgid "Trust in Okran. (Pull out Holy Flame)"
+msgstr ""
+
+#. Id: 52799-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52799-Dialogue.mod:1
+msgid "Okran knows. (Pull out Holy Flame)"
+msgstr ""
+
+#. Id: 52801-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52801-Dialogue.mod:0
+msgid "... Of course, brother. You party looks clean, and you carry the Holy Flame. I will not burden you with checks..."
+msgstr ""
+
+#. Id: 52803-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Target Race(s): Hive Prince or Shek
+#: 52803-Dialogue.mod:0
+msgid "Sorry, /BROTHER/. I cannot blindly trust a man who keeps such beastly company in his entourage whether you carry the Holy Flame or not. Show me your belongings."
+msgstr ""
+
+#. Id: 52804-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52804-Dialogue.mod:0
+msgid "Call my companion 'beast' one more time, Okranite scum."
+msgstr ""
+
+#. Id: 52805-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52805-Dialogue.mod:0
+msgid "So the dark one finally reveals /HIS/ true colours! Resisting checks and threatening a holy sentinel, you must be possessed by Narko herself!"
+msgstr ""
+
+#. Id: 52800-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52800-Dialogue.mod:0
+msgid "Touch my stuff and I'll gut you."
+msgstr ""
+
+#. Id: 52800-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52800-Dialogue.mod:1
+msgid "Touch my gear and I'll cut you."
+msgstr ""
+
+#. Id: 52800-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52800-Dialogue.mod:2
+msgid "Touch my stuff and you die."
+msgstr ""
+
+#. Id: 52800-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (52773-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52800-Dialogue.mod:3
+msgid "Keep asking. See what happens. (Hold weapon)"
+msgstr ""
+
+#. Id: 52774-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52774-Dialogue.mod:0
+msgid "Evil manifests itself in all forms. To rely and be fooled by the senses over Okran's judgement is the most ignorant of blunders. Submit yourself, only then can you prove your innocence in the eyes of the Lord Of Light."
+msgstr ""
+
+#. Id: 52806-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52806-Dialogue.mod:0
+msgid "The High Paladin has ordered stricter checks recently, holy brother. Please, adhere, lest I suffer Okran's wrath for negligence..."
+msgstr ""
+
+#. Id: 52806-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52806-Dialogue.mod:1
+msgid "I cannot make any exceptions, holy brother. This is the High Paladin's orders, it is for the good of Okran."
+msgstr ""
+
+#. Id: 52732-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52732-Dialogue.mod:0
+msgid "You ain't searching nothin'. Just try me, /TINCAN/."
+msgstr ""
+
+#. Id: 52732-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52732-Dialogue.mod:1
+msgid "Think again. Touch my stuff and you die."
+msgstr ""
+
+#. Id: 52732-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52732-Dialogue.mod:2
+msgid "You ain't laying a finger on my gear. (Hold your weapon)"
+msgstr ""
+
+#. Id: 52732-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (52728-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52732-Dialogue.mod:3
+msgid "Touch my stuff and you'll die regretting it."
+msgstr ""
+
+#. Id: 52878-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52878-Dialogue.mod:0
+msgid "Tongue of a devil! Refusal to co-operate AND threatening a holy sentinel!"
+msgstr ""
+
+#. Id: 52879-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52879-Dialogue.mod:0
+msgid "A truly faithful man cannot be tempted into the darkness by mere Cats! Your attempt at bribery won't be forgiven."
+msgstr ""
+
+#. Id: 52879-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 52879-Dialogue.mod:1
+msgid "A man of true faith cannot be tempted into the darkness by worldy riches! Bribery is an unforgiveable sin that must be punished."
+msgstr ""
+
+#. Id: 52770-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 52770-Dialogue.mod:0
+msgid "In order to uphold the purity and sanctity of our holy nation, you must submit yourself for inquest, brother. The holy cities will not tolerate the passage of items of heresy."
+msgstr ""
+
+#. Id: 52770-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 52770-Dialogue.mod:1
+msgid "In order to uphold the purity of our /SACRED/ nation, you must submit your possessions for inquest, brother. The /SACRED/ cities will not abide the passage of items of tainting."
+msgstr ""
+
+#. Id: 52770-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 52770-Dialogue.mod:2
+msgid "In order to uphold the sanctitude of our /SACRED/ society, you must surrender your possessions for inquest, brother. The /SACRED/ cities will not tolerate the passage of items of corruption."
+msgstr ""
+
+#. Id: 52797-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52797-Dialogue.mod:0
+msgid "/HOLYGREET/. Darkness tries to make it's way in to our /SACRED/ lands, only through vigilance can we defeat it. I need to check your belongings, holy brother. May I?"
+msgstr ""
+
+#. Id: 52797-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52797-Dialogue.mod:1
+msgid "/HOLYGREET/. Darkness must be repelled from our /SACRED/ gates, any items of blasphemy must be destroyed. Allow me to to check your possessions, holy brother, for the good of all things pure."
+msgstr ""
+

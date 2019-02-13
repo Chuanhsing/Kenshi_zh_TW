@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95463-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#: 95463-Dialogue.mod:0
+msgid "I trust you have your overdue tax payment ready? The sum owed is 4500 Cats. "
+msgstr ""
+
+#. Id: 95464-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC base visit talk to 2
+#: 95464-Dialogue.mod:0
+msgid "I thought it was 3000 Cats?"
+msgstr ""
+
+#. Id: 95465-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95464-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#: 95465-Dialogue.mod:0
+msgid "You think tax collectors live on air? It costs money to visit your little... hovel. The final visitation fees have been added to your balance. The total owed is 4500 Cats."
+msgstr ""
+
+#. Id: 95472-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#: 95472-Dialogue.mod:0
+msgid "Waste of my time... Then you can expect a visit from our tax enforcement unit very soon. Refusal to pay taxes on Empire land will not be tolerated, there will be no second chance..."
+msgstr ""
+
+#. Id: 95478-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95472-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#: 95478-Dialogue.mod:0
+msgid "Leave this land or you'll be removed!"
+msgstr ""
+
+#. Id: 95470-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC base visit talk to 2
+#: 95470-Dialogue.mod:0
+msgid "This is MY land now. I'm not paying."
+msgstr ""
+
+#. Id: 95473-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95470-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#. Id: 62162-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 95473-Dialogue.mod:0 62162-Dialogue.mod:0
+msgid "Tch. Then you can expect a visit from our tax enforcement unit very soon. Refusal to pay taxes on Empire land will not be tolerated..."
+msgstr ""
+
+#. Id: 95474-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#. Id: 60570-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60569-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. Id: 60527-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (60513-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 95474-Dialogue.mod:0 60570-Dialogue.mod:0 60527-Dialogue.mod:0
+msgid "I'll be back, I promise you that!"
+msgstr ""
+

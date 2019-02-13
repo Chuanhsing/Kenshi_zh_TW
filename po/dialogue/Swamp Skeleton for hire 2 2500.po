@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48655-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#: 48655-Dialogue.mod:0
+msgid "We do what we must to survive... But nowhere is this more apparent than the swamplands. Tread carefully, /OUTLANDER/, this is a town where the strong step on the weak to survive. If you need my protection, you can have it for 2500 Cats."
+msgstr ""
+
+#. Id: 48656-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#: 48656-Dialogue.mod:0
+msgid "And what makes you think I need your advice?"
+msgstr ""
+
+#. Id: 48657-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#: 48657-Dialogue.mod:0
+msgid "I've been around long enough to distinguish the underdogs from the survivors. If this hurts your ego, /OUTLANDER/, I apologise. My offer still stands."
+msgstr ""
+
+#. Id: 48658-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 48658-Dialogue.mod:0
+msgid "Sure, I'll hire you."
+msgstr ""
+
+#. Id: 48664-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48660-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#: 48664-Dialogue.mod:0
+msgid "Come to me when you can. Tread carefully until then."
+msgstr ""
+

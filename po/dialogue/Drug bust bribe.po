@@ -1,0 +1,3180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6698-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 6698-Dialogue.mod:0
+msgid "Halt, /TRAVELLER/. What's your business here?"
+msgstr ""
+
+#. Id: 6698-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 6698-Dialogue.mod:1
+msgid "Hold it right there. What's your reason for visit here, /TRAVELLER/?"
+msgstr ""
+
+#. Id: 6698-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 6698-Dialogue.mod:2
+msgid "Reason for visit?"
+msgstr ""
+
+#. Id: 9447-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9447-Dialogue.mod:0
+msgid "Just passing through."
+msgstr ""
+
+#. Id: 9447-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9447-Dialogue.mod:1
+msgid "Just stopping by."
+msgstr ""
+
+#. Id: 9447-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9447-Dialogue.mod:2
+msgid "Stocking up on supplies."
+msgstr ""
+
+#. Id: 9447-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9447-Dialogue.mod:3
+msgid "Taking a rest stop."
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9448-Dialogue.mod:0
+msgid "All visitors need to be checked for contraband before entry into town. I can't let you past without frisking you"
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9448-Dialogue.mod:1
+msgid "All entrants need to be examined for prohibited goods before being allowed through. I can't let you through without a search"
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9448-Dialogue.mod:2
+msgid "I need to inspect your belongings for illicit goods before I can allow you to enter"
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9448-Dialogue.mod:3
+msgid "I'm going to need to do a contraband check before I can let you through. All travellers must be checked"
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9448-Dialogue.mod:4
+msgid "I have to search you for illegal items before I can let you on in"
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9448-Dialogue.mod:5 52154-Dialogue.mod:0
+msgid "All visitors need to be checked for contraband before entry into town, /OUTLANDER/. I need to check your inventory."
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9448-Dialogue.mod:6 52154-Dialogue.mod:1
+msgid "All entrants need to be examined for prohibited goods before being allowed through. I can't let you pass without a search."
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9448-Dialogue.mod:7 52154-Dialogue.mod:3
+msgid "I'm going to need to do a contraband check before I can let you through, /OUTLANDER/. All travellers must be checked."
+msgstr ""
+
+#. Id: 9448-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (9447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9448-Dialogue.mod:8 52154-Dialogue.mod:4
+msgid "I have to search you for illegal items before I can let you on in, /OUTLANDER/. Let me see your gear."
+msgstr ""
+
+#. Id: 9451-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9451-Dialogue.mod:0
+msgid "I understand, go ahead..."
+msgstr ""
+
+#. Id: 9451-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9451-Dialogue.mod:1
+msgid "Okay, go ahead..."
+msgstr ""
+
+#. Id: 9451-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9451-Dialogue.mod:2
+msgid "I see, go ahead..."
+msgstr ""
+
+#. Id: 9451-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9451-Dialogue.mod:3
+msgid "That's fine, I understand..."
+msgstr ""
+
+#. Id: 9454-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 52175-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9454-Dialogue.mod:0 52175-Dialogue.mod:0
+msgid "Spread your legs and lift your arms above your head... "
+msgstr ""
+
+#. Id: 9454-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 52175-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (51915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9454-Dialogue.mod:1 52175-Dialogue.mod:1
+msgid "Okay, hold still... "
+msgstr ""
+
+#. Id: 52195-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52195-Dialogue.mod:0
+msgid "What the-?! Narcotics?! Goddamn smugglers! Trying to sneak this past us?"
+msgstr ""
+
+#. Id: 52195-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52195-Dialogue.mod:1
+msgid "Huh?! Looks like I found something... Narcotics. So you thought you could smuggle this in, huh?"
+msgstr ""
+
+#. Id: 9459-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52195-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9459-Dialogue.mod:0
+msgid "No!... It's not mine! I swear I'm innocent!"
+msgstr ""
+
+#. Id: 9481-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9459-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9481-Dialogue.mod:0
+msgid "No excuses! Arrest /HIM/!"
+msgstr ""
+
+#. Id: 9460-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52195-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9460-Dialogue.mod:0
+msgid "Wait, I can explain... This isn't how it looks..."
+msgstr ""
+
+#. Id: 9460-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52195-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9460-Dialogue.mod:1
+msgid "Wait, let's talk about this... I can explain."
+msgstr ""
+
+#. Id: 9461-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 9461-Dialogue.mod:0
+msgid "/QUICKLAUGH/, this should be entertaining. Go on then..."
+msgstr ""
+
+#. Id: 6701-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 6701-Dialogue.mod:0
+msgid "I didn't know it was classed illegal in this town! I'm no smuggler."
+msgstr ""
+
+#. Id: 6719-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (6701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 6719-Dialogue.mod:0
+msgid "Think me stupid? Your lies and your desperation are an insult! Whatever your reasons, smuggling in drugs is illegal in this city... "
+msgstr ""
+
+#. Id: 9637-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (6719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9637-Dialogue.mod:0
+msgid "I'll give you a cut... (2000 cats)"
+msgstr ""
+
+#. Id: 51867-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 51867-Dialogue.mod:0
+msgid "Glad we're on the same page..."
+msgstr ""
+
+#. Id: 53124-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
+#: 53124-Dialogue.mod:0
+msgid "... Go on, where's my cut then? What have you got for me?"
+msgstr ""
+
+#. Id: 53128-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (53124-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53128-Dialogue.mod:0
+msgid "Uhh... (Show them your Cats)"
+msgstr ""
+
+#. Id: 53130-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (53128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53130-Dialogue.mod:0
+msgid "... That's it? Don't waste my time with chump change!"
+msgstr ""
+
+#. Id: 53130-Dialogue.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (53128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53130-Dialogue.mod:1
+msgid "... That's it!? This is an insult! Talking big but you don't even have the Cats to back it up!"
+msgstr ""
+
+#. Id: 53129-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (53124-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 53142-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53129-Dialogue.mod:0 53142-Dialogue.mod:0
+msgid "... I guess I don't have enough after all..."
+msgstr ""
+
+#. Id: 53131-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (53129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53131-Dialogue.mod:0
+msgid "Don't even have the Cats to back up the big talk? Nothing but a time wasting criminal..."
+msgstr ""
+
+#. Id: 51861-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (6719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51861-Dialogue.mod:0
+msgid "Screw your city and it's rules!"
+msgstr ""
+
+#. Id: 51863-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (6719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51863-Dialogue.mod:0
+msgid "Trust me, you do not want to cross me, guard. Let me through."
+msgstr ""
+
+#. Id: 51864-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (51863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51864-Dialogue.mod:0
+msgid "Threatening the law now? "
+msgstr ""
+
+#. Id: 52230-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (51864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 51891-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (51890-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52230-Dialogue.mod:0 51891-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/ for possession!"
+msgstr ""
+
+#. Id: 52230-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (51864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52230-Dialogue.mod:1
+msgid "/SEIZE/ /HIM/ for smuggling!"
+msgstr ""
+
+#. Id: 9499-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (6701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9499-Dialogue.mod:0
+msgid "Think me stupid? I don't make enough money to deal with /RAT/s like you. I don't think you realise how much trouble this could land you in..."
+msgstr ""
+
+#. Id: 9499-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (6701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9499-Dialogue.mod:1
+msgid "/BULLSHIT/. You talk too much, /RAT/, I'm not interested in your excuses or your sob stories. You got anything of actual interest to me to add? Or am I taking you to the cages?"
+msgstr ""
+
+#. Id: 9499-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (6701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9499-Dialogue.mod:2
+msgid "I don't care if you feign ignorance or not. It's ILLEGAL. And I don't get paid enough to deal with your /BULLSHIT/, got it? So, you got anything else of any actual relevance to add? Or am I escorting you over to those comfy looking cages?"
+msgstr ""
+
+#. Id: 52464-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (6701-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52464-Dialogue.mod:0
+msgid "A crime's a crime! Whatever your reason, it's my job to protect against smugglers!"
+msgstr ""
+
+#. Id: 9482-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9482-Dialogue.mod:0
+msgid "I'm worth a lot of Cats. I can make your wildest dreams come true..."
+msgstr ""
+
+#. Id: 9482-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9482-Dialogue.mod:1
+msgid "You guards deserve more. Work with me, I have a lot of Cats to share..."
+msgstr ""
+
+#. Id: 9486-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9486-Dialogue.mod:0
+msgid "We can be partners. You scratch my back, I scratch yours. With Cats. Lots of Cats"
+msgstr ""
+
+#. Id: 9486-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (9483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9486-Dialogue.mod:1
+msgid "We can be partners. You scratch my back, I scratch yours."
+msgstr ""
+
+#. Id: 9511-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9511-Dialogue.mod:0
+msgid "... Partners you say... Okay, let's talk about figures first. You pay me a 2500 Cat cut and I'll get you in town, whenever you want, no questions asked. You betray me at any point and I'll hunt you down."
+msgstr ""
+
+#. Id: 9511-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (9486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9511-Dialogue.mod:1
+msgid "... I hear you... Okay, I want 2500 Cats for each visit. I'll keep the other guards busy while you slip through the gates. Deal?"
+msgstr ""
+
+#. Id: 9514-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9511-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 9514-Dialogue.mod:0
+msgid "It's a deal. Here's your first payment (Give 2500 Cats)"
+msgstr ""
+
+#. Id: 9515-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (9514-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9515-Dialogue.mod:0
+msgid "/QUICKLAUGH/. You may pass."
+msgstr ""
+
+#. Id: 51873-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9511-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51873-Dialogue.mod:0
+msgid "No. No deal."
+msgstr ""
+
+#. Id: 51874-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (51873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51874-Dialogue.mod:0
+msgid "... What happened to your bags of money? Don't have the Cats to back up the big talk, huh?"
+msgstr ""
+
+#. Id: 52453-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52453-Dialogue.mod:0
+msgid " *Scratches head*... I don't know about that... Sounds risky... I'm not allowed to take gifts."
+msgstr ""
+
+#. Id: 52455-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52453-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 52455-Dialogue.mod:0
+msgid "Trust me, I won't tell. I'll give you 2500 Cats for each visit..."
+msgstr ""
+
+#. Id: 52457-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (52455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52457-Dialogue.mod:0
+msgid "Okay, I'll do it. I want my first payment though."
+msgstr ""
+
+#. Id: 52458-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (52457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52458-Dialogue.mod:0
+msgid "Why, of course! (Give 2500 Cats)"
+msgstr ""
+
+#. Id: 52459-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (52458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52459-Dialogue.mod:0
+msgid "Okay. Go on in."
+msgstr ""
+
+#. Id: 52456-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52453-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 52456-Dialogue.mod:0
+msgid "If you don't risk, you don't get. 2500 Cats whenever I need your help. You'll be rich."
+msgstr ""
+
+#. Id: 52461-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52453-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52461-Dialogue.mod:0
+msgid "You're right. It's too risky, forget it."
+msgstr ""
+
+#. Id: 52462-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (52461-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52462-Dialogue.mod:0
+msgid "... Then I gotta arrest you, stop distracting me with your smooth talk!"
+msgstr ""
+
+#. Id: 52449-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 52449-Dialogue.mod:0
+msgid "Uh... *Looks over their shoulder*... What do you mean?"
+msgstr ""
+
+#. Id: 53133-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52449-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#: 53133-Dialogue.mod:0
+msgid "Uhh... (Pull out your meager sack of Cats) How about it, eh? Eh?"
+msgstr ""
+
+#. Id: 53620-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 53620-Dialogue.mod:0
+msgid "You'd better have a decent offer to back this up, bigshot..."
+msgstr ""
+
+#. Id: 53624-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (53620-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53624-Dialogue.mod:0
+msgid "On second thought, maybe I don't have that much on me..."
+msgstr ""
+
+#. Id: 53625-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (53624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53625-Dialogue.mod:0
+msgid "Just as I thought. Don't have the Cats to back up the big talk, huh?"
+msgstr ""
+
+#. Id: 9487-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9487-Dialogue.mod:0
+msgid "Gangsters made me do it. They threatened to kill me."
+msgstr ""
+
+#. Id: 9487-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9487-Dialogue.mod:1
+msgid "Swampers made me do it. They threatened to kill me."
+msgstr ""
+
+#. Id: 9490-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9490-Dialogue.mod:0
+msgid "Right, right... And how did they 'make' you smuggle drugs into an Empire town exactly, hm? Maybe you'd be safer in a jail cell?"
+msgstr ""
+
+#. Id: 9492-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9490-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9492-Dialogue.mod:0
+msgid "They said that if I end up in a jail cell, they'll murder the town guards."
+msgstr ""
+
+#. Id: 9493-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9493-Dialogue.mod:0
+msgid "Well, as much as this has made my shift mildly more entertaining than usual, I'm starting to grow tired of your nonsense now... Arrest /HIM/!"
+msgstr ""
+
+#. Id: 52447-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52447-Dialogue.mod:0
+msgid "... Stop trying to trick me! Just stop talking!... You're under arrest for smuggling."
+msgstr ""
+
+#. Id: 51875-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9490-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51875-Dialogue.mod:0
+msgid "Look, let me off the hook. I'll share my cut (2000 Cats)"
+msgstr ""
+
+#. Id: 51876-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9490-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51876-Dialogue.mod:0
+msgid "Fine, you got me. Either you can arrest me, or we can make a deal..."
+msgstr ""
+
+#. Id: 9494-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 9494-Dialogue.mod:0
+msgid "A crime is a crime, I don't care for your excuses. Arrest /HIM/!"
+msgstr ""
+
+#. Id: 52443-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52443-Dialogue.mod:0
+msgid "... Well even so, I still gotta arrest you for smuggling. A crime is a crime."
+msgstr ""
+
+#. Id: 52429-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9461-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52429-Dialogue.mod:0
+msgid "It was all just a test! And you passed! Congratulations!"
+msgstr ""
+
+#. Id: 52430-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52429-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52430-Dialogue.mod:0
+msgid "Wh... Eh?"
+msgstr ""
+
+#. Id: 52431-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52430-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52431-Dialogue.mod:0
+msgid "That's right, quality management. I'm working undercover. Well done, you!"
+msgstr ""
+
+#. Id: 52432-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52432-Dialogue.mod:0
+msgid "Uh... I'm not sure, I've never heard of quality management before..."
+msgstr ""
+
+#. Id: 52433-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (52432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52433-Dialogue.mod:0
+msgid "Of course! Hamut sent me. And I must say, you're a magnificent gate guard. Really."
+msgstr ""
+
+#. Id: 52434-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (52433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52434-Dialogue.mod:0
+msgid "Oh... Uh, thanks..."
+msgstr ""
+
+#. Id: 52435-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (52434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52435-Dialogue.mod:0
+msgid "I'm so confused."
+msgstr ""
+
+#. Id: 52986-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52986-Dialogue.mod:0
+msgid "Just... stop talking! I've been fooled enough. Now, tell it to the prison guard, I'm arresting your for smuggling!"
+msgstr ""
+
+#. Id: 52437-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52429-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52437-Dialogue.mod:0
+msgid "/LAUGH/! This has to be the best one I've heard all week! A test, eh?... /LAUGH/!"
+msgstr ""
+
+#. Id: 52441-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52437-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52441-Dialogue.mod:0
+msgid "I'm working undercover, /NAME/ sent me here. How dare you laugh at me, your superior!"
+msgstr ""
+
+#. Id: 52440-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52429-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 52440-Dialogue.mod:0
+msgid "Take me for a fool? Enough of your excuses! Smuggling is a serious crime in this city!"
+msgstr ""
+
+#. Id: 9484-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9484-Dialogue.mod:0
+msgid "I doubt you can explain your way out of this, /TRAVELLER/. Don't take me lightly"
+msgstr ""
+
+#. Id: 52438-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52438-Dialogue.mod:0
+msgid "... Then how is it?"
+msgstr ""
+
+#. Id: 52514-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52514-Dialogue.mod:0
+msgid "No stories, no excuses, I've heard it all. You're under arrest for smuggling."
+msgstr ""
+
+#. Id: 9639-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52195-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 52179-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52176-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9639-Dialogue.mod:0 52179-Dialogue.mod:0
+msgid "You'll never take me alive! (Attack)"
+msgstr ""
+
+#. Id: 52428-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52428-Dialogue.mod:0
+msgid "What the-?! Trying to smuggle in drugs!"
+msgstr ""
+
+#. Id: 9455-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9455-Dialogue.mod:0
+msgid "Okay, open your bags up ... "
+msgstr ""
+
+#. Id: 9455-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 9455-Dialogue.mod:1
+msgid "Let's see what you've got here then..."
+msgstr ""
+
+#. Id: 52198-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52198-Dialogue.mod:0
+msgid "Hmph. And what's this?"
+msgstr ""
+
+#. Id: 9463-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#. Id: 10750-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 9463-Dialogue.mod:0 10750-Dialogue?(10).mod:0
+msgid "Okay, raise your arms.... "
+msgstr ""
+
+#. Id: 9463-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#. Id: 10750-Dialogue (10).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-20, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 9463-Dialogue.mod:1 10750-Dialogue?(10).mod:1
+msgid "Okay, arms up..."
+msgstr ""
+
+#. Id: 51893-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51893-Dialogue.mod:0
+msgid "Uhuh, narcotics... Well well, looks like we got us a smuggler. Our town doesn't take too kindly to smugglers, you're going to be spending a long time in the cages for this!"
+msgstr ""
+
+#. Id: 51893-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51893-Dialogue.mod:1
+msgid "Huh?! Damn /SNAKE/ trying to sneak in narcotics! Smuggling isn't taken lightly in this town!"
+msgstr ""
+
+#. Id: 9468-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9468-Dialogue.mod:0
+msgid "What the-?! That's not mine!"
+msgstr ""
+
+#. Id: 9641-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9641-Dialogue.mod:0
+msgid "Smuggling is a serious crime here, /HELLION/, you could spend a long time in the cages for this. And believe me, you do NOT want to spend your days cramped up in one of those filthy things! Hoy, I feel sorry for you right now..."
+msgstr ""
+
+#. Id: 9641-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (9468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9641-Dialogue.mod:1
+msgid "Dealing narcotics is a severe offense in these parts, /RAT/, you could go to prison for years for this. Trust me, you do NOT want to spend your days couped up in a putrid cage being spat on for sport by your halfwit bandit neighbours... "
+msgstr ""
+
+#. Id: 9642-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9642-Dialogue.mod:0
+msgid "No! You must have snuck it on me! Are you serious?!"
+msgstr ""
+
+#. Id: 9644-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9642-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9644-Dialogue.mod:0
+msgid "Wow. Are you really /BACKTALKING/ a GUARD? You need to apologise and show me some respect... AND pay the fine for posession of contraband. 2000 Cats"
+msgstr ""
+
+#. Id: 9645-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9644-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 9645-Dialogue.mod:0
+msgid "... /TCH/. I have no choice do I? Here... (Pay /COST/ Cats)"
+msgstr ""
+
+#. Id: 9646-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9646-Dialogue.mod:0
+msgid "Better not let me catch you gettin' in any more trouble. Go on, /GETLOST/. Damn /SNAKE/"
+msgstr ""
+
+#. Id: 10754-Dialogue (10).mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#: 10754-Dialogue?(10).mod:0
+msgid "Damn /SNAKE/, don't mess with the Empire. Now /GETLOST/"
+msgstr ""
+
+#. Id: 10757-Dialogue (10).mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (10754-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 10757-Dialogue?(10).mod:0
+msgid "/QUICKLAUGH/, serves 'em right"
+msgstr ""
+
+#. Id: 10757-Dialogue (10).mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (10754-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 10757-Dialogue?(10).mod:1
+msgid "Ought to throw the /SNAKE/ in a cell anyway"
+msgstr ""
+
+#. Id: 9649-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9644-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9649-Dialogue.mod:0
+msgid "Corrupt /BASTARD/. I'm not paying YOU anything!"
+msgstr ""
+
+#. Id: 9651-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9651-Dialogue.mod:0
+msgid "Well, /HELLION/, if you won't play nice then you'll rot in the station instead! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 51884-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9644-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51884-Dialogue.mod:0
+msgid "But I don't have enough money..."
+msgstr ""
+
+#. Id: 51890-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (51884-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51890-Dialogue.mod:0
+msgid "/TCH/, useless!"
+msgstr ""
+
+#. Id: 51886-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9644-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51886-Dialogue.mod:0
+msgid "How about I pay you with the end of my sword instead!"
+msgstr ""
+
+#. Id: 51886-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (9644-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51886-Dialogue.mod:1
+msgid "How about you choke on my sword instead!"
+msgstr ""
+
+#. Id: 9656-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9656-Dialogue.mod:0
+msgid "Now, you seem like a reasonable /MAN2/ so I'll help you out. Surrender quietly and I'll only charge you the minium fine with no nasty jail time. 2000 Cats."
+msgstr ""
+
+#. Id: 51888-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51888-Dialogue.mod:0
+msgid "... So I guess you want something from me, huh?"
+msgstr ""
+
+#. Id: 51889-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51889-Dialogue.mod:0
+msgid "All I want is to uphold the law and help, help reform /HELLION/s like you... Pay the fine for posession, 2000 Cats, and we'll forgive all crimes here today... Okay?"
+msgstr ""
+
+#. Id: 9469-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9469-Dialogue.mod:0
+msgid "Corrupt snake! You planted that on me!"
+msgstr ""
+
+#. Id: 51881-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51881-Dialogue.mod:0
+msgid "So that's how it is, huh? What do you want from me?"
+msgstr ""
+
+#. Id: 51881-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (51893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51881-Dialogue.mod:1
+msgid "So it's a setup, huh? What do you want from me then?"
+msgstr ""
+
+#. Id: 51882-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51882-Dialogue.mod:0
+msgid "Smuggling is a serious crime here, you could spend a long time in the cells for this. But you seem like a sharp /MAN2/, pay the fine and we'll call it a day, you get me? 2000 Cats."
+msgstr ""
+
+#. Id: 9465-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 9465-Dialogue.mod:0
+msgid "Let me see inside your bag... "
+msgstr ""
+
+#. Id: 51894-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51894-Dialogue.mod:0
+msgid "Huh! Narcotics, eh!? Damn /RAT/! We have a strict punishment system for smugglers around here. I can have you arrested..."
+msgstr ""
+
+#. Id: 9470-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9470-Dialogue.mod:0
+msgid "...Okay, looks clean. Move along,  /TRAVELLER/"
+msgstr ""
+
+#. Id: 51895-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10750-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51895-Dialogue.mod:0
+msgid "Uhuh, narcotics... Well well, looks like I was right about you after all, damn /SNAKE/. Our town doesn't take too kindly to smugglers, you're going to spending a long time in the cells!"
+msgstr ""
+
+#. Id: 51895-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (10750-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51895-Dialogue.mod:1
+msgid "Huh?! I was right all along, damn /SNAKE/ trying to sneak in narcotics! Smuggling isn't taken lightly in this town!"
+msgstr ""
+
+#. Id: 52478-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>5, Tag: -1
+#: 52478-Dialogue.mod:0
+msgid "Ugh... Why do you have to have so many bags... "
+msgstr ""
+
+#. Id: 52479-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52479-Dialogue.mod:0
+msgid "[They lazily glance through the tops of your bags]"
+msgstr ""
+
+#. Id: 52488-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52489-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52485-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52488-Dialogue.mod:0 52489-Dialogue.mod:0
+msgid "That'll do. Go on in."
+msgstr ""
+
+#. Id: 52485-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52485-Dialogue.mod:0
+msgid "*Sigh*... Okay, let's see what you've got I guess... [They glance lazily over your stuff]"
+msgstr ""
+
+#. Id: 52490-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52485-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52490-Dialogue.mod:0
+msgid "... Wait, drugs... *Sigh*... Great, more work for me to do. I'm arresting you for smuggling, criminal."
+msgstr ""
+
+#. Id: 52492-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52490-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52492-Dialogue.mod:0
+msgid "Then let's make this easy for us both, eh? I've got Cats."
+msgstr ""
+
+#. Id: 52493-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52493-Dialogue.mod:0
+msgid "... What's your offer?"
+msgstr ""
+
+#. Id: 52494-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52494-Dialogue.mod:0
+msgid "A deal. How about we be partners?"
+msgstr ""
+
+#. Id: 52503-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52503-Dialogue.mod:0
+msgid "Alright. My neck against the nobles, my terms. 3000 Cats for each time I bail you out of inspections."
+msgstr ""
+
+#. Id: 52504-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52503-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 15050-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15047-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 52504-Dialogue.mod:0 15050-Dialogue.mod:3
+msgid "Deal (3000 Cats)"
+msgstr ""
+
+#. Id: 52505-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52504-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52505-Dialogue.mod:0
+msgid "Pleasure doing business. Go on through."
+msgstr ""
+
+#. Id: 53611-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52503-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 53611-Dialogue.mod:0
+msgid "... I don't have that much money on me this time..."
+msgstr ""
+
+#. Id: 52495-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 52495-Dialogue.mod:0
+msgid "A cut. 2000 Cats and we both walk away."
+msgstr ""
+
+#. Id: 52496-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52495-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52496-Dialogue.mod:0
+msgid "4000 Cats."
+msgstr ""
+
+#. Id: 52497-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 52497-Dialogue.mod:0
+msgid "Deal (4000 Cats)"
+msgstr ""
+
+#. Id: 52501-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52501-Dialogue.mod:0
+msgid "Go through."
+msgstr ""
+
+#. Id: 52512-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52507-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52512-Dialogue.mod:0
+msgid "Then no deal. I'm not risking my neck for less."
+msgstr ""
+
+#. Id: 9452-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9452-Dialogue.mod:0
+msgid "Seriously? I don't have time for this..."
+msgstr ""
+
+#. Id: 9452-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9452-Dialogue.mod:1
+msgid "I'm a busy /MEMAN/, I don't have time for this..."
+msgstr ""
+
+#. Id: 9473-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9473-Dialogue.mod:0
+msgid "I don't give a damn if you don't have time, rules are rules. Comply and let me search you, or say hello to the inside of a jail cell..."
+msgstr ""
+
+#. Id: 9473-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 9473-Dialogue.mod:1
+msgid "Do I look like I give a damn? Procedure is procedure. If you refuse to be searched, then you can rot in the cells out of my sight..."
+msgstr ""
+
+#. Id: 9474-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9474-Dialogue.mod:0
+msgid "... Fine. You can search /MEUS/."
+msgstr ""
+
+#. Id: 9474-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9474-Dialogue.mod:1
+msgid "... Fine. Go ahead, search away."
+msgstr ""
+
+#. Id: 9474-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (9473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9474-Dialogue.mod:2
+msgid "... Okay... Search away."
+msgstr ""
+
+#. Id: 9474-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (9473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9474-Dialogue.mod:3
+msgid "... Okay, fine. Search /MEUS/."
+msgstr ""
+
+#. Id: 52172-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52172-Dialogue.mod:0
+msgid "How about we speed this up, hm? (Bribe)"
+msgstr ""
+
+#. Id: 53633-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52172-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 53609-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6699-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53633-Dialogue.mod:0 53609-Dialogue.mod:0
+msgid "You really want to make this quick, you'd better have the Cats for it, bigshot..."
+msgstr ""
+
+#. Id: 52164-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 52164-Dialogue.mod:0
+msgid "Time's valuable, huh? Well, we can either make this quick, or we can drag this out... Just how much is your time worth to you exactly?"
+msgstr ""
+
+#. Id: 52168-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 52168-Dialogue.mod:0
+msgid "Alot. How about a share?"
+msgstr ""
+
+#. Id: 52169-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 52169-Dialogue.mod:0
+msgid "About 2000 Cats (Bribe)"
+msgstr ""
+
+#. Id: 52170-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52170-Dialogue.mod:0
+msgid "Try your extortion on me again and I'll gut you."
+msgstr ""
+
+#. Id: 52426-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52426-Dialogue.mod:0
+msgid "Last time. Bags. Check."
+msgstr ""
+
+#. Id: 52525-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52525-Dialogue.mod:0
+msgid "Neither do I. Hurry it up, let's get this over with."
+msgstr ""
+
+#. Id: 9453-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9453-Dialogue.mod:0
+msgid "Nevermind, I'll just leave..."
+msgstr ""
+
+#. Id: 51903-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51903-Dialogue.mod:0
+msgid "Why the sudden change of heart? Searches make you nervous, /TRAVELLER/? "
+msgstr ""
+
+#. Id: 51903-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51903-Dialogue.mod:1
+msgid "Leaving already? You just got here. Got something you want to hide, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 51904-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
+#: 51904-Dialogue.mod:0
+msgid "Open your bags. And that's an order, not a request."
+msgstr ""
+
+#. Id: 51907-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51907-Dialogue.mod:0
+msgid "Make me. I dare you. (Grab your sword)"
+msgstr ""
+
+#. Id: 51907-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (51904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51907-Dialogue.mod:1
+msgid "Try and make me. You'll regret it."
+msgstr ""
+
+#. Id: 51907-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (51904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51907-Dialogue.mod:2
+msgid "Not. Gonna. Happen. (Grab your sword)"
+msgstr ""
+
+#. Id: 51907-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (51904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51907-Dialogue.mod:3
+msgid "Tell me what to do one more time. (Grab your sword)"
+msgstr ""
+
+#. Id: 51907-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (51904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51907-Dialogue.mod:4
+msgid "Got a deathwish, guardsman? (Grab your weapon)"
+msgstr ""
+
+#. Id: 51905-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51905-Dialogue.mod:0
+msgid "Spread your legs and raise your arms for checks. And that's an order, not a request."
+msgstr ""
+
+#. Id: 52527-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52527-Dialogue.mod:0
+msgid "I need to check you. And that's an order, not a request."
+msgstr ""
+
+#. Id: 52157-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52157-Dialogue.mod:0
+msgid "Not gonna happen."
+msgstr ""
+
+#. Id: 52158-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52157-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52158-Dialogue.mod:0
+msgid "I wasn't asking, /OUTLANDER/... Comply, now, and that's an order."
+msgstr ""
+
+#. Id: 52395-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52395-Dialogue.mod:0
+msgid "Whoa! Behind you, quick!"
+msgstr ""
+
+#. Id: 52396-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52396-Dialogue.mod:0
+msgid "... [They look at you with narrowed eyes, the hatred for you burns strong]"
+msgstr ""
+
+#. Id: 52401-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 52699-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52401-Dialogue.mod:0 52699-Dialogue.mod:0
+msgid "Yes /SIR/, go ahead... (Show /HIM/ your gear)"
+msgstr ""
+
+#. Id: 52523-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 52523-Dialogue.mod:0
+msgid "Just for that, I'm going to check you extra throroughly..."
+msgstr ""
+
+#. Id: 52397-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52397-Dialogue.mod:0
+msgid "What, what?! [They jump and turn away from you to look around]"
+msgstr ""
+
+#. Id: 52397-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52397-Dialogue.mod:1
+msgid "Aaah! What!? [They jump and turn away from you to look around]"
+msgstr ""
+
+#. Id: 52398-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52397-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52398-Dialogue.mod:0
+msgid "(Wing all your illegal goods out of sight)"
+msgstr ""
+
+#. Id: 52399-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52398-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52399-Dialogue.mod:0
+msgid "Wh-what are you talking about, /SNAKE/? There's nothing there!"
+msgstr ""
+
+#. Id: 52402-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52399-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52402-Dialogue.mod:0
+msgid "Oh, it was just a really ugly person. False alarm."
+msgstr ""
+
+#. Id: 52406-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52406-Dialogue.mod:0
+msgid "*Sigh*... Whatever. Let me check your stuff then..."
+msgstr ""
+
+#. Id: 52407-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52406-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52407-Dialogue.mod:0
+msgid "Of course, go ahead."
+msgstr ""
+
+#. Id: 52409-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52407-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52409-Dialogue.mod:0
+msgid "Alright let's see here... All good."
+msgstr ""
+
+#. Id: 52408-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52406-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52408-Dialogue.mod:0
+msgid "Sure, knock yourself out, heheheh... HEHEHEH!"
+msgstr ""
+
+#. Id: 52410-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52408-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52410-Dialogue.mod:0
+msgid "You really are an oddball... Okay, you look clean."
+msgstr ""
+
+#. Id: 52465-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52465-Dialogue.mod:0
+msgid "... That's my sister! She took a shovel to the face! How dare you!"
+msgstr ""
+
+#. Id: 52466-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52466-Dialogue.mod:0
+msgid "No more talking! Open your bags!"
+msgstr ""
+
+#. Id: 52467-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52467-Dialogue.mod:0
+msgid "No! And buy your 'sister' a facelift, it offends my eyes!"
+msgstr ""
+
+#. Id: 52468-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (52467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52468-Dialogue.mod:0
+msgid "You goddamn piece of... I'll make you pay!"
+msgstr ""
+
+#. Id: 52403-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52399-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52403-Dialogue.mod:0
+msgid "Huh, wierd. Thought I saw a monster. Was just a funny shaped rock."
+msgstr ""
+
+#. Id: 52404-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52399-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52404-Dialogue.mod:0
+msgid "Ah sorry. Had another flashback from my soldiering days..."
+msgstr ""
+
+#. Id: 52530-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 52530-Dialogue.mod:0
+msgid "No way. I'm not falling for that one again. Now, open your bags, no more funny business."
+msgstr ""
+
+#. Id: 9449-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9449-Dialogue.mod:0
+msgid "I'm a merchant. I'm here to trade."
+msgstr ""
+
+#. Id: 9449-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9449-Dialogue.mod:1
+msgid "Trade. I'm here to barter."
+msgstr ""
+
+#. Id: 9449-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9449-Dialogue.mod:2
+msgid "Work. I'm here to trade goods."
+msgstr ""
+
+#. Id: 9449-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 9449-Dialogue.mod:3
+msgid "Here to trade with the merchants."
+msgstr ""
+
+#. Id: 6700-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 6700-Dialogue.mod:0
+msgid "Paying my respects. You're doing a fine job, /SIR/ (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 6700-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 6700-Dialogue.mod:1
+msgid "Showing my appreciation. You're a credit to all gate guards (Bribe 2000 Cats) "
+msgstr ""
+
+#. Id: 6704-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: RELATIONS>40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6704-Dialogue.mod:0
+msgid "... Okay then"
+msgstr ""
+
+#. Id: 6704-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: RELATIONS>40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6704-Dialogue.mod:1
+msgid "... Thank you"
+msgstr ""
+
+#. Id: 6704-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: RELATIONS>40, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6704-Dialogue.mod:2
+msgid "... Appreciated. Go on through."
+msgstr ""
+
+#. Id: 6708-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6708-Dialogue.mod:1
+msgid "... Keen to get away, aren't we?"
+msgstr ""
+
+#. Id: 6708-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6708-Dialogue.mod:2
+msgid "... Something to hide?"
+msgstr ""
+
+#. Id: 51914-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51914-Dialogue.mod:0
+msgid "Open your bags."
+msgstr ""
+
+#. Id: 51915-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51915-Dialogue.mod:0
+msgid "Yes /SIR/..."
+msgstr ""
+
+#. Id: 52176-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52176-Dialogue.mod:0
+msgid "Huh?! Looks like I found something... Narcotics. So you thought you could smuggle this in, huh? And with a stingy 2000 Cat bribe at that..."
+msgstr ""
+
+#. Id: 52176-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52176-Dialogue.mod:1
+msgid "What the-?! Narcotics?! Goddamn smugglers, trying to sneak this past me? What's more, offering me a chump change bribe too!"
+msgstr ""
+
+#. Id: 52178-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52176-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52178-Dialogue.mod:0
+msgid "Guess you got me."
+msgstr ""
+
+#. Id: 52178-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (52176-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52178-Dialogue.mod:1
+msgid "You're a sharp one, aren't you?"
+msgstr ""
+
+#. Id: 52180-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52176-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52180-Dialogue.mod:0
+msgid "Ah, so it's more you're after, eh? Should have just said in the first place."
+msgstr ""
+
+#. Id: 52180-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (52176-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52180-Dialogue.mod:1
+msgid "Ah, getting greedy, eh? All you had to was ask."
+msgstr ""
+
+#. Id: 52181-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52180-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52181-Dialogue.mod:0
+msgid "Either you can rot in a jail cell, or you can pay me a FAIR price for risking my neck. I want 5000 Cats. Cats or jail, your choice."
+msgstr ""
+
+#. Id: 52182-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52181-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 52182-Dialogue.mod:0
+msgid "Deal (/COST/ Cats)"
+msgstr ""
+
+#. Id: 52185-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52185-Dialogue.mod:0
+msgid "Good. Go on through."
+msgstr ""
+
+#. Id: 52183-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52181-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52183-Dialogue.mod:0
+msgid "Robbery! Then throw me in jail. I can handle it."
+msgstr ""
+
+#. Id: 52184-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52181-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52184-Dialogue.mod:0
+msgid "Tch, tch. Greedy. No deal."
+msgstr ""
+
+#. Id: 53613-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53613-Dialogue.mod:0
+msgid "Then I guess you've made your choice..."
+msgstr ""
+
+#. Id: 52189-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (52181-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52189-Dialogue.mod:0
+msgid "Even better. How about you become my accomplice?"
+msgstr ""
+
+#. Id: 52177-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52175-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52177-Dialogue.mod:0
+msgid "Huh... Guess you're clean after all. Go on through..."
+msgstr ""
+
+#. Id: 51916-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 51916-Dialogue.mod:0
+msgid "You know what? You deserve more. (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 51919-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52259-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (51930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51919-Dialogue.mod:0 52259-Dialogue.mod:0
+msgid "... Go on through."
+msgstr ""
+
+#. Id: 51917-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51917-Dialogue.mod:0
+msgid "Come on, you don't care what's in my bags..."
+msgstr ""
+
+#. Id: 51921-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51921-Dialogue.mod:0
+msgid "Tell me what you want. I'll give it to you."
+msgstr ""
+
+#. Id: 51923-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51923-Dialogue.mod:0
+msgid "Alright, bigshot. I want 5000 Cats. 5000 Cats and I'll ask no questions."
+msgstr ""
+
+#. Id: 51926-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
+#: 51926-Dialogue.mod:0
+msgid "5000 Cats!? I can't afford that!"
+msgstr ""
+
+#. Id: 51931-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51931-Dialogue.mod:0
+msgid "And I'm not risking my neck for less. I'm taking you in for checks."
+msgstr ""
+
+#. Id: 51927-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51927-Dialogue.mod:0
+msgid "5000 Cats!?"
+msgstr ""
+
+#. Id: 51929-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51929-Dialogue.mod:0
+msgid "It's better than a month in a jail cell. And I'm not risking my neck for you for any less."
+msgstr ""
+
+#. Id: 51930-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (51929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 51930-Dialogue.mod:0
+msgid "... Fine (5000) Cats."
+msgstr ""
+
+#. Id: 51928-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 51928-Dialogue.mod:0
+msgid "Of course."
+msgstr ""
+
+#. Id: 51922-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51922-Dialogue.mod:0
+msgid "It's just full of rusty junk from the /SANDS/..."
+msgstr ""
+
+#. Id: 51924-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 51924-Dialogue.mod:0
+msgid "Then you won't mind me checking them, will you? Of course, stay on my good side, and you won't have to rot in a jail cell for possessing illegal goods. Hoy, you won't like it in our jail cells, I warn you..."
+msgstr ""
+
+#. Id: 52190-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52190-Dialogue.mod:0
+msgid "... Then go ahead. Search me."
+msgstr ""
+
+#. Id: 52191-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52191-Dialogue.mod:0
+msgid "(Draw your weapon)"
+msgstr ""
+
+#. Id: 6702-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6702-Dialogue.mod:0
+msgid "Okay. Now go."
+msgstr ""
+
+#. Id: 6702-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6702-Dialogue.mod:1
+msgid "... Go on through, you're clear."
+msgstr ""
+
+#. Id: 9479-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 9479-Dialogue.mod:0
+msgid "Trying to bribe me? You insult me, /TRAVELLER/, what do you take me for?! "
+msgstr ""
+
+#. Id: 9479-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 9479-Dialogue.mod:1
+msgid "Trying to bribe me? You insult me, /RAT/, what do you take me for?! "
+msgstr ""
+
+#. Id: 52173-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52173-Dialogue.mod:0
+msgid "Arrest /HIM/ for bribery!"
+msgstr ""
+
+#. Id: 53135-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
+#: 53135-Dialogue.mod:0
+msgid "... Got the Cats to back that up, bigshot?"
+msgstr ""
+
+#. Id: 53141-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53141-Dialogue.mod:0
+msgid "Uhh... (Show them your meagre sack of Cats)"
+msgstr ""
+
+#. Id: 53143-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53143-Dialogue.mod:0
+msgid "Thought as much... but nevertheless, a bribe's a bribe and I'm going to have to punish you for your crime."
+msgstr ""
+
+#. Id: 51910-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. Id: 12714-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12712-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#: 51910-Dialogue.mod:0 12714-Dialogue?(11)?(2).mod:2
+msgid "Is there a problem?"
+msgstr ""
+
+#. Id: 51910-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51910-Dialogue.mod:1
+msgid "Why, what's the problem?"
+msgstr ""
+
+#. Id: 51910-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 51910-Dialogue.mod:2
+msgid "... Is there something wrong?"
+msgstr ""
+
+#. Id: 9498-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-30, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9498-Dialogue.mod:0
+msgid "Here to cause trouble? What's your business here, /SNAKE/?"
+msgstr ""
+
+#. Id: 9498-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-30, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9498-Dialogue.mod:1
+msgid "Come to stir up trouble? What's your reason for visit, /SNAKE/?"
+msgstr ""
+
+#. Id: 9498-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-30, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9498-Dialogue.mod:2
+msgid "Been quite the trouble maker lately, haven't you? What's your business here, /SNAKE/?"
+msgstr ""
+
+#. Id: 9498-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-30, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9498-Dialogue.mod:3
+msgid "Proved yourself to be quite a nuisance recently, haven't you? What's your business here, /SNAKE/?"
+msgstr ""
+
+#. Id: 9498-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: RELATIONS<-10, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS>-30, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 9498-Dialogue.mod:4
+msgid "We've got no room for trouble makers here, /SNAKE/. What's your business?"
+msgstr ""
+
+#. Id: 10746-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9498-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 10746-Dialogue?(10).mod:0
+msgid "Just passing through, I want no trouble"
+msgstr ""
+
+#. Id: 10747-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9498-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 10747-Dialogue?(10).mod:0
+msgid "Trading, I'm here on business"
+msgstr ""
+
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52154-Dialogue.mod:2
+msgid "Halt there, /OUTLANDER/, I need to inspect your belongings for illicit goods before I can allow you to enter."
+msgstr ""
+
+#. Id: 52154-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52154-Dialogue.mod:5
+msgid "I need to check your belongings, /OUTLANDER/. Empty your personal items for inspection."
+msgstr ""
+
+#. Id: 52161-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52161-Dialogue.mod:0
+msgid "I wasn't asking, /OUTLANDER/. Show me your gear."
+msgstr ""
+
+#. Id: 52161-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52161-Dialogue.mod:1
+msgid "That was an order, /OUTLANDER/. Show me your belongings."
+msgstr ""
+
+#. Id: 52161-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52160-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52161-Dialogue.mod:2
+msgid "Your gear, show it to me. I won't say it again."
+msgstr ""
+
+#. Id: 6699-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6699-Dialogue.mod:0
+msgid "Look, I don't want any trouble here (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 6699-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6699-Dialogue.mod:1
+msgid "How about we speed this up (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 6699-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6699-Dialogue.mod:2
+msgid "Let's make this easy for both of us (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 6699-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6699-Dialogue.mod:3
+msgid "How about make this quick? (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 6699-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (52154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 6699-Dialogue.mod:4
+msgid "How about I save you some time (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 52418-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6699-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 52418-Dialogue.mod:0
+msgid "Uh... *Looks over their shoulder, then looks to you with hesitation*"
+msgstr ""
+
+#. Id: 52419-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52418-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52419-Dialogue.mod:0
+msgid "Go on. You know you want it..."
+msgstr ""
+
+#. Id: 52420-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52418-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52420-Dialogue.mod:0
+msgid "No-one will ever know. Shhh..."
+msgstr ""
+
+#. Id: 52420-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52418-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52420-Dialogue.mod:1
+msgid "Relax, nobody will ever know. Our little secret..."
+msgstr ""
+
+#. Id: 52424-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52424-Dialogue.mod:0
+msgid "Just, just open your bags! Stop trying to distract me, /RAT/!"
+msgstr ""
+
+#. Id: 52424-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52424-Dialogue.mod:1
+msgid "Just, just open your bags! I won't fall for your tricks, /RAT/!"
+msgstr ""
+
+#. Id: 52422-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52418-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 52422-Dialogue.mod:0
+msgid "It's money. It doesn't bite."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:0
+msgid "Got a lot of bags there, /OUTLANDER/. Gonna need to check them before you can go on through."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:1
+msgid "Gonna need to check those bags before you can enter the city, /OUTLANDER/. Standard anti-drugs procedure."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:2
+msgid "Gonna need to search those bags before you can enter the city, /OUTLANDER/. Standard contraband checks."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:3
+msgid "Going to need you to empty those bags for me, /OUTLANDER/. Standard city checks."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:4
+msgid "That's a lot of bags you got there, /OUTLANDER/. Going to need to check them over for contraband."
+msgstr ""
+
+#. Id: 52155-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52155-Dialogue.mod:5
+msgid "Bags, I need to inspect them. Standard illegal goods checks, no problem if you've got nothing to hide."
+msgstr ""
+
+#. Id: 52163-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52163-Dialogue.mod:0
+msgid "I wasn't asking, /OUTLANDER/. Open them."
+msgstr ""
+
+#. Id: 52163-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52163-Dialogue.mod:1
+msgid "Your bags, open them. I won't say it again."
+msgstr ""
+
+#. Id: 52163-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 52163-Dialogue.mod:2
+msgid "That was an order, /OUTLANDER/. Open your bags."
+msgstr ""
+
+#. Id: 52414-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52414-Dialogue.mod:0
+msgid "I need to check your stuff for contramaband before I can let you in, /OUTLANDER/. Show me your gear."
+msgstr ""
+
+#. Id: 52414-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52414-Dialogue.mod:1
+msgid "Gonna need to check your... er.. junk before you can go in the city, /OUTLANDER/. Standard anti-drugs stuff..."
+msgstr ""
+
+#. Id: 52414-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52414-Dialogue.mod:2
+msgid "Stop there, /OUTLANDER/, I need to go through your bags for shady goods before I can let you enter."
+msgstr ""
+
+#. Id: 52414-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52414-Dialogue.mod:3
+msgid "I'm going to need to do a contramaband check before I can let you through, /OUTLANDER/. All travellers must be checked."
+msgstr ""
+
+#. Id: 52414-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52414-Dialogue.mod:4
+msgid "Bags, I need to look them over. Standard checks for illegal stuff, no problem if you've got nothing to hide."
+msgstr ""
+
+#. Id: 52415-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 52415-Dialogue.mod:0
+msgid "[They look almost half asleep, slumped in their stance, devoid of all enthusiasm] Alright, I need to check your stuff before you can enter town. Spot check, rules, yada yada, you get the picture."
+msgstr ""
+
+#. Id: 52482-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 52482-Dialogue.mod:0
+msgid "You're doing a fine job, guardsman. Here (Bribe /COST/ Cats)"
+msgstr ""
+
+#. Id: 53949-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53949-Dialogue.mod:1
+msgid "... Ugh..."
+msgstr ""
+
+#. Id: 53949-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53949-Dialogue.mod:2
+msgid "... Great. Another dreg for the mines."
+msgstr ""
+
+#. Id: 53950-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53950-Dialogue.mod:0
+msgid "The United Cities is a place for honest, hard working citizens. Poverty is illegal in this /LAND/, /OUTLANDER/... And that gaunt face of yours isn't doing you any favours. You got proof of wealth?"
+msgstr ""
+
+#. Id: 53950-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53950-Dialogue.mod:1
+msgid "... You'd better have proof of wealth to show to me if you want to avoid a sentence to the mines, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 53950-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53950-Dialogue.mod:2
+msgid "The United Cities is a haven for the worthy hard-working citizen... A hungry /MUTT/ like you really thinks you deserve entry?"
+msgstr ""
+
+#. Id: 53950-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (53949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53950-Dialogue.mod:3
+msgid "A bony /MUTT/ like you deserves no entry to the United Cities. Now, one chance, prove your worth to me and I'll save you from the mines..."
+msgstr ""
+
+#. Id: 53954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53954-Dialogue.mod:0
+msgid "Have pity, I just need food..."
+msgstr ""
+
+#. Id: 53958-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53958-Dialogue.mod:0
+msgid "There is no pity for the weak, and your kind certainly won't be left to drag the rest of the Empire down with you. There's only one place you belong: The mines"
+msgstr ""
+
+#. Id: 53970-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53970-Dialogue.mod:0
+msgid "I'm arresting you for destitution on United City grounds"
+msgstr ""
+
+#. Id: 53953-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 53953-Dialogue.mod:0
+msgid "Rules are rules, /OUTLANDER/, it's illegal to be without possessions in Empire /LAND/... Just take comfort in the fact that you'll be well fed here in prison"
+msgstr ""
+
+#. Id: 53953-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 53953-Dialogue.mod:1
+msgid "I can't let you through, /OUTLANDER/, it's MY neck on the line if I do. .. At least in prison you'll finally get your fill of food... "
+msgstr ""
+
+#. Id: 55406-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 55406-Dialogue.mod:0
+msgid "*Sigh*... I won't send a /MAN/ to die in the outlands... Just keep your head down and stay out of sight. And go eat something already, you look like death..."
+msgstr ""
+
+#. Id: 53955-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 53955-Dialogue.mod:0
+msgid "Here, is this proof enough for you? (Give 500 Cats)"
+msgstr ""
+
+#. Id: 53959-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53959-Dialogue.mod:0
+msgid "Okay, that's good enough for me. Now, go get yourself a dustwich already, you look like crap."
+msgstr ""
+
+#. Id: 53959-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53959-Dialogue.mod:1
+msgid "Proof enough for me. Now, go buy yourself a meatwrap or something... Just looking at your bony carcass is making me feel ill."
+msgstr ""
+
+#. Id: 53959-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53959-Dialogue.mod:2
+msgid "Huh, yeah, that'll do it. Seriously you look like hell, /OUTLANDER/, go eat something already."
+msgstr ""
+
+#. Id: 53959-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53959-Dialogue.mod:3
+msgid "Alright, I'll let you through. But, hell, you look like a walking corpse. Go see a doctor... buy a dustwich... sort yourself out, /OUTLANDER/."
+msgstr ""
+
+#. Id: 53956-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53956-Dialogue.mod:0
+msgid "... You heartless /GODDAMN/ scumbag."
+msgstr ""
+
+#. Id: 53961-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 53961-Dialogue.mod:0
+msgid "... Guess you don't have any proof for me then. It's the mines for you, dreg."
+msgstr ""
+
+#. Id: 53973-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53973-Dialogue.mod:0
+msgid "Just doing my job, /OUTLANDER/. We have standards to uphold in this city."
+msgstr ""
+
+#. Id: 53973-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53973-Dialogue.mod:1
+msgid "We have standards to uphold here, /OUTLANDER/, and it's my job to enforce them."
+msgstr ""
+
+#. Id: 53957-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#: 53957-Dialogue.mod:0
+msgid "Then what? You're going to arrest me for being down on my luck?"
+msgstr ""
+
+#. Id: 53952-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53952-Dialogue.mod:0
+msgid "You know I can't let you through like that, /OUTLANDER/. This is a place for the rich, not the destitute..."
+msgstr ""
+
+#. Id: 53952-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53952-Dialogue.mod:1
+msgid "You know I can't let you in looking like... that, /OUTLANDER/. This is a city for the wealthy, not the down and out..."
+msgstr ""
+
+#. Id: 53968-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53952-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 53968-Dialogue.mod:0
+msgid "I'm no beggar. Let me in. (Give 500 Cats)"
+msgstr ""
+
+#. Id: 53969-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53969-Dialogue.mod:0
+msgid "Okay, I'll let you through. But you look god awful, /OUTLANDER/, go eat something already."
+msgstr ""
+
+#. Id: 53969-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53969-Dialogue.mod:1
+msgid "Well... I guess looks can be deceiving. You can go in."
+msgstr ""
+
+#. Id: 53969-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#: 53969-Dialogue.mod:2
+msgid "Well, I'll be damned, you certainly don't LOOK like anything more than a beggar..."
+msgstr ""
+

@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:0
+msgid "Better put them down if you wanna live!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:2
+msgid "Drop 'em or die!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:3
+msgid "Drop 'em!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:4
+msgid "You wanna take them, you gotta get through me first!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:5
+msgid "Not gonna let you take 'em away!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:6
+msgid "You ain't taking my friend away!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#. Id: 47412-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47411-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#. Id: 8487-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Being healed
+#. Id: 17505-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior still got fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 52362-Dialogue.mod:7 47412-Dialogue.mod:0 57696-Dialogue.mod:1 8487-Dialogue.mod:4 17505-Dialogue.mod:1
+msgid "Kch!"
+msgstr ""
+
+#. Id: 52362-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#: 52362-Dialogue.mod:8
+msgid "Kidnapping my pal? Not on my watch!"
+msgstr ""
+
+#. Id: 52374-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 52374-Dialogue.mod:0
+msgid "/HEIS/ trying to take them away! Get /HIM/!"
+msgstr ""
+
+#. Id: 52374-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 52374-Dialogue.mod:1
+msgid "Kidnap! Don't let /HIM/ get away!"
+msgstr ""
+
+#. Id: 52374-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 52374-Dialogue.mod:2
+msgid "Don't let /HIM/ take 'em away!"
+msgstr ""
+
+#. Id: 52374-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH kidnapping
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 52374-Dialogue.mod:3
+msgid "We gotta get 'em back! Don't let the kidnapper escape!"
+msgstr ""
+

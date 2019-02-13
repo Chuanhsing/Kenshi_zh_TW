@@ -1,0 +1,415 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:0
+msgid "It's dangerous ahead here, /OUTLANDER/. The place is riddled with skull collectors, gorillos, bandits.. you name it. You're gonna need mercs with you if you wanna live..."
+msgstr ""
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:1
+msgid "It's dangerous up ahead, /OUTLANDER/, no place for a small group like yourself. Round here we got blood bandits, gutters, bonedogs... just about everything that wants you dead... You're gonna need yourself some mercs."
+msgstr ""
+
+#. Id: 47470-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47470-Dialogue.mod:2
+msgid "You'll never make it alone, I tell ya, I've seen some ugly sights around here. /IWE/ can handle anything though, you're safe with /MEUS/. Do the right thing and hire yourself some mercs..."
+msgstr ""
+
+#. Id: 47471-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47471-Dialogue.mod:0
+msgid "I can take care of myself."
+msgstr ""
+
+#. Id: 47475-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47475-Dialogue.mod:0
+msgid "You're lookin' at one of the best mercs in the land... and you don't think /IMWERE/ good enough to protect you? Is that what you're sayin'?"
+msgstr ""
+
+#. Id: 47488-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47488-Dialogue.mod:0
+msgid "I'm saying I don't NEED your protection."
+msgstr ""
+
+#. Id: 47493-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47489-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47493-Dialogue.mod:0
+msgid "So arrogant that you can't even answer me back, huh? You let me walk all the way over to you for nothing, you wasted my time. How about some compensation for that, huh?!"
+msgstr ""
+
+#. Id: 47495-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47495-Dialogue.mod:0
+msgid "Can't talk? What's wrong with you, huh? If you're not a customer, then what are you to me, /WORM/?"
+msgstr ""
+
+#. Id: 47496-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47495-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47496-Dialogue.mod:0
+msgid "Don't even bother answering. I've lost all my patience with you already!"
+msgstr ""
+
+#. Id: 47490-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47490-Dialogue.mod:0
+msgid "Okay, okay, how much are you charging?"
+msgstr ""
+
+#. Id: 47508-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#. Id: 47768-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47505-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47508-Dialogue.mod:0 47768-Dialogue.mod:0
+msgid "2500 Cats per day."
+msgstr ""
+
+#. Id: 47513-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47508-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47513-Dialogue.mod:0
+msgid "I can't afford that. It's too much."
+msgstr ""
+
+#. Id: 47497-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47475-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47497-Dialogue.mod:0
+msgid "Yep. Pretty much."
+msgstr ""
+
+#. Id: 47507-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47507-Dialogue.mod:0
+msgid "2500 Cats per day. /IWE/ can handle just about anything for you out here."
+msgstr ""
+
+#. Id: 47509-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47507-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#. Id: 1740-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (8816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 52545-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47782-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 47509-Dialogue.mod:0 1740-gamedata.base:0 52545-Dialogue.mod:0
+msgid "Ok, you're hired."
+msgstr ""
+
+#. Id: 47511-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47507-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47511-Dialogue.mod:0
+msgid "It's too much, I can't afford that."
+msgstr ""
+
+#. Id: 47512-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47507-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47512-Dialogue.mod:0
+msgid "I changed my mind, I'm not interested."
+msgstr ""
+
+#. Id: 47474-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47474-Dialogue.mod:0
+msgid "Not interested, thanks."
+msgstr ""
+
+#. Id: 47476-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47476-Dialogue.mod:0
+msgid "Don't be a fool. Look at you, you couldn't swat a rat with that sword. I won't be around to peel you off the floor for free when the gutters are eatin' you alive, I'm telling you that now..."
+msgstr ""
+
+#. Id: 47477-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47477-Dialogue.mod:0
+msgid "... Who are you calling fool?"
+msgstr ""
+
+#. Id: 47778-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47477-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47778-Dialogue.mod:0
+msgid "Only a fool would travel here without protection. Seems like you're keen to pick a fight with your friendly neighbourhood mercs though, am I right? Well you're makin' a big mistake. And you've wasted enough of my time."
+msgstr ""
+
+#. Id: 47779-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47778-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47779-Dialogue.mod:0
+msgid "Then let's make this quick. (Attack)"
+msgstr ""
+
+#. Id: 47478-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. Id: 47120-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47117-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47478-Dialogue.mod:0 47120-Dialogue.mod:0
+msgid "I said no."
+msgstr ""
+
+#. Id: 47481-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47481-Dialogue.mod:0
+msgid "So, you let me walk all the way over to you for nothing? You waste my time? All this time you distract me, you benefit from my protection. How about some compensation for that, huh?!"
+msgstr ""
+
+#. Id: 47482-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47482-Dialogue.mod:0
+msgid "No. This is ridiculous, I didn't ask for this..."
+msgstr ""
+
+#. Id: 47483-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47483-Dialogue.mod:0
+msgid "So if you aren’t a customer, what use are you to us, /WORM/? (Places hand on sword)"
+msgstr ""
+
+#. Id: 47485-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47484-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47485-Dialogue.mod:0
+msgid "Beat /HIM/ down. Strip /HIS/ stuff. Penniless worms."
+msgstr ""
+
+#. Id: 47486-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47486-Dialogue.mod:0
+msgid "Easy. Okay, we'll settle this with Cats."
+msgstr ""
+
+#. Id: 47762-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47762-Dialogue.mod:0
+msgid "200 Cats should be enough to cover my time here. Pay up."
+msgstr ""
+
+#. Id: 47767-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (47763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47767-Dialogue.mod:0
+msgid "Pah. Good luck surviving without /MEUS/."
+msgstr ""
+
+#. Id: 47764-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47764-Dialogue.mod:0
+msgid "On second thought... No."
+msgstr ""
+
+#. Id: 47487-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47483-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47487-Dialogue.mod:0
+msgid "If it's a fight you want, I'll give you one!"
+msgstr ""
+
+#. Id: 47500-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 47500-Dialogue.mod:0
+msgid "Fine. How about 200 Cats for your time?"
+msgstr ""
+
+#. Id: 47504-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47500-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47504-Dialogue.mod:0
+msgid "Then hand it over. Penniless fool."
+msgstr ""
+
+#. Id: 47506-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47504-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47506-Dialogue.mod:0
+msgid "You'll be eaten alive by wild beasts by sundown..."
+msgstr ""
+
+#. Id: 47501-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47501-Dialogue.mod:0
+msgid "How about you compensate the end of my sword?"
+msgstr ""
+
+#. Id: 47503-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog random extortion
+#: 47503-Dialogue.mod:0
+msgid "Remember our name! I'll etch it deep into your flesh!"
+msgstr ""
+
+#. Id: 47505-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47505-Dialogue.mod:0
+msgid "Look, I'll hire you instead. How much?"
+msgstr ""
+
+#. Id: 47769-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47768-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47769-Dialogue.mod:0
+msgid "I can't afford that, it's too much."
+msgstr ""
+
+#. Id: 47770-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47768-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47770-Dialogue.mod:0
+msgid "On second thoughts, nevermind."
+msgstr ""
+
+#. Id: 47479-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47479-Dialogue.mod:0
+msgid "Fine... how much?"
+msgstr ""
+
+#. Id: 47780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 47780-Dialogue.mod:0
+msgid "Hold on, I see a rat that needs swatting! (Attack)"
+msgstr ""
+

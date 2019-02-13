@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41908-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 41908-Dialogue.mod:0
+msgid "Hmm, nice place ya got here..."
+msgstr ""
+
+#. Id: 41910-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 41910-Dialogue.mod:0
+msgid "Should be careful it don't get smashed up..."
+msgstr ""
+
+#. Id: 41910-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 41910-Dialogue.mod:1
+msgid "Would be a shame if it got burned down, eh?"
+msgstr ""
+
+#. Id: 61641-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61640-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61641-Dialogue.mod:0
+msgid "Anyone listenin'?"
+msgstr ""
+
+#. Id: 61638-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61641-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61638-Dialogue.mod:0
+msgid "... /OI/, ain't ya gonna greet your guests?"
+msgstr ""
+
+#. Id: 61639-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61639-Dialogue.mod:0
+msgid "It's rude to leave people waitin', eh?"
+msgstr ""
+
+#. Id: 61642-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61639-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61642-Dialogue.mod:0
+msgid "Ain't gonna make any friends ignoring people, know what I mean?"
+msgstr ""
+
+#. Id: 61643-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61642-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61643-Dialogue.mod:0
+msgid "An' if you ain't my friend, I can't help you against the gut suckin' spiders..."
+msgstr ""
+
+#. Id: 61653-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61643-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61653-Dialogue.mod:0
+msgid "Or the flesh eatin' bandits... or the, uh, swamp fires..."
+msgstr ""
+
+#. Id: 61654-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61654-Dialogue.mod:0
+msgid "Or the bounty hunters... or the, uh, skin thieves..."
+msgstr ""
+
+#. Id: 61656-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (61655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61656-Dialogue.mod:0
+msgid "COME OUT!"
+msgstr ""
+
+#. Id: 61645-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61644-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 61645-Dialogue.mod:0
+msgid "They don't know what ya mean..."
+msgstr ""
+
+#. Id: 61646-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61646-Dialogue.mod:0
+msgid "They know what I mean."
+msgstr ""
+
+#. Id: 61647-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61646-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 61647-Dialogue.mod:0
+msgid "Nah. They don't."
+msgstr ""
+
+#. Id: 61648-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (61647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61648-Dialogue.mod:0
+msgid "HOY, YA HEAR THAT, TOWNIES?"
+msgstr ""
+
+#. Id: 61649-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (61648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61649-Dialogue.mod:0
+msgid "Yer embarrassin' me in front of m' friend here!"
+msgstr ""
+
+#. Id: 61650-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (61649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61650-Dialogue.mod:0
+msgid "Get over here now, before I drag you here myself!"
+msgstr ""
+
+#. Id: 61651-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (61650-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 61651-Dialogue.mod:0
+msgid "/QUICKLAUGH/... They ain't listenin'."
+msgstr ""
+
+#. Id: 61652-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (61651-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61652-Dialogue.mod:0
+msgid "THAT'S IT! YOU ASKED FOR IT!"
+msgstr ""
+
+#. Id: 61657-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61642-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61657-Dialogue.mod:0
+msgid "An' I baked you a stew! How rude!"
+msgstr ""
+
+#. Id: 61659-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61658-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 61659-Dialogue.mod:0
+msgid "So rude!"
+msgstr ""
+
+#. Id: 61662-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (61661-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Stone rat wanders into base
+#: 61662-Dialogue.mod:0
+msgid "*Gasp*... Such hurt..."
+msgstr ""
+
+#. Id: 61660-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (61662-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 61660-Dialogue.mod:0
+msgid "What are we gonna do with all this hot stew?"
+msgstr ""
+
+#. Id: 61664-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (61663-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 61664-Dialogue.mod:0
+msgid "BOIL THEIR FACES OFF!"
+msgstr ""
+
+#. Id: 64059-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64059-Dialogue.mod:0
+msgid "Protection money!"
+msgstr ""
+
+#. Id: 64060-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64060-Dialogue.mod:0
+msgid "It's collection time for your local swamp gang!"
+msgstr ""
+
+#. Id: 64061-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64061-Dialogue.mod:0
+msgid "We make the place safe, you pay us for our efforts."
+msgstr ""
+
+#. Id: 64062-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64062-Dialogue.mod:0
+msgid "Nice deal ain't it?"
+msgstr ""
+
+#. Id: 64063-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64063-Dialogue.mod:0
+msgid "So don't keep yer protectors waitin' now..."
+msgstr ""
+
+#. Id: 64064-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64063-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64064-Dialogue.mod:0
+msgid "We got livers to feed..."
+msgstr ""
+
+#. Id: 64065-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64065-Dialogue.mod:0
+msgid "And sake don't come cheap."
+msgstr ""
+
+#. Id: 64067-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64066-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64069-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (64068-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Stone rat wanders into base
+#. Id: 64070-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (64069-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64067-Dialogue.mod:0 64069-Dialogue.mod:0 64070-Dialogue.mod:0
+msgid "Sake!"
+msgstr ""
+
+#. Id: 64071-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (64070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64071-Dialogue.mod:0
+msgid "Drink!"
+msgstr ""
+
+#. Id: 64073-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (64072-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64073-Dialogue.mod:0
+msgid "... Well, rats, think we've given 'em long enough, don't you?"
+msgstr ""
+
+#. Id: 64075-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (64073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64075-Dialogue.mod:0
+msgid "If they won't give us drink money..."
+msgstr ""
+
+#. Id: 64074-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (64075-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64074-Dialogue.mod:0
+msgid "We'll take us some drink money!"
+msgstr ""
+
+#. Id: 64077-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64077-Dialogue.mod:0
+msgid "... /OI/, /INSULT//S/!"
+msgstr ""
+
+#. Id: 64078-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64077-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64078-Dialogue.mod:0
+msgid "Just gonna ignore me?"
+msgstr ""
+
+#. Id: 64079-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64078-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64079-Dialogue.mod:0
+msgid "Keep ignorin' me and I won't be able to protect you..."
+msgstr ""
+
+#. Id: 64094-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64094-Dialogue.mod:0
+msgid "Place is ripe with swamp beasts, ya know..."
+msgstr ""
+
+#. Id: 64095-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64095-Dialogue.mod:0
+msgid "And Red Sabres..."
+msgstr ""
+
+#. Id: 64095-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (64094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64095-Dialogue.mod:1
+msgid "And swamp bandits..."
+msgstr ""
+
+#. Id: 64096-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (64095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64096-Dialogue.mod:0
+msgid "Slavers! Don't forget the slavers..."
+msgstr ""
+
+#. Id: 64097-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (64106-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64097-Dialogue.mod:0
+msgid "And those /FUCKING/ paladins. Y'know, they wander down here from time to time..."
+msgstr ""
+
+#. Id: 64098-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (64097-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64098-Dialogue.mod:0
+msgid "But we send 'em back!"
+msgstr ""
+
+#. Id: 64100-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (64098-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64100-Dialogue.mod:0
+msgid "Too right! Those /TINCAN/s can back the /FUCKNOUN/ out!"
+msgstr ""
+
+#. Id: 64101-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (64100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64101-Dialogue.mod:0
+msgid "We got your back, see? But have you got ours?"
+msgstr ""
+
+#. Id: 64104-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (64103-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64104-Dialogue.mod:0
+msgid "Well if they ain't our friends..."
+msgstr ""
+
+#. Id: 64105-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (64104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64105-Dialogue.mod:0
+msgid "Then that makes 'em prey!"
+msgstr ""
+
+#. Id: 64080-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64080-Dialogue.mod:0
+msgid "So pay up!"
+msgstr ""
+
+#. Id: 64081-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64081-Dialogue.mod:0
+msgid "Or else..."
+msgstr ""
+
+#. Id: 64083-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64082-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64083-Dialogue.mod:0
+msgid "... Or else what?"
+msgstr ""
+
+#. Id: 64084-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stone rat wanders into base
+#: 64084-Dialogue.mod:0
+msgid "Or else we'll do nasty things to 'em!"
+msgstr ""
+
+#. Id: 64085-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Stone rat wanders into base
+#: 64085-Dialogue.mod:0
+msgid "Oh... yeah... nasty things!"
+msgstr ""
+
+#. Id: 64087-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (64086-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Stone rat wanders into base
+#: 64087-Dialogue.mod:0
+msgid "Nasty!"
+msgstr ""
+

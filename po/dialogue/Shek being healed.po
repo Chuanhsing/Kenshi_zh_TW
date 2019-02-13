@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17539-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 17539-Dialogue.mod:0
+msgid "I do not need your help"
+msgstr ""
+
+#. Id: 17539-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 17539-Dialogue.mod:1
+msgid "I need no help from you"
+msgstr ""
+
+#. Id: 17539-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 17539-Dialogue.mod:2
+msgid "Leave me, I need no help"
+msgstr ""
+
+#. Id: 17539-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 17539-Dialogue.mod:3
+msgid "I can handle it myself"
+msgstr ""
+
+#. Id: 17540-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#: 17540-Dialogue.mod:1
+msgid "Nothing but a scratch"
+msgstr ""
+
+#. Id: 17540-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#: 17540-Dialogue.mod:2
+msgid "I've suffered worse"
+msgstr ""
+
+#. Id: 17540-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
+#: 17540-Dialogue.mod:4
+msgid "I've had worse injuries"
+msgstr ""
+
+#. Id: 17546-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 17546-Dialogue.mod:0
+msgid "This little scratch? They got lucky, that is all"
+msgstr ""
+
+#. Id: 17546-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 17546-Dialogue.mod:1
+msgid "It's just a scratch. I got careless, that's all"
+msgstr ""
+
+#. Id: 17546-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 17546-Dialogue.mod:2
+msgid "I won't be broken, I'll only grow back stronger"
+msgstr ""
+
+#. Id: 17548-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17548-Dialogue.mod:0
+msgid "Ah..."
+msgstr ""
+
+#. Id: 17548-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17548-Dialogue.mod:1
+msgid "Much better..."
+msgstr ""
+
+#. Id: 17548-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17548-Dialogue.mod:2
+msgid "That's good..."
+msgstr ""
+
+#. Id: 17550-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 17550-Dialogue.mod:0
+msgid "It will take more than a broken leg to keep ME down"
+msgstr ""
+
+#. Id: 17550-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 17550-Dialogue.mod:1
+msgid "I'll be walking again in no time"
+msgstr ""
+
+#. Id: 17550-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 17552-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 17550-Dialogue.mod:2 17552-Dialogue.mod:2
+msgid "They can break my bones all they want, but they'll never break my spirit"
+msgstr ""
+
+#. Id: 17550-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 17550-Dialogue.mod:3
+msgid "Just a couple of broken bones, that's all"
+msgstr ""
+
+#. Id: 17550-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 17550-Dialogue.mod:4
+msgid "Break my bones and they'll only grow back stronger"
+msgstr ""
+
+#. Id: 17552-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 17552-Dialogue.mod:0
+msgid "It will take more than a cracked skull to keep ME down"
+msgstr ""
+
+#. Id: 17552-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 17552-Dialogue.mod:1
+msgid "My skull is sturdy. I'll be fit again in no time"
+msgstr ""
+
+#. Id: 17552-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek being healed
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 17552-Dialogue.mod:3
+msgid "Just a cracked skull, that's all"
+msgstr ""
+

@@ -1,0 +1,352 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8009-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8009-Dialogue.mod:0
+msgid "I'm hungry! Got any food?"
+msgstr ""
+
+#. Id: 8710-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8009-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#: 8710-Dialogue.mod:0
+msgid "Sure. Here, buy yourself something nice."
+msgstr ""
+
+#. Id: 8711-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8710-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8711-Dialogue.mod:0
+msgid "Ahh, Ells thanks you kindly!"
+msgstr ""
+
+#. Id: 8712-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8711-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8712-Dialogue.mod:0
+msgid "Wait, you're Ells? The infamous rum thief? Ha, you don't look very... thief-like"
+msgstr ""
+
+#. Id: 8713-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8713-Dialogue.mod:0
+msgid "Ells isn't a thief! Ells just get's thirsty sometimes... But the bar guards beat Ells for drinking the rum. So Ells gotta go drink rum from the distillery when no one's looking... No-one else shares with Ells like you do."
+msgstr ""
+
+#. Id: 8715-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8715-Dialogue.mod:0
+msgid "Thief or no thief, there's a bounty on your head, Ells. I want it."
+msgstr ""
+
+#. Id: 8724-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (8715-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8724-Dialogue.mod:0
+msgid "That's not fair!! I hate you!"
+msgstr ""
+
+#. Id: 49364-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49364-Dialogue.mod:0
+msgid "Relax, I'm not judging. You gotta do what you gotta do."
+msgstr ""
+
+#. Id: 49386-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 49386-Dialogue.mod:0
+msgid "Ells can't catch a break..."
+msgstr ""
+
+#. Id: 49388-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 49388-Dialogue.mod:0
+msgid "You have bigger potential than being a rum thief. Team up with me."
+msgstr ""
+
+#. Id: 49387-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49387-Dialogue.mod:0
+msgid "Chin up, Ells, it'll get better. Take care."
+msgstr ""
+
+#. Id: 49380-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49380-Dialogue.mod:0
+msgid "Drinking other people's rum when no-one's looking. You just sound like a thief with an alcohol problem to me."
+msgstr ""
+
+#. Id: 49381-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (49380-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 49381-Dialogue.mod:0
+msgid "Ells isn't a thief!"
+msgstr ""
+
+#. Id: 49384-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49381-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 49384-Dialogue.mod:0
+msgid "Ma always told Ells he was better than that..."
+msgstr ""
+
+#. Id: 49382-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8713-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49382-Dialogue.mod:0
+msgid "You're right. We gotta look after each other, Ells. Not hog precious booze from each other."
+msgstr ""
+
+#. Id: 8714-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49383-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 8714-Dialogue.mod:0
+msgid "Come work for me and I'll give you all the food and rum you could ever want, Ells."
+msgstr ""
+
+#. Id: 8726-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8726-Dialogue.mod:0
+msgid "Ah!? Really?!... Wait just a minute, you're trying to trick Ells. You want Ells' bounty!"
+msgstr ""
+
+#. Id: 8727-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 8727-Dialogue.mod:0
+msgid "I would have defeated you by now if I wanted your bounty. Come on, you'll be safe with /MEUS/."
+msgstr ""
+
+#. Id: 8729-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (8727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8729-Dialogue.mod:0
+msgid "Nobody's ever asked Ells to work for them before... I'd like that!"
+msgstr ""
+
+#. Id: 8730-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8730-Dialogue.mod:0
+msgid "I'm not trying to trick you. /IWE/ could use your stealth skills. Please?"
+msgstr ""
+
+#. Id: 49366-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49366-Dialogue.mod:0
+msgid "I could sell my shoes for more money than your poxy bounty. You really think I care?"
+msgstr ""
+
+#. Id: 49391-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 49391-Dialogue.mod:0
+msgid "Ells don't wanna work for you after all!"
+msgstr ""
+
+#. Id: 49392-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (49391-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 49392-Dialogue.mod:0
+msgid "Ma always told Ells he was worth more than a pair of shoes..."
+msgstr ""
+
+#. Id: 49367-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49367-Dialogue.mod:0
+msgid "You know what, just forget it."
+msgstr ""
+
+#. Id: 49395-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49383-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49395-Dialogue.mod:0
+msgid "Keep on doing what you're doing, Ells."
+msgstr ""
+
+#. Id: 49389-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8711-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49389-Dialogue.mod:0
+msgid "Ells, huh? Ells, the wanted thief, by any chance?"
+msgstr ""
+
+#. Id: 8720-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8711-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8720-Dialogue.mod:0
+msgid "No problem, Ells. See you around."
+msgstr ""
+
+#. Id: 8716-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8009-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8716-Dialogue.mod:0
+msgid "Not for you! Get a job!"
+msgstr ""
+
+#. Id: 8718-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8716-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#: 8718-Dialogue.mod:0
+msgid "You're a rude /MAN2/! I hate you!"
+msgstr ""
+
+#. Id: 8717-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8009-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 8717-Dialogue.mod:0
+msgid "No I don't, sorry"
+msgstr ""
+
+#. Id: 49370-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 49370-Dialogue.mod:0
+msgid "Mmmmmh! You're back!"
+msgstr ""
+
+#. Id: 49372-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49370-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49372-Dialogue.mod:0
+msgid "Indeed. Still hungry?"
+msgstr ""
+
+#. Id: 49377-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#: 49377-Dialogue.mod:0
+msgid "Here, this should get you a chewstick..."
+msgstr ""
+
+#. Id: 49402-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49402-Dialogue.mod:0
+msgid "Then go get a job and buy your own food!"
+msgstr ""
+
+#. Id: 49403-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49403-Dialogue.mod:0
+msgid "That's a shame."
+msgstr ""
+
+#. Id: 49374-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49370-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49374-Dialogue.mod:0
+msgid "I am. But not for long. See you."
+msgstr ""
+
+#. Id: 49394-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49370-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pickles (Recruit)
+#: 49394-Dialogue.mod:0
+msgid "There's a bounty on your head. I want it."
+msgstr ""
+

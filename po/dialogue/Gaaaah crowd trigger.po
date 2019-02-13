@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1531913-__May 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gaaaah crowd trigger
+#. Id: 62506-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin base talk to
+#. Id: 96304-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver freaks out protecting queen shoo
+#: 1531913-__May?18.mod:0 62506-Dialogue.mod:0 96304-Dialogue.mod:0
+msgid "Gaaaah!"
+msgstr ""
+
+#. Id: 1531913-__May 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gaaaah crowd trigger
+#. Id: 62508-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62509-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin base talk to
+#: 1531913-__May?18.mod:1 62508-Dialogue.mod:0
+msgid "GAAAAAH!"
+msgstr ""
+
+#. Id: 1531913-__May 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gaaaah crowd trigger
+#. Id: 98839-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Queen crowd trigger
+#. Id: 96305-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (96304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver freaks out protecting queen shoo
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 1531913-__May?18.mod:2 98839-Dialogue.mod:2 96305-Dialogue.mod:10 96103-Dialogue.mod:1 99116-Dialogue.mod:5
+msgid "QUEEN!"
+msgstr ""
+
+#. Id: 1531913-__May 18.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gaaaah crowd trigger
+#: 1531913-__May?18.mod:3
+msgid "GAAH!"
+msgstr ""
+
+#. Id: 1531913-__May 18.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gaaaah crowd trigger
+#. Id: 18146-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by stranger hiver
+#. Id: 40693-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted
+#: 1531913-__May?18.mod:4 18146-Dialogue.mod:2 40693-Dialogue.mod:2
+msgid "Gaahhh!"
+msgstr ""
+

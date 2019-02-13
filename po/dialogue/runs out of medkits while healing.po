@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:0
+msgid "Damn. Ran out of meds."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:1
+msgid "That was my last kit."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:2
+msgid "Don't have any more medkits."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:3
+msgid "I'll restock some medicine."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:4
+msgid "That was it. I'm out."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:5
+msgid "Low on supplies."
+msgstr ""
+
+#. Id: 3603-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#: 3603-dialogue-01.mod:6
+msgid "No more meds left."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:0
+msgid "Those are all the kits I have. Sorry."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:1
+msgid "Wish I could fix you up more, but..."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:2
+msgid "I'm out of meds. You going to be okay?"
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:3
+msgid "Hang in there. Maybe if I look around for another kit..."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:4
+msgid "Forgive me. I've run out of medicine."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:5
+msgid "I'd do more, if I could."
+msgstr ""
+
+#. Id: 3604-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3604-dialogue-01.mod:6
+msgid "Sorry. That's all I can mend."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:0
+msgid "Just so you know, that used up my last kit."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:1
+msgid "Out of medkits. You owe me."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:2
+msgid "Half-done, but it's something."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:3
+msgid "Did what I could, so shut up."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:4
+msgid "Whatever. Not like you're paying anyhow."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:5
+msgid "Get what you pay for."
+msgstr ""
+
+#. Id: 3607-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: runs out of medkits while healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3607-dialogue-01.mod:6
+msgid "Now I have to get more medicine."
+msgstr ""
+

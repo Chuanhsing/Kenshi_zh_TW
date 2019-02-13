@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57103-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
+#: 57103-Dialogue.mod:0
+msgid "The Lord Of Light recognizes your good deeds, holy brother. The Lord sees all... Virtue is in your destiny, as it is my own. We are united, both, in our paths for greatness, for change and for goodness... Come! [He motions for you to come closer]"
+msgstr ""
+
+#. Id: 57111-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Phoenix talk to
+#: 57111-Dialogue.mod:0
+msgid "[Step forward]"
+msgstr ""
+
+#. Id: 57112-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57111-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#: 57112-Dialogue.mod:0
+msgid "[He gives you a bear hug and squeezes tight. There's a potent smell of vegetables. He presses a thumb to your forehead]"
+msgstr ""
+
+#. Id: 57113-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57112-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#: 57113-Dialogue.mod:0
+msgid "Bless this one, holy father. Protect him from all that may harm his spirit and body. Bless this one, holy father, my own brother..."
+msgstr ""
+
+#. Id: 57114-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57113-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#: 57114-Dialogue.mod:0
+msgid "Here, take my gift with you. The Chalice of Fire, a beacon of light. May it ward you from darkness wherever your journey may take you."
+msgstr ""
+
+#. Id: 57115-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#: 57115-Dialogue.mod:0
+msgid "... Now, go forth, holy one! Continue your path..."
+msgstr ""
+
+#. Id: 57123-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57123-Dialogue.mod:0
+msgid "*Hiss*"
+msgstr ""
+

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41259-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire revenge
+#: 41259-Dialogue.mod:0
+msgid "My family taught me everything, lessons those bastards could never take away. But they left me alive, and that was their mistake. You fight bandits, yeah? Kill 'em dead? They tried to ruin me with fear, but I'll show them what fear really is."
+msgstr ""
+
+#. Id: 41260-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41260-Dialogue.mod:0
+msgid "So you want to be a killer? Your family, do you think they'd want that life for you?"
+msgstr ""
+
+#. Id: 41261-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire revenge
+#: 41261-Dialogue.mod:0
+msgid "They told me never to back down. My dad fought them to his last, my mother never looked away when they put her to the blade. I won't run, not anymore. I'll break every one of them. It's the right thing to do."
+msgstr ""
+
+#. Id: 41263-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41263-Dialogue.mod:0
+msgid "Maybe, but talking with you is the wrong thing to do. Bye."
+msgstr ""
+
+#. Id: 41264-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41264-Dialogue.mod:0
+msgid "Revenge is an ugly thing. Move on, friend"
+msgstr ""
+
+#. Id: 41265-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41264-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire revenge
+#: 41265-Dialogue.mod:0
+msgid "Revenge isn't much different to justice. Is justice an ugly thing?"
+msgstr ""
+
+#. Id: 41266-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41265-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire revenge
+#: 41266-Dialogue.mod:0
+msgid "Forget it, someone like you will never understand."
+msgstr ""
+
+#. Id: 41262-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41262-Dialogue.mod:0
+msgid "You sound like you're battle ready. Join my team, /IWE/ could use a strong set of arms."
+msgstr ""
+
+#. Id: 41267-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire revenge
+#: 41267-Dialogue.mod:0
+msgid "Yeah, I'm ready. Ready and eager. It's only...I need some cash to pay for my bed at the Flophouse. 3000 will clear the bill, then I can ship out."
+msgstr ""
+
+#. Id: 41268-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41267-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41268-Dialogue.mod:0
+msgid "Done. Just don't lose your humanity in all that bloodlust."
+msgstr ""
+
+#. Id: 41269-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41267-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41269-Dialogue.mod:0
+msgid "On second thought, I don't think you're right for us."
+msgstr ""
+
+#. Id: 41274-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41267-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41274-Dialogue.mod:0
+msgid "Done. Now let's kill us some bandits."
+msgstr ""
+
+#. Id: 41270-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41267-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 41270-Dialogue.mod:0
+msgid "I really can't spare the money. Another time."
+msgstr ""
+
+#. Id: 41271-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41259-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire revenge
+#: 41271-Dialogue.mod:0
+msgid "Uh, alright. Bye."
+msgstr ""
+

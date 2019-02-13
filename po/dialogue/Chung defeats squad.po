@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51258-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 51258-Dialogue.mod:0
+msgid "Mother of Okran those things are ugly."
+msgstr ""
+
+#. Id: 51258-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 51258-Dialogue.mod:1
+msgid "Gutters, they stink as bad as they look."
+msgstr ""
+
+#. Id: 51259-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 51259-Dialogue.mod:0
+msgid "Got a good mind to carve you inside out..."
+msgstr ""
+
+#. Id: 51259-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 51259-Dialogue.mod:1
+msgid "Clean yourself up, you're a mess."
+msgstr ""
+
+#. Id: 51259-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 51259-Dialogue.mod:2
+msgid "Mess with /MEUS/, you wind up in the dirt."
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:0
+msgid "Ohh, I'm gonna have some fun with you and my chisel..."
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:1
+msgid "Ahahaha, vengeance is mine! Leave the bodies to me..."
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:2
+msgid "Oh it's not over yet. Not until I make an unrecognizeable mush stump of you..."
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:3
+msgid "Think you're gonna get off that lightly? You'll have no face left after I'm done with you..."
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:4
+msgid "Ahahaha, you're all mine now! Just you and my chisel!"
+msgstr ""
+
+#. Id: 51260-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#. -- Condition: Who: INTERJECTOR1, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 51260-Dialogue.mod:5
+msgid "Ohh I'm not done with you yet! You'll regret messing with me, I tell ya..."
+msgstr ""
+
+#. Id: 51262-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51261-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Chung defeats squad
+#: 51262-Dialogue.mod:0
+msgid "Behave yourself, doc."
+msgstr ""
+
+#. Id: 51262-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (51261-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Chung defeats squad
+#: 51262-Dialogue.mod:1
+msgid "Doc. Reel it in, no mutiliations."
+msgstr ""
+
+#. Id: 51262-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (51261-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Chung defeats squad
+#: 51262-Dialogue.mod:2
+msgid "Snap out of it, doc, I don't want to see it."
+msgstr ""
+
+#. Id: 51262-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (51261-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Chung defeats squad
+#: 51262-Dialogue.mod:3
+msgid "Doc!"
+msgstr ""
+
+#. Id: 51263-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#: 51263-Dialogue.mod:0
+msgid "Okay, okay. Got off lucky, this one..."
+msgstr ""
+
+#. Id: 51263-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (51262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#: 51263-Dialogue.mod:1
+msgid "*spit* Count yourself lucky, schmuck..."
+msgstr ""
+
+#. Id: 51263-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (51262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Chung defeats squad
+#: 51263-Dialogue.mod:2
+msgid "Gah, fine! No use bluntin' my blades on that punk anyway..."
+msgstr ""
+

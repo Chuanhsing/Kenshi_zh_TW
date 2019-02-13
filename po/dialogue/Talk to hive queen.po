@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96301-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 99152-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. Id: 99162-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. Id: 1532242-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 96301-Dialogue.mod:1 99152-Dialogue.mod:0 99162-Dialogue.mod:0 1532242-Dialogue.mod:0
+msgid "EEEEEEEEEH!"
+msgstr ""
+
+#. Id: 99140-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96301-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99140-Dialogue.mod:0
+msgid "Why do you scream? Are you okay?"
+msgstr ""
+
+#. Id: 99143-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#: 99143-Dialogue.mod:0
+msgid "EEEEH EEEEEEEEH!"
+msgstr ""
+
+#. Id: 99144-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99143-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99144-Dialogue.mod:0
+msgid "I'm not going to hurt you, I just want to talk..."
+msgstr ""
+
+#. Id: 99156-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99152-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99156-Dialogue.mod:0
+msgid "Don't believe me, huh...?"
+msgstr ""
+
+#. Id: 99157-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (99156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. Id: 99165-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (99163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#: 99157-Dialogue.mod:0 99165-Dialogue.mod:0
+msgid "[She flails wildly and writhes in her seat]"
+msgstr ""
+
+#. Id: 99154-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (99157-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99154-Dialogue.mod:0
+msgid "Guess that's a no. How do I make you stop screaming?"
+msgstr ""
+
+#. Id: 99155-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (99154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#. Id: 99167-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (99166-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#: 99155-Dialogue.mod:0 99167-Dialogue.mod:0
+msgid "*crying sounds*"
+msgstr ""
+
+#. Id: 99158-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (99159-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to hive queen
+#: 99158-Dialogue.mod:0
+msgid "EEEK!"
+msgstr ""
+
+#. Id: 99149-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (99158-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99149-Dialogue.mod:0
+msgid "... Okay, okay calm down. I'm leaving."
+msgstr ""
+
+#. Id: 99171-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (99157-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99171-Dialogue.mod:0
+msgid "... (Smile at her)"
+msgstr ""
+
+#. Id: 99160-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99143-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99160-Dialogue.mod:0
+msgid "Let's just all take a moment to... calm... down..."
+msgstr ""
+
+#. Id: 99163-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99163-Dialogue.mod:0
+msgid "Or not."
+msgstr ""
+
+#. Id: 99166-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (99165-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99166-Dialogue.mod:0
+msgid "Look, I just wanted to talk. I swam all the way here and everything."
+msgstr ""
+
+#. Id: 99169-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99169-Dialogue.mod:0
+msgid "Seriously, what's wrong with you?"
+msgstr ""
+
+#. Id: 99170-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (99162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99170-Dialogue.mod:0
+msgid "Okay, this behaviour is VERY un-queen like."
+msgstr ""
+
+#. Id: 99164-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99143-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#: 99164-Dialogue.mod:0
+msgid "... Forget I asked."
+msgstr ""
+

@@ -1,0 +1,1707 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54364-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 54364-Dialogue.mod:0
+msgid "Mm, you know, I got a hankering for some dried gristle flaps right now..."
+msgstr ""
+
+#. Id: 54368-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54367-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54368-Dialogue.mod:0
+msgid "So... Mr ex-sentinel... they drink in the Holy Nation?"
+msgstr ""
+
+#. Id: 54369-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54368-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 54369-Dialogue.mod:0
+msgid "Alcohol?... It is legal, but frowned upon."
+msgstr ""
+
+#. Id: 54370-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54370-Dialogue.mod:0
+msgid "Guessin' a squeaky-clean guy like you never drank a drop then. I should get you on some bloodrum..."
+msgstr ""
+
+#. Id: 54371-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54370-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54371-Dialogue.mod:0
+msgid "There was this one time, I had ONE glass of the stuff. Woke up in a bog with no eyebrows and a new samurai helmet."
+msgstr ""
+
+#. Id: 54372-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54371-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54372-Dialogue.mod:0
+msgid "Good times."
+msgstr ""
+
+#. Id: 96953-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96953-Dialogue.mod:0
+msgid "They have the BEST gristle flaps back in Mud Town, y'know..."
+msgstr ""
+
+#. Id: 96955-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96955-Dialogue.mod:0
+msgid "Just thinking about it makes me so hungry I could eat a gar."
+msgstr ""
+
+#. Id: 96949-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96955-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 96949-Dialogue.mod:0
+msgid "Wind."
+msgstr ""
+
+#. Id: 96950-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96950-Dialogue.mod:0
+msgid "... Excuse me?"
+msgstr ""
+
+#. Id: 96951-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96950-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 96951-Dialogue.mod:0
+msgid "You're a sack of it."
+msgstr ""
+
+#. Id: 96952-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96952-Dialogue.mod:0
+msgid "Guess that's my queue to keep quiet..."
+msgstr ""
+
+#. Id: 96954-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96954-Dialogue.mod:0
+msgid "No tact, you shek."
+msgstr ""
+
+#. Id: 54373-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 54373-Dialogue.mod:0
+msgid "... His ribs did protrude, he craved some good food..."
+msgstr ""
+
+#. Id: 54374-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54373-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54374-Dialogue.mod:0
+msgid "... A greenfruit would do, something to chew..."
+msgstr ""
+
+#. Id: 54375-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54374-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54375-Dialogue.mod:0
+msgid "... But with nothing in sight, he was in a great pligh-"
+msgstr ""
+
+#. Id: 54378-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54376-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 54378-Dialogue.mod:0
+msgid "Noise! You get one warning only, flatskin: No more babbling."
+msgstr ""
+
+#. Id: 54379-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54378-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54379-Dialogue.mod:0
+msgid "... *Rumble*"
+msgstr ""
+
+#. Id: 54381-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54377-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 54381-Dialogue.mod:0
+msgid "Keep caterwauling, bard, and I'll give you my fist to chew..."
+msgstr ""
+
+#. Id: 54387-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54386-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 54387-Dialogue.mod:0
+msgid "Alright! We get it... "
+msgstr ""
+
+#. Id: 54388-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54387-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 54388-Dialogue.mod:0
+msgid "Just hang in there, we'll eat soon..."
+msgstr ""
+
+#. Id: 54399-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 54399-Dialogue.mod:0
+msgid "Did I ever thank you guys for getting me out of that bar in the swamps?"
+msgstr ""
+
+#. Id: 54400-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 54400-Dialogue.mod:0
+msgid "Yeah... One time I drank so much sake that I made a wager with a cactus. It was destined to go down hill from there..."
+msgstr ""
+
+#. Id: 56095-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56095-Dialogue.mod:0
+msgid "Be wary of talking cacti! They'll rob you blind, I tell you..."
+msgstr ""
+
+#. Id: 56096-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56095-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56096-Dialogue.mod:0
+msgid "Whew, I've had my share of experiences with those rascals but I had the last laugh in the end..."
+msgstr ""
+
+#. Id: 56097-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56097-Dialogue.mod:0
+msgid "...Er, yeah... Right..."
+msgstr ""
+
+#. Id: 55856-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 55856-Dialogue.mod:0
+msgid "Time for a sing song to raise /MYOUR/ spirits me thinks!"
+msgstr ""
+
+#. Id: 55857-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55856-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55857-Dialogue.mod:0
+msgid "Oh! There once was a noble, handsome and bearded..."
+msgstr ""
+
+#. Id: 55858-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55857-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55858-Dialogue.mod:0
+msgid "Who took a liking to shooting a spear did!"
+msgstr ""
+
+#. Id: 55860-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55859-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 55860-Dialogue.mod:0
+msgid "No sing songs! Pipe down."
+msgstr ""
+
+#. Id: 55861-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55860-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55869-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55858-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55861-Dialogue.mod:0 55869-Dialogue.mod:0
+msgid "The noble laughed with glee as his slaves did plee..."
+msgstr ""
+
+#. Id: 55862-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55861-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55870-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55862-Dialogue.mod:0 55870-Dialogue.mod:0
+msgid "And he killed a hundred while laughter thundered!"
+msgstr ""
+
+#. Id: 55863-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (55867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55871-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55863-Dialogue.mod:0 55871-Dialogue.mod:0
+msgid "But along came Tinfist and the laughs rang quiet..."
+msgstr ""
+
+#. Id: 55864-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (55863-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55872-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55871-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55864-Dialogue.mod:0 55872-Dialogue.mod:0
+msgid "The noble pissed his pants and the slaves had a riot!"
+msgstr ""
+
+#. Id: 55865-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (55864-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55874-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55865-Dialogue.mod:0 55874-Dialogue.mod:0
+msgid "Just a swift blow with the fist and he fell to the floor..."
+msgstr ""
+
+#. Id: 55866-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (55865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 55875-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (55874-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55866-Dialogue.mod:0 55875-Dialogue.mod:0
+msgid "And the bearded noble was handsome no more!"
+msgstr ""
+
+#. Id: 55943-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. Id: 56098-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 55943-Dialogue.mod:0 56098-Dialogue.mod:0
+msgid "Ahem... *hack*"
+msgstr ""
+
+#. Id: 55946-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55945-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 55946-Dialogue.mod:0
+msgid "I know that sound... preparing for song... please not another song..."
+msgstr ""
+
+#. Id: 55944-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55944-Dialogue.mod:0
+msgid "Harmothoe, Harmothoe, she lived a life of anguish!"
+msgstr ""
+
+#. Id: 55947-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55947-Dialogue.mod:0
+msgid "For chained in Rebirth she was condemned to languish..."
+msgstr ""
+
+#. Id: 55948-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55948-Dialogue.mod:0
+msgid "'Til one day she'd been ravished by the high paladin most vile!"
+msgstr ""
+
+#. Id: 55949-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55949-Dialogue.mod:0
+msgid "And she swore her dark vengeance with a murderous smile..."
+msgstr ""
+
+#. Id: 55950-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55950-Dialogue.mod:0
+msgid "She stashed a long nail, forged to a blade..."
+msgstr ""
+
+#. Id: 55951-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (55950-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55951-Dialogue.mod:0
+msgid "And one by one the guards were slayed."
+msgstr ""
+
+#. Id: 55952-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (55951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55952-Dialogue.mod:0
+msgid "Now the high paladin lies dead, a nail in the eyeball..."
+msgstr ""
+
+#. Id: 55953-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (55952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 55953-Dialogue.mod:0
+msgid "With it the name Harmothoe, in blood on the high wall!"
+msgstr ""
+
+#. Id: 55954-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (55953-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 55954-Dialogue.mod:0
+msgid "... Don't go giving me ideas about your eyeballs, bard..."
+msgstr ""
+
+#. Id: 55956-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (55955-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 55956-Dialogue.mod:0
+msgid "*Clap clap*"
+msgstr ""
+
+#. Id: 55957-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (55956-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 55957-Dialogue.mod:0
+msgid "Encore, encore! More eyeball stabbing!"
+msgstr ""
+
+#. Id: 56100-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56099-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56100-Dialogue.mod:0
+msgid "I'm warning you, no songs."
+msgstr ""
+
+#. Id: 56101-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56101-Dialogue.mod:0
+msgid "Song? Why, a fly flew up my nose, that's all! But I can sing a song, for sure..."
+msgstr ""
+
+#. Id: 56102-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56102-Dialogue.mod:0
+msgid "A fly went up my nose!"
+msgstr ""
+
+#. Id: 56103-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56102-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56103-Dialogue.mod:0
+msgid "And... something about crows!"
+msgstr ""
+
+#. Id: 56104-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56103-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56104-Dialogue.mod:0
+msgid "*Thud*"
+msgstr ""
+
+#. Id: 56105-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56105-Dialogue.mod:0
+msgid "Ow! No throwing rocks..."
+msgstr ""
+
+#. Id: 56106-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>5, Tag: -1
+#: 56106-Dialogue.mod:0
+msgid "Been too long since I had some decent target practise. Finger's startin' to get twitchy..."
+msgstr ""
+
+#. Id: 56107-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56106-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56107-Dialogue.mod:0
+msgid "Trust me. You guys won't like me when I'm twitchy..."
+msgstr ""
+
+#. Id: 56109-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56108-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56109-Dialogue.mod:0
+msgid "You seem to mistake us for liking you when you're NOT twitchy..."
+msgstr ""
+
+#. Id: 56110-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56109-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56110-Dialogue.mod:0
+msgid "Aw, is the woeful widower uncomfortable with my love of shooting harpoons?"
+msgstr ""
+
+#. Id: 56152-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56152-Dialogue.mod:0
+msgid "Hey, wouldn't it be fun if it turned out I shot wifey of yours back in my slave days?"
+msgstr ""
+
+#. Id: 56153-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56153-Dialogue.mod:0
+msgid "So fun!"
+msgstr ""
+
+#. Id: 56154-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56153-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56154-Dialogue.mod:0
+msgid "... Don't ever expect me to have your back in a fight, 'ally'..."
+msgstr ""
+
+#. Id: 56155-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56154-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56155-Dialogue.mod:0
+msgid "I'll be vouching for the enemy whenever it comes to your neck."
+msgstr ""
+
+#. Id: 56156-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56156-Dialogue.mod:0
+msgid "You love me really."
+msgstr ""
+
+#. Id: 56158-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56157-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56158-Dialogue.mod:0
+msgid "Why have you always got to make dramas, huh? You're like a walking tornado of bickering..."
+msgstr ""
+
+#. Id: 56160-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56160-Dialogue.mod:0
+msgid "I like it. It kills time. Sure you may hate me, but don't deny that I provide entertainment."
+msgstr ""
+
+#. Id: 56243-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56240-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56243-Dialogue.mod:0
+msgid "... Really, is there a point to this bickering?"
+msgstr ""
+
+#. Id: 56242-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56241-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56242-Dialogue.mod:0
+msgid "Hmph! Noise. I've never known another Shek blab as much as you do..."
+msgstr ""
+
+#. Id: 56245-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56244-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56245-Dialogue.mod:0
+msgid "*Sigh* You know what I miss?... Silence."
+msgstr ""
+
+#. Id: 56162-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56162-Dialogue.mod:0
+msgid "You, what happened to your horns anyway?"
+msgstr ""
+
+#. Id: 56163-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56163-Dialogue.mod:0
+msgid "I mean, mighty shek warrior n' all, you musta done something real weak-kneed to have lost your horns..."
+msgstr ""
+
+#. Id: 56166-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56166-Dialogue.mod:0
+msgid "Me, I cut mine myself. Ruined way too many hats when I had 'em long..."
+msgstr ""
+
+#. Id: 56167-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56166-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56167-Dialogue.mod:0
+msgid "I didn't ask."
+msgstr ""
+
+#. Id: 56168-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56167-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56168-Dialogue.mod:0
+msgid "Still sore about the lost honour thing, eh? Well, I would be too..."
+msgstr ""
+
+#. Id: 56169-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56168-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56169-Dialogue.mod:0
+msgid "I mean, it's pretty embarrassing. At least I chose to cut mine off myself..."
+msgstr ""
+
+#. Id: 56170-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56169-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56170-Dialogue.mod:0
+msgid "Hmph. Hiding behind the barrel of a turret, that's embarrassing."
+msgstr ""
+
+#. Id: 56171-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (56170-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56171-Dialogue.mod:0
+msgid "Firing off your mouth like a yapping whelp, that's embarrassing."
+msgstr ""
+
+#. Id: 56172-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (56171-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56172-Dialogue.mod:0
+msgid "Noise. You talk too much, turret girl."
+msgstr ""
+
+#. Id: 56120-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 56120-Dialogue.mod:0
+msgid "You know, there was a time once when I wrestled a randy gorillo with my bare hands..."
+msgstr ""
+
+#. Id: 56121-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56120-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56121-Dialogue.mod:0
+msgid "Right here, it was. I sipped a very large amount of rum so it was the most wobbly of battles!"
+msgstr ""
+
+#. Id: 56122-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56121-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56122-Dialogue.mod:0
+msgid "But I did it! I taught the randy gorillo a lesson in manners and restraint, so I did..."
+msgstr ""
+
+#. Id: 56123-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56122-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56123-Dialogue.mod:0
+msgid "Then we sat down together at the campfire and we talked about those pesky cacti. He gave me a-"
+msgstr ""
+
+#. Id: 56125-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56124-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56125-Dialogue.mod:0
+msgid "Alright, alright, gramps. Nap time soon..."
+msgstr ""
+
+#. Id: 56126-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56125-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56126-Dialogue.mod:0
+msgid "Take a sip of your medicine and save us from your stories, would you?"
+msgstr ""
+
+#. Id: 56127-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56126-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56127-Dialogue.mod:0
+msgid "Afraid I'm all out. The 'ol rum bottle's completely drained, so it is..."
+msgstr ""
+
+#. Id: 56129-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56128-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56129-Dialogue.mod:0
+msgid "Alright, gramps. Have some rum and quiet down, you're talking gutter shit again."
+msgstr ""
+
+#. Id: 56130-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56130-Dialogue.mod:0
+msgid "Don't even get me started on gutter shit! Nuggets of the devil, so it is!"
+msgstr ""
+
+#. Id: 56134-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56133-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56134-Dialogue.mod:0
+msgid "Put a sock in it and cut the loony fairytales, old man. Or I'll be putting a harpoon in it..."
+msgstr ""
+
+#. Id: 56150-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56135-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56150-Dialogue.mod:0
+msgid "I don't like you"
+msgstr ""
+
+#. Id: 56137-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56136-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56137-Dialogue.mod:0
+msgid "Hm hm hm"
+msgstr ""
+
+#. Id: 56138-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56138-Dialogue.mod:0
+msgid "... Is something funny?"
+msgstr ""
+
+#. Id: 56140-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56139-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56140-Dialogue.mod:0
+msgid "You know... I've never seen a Shek warrior laugh before..."
+msgstr ""
+
+#. Id: 56141-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56140-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56141-Dialogue.mod:0
+msgid "It looks... odd. Don't do it again."
+msgstr ""
+
+#. Id: 56143-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56142-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56143-Dialogue.mod:0
+msgid "A what?! What did he give you? "
+msgstr ""
+
+#. Id: 56144-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56143-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56144-Dialogue.mod:0
+msgid "Tell me and I shall write a song of it! The Randy Gorillo!"
+msgstr ""
+
+#. Id: 56145-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56145-Dialogue.mod:0
+msgid "Oh look! That gnarled tree looks just like my Aunt Una!"
+msgstr ""
+
+#. Id: 56148-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56147-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 56148-Dialogue.mod:0
+msgid "... Sheesh. Concentration span of a rock..."
+msgstr ""
+
+#. Id: 56210-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>5, Tag: -1
+#: 56210-Dialogue.mod:0
+msgid "This scent... it reminds me of her..."
+msgstr ""
+
+#. Id: 56214-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56213-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56214-Dialogue.mod:0
+msgid "I'm sorry about your wife, Hamut. Slavers, they're the scum of the earth."
+msgstr ""
+
+#. Id: 56215-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56215-Dialogue.mod:0
+msgid "And I'm sorry about your time in the mines... I won't let them take you again."
+msgstr ""
+
+#. Id: 56216-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56215-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56216-Dialogue.mod:0
+msgid "We'll take them down one day, Hamut. You and me, together."
+msgstr ""
+
+#. Id: 56218-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56215-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 56218-Dialogue.mod:0
+msgid "Don't let those scumbags twist your soul, Hamut. Live your life. For her."
+msgstr ""
+
+#. Id: 56221-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56218-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 56221-Dialogue.mod:0
+msgid "I will. We will."
+msgstr ""
+
+#. Id: 65316-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65318-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65316-Dialogue.mod:0
+msgid "So, uh... we've been travelling a while now. You've not mentioned your 'legend' since the bar..."
+msgstr ""
+
+#. Id: 65317-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65316-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65317-Dialogue.mod:0
+msgid "Legend? What legend?"
+msgstr ""
+
+#. Id: 65319-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65317-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65319-Dialogue.mod:0
+msgid "The legend you joined with us to search for. The wailing banshee or whatever it was..."
+msgstr ""
+
+#. Id: 65322-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65319-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65322-Dialogue.mod:0
+msgid "And something about truffles..."
+msgstr ""
+
+#. Id: 65320-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65320-Dialogue.mod:0
+msgid "Wailing banshee?..."
+msgstr ""
+
+#. Id: 65321-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65320-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65321-Dialogue.mod:0
+msgid "I don't know about that. Sounds awfully silly..."
+msgstr ""
+
+#. Id: 65323-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65321-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65323-Dialogue.mod:0
+msgid "Seriously?... But..."
+msgstr ""
+
+#. Id: 65497-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65497-Dialogue.mod:0
+msgid "Kana finally got her dues..."
+msgstr ""
+
+#. Id: 65779-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65779-Dialogue.mod:0
+msgid "About time."
+msgstr ""
+
+#. Id: 65509-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 65509-Dialogue.mod:0
+msgid "Feels good to be away from civilisation. If you can call any city in these lands civilised..."
+msgstr ""
+
+#. Id: 65511-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65510-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65511-Dialogue.mod:0
+msgid "So. Griffin. How many women did you burn at the stake during your sentinel days?"
+msgstr ""
+
+#. Id: 65512-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65511-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65512-Dialogue.mod:0
+msgid "I'd prefer not to talk of my past."
+msgstr ""
+
+#. Id: 65513-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65512-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65513-Dialogue.mod:0
+msgid "And I'd prefer not to be reminded of mine everytime I see your face. Life isn't always fair though."
+msgstr ""
+
+#. Id: 65519-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65518-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#: 65519-Dialogue.mod:0
+msgid "We live by what we know. We do what we gotta do to survive."
+msgstr ""
+
+#. Id: 65520-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65519-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#: 65520-Dialogue.mod:0
+msgid "We've all got our skeletons in the closet, how about leaving 'em be."
+msgstr ""
+
+#. Id: 65521-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65523-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#: 65521-Dialogue.mod:0
+msgid "And you're making beep uncomfortable."
+msgstr ""
+
+#. Id: 65554-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65520-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65554-Dialogue.mod:0
+msgid "Defended by a spleen thief. How apt."
+msgstr ""
+
+#. Id: 65780-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65509-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65780-Dialogue.mod:0
+msgid "I still can't shift these nightmares though. Haven't had a good night's sleep in weeks..."
+msgstr ""
+
+#. Id: 65782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65781-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65782-Dialogue.mod:0
+msgid "Nightmares about your father?"
+msgstr ""
+
+#. Id: 65783-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65782-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 97042-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (97041-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65783-Dialogue.mod:0 97042-Dialogue.mod:0
+msgid "Yes."
+msgstr ""
+
+#. Id: 65785-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65784-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#. Id: 65789-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65788-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 65785-Dialogue.mod:0 65789-Dialogue.mod:0
+msgid "Kill enough people and it will numb you. You'll sleep better."
+msgstr ""
+
+#. Id: 65786-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 65790-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65786-Dialogue.mod:0 65790-Dialogue.mod:0
+msgid "I don't know about that..."
+msgstr ""
+
+#. Id: 65787-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65786-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 65787-Dialogue.mod:0
+msgid "Mmh. Trust."
+msgstr ""
+
+#. Id: 65791-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65790-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 65791-Dialogue.mod:0
+msgid "Trust me. I haven't felt a real emotion in years and I'm fine, ain't I?..."
+msgstr ""
+
+#. Id: 65793-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>5, Tag: -1
+#: 65793-Dialogue.mod:0
+msgid "Still can't get used to all this open space, you know..."
+msgstr ""
+
+#. Id: 65797-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65797-Dialogue.mod:0
+msgid "I remember you... The White Ripper."
+msgstr ""
+
+#. Id: 65799-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65799-Dialogue.mod:0
+msgid "Time hasn't been kind to you."
+msgstr ""
+
+#. Id: 65800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65800-Dialogue.mod:0
+msgid "You either. You look like gutter shit."
+msgstr ""
+
+#. Id: 65802-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65800-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65802-Dialogue.mod:0
+msgid "I remember them parading you through the streets of Heng..."
+msgstr ""
+
+#. Id: 65801-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65802-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 65801-Dialogue.mod:0
+msgid "You were just a boy. What was that... 10, 15 years ago?"
+msgstr ""
+
+#. Id: 65803-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65803-Dialogue.mod:0
+msgid "I was tortured and starved in prison for 15 years... It takes its toll..."
+msgstr ""
+
+#. Id: 65804-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 65804-Dialogue.mod:0
+msgid "Ha. What's your excuse?"
+msgstr ""
+
+#. Id: 65807-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65806-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 65807-Dialogue.mod:0
+msgid "Beep thinks you look fabulous."
+msgstr ""
+
+#. Id: 96959-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96959-Dialogue.mod:0
+msgid "The open road has it's perks but... "
+msgstr ""
+
+#. Id: 96960-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96960-Dialogue.mod:0
+msgid "I need action... Leader, when is our next battle?"
+msgstr ""
+
+#. Id: 96966-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96965-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 96966-Dialogue.mod:0
+msgid "Who's the shek talking to?"
+msgstr ""
+
+#. Id: 96967-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96966-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 96967-Dialogue.mod:0
+msgid "I don't know... you?"
+msgstr ""
+
+#. Id: 96968-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96967-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 96968-Dialogue.mod:0
+msgid "I'm not the leader, don't look at me!"
+msgstr ""
+
+#. Id: 96969-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96968-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 96969-Dialogue.mod:0
+msgid "Well, who IS the leader?"
+msgstr ""
+
+#. Id: 96970-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. Id: 97062-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96970-Dialogue.mod:0 97062-Dialogue.mod:0
+msgid "Then I will lead! I shall lead us to glory and doom!"
+msgstr ""
+
+#. Id: 97017-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (96972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97017-Dialogue.mod:0
+msgid "Hmph. None agree, mmh?"
+msgstr ""
+
+#. Id: 96973-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (97017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96973-Dialogue.mod:0
+msgid "... Betrayal."
+msgstr ""
+
+#. Id: 97064-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (97061-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#: 97064-Dialogue.mod:0
+msgid "Led by an unhorned? Hmph. Never."
+msgstr ""
+
+#. Id: 97065-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (97064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97065-Dialogue.mod:0
+msgid "Insult. This UNHORNED will be the one to feed you your own boot."
+msgstr ""
+
+#. Id: 97066-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (97065-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Misc biome entry
+#: 97066-Dialogue.mod:0
+msgid "Challenge accepted."
+msgstr ""
+
+#. Id: 97067-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (97066-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97067-Dialogue.mod:0
+msgid "Cut it out! Both of you!"
+msgstr ""
+
+#. Id: 96976-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96974-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 96976-Dialogue.mod:0
+msgid "Patience, kin. Greed is an ugly thing."
+msgstr ""
+
+#. Id: 96977-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 96977-Dialogue.mod:0
+msgid "And so is idleness."
+msgstr ""
+
+#. Id: 97018-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96977-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97018-Dialogue.mod:0
+msgid "We all want to stretch our sword arms, kin..."
+msgstr ""
+
+#. Id: 97019-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97018-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97019-Dialogue.mod:0
+msgid "But seeking brawls makes us no better than the wretched exiles back in Stenn."
+msgstr ""
+
+#. Id: 97025-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (97020-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97025-Dialogue.mod:0
+msgid "Truth."
+msgstr ""
+
+#. Id: 97024-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97021-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 97024-Dialogue.mod:0
+msgid "Speak for yourself... Some of us like being alive."
+msgstr ""
+
+#. Id: 97028-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97495-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>4, Tag: -1
+#: 97028-Dialogue.mod:0
+msgid "Hmm hmm hm..."
+msgstr ""
+
+#. Id: 97029-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97029-Dialogue.mod:0
+msgid "Hmm hm hm..."
+msgstr ""
+
+#. Id: 97031-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97029-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97031-Dialogue.mod:0
+msgid "This. What is this...?"
+msgstr ""
+
+#. Id: 97032-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97032-Dialogue.mod:0
+msgid "... Um... a song, I was just humming."
+msgstr ""
+
+#. Id: 97033-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97032-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97033-Dialogue.mod:0
+msgid "I do not care for it."
+msgstr ""
+
+#. Id: 97035-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97035-Dialogue.mod:0
+msgid "Maybe if I sing about swords and heads being chopped off, I'll have your approval?"
+msgstr ""
+
+#. Id: 97036-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (97035-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97036-Dialogue.mod:0
+msgid "Mmmmh..."
+msgstr ""
+
+#. Id: 97037-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (97036-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 97037-Dialogue.mod:0
+msgid "Approved. But relent with the wabbling of voice."
+msgstr ""
+
+#. Id: 97041-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (97037-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97041-Dialogue.mod:0
+msgid "... You mean the singing. The singing part of the SONG."
+msgstr ""
+
+#. Id: 97043-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (97042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 97043-Dialogue.mod:0
+msgid "... Forget it."
+msgstr ""
+
+#. Id: 1533967-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#. -- Condition: My Race(s): Skeleton
+#: 1533967-Dialogue.mod:0
+msgid "All this talk of the Bugmaster in this day and age... it never gets old."
+msgstr ""
+
+#. Id: 1533968-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1533967-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533968-Dialogue.mod:1
+msgid "Forget Eyegore, the Stone Golem, Arc... All the legends."
+msgstr ""
+
+#. Id: 1533970-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533970-Dialogue.mod:0
+msgid "They don't compare to Cat-Lon..."
+msgstr ""
+
+#. Id: 1533972-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533969-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 1533972-Dialogue.mod:0
+msgid "I know what you're about to say. Don't say it."
+msgstr ""
+
+#. Id: 1533976-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533976-Dialogue.mod:0
+msgid "They don't compare to Cat-Lon... "
+msgstr ""
+
+#. Id: 1533977-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533976-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 1533977-Dialogue.mod:0
+msgid "Why... Why did you have to bring him up?"
+msgstr ""
+
+#. Id: 1533978-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533977-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#: 1533978-Dialogue.mod:0
+msgid "Cat-Lon is gone in history. And history he should stay."
+msgstr ""
+
+#. Id: 1533980-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533979-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 1533980-Dialogue.mod:0
+msgid "... Who's Cat-Lon?"
+msgstr ""
+
+#. Id: 1533985-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533984-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 1533985-Dialogue.mod:0
+msgid "Are you laughing at us? I can never tell with you."
+msgstr ""
+
+#. Id: 1533986-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533986-Dialogue.mod:0
+msgid "Because skeletons laugh on the inside. We're too depressed to laugh on the outside."
+msgstr ""
+
+#. Id: 1533987-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533986-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 1533987-Dialogue.mod:0
+msgid "Can't you just reset or something when you get too depressed?"
+msgstr ""
+
+#. Id: 1533988-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533988-Dialogue.mod:0
+msgid "Yes. But then we reset all of our skills too."
+msgstr ""
+
+#. Id: 1533989-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533988-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Misc biome entry
+#: 1533989-Dialogue.mod:0
+msgid "Huh."
+msgstr ""
+
+#. Id: 1533991-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533991-Dialogue.mod:0
+msgid "And that's how you end up with legends like Cat-Lon..."
+msgstr ""
+
+#. Id: 1533992-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 1533992-Dialogue.mod:0
+msgid "Forget the Bugmaster, Eyegore, the Stone Golem, Arc..."
+msgstr ""
+

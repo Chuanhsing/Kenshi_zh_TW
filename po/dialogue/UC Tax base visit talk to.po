@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60471-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
+#: 60471-Dialogue.mod:0
+msgid "Time to pay up this week's contributions, /PEASANT/. You set up shop on Empire land, you pay Empire taxes. The amount you need to pay is 3000 Cats."
+msgstr ""
+
+#. Id: 60477-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60471-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60477-Dialogue.mod:0
+msgid "Why should I pay taxes to the Empire?"
+msgstr ""
+
+#. Id: 60490-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60477-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60490-Dialogue.mod:0
+msgid "*Sigh*... Because you've built your hideous little outpost on land belonging to the Empire perhaps, hmm? You benefit from the trade routes and the protection of Empire guards. Benefitting from Empire services, farming from the earth of Empire land is, in essence, my /BOY2/, stealing from the Empire."
+msgstr ""
+
+#. Id: 60491-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60491-Dialogue.mod:0
+msgid "So if you do not want to be treated as a thieving criminal I suggest you pay your contributions to the Empire. A weekly payment of 3000 Cats, a meager amount for anybody worth more than a farm dog..."
+msgstr ""
+
+#. Id: 60480-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60471-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60480-Dialogue.mod:0
+msgid "I don't pay taxes. I'm exempt."
+msgstr ""
+
+#. Id: 60481-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60480-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60481-Dialogue.mod:0
+msgid "And who said that you're exempt?"
+msgstr ""
+
+#. Id: 60482-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 60482-Dialogue.mod:0
+msgid "Me. (Pat your weapon)"
+msgstr ""
+
+#. Id: 60509-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60482-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60509-Dialogue.mod:0
+msgid "[They eye you up and down cautiously]... Think carefully before making threats to an Empire official, my /BOY2/. "
+msgstr ""
+
+#. Id: 60510-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60509-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60510-Dialogue.mod:0
+msgid "And think carefully before telling me what to do, little /MAN/."
+msgstr ""
+
+#. Id: 60513-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (60510-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60513-Dialogue.mod:0
+msgid "Tch! Nothing more than a filthy thug sponging off of noble land. Nobody lives on this land for free and nobody disrepects the United Cities Empire! "
+msgstr ""
+
+#. Id: 60512-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60509-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60512-Dialogue.mod:0
+msgid "More bleeding, less thinking! (Attack)"
+msgstr ""
+
+#. Id: 60483-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#: 60483-Dialogue.mod:0
+msgid "Me. (Crack your neck)"
+msgstr ""
+
+#. Id: 60487-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60487-Dialogue.mod:0
+msgid "Lord Tengu said so."
+msgstr ""
+
+#. Id: 60522-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60522-Dialogue.mod:0
+msgid "/QUICKLAUGH/... Lord Tengu doesn't mix with /PEASANT/s, and he certainly doesn't exempt them from taxes. Now, stop wasting my time and pay your dues. I've already wasted half my day traipsing all the way to this shack you call an outpost..."
+msgstr ""
+
+#. Id: 62161-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60522-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 62161-Dialogue.mod:0
+msgid "That's too bad. But I'm not paying."
+msgstr ""
+
+#. Id: 60488-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60488-Dialogue.mod:0
+msgid "The last tax collector I killed."
+msgstr ""
+
+#. Id: 60492-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60492-Dialogue.mod:0
+msgid "... You? (Smile and bat your eyelashes)"
+msgstr ""
+
+#. Id: 60515-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60515-Dialogue.mod:0
+msgid "... Is there something wrong with your eyes, my /BOY2/? Ugh! The inbred defects of a /PEASANT/... Let's make this quick, shall we? The less time I have to spend in your company, the better. Please make your payment, no more excuses."
+msgstr ""
+
+#. Id: 62163-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60515-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 62163-Dialogue.mod:0
+msgid "Sorry. Not paying a Cat."
+msgstr ""
+
+#. Id: 60548-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60481-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#: 60548-Dialogue.mod:0
+msgid "I slayed Tinfist. I'm a national hero."
+msgstr ""
+
+#. Id: 60549-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60548-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60549-Dialogue.mod:0
+msgid "A hero, huh? I don't care, and I wouldn't care if you farted leviathyn pearls either! You're an Empire citizen, and that means you pays taxes."
+msgstr ""
+
+#. Id: 60524-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60517-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60524-Dialogue.mod:0
+msgid "We've no room for wasters in the desert. Pay, or you'll be removed."
+msgstr ""
+
+#. Id: 60472-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60472-Dialogue.mod:0
+msgid "Time to pay up this week's contributions, citizen. You set up shop on Empire land, you pay Empire taxes. The amount you need to pay is 3000 Cats."
+msgstr ""
+
+#. Id: 60474-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 60474-Dialogue.mod:0
+msgid "Time to pay up this week's contributions, /SIR/. You set up shop on Empire land, you pay Empire taxes. The amount you need to pay is 3000 Cats."
+msgstr ""
+

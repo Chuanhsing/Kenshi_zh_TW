@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64716-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 64716-Dialogue.mod:0
+msgid "Ohhoho! Like a fly caught in a web! What we got here?"
+msgstr ""
+
+#. Id: 64719-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64717-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dimak sees player
+#: 64719-Dialogue.mod:0
+msgid "Don't usually get visitors... can I cut /EM/?"
+msgstr ""
+
+#. Id: 64720-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#: 64720-Dialogue.mod:0
+msgid "Make a mess, Bu."
+msgstr ""
+
+#. Id: 64721-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64720-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dimak sees player
+#: 64721-Dialogue.mod:0
+msgid "I'll paint a heart with their blood, just for you, Makky."
+msgstr ""
+
+#. Id: 64722-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#: 64722-Dialogue.mod:0
+msgid "Ohhhoh!"
+msgstr ""
+
+#. Id: 64723-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64722-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dimak sees player
+#: 64723-Dialogue.mod:0
+msgid "And I'll make a necklace of bone for your sinewy trapezius!"
+msgstr ""
+
+#. Id: 65662-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64723-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#: 65662-Dialogue.mod:0
+msgid "OHHH!"
+msgstr ""
+
+#. Id: 64726-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65662-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dimak sees player
+#: 64726-Dialogue.mod:0
+msgid "I'll make /HIM/ sing your name in gurgles and screams!"
+msgstr ""
+
+#. Id: 64724-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64726-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dimak sees player
+#. Id: 95471-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC base visit talk to 2
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 64724-Dialogue.mod:0 95471-Dialogue.mod:0 3616-dialogue-01.mod:0 15977-Dialogue.mod:0
+msgid "Ugh..."
+msgstr ""
+
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 45890-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 47251-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47250-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Starving mugging one line
+#. Id: 7565-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You killed my friend
+#. Id: 15998-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated someone civilian
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 60848-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60847-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees enemy faction player
+#. Id: 3271-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeat someone
+#. Id: 18307-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Town thug mugging harassment
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations
+#. Id: 13435-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#: 64732-Dialogue.mod:2 45890-Dialogue.mod:2 47251-Dialogue.mod:0 7565-Dialogue.mod:1 15998-Dialogue.mod:6 17599-Dialogue.mod:11 60848-Dialogue.mod:0 3271-gamedata.base:4 18307-Dialogue.mod:2 7858-Dialogue.mod:3 13435-Escapes.mod:1
+msgid "Die!"
+msgstr ""
+
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 14722-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 14734-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15998-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated someone civilian
+#. Id: 13428-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 64732-Dialogue.mod:3 14722-Dialogue.mod:2 14734-Dialogue.mod:4 15998-Dialogue.mod:5 13428-Escapes.mod:4
+msgid "Bleed!"
+msgstr ""
+
+#. Id: 64732-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dimak sees player
+#. Id: 63822-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (63821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 96137-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Souther hive worship
+#: 64732-Dialogue.mod:4 63822-Dialogue.mod:2 96137-__Southern?hive.mod:0
+msgid "Blood!"
+msgstr ""
+

@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3292-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3292-gamedata.base:0
+msgid "Up..."
+msgstr ""
+
+#. Id: 3292-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3292-gamedata.base:1
+msgid "/WHATTHEFUCK/ am I doing..."
+msgstr ""
+
+#. Id: 3293-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3292-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 3293-gamedata.base:0
+msgid "I must be out of my /GODDAMN/ mind"
+msgstr ""
+
+#. Id: 3293-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (3292-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 3293-gamedata.base:1
+msgid "I must be /GODDAMN/ /CRAZY/"
+msgstr ""
+
+#. Id: 12589-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12589-Dialogue?(11)?(2).mod:0
+msgid "You wanna try me again? You wanna?"
+msgstr ""
+
+#. Id: 12589-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12589-Dialogue?(11)?(2).mod:1
+msgid "That the best you got? Come on, kill me already"
+msgstr ""
+
+#. Id: 12589-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12589-Dialogue?(11)?(2).mod:2
+msgid "Stab me where it counts next time"
+msgstr ""
+
+#. Id: 12589-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 50061-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam get up fight
+#: 12589-Dialogue?(11)?(2).mod:3 50061-Dialogue.mod:2
+msgid "How about finishing me off next time?"
+msgstr ""
+
+#. Id: 12589-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12589-Dialogue?(11)?(2).mod:4
+msgid "You call that a knockdown? I'll show you a knockdown"
+msgstr ""
+
+#. Id: 12590-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12590-Dialogue?(11)?(2).mod:0
+msgid "Can I join the party?"
+msgstr ""
+
+#. Id: 12590-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12590-Dialogue?(11)?(2).mod:1
+msgid "Having all the fun without me?"
+msgstr ""
+
+#. Id: 12591-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12591-Dialogue?(11)?(2).mod:0
+msgid "Last time you got lucky"
+msgstr ""
+
+#. Id: 12591-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12591-Dialogue?(11)?(2).mod:1
+msgid "This time you won't be so lucky"
+msgstr ""
+
+#. Id: 12591-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 50061-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam get up fight
+#: 12591-Dialogue?(11)?(2).mod:2 50061-Dialogue.mod:1
+msgid "Let's try this again"
+msgstr ""
+
+#. Id: 12591-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 3291-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: unnessessary get up
+#: 12591-Dialogue?(11)?(2).mod:3 3291-gamedata.base:1
+msgid "Not. Yet."
+msgstr ""
+
+#. Id: 12592-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12592-Dialogue?(11)?(2).mod:0
+msgid "The mighty Shek can't finish me off? That's embarrassing"
+msgstr ""
+
+#. Id: 12592-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12592-Dialogue?(11)?(2).mod:1
+msgid "Here, let me send you off to your precious Kral..."
+msgstr ""
+
+#. Id: 12592-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12592-Dialogue?(11)?(2).mod:2
+msgid "I'll give you your glorious /GODDAMN/ battle, /BONEHEAD/"
+msgstr ""
+
+#. Id: 12593-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12593-Dialogue?(11)?(2).mod:0
+msgid "/OI/ /BONEHEAD/ I'm still alive, thought you were supposed to be a 'Shek Warrior'?"
+msgstr ""
+
+#. Id: 12593-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12593-Dialogue?(11)?(2).mod:1
+msgid "/OI/ /BONEHEAD/ I'm still alive, so much for being a 'Shek Warrior' eh?"
+msgstr ""
+
+#. Id: 12593-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12593-Dialogue?(11)?(2).mod:2
+msgid "/OI/ /BONEHEAD/, you didn't kill me properly. Get it right, eh?"
+msgstr ""
+
+#. Id: 12593-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 12593-Dialogue?(11)?(2).mod:3
+msgid "/OI/ /BONEHEAD/, you didn't kill me properly. Don't embarrass yourself, eh?"
+msgstr ""
+
+#. Id: 12601-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12601-Dialogue?(11)?(2).mod:0
+msgid "I AIN'T being beaten by BANDITS"
+msgstr ""
+
+#. Id: 12601-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12601-Dialogue?(11)?(2).mod:1
+msgid "I AIN'T gonna get killed by BANDIT /RAT/s"
+msgstr ""
+
+#. Id: 12601-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12601-Dialogue?(11)?(2).mod:2
+msgid "Ain't no /CRAPPY/ bandit gonna beat me down"
+msgstr ""
+
+#. Id: 12601-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12601-Dialogue?(11)?(2).mod:3
+msgid "Ain't no /CRAPPY/ bandit gonna /DEFEAT/ me"
+msgstr ""
+
+#. Id: 55880-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#. Id: 55716-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#: 55880-Dialogue.mod:0 55716-Dialogue.mod:1
+msgid "Die, slaver scum!"
+msgstr ""
+
+#. Id: 55880-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 55880-Dialogue.mod:1
+msgid "Forever remember, never forget.Time to die, slaver!"
+msgstr ""
+
+#. Id: 55880-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 55880-Dialogue.mod:2
+msgid "As long as I live, I'll wipe every slaver scum off this land!"
+msgstr ""
+
+#. Id: 55880-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 55880-Dialogue.mod:3
+msgid "For Lena!"
+msgstr ""
+
+#. Id: 55880-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc get up fight
+#: 55880-Dialogue.mod:4
+msgid "This one's for Lena!"
+msgstr ""
+

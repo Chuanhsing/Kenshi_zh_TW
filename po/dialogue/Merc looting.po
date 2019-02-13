@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12917-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12917-Dialogue?(11)?(2).mod:0
+msgid "What have we got here...?"
+msgstr ""
+
+#. Id: 12917-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12920-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12917-Dialogue?(11)?(2).mod:1 12920-Dialogue?(11)?(2).mod:0
+msgid "I'll just take this"
+msgstr ""
+
+#. Id: 12917-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12917-Dialogue?(11)?(2).mod:2
+msgid "Let's see, what have we got here..."
+msgstr ""
+
+#. Id: 12917-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12920-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12917-Dialogue?(11)?(2).mod:3 12920-Dialogue?(11)?(2).mod:2
+msgid "I'm taking all your stuff"
+msgstr ""
+
+#. Id: 12917-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12917-Dialogue?(11)?(2).mod:4
+msgid "I got looting rights"
+msgstr ""
+
+#. Id: 12920-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12920-Dialogue?(11)?(2).mod:1
+msgid "I'm taking everything"
+msgstr ""
+
+#. Id: 12921-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12920-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12921-Dialogue?(11)?(2).mod:0
+msgid "You don't deserve it anyway"
+msgstr ""
+
+#. Id: 12921-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12920-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12921-Dialogue?(11)?(2).mod:1
+msgid "I don't even want it... but I don't like you so..."
+msgstr ""
+
+#. Id: 12921-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12920-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc looting
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12921-Dialogue?(11)?(2).mod:2
+msgid "I'll give it a better home anyway"
+msgstr ""
+

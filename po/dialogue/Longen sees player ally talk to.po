@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59133-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player ally talk to
+#: 59133-Dialogue.mod:0
+msgid "So. You did it. You took down the biggest thorn in society's side of the last hundred years... "
+msgstr ""
+
+#. Id: 59135-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59133-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player ally talk to
+#: 59135-Dialogue.mod:0
+msgid "With Tinfist gone there be no more famine, no more chaos, no more suffering... I like to think I reward my allies well, /YOURNAME/. You're the saviour of our nation, and no harm will come to a single hair on the head of our nation's saviour..."
+msgstr ""
+
+#. Id: 59136-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59135-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player ally talk to
+#: 59136-Dialogue.mod:0
+msgid "*Click*"
+msgstr ""
+
+#. Id: 59134-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player ally talk to
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 59134-Dialogue.mod:0
+msgid "My men tell me you're the one who took down Tinfist..."
+msgstr ""
+

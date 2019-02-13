@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 97188-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu 1
+#. Id: 97237-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97236-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: beep additional screaming torture
+#. Id: 97638-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97637-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- venge agnu
+#. Id: 97650-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97648-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- venge agnu
+#. Id: 1533726-rebirth.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (1533725-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome- beep random 1
+#. Id: 97194-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu 4!!
+#. Id: 97196-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu 5 CROPS
+#. Id: 1533846-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533845-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- agnu beep random 1
+#. Id: 97099-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. Id: 97216-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97215-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#. Id: 97223-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97222-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#. Id: 97201-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu recruit
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 97205-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu cage join
+#. -- Condition: Who: ME, Condition: IS_IN_LOCKED_CAGE=0, Tag: -1
+#. Id: 97206-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: agnu cage join
+#. -- Condition: Who: ME, Condition: IS_IN_LOCKED_CAGE=1, Tag: -1
+#. Id: 1533773-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533766-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533774-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533771-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533775-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533767-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533776-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533769-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533799-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533798-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533804-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533801-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533806-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533804-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533807-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (1533806-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome- beep randoms 2
+#. Id: 1533816-rebirth.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (1533814-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep randoms 2
+#: 97188-rebirth.mod:0 97237-rebirth.mod:0 97638-rebirth.mod:0 97650-rebirth.mod:0 1533726-rebirth.mod:0 97194-rebirth.mod:0 97196-rebirth.mod:0 1533846-rebirth.mod:0 97099-rebirth.mod:0 97216-rebirth.mod:0 97223-rebirth.mod:0 97201-rebirth.mod:0 97205-rebirth.mod:0 97206-rebirth.mod:0 1533773-rebirth.mod:0 1533774-rebirth.mod:0 1533775-rebirth.mod:0 1533776-rebirth.mod:0 1533799-rebirth.mod:0 1533804-rebirth.mod:0 1533806-rebirth.mod:0 1533807-rebirth.mod:0 1533816-rebirth.mod:0
+msgid "/AGNU/!"
+msgstr ""
+
+#. Id: 97240-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97238-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: agnu 1
+#. Id: 96398-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: beep additional screaming torture
+#. Id: 65895-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65894-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep marked for death
+#. Id: 96394-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Beep loses arm
+#. Id: 97497-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57370-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#: 97240-rebirth.mod:0 96398-rebirth.mod:0 65895-rebirth.mod:0 96394-rebirth.mod:0 97497-rebirth.mod:0
+msgid "BEEP!"
+msgstr ""
+

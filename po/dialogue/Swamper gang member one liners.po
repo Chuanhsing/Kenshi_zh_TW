@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:0
+msgid "If you don't trample, you don't get."
+msgstr ""
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:1
+msgid "Nice people don't get nice things."
+msgstr ""
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:2
+msgid "You wanna succeed, you gotta bash some skulls."
+msgstr ""
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:3
+msgid "You wanna succeed, you gotta get your hands dirty."
+msgstr ""
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:4
+msgid "You wanna make it to the top, you gotta step on some heads."
+msgstr ""
+
+#. Id: 53741-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53741-Dialogue.mod:5
+msgid "Yeah? What're YOU lookin' at, newbie?"
+msgstr ""
+
+#. Id: 53784-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 53784-Dialogue.mod:0
+msgid "Hoy, pretty thing ain'tcha, greenfruit?"
+msgstr ""
+
+#. Id: 53784-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 53784-Dialogue.mod:1
+msgid "Hoy, pretty little thing ain'tcha, greenfruit?"
+msgstr ""
+
+#. Id: 53785-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53785-Dialogue.mod:0
+msgid "Not when I'm finished with ya you won't be, eheheh!"
+msgstr ""
+
+#. Id: 53786-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53786-Dialogue.mod:0
+msgid "EHEHEHE!"
+msgstr ""
+
+#. Id: 53787-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53787-Dialogue.mod:0
+msgid "Nice pair o' lips you got there, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 53787-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53787-Dialogue.mod:1
+msgid "Nice pair o' eyes you got there, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 53787-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53787-Dialogue.mod:2
+msgid "Nice pair o' ears you got there, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 53788-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53788-Dialogue.mod:0
+msgid "Would look even better pinned to my wall..."
+msgstr ""
+
+#. Id: 53788-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53788-Dialogue.mod:1
+msgid "Would look even better on a neck chain..."
+msgstr ""
+
+#. Id: 53788-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53788-Dialogue.mod:2
+msgid "Would go perfect with the rest of my collection..."
+msgstr ""
+
+#. Id: 53789-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53789-Dialogue.mod:2
+msgid "*Heavy breathing*"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:0
+msgid "Cross the Blackshifters and you'll pay for it in blood"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:1
+msgid "Cross the Blackshifters and you'll pay the price"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:2
+msgid "Outta the way, deadbeat"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:3
+msgid "New in town? You stick out like a turd in a fruit bowl"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:4
+msgid "The Blackshifters run this show"
+msgstr ""
+
+#. Id: 53791-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#: 53791-Dialogue.mod:5
+msgid "How long the new /GUY/ lives, place your bets now..."
+msgstr ""
+

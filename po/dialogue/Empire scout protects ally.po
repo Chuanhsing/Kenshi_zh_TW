@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1534447-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 1534447-__Fixes.mod:0
+msgid "The road is dangerous ahead, my lord..."
+msgstr ""
+
+#. Id: 1534447-__Fixes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 1534447-__Fixes.mod:1
+msgid "It is my duty to protect citizens of the United Cities, my lord..."
+msgstr ""
+
+#. Id: 1534447-__Fixes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_SLAVE=0, Tag: -1
+#: 1534447-__Fixes.mod:2
+msgid "My job is to protect and serve..."
+msgstr ""
+
+#. Id: 1534448-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534447-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#: 1534448-__Fixes.mod:0
+msgid "Allow me to escort you."
+msgstr ""
+
+#. Id: 1534448-__Fixes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1534447-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#: 1534448-__Fixes.mod:1
+msgid "My squad will accompany you."
+msgstr ""
+
+#. Id: 1534448-__Fixes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1534447-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire scout protects ally
+#: 1534448-__Fixes.mod:2
+msgid "We'll join you on your mission."
+msgstr ""
+

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55802-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55802-Dialogue.mod:0
+msgid "Sorry, we don't sell human food, I hope you brought your own... Need anything else?"
+msgstr ""
+
+#. Id: 55805-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55805-Dialogue.mod:0
+msgid "Tell me about this place."
+msgstr ""
+
+#. Id: 55807-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55805-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55807-Dialogue.mod:0
+msgid "There's not a lot to say... We settled here after life grew chaotic on the outside. But those times were so long ago, no-one here has a clear memory of our days before the city. What we do know is that we're safer here, across acidic ground and hidden away from any warzones."
+msgstr ""
+
+#. Id: 55808-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55808-Dialogue.mod:0
+msgid "The only downside of our isolation is lack of occupation. Inactivity can be terribly unhealthy to some, both for the mind and the body."
+msgstr ""
+
+#. Id: 55811-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55811-Dialogue.mod:0
+msgid "Finally gave up on life outside, did you? I don't blame you. Days are dull here but it beats trying to reason with the humans... and our disgruntled ones. Let them fix their own mess."
+msgstr ""
+
+#. Id: 55812-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#: 55812-Dialogue.mod:0
+msgid "But, down to business. Here to trade?"
+msgstr ""
+
+#. Id: 55813-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton barman
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<100, Tag: -1
+#: 55813-Dialogue.mod:0
+msgid "Back already? What can I get you?"
+msgstr ""
+

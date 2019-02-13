@@ -1,0 +1,440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65829-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65829-Dialogue.mod:0
+msgid "I still hear the screams. In my dreams, in my wake..."
+msgstr ""
+
+#. Id: 65830-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65830-Dialogue.mod:0
+msgid "Killing cannibals distracts the memories."
+msgstr ""
+
+#. Id: 65831-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65831-Dialogue.mod:0
+msgid "They kill you slowly, keep your flesh fresh..."
+msgstr ""
+
+#. Id: 65832-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65832-Dialogue.mod:0
+msgid "Stay away from the cannibal camps, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:0
+msgid "As long as I breathe, the savages will pay."
+msgstr ""
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:1
+msgid "The savages will pay for all they've done."
+msgstr ""
+
+#. Id: 65833-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 65833-Dialogue.mod:2
+msgid "No one should suffer how we have..."
+msgstr ""
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:0
+msgid "They'll all pay."
+msgstr ""
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:1
+msgid "Everyone's of 'em will pay."
+msgstr ""
+
+#. Id: 65834-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65834-Dialogue.mod:2
+msgid "We'll wipe 'em out for good."
+msgstr ""
+
+#. Id: 65835-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65835-Dialogue.mod:0
+msgid "A gutter will eat you and get it over with..."
+msgstr ""
+
+#. Id: 65837-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65835-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65837-Dialogue.mod:0
+msgid "But a cannibal's pure evil, more savage than a beast."
+msgstr ""
+
+#. Id: 65840-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65840-Dialogue.mod:0
+msgid "... What did you say?"
+msgstr ""
+
+#. Id: 65839-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65839-Dialogue.mod:0
+msgid "No, I think YOU'VE had too much grog!"
+msgstr ""
+
+#. Id: 65841-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65841-Dialogue.mod:0
+msgid "Nearly outta grog. Who's gonna restock?"
+msgstr ""
+
+#. Id: 65841-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65841-Dialogue.mod:1
+msgid "Nearly outta booze. Who's turn for rum runnin'?"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:0
+msgid "Gotta drown out the screams somehow, ain't we?"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:1
+msgid "Ain't facin' no cannibals sober... *hiccup*"
+msgstr ""
+
+#. Id: 65842-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65842-Dialogue.mod:2
+msgid "I'm startin' to sober up."
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 5310-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5305-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: slave delivery
+#. Id: 5307-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5303-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: slave delivery
+#. Id: 65649-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Phoenix world state
+#. Id: 7186-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 49889-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam interrogation
+#. Id: 66361-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66363-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66365-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 52884-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52883-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 56266-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56249-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC exile
+#. Id: 99159-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (99155-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to hive queen
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 1533001-__world reactions W.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533000-__world reactions W.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy farmer world state
+#. Id: 1533009-__world reactions W.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy farmer world state
+#. Id: 65805-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65804-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Misc biome entry
+#. Id: 57382-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57380-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 66132-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (66021-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt2
+#. Id: 46401-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46400-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46629-Dialogue.mod
+#. -- Index: 26.0
+#. -- Parent line: 25 (46422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. Id: 1533835-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533788-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome- beep randoms 2
+#: 65843-Dialogue.mod:0 5310-gamedata.base:0 5307-gamedata.base:1 65649-Dialogue.mod:0 7186-Dialogue.mod:3 49889-Dialogue.mod:0 66361-Dialogue.mod:3 66363-Dialogue.mod:1 66365-Dialogue.mod:1 52884-rebirth.mod:0 56266-Dialogue.mod:0 99159-Dialogue.mod:0 43388-Dialogue.mod:2 1533001-__world?reactions?W.mod:0 1533009-__world?reactions?W.mod:0 65805-Dialogue.mod:0 57382-rebirth.mod:0 46930-Dialogue.mod:2 44139-Dialogue.mod:7 66132-Dialogue.mod:0 46401-Dialogue.mod:0 46629-Dialogue.mod:0 1533835-rebirth.mod:0
+msgid "*sigh*"
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:1
+msgid "When you've seen the things I've seen, sleep ain't an option anymore."
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:2
+msgid "Sleep? Who needs sleep anyway?"
+msgstr ""
+
+#. Id: 65843-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 65843-Dialogue.mod:3
+msgid "The nightmares never go away. We keep killing but they never go away."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:0
+msgid "Wanna try your hand at hunting, eh?"
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:1
+msgid "Here to busy yourself caving cannibal skulls, eh?"
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:2
+msgid "New recruit? Don't look like no hunter to me."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:3
+msgid "Stay out of the outlands if you know what's good for you."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:4
+msgid "Everything outside of the city wants to eat you, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65844-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65844-Dialogue.mod:5
+msgid "Some advice, /OUTLANDER/... Stay inside, and lock the door behind you."
+msgstr ""
+
+#. Id: 65845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 65845-Dialogue.mod:0
+msgid "And what are you here for?"
+msgstr ""
+
+#. Id: 65846-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65846-Dialogue.mod:0
+msgid "Ain't nothing here but hunters drunk on grog... and vengeance."
+msgstr ""
+
+#. Id: 65862-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65862-Dialogue.mod:0
+msgid "There are two types of victims who survive the cannibal camps..."
+msgstr ""
+
+#. Id: 65863-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65862-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter sees player
+#: 65863-Dialogue.mod:0
+msgid "Those that hide in the city, and those that get revenge. "
+msgstr ""
+

@@ -1,0 +1,553 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10785-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 10785-Dialogue?(10).mod:0
+msgid "Seems like you've been making enemies with the wrong people, huh /YOURNAME/?"
+msgstr ""
+
+#. Id: 10785-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#. Id: 61451-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10785-Dialogue?(10).mod:1 61451-Dialogue.mod:0
+msgid "Tut, tut... Apparently you've been pissing off some important people lately, /YOURNAME/..."
+msgstr ""
+
+#. Id: 10785-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 10785-Dialogue?(10).mod:2
+msgid "Well if it ain't our favourite rebel, /YOURNAME/... Been kicking up quite a ruckus lately, haven't we?"
+msgstr ""
+
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10786-Dialogue?(10).mod:0 61452-Dialogue.mod:0
+msgid "Allow me to introduce myself. I am one of the Empire's Elite Hunters..."
+msgstr ""
+
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10786-Dialogue?(10).mod:1 61452-Dialogue.mod:1
+msgid "Anyway, let me introduce myself. I am an Elite Hunter of the Empire..."
+msgstr ""
+
+#. Id: 10786-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10785-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61452-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10786-Dialogue?(10).mod:2 61452-Dialogue.mod:2
+msgid "Oh how rude of me! Let me introduce myself. I am an Elite Hunter of the Empire..."
+msgstr ""
+
+#. Id: 10787-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10786-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10787-Dialogue?(10).mod:0
+msgid "And I've been sent for your head"
+msgstr ""
+
+#. Id: 10787-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10786-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10787-Dialogue?(10).mod:1
+msgid "And I've been ordered to assassinate you"
+msgstr ""
+
+#. Id: 10787-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10786-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10787-Dialogue?(10).mod:2
+msgid "And my orders are to dispose of you"
+msgstr ""
+
+#. Id: 10787-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (10786-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10787-Dialogue?(10).mod:3
+msgid "And I will be your exterminator for today"
+msgstr ""
+
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10788-Dialogue?(10).mod:0 61454-Dialogue.mod:0
+msgid "Charmed!"
+msgstr ""
+
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10788-Dialogue?(10).mod:1 61454-Dialogue.mod:1
+msgid "Nice to meet you!"
+msgstr ""
+
+#. Id: 10788-Dialogue (10).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (10787-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10788-Dialogue?(10).mod:2 61454-Dialogue.mod:2
+msgid "I'd shake your hand but I don't like to get too attached to my prey."
+msgstr ""
+
+#. Id: 10791-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10791-Dialogue?(10).mod:0
+msgid "Your luck's finally run out. It ends now"
+msgstr ""
+
+#. Id: 10791-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10791-Dialogue?(10).mod:1
+msgid "You've finally gone too far. It ends here"
+msgstr ""
+
+#. Id: 10791-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10791-Dialogue?(10).mod:2
+msgid "You terrorism ends here"
+msgstr ""
+
+#. Id: 10791-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10791-Dialogue?(10).mod:3
+msgid "I've got you now, terrorist"
+msgstr ""
+
+#. Id: 10791-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10791-Dialogue?(10).mod:4
+msgid "You're mine now, terrorist"
+msgstr ""
+
+#. Id: 10792-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10791-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10792-Dialogue?(10).mod:0
+msgid "On behalf of the Empire, die"
+msgstr ""
+
+#. Id: 10792-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10791-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10792-Dialogue?(10).mod:1
+msgid "On behalf of the Empire, I'm taking you out"
+msgstr ""
+
+#. Id: 10792-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10791-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10792-Dialogue?(10).mod:2
+msgid "The nobles want your head. And I'm going to deliver it to them."
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10793-Dialogue?(10).mod:0
+msgid "I've been sent to you by the Empire."
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10793-Dialogue?(10).mod:1
+msgid "Emperor Tengu says hi."
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10793-Dialogue?(10).mod:2
+msgid "You can't win against the Empire. Your rebellion ends here"
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61454-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (61453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#: 10793-Dialogue?(10).mod:3 61454-Dialogue.mod:3
+msgid "The nobles send you their love."
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10793-Dialogue?(10).mod:4
+msgid "Your reign of terrorism ends now, enemy of the Empire"
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10793-Dialogue?(10).mod:5
+msgid "I've been sent by the nobles. It ends here, terrorist."
+msgstr ""
+
+#. Id: 10793-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (10790-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 61455-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Insulted a noble announce
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#: 10793-Dialogue?(10).mod:6 61455-Dialogue.mod:5
+msgid "Looks like you got the attention of the nobles..."
+msgstr ""
+
+#. Id: 61008-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61008-Dialogue.mod:0
+msgid "Knock knock!"
+msgstr ""
+
+#. Id: 61008-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61008-Dialogue.mod:1
+msgid "Come speak with me!"
+msgstr ""
+
+#. Id: 61008-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61008-Dialogue.mod:2
+msgid "Found you!"
+msgstr ""
+
+#. Id: 61010-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61010-Dialogue.mod:0
+msgid "Thought you could outrun your past, did you?"
+msgstr ""
+
+#. Id: 61010-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61010-Dialogue.mod:1
+msgid "You can't run from your mistakes, /YOURNAME/..."
+msgstr ""
+
+#. Id: 61010-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (61008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61010-Dialogue.mod:2
+msgid "Thought you could shake off your bounty?"
+msgstr ""
+
+#. Id: 61012-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61012-Dialogue.mod:0
+msgid "Well, the law never forgets..."
+msgstr ""
+
+#. Id: 61012-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61012-Dialogue.mod:1
+msgid "Well, where I'm from we never forget our enemies..."
+msgstr ""
+
+#. Id: 61012-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61012-Dialogue.mod:2
+msgid "As long as I'm getting paid a fat sack 'o Cats, that ain't happening..."
+msgstr ""
+
+#. Id: 10781-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10781-Dialogue?(10).mod:0
+msgid "On behalf of the Empire, DIE!"
+msgstr ""
+
+#. Id: 10781-Dialogue (10).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10781-Dialogue?(10).mod:1
+msgid "Die, Empire terrorist!"
+msgstr ""
+
+#. Id: 10781-Dialogue (10).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10781-Dialogue?(10).mod:2
+msgid "I'll deliver your head to the nobles myself, /YOURNAME/!"
+msgstr ""
+
+#. Id: 10781-Dialogue (10).mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (61012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10781-Dialogue?(10).mod:3
+msgid "The Empire wants you exterminated, /YOURNAME/. Allow me!"
+msgstr ""
+
+#. Id: 10781-Dialogue (10).mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (61012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 10781-Dialogue?(10).mod:4
+msgid "/YOURNAME/, terrorist of the Empire, DIE!"
+msgstr ""
+
+#. Id: 61013-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 61013-Dialogue.mod:0
+msgid "Took down Eyegore, eh? Well, the nobles ain't too happy about that..."
+msgstr ""
+
+#. Id: 61014-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61014-Dialogue.mod:0
+msgid "But me, I got smarts..."
+msgstr ""
+
+#. Id: 61015-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61015-Dialogue.mod:0
+msgid "And I've been paid good money to avenge that cactus brain..."
+msgstr ""
+
+#. Id: 61017-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61016-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Empire Elite Hunter
+#: 61017-Dialogue.mod:0
+msgid "But, Captain, these guys beat Eyegore, the top-"
+msgstr ""
+
+#. Id: 61018-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61018-Dialogue.mod:0
+msgid "Dogshit to that! I cut my own path in life, with my own sword..."
+msgstr ""
+
+#. Id: 61019-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61019-Dialogue.mod:0
+msgid "So, pull yourself together and step out of Eyegore's shadow with me..."
+msgstr ""
+
+#. Id: 61020-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61020-Dialogue.mod:0
+msgid "Because we got a monster killer to slay."
+msgstr ""
+
+#. Id: 61021-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61020-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Empire Elite Hunter
+#: 61021-Dialogue.mod:0
+msgid "Yes, captain!"
+msgstr ""
+
+#. Id: 61360-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#: 61360-Dialogue.mod:0
+msgid "Anti slavers..."
+msgstr ""
+
+#. Id: 61360-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 60687-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire assault on enemy player
+#: 61360-Dialogue.mod:1 60687-Dialogue.mod:4
+msgid "We'll root you anti-slavers out, one by one, every last one of you..."
+msgstr ""
+
+#. Id: 61360-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire Elite Hunter
+#. Id: 60687-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire assault on enemy player
+#: 61360-Dialogue.mod:2 60687-Dialogue.mod:5
+msgid "Anti-slavers hide and spread like rats, but we'll hunt you down..."
+msgstr ""
+

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40719-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#: 40719-Dialogue.mod:0
+msgid "/GREASY/ thief, get away from there!"
+msgstr ""
+
+#. Id: 40719-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#: 40719-Dialogue.mod:1
+msgid "/GREASY/ thief, get your dirty hands out of there!"
+msgstr ""
+
+#. Id: 40719-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#: 40719-Dialogue.mod:2
+msgid "/GREASY/ looter, stop that!"
+msgstr ""
+
+#. Id: 40721-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 40721-Dialogue.mod:0
+msgid "Paladins! Punish /HIM/"
+msgstr ""
+
+#. Id: 40721-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 40721-Dialogue.mod:1
+msgid "Paladins! Bring justice to /HIM/!"
+msgstr ""
+
+#. Id: 40721-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from priest
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 40721-Dialogue.mod:2
+msgid "Paladins! Carry out Okran's justice. Punish /HIM/."
+msgstr ""
+

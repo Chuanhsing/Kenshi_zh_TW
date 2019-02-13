@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65096-__october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 65096-__october?17.mod:0
+msgid "Well, lookie who's back..."
+msgstr ""
+
+#. Id: 65096-__october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 65096-__october?17.mod:2
+msgid "Still alive, /RACISTNAME/?"
+msgstr ""
+
+#. Id: 65100-__october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65096-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 65100-__october?17.mod:0
+msgid "Didn't you learn your lesson after last time, /RACISTNAME/?"
+msgstr ""
+
+#. Id: 65119-__october 17.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (65100-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65119-__october?17.mod:1
+msgid "You disrepect me showing that /RACISTNAME/ face o' yours..."
+msgstr ""
+
+#. Id: 65119-__october 17.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (65100-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65119-__october?17.mod:2
+msgid "I'm guessin' you've got a suicide wish... Or you're just plain dumb."
+msgstr ""
+
+#. Id: 65119-__october 17.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (65100-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65119-__october?17.mod:3
+msgid "Or are ya just takin' the piss, huh?"
+msgstr ""
+
+#. Id: 65119-__october 17.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (65100-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65119-__october?17.mod:4
+msgid "Surprised you're even alive, stubborn /RACISTNAME/..."
+msgstr ""
+
+#. Id: 65101-__october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65096-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 65101-__october?17.mod:0
+msgid "Seems the stick men are as dumb as they look!"
+msgstr ""
+
+#. Id: 65102-__october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65101-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 65102-__october?17.mod:0
+msgid "Didn't you learn to stay the fuck out of my town after the last time I kicked your green butt?"
+msgstr ""
+
+#. Id: 65104-__october 17.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65103-__october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 65104-__october?17.mod:0
+msgid "They're dumb 'cause they ain't men... they're freaks."
+msgstr ""
+
+#. Id: 65105-__october 17.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65104-__october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 65105-__october?17.mod:0
+msgid "N' I see a freak who wants puttin' down!"
+msgstr ""
+
+#. Id: 65106-__october 17.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65105-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 65106-__october?17.mod:0
+msgid "Shouldn't 've come back, /RACISTNAME/."
+msgstr ""
+
+#. Id: 65108-__october 17.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65105-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 65108-__october?17.mod:0
+msgid "Shouldn't 've come back, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 65097-__october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65097-__october?17.mod:0
+msgid "You again...?"
+msgstr ""
+
+#. Id: 65097-__october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65097-__october?17.mod:1
+msgid "Oh /FUCK/, not you again..."
+msgstr ""
+
+#. Id: 65097-__october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65097-__october?17.mod:2
+msgid "Shh! Someone hide me!"
+msgstr ""
+
+#. Id: 65097-__october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65097-__october?17.mod:3
+msgid "Over there. Look..."
+msgstr ""
+
+#. Id: 65120-__october 17.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65097-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65120-__october?17.mod:1
+msgid "... You never saw me."
+msgstr ""
+
+#. Id: 65120-__october 17.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65097-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65120-__october?17.mod:2
+msgid "Truce... truce, okay?"
+msgstr ""
+
+#. Id: 65121-__october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 65121-__october?17.mod:0
+msgid "/OI/! It's that /RACISTNAME/ that broke my nose!"
+msgstr ""
+
+#. Id: 65121-__october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 65121-__october?17.mod:1
+msgid "/WHATTHEFUCK/ are you doing back here, /RACISTNAME/?"
+msgstr ""
+
+#. Id: 65121-__october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 65121-__october?17.mod:2
+msgid "YOU AGAIN?!"
+msgstr ""
+
+#. Id: 65127-__october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65121-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65127-__october?17.mod:0
+msgid "Last time you got lucky! Let's see if luck hits twice, eh?!"
+msgstr ""
+
+#. Id: 65127-__october 17.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65121-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65127-__october?17.mod:1
+msgid "Had to come back for more, eh? BIG MISTAKE!"
+msgstr ""
+
+#. Id: 65127-__october 17.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65121-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#: 65127-__october?17.mod:2
+msgid "Back to gloat are we, /RACISTNAME/!?"
+msgstr ""
+
+#. Id: 65123-__october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65127-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 65123-__october?17.mod:0
+msgid "I'll get you, /RACISTNAME/, just you wait..."
+msgstr ""
+
+#. Id: 65124-__october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65127-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist meets player again
+#. Id: 41765-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five Invincible avenge friend
+#: 65124-__october?17.mod:0 41765-Dialogue.mod:1
+msgid "Revenge!"
+msgstr ""
+

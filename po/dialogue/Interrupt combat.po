@@ -1,0 +1,1067 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 14463-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 6758-Dialogue.mod:0 14463-Dialogue?(4).mod:1
+msgid "Drop your weapons or die!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:1
+msgid "/ARG/! Die!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:2
+msgid "Surrender yourselves or die!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:3
+msgid "Drop you weapons, now!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:4
+msgid "Weapons! Drop 'em, now!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:5
+msgid "Drop your weapons or BLEED!"
+msgstr ""
+
+#. Id: 6758-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 6758-Dialogue.mod:6
+msgid "Weapons! Drop 'em!"
+msgstr ""
+
+#. Id: 6761-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6761-Dialogue.mod:0
+msgid "Wait! What do you want from me?"
+msgstr ""
+
+#. Id: 6761-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6761-Dialogue.mod:1
+msgid "Wait... I'll do whatever you want"
+msgstr ""
+
+#. Id: 6761-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6761-Dialogue.mod:2
+msgid "Don't hurt me, I'll do whatever you want"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:0
+msgid "/IWE/ want your /MONEY/! Your food! Your gear! All of it!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:1
+msgid "/IWE/ want your /MONEY/! Hand it over, all of it!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:2
+msgid "You want to settle this peacefully? Then hand over your /CATS/, quickly!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:3
+msgid "/IWE/ want your gear, your food, your money... everything! Give it to /MEUS/!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:4
+msgid "/IWE/ want your /MONEY/! Your food! Your gear! Everything!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:5
+msgid "/IWE/ want your /MONEY/! Go on, hand over your /CATS/... NOW!"
+msgstr ""
+
+#. Id: 6762-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (6761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6762-Dialogue.mod:6
+msgid "Make this easy. Hand over your /CATS/. If you give /MEUS/ your money, we won't /SLITYOURTHROAT/. Do NOT make me ask you again!"
+msgstr ""
+
+#. Id: 6763-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6763-Dialogue.mod:0
+msgid "I don't want to fight. Can't we work something out?"
+msgstr ""
+
+#. Id: 6763-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6763-Dialogue.mod:1
+msgid "No violence. Maybe we can come to an agreement?"
+msgstr ""
+
+#. Id: 6763-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6763-Dialogue.mod:2
+msgid "Okay, let's be civil about this... maybe we can come to an agreement?"
+msgstr ""
+
+#. Id: 6763-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6763-Dialogue.mod:3
+msgid "Please, can't we settle this some other way?"
+msgstr ""
+
+#. Id: 14469-Dialogue (4).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 14469-Dialogue?(4).mod:0
+msgid "No! Give it up! I won't ask twice, quit screwin' around, /INSULT/..."
+msgstr ""
+
+#. Id: 14469-Dialogue (4).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 14469-Dialogue?(4).mod:1
+msgid "No! Hand the Cats over already, /INSULT/. I ain't gonna ask again!"
+msgstr ""
+
+#. Id: 7139-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7139-Dialogue.mod:0
+msgid "Never! Just you try and take it from me, /GODDAMN/ starvers"
+msgstr ""
+
+#. Id: 7139-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7139-Dialogue.mod:1
+msgid "Never! I won't surrender to you that easily, thieving /RAT/s"
+msgstr ""
+
+#. Id: 7140-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7140-Dialogue.mod:0
+msgid "I've worked hard for my money, I'm not going to let you take it"
+msgstr ""
+
+#. Id: 7140-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7140-Dialogue.mod:2
+msgid "No, I've worked hard for my money"
+msgstr ""
+
+#. Id: 7140-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7140-Dialogue.mod:3
+msgid "... No. You're not taking my money"
+msgstr ""
+
+#. Id: 7140-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7140-Dialogue.mod:4
+msgid "... I don't have any money, honestly"
+msgstr ""
+
+#. Id: 7149-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7149-Dialogue.mod:0
+msgid "Damn /MISER/! I'll TAKE it from you one way or the other!"
+msgstr ""
+
+#. Id: 7149-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7149-Dialogue.mod:1
+msgid "Damn /MISER/! Then you leave me no choice but to strip it from your skin!"
+msgstr ""
+
+#. Id: 7149-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (7140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7149-Dialogue.mod:2
+msgid "Damn /MISER/! You brought this on yourself! "
+msgstr ""
+
+#. Id: 6765-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#: 6765-Dialogue.mod:0
+msgid "That's fine, just let /MEUS/ go. Here (300 Cats)"
+msgstr ""
+
+#. Id: 6765-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#: 6765-Dialogue.mod:1
+msgid "/FINE/. Here (300 Cats)"
+msgstr ""
+
+#. Id: 6765-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#: 6765-Dialogue.mod:2
+msgid "No trouble. Here (300 Cats)"
+msgstr ""
+
+#. Id: 6769-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 17774-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 17775-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 6769-Dialogue.mod:0 17774-Dialogue.mod:0 17775-Dialogue.mod:0
+msgid "Stingy /INSULT/. You got no chance against us! Look at you, half dead, you look like a damn joke. MORE!"
+msgstr ""
+
+#. Id: 6769-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 17774-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 17775-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 6769-Dialogue.mod:1 17774-Dialogue.mod:1 17775-Dialogue.mod:1
+msgid "/GODDAMN/ /MISER/! Lookit the state of you! You look half dead! This is your life on the line, gimme MORE!"
+msgstr ""
+
+#. Id: 6769-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 6769-Dialogue.mod:2
+msgid "/GODDAMN/ /MISER/! Lookit that /GODDAMN/ gimpy leg o' yours! You got no chance against us in that state! Pay up, MORE!"
+msgstr ""
+
+#. Id: 6775-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 6775-Dialogue.mod:0
+msgid "/FINE/! (500 Cats)"
+msgstr ""
+
+#. Id: 6775-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 6775-Dialogue.mod:1
+msgid "No, wait! (500 Cats)"
+msgstr ""
+
+#. Id: 6775-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 6775-Dialogue.mod:2
+msgid "Wait! (500 Cats)"
+msgstr ""
+
+#. Id: 6775-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 6775-Dialogue.mod:3
+msgid "Okay, okay! (500 Cats)"
+msgstr ""
+
+#. Id: 6779-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. Id: 16769-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6779-Dialogue.mod:0 16769-Dialogue.mod:0
+msgid "/IWE/ can't afford any more! Have pity"
+msgstr ""
+
+#. Id: 6779-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. Id: 16769-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6779-Dialogue.mod:1 16769-Dialogue.mod:1
+msgid "It's all /IWE/ can afford, have mercy"
+msgstr ""
+
+#. Id: 6779-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. Id: 16769-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (7137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6779-Dialogue.mod:2 16769-Dialogue.mod:2
+msgid "It's all /IWE/ can afford, honestly..."
+msgstr ""
+
+#. Id: 6784-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6784-Dialogue.mod:0
+msgid "... Whatever. Don't need your blood attractin' the /DOG/s anyway.. Let's go!"
+msgstr ""
+
+#. Id: 6784-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6784-Dialogue.mod:1
+msgid "... Fine. A bum like you ain't worth fightin' anyway.. Let's go!"
+msgstr ""
+
+#. Id: 6784-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6784-Dialogue.mod:2
+msgid "... Fine. I ain't in the mood for fighting anyway.. Let's go!"
+msgstr ""
+
+#. Id: 6787-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6787-Dialogue.mod:0
+msgid "/IWE/ gotta eat! 300 Cats ain't good enough! /IWE/'ll just have to take the clothes off your back!"
+msgstr ""
+
+#. Id: 6787-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6787-Dialogue.mod:1
+msgid "300 Cats!? A /MEMAN/'s gotta eat! If you won't GIVE us anymore Cats, /IWE/'ll just have to STRIP 'em from you instead!"
+msgstr ""
+
+#. Id: 6787-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6787-Dialogue.mod:2
+msgid "Then you leave me no choice, /MISER/! I'll just have to take the Cats from your rotting /CORPSE/!"
+msgstr ""
+
+#. Id: 6783-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. Id: 7137-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 6783-Dialogue.mod:0 7137-Dialogue.mod:1
+msgid "I don't believe you! Lookit all them backpacks, you can spare some more /CATS/. Your life is on the line here, /MISER/"
+msgstr ""
+
+#. Id: 6783-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. Id: 7137-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 6783-Dialogue.mod:1 7137-Dialogue.mod:2
+msgid "Don't LIE! I ain't blind, I see all them backpacks you're carryin'! You must have loads of /STUFF/ on you! Spare some more Cats or die, /MISER/!"
+msgstr ""
+
+#. Id: 6783-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. Id: 7137-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 6783-Dialogue.mod:2 7137-Dialogue.mod:3
+msgid "/GODDAMN/ /MISER/! Don't make me fight you, make this easy and give some more /CATS/. I know you gotta have more... Last chance."
+msgstr ""
+
+#. Id: 6790-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6783-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6790-Dialogue.mod:0
+msgid "No, I'm not paying you any more!"
+msgstr ""
+
+#. Id: 6790-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (6783-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 6790-Dialogue.mod:1
+msgid "No, I won't give you any more!"
+msgstr ""
+
+#. Id: 15355-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6783-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<500, Tag: -1
+#: 15355-Dialogue.mod:0
+msgid "I can't..."
+msgstr ""
+
+#. Id: 15355-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (6783-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<500, Tag: -1
+#: 15355-Dialogue.mod:1
+msgid "I really can't..."
+msgstr ""
+
+#. Id: 6792-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: ME, Condition: NUM_BACKPACKS=1, Tag: -1
+#: 6792-Dialogue.mod:0
+msgid "I don't believe you. I know a rich /BOY/ when I see one. Empty your pockets, let /MEUS/ see"
+msgstr ""
+
+#. Id: 6792-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (6779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: ME, Condition: NUM_BACKPACKS=1, Tag: -1
+#: 6792-Dialogue.mod:1
+msgid "Liar! You look like a rich /BOY/ to me... empty your /STUFF/, let me see!"
+msgstr ""
+
+#. Id: 7145-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6792-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7145-Dialogue.mod:0
+msgid "Okay okay, just take it (500 Cats)"
+msgstr ""
+
+#. Id: 7146-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6792-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7146-Dialogue.mod:0
+msgid "You ain't touching me with THOSE dirty hands!"
+msgstr ""
+
+#. Id: 7146-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (6792-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7146-Dialogue.mod:1
+msgid "You ain't touching me with THOSE dirty fingers!"
+msgstr ""
+
+#. Id: 7146-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (6792-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7146-Dialogue.mod:2
+msgid "Stay the hell away from me! /GODDAMN/ /STARVERS/!"
+msgstr ""
+
+#. Id: 7147-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (7146-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7147-Dialogue.mod:0
+msgid "Fine. You've made your choice. We'll just have to strip it from your skin"
+msgstr ""
+
+#. Id: 16768-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (6792-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 16768-Dialogue.mod:0
+msgid "No, I can't give you any more..."
+msgstr ""
+
+#. Id: 14472-Dialogue (4).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6769-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<700, Tag: -1
+#: 14472-Dialogue?(4).mod:0
+msgid "Ok... 400 Cats! Please."
+msgstr ""
+
+#. Id: 14476-Dialogue (4).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (14472-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 14476-Dialogue?(4).mod:0
+msgid "... Fine. Let's go!"
+msgstr ""
+
+#. Id: 6772-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6772-Dialogue.mod:0
+msgid "Okay. Come on, let's go"
+msgstr ""
+
+#. Id: 6772-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6772-Dialogue.mod:1
+msgid "/FINE/. Now get outta here!"
+msgstr ""
+
+#. Id: 6772-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 6772-Dialogue.mod:2
+msgid "/FINE/, let's get outta here"
+msgstr ""
+
+#. Id: 7137-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7137-Dialogue.mod:0
+msgid "Are you tellin' me, alls you can afford is 300 Cats? Even with all them big backpacks?"
+msgstr ""
+
+#. Id: 17774-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 17774-Dialogue.mod:2
+msgid "/GODDAMN/ /MISER/! Lookit that /GODDAMN/ crippled arm o' yours! You got no chance against us in that state! Pay up, MORE!"
+msgstr ""
+
+#. Id: 17774-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 17774-Dialogue.mod:3
+msgid "That's it?! With that shonky lookin' arm floppin' around? You need puttin' down /BOY/! You can't defend yourself in that state, I want more!"
+msgstr ""
+
+#. Id: 17775-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 17775-Dialogue.mod:2
+msgid "/GODDAMN/ /MISER/! Lookit that /GODDAMN/ gorked head o' yours! You got no chance against us in that state! Pay up, MORE!"
+msgstr ""
+
+#. Id: 6766-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<300, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>150, Tag: -1
+#: 6766-Dialogue.mod:0
+msgid "That's fine, just let me go. Here (150 Cats)"
+msgstr ""
+
+#. Id: 6766-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<300, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>150, Tag: -1
+#: 6766-Dialogue.mod:1
+msgid "/FINE/. Here (150 Cats)"
+msgstr ""
+
+#. Id: 7120-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6766-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7120-Dialogue.mod:0
+msgid "150 Cats?! That's nowhere near enough! You can afford more than that, /MISER/"
+msgstr ""
+
+#. Id: 7124-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7120-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7124-Dialogue.mod:0
+msgid "Honestly! It's all /IWE/ have! Search us, see for yourself..."
+msgstr ""
+
+#. Id: 7125-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7124-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>250, Tag: -1
+#: 7125-Dialogue.mod:0
+msgid "/TCH/, what's that then? You can afford more. 250 Cats, hand it over"
+msgstr ""
+
+#. Id: 7129-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (7125-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7129-Dialogue.mod:0
+msgid "I guess /IWE/ don't have a choice... Here (250 Cats)"
+msgstr ""
+
+#. Id: 7130-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (7129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. Id: 5131-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 7130-Dialogue.mod:0 5131-gamedata.base:0
+msgid "Yoink!"
+msgstr ""
+
+#. Id: 7132-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (7125-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7132-Dialogue.mod:0
+msgid "No... I need that money, it's all /IWE/ have! Please!"
+msgstr ""
+
+#. Id: 7133-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (7132-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7133-Dialogue.mod:0
+msgid "Then we'll just have to do this the hard way!"
+msgstr ""
+
+#. Id: 7133-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (7132-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7133-Dialogue.mod:1
+msgid "Fine! Dumb move, /BASTARD/!"
+msgstr ""
+
+#. Id: 7127-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7124-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7127-Dialogue.mod:0
+msgid "/TCH/, fine. Better than nuthin' I 'spose"
+msgstr ""
+
+#. Id: 16757-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7120-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 16757-Dialogue.mod:0
+msgid "It's all I have... I don't want to fight"
+msgstr ""
+
+#. Id: 16758-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (16757-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 16758-Dialogue.mod:0
+msgid "Urg! Fine! I don't wanna get blood on my rags anyway!"
+msgstr ""
+
+#. Id: 16759-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 16759-Dialogue.mod:0
+msgid "Just give it here"
+msgstr ""
+
+#. Id: 16762-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (16757-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 16762-Dialogue.mod:0
+msgid "Not good enough!"
+msgstr ""
+
+#. Id: 16763-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16762-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 16763-Dialogue.mod:0
+msgid "/IWE/'ll take it from your body instead!"
+msgstr ""
+
+#. Id: 16765-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
+#: 16765-Dialogue.mod:0
+msgid "I don't have any money!"
+msgstr ""
+
+#. Id: 16765-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
+#: 16765-Dialogue.mod:1
+msgid "But I'm broke! I have no money..."
+msgstr ""
+
+#. Id: 16765-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
+#: 16765-Dialogue.mod:2
+msgid "But... I'm out of Cats!"
+msgstr ""
+
+#. Id: 16767-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (16765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 16767-Dialogue.mod:0
+msgid "Then tough shit! I'll have to strip the clothes from your back!"
+msgstr ""
+
+#. Id: 7141-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7141-Dialogue.mod:0
+msgid "Go hassle someone else, /RAT/!"
+msgstr ""
+
+#. Id: 7141-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7141-Dialogue.mod:1
+msgid "I don't have time for a bunch of /DIRTY/ starvers!"
+msgstr ""
+
+#. Id: 7141-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7141-Dialogue.mod:2
+msgid "I've got better things to do than deal with a bunch of /GODDAMN/ /RAT/s!"
+msgstr ""
+
+#. Id: 7141-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 7141-Dialogue.mod:3
+msgid "Go hassle someone else, /DIRTY/ starvers!"
+msgstr ""
+
+#. Id: 7142-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7142-Dialogue.mod:1
+msgid "Go to hell!"
+msgstr ""
+
+#. Id: 7142-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7141-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#: 7142-Dialogue.mod:2
+msgid "Rot in hell!"
+msgstr ""
+
+#. Id: 14466-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 14466-Dialogue?(4).mod:0
+msgid "/FINE/... Let's just talk about this. Peacefully."
+msgstr ""
+
+#. Id: 14466-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt combat
+#: 14466-Dialogue?(4).mod:1
+msgid "/FINE/... Let's just talk about this. Calmly."
+msgstr ""
+
+#. Id: 14463-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14463-Dialogue?(4).mod:0
+msgid "Surrender yourself or die!"
+msgstr ""
+
+#. Id: 14463-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt combat
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 14463-Dialogue?(4).mod:2
+msgid "You! Drop you weapons, now!"
+msgstr ""
+

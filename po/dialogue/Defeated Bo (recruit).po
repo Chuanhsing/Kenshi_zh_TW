@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8006-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8006-Dialogue.mod:0
+msgid "Okay, you got me... So what are you waiting for? Turn me in already, those filthy slavers'll be indebted to you when you bring them my head... Unless you're one of those flesh eatin' types, in which case get it the hell over with, will you?"
+msgstr ""
+
+#. Id: 8657-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8657-Dialogue.mod:0
+msgid "I'm not a bounty hunter. I just wanted your attention."
+msgstr ""
+
+#. Id: 8658-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8657-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8658-Dialogue.mod:0
+msgid "Well shit, you got it. Well fought."
+msgstr ""
+
+#. Id: 8681-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8658-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8681-Dialogue.mod:0
+msgid "How about joining /MEUS/? I'm looking for strong recruits..."
+msgstr ""
+
+#. Id: 56655-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 56655-Dialogue.mod:0
+msgid "Well, hell, I know I'm in no position to bargain but I kinda got more important tasks at hand than blindly joining random drifters..."
+msgstr ""
+
+#. Id: 56656-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 56656-Dialogue.mod:0
+msgid "I beat your ass. Still don't think me worthy?"
+msgstr ""
+
+#. Id: 56658-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 56658-Dialogue.mod:0
+msgid "I got you in this cage, didn't I? Still don't think me worthy?"
+msgstr ""
+
+#. Id: 56660-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 56660-Dialogue.mod:0
+msgid "You mean crushing the slavers? Looks like that's a task we have in common."
+msgstr ""
+
+#. Id: 8682-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56660-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8682-Dialogue.mod:0
+msgid "Well, when you put it like that... I guess I could join you. We'd make a pretty formidable team... But I'd have to set some ground rules first..."
+msgstr ""
+
+#. Id: 8667-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (8682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8667-Dialogue.mod:0
+msgid "You seem hardly in a position to set a bargain..."
+msgstr ""
+
+#. Id: 8668-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8668-Dialogue.mod:0
+msgid "Like I care, bwaha, you can't keep me in a cage! I'm a master escapist, why do you think my bounty's so big?"
+msgstr ""
+
+#. Id: 8665-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (8682-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8665-Dialogue.mod:0
+msgid "Okay, go ahead"
+msgstr ""
+
+#. Id: 8666-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8665-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8666-Dialogue.mod:0
+msgid "First off, I like my space. Nobody get's in my way, nobody orders me around. Second off, I'm not teaming up with slaver lackeys. I fight for freedom. Nothing else."
+msgstr ""
+
+#. Id: 8669-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8666-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#. Id: 42092-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42091-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: holy nation slave recruit talk to
+#: 8669-Dialogue.mod:0 42092-Dialogue.mod:0
+msgid "Sounds like a good deal to me"
+msgstr ""
+
+#. Id: 8670-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (8669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8670-Dialogue.mod:0
+msgid "Okay then. Now get me the hell out of here! I can't feel my butt."
+msgstr ""
+
+#. Id: 8672-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8666-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8672-Dialogue.mod:0
+msgid "On second thoughts, I don't think this is a good idea"
+msgstr ""
+
+#. Id: 56661-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 56661-Dialogue.mod:0
+msgid "Well, you're my prisoner and you'll do as I tell you. You'll fight for me."
+msgstr ""
+
+#. Id: 56662-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56661-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 56662-Dialogue.mod:0
+msgid "Bwahaha I'm not your slave. You sorely underestimate me if you think I'd ally with you after sticking me in a cage. Starve me and torture me all you will. You're no better than the Trader's Guild, worm."
+msgstr ""
+
+#. Id: 56664-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8658-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 56664-Dialogue.mod:0
+msgid "You work for me now. I own you."
+msgstr ""
+
+#. Id: 56665-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8658-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#. Id: 66195-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59755-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bayan talk to
+#. Id: 56907-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#. Id: 56347-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56345-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#. Id: 56339-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56334-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#. Id: 63361-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63342-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu vault prisoner
+#: 56665-Dialogue.mod:0 66195-Dialogue.mod:0 56907-Dialogue.mod:0 56347-Dialogue.mod:0 56339-Dialogue.mod:0 63361-Dialogue.mod:0
+msgid "(Leave)"
+msgstr ""
+
+#. Id: 56666-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56665-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 56666-Dialogue.mod:0
+msgid "Wait... That's it? Aren't you going to tell me why the hell I'm in this cage?!"
+msgstr ""
+
+#. Id: 8659-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8659-Dialogue.mod:0
+msgid "I'm not here to turn you in. I just wanted to fight the mighty 'Big Bo' for myself..."
+msgstr ""
+
+#. Id: 8662-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 8662-Dialogue.mod:0
+msgid "So I'm here as a human training dummy? Cage a leviathyn and you'll regret it, worm, I warn you."
+msgstr ""
+
+#. Id: 56669-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8659-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 56669-Dialogue.mod:0
+msgid "Right, well fought. And you stuck me in a cage because...?"
+msgstr ""
+
+#. Id: 8661-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Defeated Bo (recruit)
+#: 8661-Dialogue.mod:0
+msgid "I know, I'm gonna be a hero! Now, pipe down and don't cause me any trouble..."
+msgstr ""
+
+#. Id: 56653-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8661-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 56653-Dialogue.mod:0
+msgid "Tch, your kind sickens me. Think you're immune to the slaver's whims? Think again. I'm your ally. I'm every man's ally."
+msgstr ""
+
+#. Id: 56654-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated Bo (recruit)
+#: 56654-Dialogue.mod:0
+msgid "But do what you will, worm."
+msgstr ""
+

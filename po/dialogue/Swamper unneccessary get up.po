@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:0
+msgid "/OI/... get your asses back here"
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:1
+msgid "/OI/... get back here"
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:2
+msgid "/OI/... did I SAY you could go yet?"
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:3
+msgid "/OI/... I'm not done with you"
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:4
+msgid "/OI/... I'm not finished yet..."
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:5
+msgid "/OI/... leaving already? The fun's just begun"
+msgstr ""
+
+#. Id: 12382-Dialogue (10).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12382-Dialogue?(10).mod:6
+msgid "/OI/... leaving without even a goodbye?"
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:0
+msgid "Do I.. look... like I give a fuck?"
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:1
+msgid "This face don't give a fuck"
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:2
+msgid "I ain't givin' any fucks today"
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:3
+msgid "I'm all outta fucks to give..."
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:4
+msgid "I ain't... stayin' down... that easy"
+msgstr ""
+
+#. Id: 12383-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 12383-Dialogue?(10).mod:5
+msgid "Fuck it"
+msgstr ""
+
+#. Id: 12384-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 12384-Dialogue?(10).mod:0
+msgid "/OI/, /INSULT/.... Did I SAY you could leave?"
+msgstr ""
+
+#. Id: 12384-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 12384-Dialogue?(10).mod:1
+msgid "/OI/, /INSULT/... Running away already?"
+msgstr ""
+
+#. Id: 12384-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 12384-Dialogue?(10).mod:2
+msgid "/OI/... /INSULT/..."
+msgstr ""
+
+#. Id: 12384-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 12384-Dialogue?(10).mod:4
+msgid "/OI/, /INSULT/... Where ya goin'?"
+msgstr ""
+
+#. Id: 12384-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 12384-Dialogue?(10).mod:5
+msgid "You /BASTARD/! You were just gonna leave without saying bye?!"
+msgstr ""
+
+#. Id: 12386-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12386-Dialogue?(10).mod:0
+msgid "/OI/, /INSULT/s... Did I SAY you could leave?"
+msgstr ""
+
+#. Id: 12386-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12386-Dialogue?(10).mod:1
+msgid "/OI/, /INSULT/s... Running away already?"
+msgstr ""
+
+#. Id: 12386-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12386-Dialogue?(10).mod:2
+msgid "/OI/... /INSULT/s..."
+msgstr ""
+
+#. Id: 12386-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12386-Dialogue?(10).mod:4
+msgid "/OI/, /INSULT/s... Where ya goin'?"
+msgstr ""
+
+#. Id: 12386-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12386-Dialogue?(10).mod:5
+msgid "You /BASTARD/s! You were just gonna leave without saying bye?!"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:0
+msgid "Ggh.. *wheeze*"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:1
+msgid "Hrngh.. *heave*"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:2
+msgid "Rgh.. *hack*"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:3
+msgid "Rargh! *gurgle*"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:4
+msgid "My spleen..."
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:5
+msgid "Grgh... my lung..."
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13234-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 13236-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 11691-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11535-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogues picking fights
+#: 12450-Dialogue?(10)?(2).mod:6 13234-Escapes.mod:5 13236-Escapes.mod:3 11691-Dialogue?(10).mod:0
+msgid "/FUCK/..."
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:7
+msgid "Why? Why?!"
+msgstr ""
+
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12450-Dialogue?(10)?(2).mod:9
+msgid "This is bullshit"
+msgstr ""
+

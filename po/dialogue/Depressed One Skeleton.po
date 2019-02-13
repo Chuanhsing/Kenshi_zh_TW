@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55550-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55550-Dialogue.mod:0
+msgid "Another human... Must be the millionth I've met. You all blend into one after a few hundred years. Then after a few thousand? I can read you like a book..."
+msgstr ""
+
+#. Id: 55551-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55550-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55551-Dialogue.mod:0
+msgid "Know how dull that is? Dull enough to make you mope hopelessly in a dead end town while the rest of your kind prattle on about seized sprockets and rusted knees in an endless orgy of ailment resentment... *Sigh*"
+msgstr ""
+
+#. Id: 55552-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55551-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55552-Dialogue.mod:0
+msgid "Aren't you just a barrel of laughs."
+msgstr ""
+
+#. Id: 55555-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55552-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55555-Dialogue.mod:0
+msgid "Well, sorry for existing, human. You people never do last more than a few minutes in conversation with me. If I could shed a tear, believe you me, I would shed a bucket full..."
+msgstr ""
+
+#. Id: 55556-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55555-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55556-Dialogue.mod:0
+msgid "But alas, that is the ironic curse of the Skeleton. To cry silently on the inside. The most mournful of creatures, yet born without the means to shed a tear. Oh... I hate my life."
+msgstr ""
+
+#. Id: 55577-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55552-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 55577-Dialogue.mod:0
+msgid "Well, sorry for existing. You people never do last more than a few minutes in conversation with me. If I could shed a tear, believe you me, I would shed a bucket full..."
+msgstr ""
+
+#. Id: 55553-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55551-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55553-Dialogue.mod:0
+msgid "Sounds like you'd enjoy life more if you left this town..."
+msgstr ""
+
+#. Id: 55558-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55553-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55558-Dialogue.mod:0
+msgid "I tried going back outside once. It smelled funny and there were far too many flies. Not to mention all the killing and... oh, that's right, the cannibalism. Awful place."
+msgstr ""
+
+#. Id: 55559-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55559-Dialogue.mod:0
+msgid "Maybe you just need a new dream to live for."
+msgstr ""
+
+#. Id: 55560-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55560-Dialogue.mod:0
+msgid "I've had dreams. None ended well. Dreams are silly things, I wouldn't recommend them."
+msgstr ""
+
+#. Id: 55561-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55560-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55561-Dialogue.mod:0
+msgid "How about working for me? I can show you excitement."
+msgstr ""
+
+#. Id: 55562-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55562-Dialogue.mod:0
+msgid "I hate excitement."
+msgstr ""
+
+#. Id: 55563-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (55562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55563-Dialogue.mod:0
+msgid "Ah, go on."
+msgstr ""
+
+#. Id: 55565-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (55564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55565-Dialogue.mod:0
+msgid "I'll join you. But only because I'm weak and give in easily to peer pressure... *Sigh*"
+msgstr ""
+
+#. Id: 55566-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (55565-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55566-Dialogue.mod:0
+msgid "I hate my life."
+msgstr ""
+
+#. Id: 55587-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55560-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55587-Dialogue.mod:0
+msgid "...You really are hopeless, you know that?"
+msgstr ""
+
+#. Id: 55588-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55587-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55588-Dialogue.mod:0
+msgid "Of course, berate the despondent Skeleton. You know I'm right, you can't handle the truth."
+msgstr ""
+
+#. Id: 55579-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55579-Dialogue.mod:0
+msgid "Oh, don't exaggerate, it's not that bad."
+msgstr ""
+
+#. Id: 55581-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55581-Dialogue.mod:0
+msgid "Easy for you to say. You're one of them, killing is in your blood. No doubt you'd eat your own offspring if it took your fancy. What a burden hunger must be."
+msgstr ""
+
+#. Id: 55583-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55581-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55583-Dialogue.mod:0
+msgid "How about you leave with me, stretch your legs and roam free."
+msgstr ""
+
+#. Id: 55584-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55584-Dialogue.mod:0
+msgid "Roaming free is overrated. I wouldn't recommend it."
+msgstr ""
+
+#. Id: 55582-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 55582-Dialogue.mod:0
+msgid "Guess you've turned native already. Life on the outside has turned you numb to the atrocities of the human race."
+msgstr ""
+
+#. Id: 55580-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55580-Dialogue.mod:0
+msgid "Then don't help the innocents being cannibalized. Keep hiding here."
+msgstr ""
+
+#. Id: 55585-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55580-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55585-Dialogue.mod:0
+msgid "You want me to go out there and put my neck on the line? How dangerous... I hate danger."
+msgstr ""
+
+#. Id: 55568-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55551-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55568-Dialogue.mod:0
+msgid "... I'll leave you to it then."
+msgstr ""
+
+#. Id: 55570-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. -- Condition: Target Race(s): Shek
+#: 55570-Dialogue.mod:0
+msgid "Another human... Must be the millionth I've met. Horned or not, you all blend into one after a few hundred years. Then after a few thousand? I can read you like a book..."
+msgstr ""
+
+#. Id: 55571-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. -- Condition: Target Race(s): Hive Prince
+#: 55571-Dialogue.mod:0
+msgid "Another organic one... Must be the trillionth person I've met. You all blend into one after a few hundred years, whether you're bug eyed, horned or original flavor. Then after a few thousand? I can read you like a book..."
+msgstr ""
+
+#. Id: 55572-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 55572-Dialogue.mod:0
+msgid "Another visitor... They all blend into one after a few hundred years. Then after a few thousand? Every being is as predictable to me as the other..."
+msgstr ""
+
+#. Id: 55573-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55572-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Depressed One Skeleton
+#: 55573-Dialogue.mod:0
+msgid "Isn't it dull? Dull enough to make you mope hopelessly in a dead end town while the rest of your kind prattle on about seized sprockets and rusted knees in an endless orgy of ailment resentment... *Sigh*"
+msgstr ""
+
+#. Id: 55576-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55573-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Depressed One Skeleton
+#: 55576-Dialogue.mod:0
+msgid "It's dull, yes. But moping in this town won't make it any less dull."
+msgstr ""
+

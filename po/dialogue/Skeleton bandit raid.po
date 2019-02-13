@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99080-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99080-Dialogue.mod:0
+msgid "A human village..."
+msgstr ""
+
+#. Id: 99081-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99081-Dialogue.mod:0
+msgid "Perhaps we will find new skins among the inhabitants..."
+msgstr ""
+
+#. Id: 99081-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (99080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99081-Dialogue.mod:1
+msgid "Full of fresh skins.."
+msgstr ""
+
+#. Id: 99082-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99081-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99082-Dialogue.mod:0
+msgid "And lots of human food for our hungry bellies..."
+msgstr ""
+
+#. Id: 99082-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (99081-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99082-Dialogue.mod:1
+msgid "And lots of human food for our hungry digestive systems..."
+msgstr ""
+
+#. Id: 99084-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (99083-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Skeleton bandit raid
+#: 99084-Dialogue.mod:0
+msgid "YUM"
+msgstr ""
+
+#. Id: 99087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#: 99087-Dialogue.mod:0 65203-Dialogue.mod:0 63838-Dialogue.mod:0
+msgid "Give us your skin!"
+msgstr ""
+
+#. Id: 99087-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 65203-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (65201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandits singing
+#. Id: 63838-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#. -- Condition: Target Race(s): Greenlander
+#: 99087-Dialogue.mod:1 65203-Dialogue.mod:2 63838-Dialogue.mod:2
+msgid "Come to us, flesh brothers! We just want your skin..."
+msgstr ""
+
+#. Id: 99088-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 63839-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 99088-Dialogue.mod:0 63839-Dialogue.mod:1
+msgid "Come share with your fellow human brothers!"
+msgstr ""
+
+#. Id: 99088-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (99087-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 63839-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit skin raid announce
+#: 99088-Dialogue.mod:1 63839-Dialogue.mod:0
+msgid "It's good to share!"
+msgstr ""
+
+#. Id: 99089-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#. Id: 99091-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99089-Dialogue.mod:0 99091-Dialogue.mod:0
+msgid "Come out, flesh brothers!"
+msgstr ""
+
+#. Id: 99093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99093-Dialogue.mod:0
+msgid "Come talk to us..."
+msgstr ""
+
+#. Id: 99093-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (99091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99093-Dialogue.mod:1
+msgid "Please come talk to your fellow humans!"
+msgstr ""
+
+#. Id: 99092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (99093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99092-Dialogue.mod:0
+msgid "We mean no harm..."
+msgstr ""
+
+#. Id: 99092-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (99093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99092-Dialogue.mod:2
+msgid "We won't hurt you..."
+msgstr ""
+
+#. Id: 99094-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (99092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99094-Dialogue.mod:0
+msgid "... We just want your skin."
+msgstr ""
+
+#. Id: 99095-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (99094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99095-Dialogue.mod:0
+msgid "So fresh... so good."
+msgstr ""
+
+#. Id: 99095-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (99094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99095-Dialogue.mod:1
+msgid "That good skin..."
+msgstr ""
+
+#. Id: 99095-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (99094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99095-Dialogue.mod:2
+msgid "Your fresh.. clean... skin..."
+msgstr ""
+
+#. Id: 99097-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit raid
+#: 99097-Dialogue.mod:0
+msgid "Skin!"
+msgstr ""
+

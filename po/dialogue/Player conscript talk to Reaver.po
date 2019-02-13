@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1534511-__November2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 1534511-__November2.mod:0
+msgid "Tired, meat shield? Whelps sleep in cages... "
+msgstr ""
+
+#. Id: 1534524-__November2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534519-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534524-__November2.mod:0
+msgid "And spitters eat dust."
+msgstr ""
+
+#. Id: 1534520-__November2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534511-__November2.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534520-__November2.mod:0
+msgid "Ha! You think this cage can hold me? Think again."
+msgstr ""
+
+#. Id: 1534525-__November2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534520-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534525-__November2.mod:0
+msgid "Valamon will break you yet, whelp..."
+msgstr ""
+
+#. Id: 1534526-__November2.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534525-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534526-__November2.mod:0
+msgid "Either you'll die alone a coward or you'll find your inner hero together in death... As part of a brotherhood, as part of a revolution! This is your chance to shed your shameful past..."
+msgstr ""
+
+#. Id: 1534543-__November2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534511-__November2.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534543-__November2.mod:0
+msgid "Let me out of this cage, I want to ally with your leader."
+msgstr ""
+
+#. Id: 1534544-__November2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534543-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534544-__November2.mod:0
+msgid "... Ally with the Reavers?... Hwa hwa hwa! But you already ARE an ally, whelp! Nobody skips rank in Valamon's army..."
+msgstr ""
+
+#. Id: 1534545-__November2.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534544-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534545-__November2.mod:0
+msgid "Though, no doubt you'll perish in battle before coming even close to the honor of Ironclad, my /BROTHER/... *spit*... But... you'll die a hero. As part of a brotherhood, as part of a revolution! This is your chance to shed your shameful past..."
+msgstr ""
+
+#. Id: 1534555-__November2.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534545-__November2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Player conscript talk to Reaver
+#: 1534555-__November2.mod:0
+msgid "This is Valamon's gift to you..."
+msgstr ""
+

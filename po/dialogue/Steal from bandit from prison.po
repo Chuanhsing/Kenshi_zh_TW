@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. Id: 5837-D-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit Revenge I hate this guy
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: REPUTATION>50, Tag: -1
+#. -- Condition: Who: ME, Condition: RELATIONS<-70, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 13488-Escapes.mod:0 5837-D-Dialogue.mod:4
+msgid "!!"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:1
+msgid "What?!!"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. Id: 20052-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver catches looter
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 17914-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin betrayed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 6443-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by player
+#. Id: 15929-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ looting ally
+#: 13488-Escapes.mod:2 20052-Dialogue.mod:4 17914-Dialogue.mod:1 6443-Dialogue.mod:2 15929-Dialogue.mod:4
+msgid "Hey!?"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:3
+msgid "/OI/?!"
+msgstr ""
+
+#. Id: 13488-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13488-Escapes.mod:4
+msgid "/WTF/?!"
+msgstr ""
+
+#. Id: 13498-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13488-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 13431-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13498-Escapes.mod:0 13431-Escapes.mod:0
+msgid "/BASTARD/!"
+msgstr ""
+
+#. Id: 13498-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13488-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. Id: 6071-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 13498-Escapes.mod:1 6071-Dialogue.mod:0
+msgid "/INSULT/!"
+msgstr ""
+
+#. Id: 13499-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13498-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13499-Escapes.mod:0
+msgid "Soon as I get out of this cage, I'll /SNAP/ yer head off!"
+msgstr ""
+
+#. Id: 13499-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13498-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit from prison
+#: 13499-Escapes.mod:1
+msgid "Soon as I get out of here, I'll /SLITYOURTHROAT/!"
+msgstr ""
+

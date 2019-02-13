@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47566-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Gorillo or Spider or Swamp Raptor or River Raptor
+#: 47566-Dialogue.mod:0
+msgid "We'll be feasting on /ANIMALTYPE/ tonight!"
+msgstr ""
+
+#. Id: 47566-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Gorillo or Spider or Swamp Raptor or River Raptor
+#: 47566-Dialogue.mod:1
+msgid "Who's up for eating /ANIMALTYPE/ tonight?"
+msgstr ""
+
+#. Id: 47566-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Gorillo or Spider or Swamp Raptor or River Raptor
+#: 47566-Dialogue.mod:2
+msgid "/ANIMALTYPE/s, a royal pain in my ass."
+msgstr ""
+
+#. Id: 47566-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Gorillo or Spider or Swamp Raptor or River Raptor
+#: 47566-Dialogue.mod:3
+msgid "Swattin' /ANIMALTYPE/s... it's all good sword practise..."
+msgstr ""
+
+#. Id: 47566-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Gorillo or Spider or Swamp Raptor or River Raptor
+#: 47566-Dialogue.mod:4
+msgid "And dinner is served, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 47567-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Spider or Swamp Raptor or River Raptor
+#: 47567-Dialogue.mod:0
+msgid "Pain in the ass /ANIMALTYPE/s need exterminating..."
+msgstr ""
+
+#. Id: 47567-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Spider or Swamp Raptor or River Raptor
+#: 47567-Dialogue.mod:1
+msgid "Stinkin' /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47567-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Spider or Swamp Raptor or River Raptor
+#: 47567-Dialogue.mod:2
+msgid "Ugly /GODDAMN/ /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47567-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Spider or Swamp Raptor or River Raptor
+#: 47567-Dialogue.mod:3
+msgid "I hate /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 47567-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc defeats animal squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. -- Condition: Target Race(s): Beak Thing or Bonedog or Spider or Swamp Raptor or River Raptor
+#: 47567-Dialogue.mod:4
+msgid "/GODDAMN/ /ANIMALTYPE/s breed like vermin..."
+msgstr ""
+

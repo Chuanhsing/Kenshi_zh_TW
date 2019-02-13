@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 3616-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up after battle is over
+#. Id: 15977-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ get up peace
+#: 17925-Dialogue.mod:0 3616-dialogue-01.mod:5 15977-Dialogue.mod:5
+msgid "Urgh..."
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:1
+msgid "I can't die yet!"
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:3
+msgid "I've been through too much to give up now!"
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:4
+msgid "Why do I do this?"
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:5
+msgid "Why am I doing this?"
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:6
+msgid "What am I doing..."
+msgstr ""
+
+#. Id: 17925-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: My Race(s): Hive Prince
+#: 17925-Dialogue.mod:7
+msgid "The hell am I doing..."
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17935-Dialogue.mod:3
+msgid "Let's try this again..."
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 17505-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior still got fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17935-Dialogue.mod:4 17505-Dialogue.mod:3
+msgid "I won't back down"
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17935-Dialogue.mod:5
+msgid "Fight me"
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17935-Dialogue.mod:7
+msgid "I won't be beaten down"
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17935-Dialogue.mod:8
+msgid "I'll keep fighting 'til the end"
+msgstr ""
+
+#. Id: 17935-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17935-Dialogue.mod:9
+msgid "To freedom!"
+msgstr ""
+

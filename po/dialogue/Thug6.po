@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45097-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45097-Dialogue.mod:0
+msgid "You, /BOY2/, I'm thirsty. Buy me a drink,eh..."
+msgstr ""
+
+#. Id: 45098-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45097-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 45098-Dialogue.mod:0
+msgid "Sure, have a grog on me"
+msgstr ""
+
+#. Id: 45099-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45098-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45099-Dialogue.mod:0
+msgid "Ahh, that's good..."
+msgstr ""
+
+#. Id: 45100-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45100-Dialogue.mod:0
+msgid "I gotta lay low for a while, figured this dingy bar would make a nice new home. Gotta live off free drinks and cheatin' people at gamblin', see. Ha."
+msgstr ""
+
+#. Id: 45101-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45100-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45101-Dialogue.mod:0
+msgid "Why are you hiding out?"
+msgstr ""
+
+#. Id: 45102-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45102-Dialogue.mod:0
+msgid "The hat trader, I won't say which town, heard he had a good stash of loot. But he caught me in his shop middle of the night... I had to keep him quiet, know what I mean? Ha. It was a mess after I was finished with him, let's just say he won't be walkin' again. Or much else. Ha."
+msgstr ""
+
+#. Id: 45103-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45103-Dialogue.mod:0
+msgid "You should be ashamed of yourself."
+msgstr ""
+
+#. Id: 45104-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45103-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45104-Dialogue.mod:0
+msgid "Like you're so squeaky clean yourself, /BOY/... You gotta play dirty to survive in this world, might as well have some fun while you're at it."
+msgstr ""
+
+#. Id: 45106-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45106-Dialogue.mod:0
+msgid "You went too far. That's not right..."
+msgstr ""
+
+#. Id: 45107-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45102-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45107-Dialogue.mod:0
+msgid "Well, these things happen..."
+msgstr ""
+
+#. Id: 45108-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45107-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45108-Dialogue.mod:0
+msgid "Shoulda stayed in bed if he knew what was good for 'im. I got my stash, that's all that matters to me!"
+msgstr ""
+
+#. Id: 45109-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45100-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45109-Dialogue.mod:0
+msgid "... Remind me not to gamble with you."
+msgstr ""
+
+#. Id: 45110-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45109-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45110-Dialogue.mod:0
+msgid "Ha. No."
+msgstr ""
+
+#. Id: 45111-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45110-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45111-Dialogue.mod:0
+msgid "I'll leave you to it."
+msgstr ""
+
+#. Id: 45112-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45112-Dialogue.mod:0
+msgid "Now beat it."
+msgstr ""
+
+#. Id: 45112-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (45099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45112-Dialogue.mod:1
+msgid "Now, /GETLOST/."
+msgstr ""
+
+#. Id: 45117-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45097-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45117-Dialogue.mod:0
+msgid "Er... I can't, sorry. Bye."
+msgstr ""
+
+#. Id: 45118-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45097-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug6
+#: 45118-Dialogue.mod:0
+msgid "Buy your own drinks."
+msgstr ""
+
+#. Id: 45119-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45118-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug6
+#: 45119-Dialogue.mod:0
+msgid "Pfft, /MISER/..."
+msgstr ""
+

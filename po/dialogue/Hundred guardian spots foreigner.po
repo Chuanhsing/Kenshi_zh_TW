@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:0
+msgid "Carrying a sword doesn't make you a warrior. Using it does."
+msgstr ""
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:1
+msgid "Glory doesn't come to us. We rip it from our enemies with our own hands."
+msgstr ""
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:2
+msgid "A /MEMAN/ without enemies is a victim who bends to others."
+msgstr ""
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:3
+msgid "Death is nothing. But living a life in fear of it means you are already dead."
+msgstr ""
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:4
+msgid "I'll die a proud death than live a life of shame."
+msgstr ""
+
+#. Id: 53697-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53697-Dialogue.mod:5
+msgid "A true warrior faces every enemy, whatever the odds."
+msgstr ""
+
+#. Id: 53698-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53697-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53698-Dialogue.mod:1
+msgid "Courage."
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:0
+msgid "I need action. My sword thirsts for blood!"
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:1
+msgid "My bones grow stiffer by the day. When is the next battle?"
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:2
+msgid "Peace is dull. Bring me blood."
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:3
+msgid "The Shek Kingdom will rule the lands. We'll take back what is ours."
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:4
+msgid "The Okranite dogs will feel the might of the Shek."
+msgstr ""
+
+#. Id: 53699-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53699-Dialogue.mod:5
+msgid "The sounds of blade to flesh, the feel of death's calling... It's been too long. I miss the battlefield."
+msgstr ""
+
+#. Id: 53700-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 53700-Dialogue.mod:0
+msgid "/FLATSKIN/s flap their gums too much."
+msgstr ""
+
+#. Id: 53700-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 53700-Dialogue.mod:1
+msgid "/FLATSKIN/s talk too much."
+msgstr ""
+
+#. Id: 53701-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 53701-Dialogue.mod:0
+msgid "My sword is stained with the blood of a hundred enemies. What of yours, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 53701-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 53701-Dialogue.mod:1
+msgid "Hmph. You wear that sword for decoration, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 53701-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 53701-Dialogue.mod:2
+msgid "Hmph. Know how to use that blade, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 53701-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 53701-Dialogue.mod:3
+msgid "Hm hm. Call that a sword, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 53706-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 53706-Dialogue.mod:0
+msgid "Hmph. More outsiders. First our cities fall, next we welcome the /FLATSKIN/ with open arms. What next..."
+msgstr ""
+
+#. Id: 53707-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53707-Dialogue.mod:0
+msgid "I'd have died on the holy plains if not for the Stone Golem..."
+msgstr ""
+
+#. Id: 53708-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53707-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots foreigner
+#: 53708-Dialogue.mod:0
+msgid "And I'd have take a hundred Okran dogs with me... But instead I'm stuck here. Hmph."
+msgstr ""
+

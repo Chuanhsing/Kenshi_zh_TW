@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18329-Dialogue.mod:0
+msgid "Well, well, well!"
+msgstr ""
+
+#. Id: 18339-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18329-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18339-Dialogue.mod:0
+msgid "Looks like I finally tracked down the famous /YOURNAME/..."
+msgstr ""
+
+#. Id: 18340-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18340-Dialogue.mod:0
+msgid "Say goodbye to your freedom, /YOURNAME/... Today you're going to jail!"
+msgstr ""
+
+#. Id: 18342-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18342-Dialogue.mod:0
+msgid "/YOURNAME/! You won't get away from me..."
+msgstr ""
+
+#. Id: 18343-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18342-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18343-Dialogue.mod:0
+msgid "Come with me, I'm taking you on a nice trip..."
+msgstr ""
+
+#. Id: 18344-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18344-Dialogue.mod:0
+msgid "First stop: Jail!"
+msgstr ""
+
+#. Id: 18345-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18345-Dialogue.mod:0
+msgid "Goodbye freedom, hello sweet bounty reward!"
+msgstr ""
+
+#. Id: 18347-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18347-Dialogue.mod:0
+msgid "Stop RIGHT there!"
+msgstr ""
+
+#. Id: 18324-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18347-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18324-Dialogue.mod:0
+msgid "I, the champion of all bounty hunters, stand for peace and justice..."
+msgstr ""
+
+#. Id: 18326-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18324-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18326-Dialogue.mod:0
+msgid "And on behalf of the law... I will defeat you!"
+msgstr ""
+
+#. Id: 18327-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18326-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18327-Dialogue.mod:0
+msgid "Prepare to be thwarted, outlaw!"
+msgstr ""
+
+#. Id: 18350-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18350-Dialogue.mod:0
+msgid "So. The illusive /YOURNAME/ finally shows /HIS/ face..."
+msgstr ""
+
+#. Id: 18351-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18351-Dialogue.mod:0
+msgid "You're a tough one to track down, ya know..."
+msgstr ""
+
+#. Id: 18352-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18351-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18352-Dialogue.mod:0
+msgid "... But NOW I finally get to claim my bounty reward!"
+msgstr ""
+
+#. Id: 18359-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18359-Dialogue.mod:0
+msgid "The hunter finally tracks it's prey..."
+msgstr ""
+
+#. Id: 18368-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18359-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18368-Dialogue.mod:0
+msgid "Animals like you need to be caged, /YOURNAME/... "
+msgstr ""
+
+#. Id: 18370-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18368-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18370-Dialogue.mod:0
+msgid "Surrender yourself, criminal!"
+msgstr ""
+
+#. Id: 18366-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18366-Dialogue.mod:0
+msgid "/YOURNAME/, your little crime spree ends here..."
+msgstr ""
+
+#. Id: 18366-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18366-Dialogue.mod:1
+msgid "/YOURNAME/, I've come to claim your bounty..."
+msgstr ""
+
+#. Id: 18366-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18366-Dialogue.mod:2
+msgid "You've escaped the law for far too long, /YOURNAME/..."
+msgstr ""
+
+#. Id: 18366-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18366-Dialogue.mod:3
+msgid "I've come to put a stop to your crimes, /YOURNAME/..."
+msgstr ""
+
+#. Id: 18367-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18367-Dialogue.mod:0
+msgid "Today I'm sending you to prison, where you belong, outlaw!"
+msgstr ""
+
+#. Id: 18367-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18367-Dialogue.mod:1
+msgid "Today you're going to jail, outlaw, once and for all!"
+msgstr ""
+
+#. Id: 18367-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18367-Dialogue.mod:2
+msgid "I'm taking you to jail, outlaw! Give yourself up!"
+msgstr ""
+
+#. Id: 18377-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18377-Dialogue.mod:0
+msgid "/MERCLAUGH/! Foolish outlaw!"
+msgstr ""
+
+#. Id: 18379-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18379-Dialogue.mod:0
+msgid "You walked right into my trap, dumbass! "
+msgstr ""
+
+#. Id: 18380-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18379-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18380-Dialogue.mod:0
+msgid "/MERCLAUGH/! I'll be able to buy my own CITY with your bounty!"
+msgstr ""
+
+#. Id: 18382-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18380-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18382-Dialogue.mod:0
+msgid "You're going down! "
+msgstr ""
+
+#. Id: 18384-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18384-Dialogue.mod:0
+msgid "/OI/! Criminal scum! Give yourself up!"
+msgstr ""
+
+#. Id: 18384-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18384-Dialogue.mod:1
+msgid "/OI/! Criminal trash! I've got you now!"
+msgstr ""
+
+#. Id: 18384-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18384-Dialogue.mod:2
+msgid "/OI/, /PLAYERNAME/! We can do this the easy way or the hard way..."
+msgstr ""
+
+#. Id: 18385-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18385-Dialogue.mod:0
+msgid "Your bounty's mine!"
+msgstr ""
+
+#. Id: 18385-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18385-Dialogue.mod:1
+msgid "I'm here to claim that bounty of yours!"
+msgstr ""
+
+#. Id: 18385-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH bounty hunter
+#: 18385-Dialogue.mod:2
+msgid "I'm takin' that bounty of yours!"
+msgstr ""
+

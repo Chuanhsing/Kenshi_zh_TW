@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51760-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51760-Dialogue.mod:0
+msgid "Useless slave... starting to think I should just cut my losses and make goat-feed out of his scrawny carcass. Bought him last year and the cretin can't even speak let alone do what he's goddamn told... Hoy, I need an upgrade, fast."
+msgstr ""
+
+#. Id: 51762-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51762-Dialogue.mod:0
+msgid "Aye, got no tongue, past owner cut it out. He can be a pretty feisty one so can't say I blame 'em for it. I can just picture the bastard givin' lip, probably woulda done the same myself...  I tell ya, I need to make my money back somehow, don't care if I gotta make bonemeal outta the good-for-nothing meat sack."
+msgstr ""
+
+#. Id: 51763-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. Id: 53404-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51777-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51763-Dialogue.mod:0 53404-Dialogue.mod:0
+msgid "How about I pay you for his freedom?"
+msgstr ""
+
+#. Id: 51764-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51763-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51764-Dialogue.mod:0
+msgid "Freedom? Why the hell do you care about this cretin's freedom, slave-lover?... But I tell you what, if it get's him outta my hair and it gets Cats in my pocket then I can consider I suppose. 1000, that's what I payed for him, what are you saying? "
+msgstr ""
+
+#. Id: 51766-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51766-Dialogue.mod:0
+msgid "A slave's a slave, /OUTLANDER/, ha, this cretin wouldn't know freedom if it hit him square in the eyes."
+msgstr ""
+
+#. Id: 51767-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#: 51767-Dialogue.mod:0
+msgid "On second thought, I can't afford that right now."
+msgstr ""
+
+#. Id: 51768-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51767-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51768-Dialogue.mod:0
+msgid "Changed your mind, eh? Don't blame you, the waste of air ain't worth the Cats."
+msgstr ""
+
+#. Id: 51769-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51769-Dialogue.mod:0
+msgid "Wait, what? Slave-lover? I'm no slave-lover, forget it."
+msgstr ""
+
+#. Id: 51770-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51769-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51770-Dialogue.mod:0
+msgid "Protecting slaves with your Cats... if that don't make you a slave-lover, I don't know what does..."
+msgstr ""
+
+#. Id: 51771-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51770-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51771-Dialogue.mod:0
+msgid "But I'll tell you one thing, anti-slavers aren't welcome around here. Watch yourself."
+msgstr ""
+
+#. Id: 53406-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51771-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1000, Tag: -1
+#: 53406-Dialogue.mod:0
+msgid "... Fine, just sell me your slave."
+msgstr ""
+
+#. Id: 53407-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51771-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 53407-Dialogue.mod:0
+msgid "Forget it, I'm no slave-lover..."
+msgstr ""
+
+#. Id: 51772-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51772-Dialogue.mod:0
+msgid "Actually, I've changed my mind, sorry."
+msgstr ""
+
+#. Id: 51773-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51773-Dialogue.mod:0
+msgid "Don't blame you, the waste of air isn't worth the Cats."
+msgstr ""
+
+#. Id: 51774-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51774-Dialogue.mod:0
+msgid "Then sell him back, don't just kill him. What's wrong with you?"
+msgstr ""
+
+#. Id: 51780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51780-Dialogue.mod:0
+msgid "Good luck with that then..."
+msgstr ""
+
+#. Id: 51781-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51781-Dialogue.mod:0
+msgid "Waste of air is what he is..."
+msgstr ""
+
+#. Id: 51782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51762-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51782-Dialogue.mod:0
+msgid "You're a heartless scumbag. I'm not listening to this anymore."
+msgstr ""
+
+#. Id: 51783-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51782-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51783-Dialogue.mod:0
+msgid "Me a scumbag?! You're the freak that's going around sympathizing with slaves! They're SLAVES, not people! Oughta keep those primitive opinions to yourself, /OUTLANDER/, it isn't welcome 'round here..."
+msgstr ""
+
+#. Id: 51778-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51778-Dialogue.mod:0
+msgid "Now get out of here, slave-lover, before I call the guards."
+msgstr ""
+
+#. Id: 51775-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51775-Dialogue.mod:0
+msgid "Surely a silent slave is a good slave?"
+msgstr ""
+
+#. Id: 51779-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51775-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51779-Dialogue.mod:0
+msgid "Silent and obedient, sure. But silent, stubborn and lazy... no, that's a bad slave, and I tell ya, I need to make my money back somehow, don't care if I gotta make bonemeal outta the good-for-nothing meat sack."
+msgstr ""
+
+#. Id: 51776-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51776-Dialogue.mod:0
+msgid "He's a living being, what's wrong with you?!"
+msgstr ""
+
+#. Id: 51777-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51776-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51777-Dialogue.mod:0
+msgid "What's wrong with ME? You're the freak who's going around sympathizing with slaves. They're SLAVES, not people! Oughta keep those primitive opinions to yourself, /OUTLANDER/, it isn't welcome 'round here..."
+msgstr ""
+
+#. Id: 53405-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 53405-Dialogue.mod:0
+msgid "Alright, slave-lover. It's pretty messed up that you got a soft spot for this useless meatbag here, but if it get's him outta my hair and it gets Cats in my pocket then I can consider I suppose. 1000, that's what I payed for him, what are you saying? "
+msgstr ""
+
+#. Id: 51787-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 51787-Dialogue.mod:0
+msgid "Not interested in your ranting. Bore somebody else."
+msgstr ""
+
+#. Id: 51788-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire pro-slave
+#: 51788-Dialogue.mod:0
+msgid "The hell's your problem..."
+msgstr ""
+

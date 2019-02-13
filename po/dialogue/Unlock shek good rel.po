@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11505-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11504-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11505-Dialogue?(10).mod:0
+msgid "We should leave now"
+msgstr ""
+
+#. Id: 11505-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11504-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11505-Dialogue?(10).mod:1
+msgid "We should make a run for it while we can"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:0
+msgid "I'll gather my brethren and return for their heads another day"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:1
+msgid "I'll gather my brethren and even the score another time"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:2
+msgid "I'll settle the score with them another time"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:3
+msgid "I'll come back for them soon, don't you worry"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:4
+msgid "I'll be back for their heads by sunset"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:5
+msgid "They won't get away with this. I'll gather my brethren and bleed them dry"
+msgstr ""
+
+#. Id: 11506-Dialogue (10).mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (11505-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11506-Dialogue?(10).mod:6
+msgid "They will taste the wrath of Kral"
+msgstr ""
+
+#. Id: 11507-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11507-Dialogue?(10).mod:0
+msgid "Well done, /BROTHER/"
+msgstr ""
+
+#. Id: 11507-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11507-Dialogue?(10).mod:2
+msgid "Shrewdly done, /BROTHER/"
+msgstr ""
+
+#. Id: 11508-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11507-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11508-Dialogue?(10).mod:0
+msgid "We shouldn't hang around here too long"
+msgstr ""
+
+#. Id: 11508-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11507-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11508-Dialogue?(10).mod:1
+msgid "We should get out while we can"
+msgstr ""
+
+#. Id: 11508-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11507-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11508-Dialogue?(10).mod:2
+msgid "We should leave while we can"
+msgstr ""
+
+#. Id: 11509-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11508-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11509-Dialogue?(10).mod:0
+msgid "I'll be back for them soon though. I'll skin them alive."
+msgstr ""
+
+#. Id: 11509-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11508-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11509-Dialogue?(10).mod:1
+msgid "I'll return for them soon though. I'll tear them inside out."
+msgstr ""
+
+#. Id: 11509-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (11508-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11509-Dialogue?(10).mod:2
+msgid "You have my word, I'll come back for them. And I'll slice their necks."
+msgstr ""
+
+#. Id: 11509-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (11508-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11509-Dialogue?(10).mod:3
+msgid "I promise you, I'll be back for them. And I'll rip their heads from their necks."
+msgstr ""
+
+#. Id: 11509-Dialogue (10).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (11508-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 11509-Dialogue?(10).mod:4
+msgid "Mark my words, I'll be back for them one day. And it won't be pretty."
+msgstr ""
+
+#. Id: 14883-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock shek good rel
+#: 14883-Dialogue.mod:0
+msgid "See you on the other side, /BROTHER/"
+msgstr ""
+

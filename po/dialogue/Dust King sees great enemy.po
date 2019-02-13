@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45239-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#: 45239-Dialogue.mod:0
+msgid "Rrrrgh!! You again!?"
+msgstr ""
+
+#. Id: 45244-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. Id: 7943-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 45244-Dialogue.mod:0 7943-Dialogue.mod:2
+msgid "I'll /CUT/ those smirks right off your ugly /GODDAMN/ faces!"
+msgstr ""
+
+#. Id: 45244-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. Id: 45245-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45244-Dialogue.mod:1 45245-Dialogue.mod:1
+msgid "I'll kill you! I /CUT/ you into /GODDAM/ jerky!"
+msgstr ""
+
+#. Id: 45244-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45244-Dialogue.mod:2
+msgid "You're dead meat! The lot of you!"
+msgstr ""
+
+#. Id: 45245-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. Id: 7937-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang bad relations
+#: 45245-Dialogue.mod:0 7937-Dialogue.mod:2
+msgid "I'll /CUT/ that smirk right off your ugly /GODDAMN/ face!"
+msgstr ""
+
+#. Id: 45245-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45245-Dialogue.mod:2
+msgid "You're dead meat! I'll /SLITYOURTHROAT/!"
+msgstr ""
+
+#. Id: 45247-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45247-Dialogue.mod:0
+msgid "Should never have messed with my bandits!"
+msgstr ""
+
+#. Id: 45247-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (45245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45247-Dialogue.mod:1
+msgid "You DON'T mess with the Dust Bandits!"
+msgstr ""
+
+#. Id: 45262-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45262-Dialogue.mod:0
+msgid "Get off my damn land, meatbag! "
+msgstr ""
+
+#. Id: 45268-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45268-Dialogue.mod:0
+msgid "You won't beat me this time, meatbag! "
+msgstr ""
+
+#. Id: 45273-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45273-Dialogue.mod:0
+msgid "Still alive, eh? Looks like I didn't kill you enough last time!"
+msgstr ""
+
+#. Id: 45278-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45273-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees great enemy
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45278-Dialogue.mod:0
+msgid "This time I'll finish the job! Come 'ere!"
+msgstr ""
+

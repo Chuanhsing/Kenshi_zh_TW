@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66041-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 65978-Dialogue.mod:0 66041-Dialogue.mod:0
+msgid "The Forbidden Zone lies beyond, the way to the Ashlands..."
+msgstr ""
+
+#. Id: 65979-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65979-Dialogue.mod:0
+msgid "Survivors who've journeyed through here are hard to come by... People don't tend to come back alive."
+msgstr ""
+
+#. Id: 65981-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65980-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65981-Dialogue.mod:0
+msgid "They find skinless corpses in The Pits, say there's mist ghouls that flay and eat you..."
+msgstr ""
+
+#. Id: 65982-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65982-Dialogue.mod:0
+msgid "... Mist ghouls don't exist."
+msgstr ""
+
+#. Id: 65983-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65982-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65983-Dialogue.mod:0
+msgid "How do you know? "
+msgstr ""
+
+#. Id: 65984-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65983-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65984-Dialogue.mod:0
+msgid "I know a guy who knew another guy that knew this woman..."
+msgstr ""
+
+#. Id: 66074-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65984-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66074-Dialogue.mod:0
+msgid "Who's second uncle saw one while he was selling cactus rum outside Crab Town."
+msgstr ""
+
+#. Id: 65985-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65985-Dialogue.mod:0
+msgid "Not real."
+msgstr ""
+
+#. Id: 65991-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65985-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65991-Dialogue.mod:0
+msgid "I think Ju's Uncle would disagree."
+msgstr ""
+
+#. Id: 65992-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66092-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (66088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65992-Dialogue.mod:0 66092-Dialogue.mod:0
+msgid "Not. Real."
+msgstr ""
+
+#. Id: 65986-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (65987-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65986-Dialogue.mod:0
+msgid "They're real, I saw one once. It told me to eat more greenfruits, then turned into a purple bonedog and melted into..."
+msgstr ""
+
+#. Id: 65988-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (65986-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65988-Dialogue.mod:0
+msgid "... Wait."
+msgstr ""
+
+#. Id: 65989-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (65988-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65989-Dialogue.mod:0
+msgid "Wait, yeah I remember, it was a dream."
+msgstr ""
+
+#. Id: 65990-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (65989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 65990-Dialogue.mod:0
+msgid "... Just stop talking."
+msgstr ""
+
+#. Id: 66076-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66067-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 96958-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96957-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66076-Dialogue.mod:0 96958-Dialogue.mod:0
+msgid "I hear tales of skinless corpses in The Pits... Mist ghouls that flay and devour you..."
+msgstr ""
+
+#. Id: 66077-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66076-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66077-Dialogue.mod:0
+msgid "Is that fear I hear in your voice, shek?"
+msgstr ""
+
+#. Id: 66078-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66077-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66078-Dialogue.mod:0
+msgid "Hmph! Never."
+msgstr ""
+
+#. Id: 66079-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66078-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66079-Dialogue.mod:0
+msgid "But I prefer to know my enemy... Not to fight invisible ghouls."
+msgstr ""
+
+#. Id: 66081-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (66079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66081-Dialogue.mod:0
+msgid "Lucky for you, mist ghouls aren't real."
+msgstr ""
+
+#. Id: 66082-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66081-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66082-Dialogue.mod:0
+msgid "They're the manifestation of a cowardly human's fear, the tales say..."
+msgstr ""
+
+#. Id: 66083-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (66082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. -- Condition: My Race(s): Greenlander
+#: 66083-Dialogue.mod:0
+msgid "Now you're just being rude."
+msgstr ""
+
+#. Id: 66084-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (66083-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66088-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (66085-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66084-Dialogue.mod:0 66088-Dialogue.mod:0
+msgid "Forever hungry, feeding on the living's fear and flesh, but never satiated."
+msgstr ""
+
+#. Id: 66086-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (66084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66086-Dialogue.mod:0
+msgid "So, so cowardly and fearful, the humans..."
+msgstr ""
+
+#. Id: 66087-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (66086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#. Id: 66091-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (66090-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66087-Dialogue.mod:0 66091-Dialogue.mod:0
+msgid "... You're an ass."
+msgstr ""
+
+#. Id: 66085-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (66082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66085-Dialogue.mod:0
+msgid "...They're not real."
+msgstr ""
+
+#. Id: 66089-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (66092-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66089-Dialogue.mod:0
+msgid "So, so cowardly and fearful, the humans."
+msgstr ""
+
+#. Id: 66049-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66049-Dialogue.mod:0
+msgid "This is it, the Forbidden Zone. Past here is the Ashlands..."
+msgstr ""
+
+#. Id: 66050-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66050-Dialogue.mod:0
+msgid "And no one comes back from the Ashlands. This is the true test of a real Tech Hunter. "
+msgstr ""
+
+#. Id: 66069-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66069-Dialogue.mod:0
+msgid "Curiosity... The Forbidden Zone lies beyond, the way to the Ashlands..."
+msgstr ""
+
+#. Id: 66075-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66069-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66075-Dialogue.mod:0
+msgid "Legend says nobody returns from the ash."
+msgstr ""
+
+#. Id: 66094-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66094-Dialogue.mod:0
+msgid "... Let them come! They'll rue the day they tried to flay a Shek Warrior!"
+msgstr ""
+
+#. Id: 66096-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66096-Dialogue.mod:0
+msgid "Mmmmh!!!"
+msgstr ""
+
+#. Id: 66101-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (66097-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66101-Dialogue.mod:0
+msgid "TRY AND FLAY US, MIST GHOULS, I DARE YOU!"
+msgstr ""
+
+#. Id: 66105-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (66101-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66105-Dialogue.mod:0
+msgid "COME OUT, MIST GHOULS, UNLESS YOU'RE TOO SCARED!"
+msgstr ""
+
+#. Id: 66104-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (66103-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66104-Dialogue.mod:0
+msgid "I'm going to die here, aren't I..."
+msgstr ""
+
+#. Id: 66107-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (66108-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66107-Dialogue.mod:0
+msgid "Such intelligent comrades I've chosen for myself..."
+msgstr ""
+
+#. Id: 66099-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (66098-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt 1
+#: 66099-Dialogue.mod:0
+msgid "MMH!!"
+msgstr ""
+

@@ -1,0 +1,1001 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19232-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 19232-Dialogue.mod:0
+msgid "... Y- yes? "
+msgstr ""
+
+#. Id: 19232-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 17179-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17122-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy nation gate - Dark beasts in party
+#: 19232-Dialogue.mod:1 17179-Dialogue.mod:0
+msgid "... Yes?"
+msgstr ""
+
+#. Id: 19232-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 19232-Dialogue.mod:2
+msgid "... Wh- what is it?"
+msgstr ""
+
+#. Id: 19234-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19234-Dialogue.mod:0
+msgid "Uh... you looking for work?"
+msgstr ""
+
+#. Id: 19234-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19234-Dialogue.mod:1
+msgid "... You a merc by any chance?"
+msgstr ""
+
+#. Id: 19234-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19234-Dialogue.mod:2
+msgid "Um... need a job by any chance?"
+msgstr ""
+
+#. Id: 19234-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19234-Dialogue.mod:3
+msgid "Er... looking for work? I need recruits."
+msgstr ""
+
+#. Id: 19235-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19235-Dialogue.mod:0
+msgid "... Yes. I charge 3000 Cats. Will we be leaving the city?"
+msgstr ""
+
+#. Id: 19235-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19235-Dialogue.mod:1
+msgid "... Actually, yes... My price is 3000 Cats. Will we be travelling out of town?"
+msgstr ""
+
+#. Id: 19235-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (19234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19235-Dialogue.mod:2
+msgid "... That's right. I charge 3000 Cats... You from out of town?"
+msgstr ""
+
+#. Id: 19235-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (19234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19235-Dialogue.mod:3
+msgid "... Yes. My fee is 3000 Cats... Are you heading out?"
+msgstr ""
+
+#. Id: 42242-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 42242-Dialogue.mod:0
+msgid "That's right. Join /MEUS/."
+msgstr ""
+
+#. Id: 42242-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 42242-Dialogue.mod:1
+msgid "That's right. Will you join /MEUS/?"
+msgstr ""
+
+#. Id: 42242-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (19235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 42242-Dialogue.mod:2
+msgid "That's right. How about we /TEAMUP/?"
+msgstr ""
+
+#. Id: 19260-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19260-Dialogue.mod:0
+msgid "Nevermind actually"
+msgstr ""
+
+#. Id: 19260-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19235-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19260-Dialogue.mod:1
+msgid "On second thought, I'm not interested"
+msgstr ""
+
+#. Id: 42240-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42240-Dialogue.mod:0
+msgid "You seem nervous..."
+msgstr ""
+
+#. Id: 42240-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42240-Dialogue.mod:1
+msgid "Why so nervous?"
+msgstr ""
+
+#. Id: 42240-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42240-Dialogue.mod:2
+msgid "Something wrong?"
+msgstr ""
+
+#. Id: 42240-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42240-Dialogue.mod:3
+msgid "Is something the matter?"
+msgstr ""
+
+#. Id: 42240-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (19232-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42240-Dialogue.mod:4
+msgid "Not very talkative, are you?"
+msgstr ""
+
+#. Id: 42241-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42241-Dialogue.mod:0
+msgid "... Well... It- it's more appropriate of me if I keep my distance from you, holy brother. I wouldn't want to offend you... I guess you're from outside, huh?... I'm looking for work outside..."
+msgstr ""
+
+#. Id: 42241-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42241-Dialogue.mod:1
+msgid "Not- not at all... It would be inappropriate of me to act too familiarly with a pure hearted son of Okran... But I suppose you're not from around here, huh?.. You know, I'm actually looking for work outside of the city... "
+msgstr ""
+
+#. Id: 42241-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42241-Dialogue.mod:2
+msgid "... It's just, um, best that I keep my distance, the pure heart males of Okran need their space after all... You're not from around here are you? You know, I'm looking for work outside of the city..."
+msgstr ""
+
+#. Id: 42246-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42246-Dialogue.mod:0
+msgid "/IWE/ could use more recruits. What are you charging?"
+msgstr ""
+
+#. Id: 42246-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42246-Dialogue.mod:1
+msgid "/IWE/ could use an extra sword. What's your fee?"
+msgstr ""
+
+#. Id: 42246-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42246-Dialogue.mod:2
+msgid "Is that right, now? How much are you charging?"
+msgstr ""
+
+#. Id: 42246-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42246-Dialogue.mod:3
+msgid "I may be interested. How much?"
+msgstr ""
+
+#. Id: 42247-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42247-Dialogue.mod:0
+msgid "Sorry, /IMWERE/ not hiring right now"
+msgstr ""
+
+#. Id: 42247-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42247-Dialogue.mod:1
+msgid "Sorry, I'm not interested in recruiting"
+msgstr ""
+
+#. Id: 42247-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42241-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42247-Dialogue.mod:2
+msgid "I'm not hiring, sorry"
+msgstr ""
+
+#. Id: 19233-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 19233-Dialogue.mod:0
+msgid "It's not easy being a woman in this town, huh /OUTLANDER/?"
+msgstr ""
+
+#. Id: 19236-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19236-Dialogue.mod:0
+msgid "Sister, need a merc? We women need to stick together, stick it to those self-righteous /TINCAN/s."
+msgstr ""
+
+#. Id: 19248-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19248-Dialogue.mod:0
+msgid "3000 Cats is my price. Just the bare fees for me."
+msgstr ""
+
+#. Id: 19248-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19248-Dialogue.mod:1
+msgid "The bare minimum. I charge 3000 Cats."
+msgstr ""
+
+#. Id: 19248-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (19245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19248-Dialogue.mod:2
+msgid "Just the standard, 3000 Cats."
+msgstr ""
+
+#. Id: 19248-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (19245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19248-Dialogue.mod:3
+msgid "My fee is 3000 Cats."
+msgstr ""
+
+#. Id: 19253-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19253-Dialogue.mod:0
+msgid "Welcome aboard"
+msgstr ""
+
+#. Id: 19253-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19393-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>7500, Tag: -1
+#. Id: 41313-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire bard
+#. Id: 47113-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 19253-Dialogue.mod:1 19393-Dialogue.mod:0 41313-Dialogue.mod:0 47113-Dialogue.mod:0
+msgid "Deal!"
+msgstr ""
+
+#. Id: 19253-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19413-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19253-Dialogue.mod:2 19413-Dialogue.mod:2
+msgid "It's a deal"
+msgstr ""
+
+#. Id: 19256-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 19256-Dialogue.mod:1
+msgid "I'm out of Cats..."
+msgstr ""
+
+#. Id: 19256-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 19256-Dialogue.mod:3
+msgid "I don't have the funds..."
+msgstr ""
+
+#. Id: 19246-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19236-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19246-Dialogue.mod:0
+msgid "Big talk. Got the skills to back it up?"
+msgstr ""
+
+#. Id: 19249-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19246-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19249-Dialogue.mod:0
+msgid "Skills... I have little skill to offer... but what I lack in skill I make up for in spirit!"
+msgstr ""
+
+#. Id: 19250-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19249-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19250-Dialogue.mod:0
+msgid "So you're useless, in other words... Forget it."
+msgstr ""
+
+#. Id: 19251-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19249-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19251-Dialogue.mod:0
+msgid "Great. How much are you charging?"
+msgstr ""
+
+#. Id: 19238-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 19238-Dialogue.mod:0
+msgid "Sister, are you looking for a hireling?"
+msgstr ""
+
+#. Id: 19238-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 19238-Dialogue.mod:1
+msgid "/HI/ sister, you here to hire?"
+msgstr ""
+
+#. Id: 19238-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 19238-Dialogue.mod:2
+msgid "Are you looking to hire, sister?"
+msgstr ""
+
+#. Id: 19238-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 19238-Dialogue.mod:3
+msgid "Sister, I'm looking for work, need a hireling?"
+msgstr ""
+
+#. Id: 19238-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 19238-Dialogue.mod:4
+msgid "I'm looking for work, you looking to /TEAMUP/, sister?"
+msgstr ""
+
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19240-Dialogue.mod:0
+msgid "I am. How much?"
+msgstr ""
+
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19240-Dialogue.mod:1
+msgid "I am. What's your price?"
+msgstr ""
+
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19240-Dialogue.mod:2
+msgid "I am. What's your cost?"
+msgstr ""
+
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19240-Dialogue.mod:3
+msgid "Yes. How much are you charging?"
+msgstr ""
+
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19240-Dialogue.mod:4
+msgid "I am. What's your charge?"
+msgstr ""
+
+#. Id: 19261-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 19261-Dialogue.mod:0
+msgid "/HI/ again, sister."
+msgstr ""
+
+#. Id: 19261-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 19261-Dialogue.mod:1
+msgid "Good to see you again, sister."
+msgstr ""
+
+#. Id: 19261-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 19261-Dialogue.mod:2
+msgid "Back already I see, sister?"
+msgstr ""
+
+#. Id: 19268-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19268-Dialogue.mod:1
+msgid "Change of plan, you're hired."
+msgstr ""
+
+#. Id: 19268-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19268-Dialogue.mod:2
+msgid "Had a change of heart, you're hired."
+msgstr ""
+
+#. Id: 19268-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (19261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19268-Dialogue.mod:3
+msgid "I'd like to hire you after all."
+msgstr ""
+
+#. Id: 19268-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (19261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19268-Dialogue.mod:4
+msgid "I want to hire you. Still looking for work?"
+msgstr ""
+
+#. Id: 19312-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 19312-Dialogue.mod:0
+msgid "My little sister was burned to death during one of the Inquisitor's heretic hunts last month...  Now they've turned their attention to me... they say I'm tainted..."
+msgstr ""
+
+#. Id: 19313-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19313-Dialogue.mod:0
+msgid "So here I am, selling my life as a sellsword, for a meager 3000 Cats... So my question is, are you adventuring out, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 19314-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19314-Dialogue.mod:0
+msgid "I am. You're welcome to escape with /MEUS/."
+msgstr ""
+
+#. Id: 19318-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19318-Dialogue.mod:0
+msgid "You have no idea how much this helps me. I won't let you down."
+msgstr ""
+
+#. Id: 19320-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19318-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19320-Dialogue.mod:0
+msgid "Take me away from this cursed place"
+msgstr ""
+
+#. Id: 19315-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19315-Dialogue.mod:0
+msgid "I am. But there's no way in hell I'm hiring a tainted woman."
+msgstr ""
+
+#. Id: 41175-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 41175-Dialogue.mod:0
+msgid "... I- I see..."
+msgstr ""
+
+#. Id: 19316-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19316-Dialogue.mod:0
+msgid "That's awful. Join /MEUS/, one day we'll avenge her death!"
+msgstr ""
+
+#. Id: 19319-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19316-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19319-Dialogue.mod:0
+msgid "I would love nothing more. I won't let you down."
+msgstr ""
+
+#. Id: 19317-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 19317-Dialogue.mod:0
+msgid "Sorry, I can't help you. "
+msgstr ""
+
+#. Id: 42415-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42415-Dialogue.mod:0
+msgid "You wish to speak with me, holy brother? "
+msgstr ""
+
+#. Id: 42415-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42415-Dialogue.mod:1
+msgid "Can I be of assistance, holy brother?"
+msgstr ""
+
+#. Id: 42415-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42415-Dialogue.mod:2
+msgid "How may I help you, holy brother?"
+msgstr ""
+
+#. Id: 42415-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42415-Dialogue.mod:3
+msgid "Holy brother, did you want something?"
+msgstr ""
+
+#. Id: 42415-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 42415-Dialogue.mod:4
+msgid "Holy brother, you wish to speak with me?"
+msgstr ""
+
+#. Id: 42417-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42417-Dialogue.mod:0
+msgid "Are you here for work? I'm looking for recruits."
+msgstr ""
+
+#. Id: 42417-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42417-Dialogue.mod:1
+msgid "Are you here for work? I'm looking for hirelings."
+msgstr ""
+
+#. Id: 42417-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42417-Dialogue.mod:2
+msgid "You looking for work? I could use some recruits."
+msgstr ""
+
+#. Id: 42420-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42420-Dialogue.mod:0
+msgid "Oh, you're from out of town, huh? Actually I am looking for work. I charge 3000 Cats."
+msgstr ""
+
+#. Id: 42420-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42420-Dialogue.mod:1
+msgid "You're recruiting? Sure, I'm available, my fee is 3000 Cats."
+msgstr ""
+
+#. Id: 42420-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42420-Dialogue.mod:2
+msgid "I am indeed. My price is 3000 Cats."
+msgstr ""
+
+#. Id: 42420-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (42417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42420-Dialogue.mod:3
+msgid "Ah, you must be from out of town, perfect! I'm available for hire, 3000 Cats."
+msgstr ""
+
+#. Id: 42418-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42418-Dialogue.mod:0
+msgid "You dare speak to me, /TEMPTRESS/? The nerve!"
+msgstr ""
+
+#. Id: 42418-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42418-Dialogue.mod:1
+msgid "Did I tell you to speak, wretched woman?!"
+msgstr ""
+
+#. Id: 42421-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42421-Dialogue.mod:0
+msgid "I- I'm sorry, holy brother! Forgive my forwardness!"
+msgstr ""
+
+#. Id: 42421-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42421-Dialogue.mod:1
+msgid "Forgive me, holy brother! That was inappropriate of me!"
+msgstr ""
+
+#. Id: 42421-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42421-Dialogue.mod:2
+msgid "It was in bad taste of me to approach you, holy brother! Forgive me!"
+msgstr ""
+
+#. Id: 42419-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 42419-Dialogue.mod:0
+msgid "Forget it, sorry to bother you."
+msgstr ""
+
+#. Id: 42416-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 42416-Dialogue.mod:0
+msgid "I hope I'm not too forward speaking to you, brother. But you're from the outside, right? I'm looking for work outside of the city."
+msgstr ""
+
+#. Id: 42416-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 42416-Dialogue.mod:1
+msgid "Forgive me for being so forward, brother, but you're from the outlands, right? You looking for recruits?"
+msgstr ""
+
+#. Id: 42416-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 42416-Dialogue.mod:2
+msgid "You're not from around here, are you, brother? Forgive me for my forwardness but... are you looking to hire?"
+msgstr ""
+
+#. Id: 42416-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 42416-Dialogue.mod:3
+msgid "You're not from the holy nation, huh, brother? Forgive me for my brashness, but I'm looking for work outside of the city..."
+msgstr ""
+

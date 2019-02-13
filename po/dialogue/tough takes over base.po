@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98810-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 98810-Dialogue.mod:0
+msgid "Not the prettiest outpost..."
+msgstr ""
+
+#. Id: 98811-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98811-Dialogue.mod:0
+msgid "But it will do."
+msgstr ""
+
+#. Id: 98811-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (98810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98811-Dialogue.mod:1
+msgid "But it's something."
+msgstr ""
+
+#. Id: 98811-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (98810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98811-Dialogue.mod:2
+msgid "But I ain't one to refuse a free shelter."
+msgstr ""
+
+#. Id: 98812-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98812-Dialogue.mod:0
+msgid "... Check the stores."
+msgstr ""
+
+#. Id: 98813-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 98813-Dialogue.mod:0
+msgid "Say goodbye to your home..."
+msgstr ""
+
+#. Id: 98814-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98814-Dialogue.mod:0
+msgid "Because it's ours now."
+msgstr ""
+
+#. Id: 98814-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (98813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98814-Dialogue.mod:1
+msgid "It belongs to us now."
+msgstr ""
+
+#. Id: 98816-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98816-Dialogue.mod:0
+msgid "Get 'em out of here."
+msgstr ""
+
+#. Id: 98817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98816-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: tough takes over base
+#: 98817-Dialogue.mod:0
+msgid "They'll attract the gutters."
+msgstr ""
+

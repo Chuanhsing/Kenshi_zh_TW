@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:2 43745-Dialogue.mod:4 51526-Dialogue.mod:10
+msgid "Hmph?"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:4 51526-Dialogue.mod:12
+msgid "Buying?..."
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:5 43745-Dialogue.mod:8 51526-Dialogue.mod:13
+msgid "Mmh?.. Here to trade?"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:8 43745-Dialogue.mod:11 51526-Dialogue.mod:3
+msgid "... Here to trade, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:9 43745-Dialogue.mod:12 51526-Dialogue.mod:4
+msgid "... Here to buy, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:10 43745-Dialogue.mod:14 51526-Dialogue.mod:5
+msgid "... Need something?"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:12 43745-Dialogue.mod:2 51526-Dialogue.mod:7
+msgid "*Menacing stare*"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:13 51526-Dialogue.mod:8
+msgid "*Glare*"
+msgstr ""
+
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51595-Dialogue.mod:14 43745-Dialogue.mod:3 51526-Dialogue.mod:9
+msgid "Mmph?"
+msgstr ""
+
+#. Id: 51598-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 43746-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#. Id: 51533-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#: 51598-Dialogue.mod:1 43746-Dialogue.mod:1 51533-Dialogue.mod:1
+msgid "I'm here to trade"
+msgstr ""
+
+#. Id: 51598-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 43746-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#. Id: 51533-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#. Id: 42995-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (42991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader holy nation
+#: 51598-Dialogue.mod:2 43746-Dialogue.mod:2 51533-Dialogue.mod:2 42995-Dialogue.mod:4
+msgid "Show me what you've got"
+msgstr ""
+
+#. Id: 51599-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 51534-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#: 51599-Dialogue.mod:0 51534-Dialogue.mod:0
+msgid "I'd like info. What is this place?"
+msgstr ""
+
+#. Id: 51601-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51599-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 51601-Dialogue.mod:0
+msgid "This is the great shek capital, home to the courageous Stone Golem. Remember it well, one day it will be the capital of all the lands."
+msgstr ""
+
+#. Id: 51602-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51601-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#: 51602-Dialogue.mod:0
+msgid "Big talk. But the ruins outside seem to tell a different story..."
+msgstr ""
+
+#. Id: 51608-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51602-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 51608-Dialogue.mod:0
+msgid "A story of bravery and grit. The ruins are mere war scars. With the Stone Golem as our leader, the Shek Kingdom will rise as the most powerful nation once again and we'll retake our fallen cities. The fat Empire gluttons, the Okranite dogs, we'll crush them all and take the lands, mark my words..."
+msgstr ""
+
+#. Id: 51603-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51601-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#: 51603-Dialogue.mod:0
+msgid "And what of the ruined cities nearby?"
+msgstr ""
+
+#. Id: 51609-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51603-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 51609-Dialogue.mod:0
+msgid "They are mere scars of war. With the Stone Golem as our leader, the Shek Kingdom will rise as the most powerful nation once again and we'll retake our fallen cities. The fat Empire gluttons, the Okranite dogs, we'll crush them all and take the lands, mark my words..."
+msgstr ""
+
+#. Id: 51604-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51601-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#: 51604-Dialogue.mod:0
+msgid "Stone Golem?"
+msgstr ""
+
+#. Id: 51605-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51604-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 51605-Dialogue.mod:0
+msgid "The queen of this kingdom. You'd do well to remember her name. Respect."
+msgstr ""
+
+#. Id: 51606-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51601-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#: 51606-Dialogue.mod:0
+msgid "Can I see your supplies?"
+msgstr ""
+
+#. Id: 51607-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51601-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 50915-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Finch university dialogue
+#. Id: 51826-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51821-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51607-Dialogue.mod:0 50915-Dialogue.mod:0 51826-Dialogue.mod:0
+msgid "I see, thanks for the info."
+msgstr ""
+
+#. Id: 51600-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51595-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Admag
+#. Id: 43747-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek shopkeeper
+#. Id: 51535-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51526-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#: 51600-Dialogue.mod:0 43747-Dialogue.mod:0 51535-Dialogue.mod:0
+msgid "Nevermind, I'm leaving"
+msgstr ""
+
+#. Id: 51596-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43748-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 51527-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51596-Dialogue.mod:0 43748-Dialogue.mod:0 51527-Dialogue.mod:0
+msgid "Welcome, kin..."
+msgstr ""
+
+#. Id: 51596-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43748-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 51527-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51596-Dialogue.mod:1 43748-Dialogue.mod:1 51527-Dialogue.mod:1
+msgid "Good to see you, kin..."
+msgstr ""
+
+#. Id: 51596-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43748-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 51527-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51596-Dialogue.mod:2 43748-Dialogue.mod:2 51527-Dialogue.mod:2
+msgid "Greetings, kin..."
+msgstr ""
+
+#. Id: 51596-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43748-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 51527-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51596-Dialogue.mod:3 43748-Dialogue.mod:3 51527-Dialogue.mod:3
+msgid "Take a look around, kin..."
+msgstr ""
+
+#. Id: 51596-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 43748-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 51527-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51596-Dialogue.mod:4 43748-Dialogue.mod:4 51527-Dialogue.mod:4
+msgid "Need something, kin?"
+msgstr ""
+
+#. Id: 51597-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 51321-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 51528-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 51597-Dialogue.mod:0 51321-Dialogue.mod:0 51528-Dialogue.mod:0
+msgid "I'll warn you once: Leave, thief."
+msgstr ""
+
+#. Id: 51597-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 51321-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 51528-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 51597-Dialogue.mod:1 51321-Dialogue.mod:1 51528-Dialogue.mod:1
+msgid "You have spine showing your face here, thief."
+msgstr ""
+
+#. Id: 58567-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 58567-Dialogue.mod:0
+msgid "[They have an angry glint in their eye as they glare at you intensely]..."
+msgstr ""
+
+#. Id: 58568-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 58568-Dialogue.mod:0
+msgid "... A drink! To the Battle Born..."
+msgstr ""
+
+#. Id: 58572-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58568-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#: 58572-Dialogue.mod:0
+msgid "Honor to you, kin!"
+msgstr ""
+

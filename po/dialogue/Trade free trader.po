@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62758-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade free trader
+#: 62758-Dialogue.mod:0
+msgid "What are you after, /OUTLANDER/? Take a look."
+msgstr ""
+
+#. Id: 62758-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade free trader
+#: 62758-Dialogue.mod:1
+msgid "Got lots to offer, /OUTLANDER/, take a browse."
+msgstr ""
+
+#. Id: 62758-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade free trader
+#: 62758-Dialogue.mod:2
+msgid "I can sort you out, /OUTLANDER/, take a look at my stock."
+msgstr ""
+
+#. Id: 62758-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Trade free trader
+#: 62758-Dialogue.mod:3
+msgid "Let's sort you out a deal, /OUTLANDER/, take a look."
+msgstr ""
+
+#. Id: 62760-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62758-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade free trader
+#. Id: 50307-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 62760-Dialogue.mod:0 50307-Dialogue.mod:2
+msgid "Nevermind, I'm not interested."
+msgstr ""
+

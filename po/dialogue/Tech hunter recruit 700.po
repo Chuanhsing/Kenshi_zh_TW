@@ -1,0 +1,289 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50525-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50525-Dialogue.mod:0
+msgid "You must be looking to recruit fellow treasure hunters, am I right? I can join you for the usual price, 3000 Cats."
+msgstr ""
+
+#. Id: 50525-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50525-Dialogue.mod:1
+msgid "Looking for an extra pair of hands to take on your next tech hunt? I'll join you for 3000 Cats."
+msgstr ""
+
+#. Id: 50525-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50525-Dialogue.mod:2
+msgid "Need a pack gar for your next tech hunting trek? I can join you for 3000 Cats if you're interested, better than any gar ever was."
+msgstr ""
+
+#. Id: 50525-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50525-Dialogue.mod:3
+msgid "You there, you hiring? How about a pack gar? I can carry your equipment and I'll only charge you 3000 Cats if you'll take me on your next treasure hunt..."
+msgstr ""
+
+#. Id: 50525-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50525-Dialogue.mod:4
+msgid "Heading out on a tech hunting expedition? Got room for one more? I'll make myself useful for 3000 Cats, how about it?"
+msgstr ""
+
+#. Id: 50544-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50525-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 50529-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50528-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 50366-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50353-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50544-Dialogue.mod:0 50529-Dialogue.mod:1 50366-Dialogue.mod:0
+msgid "Sure, let's go."
+msgstr ""
+
+#. Id: 50544-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50525-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50544-Dialogue.mod:1
+msgid "Sure, you're hired!"
+msgstr ""
+
+#. Id: 50554-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50525-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. Id: 19702-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19698-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 50253-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#: 50554-Dialogue.mod:0 19702-Dialogue.mod:0 50253-Dialogue.mod:0
+msgid "Sorry, I'm not hiring."
+msgstr ""
+
+#. Id: 50538-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 50538-Dialogue.mod:0
+msgid "Ugh, great, yet another tech hunter to crow on about /HIS/ latest adventures..."
+msgstr ""
+
+#. Id: 50538-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 50538-Dialogue.mod:1
+msgid "If you're here to brag and boast about past adventures, save your breath, /OUTLANDER/. You're nothing special against any of the other hundreds of tech hunters 'round here..."
+msgstr ""
+
+#. Id: 50538-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 50538-Dialogue.mod:2
+msgid "Let me guess! Come to gloat about your tech hunting adventures over a refreshing rum?... Save your heroics for someone who cares, I've heard it all already in this bar..."
+msgstr ""
+
+#. Id: 50538-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 50538-Dialogue.mod:3
+msgid "I'll tell you what, World's End is full of hot air. All you adventurers are nothing but talk. I miss the good old days when I could enjoy a drink in silence..."
+msgstr ""
+
+#. Id: 50539-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50538-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#: 50539-Dialogue.mod:0
+msgid "Actually, I was looking to hire recruits..."
+msgstr ""
+
+#. Id: 50562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50539-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50562-Dialogue.mod:0
+msgid "Huh... Well, alright, I charge 3000 Cats."
+msgstr ""
+
+#. Id: 50562-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50539-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50562-Dialogue.mod:1
+msgid "Hiring recruits, eh... Well, my fee is 3000 Cats. Interested?"
+msgstr ""
+
+#. Id: 50562-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (50539-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#: 50562-Dialogue.mod:2
+msgid "Is that so... You're in luck. I charge 3000 Cats."
+msgstr ""
+
+#. Id: 50540-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50538-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#: 50540-Dialogue.mod:0
+msgid "Then enjoy your alone time, I'm leaving."
+msgstr ""
+
+#. Id: 50543-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: My Race(s): Skeleton
+#: 50543-Dialogue.mod:0
+msgid "You must be a treasure hunter, correct? Interested in hiring an extra adventurer? It will cost you 3000 Cats."
+msgstr ""
+
+#. Id: 50543-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: My Race(s): Skeleton
+#: 50543-Dialogue.mod:1
+msgid "Here on a tech hunt, /OUTLANDER/? I need a team if you need a merc. My fee is 3000 Cats."
+msgstr ""
+
+#. Id: 50543-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: My Race(s): Skeleton
+#: 50543-Dialogue.mod:2
+msgid "I'm looking for work if you're looking for fresh recruits, adventurer. 3000 Cats, are you interested?"
+msgstr ""
+
+#. Id: 50547-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#: 50547-Dialogue.mod:2
+msgid "You again? What is it?"
+msgstr ""
+
+#. Id: 50547-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#: 50547-Dialogue.mod:3
+msgid "You came back. What is it, you need something?"
+msgstr ""
+
+#. Id: 50555-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50547-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50555-Dialogue.mod:0
+msgid "I'd like to hire you."
+msgstr ""
+
+#. Id: 50555-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50547-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50555-Dialogue.mod:1
+msgid "I decided to recruit you."
+msgstr ""
+
+#. Id: 50555-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50547-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50555-Dialogue.mod:2
+msgid "I'm back to hire you."
+msgstr ""
+
+#. Id: 50558-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50547-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech hunter recruit 700
+#: 50558-Dialogue.mod:0
+msgid "It's nothing, sorry."
+msgstr ""
+

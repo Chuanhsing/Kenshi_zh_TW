@@ -1,0 +1,262 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18568-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#: 18568-Dialogue.mod:0
+msgid "You'll live to regret opposing noble blood, /PEASANT/!"
+msgstr ""
+
+#. Id: 18568-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#: 18568-Dialogue.mod:1
+msgid "You've made yourself a powerful enemy, /WORM/!"
+msgstr ""
+
+#. Id: 18568-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#: 18568-Dialogue.mod:2
+msgid "You won't get away with crossing ME, /PEASANT/!"
+msgstr ""
+
+#. Id: 18568-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#: 18568-Dialogue.mod:3
+msgid "You should never have crossed me, /WORM/!"
+msgstr ""
+
+#. Id: 18568-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#: 18568-Dialogue.mod:4
+msgid "You have no chance against us, /PEASANT/"
+msgstr ""
+
+#. Id: 18569-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18569-Dialogue.mod:0
+msgid "/DIRTY/ /PEASANT/s, you'll never win against us"
+msgstr ""
+
+#. Id: 18569-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18569-Dialogue.mod:1
+msgid "Down! /DIRTY/ /PEASANT/!"
+msgstr ""
+
+#. Id: 18569-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18569-Dialogue.mod:2
+msgid "Eat dirt! /DIRTY/ /WORM/!"
+msgstr ""
+
+#. Id: 18569-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18569-Dialogue.mod:3
+msgid "Know where you stand, /PEASANT/. We own you."
+msgstr ""
+
+#. Id: 18569-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 18569-Dialogue.mod:4
+msgid "I own you, /PEASANT/"
+msgstr ""
+
+#. Id: 18570-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18570-Dialogue.mod:1
+msgid "You'll never escape the wrath of the nobles!"
+msgstr ""
+
+#. Id: 18570-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18570-Dialogue.mod:2
+msgid "Feel the fury of the nobles!"
+msgstr ""
+
+#. Id: 18570-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18570-Dialogue.mod:3
+msgid "Taste my noble fury!"
+msgstr ""
+
+#. Id: 18573-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 18578-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18573-Dialogue.mod:0 18578-Dialogue.mod:0
+msgid "Kill them! Kill them all!"
+msgstr ""
+
+#. Id: 18573-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18573-Dialogue.mod:1
+msgid "I want there HEADS! No-one survives!"
+msgstr ""
+
+#. Id: 18573-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18573-Dialogue.mod:2
+msgid "No-one survives! Kill them!"
+msgstr ""
+
+#. Id: 18573-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18573-Dialogue.mod:3
+msgid "No survivors! Destroy them ALL!"
+msgstr ""
+
+#. Id: 18575-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18575-Dialogue.mod:0
+msgid "/NOBLELAUGH/! I'll have your heads for this!"
+msgstr ""
+
+#. Id: 18575-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18575-Dialogue.mod:1
+msgid "The nobles will always rule the /SANDS/!"
+msgstr ""
+
+#. Id: 18575-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18575-Dialogue.mod:2
+msgid "It's ME who runs the show around here, /PEASANT/!"
+msgstr ""
+
+#. Id: 18575-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 18575-Dialogue.mod:3
+msgid "You think you can beat US, /WORM/?! /NOBLELAUGH/"
+msgstr ""
+
+#. Id: 18578-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18578-Dialogue.mod:1
+msgid "I want their HEADS! No-one survives!"
+msgstr ""
+
+#. Id: 18578-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18578-Dialogue.mod:2
+msgid "No-one escapes! Destroy them all!"
+msgstr ""
+
+#. Id: 18578-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble defeats someone
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18578-Dialogue.mod:3
+msgid "Crush them! No-one lives!"
+msgstr ""
+

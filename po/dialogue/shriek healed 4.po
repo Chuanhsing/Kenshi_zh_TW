@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17861-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek healed 4
+#. Id: 17830-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 17831-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 17836-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 17838-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17836-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 17833-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. Id: 50336-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50333-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shriek attack 1
+#. Id: 17843-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek loot 1
+#. Id: 17807-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17803-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shriek attack 2
+#. Id: 17824-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (17820-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 17822-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (17819-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shriek attack 2
+#. Id: 17813-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17808-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 17816-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 17865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: escaping shriek
+#. Id: 17847-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek interrupt
+#. Id: 17845-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek loot 2
+#. Id: 17849-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek interrupt 2
+#. Id: 17857-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek healed 2
+#. Id: 17863-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek defeated
+#. Id: 48680-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek
+#. Id: 17867-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: screaming shriek
+#. Id: 17872-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek defeat someone
+#. Id: 17869-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: stealing from shriek
+#. Id: 17859-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek healed 3
+#. Id: 17851-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: get up shriek
+#. Id: 17881-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting from shriek
+#. Id: 17853-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek peace
+#. Id: 17855-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shriek healed1
+#: 17861-Dialogue.mod:0 17830-Dialogue.mod:0 17831-Dialogue.mod:0 17836-Dialogue.mod:0 17838-Dialogue.mod:0 17833-Dialogue.mod:0 50336-rebirth.mod:0 17843-Dialogue.mod:0 17807-Dialogue.mod:1 17824-Dialogue.mod:1 17822-Dialogue.mod:0 17813-Dialogue.mod:0 17816-Dialogue.mod:0 17865-Dialogue.mod:0 17847-Dialogue.mod:0 17845-Dialogue.mod:0 17849-Dialogue.mod:0 17857-Dialogue.mod:0 17863-Dialogue.mod:0 48680-rebirth.mod:0 17867-Dialogue.mod:0 17872-Dialogue.mod:0 17869-Dialogue.mod:0 17859-Dialogue.mod:0 17851-Dialogue.mod:0 17881-Dialogue.mod:0 17853-Dialogue.mod:0 17855-Dialogue.mod:0
+msgid "/SHRIEK/!"
+msgstr ""
+

@@ -1,0 +1,435 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12096-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#: 12096-Dialogue?(10).mod:1
+msgid "Unsheathe your weapon, scum!"
+msgstr ""
+
+#. Id: 12096-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#: 12096-Dialogue?(10).mod:2
+msgid "Raise your sword, scum!"
+msgstr ""
+
+#. Id: 14667-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14667-Dialogue?(4).mod:0
+msgid "I'll bring you doom!"
+msgstr ""
+
+#. Id: 14667-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14667-Dialogue?(4).mod:1
+msgid "You want to take that, you'll have to fight for it!"
+msgstr ""
+
+#. Id: 14667-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14667-Dialogue?(4).mod:2
+msgid "Your head is mine! "
+msgstr ""
+
+#. Id: 14667-Dialogue (4).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14667-Dialogue?(4).mod:4
+msgid "You want to take something, fight for it!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:0 44684-Dialogue.mod:2
+msgid "Fleeing is for cowards!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:1 44684-Dialogue.mod:0
+msgid "Only a coward flees!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:2 44684-Dialogue.mod:3
+msgid "Death awaits you, thief! You can't run from it..."
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:3 44684-Dialogue.mod:4
+msgid "Run! You won't live to steal from me again!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:4 44684-Dialogue.mod:5
+msgid "Run all you want, I will end you!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:5 44684-Dialogue.mod:6
+msgid "Coward! You're mine!"
+msgstr ""
+
+#. Id: 44630-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44684-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (17616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44630-Dialogue.mod:6 44684-Dialogue.mod:7
+msgid "Face your punishment, coward!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:0
+msgid "If it weren't for this coop, I'd wring your neck!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:1
+msgid "If it weren't for this cage, I'd snap your neck!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:2
+msgid "Damn this cage! I'll snap your spine!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:3
+msgid "Damn this cage!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:4
+msgid "Damn this prison! I'll end you!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:5
+msgid "You're lucky I'm in this cage!"
+msgstr ""
+
+#. Id: 44641-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12096-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 44641-Dialogue.mod:6
+msgid "Right now this cage is the only thing keeping you alive, scum!"
+msgstr ""
+
+#. Id: 14668-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 14668-Dialogue?(4).mod:0
+msgid "/GREASY/ /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14671-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 14671-Dialogue?(4).mod:1
+msgid "Sneakiness!"
+msgstr ""
+
+#. Id: 14671-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12337-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12336-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek betrayed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 14671-Dialogue?(4).mod:2 12337-Dialogue?(10).mod:3
+msgid "Treacherousness!"
+msgstr ""
+
+#. Id: 14672-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14671-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14672-Dialogue?(4).mod:0
+msgid "Unsheathe your weapon!"
+msgstr ""
+
+#. Id: 14672-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14671-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 15429-Dialogue.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 14672-Dialogue?(4).mod:2 15429-Dialogue.mod:6
+msgid "Put up your sword!"
+msgstr ""
+
+#. Id: 14766-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 14767-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 14766-Dialogue.mod:0 14767-Dialogue.mod:0
+msgid "Thieving /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14766-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 14766-Dialogue.mod:1
+msgid "Pilfering /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14766-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 14767-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 14766-Dialogue.mod:2 14767-Dialogue.mod:1
+msgid "Crooked /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14766-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 14766-Dialogue.mod:3
+msgid "Slimey /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14767-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 14767-Dialogue.mod:2
+msgid "Devious /FLATSKIN/!"
+msgstr ""
+
+#. Id: 14768-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14768-Dialogue.mod:1
+msgid "Deviousness! Leave! Get out!"
+msgstr ""
+
+#. Id: 14768-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14768-Dialogue.mod:2
+msgid "You steal from ME? Get out!"
+msgstr ""
+
+#. Id: 14768-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14768-Dialogue.mod:3
+msgid "Steal from me and you die!"
+msgstr ""
+
+#. Id: 14768-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (14764-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#: 14768-Dialogue.mod:4
+msgid "Crook! You'll die!"
+msgstr ""
+
+#. Id: 45977-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#: 45977-Dialogue.mod:2
+msgid "..!"
+msgstr ""
+

@@ -1,0 +1,340 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98453-__March?18.mod:2
+msgid "Want somethin'?"
+msgstr ""
+
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98453-__March?18.mod:4
+msgid "Looking for a cannibal hunter?"
+msgstr ""
+
+#. Id: 98454-__March 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98453-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98454-__March?18.mod:0
+msgid "My friend's been captured by cannibals!"
+msgstr ""
+
+#. Id: 98457-__March 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98454-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98457-__March?18.mod:0
+msgid "Alright, should be able to help.. if they're still alive. 3000 Cats per day."
+msgstr ""
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:0 98527-__March?18.mod:0
+msgid "Okay, /YOURNAME/. Let's get your friend out of there."
+msgstr ""
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:1 98527-__March?18.mod:1
+msgid "Here's hoping we reach your friend before meal time..."
+msgstr ""
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:2 98527-__March?18.mod:2
+msgid "Let's hope your friend can hang on a while longer..."
+msgstr ""
+
+#. Id: 98463-__March 18.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (98458-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98527-__March 18.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (98521-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98463-__March?18.mod:3 98527-__March?18.mod:3
+msgid "We'll get 'em outta there, /YOURNAME/. And if we don't, we'll at least kill the /INSULT/s that stuck 'em in a pot."
+msgstr ""
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:0 98529-__March?18.mod:0
+msgid "Lead the way."
+msgstr ""
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:1 98529-__March?18.mod:1
+msgid "Take us to their camp."
+msgstr ""
+
+#. Id: 98464-__March 18.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (98463-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98529-__March 18.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (98527-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98464-__March?18.mod:2 98529-__March?18.mod:2
+msgid "Take us to your friend."
+msgstr ""
+
+#. Id: 98461-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98459-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98461-__March?18.mod:0
+msgid "Condolences, /OUTLANDER/. High risk work demands a high price tag..."
+msgstr ""
+
+#. Id: 98462-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98461-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98462-__March?18.mod:0
+msgid "Good luck to you."
+msgstr ""
+
+#. Id: 98460-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98457-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. Id: 98514-__March 18.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98511-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#. Id: 55735-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#. Id: 50233-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#: 98460-__March?18.mod:0 98514-__March?18.mod:0 55735-Dialogue.mod:0 50233-Dialogue.mod:0
+msgid "On second thought, nevermind."
+msgstr ""
+
+#. Id: 98455-__March 18.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98453-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98455-__March?18.mod:0
+msgid "You hunt cannibals?"
+msgstr ""
+
+#. Id: 98466-__March 18.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98455-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98466-__March?18.mod:0
+msgid "Yeah. Got a cannibal problem that needs taking care of?"
+msgstr ""
+
+#. Id: 98467-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98467-__March?18.mod:0
+msgid "I do, my outpost is under attack."
+msgstr ""
+
+#. Id: 98468-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98467-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98468-__March?18.mod:0
+msgid "Alright. Standard rate is 3000 Cats for 2 days. Good to go ahead?"
+msgstr ""
+
+#. Id: 98509-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98509-__March?18.mod:0
+msgid "I want revenge."
+msgstr ""
+
+#. Id: 98510-__March 18.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98509-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98510-__March?18.mod:0
+msgid "Don't we all."
+msgstr ""
+
+#. Id: 98511-__March 18.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98510-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98511-__March?18.mod:0
+msgid "I can help you. The cost is 3000 Cats per day."
+msgstr ""
+
+#. Id: 98517-__March 18.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98513-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98517-__March?18.mod:0
+msgid "Too bad. High risk work demands a high price tag..."
+msgstr ""
+
+#. Id: 98518-__March 18.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98517-__March 18.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98518-__March?18.mod:0
+msgid "Don't go getting killed in the cannibal plains."
+msgstr ""
+
+#. Id: 98483-__March 18.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98466-__March 18.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal hunter talk to
+#: 98483-__March?18.mod:0
+msgid "Nope. Just curious."
+msgstr ""
+
+#. Id: 98498-__March 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98498-__March?18.mod:0
+msgid "You look like shit."
+msgstr ""
+
+#. Id: 98498-__March 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#: 98498-__March?18.mod:1
+msgid "You look like you've seen better days."
+msgstr ""
+
+#. Id: 98503-__March 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#: 98503-__March?18.mod:1
+msgid "Again?"
+msgstr ""
+
+#. Id: 98503-__March 18.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. Id: 18163-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 5000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 98503-__March?18.mod:2 18163-Recruits?Dialogue.mod:1
+msgid "What is it this time?"
+msgstr ""
+

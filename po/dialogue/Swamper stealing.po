@@ -1,0 +1,610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12433-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 16135-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing imprisoned
+#: 12433-Dialogue?(10)?(2).mod:0 16135-Dialogue.mod:0
+msgid "/OI/, /WTF/!?"
+msgstr ""
+
+#. Id: 12434-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12434-Dialogue?(10)?(2).mod:0
+msgid "Slippery /FUCKING/ /RAT/! I'll teach you not to steal from ME!"
+msgstr ""
+
+#. Id: 12434-Dialogue (10) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12434-Dialogue?(10)?(2).mod:1
+msgid "Greasy /FUCKING/ /INSULT/! I'll make sure you can't steal from me again!"
+msgstr ""
+
+#. Id: 12434-Dialogue (10) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12434-Dialogue?(10)?(2).mod:2
+msgid "Sneaky /FUCKING/ /BASTARD/! I'll show you!"
+msgstr ""
+
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44695-Dialogue.mod:1
+msgid "/QUICKLAUGH/, I love when they run!"
+msgstr ""
+
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44695-Dialogue.mod:2
+msgid "Oh I love a good chase!"
+msgstr ""
+
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44695-Dialogue.mod:4
+msgid "Tryin' to run away from me, eh?!"
+msgstr ""
+
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44695-Dialogue.mod:5
+msgid "I'll catch you! And I'll make you bleed!"
+msgstr ""
+
+#. Id: 12439-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12439-Dialogue?(10)?(2).mod:0
+msgid "/OI/! You stealin'?!"
+msgstr ""
+
+#. Id: 12439-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12439-Dialogue?(10)?(2).mod:1
+msgid "/OI/! You tryin' to steal from me?!"
+msgstr ""
+
+#. Id: 12439-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12439-Dialogue?(10)?(2).mod:2
+msgid "/OI/! You stealin' from me?!"
+msgstr ""
+
+#. Id: 12440-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12440-Dialogue?(10)?(2).mod:0
+msgid "Is that what you're doin'? Huh, /BOY/?!"
+msgstr ""
+
+#. Id: 12440-Dialogue (10) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12440-Dialogue?(10)?(2).mod:1
+msgid "Are you? Huh, /BOY/?!"
+msgstr ""
+
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44696-Dialogue.mod:9
+msgid "/LAUGH/! I love it when they run! The hunt is on!"
+msgstr ""
+
+#. Id: 12445-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12445-Dialogue?(10)?(2).mod:0
+msgid "... What are you doin'?!"
+msgstr ""
+
+#. Id: 12445-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12445-Dialogue?(10)?(2).mod:1
+msgid "/OI/... what are you doing?!"
+msgstr ""
+
+#. Id: 12445-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12445-Dialogue?(10)?(2).mod:2
+msgid "/OI/, what do you think you're doing?!"
+msgstr ""
+
+#. Id: 12446-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12445-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12446-Dialogue?(10)?(2).mod:0
+msgid "Thieving /BASTARD/! You'll pay for this!"
+msgstr ""
+
+#. Id: 12446-Dialogue (10) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12445-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 12446-Dialogue?(10)?(2).mod:1
+msgid "Slippery /INSULT/! You won't get away with this!"
+msgstr ""
+
+#. Id: 44700-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12445-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44700-Dialogue.mod:0
+msgid "Ah, don't make me have to chase you..."
+msgstr ""
+
+#. Id: 44700-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12445-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44700-Dialogue.mod:2
+msgid "Keep runnin' if you know what's good for you!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. Id: 16136-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing imprisoned
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13871-Escapes.mod:0 16136-Dialogue.mod:3
+msgid "Steal from me and I'll stab your eyes out!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:1
+msgid "Thief! I'll cut your face!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:2
+msgid "Robber! I'll pull your arms off! Pull 'em off!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:3
+msgid "Thief! I'll kill you!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:4
+msgid "Steal from me and I'll castrate you!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:5
+msgid "You thieving /BASTARD/! I'll tear your eyelids off!"
+msgstr ""
+
+#. Id: 13871-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 13871-Escapes.mod:6
+msgid "You thieving /BASTARD/! I'll chop you up!"
+msgstr ""
+
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44698-Dialogue.mod:0
+msgid "Come back here! Just let me cut you a bit!"
+msgstr ""
+
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44698-Dialogue.mod:1
+msgid "Argh, I hate runnin'! Get back here!"
+msgstr ""
+
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44698-Dialogue.mod:4
+msgid "Quit runnin'! Let me cut you!"
+msgstr ""
+
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44698-Dialogue.mod:5
+msgid "I'll cut you!"
+msgstr ""
+
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44698-Dialogue.mod:6 48785-Dialogue.mod:3
+msgid "I'll /CUTTHOSELIPS/!"
+msgstr ""
+
+#. Id: 44699-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44699-Dialogue.mod:0
+msgid "Just get it over with and let me cut you!"
+msgstr ""
+
+#. Id: 44699-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44699-Dialogue.mod:1
+msgid "Take your punishment!"
+msgstr ""
+
+#. Id: 44699-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44699-Dialogue.mod:2
+msgid "The quicker we get this over with, the better!"
+msgstr ""
+
+#. Id: 44699-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44699-Dialogue.mod:3
+msgid "I'll make you suffer!"
+msgstr ""
+
+#. Id: 44699-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (44698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44699-Dialogue.mod:4
+msgid "I hate runnin'! You're pissin' me off, /INSULT/!"
+msgstr ""
+
+#. Id: 48771-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48771-Dialogue.mod:0
+msgid "Stealin' from the Blackshifters?!"
+msgstr ""
+
+#. Id: 48771-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48771-Dialogue.mod:1
+msgid "You steal from the Blackshifters, you die."
+msgstr ""
+
+#. Id: 48771-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48771-Dialogue.mod:2
+msgid "Big mistake stealin' from us, /BOY/!"
+msgstr ""
+
+#. Id: 48771-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48771-Dialogue.mod:3
+msgid "Nobody steals from the Blackshifters and walks away."
+msgstr ""
+
+#. Id: 48771-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48771-Dialogue.mod:4
+msgid "Tryin' to cheat us?!"
+msgstr ""
+
+#. Id: 48772-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48772-Dialogue.mod:0
+msgid "Break /HIS/ legs."
+msgstr ""
+
+#. Id: 48772-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48772-Dialogue.mod:1
+msgid "Break /HIM/."
+msgstr ""
+
+#. Id: 48774-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 48774-Dialogue.mod:0
+msgid "No one outruns /MYFACTION/!"
+msgstr ""
+
+#. Id: 48774-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 48774-Dialogue.mod:1
+msgid "You'll never escape /MYFACTION/!"
+msgstr ""
+
+#. Id: 48774-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48771-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 48774-Dialogue.mod:2
+msgid "Ha! Think you can escape /MYFACTION/?.. Think again!"
+msgstr ""
+
+#. Id: 48784-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. Id: 48768-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15267-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 48784-Dialogue.mod:0 48768-Dialogue.mod:1
+msgid "Stealin' from /MYFACTION/?!"
+msgstr ""
+
+#. Id: 48784-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48784-Dialogue.mod:1
+msgid "Stealin' from /MEUS/, /RAT/?!"
+msgstr ""
+
+#. Id: 48784-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48784-Dialogue.mod:2
+msgid "Tryin' to steal from /MEUS/, worm?!"
+msgstr ""
+
+#. Id: 48784-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48784-Dialogue.mod:3
+msgid "You stealin' from me? Huh, /RAT/?!"
+msgstr ""
+
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48785-Dialogue.mod:0
+msgid "Gut the thief! More /BODYPARTS/ to add to the collection..."
+msgstr ""
+
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48785-Dialogue.mod:1
+msgid "I'll cut you up! You won't escape me!"
+msgstr ""
+
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48785-Dialogue.mod:2
+msgid "I'll gut you... I'll /CUTTHOSELIPS/!"
+msgstr ""
+
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48785-Dialogue.mod:4
+msgid "I'll cut you up into pieces!"
+msgstr ""
+
+#. Id: 48785-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (48784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48785-Dialogue.mod:5
+msgid "There'll be nothin' left of you after I'm done with you!"
+msgstr ""
+
+#. Id: 48790-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48790-Dialogue.mod:0
+msgid "Bad move, thief!"
+msgstr ""
+
+#. Id: 48790-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48790-Dialogue.mod:1
+msgid "Shouldn't have done that, thief!"
+msgstr ""
+
+#. Id: 48790-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48790-Dialogue.mod:2
+msgid "Wrong clan to steal fom, thief!"
+msgstr ""
+
+#. Id: 48790-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 48790-Dialogue.mod:3
+msgid "Bad luck thief, no one steals from the Grayflayers and lives!"
+msgstr ""
+

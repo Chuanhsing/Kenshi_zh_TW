@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5225-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5225-gamedata.base:0
+msgid "You are now a slave."
+msgstr ""
+
+#. Id: 5226-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5225-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5226-gamedata.base:0
+msgid "I am taking your possessions"
+msgstr ""
+
+#. Id: 5227-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5226-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5227-gamedata.base:0
+msgid "I am taking your name."
+msgstr ""
+
+#. Id: 5228-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5227-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5228-gamedata.base:0
+msgid "You are property. Follow the orders of your master and you will be treated well."
+msgstr ""
+
+#. Id: 5229-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (5228-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5229-gamedata.base:0
+msgid "Forget your place and you will be punished."
+msgstr ""
+
+#. Id: 5230-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (5229-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 5230-gamedata.base:0
+msgid "Try to escape and you will be disposed of."
+msgstr ""
+
+#. Id: 8376-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8376-Dialogue.mod:0
+msgid "You belong to me now."
+msgstr ""
+
+#. Id: 8377-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8377-Dialogue.mod:0
+msgid "You have no posessions"
+msgstr ""
+
+#. Id: 8378-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8378-Dialogue.mod:0
+msgid "No family. No name. No life."
+msgstr ""
+
+#. Id: 8379-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8378-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8379-Dialogue.mod:0
+msgid "You are no more than livestock."
+msgstr ""
+
+#. Id: 8380-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8379-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8380-Dialogue.mod:0
+msgid "Disobey your master and you will suffer."
+msgstr ""
+
+#. Id: 8381-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8380-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave intro
+#: 8381-Dialogue.mod:0
+msgid "Try to escape and you will be slaughtered."
+msgstr ""
+

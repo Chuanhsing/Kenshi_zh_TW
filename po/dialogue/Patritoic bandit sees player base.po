@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41774-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Target Race(s): Hive Prince or Shek or Skeleton
+#: 41774-Dialogue.mod:0
+msgid "Got some foreigners setting up shop in our desert, eh?"
+msgstr ""
+
+#. Id: 41780-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41774-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. Id: 63797-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63796-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41780-Dialogue.mod:0 63797-Dialogue.mod:0
+msgid "/RACISTNAME/s want weedin' out of these lands..."
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:0 63798-Dialogue.mod:0
+msgid "Unless you want 'em eatin' up our farm land"
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:1 63798-Dialogue.mod:1
+msgid "Unless you want 'em overrunning all our farms for 'emselves"
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:2 63798-Dialogue.mod:2
+msgid "Unless you want 'em turnin' the city into a /GODDAMN/ orgy"
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:3 63798-Dialogue.mod:3
+msgid "Unless you want 'em turnin' the streets into /GODDAMN/ riots"
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:4 63798-Dialogue.mod:4
+msgid "Unless you want 'em /RACIST_CLAIM1/ our /RACIST_CLAIM2/"
+msgstr ""
+
+#. Id: 41781-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (41780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 63798-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (63799-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41781-Dialogue.mod:5 63798-Dialogue.mod:5
+msgid "Or do you WANT 'em /RACIST_CLAIM1/ our /RACIST_CLAIM2/?!"
+msgstr ""
+
+#. Id: 41782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 63800-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (63798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41782-Dialogue.mod:0 63800-Dialogue.mod:0
+msgid "Is that what you want for our Empire, /BROTHER/? Huh, huh?"
+msgstr ""
+
+#. Id: 41791-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41782-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 41791-Dialogue.mod:0
+msgid "Not me. Not in MY desert!"
+msgstr ""
+
+#. Id: 97868-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 97868-Dialogue.mod:0
+msgid "Building one o' yer mud huts on Empire sands, /RACISTNAME/?"
+msgstr ""
+
+#. Id: 97870-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97868-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. Id: 97873-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (97869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 97870-Dialogue.mod:0 97873-Dialogue.mod:0
+msgid "Not in MY desert, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 97871-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97872-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 97871-Dialogue.mod:0
+msgid "/DIRTY/ animals..."
+msgstr ""
+
+#. Id: 97869-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#: 97869-Dialogue.mod:0
+msgid "Kral extremists settling on Empire sands?"
+msgstr ""
+
+#. Id: 97874-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97874-Dialogue.mod:0
+msgid "Ain't no loonies warring here in the Empire..."
+msgstr ""
+
+#. Id: 97874-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (97873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97874-Dialogue.mod:1
+msgid "Ain't no brawlin' loonies takin' over our peaceful Empire..."
+msgstr ""
+
+#. Id: 97875-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97874-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97875-Dialogue.mod:0
+msgid "This is a CIVILISED desert..."
+msgstr ""
+
+#. Id: 97876-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97875-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97876-Dialogue.mod:0
+msgid "Clear 'em out!"
+msgstr ""
+
+#. Id: 63788-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Shek or Skeleton
+#: 63788-Dialogue.mod:0
+msgid "I see we got us some /RACISTNAME/s here, eh..."
+msgstr ""
+
+#. Id: 63793-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Target Race(s): Greenlander
+#: 63793-Dialogue.mod:0
+msgid "Well, maybe YOU can talk some sense, /SIR/... "
+msgstr ""
+
+#. Id: 63796-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63793-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63796-Dialogue.mod:0
+msgid "We certainly ain't talkin' sense with a /FUCKING/ /RACISTNAME/ that's for sure..."
+msgstr ""
+
+#. Id: 63803-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (63800-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63803-Dialogue.mod:0
+msgid "Kch. Native lover."
+msgstr ""
+
+#. Id: 63804-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (63803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63804-Dialogue.mod:0
+msgid "Bonehead convert no doubt! /FUCKING/ loonies!"
+msgstr ""
+
+#. Id: 63805-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (63804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 63805-Dialogue.mod:0
+msgid "Then we wipe out the lot of 'em!"
+msgstr ""
+
+#. Id: 63794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 63794-Dialogue.mod:0
+msgid "Know what I hate more than /RACISTNAME/s?"
+msgstr ""
+
+#. Id: 63795-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 63795-Dialogue.mod:0
+msgid "Nothin'!"
+msgstr ""
+
+#. Id: 63795-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 63795-Dialogue.mod:1
+msgid "/RACISTNAME/s settin' up shit shanties on Empire sands."
+msgstr ""
+
+#. Id: 42857-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42857-Dialogue.mod:0
+msgid "An' it's clean up time, /RACISTNAME/s!"
+msgstr ""
+
+#. Id: 42858-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42857-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42858-Dialogue.mod:0
+msgid "Weed 'em out! Ain't havin' no /RACISTNAME/s on MY land!"
+msgstr ""
+
+#. Id: 42859-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42858-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42859-Dialogue.mod:0
+msgid "No SIR! "
+msgstr ""
+
+#. Id: 42862-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Patritoic bandit sees player base
+#: 42862-Dialogue.mod:0
+msgid "/RACIST_CLAIM1/ our /GODDAMN/ /RACIST_CLAIM2/!"
+msgstr ""
+
+#. Id: 42863-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (42862-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Patritoic bandit sees player base
+#: 42863-Dialogue.mod:0
+msgid "/FUCKING/ /RACISTNAME/s!"
+msgstr ""
+

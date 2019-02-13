@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 9135-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9135-Dialogue.mod:0
+msgid "... A new face. Fancy a drink?"
+msgstr ""
+
+#. Id: 9136-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9136-Dialogue.mod:0
+msgid "Don't mind if I do. Who are you?"
+msgstr ""
+
+#. Id: 9137-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9137-Dialogue.mod:0
+msgid "I'm an adventurer, I've been trekking the /NORTH/ern /SANDS/ for the past six months. Had some bad luck with those damn /BANDIT/s for the past few weeks though, thought I'd take a break in town. You?"
+msgstr ""
+
+#. Id: 9142-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE<3, Tag: -1
+#: 9142-Dialogue.mod:0
+msgid "Same here actually. These lands are a harsh struggle for loners like us"
+msgstr ""
+
+#. Id: 9147-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9142-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9147-Dialogue.mod:0
+msgid "Right. Travelling the /SANDS/ alone is pretty much suicide, but it beats hangin' around these crusty old townships. When are you next heading out, maybe we can team up for a while?"
+msgstr ""
+
+#. Id: 9151-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9147-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9151-Dialogue.mod:0
+msgid "That's a great idea, let's team up!"
+msgstr ""
+
+#. Id: 9741-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9741-Dialogue.mod:0
+msgid "Okay, let me just finish my drink, then we can start planning... Whew, it'll be good to have some company for a change..."
+msgstr ""
+
+#. Id: 9742-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9741-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9742-Dialogue.mod:0
+msgid "Great! Let's do this!"
+msgstr ""
+
+#. Id: 9155-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9742-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9155-Dialogue.mod:0
+msgid "Good, good. Where to?"
+msgstr ""
+
+#. Id: 18849-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9147-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 18849-Dialogue.mod:0
+msgid "Sure, you're welcome to join /MEUS/"
+msgstr ""
+
+#. Id: 9154-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9147-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. Id: 19272-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19216-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#. Id: 19929-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Junior doctor
+#. Id: 48663-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48655-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#. Id: 19247-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19236-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. Id: 18805-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. Id: 18813-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. Id: 47108-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 9154-Dialogue.mod:0 19272-Dialogue.mod:0 19929-Dialogue.mod:0 48663-Dialogue.mod:0 19247-Dialogue.mod:0 18805-Dialogue.mod:0 18813-Dialogue.mod:1 47108-Dialogue.mod:0
+msgid "Sorry, I'm not interested"
+msgstr ""
+
+#. Id: 9157-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9157-Dialogue.mod:0
+msgid "Ah well, safe travels"
+msgstr ""
+
+#. Id: 9143-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9143-Dialogue.mod:0
+msgid "Planning /MYOUR/ own settlement, searching for freedom"
+msgstr ""
+
+#. Id: 9143-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9143-Dialogue.mod:1
+msgid "Planning /MYOUR/ own colony, starting a new life"
+msgstr ""
+
+#. Id: 9144-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9143-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9144-Dialogue.mod:0
+msgid "Whew, big plans... That's very bold of you. How's it going so far?"
+msgstr ""
+
+#. Id: 9152-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9152-Dialogue.mod:0
+msgid "/IMWERE/ getting there. If you're having bad luck on your own, do you want to join /MEUS/?"
+msgstr ""
+
+#. Id: 9153-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9153-Dialogue.mod:0
+msgid "Thanks for the offer, but I'm not much of a settler type. I'd just get itchy feet. Perhaps we'll meet again though."
+msgstr ""
+
+#. Id: 9746-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9746-Dialogue.mod:0
+msgid "It's going great. One day /IWE/'ll be a force to be reckoned with"
+msgstr ""
+
+#. Id: 9747-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9747-Dialogue.mod:0
+msgid "How very bold of you, I wish you luck with that."
+msgstr ""
+
+#. Id: 52601-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9747-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52601-Dialogue.mod:0
+msgid "Good to talk, /OUTLANDER/."
+msgstr ""
+
+#. Id: 9748-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9144-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9748-Dialogue.mod:0
+msgid "Eh, okay I guess..."
+msgstr ""
+
+#. Id: 9749-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9749-Dialogue.mod:0
+msgid "Well, I wish you luck with it. Good talking to you, /BROTHER/"
+msgstr ""
+
+#. Id: 9148-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#: 9148-Dialogue.mod:0
+msgid "Same here actually. But you've been travelling alone? I'm surprised you're still alive"
+msgstr ""
+
+#. Id: 9149-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9148-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9149-Dialogue.mod:0
+msgid "Right. Travelling the /SANDS/ alone is pretty much suicide, but it beats hangin' around these crusty old townships, don't you think? Where are you heading out next anyway?"
+msgstr ""
+
+#. Id: 9150-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9150-Dialogue.mod:0
+msgid "Wherever the road takes us. Want to join us?"
+msgstr ""
+
+#. Id: 9163-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9163-Dialogue.mod:0
+msgid "I was hoping you might ask that. I've been searching for a like-minded group of travellers for a long time now, I'd be honoured to join you. How about we drink up and start planning our next route?"
+msgstr ""
+
+#. Id: 9164-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9163-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9164-Dialogue.mod:0
+msgid "Great, let's go!"
+msgstr ""
+
+#. Id: 9158-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9158-Dialogue.mod:0
+msgid "Nowhere yet. See you around"
+msgstr ""
+
+#. Id: 9165-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9165-Dialogue.mod:0
+msgid "Let's drink again sometime"
+msgstr ""
+
+#. Id: 9159-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9159-Dialogue.mod:0
+msgid "I'm a swordsman, honing my skills. I guess you've probably learnt how to take care of yourself in a fight?"
+msgstr ""
+
+#. Id: 9160-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9159-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9160-Dialogue.mod:0
+msgid "Well, I've learned enough to defend myself and get by. Not quite as skilled as you I imagine"
+msgstr ""
+
+#. Id: 9161-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9160-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9161-Dialogue.mod:0
+msgid "If you're having bad luck with hostiles, I could teach you a thing or two, Want to join /MEUS/?"
+msgstr ""
+
+#. Id: 9162-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9161-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9162-Dialogue.mod:0
+msgid "Thank you for the offer, but I'm an explorer, not a fighter. See you around anyway"
+msgstr ""
+
+#. Id: 9750-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9160-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 9750-Dialogue.mod:0
+msgid "You're too modest. Adventurers are among the toughest of all /OUTLANDER/s..."
+msgstr ""
+
+#. Id: 9751-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9750-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 9751-Dialogue.mod:0
+msgid "Or perhaps the luckiest? Let's drink again sometime, /BROTHER/"
+msgstr ""
+
+#. Id: 20255-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9137-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 20255-Dialogue.mod:0
+msgid "Murdering, pillaging... Oh, you know, just the usual."
+msgstr ""
+
+#. Id: 20256-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 20256-Dialogue.mod:0
+msgid "... Uh, okay..."
+msgstr ""
+
+#. Id: 20257-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20256-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 20257-Dialogue.mod:0
+msgid "Have fun with that, /BROTHER/..."
+msgstr ""
+
+#. Id: 9141-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#. Id: 9508-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 9141-Dialogue.mod:0 9508-Dialogue.mod:0
+msgid "Maybe next time!"
+msgstr ""
+
+#. Id: 18844-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9135-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. Id: 19525-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19523-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#: 18844-Dialogue.mod:0 19525-Dialogue.mod:0
+msgid "What's the catch?"
+msgstr ""
+
+#. Id: 18845-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 18845-Dialogue.mod:0
+msgid "No catch. Just looking to swap stories with fellow adventurers..."
+msgstr ""
+
+#. Id: 18846-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 18846-Dialogue.mod:0
+msgid "Go on then. Who are you anyway?"
+msgstr ""
+
+#. Id: 18847-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 18847-Dialogue.mod:0
+msgid "Sorry, I'm not the talkative type"
+msgstr ""
+
+#. Id: 18848-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 18848-Dialogue.mod:0
+msgid "Not interested, thanks"
+msgstr ""
+
+#. Id: 16711-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<15, Tag: -1
+#: 16711-Dialogue.mod:0
+msgid "Good to see you again, /BROTHER/. Back for another drink?"
+msgstr ""
+
+#. Id: 52602-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 52602-Dialogue.mod:0
+msgid "Long time no see, /BROTHER/! How goes the travels?"
+msgstr ""
+
+#. Id: 52604-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52602-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52604-Dialogue.mod:0
+msgid "Great! You should join /MEUS/. You're missing out on all the fun."
+msgstr ""
+
+#. Id: 52607-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52604-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52607-Dialogue.mod:0
+msgid "Sounds like a blast, you don't have to ask me twice."
+msgstr ""
+
+#. Id: 52624-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52607-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52624-Dialogue.mod:0
+msgid "Been stuck in this town far too long. Feels good to stretch these legs..."
+msgstr ""
+
+#. Id: 52605-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52602-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52605-Dialogue.mod:0
+msgid "Not so well... I need a drink."
+msgstr ""
+
+#. Id: 52612-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52605-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52612-Dialogue.mod:0
+msgid "Down on your luck, huh? Need an extra adventurer on your side? Could do with getting out of these walls anyway..."
+msgstr ""
+
+#. Id: 52618-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52618-Dialogue.mod:0
+msgid "Sure, welcome to join /MEUS/."
+msgstr ""
+
+#. Id: 52621-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52618-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52621-Dialogue.mod:0
+msgid "Ah, time to stretch these legs!"
+msgstr ""
+
+#. Id: 52625-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52621-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52625-Dialogue.mod:0
+msgid "Been stuck in this crusty old town far too long..."
+msgstr ""
+
+#. Id: 52619-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52619-Dialogue.mod:0
+msgid "I need no help, I can handle myself."
+msgstr ""
+
+#. Id: 52623-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52623-Dialogue.mod:0
+msgid "I understand. Good luck, /OUTLANDER/."
+msgstr ""
+
+#. Id: 52620-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52620-Dialogue.mod:0
+msgid "Thanks for the offer, but no thanks."
+msgstr ""
+
+#. Id: 52606-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52602-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#. Id: 52026-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50007-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 1
+#: 52606-Dialogue.mod:0 52026-Dialogue.mod:0
+msgid "Sorry, no time to chat."
+msgstr ""
+
+#. Id: 52608-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52602-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52608-Dialogue.mod:0
+msgid "Er... who are you?"
+msgstr ""
+
+#. Id: 52609-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52608-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Explorer (Recruit)
+#: 52609-Dialogue.mod:0
+msgid "We shared a drink a while back. Guess you've been pretty busy since we last spoke, eh?"
+msgstr ""
+
+#. Id: 52610-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52609-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52610-Dialogue.mod:0
+msgid "Ah, I remember! It's been busy, why don't you join in on the adventuring?"
+msgstr ""
+
+#. Id: 52611-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52609-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Explorer (Recruit)
+#: 52611-Dialogue.mod:0
+msgid "Yeah, it's been a pretty tough time, sorry."
+msgstr ""
+

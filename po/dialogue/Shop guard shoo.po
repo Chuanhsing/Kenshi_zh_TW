@@ -1,0 +1,155 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:0
+msgid "Time to go now, /OUTLANDER/, shop's closing up."
+msgstr ""
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:1
+msgid "Okay, make your way out now, /OUTLANDER/. Time to close."
+msgstr ""
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:2
+msgid "Closing time, let's finish up now, /OUTLANDER/."
+msgstr ""
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:3
+msgid "Closing time, let's wrap it up now, /OUTLANDER/."
+msgstr ""
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:4
+msgid "Finished shopping? It's time to close now, /OUTLANDER/."
+msgstr ""
+
+#. Id: 44134-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#: 44134-Dialogue.mod:5
+msgid "Okay, let's wrap it up. Time to close."
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:0
+msgid "Let's go. Door's that way."
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:1
+msgid "Exit's that way. Let's go."
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:2
+msgid "I ain't paid overtime, so let's hurry this up, eh?"
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:3
+msgid "I'll show you the way out, shall I?"
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:4
+msgid "Come on, let's get a move on."
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:5
+msgid "We're closed for trading. Come back another time."
+msgstr ""
+
+#. Id: 44137-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (44136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44137-Dialogue.mod:6
+msgid "Come on, I got places to be. Exit's that way."
+msgstr ""
+
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 44139-Dialogue.mod:0
+msgid "*huff*"
+msgstr ""
+

@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41735-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41735-Dialogue.mod:0
+msgid "You! Finally come out of hiding, /CRAVEN/?!"
+msgstr ""
+
+#. Id: 41735-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41735-Dialogue.mod:1
+msgid "So, I finally get to meet the illusive, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 41735-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41735-Dialogue.mod:2
+msgid "So, the notorious /FLATSKIN/ finally shows /HIS/ face!"
+msgstr ""
+
+#. Id: 41735-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41735-Dialogue.mod:3
+msgid "At last we meet! Caused a lot of damage for a /FLATSKIN/..."
+msgstr ""
+
+#. Id: 41736-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41736-Dialogue.mod:0
+msgid "Then show me your sword! We'll see how you fair against one of the Invincible Five!"
+msgstr ""
+
+#. Id: 41736-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41736-Dialogue.mod:1
+msgid "Then raise your sword! Let natural selection put you in your place!"
+msgstr ""
+
+#. Id: 41736-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41736-Dialogue.mod:2
+msgid "Then I expect a good battle from you. Let me show you the might of a TRUE warrior!"
+msgstr ""
+
+#. Id: 41736-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41736-Dialogue.mod:3
+msgid "Then fight ME! Luck alone won't help you against the Invincible Five! "
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41737-Dialogue.mod:0
+msgid "Your mockery ends here."
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41737-Dialogue.mod:1
+msgid "This will be your doom."
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#. Id: 47753-Dialogue.mod
+#. -- Index: 0.16
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skull collector attack
+#: 41737-Dialogue.mod:2 47753-Dialogue.mod:16
+msgid "Death awaits you."
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41737-Dialogue.mod:3
+msgid "For my kingdom, for Kral. Honour before death."
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41737-Dialogue.mod:4
+msgid "Today will be your doom."
+msgstr ""
+
+#. Id: 41737-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (41736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 41737-Dialogue.mod:5
+msgid "For glory!"
+msgstr ""
+
+#. Id: 61330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61330-Dialogue.mod:0
+msgid "Hiding away behind the safety of your walls, /CRAVEN/?"
+msgstr ""
+
+#. Id: 61330-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61330-Dialogue.mod:1
+msgid "Holed yourself up inside your cave I see, /MUTT/..."
+msgstr ""
+
+#. Id: 61330-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 61330-Dialogue.mod:3
+msgid "You think walls alone will keep me from hunting your hide, /MUTT/?"
+msgstr ""
+
+#. Id: 61333-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61333-Dialogue.mod:0
+msgid "I expected more of you, enemy!"
+msgstr ""
+
+#. Id: 61333-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61333-Dialogue.mod:1
+msgid "But I haven't had my fun with you yet, enemy!"
+msgstr ""
+
+#. Id: 61334-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61334-Dialogue.mod:0
+msgid "Show me your sword! We'll see how you fair against one of the Invincible Five!"
+msgstr ""
+
+#. Id: 61334-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61334-Dialogue.mod:1
+msgid "Raise your sword! Let natural selection put you in your place!"
+msgstr ""
+
+#. Id: 61334-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61334-Dialogue.mod:2
+msgid "I expect a good battle from you. Let me show you the might of a TRUE warrior!"
+msgstr ""
+
+#. Id: 61334-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (61333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Five invincible hunts down enemy
+#: 61334-Dialogue.mod:3
+msgid "Fight me! Luck alone won't help you against the Invincible Five! "
+msgstr ""
+

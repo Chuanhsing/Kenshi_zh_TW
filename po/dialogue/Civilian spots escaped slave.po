@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13897-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13908-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13897-Escapes.mod:0 13908-Escapes.mod:6
+msgid "Slave!"
+msgstr ""
+
+#. Id: 13897-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 13897-Escapes.mod:1
+msgid "A runaway!"
+msgstr ""
+
+#. Id: 13898-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13897-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13898-Escapes.mod:0
+msgid "/HEIS/ loose! Guards!"
+msgstr ""
+
+#. Id: 13898-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13897-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13898-Escapes.mod:1
+msgid "/HEIS/ getting away! Guards!"
+msgstr ""
+
+#. Id: 13898-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13897-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13898-Escapes.mod:2
+msgid "/HEIS/ escaping! Guards!"
+msgstr ""
+
+#. Id: 13899-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13899-Escapes.mod:0
+msgid "Guards, guards!"
+msgstr ""
+
+#. Id: 13899-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13912-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13911-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13899-Escapes.mod:2 13912-Escapes.mod:1
+msgid "Guards! Help!"
+msgstr ""
+
+#. Id: 13899-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13899-Escapes.mod:3
+msgid "Help, Guards!"
+msgstr ""
+
+#. Id: 13900-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13899-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13900-Escapes.mod:0
+msgid "Over here, a slave has escaped!"
+msgstr ""
+
+#. Id: 13900-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13899-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13900-Escapes.mod:1
+msgid "This way, a loose slave! "
+msgstr ""
+
+#. Id: 13900-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13899-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13900-Escapes.mod:2
+msgid "This way, an escaped slave! "
+msgstr ""
+
+#. Id: 13900-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13899-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13900-Escapes.mod:3
+msgid "This way, an runaway slave! "
+msgstr ""
+
+#. Id: 13902-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 13902-Escapes.mod:0
+msgid "... what are you doing, slave?"
+msgstr ""
+
+#. Id: 13902-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 13902-Escapes.mod:1
+msgid "... slave, you fool..."
+msgstr ""
+
+#. Id: 13903-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13902-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13903-Escapes.mod:0
+msgid "They'll punish you if they catch you..."
+msgstr ""
+
+#. Id: 13903-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13902-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian spots escaped slave
+#: 13903-Escapes.mod:1
+msgid "You'll be in big trouble if the guards see you here..."
+msgstr ""
+

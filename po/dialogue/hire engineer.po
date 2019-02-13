@@ -1,0 +1,831 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. Id: 8832-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#. Id: 8840-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#: 1765-gamedata.base:0 8832-Dialogue.mod:0 8840-Dialogue.mod:0
+msgid "I'm an experienced engineer, looking for work. Got any?"
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:1
+msgid "Looking to hire an engineer? I'm looking for work if you've got any..."
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:2
+msgid "/HI/ /OUTLANDER/, I'm a pretty good engineer if you need one. What are you saying?"
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:3
+msgid "Engineer looking for work! Need an engineer? I can engineer stuff for you...."
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:4
+msgid "I can handle all your engineering needs. Interested?"
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:5
+msgid "Interested in hiring an engineer? I'm looking for work if you've got any..."
+msgstr ""
+
+#. Id: 1765-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1765-gamedata.base:6
+msgid "Need some walls built? I can handle 'em for you..."
+msgstr ""
+
+#. Id: 1766-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 8834-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8832-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 15062-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 1704-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1703-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 47473-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47470-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog random extortion
+#: 1766-gamedata.base:0 8834-Dialogue.mod:0 15062-Dialogue.mod:0 1704-gamedata.base:0 47473-Dialogue.mod:0
+msgid "How much?"
+msgstr ""
+
+#. Id: 1766-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 18049-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16868-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 50322-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. Id: 18109-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. Id: 19722-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12054-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. Id: 50227-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50218-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#: 1766-gamedata.base:1 18049-Recruits?Dialogue.mod:0 50322-Dialogue.mod:0 18109-Recruits?Dialogue.mod:0 19722-Dialogue.mod:0 50227-Dialogue.mod:0
+msgid "How much are you charging?"
+msgstr ""
+
+#. Id: 1766-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 1766-gamedata.base:2
+msgid "Depends, how much?"
+msgstr ""
+
+#. Id: 1766-gamedata.base
+#. -- Index: 1.3
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 52662-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52661-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper cook
+#. Id: 52576-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52574-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper cook
+#. Id: 49949-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49948-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 1
+#. Id: 13288-Escapes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (13286-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#: 1766-gamedata.base:3 52662-Dialogue.mod:0 52576-Dialogue.mod:0 49949-Dialogue.mod:0 13288-Escapes.mod:0
+msgid "Sure, how much?"
+msgstr ""
+
+#. Id: 1766-gamedata.base
+#. -- Index: 1.4
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 50526-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50522-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#. Id: 50532-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50523-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#: 1766-gamedata.base:4 50526-Dialogue.mod:1 50532-Dialogue.mod:0
+msgid "Maybe. How much are you charging?"
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:0
+msgid "6000. I'm not shy of a bit of manual labour either."
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:1
+msgid "I charge 6000 Cats. How about it?"
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:2
+msgid "6000 Cats. Whaddya thinking?"
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:3
+msgid "6000 Cats. Always open to a bit of manual labour if it needs doing too."
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:4
+msgid "Just a 6000 advance. Keep me fed with a roof over my head, and I don't need nothing else."
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.5
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:5
+msgid "6000 Cats. How about it, am I hired?"
+msgstr ""
+
+#. Id: 1768-gamedata.base
+#. -- Index: 2.6
+#. -- Parent line: 1 (1766-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 1768-gamedata.base:6
+msgid "6000 Cats and you got yourself a fine labourer, best in the city!"
+msgstr ""
+
+#. Id: 1769-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 1769-gamedata.base:0
+msgid "Sure, come with me."
+msgstr ""
+
+#. Id: 18021-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18021-Recruits?Dialogue.mod:0
+msgid "I don't have that much money"
+msgstr ""
+
+#. Id: 18021-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18021-Recruits?Dialogue.mod:1
+msgid "I don't have enough"
+msgstr ""
+
+#. Id: 18021-Recruits Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 19633-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19631-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18021-Recruits?Dialogue.mod:2 19633-Dialogue.mod:0
+msgid "I don't have enough Cats"
+msgstr ""
+
+#. Id: 18021-Recruits Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18021-Recruits?Dialogue.mod:3
+msgid "That's way out of my budget"
+msgstr ""
+
+#. Id: 18021-Recruits Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (1768-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18021-Recruits?Dialogue.mod:4
+msgid "Too much, I don't have that much"
+msgstr ""
+
+#. Id: 1767-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 8953-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#. Id: 15107-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. Id: 18805-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 1767-gamedata.base:1 8953-Dialogue.mod:0 15107-Dialogue.mod:0 18805-Dialogue.mod:2
+msgid "Not interested, sorry"
+msgstr ""
+
+#. Id: 1767-gamedata.base
+#. -- Index: 1.3
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 1767-gamedata.base:3
+msgid "Sorry, I'm not looking for an engineer"
+msgstr ""
+
+#. Id: 1767-gamedata.base
+#. -- Index: 1.4
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 1767-gamedata.base:4
+msgid "I don't need an engineer, sorry"
+msgstr ""
+
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 16867-Recruits?Dialogue.mod:2
+msgid "Can you fight as well?"
+msgstr ""
+
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 16867-Recruits?Dialogue.mod:3
+msgid "What about combat? Can you fight?"
+msgstr ""
+
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 16867-Recruits?Dialogue.mod:4
+msgid "Depends. Can you fight?"
+msgstr ""
+
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 16867-Recruits?Dialogue.mod:5
+msgid "First things first, can you fight?"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. Id: 48897-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48895-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to tough rescued from slaver
+#. Id: 53494-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#. Id: 98951-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#. Id: 49223-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49222-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bar thug swamp
+#. Id: 46795-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46794-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 16868-Recruits?Dialogue.mod:0 48897-Dialogue.mod:1 53494-Dialogue.mod:0 98951-Dialogue.mod:0 49223-Dialogue.mod:0 46795-Dialogue.mod:0
+msgid "Nope."
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:1
+msgid "Not really. I'm an engineer, not a fighter"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:2
+msgid "Not really. But I can learn if you need me to"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:3
+msgid "Not at all. But I can always learn if you need me to fight"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:4
+msgid "Nope. But theres always room to learn something new"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:5
+msgid "I can't. I could certainly learn though"
+msgstr ""
+
+#. Id: 16868-Recruits Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (16867-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 16868-Recruits?Dialogue.mod:6
+msgid "I can't. I don't mind training though, if that's what you need of me"
+msgstr ""
+
+#. Id: 18049-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (16868-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 19455-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19433-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 18049-Recruits?Dialogue.mod:1 19455-Dialogue.mod:0
+msgid "And how much are you charging?"
+msgstr ""
+
+#. Id: 8829-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8829-Dialogue.mod:0 18024-Recruits?Dialogue.mod:0
+msgid "Need an engineer, /BROTHER/? I'm available for hire if you need me"
+msgstr ""
+
+#. Id: 8835-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8834-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#: 8835-Dialogue.mod:0
+msgid "6000 Cats"
+msgstr ""
+
+#. Id: 8836-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: __
+#: 8836-Dialogue.mod:0
+msgid "Hey, need a decent engineer? I'm free if you need me!"
+msgstr ""
+
+#. Id: 8838-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
+#: 8838-Dialogue.mod:0
+msgid "/HI/, need an experienced engineer? I'm looking for work"
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:1
+msgid "/HI/, /OUTLANDER/, need a decent engineer? I'm free if you need me"
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:2
+msgid "Need some walls built, /BROTHER/? I can handle 'em for you..."
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:3
+msgid "Interested in hiring an engineer, /BROTHER/? I'm looking for work if you've got any..."
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:4
+msgid "/HI/ /OUTLANDER/. I'm an experienced engineer, looking for work. Got any?"
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:5
+msgid "New in town, /BROTHER/? I'm looking for work... you happen to need an engineer?"
+msgstr ""
+
+#. Id: 18024-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 18024-Recruits?Dialogue.mod:6
+msgid "Happen to need an engineer, /BROTHER/? I'm your /MEMAN/, if you need anything built."
+msgstr ""
+
+#. Id: 18026-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18026-Recruits?Dialogue.mod:0
+msgid "Happen to need an engineer, /OUTLANDER/? If you need anything built, I'm your /MEMAN/"
+msgstr ""
+
+#. Id: 18026-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18026-Recruits?Dialogue.mod:1
+msgid "Interested in hiring an engineer, /OUTLANDER/? I'm looking for work if you've got any..."
+msgstr ""
+
+#. Id: 18026-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18026-Recruits?Dialogue.mod:2
+msgid "Best engineer in town right here! You happen to be looking to hire, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18026-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18026-Recruits?Dialogue.mod:3
+msgid "You're looking at an engineering genius right here, /OUTLANDER/! So... wanna hire me?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:0
+msgid "Back already? Changed your mind, eh?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:1
+msgid "Back again, /OUTLANDER/? Changed your mind?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 13296-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:2 13296-Escapes.mod:2
+msgid "Had a change of heart, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 13296-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:5 13296-Escapes.mod:1
+msgid "Changed your mind, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:6
+msgid "Decided to hire me after all, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:7
+msgid "I knew you'd be back... So, you hiring?"
+msgstr ""
+
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18028-Recruits?Dialogue.mod:9
+msgid "You came back. Am I hired?"
+msgstr ""
+
+#. Id: 18031-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18028-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 18031-Recruits?Dialogue.mod:0
+msgid "How much are you charging again?"
+msgstr ""
+
+#. Id: 18032-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18028-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 18126-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18032-Recruits?Dialogue.mod:0 18126-Recruits?Dialogue.mod:0
+msgid "Nevermind, sorry to bother you"
+msgstr ""
+
+#. Id: 18033-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18033-Recruits?Dialogue.mod:0
+msgid "You couldn't resist me, could you, /OUTLANDER/? So... you hiring me?"
+msgstr ""
+
+#. Id: 18033-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18033-Recruits?Dialogue.mod:1
+msgid "I knew you'd come crawling back... So, how about it? You gonna hire me?"
+msgstr ""
+
+#. Id: 18033-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18033-Recruits?Dialogue.mod:2
+msgid "Back again! I knew you wouldn't be able to resist my skills. Am I hired?"
+msgstr ""
+
+#. Id: 18033-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 18033-Recruits?Dialogue.mod:3
+msgid "I knew you'd be back! I'm hired, right?"
+msgstr ""
+

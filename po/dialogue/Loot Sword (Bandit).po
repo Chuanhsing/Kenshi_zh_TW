@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8577-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8577-Dialogue.mod:0
+msgid "Nice sword for a /RUNT/-y /IDIOT/"
+msgstr ""
+
+#. Id: 8577-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8577-Dialogue.mod:1
+msgid "Not a bad sword..."
+msgstr ""
+
+#. Id: 8579-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8579-Dialogue.mod:0
+msgid "I'll give it a MUCH worthier home"
+msgstr ""
+
+#. Id: 8579-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8579-Dialogue.mod:1
+msgid "I'll be a MUCH worthier owner"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:0
+msgid "Nice!"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:1
+msgid "This should sell nicely"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:2
+msgid "This should get me a few Cats"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:3
+msgid "This should buy me enough booze to last me a week"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:4
+msgid "This oughta fetch me some decent Cats"
+msgstr ""
+
+#. Id: 8578-D-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8578-D-Dialogue.mod:5
+msgid "Nice. I'll scrap this in for some booze money"
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:0
+msgid "What a piece of crap... oh well, better than nothing"
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:1
+msgid "Pfft, call this a sword? "
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:2
+msgid "Bah! This sword don't look worth much..."
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:3
+msgid "What kinda shitty sword IS this?"
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:4
+msgid "Great. Thanks for the shitty sword..."
+msgstr ""
+
+#. Id: 8581-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 8581-Dialogue.mod:5
+msgid "This sword's a joke..."
+msgstr ""
+
+#. Id: 8585-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 8585-Dialogue.mod:0
+msgid "Ah, new sword"
+msgstr ""
+
+#. Id: 8585-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 8585-Dialogue.mod:1
+msgid "Yoink, new sword for me!"
+msgstr ""
+
+#. Id: 8585-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 8585-Dialogue.mod:2
+msgid "Ooh! A new sword!"
+msgstr ""
+
+#. Id: 8585-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 8585-Dialogue.mod:3
+msgid "Oh! Nice sword"
+msgstr ""
+
+#. Id: 8585-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 8585-Dialogue.mod:4
+msgid "You snooze, you lose"
+msgstr ""
+
+#. Id: 8586-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8586-Dialogue.mod:0
+msgid "I'll just be taking this..."
+msgstr ""
+
+#. Id: 8586-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8586-Dialogue.mod:1
+msgid "Nice sword, /QUICKLAUGH/"
+msgstr ""
+
+#. Id: 8586-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8586-Dialogue.mod:3
+msgid "Just borrowing your sword..."
+msgstr ""
+
+#. Id: 8591-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8591-Dialogue.mod:0
+msgid "Oh, can I have your sword?"
+msgstr ""
+
+#. Id: 8591-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8591-Dialogue.mod:1
+msgid "Oh hey, can I have your sword?"
+msgstr ""
+
+#. Id: 8591-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8591-Dialogue.mod:2
+msgid "Hey that's a nice sword, can I take it?"
+msgstr ""
+
+#. Id: 8592-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8592-Dialogue.mod:0
+msgid "Yes you say?"
+msgstr ""
+
+#. Id: 8592-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8592-Dialogue.mod:1
+msgid "I can?"
+msgstr ""
+
+#. Id: 8592-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (8591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8592-Dialogue.mod:2
+msgid "Really? You want me to have it?"
+msgstr ""
+
+#. Id: 8593-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8592-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8593-Dialogue.mod:0
+msgid "Why, thank you! /LAUGH/"
+msgstr ""
+
+#. Id: 8593-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8592-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8593-Dialogue.mod:1
+msgid "You're so kind! /LAUGH/"
+msgstr ""
+
+#. Id: 8593-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8592-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8593-Dialogue.mod:2
+msgid "Well, how generous of you! /LAUGH/"
+msgstr ""
+
+#. Id: 8594-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8594-Dialogue.mod:0
+msgid "What's that you say Mr /SWORD/? You want to be mine now?"
+msgstr ""
+
+#. Id: 8604-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8604-Dialogue.mod:0
+msgid "This /SWORD/, mmm it's so /PRETTY/... so /PRETTY/"
+msgstr ""
+
+#. Id: 8604-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8604-Dialogue.mod:1
+msgid "Oh? Well aren't you just a /PRETTY/ little thing"
+msgstr ""
+
+#. Id: 8607-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8604-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8607-Dialogue.mod:0
+msgid "I'll give you a good home"
+msgstr ""
+
+#. Id: 8607-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8604-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#: 8607-Dialogue.mod:1
+msgid "I'll take good care of you"
+msgstr ""
+

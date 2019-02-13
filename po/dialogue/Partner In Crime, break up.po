@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 9688-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9687-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Partner In Crime, break up
+#: 9688-Dialogue.mod:0
+msgid "I want out of our deal."
+msgstr ""
+
+#. Id: 9690-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 9690-Dialogue.mod:0
+msgid "You want out? What happened, you quit the business?... Dammit, I got used to having the extra Cats... You sure you want out? I won't be protecting you from checks anymore if you do this..."
+msgstr ""
+
+#. Id: 9690-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 9690-Dialogue.mod:1
+msgid "You want out? Why, what happened all of a sudden?... You do this and I won't be sneaking you past checks anymore. You're on your own."
+msgstr ""
+
+#. Id: 9691-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9690-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Partner In Crime, break up
+#: 9691-Dialogue.mod:0
+msgid "I'm decided. I don't need your help anymore."
+msgstr ""
+
+#. Id: 53028-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9691-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 53028-Dialogue.mod:0
+msgid "Then you're on your own. Better make sure you're actually clean, next time, /YOURNAME/. My comrades won't be so forgiving of your crimes..."
+msgstr ""
+
+#. Id: 53029-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 53029-Dialogue.mod:0
+msgid "Watch yourself."
+msgstr ""
+
+#. Id: 9692-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9690-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Partner In Crime, break up
+#: 9692-Dialogue.mod:0
+msgid "... Okay, I changed my mind. We're still good."
+msgstr ""
+
+#. Id: 53026-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9692-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 53026-Dialogue.mod:0
+msgid "Good choice. Glad we're still on, I'd just started to grow attached to your face and everything... I mean Cats! I'm attached to your Cats... Yeah."
+msgstr ""
+
+#. Id: 53027-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 53027-Dialogue.mod:0
+msgid "'Til next time, /YOURNAME/."
+msgstr ""
+
+#. Id: 53005-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9687-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Partner In Crime, break up
+#: 53005-Dialogue.mod:0
+msgid "I just wanted to say hi."
+msgstr ""
+
+#. Id: 53006-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53005-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#: 53006-Dialogue.mod:0
+msgid "Well, goddammit, /YOURNAME/, cool it off. Keep chatting like this and you'll get us both caught..."
+msgstr ""
+
+#. Id: 53007-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 53007-Dialogue.mod:0
+msgid "(Hi, /YOURNAME/)"
+msgstr ""
+
+#. Id: 9689-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9687-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Partner In Crime, break up
+#: 9689-Dialogue.mod:0
+msgid "Nothing, nevermind, sorry."
+msgstr ""
+

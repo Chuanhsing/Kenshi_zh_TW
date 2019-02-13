@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50477-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher farmer recruit
+#: 50477-Dialogue.mod:0
+msgid "You have any idea how hard it is to run a farm when there's a /GODDAMN/ horde o' cannibals lickin' their lips and waiting to devour you from just over the hill? Guess how many farmers have died in the last week, thanks to those barbaric animals? Just take a guess..."
+msgstr ""
+
+#. Id: 50478-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50477-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50478-Dialogue.mod:0
+msgid "Erm... three?"
+msgstr ""
+
+#. Id: 50482-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher farmer recruit
+#: 50482-Dialogue.mod:0
+msgid "No one damn well knows, they gave up keeping count. We've found about seven chewed up remains up in the hills this week alone. Whether those body parts were from the same person or whether they were seven different bodies, I'll be damned. A farmer can't work in a place like this, it's suicide. I need to leave but I can't set up base alone, I need fellow settlers to start over with..."
+msgstr ""
+
+#. Id: 50483-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50482-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50483-Dialogue.mod:0
+msgid "You're welcome to join /MEUS/. /IWE/ could use the skills of a farmer. "
+msgstr ""
+
+#. Id: 50486-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50483-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher farmer recruit
+#: 50486-Dialogue.mod:0
+msgid "That's great news! I hear there are greener pastures down south, in the holy lands. We should find fertile soil there... I'll need an advance of 2000 Cats first, but I'll be more than worth that cost in skill, /OUTLANDER/. You can take my word for it, I've been tending crops since I was eleven years old. Some folks even nicknamed me Green Finger..."
+msgstr ""
+
+#. Id: 50487-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50486-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 50487-Dialogue.mod:0
+msgid "Fine, here. You're hired."
+msgstr ""
+
+#. Id: 50488-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50486-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
+#: 50488-Dialogue.mod:0
+msgid "No can do. I can't afford it."
+msgstr ""
+
+#. Id: 50489-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50486-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50489-Dialogue.mod:0
+msgid "Forget it, I'm not made of Cats..."
+msgstr ""
+
+#. Id: 50484-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50482-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50484-Dialogue.mod:0
+msgid "Ugh, but let me guess, you want payment first..."
+msgstr ""
+
+#. Id: 50490-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50484-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher farmer recruit
+#: 50490-Dialogue.mod:0
+msgid "How did you guess? I need an advance of 2000 Cats first, but I'll be more than worth that cost in skill, /OUTLANDER/. You can take my word for it, I've been tending crops since I was eleven years old. Some folks even nicknamed me Green Finger... Anyway, I hear there are greener pastures down south, in the holy lands. We should find fertile soil there."
+msgstr ""
+
+#. Id: 50485-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50482-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50485-Dialogue.mod:0
+msgid "I know where this is going. And I'm not interested, sorry."
+msgstr ""
+
+#. Id: 50479-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50477-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50479-Dialogue.mod:0
+msgid "Three hundred!"
+msgstr ""
+
+#. Id: 50480-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50477-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher farmer recruit
+#: 50480-Dialogue.mod:0
+msgid "I've no idea."
+msgstr ""
+
+#. Id: 50491-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50480-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher farmer recruit
+#: 50491-Dialogue.mod:0
+msgid "Well, you're not the only one with no idea, everyone gave up keeping count long ago. We've found about seven chewed up remains up in the hills this week alone. Whether those body parts were from the same person or whether they were from seven different corpses, I'll be damned. A farmer can't work in a place like this, it's suicide. I need to leave but I can't set up alone, I need fellow settlers to start over with..."
+msgstr ""
+

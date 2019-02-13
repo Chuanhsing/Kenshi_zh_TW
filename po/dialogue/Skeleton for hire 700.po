@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47632-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton for hire 700
+#: 47632-Dialogue.mod:0
+msgid "Here for recruits? I'm available for hire. 3000 Cats."
+msgstr ""
+
+#. Id: 47632-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton for hire 700
+#: 47632-Dialogue.mod:1
+msgid "Are you here for recruits, /OUTLANDER/? I'm available for 3000 Cats."
+msgstr ""
+
+#. Id: 47632-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton for hire 700
+#: 47632-Dialogue.mod:2
+msgid "I'm here looking for work. Are you hiring, /OUTLANDER/? My fee is 3000 Cats."
+msgstr ""
+
+#. Id: 47632-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton for hire 700
+#: 47632-Dialogue.mod:3
+msgid "Are you looking for recruits? If you're hiring, /OUTLANDER/, I'm available for 3000 Cats."
+msgstr ""
+
+#. Id: 47632-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton for hire 700
+#: 47632-Dialogue.mod:4
+msgid "Are you recruiting? If so, I'm available for 3000 Cats."
+msgstr ""
+
+#. Id: 47633-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47632-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 47633-Dialogue.mod:1
+msgid "Sure, join /MEUS/."
+msgstr ""
+
+#. Id: 47635-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47632-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 47635-Dialogue.mod:0
+msgid "I don't have that much money."
+msgstr ""
+

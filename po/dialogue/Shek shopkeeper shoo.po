@@ -1,0 +1,484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45956-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 45956-Dialogue.mod:0
+msgid "Shop's closed."
+msgstr ""
+
+#. Id: 45956-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 45956-Dialogue.mod:1
+msgid "Shop's shutting."
+msgstr ""
+
+#. Id: 45956-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 45956-Dialogue.mod:2
+msgid "Shop's closing up."
+msgstr ""
+
+#. Id: 45956-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 45956-Dialogue.mod:3
+msgid "Closing time."
+msgstr ""
+
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45957-Dialogue.mod:0
+msgid "Take exit."
+msgstr ""
+
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 58931-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Big grim talk to diplomat
+#. Id: 17590-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (14708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45957-Dialogue.mod:1 58931-Dialogue.mod:0 17590-Dialogue.mod:4
+msgid "Out."
+msgstr ""
+
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45957-Dialogue.mod:2
+msgid "Remove yourself."
+msgstr ""
+
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45957-Dialogue.mod:4
+msgid "Move."
+msgstr ""
+
+#. Id: 51562-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (45957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 19405-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 17622-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. Id: 61282-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 51562-Dialogue.mod:2 51595-Dialogue.mod:0 19405-Dialogue.mod:0 43745-Dialogue.mod:0 17622-Dialogue.mod:4 61282-Dialogue.mod:0 51526-Dialogue.mod:0
+msgid "Mmh?"
+msgstr ""
+
+#. Id: 51563-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51563-Dialogue.mod:0
+msgid "Need I tell you again, /FLATSKIN/? Leave."
+msgstr ""
+
+#. Id: 51563-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (51562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51563-Dialogue.mod:1
+msgid "Do not waste my breath, /FLATSKIN/! Take exit."
+msgstr ""
+
+#. Id: 51563-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (51562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51563-Dialogue.mod:2
+msgid "Must I waste my breath again, /FLATSKIN/? Remove yourself."
+msgstr ""
+
+#. Id: 51563-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (51562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51563-Dialogue.mod:3
+msgid "I do not like being ignored, /FLATSKIN/. Move it."
+msgstr ""
+
+#. Id: 51563-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (51562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51563-Dialogue.mod:4
+msgid "Annoyance. I will not be ignored, /FLATSKIN/. Go."
+msgstr ""
+
+#. Id: 51561-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51560-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51561-Dialogue.mod:0
+msgid "Ignorance! The whelp is surely looking for a fight!"
+msgstr ""
+
+#. Id: 51561-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (51560-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51561-Dialogue.mod:1
+msgid "/IDIOCY/! The /FLATSKIN/ dog is asking for a thrashing!"
+msgstr ""
+
+#. Id: 51561-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (51560-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51561-Dialogue.mod:2
+msgid "Anger! I'll rip out /HIS/ lungs for daring to ignore the mighty Shek!"
+msgstr ""
+
+#. Id: 51567-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51567-Dialogue.mod:0
+msgid "Patience, kin. Remember the Stone Golem's orders. Go easy on the foreigners."
+msgstr ""
+
+#. Id: 51567-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (51561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51567-Dialogue.mod:1
+msgid "Restraint, kin. The Stone Golem's word is final, have mercy on the /FLATSKIN/."
+msgstr ""
+
+#. Id: 51567-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (51561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51567-Dialogue.mod:2
+msgid "Toleration. Remember the Stone Golem's words, kin, we cannot harm the outsiders."
+msgstr ""
+
+#. Id: 51568-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Target Race(s): Greenlander or Hive Worker Drone or Scorchlander
+#: 51568-Dialogue.mod:0
+msgid "Their feeble bodies cannot withstand the power of a Shek Warrior. And we need their supplies."
+msgstr ""
+
+#. Id: 51568-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (51567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Target Race(s): Greenlander or Hive Worker Drone or Scorchlander
+#: 51568-Dialogue.mod:1
+msgid "Their fragile bones cannot take it. And if we want their supplies, we need them alive."
+msgstr ""
+
+#. Id: 51570-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51568-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51570-Dialogue.mod:0
+msgid "Hmph. The Stone Golem will have us be a laughing stock."
+msgstr ""
+
+#. Id: 51570-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (51568-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51570-Dialogue.mod:1
+msgid "Hmph. The Stone Golem is soft, she'll make our nation a mockery of the lands."
+msgstr ""
+
+#. Id: 51571-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51570-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#: 51571-Dialogue.mod:0
+msgid "The ignorant /FLATSKIN/ needs /HIS/ neck wrung in a lesson of respect."
+msgstr ""
+
+#. Id: 51572-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (51571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51572-Dialogue.mod:0
+msgid "Patience."
+msgstr ""
+
+#. Id: 51569-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51569-Dialogue.mod:0
+msgid "Slaughtering the foreign traders will brings us no new supplies."
+msgstr ""
+
+#. Id: 51569-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (51567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51569-Dialogue.mod:1
+msgid "Crushing our foreign customers will surely be bad for business."
+msgstr ""
+
+#. Id: 51564-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Worker Drone
+#: 51564-Dialogue.mod:0
+msgid "The frail /FLATSKIN/ is obviously frozen in fear of the Shek's might. Take pity, kin."
+msgstr ""
+
+#. Id: 51564-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (51561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Worker Drone
+#: 51564-Dialogue.mod:1
+msgid "Calm. Crushing our foreign customers will surely be bad for business."
+msgstr ""
+
+#. Id: 51574-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51564-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#: 51574-Dialogue.mod:0
+msgid "Hmph. Foreign /CRAVEN/s."
+msgstr ""
+
+#. Id: 51565-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51565-Dialogue.mod:0
+msgid "Do not be fooled by my horns, /FLATSKIN/."
+msgstr ""
+
+#. Id: 51565-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (51563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51565-Dialogue.mod:1
+msgid "Hmph. Think you can ignore me because of my horns?"
+msgstr ""
+
+#. Id: 51566-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51565-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51566-Dialogue.mod:0
+msgid "I'll peel your flesh from your bones. Keep testing me."
+msgstr ""
+
+#. Id: 51566-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (51565-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51566-Dialogue.mod:1
+msgid "Horns or no horns, I'll skin you alive, /FLATSKIN/. Keep trying my patience."
+msgstr ""
+
+#. Id: 51566-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (51565-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51566-Dialogue.mod:2
+msgid "Horns or no horns, I'll rip your spine from neck. Try me."
+msgstr ""
+
+#. Id: 51577-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51576-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 51577-Dialogue.mod:0
+msgid "Mourn your lost horns all you want, kin. It still will not make you a Shek Warrior again."
+msgstr ""
+
+#. Id: 51578-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51578-Dialogue.mod:0
+msgid "Insult. I need no horns to take on a foreign weakling."
+msgstr ""
+
+#. Id: 51578-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (51577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51578-Dialogue.mod:1
+msgid "Mockery. I need no horns to crush a foreign whelp."
+msgstr ""
+
+#. Id: 51578-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (51577-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#: 51578-Dialogue.mod:2
+msgid "Slander. I need no horns to destroy a feeble outsider."
+msgstr ""
+
+#. Id: 51579-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51578-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek shopkeeper shoo
+#: 51579-Dialogue.mod:0
+msgid "Do not fight your fate, kin. You are a servant, so serve. And do not waste energy proving your worth to a /FLATSKIN/."
+msgstr ""
+
+#. Id: 51580-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (51579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. Id: 51506-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51505-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#. Id: 47979-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 51580-Dialogue.mod:0 51506-Dialogue.mod:0 47979-Dialogue.mod:0 44139-Dialogue.mod:1
+msgid "... Hmph."
+msgstr ""
+

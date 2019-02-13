@@ -1,0 +1,677 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4810-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: KILLED_MY_FRIEND
+#. Id: 4852-dialogue-02.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (4851-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4810-D-dialogue-02.mod:0 4852-dialogue-02.mod:0
+msgid "/YUCK/."
+msgstr ""
+
+#. Id: 4811-D-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4810-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4811-D-dialogue-02.mod:0
+msgid "Cold meat."
+msgstr ""
+
+#. Id: 4811-D-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4810-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4811-D-dialogue-02.mod:1
+msgid "Old prey."
+msgstr ""
+
+#. Id: 4811-D-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4810-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4811-D-dialogue-02.mod:2
+msgid "Kill not resh."
+msgstr ""
+
+#. Id: 4811-D-dialogue-02.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (4810-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4811-D-dialogue-02.mod:3
+msgid "Odher kill dhis one."
+msgstr ""
+
+#. Id: 4811-D-dialogue-02.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (4810-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4811-D-dialogue-02.mod:4
+msgid "What a waiss."
+msgstr ""
+
+#. Id: 4813-D-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4812-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4813-D-dialogue-02.mod:0
+msgid "I ungry. I take."
+msgstr ""
+
+#. Id: 4813-D-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4812-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4813-D-dialogue-02.mod:1
+msgid "Dhen I take."
+msgstr ""
+
+#. Id: 4813-D-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4812-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4813-D-dialogue-02.mod:2
+msgid "I take dhis meat."
+msgstr ""
+
+#. Id: 4813-D-dialogue-02.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (4812-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4813-D-dialogue-02.mod:3
+msgid "I wan' habb it."
+msgstr ""
+
+#. Id: 4813-D-dialogue-02.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (4812-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4813-D-dialogue-02.mod:4
+msgid "Sill look /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 4815-D-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4814-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4815-D-dialogue-02.mod:0
+msgid "I can habb /CANNIBALBODYPART/?"
+msgstr ""
+
+#. Id: 4815-D-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4814-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4815-D-dialogue-02.mod:1
+msgid "We share, /CANNIBALYES/?"
+msgstr ""
+
+#. Id: 4815-D-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4814-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4815-D-dialogue-02.mod:2
+msgid "You take. I take. All take."
+msgstr ""
+
+#. Id: 4815-D-dialogue-02.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (4814-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4815-D-dialogue-02.mod:3
+msgid "I wan'! I wan'!"
+msgstr ""
+
+#. Id: 4815-D-dialogue-02.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (4814-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4815-D-dialogue-02.mod:4
+msgid "You get hirs bite. I nex."
+msgstr ""
+
+#. Id: 4816-D-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4815-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4816-D-dialogue-02.mod:0
+msgid "No, no, no."
+msgstr ""
+
+#. Id: 4816-D-dialogue-02.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (4815-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4816-D-dialogue-02.mod:1
+msgid "Shut mout."
+msgstr ""
+
+#. Id: 4816-D-dialogue-02.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (4815-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4820-D-dialogue-02.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (4819-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4852-dialogue-02.mod
+#. -- Index: 20.1
+#. -- Parent line: 19 (4851-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4816-D-dialogue-02.mod:2 4820-D-dialogue-02.mod:0 4852-dialogue-02.mod:1
+msgid "/CANNIBALCURSE/."
+msgstr ""
+
+#. Id: 4819-D-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4816-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4819-D-dialogue-02.mod:0
+msgid "I hind. I hirs."
+msgstr ""
+
+#. Id: 4819-D-dialogue-02.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (4816-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4838-dialogue-02.mod
+#. -- Index: 13.2
+#. -- Parent line: 12 (4841-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4819-D-dialogue-02.mod:1 4838-dialogue-02.mod:2
+msgid "Dhis mine."
+msgstr ""
+
+#. Id: 4819-D-dialogue-02.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (4816-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4819-D-dialogue-02.mod:2
+msgid "I take meat."
+msgstr ""
+
+#. Id: 4821-D-dialogue-02.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (4820-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4821-D-dialogue-02.mod:0
+msgid "You say don' wan'."
+msgstr ""
+
+#. Id: 4821-D-dialogue-02.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (4820-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4821-D-dialogue-02.mod:1
+msgid "You wan' new meat."
+msgstr ""
+
+#. Id: 4821-D-dialogue-02.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (4820-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4821-D-dialogue-02.mod:2
+msgid "You gibb up a'ready."
+msgstr ""
+
+#. Id: 4822-D-dialogue-02.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (4821-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4822-D-dialogue-02.mod:0
+msgid "I ne'er say dhat."
+msgstr ""
+
+#. Id: 4822-D-dialogue-02.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (4821-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4822-D-dialogue-02.mod:1
+msgid "I not say."
+msgstr ""
+
+#. Id: 4822-D-dialogue-02.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (4821-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4822-D-dialogue-02.mod:2
+msgid "I not say. Not say!"
+msgstr ""
+
+#. Id: 4822-D-dialogue-02.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (4821-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4822-D-dialogue-02.mod:3
+msgid "No. Dhis sill mine."
+msgstr ""
+
+#. Id: 4822-D-dialogue-02.mod
+#. -- Index: 10.4
+#. -- Parent line: 9 (4821-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4822-D-dialogue-02.mod:4
+msgid "/CANNIBALCURSE/. My meat."
+msgstr ""
+
+#. Id: 4823-D-dialogue-02.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (4822-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4823-D-dialogue-02.mod:0
+msgid "I hear it."
+msgstr ""
+
+#. Id: 4823-D-dialogue-02.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (4822-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4823-D-dialogue-02.mod:1
+msgid "You say it."
+msgstr ""
+
+#. Id: 4823-D-dialogue-02.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (4822-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4823-D-dialogue-02.mod:2
+msgid "/CANNIBALYES/. You say."
+msgstr ""
+
+#. Id: 4825-D-dialogue-02.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (4824-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4825-D-dialogue-02.mod:1
+msgid "What dhis?"
+msgstr ""
+
+#. Id: 4826-D-dialogue-02.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (4825-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4826-D-dialogue-02.mod:0
+msgid "I take dhis, /CANNIBALYES/?"
+msgstr ""
+
+#. Id: 4826-D-dialogue-02.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (4825-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4826-D-dialogue-02.mod:1
+msgid "Dhis mine?"
+msgstr ""
+
+#. Id: 4826-D-dialogue-02.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (4825-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4826-D-dialogue-02.mod:2
+msgid "I take meat?"
+msgstr ""
+
+#. Id: 4827-D-dialogue-02.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (4826-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4828-D-dialogue-02.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (4827-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4829-D-dialogue-02.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (4828-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4841-D-dialogue-02.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (4823-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4842-dialogue-02.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (4841-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4827-D-dialogue-02.mod:0 4828-D-dialogue-02.mod:0 4829-D-dialogue-02.mod:0 4841-D-dialogue-02.mod:0 4842-dialogue-02.mod:0
+msgid "/CANNIBALCURSE/!"
+msgstr ""
+
+#. Id: 4827-D-dialogue-02.mod
+#. -- Index: 15.1
+#. -- Parent line: 14 (4826-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4828-D-dialogue-02.mod
+#. -- Index: 16.1
+#. -- Parent line: 15 (4827-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#. Id: 4829-D-dialogue-02.mod
+#. -- Index: 17.1
+#. -- Parent line: 16 (4828-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4827-D-dialogue-02.mod:1 4828-D-dialogue-02.mod:1 4829-D-dialogue-02.mod:1
+msgid "NO!"
+msgstr ""
+
+#. Id: 4831-D-dialogue-02.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (4830-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4831-D-dialogue-02.mod:0
+msgid "I jus'... I..."
+msgstr ""
+
+#. Id: 4832-D-dialogue-02.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (4829-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4832-D-dialogue-02.mod:0
+msgid "Hine."
+msgstr ""
+
+#. Id: 4833-D-dialogue-02.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (4832-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4833-D-dialogue-02.mod:0
+msgid "I hind odher."
+msgstr ""
+
+#. Id: 4833-D-dialogue-02.mod
+#. -- Index: 19.1
+#. -- Parent line: 18 (4832-D-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal squabble over corpse
+#: 4833-D-dialogue-02.mod:1
+msgid "Dhis meat /CANNIBALNASTY/."
+msgstr ""
+
+#. Id: 4838-dialogue-02.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (4841-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4838-dialogue-02.mod:0
+msgid "You lie."
+msgstr ""
+
+#. Id: 4838-dialogue-02.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (4841-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4838-dialogue-02.mod:1
+msgid "Not true."
+msgstr ""
+
+#. Id: 4839-dialogue-02.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (4838-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4839-dialogue-02.mod:0
+msgid "One way we settle dhis."
+msgstr ""
+
+#. Id: 4839-dialogue-02.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (4838-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4839-dialogue-02.mod:1
+msgid "We need settle dhis."
+msgstr ""
+
+#. Id: 4839-dialogue-02.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (4838-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4839-dialogue-02.mod:2
+msgid "Dhen... You know what we do."
+msgstr ""
+
+#. Id: 4840-dialogue-02.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (4839-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4840-dialogue-02.mod:0
+msgid "No odher way."
+msgstr ""
+
+#. Id: 4840-dialogue-02.mod
+#. -- Index: 15.1
+#. -- Parent line: 14 (4839-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4840-dialogue-02.mod:1
+msgid "No choice."
+msgstr ""
+
+#. Id: 4843-dialogue-02.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (4842-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4843-dialogue-02.mod:0
+msgid "No one get."
+msgstr ""
+
+#. Id: 4843-dialogue-02.mod
+#. -- Index: 18.1
+#. -- Parent line: 17 (4842-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4843-dialogue-02.mod:1
+msgid "No one take meat."
+msgstr ""
+
+#. Id: 4844-dialogue-02.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (4823-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal squabble over corpse
+#: 4844-dialogue-02.mod:1
+msgid "Please... don't..."
+msgstr ""
+
+#. Id: 4844-dialogue-02.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (4823-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal squabble over corpse
+#: 4844-dialogue-02.mod:2
+msgid "Cold... so cold..."
+msgstr ""
+
+#. Id: 4846-dialogue-02.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (4845-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4846-dialogue-02.mod:0
+msgid "Dhis one..."
+msgstr ""
+
+#. Id: 4846-dialogue-02.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (4845-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4846-dialogue-02.mod:1
+msgid "Oh. Prey sill..."
+msgstr ""
+
+#. Id: 4847-dialogue-02.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (4846-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4847-dialogue-02.mod:0
+msgid "... alibe."
+msgstr ""
+
+#. Id: 4847-dialogue-02.mod
+#. -- Index: 15.1
+#. -- Parent line: 14 (4846-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4847-dialogue-02.mod:1
+msgid "... not dead."
+msgstr ""
+
+#. Id: 4849-dialogue-02.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (4848-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4849-dialogue-02.mod:0
+msgid "/CANNIBALYES/, you take dhis one."
+msgstr ""
+
+#. Id: 4849-dialogue-02.mod
+#. -- Index: 17.1
+#. -- Parent line: 16 (4848-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4849-dialogue-02.mod:1
+msgid "Okay. You can take."
+msgstr ""
+
+#. Id: 4849-dialogue-02.mod
+#. -- Index: 17.2
+#. -- Parent line: 16 (4848-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal squabble over corpse
+#: 4849-dialogue-02.mod:2
+msgid "Ne'ermine. I don' wan' weak prey."
+msgstr ""
+
+#. Id: 4850-dialogue-02.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (4849-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4850-dialogue-02.mod:0
+msgid "I don' wan' eidher."
+msgstr ""
+
+#. Id: 4850-dialogue-02.mod
+#. -- Index: 18.1
+#. -- Parent line: 17 (4849-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4850-dialogue-02.mod:1
+msgid "I don' like /CANNIBALNASTY/ meat."
+msgstr ""
+
+#. Id: 4850-dialogue-02.mod
+#. -- Index: 18.2
+#. -- Parent line: 17 (4849-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal squabble over corpse
+#: 4850-dialogue-02.mod:2
+msgid "Prey too weak."
+msgstr ""
+
+#. Id: 4852-dialogue-02.mod
+#. -- Index: 20.2
+#. -- Parent line: 19 (4851-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4852-dialogue-02.mod:2
+msgid "/CANNIBALNASTY/."
+msgstr ""
+
+#. Id: 4878-dialogue-02.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (4844-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4878-dialogue-02.mod:0
+msgid "Sill alibe?"
+msgstr ""
+
+#. Id: 4878-dialogue-02.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (4844-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4878-dialogue-02.mod:1
+msgid "Not dead?"
+msgstr ""
+
+#. Id: 4878-dialogue-02.mod
+#. -- Index: 13.2
+#. -- Parent line: 12 (4844-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal squabble over corpse
+#: 4878-dialogue-02.mod:2
+msgid "Hm? Prey only weak?"
+msgstr ""
+

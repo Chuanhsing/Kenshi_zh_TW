@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1534196-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to ally
+#: 1534196-Dialogue.mod:0
+msgid "Wanna swap skins, flesh /BROTHER/?"
+msgstr ""
+
+#. Id: 1534196-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to ally
+#: 1534196-Dialogue.mod:1
+msgid "Take a look at my skin collection, flesh /BROTHER/..."
+msgstr ""
+
+#. Id: 1534196-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to ally
+#: 1534196-Dialogue.mod:2
+msgid "Wanna see my skins, flesh /BROTHER/?"
+msgstr ""
+
+#. Id: 1534196-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to ally
+#: 1534196-Dialogue.mod:3
+msgid "I make the best skin suits. Wanna see?"
+msgstr ""
+
+#. Id: 1534197-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534196-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to ally
+#: 1534197-Dialogue.mod:0
+msgid "Show me your skins."
+msgstr ""
+
+#. Id: 1534198-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534196-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to ally
+#. Id: 1383-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 47636-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47632-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire 700
+#. Id: 1705-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1703-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 1748-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1746-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 5000
+#: 1534198-Dialogue.mod:0 1383-gamedata.base:0 47636-Dialogue.mod:0 1705-gamedata.base:0 1748-gamedata.base:0
+msgid "No thanks."
+msgstr ""
+

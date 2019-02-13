@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18523-Dialogue.mod:0
+msgid "Get me out of here, NOW!"
+msgstr ""
+
+#. Id: 18524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18524-Dialogue.mod:0
+msgid "I'll reward you well, minion!"
+msgstr ""
+
+#. Id: 18524-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18524-Dialogue.mod:1
+msgid "I'll give you gold! Loads of gold!"
+msgstr ""
+
+#. Id: 18524-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18524-Dialogue.mod:2
+msgid "I'll make you rich! Just get me OUT of here!"
+msgstr ""
+
+#. Id: 18655-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. Id: 4844-dialogue-02.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (4823-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal squabble over corpse
+#: 18655-Dialogue.mod:0 4844-dialogue-02.mod:0
+msgid "Help... me..."
+msgstr ""
+
+#. Id: 18657-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18657-Dialogue.mod:0
+msgid "...I'll pay you well"
+msgstr ""
+
+#. Id: 18657-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Unlock noble
+#: 18657-Dialogue.mod:1
+msgid "... I'll reward you"
+msgstr ""
+

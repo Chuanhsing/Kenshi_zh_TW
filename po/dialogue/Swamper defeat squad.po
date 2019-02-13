@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:0
+msgid "Let the /DOG/s finish /EM/ off"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:1
+msgid "Leave /EM/ to the /DOG/s"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:2
+msgid "Let the /DOG/s chew /EM/ up"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:3
+msgid "Leave /EM/ to rot"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:4
+msgid "Let /EM/ rot in the /SANDS/"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12413-Dialogue?(10)?(2).mod:5
+msgid "Let /EM/ rot in the dirt"
+msgstr ""
+
+#. Id: 12413-Dialogue (10) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. Id: 50741-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Miu defeated squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 12413-Dialogue?(10)?(2).mod:6 50741-Dialogue.mod:4
+msgid "Let the gutters finish /EM/ off"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12427-Dialogue?(10)?(2).mod:0
+msgid "Hope you rot"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. Id: 12410-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeated someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12427-Dialogue?(10)?(2).mod:1 12410-Dialogue?(10)?(2).mod:0
+msgid "Rot in the /SANDS/"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12427-Dialogue?(10)?(2).mod:2
+msgid "Rot"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12427-Dialogue?(10)?(2).mod:3
+msgid "Rot in shit"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#: 12427-Dialogue?(10)?(2).mod:4
+msgid "Ain't worth a shit"
+msgstr ""
+
+#. Id: 12427-Dialogue (10) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12422-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. Id: 12429-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 53997-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53983-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#. Id: 54592-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (54591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 12427-Dialogue?(10)?(2).mod:5 12429-Dialogue?(10)?(2).mod:0 53997-Dialogue.mod:1 54592-Dialogue.mod:1
+msgid "*Spit*"
+msgstr ""
+
+#. Id: 12424-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 12372-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12370-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper betrayal
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12424-Dialogue?(10)?(2).mod:0 12372-Dialogue?(10).mod:1
+msgid "/INSULT/s"
+msgstr ""
+
+#. Id: 12424-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 12372-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12370-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper betrayal
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 12424-Dialogue?(10)?(2).mod:1 12372-Dialogue?(10).mod:0
+msgid "/BASTARD/s"
+msgstr ""
+
+#. Id: 12428-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12428-Dialogue?(10)?(2).mod:0
+msgid "Got /EM/"
+msgstr ""
+
+#. Id: 12429-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12429-Dialogue?(10)?(2).mod:3
+msgid "Worthless"
+msgstr ""
+
+#. Id: 12429-Dialogue (10) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12429-Dialogue?(10)?(2).mod:4
+msgid "You quittin' on me already?"
+msgstr ""
+
+#. Id: 12429-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12429-Dialogue?(10)?(2).mod:5
+msgid "Is that all ya got?"
+msgstr ""
+

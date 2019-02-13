@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55694-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 55694-Dialogue.mod:0
+msgid "May the goddess shine blessings upon us, sister"
+msgstr ""
+
+#. Id: 55695-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 55695-Dialogue.mod:0
+msgid "What are you looking at, meatbag?"
+msgstr ""
+
+#. Id: 55695-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 55695-Dialogue.mod:1
+msgid "Great, I smell a gorrillo looking to trade..."
+msgstr ""
+
+#. Id: 55697-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#. Id: 57674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hamut spots slavers
+#: 55697-Dialogue.mod:0 57674-Dialogue.mod:0
+msgid "Slaver scum..."
+msgstr ""
+
+#. Id: 55697-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#: 55697-Dialogue.mod:1
+msgid "Chains make you feel in control, don't they..."
+msgstr ""
+
+#. Id: 55697-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#: 55697-Dialogue.mod:2
+msgid "Nail will find your eye some day, scum..."
+msgstr ""
+
+#. Id: 55698-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#: 55698-Dialogue.mod:0
+msgid "Life is tough, but so am I..."
+msgstr ""
+
+#. Id: 55699-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#: 55699-Dialogue.mod:0
+msgid "Moll is my leader, Lord Phoenix is a weakling compared to her..."
+msgstr ""
+
+#. Id: 55938-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#. -- Condition: Target Race(s): Skeleton
+#: 55938-Dialogue.mod:0
+msgid "I don't deal with tin-heads, and I don't trust tin-heads..."
+msgstr ""
+
+#. Id: 55939-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmonothoe greet
+#: 55939-Dialogue.mod:0
+msgid "One warning: Leave or die, vile skeleton."
+msgstr ""
+

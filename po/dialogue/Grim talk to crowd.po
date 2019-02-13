@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57079-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 57079-Dialogue.mod:0
+msgid "What does /HE/ want from me? Can't /HE/ see I'm busy?"
+msgstr ""
+
+#. Id: 57081-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#: 57081-Dialogue.mod:0
+msgid "Not like I ain't got a goddamn SWAMP to run or anything, eh..."
+msgstr ""
+
+#. Id: 57083-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57082-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Grim talk to crowd
+#: 57083-Dialogue.mod:0
+msgid "Wants chitchat I guess, boss."
+msgstr ""
+
+#. Id: 57084-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#: 57084-Dialogue.mod:0
+msgid "CHITCHAT? What do I look like, a fucking barman?"
+msgstr ""
+
+#. Id: 57085-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#: 57085-Dialogue.mod:0
+msgid "Last person who tried 'chitchat' with me got a fork in the eye..."
+msgstr ""
+
+#. Id: 57086-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57085-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Grim talk to crowd
+#: 57086-Dialogue.mod:0
+msgid "Pahahaha!"
+msgstr ""
+
+#. Id: 57087-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57086-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#: 57087-Dialogue.mod:0
+msgid "Eh, was I makin' a joke, hound? Do I look like a comedian to you now?"
+msgstr ""
+
+#. Id: 57088-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57087-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Grim talk to crowd
+#: 57088-Dialogue.mod:0
+msgid "No, boss."
+msgstr ""
+
+#. Id: 57090-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (57088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 57090-Dialogue.mod:0
+msgid "An' what are YOU gawkin' at, creep? Git outta here before I fork ya!"
+msgstr ""
+
+#. Id: 57080-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talk to crowd
+#: 57080-Dialogue.mod:0
+msgid "What do they want from me? Can't they see I'm busy?"
+msgstr ""
+

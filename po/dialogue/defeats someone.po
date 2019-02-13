@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:2
+msgid "You feel that? Huh? Did you feel that?!"
+msgstr ""
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:3
+msgid "The harder they fall."
+msgstr ""
+
+#. Id: 3429-dialogue-01.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3429-dialogue-01.mod:8
+msgid "Can't believe it. I beat you."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:0
+msgid "/BASTARD/."
+msgstr ""
+
+#. Id: 4448-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4448-dialogue-02.mod:2
+msgid "/IDIOT/."
+msgstr ""
+

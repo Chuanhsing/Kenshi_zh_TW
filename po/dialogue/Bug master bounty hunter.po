@@ -1,0 +1,168 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51405-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 51405-Dialogue.mod:0
+msgid "Some folks say I'm suicidal for coming here to the crater. Me, I say I'm a gambler. So far a whole lotta ladies and fellas have tried and failed against the bugmaster, a hell load in fact... So, simple probability says the bugmaster's luck is soon to run out. An' I like those odds."
+msgstr ""
+
+#. Id: 51411-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51411-Dialogue.mod:0
+msgid "Main thing I know is that he's got a fat bounty on his head. Second thing I know is he's got a whole lot of loot stashed in his tower. Every night I dream of all that treasure he's got hidden away for himself... Pearls, ancient relics, mountains of coins you could swim in!... And every night I promise myself that my luck is gonna change, an' it'll be my turn to be the guy with all the Cats."
+msgstr ""
+
+#. Id: 51412-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51412-Dialogue.mod:0
+msgid "That still doesn't explain to me what the bugmaster is..."
+msgstr ""
+
+#. Id: 51413-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51413-Dialogue.mod:0
+msgid "What he is, eh? Well, me, I heard he's a bug romancer. Yeah, the guy's obsessed with insects. Story goes that he was in an accident as a kid, left for dead, but he got revived and nursed back to life by bugs. Since that day he's had this mental connection with them, they revere him as their king. Crazy stuff you'd only believe if you'd seen the destruction he's capable of with your own eyes."
+msgstr ""
+
+#. Id: 51416-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51416-Dialogue.mod:0
+msgid "Bug king, eh? Well, his head is mine."
+msgstr ""
+
+#. Id: 51420-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51416-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51420-Dialogue.mod:0
+msgid "You'll have to beat me to it first, /OUTLANDER/, I'm gettin' that treasure!"
+msgstr ""
+
+#. Id: 51419-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51413-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51419-Dialogue.mod:0
+msgid "That sounds made up"
+msgstr ""
+
+#. Id: 51489-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51489-rebirth.mod:0
+msgid "It's not made up! It's my THEORY. How else is a guy gonna control bugs?"
+msgstr ""
+
+#. Id: 51490-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51489-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51490-rebirth.mod:0
+msgid "So you did make it up then."
+msgstr ""
+
+#. Id: 51491-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51490-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51491-rebirth.mod:0
+msgid "Well, technically yeah, if you put it like that..."
+msgstr ""
+
+#. Id: 51407-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51407-Dialogue.mod:0
+msgid "Why risk your life against the bugmaster?"
+msgstr ""
+
+#. Id: 51414-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51407-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51414-Dialogue.mod:0
+msgid "I was born during the Red Rebellion, an orphan of war. Poverty is my life's curse. Escaping it is my dream. And the bug master's treasure is my one way ticket to that dream."
+msgstr ""
+
+#. Id: 51415-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51415-Dialogue.mod:0
+msgid "Is having your guts sucked out by bugs part of that dream too?"
+msgstr ""
+
+#. Id: 51421-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51421-Dialogue.mod:0
+msgid "You just had to go piss on my parade didn't you, eh, /OUTLANDER/? We got a rule around here: No talk of gut sucking, it's hard enough pluckin' up the courage to take on the bug master. Some things are best pushed to the back of the mind..."
+msgstr ""
+
+#. Id: 51408-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51408-Dialogue.mod:0
+msgid "I'm betting you suck at gambling."
+msgstr ""
+
+#. Id: 51410-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51408-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter
+#: 51410-Dialogue.mod:0
+msgid "If I didn't suck at gambling, I wouldn't be in this shit hole right now. But, hey, probability says my luck's about to change."
+msgstr ""
+
+#. Id: 51409-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51409-Dialogue.mod:0
+msgid "And I say you're deluded. So long."
+msgstr ""
+

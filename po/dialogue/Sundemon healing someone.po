@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42668-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42668-Dialogue.mod:0
+msgid "Oh that's gonna scar..."
+msgstr ""
+
+#. Id: 42668-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42668-Dialogue.mod:1
+msgid "/GODDAMN/, that's a mess!"
+msgstr ""
+
+#. Id: 42668-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42668-Dialogue.mod:2
+msgid "Whoa, glad that ain't me!"
+msgstr ""
+
+#. Id: 42668-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42668-Dialogue.mod:3
+msgid "Oh hell, that's bad!"
+msgstr ""
+
+#. Id: 42670-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42670-Dialogue.mod:0
+msgid "I mean, that's bad. Real bad."
+msgstr ""
+
+#. Id: 42670-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42670-Dialogue.mod:1
+msgid "Now that's what I call a wound! Yeesh..."
+msgstr ""
+
+#. Id: 42670-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42670-Dialogue.mod:2
+msgid "I mean, I reckon we're gonna have to amputate something here..."
+msgstr ""
+
+#. Id: 42670-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42670-Dialogue.mod:3
+msgid "I'll be surprised if you survive the night with that wound..."
+msgstr ""
+
+#. Id: 42671-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 42671-Dialogue.mod:0
+msgid "Just shut up and heal."
+msgstr ""
+
+#. Id: 42680-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42680-Dialogue.mod:0
+msgid "/MERCLAUGH/, cool it, I'm just kidding"
+msgstr ""
+
+#. Id: 42672-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42672-Dialogue.mod:0
+msgid "What? Really?!"
+msgstr ""
+
+#. Id: 42672-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42672-Dialogue.mod:1
+msgid "What? Are you serious!?"
+msgstr ""
+
+#. Id: 42673-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42672-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#: 42673-Dialogue.mod:0
+msgid "Nah, but you should see the look on your face, /MERCLAUGH/"
+msgstr ""
+
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42675-Dialogue.mod:0
+msgid "Ugh, that's ugly. Better you than me I guess..."
+msgstr ""
+
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42675-Dialogue.mod:3
+msgid "So much blood... I think I'm gonna throw up..."
+msgstr ""
+
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42675-Dialogue.mod:4
+msgid "Is that bit supposed to be sticking out like that..?"
+msgstr ""
+
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42675-Dialogue.mod:5
+msgid "Whew! Glad I'm not you right now, that looks BAD..."
+msgstr ""
+
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 42675-Dialogue.mod:6
+msgid "This ain't pretty..."
+msgstr ""
+

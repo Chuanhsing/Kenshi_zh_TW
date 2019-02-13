@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10298-Dialogue (7).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 10298-Dialogue?(7).mod:0
+msgid "Wh- who are you, what do you want? Go away and leave us be!"
+msgstr ""
+
+#. Id: 10299-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10298-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10299-Dialogue?(7).mod:0
+msgid "Supplies... shelter... is this how you normally treat strangers?"
+msgstr ""
+
+#. Id: 10306-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10299-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10306-Dialogue?(7).mod:0
+msgid "... Aye... Sorry for being so cold... "
+msgstr ""
+
+#. Id: 58414-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10306-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 58414-Dialogue.mod:0
+msgid "We've had lots of bandit raids round these parts recently, just tryin' to protect my family is all... Don't got much, but you can take a look at my supplies..."
+msgstr ""
+
+#. Id: 10324-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10324-Dialogue?(7).mod:0
+msgid "Okay, let's see what you got"
+msgstr ""
+
+#. Id: 10327-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10327-Dialogue?(7).mod:0
+msgid "Bandits?... Need protection?"
+msgstr ""
+
+#. Id: 10328-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10327-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10328-Dialogue?(7).mod:0
+msgid "Aye, I do, can't afford to pay for it though. I'm wiped out, can barely afford to feed my family. But aye, what can you do? Just gotta suck it up and make do with the ol' sword and the ol' dog..."
+msgstr ""
+
+#. Id: 10329-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10328-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10329-Dialogue?(7).mod:0
+msgid "That's too bad. I hope your luck improves."
+msgstr ""
+
+#. Id: 10479-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10329-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10479-Dialogue?(7).mod:0
+msgid "Aye, me too."
+msgstr ""
+
+#. Id: 49502-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10479-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 49502-Dialogue.mod:0
+msgid "Can I take a look at your supplies?"
+msgstr ""
+
+#. Id: 10480-Dialogue (7).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10479-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10480-Dialogue?(7).mod:0
+msgid "I'll be going now. Take care."
+msgstr ""
+
+#. Id: 10331-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10328-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10331-Dialogue?(7).mod:0
+msgid "Don't worry. You're safe while I'm around."
+msgstr ""
+
+#. Id: 10332-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10331-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10332-Dialogue?(7).mod:0
+msgid "I hope so. Thank you, /OUTLANDER/... "
+msgstr ""
+
+#. Id: 10335-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10328-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10335-Dialogue?(7).mod:0
+msgid "Well, I'll just take a look at your supplies instead."
+msgstr ""
+
+#. Id: 58412-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10328-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 58412-Dialogue.mod:0
+msgid "Then, I'll just take a look at your animals instead."
+msgstr ""
+
+#. Id: 58071-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 58071-Dialogue.mod:0
+msgid "Any animals for sale?"
+msgstr ""
+
+#. Id: 49513-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58414-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 49513-Dialogue.mod:0
+msgid "Actually, I've changed my mind, nevermind."
+msgstr ""
+
+#. Id: 10300-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10298-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10300-Dialogue?(7).mod:0
+msgid "Just a traveller passing through, that's all."
+msgstr ""
+
+#. Id: 10307-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10300-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10307-Dialogue?(7).mod:0
+msgid "Well pass through somewhere else! Ain't got no room for travellers round here!"
+msgstr ""
+
+#. Id: 10309-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10307-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10309-Dialogue?(7).mod:0
+msgid "... Are you always this hostile to your visitors?"
+msgstr ""
+
+#. Id: 10326-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10309-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10326-Dialogue?(7).mod:0
+msgid "Aye... Sorry, didn't mean to be so cold..."
+msgstr ""
+
+#. Id: 58415-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10326-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 58415-Dialogue.mod:0
+msgid "Had a bad run-in with bandits 'round these parts lately, forgive me for bein' overly grumpy... Don't got much left but you're welcome to take a look at my goods..."
+msgstr ""
+
+#. Id: 10310-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10307-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10310-Dialogue?(7).mod:0
+msgid "Fine, I'm out of here"
+msgstr ""
+
+#. Id: 10311-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10307-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10311-Dialogue?(7).mod:0
+msgid "What's your problem?"
+msgstr ""
+
+#. Id: 10301-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10298-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10301-Dialogue?(7).mod:0
+msgid "Fine, you don't have to ask me twice. I'm leaving."
+msgstr ""
+
+#. Id: 10302-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10298-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10302-Dialogue?(7).mod:0
+msgid "Your goods! Hand 'em over, now!"
+msgstr ""
+
+#. Id: 10314-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10302-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 10314-Dialogue?(7).mod:0
+msgid "Take my money! Just leave my family alone! 1000 Cats, it's all I got left... *Sob*"
+msgstr ""
+
+#. Id: 10316-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10314-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10316-Dialogue?(7).mod:0
+msgid "That will do."
+msgstr ""
+
+#. Id: 10320-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10314-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10320-Dialogue?(7).mod:0
+msgid "Not enough! I'll just have to take the rest by force!"
+msgstr ""
+
+#. Id: 10321-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10314-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10321-Dialogue?(7).mod:0
+msgid "No! I want that goat as well!"
+msgstr ""
+
+#. Id: 10408-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10321-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10408-Dialogue?(7).mod:0
+msgid "No, not my goat! Please, anything but my goat! Take my daughter instead! "
+msgstr ""
+
+#. Id: 10411-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10408-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10411-Dialogue?(7).mod:0
+msgid "What kind of father chooses a goat over his own daughter?!"
+msgstr ""
+
+#. Id: 10414-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10411-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10414-Dialogue?(7).mod:0
+msgid "She'd make a fine wife.. or even a good slave, I swear! But I damn well love muh' goats..."
+msgstr ""
+
+#. Id: 10415-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10414-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10415-Dialogue?(7).mod:0
+msgid "I don't want your daughter! Forget it, the 1000 Cats will do."
+msgstr ""
+
+#. Id: 10417-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10414-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10417-Dialogue?(7).mod:0
+msgid "Forget it, you're a horrible excuse for a human being..."
+msgstr ""
+
+#. Id: 49508-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10417-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 49508-Dialogue.mod:0
+msgid "Please, just go..."
+msgstr ""
+
+#. Id: 10418-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10414-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10418-Dialogue?(7).mod:0
+msgid "Fine, then I'll just take your life instead."
+msgstr ""
+
+#. Id: 10412-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10408-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10412-Dialogue?(7).mod:0
+msgid "Alright, alright! The 1000 Cats will do, just quit screaming so loud..."
+msgstr ""
+
+#. Id: 10413-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10408-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer
+#: 10413-Dialogue?(7).mod:0
+msgid "The goat or your life!"
+msgstr ""
+
+#. Id: 10427-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10413-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10427-Dialogue?(7).mod:0
+msgid "... Never!... You can't take 'im!"
+msgstr ""
+
+#. Id: 49512-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10427-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 49512-Dialogue.mod:0
+msgid "You /MONSTER/!"
+msgstr ""
+
+#. Id: 10482-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10302-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10482-Dialogue?(7).mod:0
+msgid "Just as I thought! Another raidin' scumbag... I ain't handin' over nothin'! "
+msgstr ""
+
+#. Id: 10303-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10482-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10303-Dialogue?(7).mod:0
+msgid "You ain't welcome round here! Get off my land!"
+msgstr ""
+

@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51495-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 51495-Dialogue.mod:0
+msgid "Curious. A /FLATSKIN/ in Last Stand? You've spine to travel bugmaster territory, I'll give you that."
+msgstr ""
+
+#. Id: 51496-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51496-Dialogue.mod:0
+msgid "Can you tell me about the bugmaster?"
+msgstr ""
+
+#. Id: 51497-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51496-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51497-Dialogue.mod:0
+msgid "A coward! The bugmaster hides behind his bugs... BUGS. The lowliest of beasts. If I was to have an army of beasts it would be one of mighty leviathyns. Not that I'd need an army of beasts. A true warrior needs only his fists or his blades."
+msgstr ""
+
+#. Id: 51498-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51497-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51498-Dialogue.mod:0
+msgid "How did he get such a huge army of bugs?"
+msgstr ""
+
+#. Id: 51499-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51498-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51499-Dialogue.mod:0
+msgid "Science! You outsiders, so obsessed and distracted by gimmicks, this a perfect example of your precious science gone too far. Controlling the minds of insects... how about working on your combat skills instead. His bugs won't protect him forever... My bones grow old, soon it will be my turn to hunt down the bugmaster and it will be my pleasure to pull his heart from his fat brained ribcage... "
+msgstr ""
+
+#. Id: 51508-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51508-Dialogue.mod:0
+msgid "Your turn?"
+msgstr ""
+
+#. Id: 51511-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51508-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51511-Dialogue.mod:0
+msgid "For a glorious death. The Shek elders come to Last Stand in preparation for their final battle. A true warrior wishes to die swords blazing, not sucking boiled gruel through a straw from their bedsit. The bugmaster has so far proven himself worthy of granting the elders their deaths in battle. The coward only hopes that he will be a match for my own sword though."
+msgstr ""
+
+#. Id: 51509-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51509-Dialogue.mod:0
+msgid "Way to stereotype humanity... "
+msgstr ""
+
+#. Id: 51514-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51509-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51514-Dialogue.mod:0
+msgid "Hopelessness. The flatskins, the stick men, they lack the physical prowess of a Shek Warrior, but through blood and sweat strength is still within their reach. Alas, no, their lazy minds are too weak to endure such training. Brains are worthless in these lands, they count for nothing."
+msgstr ""
+
+#. Id: 51515-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51514-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51515-Dialogue.mod:0
+msgid "The arrogance of a Shek warrior is astounding."
+msgstr ""
+
+#. Id: 51520-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51514-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51520-Dialogue.mod:0
+msgid "Agreed. Lazy, the lot of them."
+msgstr ""
+
+#. Id: 51510-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#. Id: 51459-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 3
+#: 51510-Dialogue.mod:0 51459-Dialogue.mod:0
+msgid "Good luck with that."
+msgstr ""
+
+#. Id: 51507-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51497-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51507-Dialogue.mod:0
+msgid "I see... Thanks for the info, I guess."
+msgstr ""
+
+#. Id: 51503-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51501-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51503-Dialogue.mod:0
+msgid "Departure. To the other side. The Shek elders come here in preparation for their final battle. A true warrior wishes to die swords blazing, not sucking boiled gruel through a straw from their bedsit. The bugmaster has so far proven himself worthy of granting the elders their deaths in battle. Whether the coward will be a match for my own sword, we'll see."
+msgstr ""
+
+#. Id: 51502-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51502-Dialogue.mod:0
+msgid "Er... thanks I guess."
+msgstr ""
+
+#. Id: 51504-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 51504-Dialogue.mod:0
+msgid "An observation. Not a compliment."
+msgstr ""
+
+#. Id: 51519-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51504-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 51519-Dialogue.mod:0
+msgid "I don't have time for this, I'm leaving."
+msgstr ""
+
+#. Id: 64035-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 64035-Dialogue.mod:0
+msgid "Good to see you, /FLATSKIN/."
+msgstr ""
+
+#. Id: 64036-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_DEAD=0, Tag: -1
+#: 64036-Dialogue.mod:0
+msgid "That cannot be...!"
+msgstr ""
+
+#. Id: 64043-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 2
+#: 64043-Dialogue.mod:0
+msgid "But it was I who was supposed to kill the bugmaster!"
+msgstr ""
+

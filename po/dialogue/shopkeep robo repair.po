@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64658-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep robo repair
+#: 64658-rebirth.mod:0
+msgid "Need any supplies?"
+msgstr ""
+
+#. Id: 64660-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64658-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep robo repair
+#. Id: 56192-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56188-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: bookshop guy
+#. Id: 10403-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10402-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Suspicious farmer pt2
+#: 64660-rebirth.mod:0 56192-rebirth.mod:1 10403-Dialogue?(7).mod:0
+msgid "Show me what you got"
+msgstr ""
+
+#. Id: 64659-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep robo repair
+#. -- Condition: Target Race(s): Skeleton
+#: 64659-rebirth.mod:0
+msgid "Need any supplies?  I got some skeleton repair beds upstairs too if you need 'em."
+msgstr ""
+
+#. Id: 64663-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64659-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep robo repair
+#: 64663-rebirth.mod:0
+msgid "What's a \"skeleton repair bed\"?"
+msgstr ""
+
+#. Id: 64664-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64663-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep robo repair
+#: 64664-rebirth.mod:0
+msgid "Y'know, when skeletons get worn out from too much fighting and patchwork repairs it starts to take it's toll.  A proper repair bed fixes 'em up good as new."
+msgstr ""
+
+#. Id: 95788-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64664-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep robo repair
+#: 95788-rebirth.mod:0
+msgid "And sometimes hunters get their arms and legs eaten off, so they come use the beds to fit skeleton limbs on their stumps."
+msgstr ""
+
+#. Id: 95789-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95788-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep robo repair
+#: 95789-rebirth.mod:0
+msgid "Better than just waving your stumps around at the enemy, eh? /QUICKLAUGH/!"
+msgstr ""
+

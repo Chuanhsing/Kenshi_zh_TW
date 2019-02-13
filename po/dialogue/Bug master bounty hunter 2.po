@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51424-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 51424-Dialogue.mod:0
+msgid "Here for the bugmaster's head too, are we? Guess you're either a person with nothing to lose or a person with everything to gain..."
+msgstr ""
+
+#. Id: 51425-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51424-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51425-Dialogue.mod:0
+msgid "What about you?"
+msgstr ""
+
+#. Id: 51426-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51426-Dialogue.mod:0
+msgid "I'm running away from one familiar enemy only to make another one from the unknown. But at least the unfamiliar enemy seems a whole lot less frightening, you can't fear what you don't know after all... right? "
+msgstr ""
+
+#. Id: 51427-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51427-Dialogue.mod:0
+msgid "Anyway, ever heard of the Blackshifters? I owe them a debt, and the bug master's treasure is my last hope right now. Because my other options, well.. they don't look so good right now..."
+msgstr ""
+
+#. Id: 51428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#. Id: 51406-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51405-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51428-Dialogue.mod:0 51406-Dialogue.mod:0
+msgid "What do you know of the bugmaster?"
+msgstr ""
+
+#. Id: 51430-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51430-Dialogue.mod:0
+msgid "I've only heard stories, but not a one of 'em is pretty. Best not to think about the rumours, for your own sanity. There's only one thing I care about: The bugmaster is said to possess the ultimate treasure, the biggest pot of loot in all the land... "
+msgstr ""
+
+#. Id: 51461-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51430-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51461-Dialogue.mod:0
+msgid "For my survival, I need that treasure."
+msgstr ""
+
+#. Id: 51429-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51429-Dialogue.mod:0
+msgid "So you choose to be bug food...? Smart."
+msgstr ""
+
+#. Id: 51442-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51429-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51442-Dialogue.mod:0
+msgid "Then I guess you haven't heard of the Blackshifters. Desperate times call for desperate measures, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 51441-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51427-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#. Id: 51422-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter
+#: 51441-Dialogue.mod:0 51422-Dialogue.mod:0
+msgid "Well, good luck with that..."
+msgstr ""
+
+#. Id: 51431-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51424-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51431-Dialogue.mod:0
+msgid "Neither. I'm here for sport..."
+msgstr ""
+
+#. Id: 51432-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51432-Dialogue.mod:0
+msgid "Sport? You're crazy! Do you know how many have died trying to take on the bugmaster? The guy's superhuman. He's got an army of BUGS. Some say he's the chosen one, chosen to cleanse the world of festering vermin... of humans..."
+msgstr ""
+
+#. Id: 51433-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51433-Dialogue.mod:0
+msgid "HIM the chosen one? You're looking at the chosen one right now."
+msgstr ""
+
+#. Id: 51434-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51434-Dialogue.mod:0
+msgid "Ugh! Everyone's a goddamn chosen one! You know I think you're the fourth chosen one I've met this week. Hm, funny that..."
+msgstr ""
+
+#. Id: 51440-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51440-Dialogue.mod:0
+msgid "Arrogant goddamn adventurers..."
+msgstr ""
+
+#. Id: 51435-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51435-Dialogue.mod:0
+msgid "... Are you done nagging yet?"
+msgstr ""
+
+#. Id: 51438-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51438-Dialogue.mod:0
+msgid "Well, good luck with your 'sport' anyway, /OUTLANDER/. Hopefully you'll distract the bugmaster long enough for me to survive in one piece..."
+msgstr ""
+
+#. Id: 51439-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master bounty hunter 2
+#: 51439-Dialogue.mod:0
+msgid "Tch, crazy adventurers..."
+msgstr ""
+
+#. Id: 51436-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51424-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master bounty hunter 2
+#: 51436-Dialogue.mod:0
+msgid "No time for talking, sorry."
+msgstr ""
+

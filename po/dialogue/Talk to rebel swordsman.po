@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533198-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533198-__world?reactions?NE.mod:0 1533225-__world?reactions?NE.mod:3
+msgid "The people are indebted to you, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533226-__world reactions NE.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533198-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to rebel swordsman
+#: 1533226-__world?reactions?NE.mod:0
+msgid "I need your help."
+msgstr ""
+
+#. Id: 1533228-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533226-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 1533228-__world?reactions?NE.mod:0
+msgid "Sorry, /YOURNAME/, I'm pretty tied up right now..."
+msgstr ""
+
+#. Id: 1533230-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533228-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533230-__world?reactions?NE.mod:0
+msgid "Ask around, the other rebels will be happy to help you."
+msgstr ""
+
+#. Id: 1533229-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533226-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533229-__world?reactions?NE.mod:0
+msgid "Always got your back, /BROTHER/..."
+msgstr ""
+
+#. Id: 1533231-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533229-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533231-__world?reactions?NE.mod:0
+msgid "Where we goin'?"
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533224-__world?reactions?NE.mod:0 1533225-__world?reactions?NE.mod:2
+msgid "Honour to meet you in person, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533224-__world?reactions?NE.mod:1
+msgid "The fight goes on, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533224-__world?reactions?NE.mod:2
+msgid "The fight ain't over yet, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533224-__world?reactions?NE.mod:3
+msgid "The fight is far from over..."
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. Id: 1533201-__world reactions NE.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebel farmer talk to
+#: 1533224-__world?reactions?NE.mod:4 1533225-__world?reactions?NE.mod:5 1533201-__world?reactions?NE.mod:1
+msgid "Need somethin', /YOURNAME/?"
+msgstr ""
+
+#. Id: 1533224-__world reactions NE.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#. Id: 1533201-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rebel farmer talk to
+#: 1533224-__world?reactions?NE.mod:5 1533201-__world?reactions?NE.mod:0
+msgid "Hey, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533225-__world?reactions?NE.mod:0
+msgid "We're rebuilding the pieces of our nation... Slowly."
+msgstr ""
+
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533225-__world?reactions?NE.mod:1
+msgid "Some days I question whether freedom was worth the cost."
+msgstr ""
+
+#. Id: 1533225-__world reactions NE.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to rebel swordsman
+#: 1533225-__world?reactions?NE.mod:4
+msgid "No time to rest eh, /YOURNAME/."
+msgstr ""
+

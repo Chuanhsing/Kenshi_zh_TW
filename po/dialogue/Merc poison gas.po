@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 53938-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53932-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire good guard
+#. Id: 62084-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62083-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Wander trader base visit
+#: 56725-Dialogue.mod:0 53938-Dialogue.mod:0 62084-Dialogue.mod:0
+msgid "*Cough*"
+msgstr ""
+
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 12429-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeat squad
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 56725-Dialogue.mod:2 12429-Dialogue?(10)?(2).mod:1
+msgid "*Hack*"
+msgstr ""
+
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56725-Dialogue.mod:5
+msgid "*Cough cough*"
+msgstr ""
+
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56725-Dialogue.mod:6
+msgid "My lungs..."
+msgstr ""
+

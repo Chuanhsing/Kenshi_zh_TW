@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7223-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7223-Dialogue.mod:0
+msgid "I know you, you saved my skin before. I'd be a rotting /CORPSE/ right now if it wasn't for you... anything I can do to help you, to return the favour?"
+msgstr ""
+
+#. Id: 7227-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7227-Dialogue.mod:0
+msgid "I don't know, what can you do for me exactly?"
+msgstr ""
+
+#. Id: 7228-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 7228-Dialogue.mod:0
+msgid "Let me join you, let me watch over you. I owe you my life after all."
+msgstr ""
+
+#. Id: 7239-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7228-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7239-Dialogue.mod:0
+msgid "You'll join /MEUS/? For good? That sounds fair"
+msgstr ""
+
+#. Id: 7240-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7240-Dialogue.mod:0
+msgid "Of course! I'll watch your back, you can trust me"
+msgstr ""
+
+#. Id: 7241-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7240-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7241-Dialogue.mod:0
+msgid "Ok, let's go"
+msgstr ""
+
+#. Id: 7244-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7228-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7244-Dialogue.mod:0
+msgid "Nevermind. /IWE/ don't need any extra allies right now"
+msgstr ""
+
+#. Id: 7246-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7246-Dialogue.mod:0
+msgid "Okay then, let me know if you change your mind"
+msgstr ""
+
+#. Id: 7245-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7228-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7245-Dialogue.mod:0
+msgid "How about you come work for /MEUS/ for the day?"
+msgstr ""
+
+#. Id: 7247-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7247-Dialogue.mod:0
+msgid "Sure, that sounds fair enough. Do you need me right now?"
+msgstr ""
+
+#. Id: 7248-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7248-Dialogue.mod:0
+msgid "I just need to do something first. Can you wait?"
+msgstr ""
+
+#. Id: 7251-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7251-Dialogue.mod:0
+msgid "Of course, go do what you gotta do"
+msgstr ""
+
+#. Id: 7249-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7247-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7249-Dialogue.mod:0
+msgid "Now is good. Follow me"
+msgstr ""
+
+#. Id: 7230-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7230-Dialogue.mod:0
+msgid "I can protect you. Just say the word and I'll fight at your side. I've got your back"
+msgstr ""
+
+#. Id: 7252-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7230-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7252-Dialogue.mod:0
+msgid "Sounds good. Can you start now?"
+msgstr ""
+
+#. Id: 7253-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7253-Dialogue.mod:0
+msgid "Don't see why not. How long do you need me for?"
+msgstr ""
+
+#. Id: 7254-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7253-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7254-Dialogue.mod:0
+msgid "2 hours"
+msgstr ""
+
+#. Id: 7258-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. Id: 7256-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. Id: 7259-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7257-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7258-Dialogue.mod:0 7256-Dialogue.mod:0 7259-Dialogue.mod:0
+msgid "Okay, let's go"
+msgstr ""
+
+#. Id: 7255-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7253-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7255-Dialogue.mod:0
+msgid "6 hours"
+msgstr ""
+
+#. Id: 7257-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7253-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7257-Dialogue.mod:0
+msgid "12 hours"
+msgstr ""
+
+#. Id: 7260-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7230-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7260-Dialogue.mod:0
+msgid "No, that's okay. /IWE/ don't need any help"
+msgstr ""
+
+#. Id: 7231-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7231-Dialogue.mod:0
+msgid "I can kill for you. Just say the word and I'll wipe out anyone who crosses you"
+msgstr ""
+
+#. Id: 7237-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7237-Dialogue.mod:0
+msgid "It's okay. I'm just happy to help"
+msgstr ""
+
+#. Id: 7261-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7261-Dialogue.mod:0
+msgid "Thank you. You're a good person"
+msgstr ""
+
+#. Id: 7238-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 7238-Dialogue.mod:0
+msgid "You seem like a tough fighter. How about joining /MEUS/?"
+msgstr ""
+
+#. Id: 7262-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. Id: 7264-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#: 7262-Dialogue.mod:0 7264-Dialogue.mod:0
+msgid "Sorry, I'm too busy to join you permanently. I can be your bodyguard for a couple hours though. For free of course"
+msgstr ""
+
+#. Id: 7272-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7262-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7272-Dialogue.mod:0
+msgid "I don't need a bodyguard, thanks"
+msgstr ""
+
+#. Id: 7268-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: COLD_CRUEL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 7268-Dialogue.mod:0
+msgid "...Actually, I'd be honoured to join you. It's a rare thing to find decent people like you in this world"
+msgstr ""
+
+#. Id: 7273-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7268-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: My saviour (recruit)
+#: 7273-Dialogue.mod:0
+msgid "Great! Let's go"
+msgstr ""
+
+#. Id: 7225-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: My saviour (recruit)
+#: 7225-Dialogue.mod:0
+msgid "I know you, you saved my skin before. I'd be a rotting /CORPSE/ right now if it wasn't for you... anything I can do to help you?"
+msgstr ""
+

@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 13864-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13863-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. Id: 15897-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 16183-Dialogue.mod:0 13864-Escapes.mod:0 15897-Dialogue.mod:9
+msgid "Break it up!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:1
+msgid "Keep the peace!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:2
+msgid "Keep it civil! Surrender peacefully!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:4
+msgid "Calm it down! Don't make this painful for yourself!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:5
+msgid "Settle down! Don't make this harder for yourself!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:6
+msgid "Simmer down! Surrender yourself!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 52367-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (52366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military kidnapping
+#. Id: 5252-gamedata.base
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape
+#. Id: 41066-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver paladin witness assault
+#. Id: 13821-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots prisoner escaping
+#: 16183-Dialogue.mod:7 52367-Dialogue.mod:4 5252-gamedata.base:10 41066-Dialogue.mod:2 13821-Escapes.mod:0
+msgid "Stop /HIM/!"
+msgstr ""
+
+#. Id: 16183-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16183-Dialogue.mod:10
+msgid "Cut it out, give yourself up!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:0
+msgid "Not in this town!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:1
+msgid "Not in this city, /OUTLANDER/! Take it outside!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:2
+msgid "Don't go causing trouble!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:3
+msgid "Quit making trouble!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:4
+msgid "Take it somewhere else!"
+msgstr ""
+
+#. Id: 16184-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 16184-Dialogue.mod:5
+msgid "Upsetting the peace!"
+msgstr ""
+
+#. Id: 16185-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 16185-Dialogue.mod:0
+msgid "You leave me no choice but to use force!"
+msgstr ""
+
+#. Id: 16185-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 16185-Dialogue.mod:2
+msgid "This stops now!"
+msgstr ""
+
+#. Id: 16185-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 16185-Dialogue.mod:3
+msgid "Stop! Surrender yourself!"
+msgstr ""
+
+#. Id: 16185-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 51085-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Moll spots generic assault
+#: 16185-Dialogue.mod:4 51085-Dialogue.mod:0
+msgid "This ends NOW!"
+msgstr ""
+
+#. Id: 16187-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16187-Dialogue.mod:0
+msgid "No fighting! Surrender!"
+msgstr ""
+
+#. Id: 16187-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16187-Dialogue.mod:2
+msgid "No scrapping! Surrender!"
+msgstr ""
+
+#. Id: 16187-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 16187-Dialogue.mod:3
+msgid "No troublemaking!"
+msgstr ""
+
+#. Id: 16188-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 16188-Dialogue.mod:0
+msgid "Disruptive /IDIOT/"
+msgstr ""
+
+#. Id: 16188-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 16188-Dialogue.mod:1
+msgid "/STUPID/ troublemaker"
+msgstr ""
+
+#. Id: 16188-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 16188-Dialogue.mod:2
+msgid "Rowdy /SCROUNGER/"
+msgstr ""
+
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16193-Dialogue.mod:4
+msgid "You leave me no choice!"
+msgstr ""
+
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16193-Dialogue.mod:5
+msgid "Quiet down! Give yourself up!"
+msgstr ""
+
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16193-Dialogue.mod:6
+msgid "Cool it! Give it up!"
+msgstr ""
+
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 16193-Dialogue.mod:9
+msgid "Cut /HIM/ off!"
+msgstr ""
+
+#. Id: 55447-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 55447-Dialogue.mod:0
+msgid "Drop your weapon!"
+msgstr ""
+
+#. Id: 55447-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 55447-Dialogue.mod:1
+msgid "No brawling! Drop your weapon!"
+msgstr ""
+
+#. Id: 55447-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 55447-Dialogue.mod:2
+msgid "Knock it off!... Drop your weapon!"
+msgstr ""
+
+#. Id: 55453-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55453-Dialogue.mod:0
+msgid "/HEIS/ unarmed, take /HIM/ down!"
+msgstr ""
+
+#. Id: 55453-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55453-Dialogue.mod:1
+msgid "/QUICKLAUGH/, think you can take /MEUS/ down with your fists? "
+msgstr ""
+
+#. Id: 55453-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55453-Dialogue.mod:2
+msgid "Armed or no, I'll show you no mercy!"
+msgstr ""
+
+#. Id: 55453-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55453-Dialogue.mod:3
+msgid "Kch, /HEIS/ not even armed, get /HIM/!"
+msgstr ""
+
+#. Id: 55453-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55453-Dialogue.mod:4
+msgid "You can't win. Surrender!"
+msgstr ""
+
+#. Id: 55457-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55457-Dialogue.mod:0
+msgid "/QUICKLAUGH/, THAT'S your weapon of choice? Your bare fists?"
+msgstr ""
+
+#. Id: 55457-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55457-Dialogue.mod:1
+msgid "/QUICKLAUGH/, facing /MEUS/ unarmed?"
+msgstr ""
+
+#. Id: 55457-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 55457-Dialogue.mod:2
+msgid "/QUICKLAUGH/, you're really going to fight /MEUS/ like this?"
+msgstr ""
+
+#. Id: 55458-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#: 55458-Dialogue.mod:0
+msgid "Now THIS is entertaining!"
+msgstr ""
+

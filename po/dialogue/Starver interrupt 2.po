@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98071-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 14091-Dialogue (12).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 98071-Dialogue.mod:2 14091-Dialogue?(12).mod:3
+msgid "Help me..."
+msgstr ""
+
+#. Id: 98071-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98071-Dialogue.mod:3
+msgid "Please, help me..."
+msgstr ""
+
+#. Id: 98073-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#: 98073-Dialogue.mod:0
+msgid "Here, take this..."
+msgstr ""
+
+#. Id: 98074-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>1500, Tag: -1
+#: 98074-Dialogue.mod:0
+msgid "Buy yourself some food..."
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:0
+msgid "So the rumours are true..."
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:1
+msgid "Luck find you..."
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:2
+msgid "Fortune fall upon you..."
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:3
+msgid "You'd really help me?"
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:4
+msgid "Kindness is a rarity in the outlands..."
+msgstr ""
+
+#. Id: 98083-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (98074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98083-Dialogue.mod:5
+msgid "I'd forgotten that kindness existed in this land..."
+msgstr ""
+
+#. Id: 98077-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
+#: 98077-Dialogue.mod:0
+msgid "This is all I've got..."
+msgstr ""
+
+#. Id: 98086-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98086-Dialogue.mod:0
+msgid "It's something..."
+msgstr ""
+
+#. Id: 98085-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 2
+#: 98085-Dialogue.mod:0
+msgid "I've nothing to give..."
+msgstr ""
+
+#. Id: 98139-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98139-Dialogue.mod:0
+msgid "I guess I heard wrong about you..."
+msgstr ""
+
+#. Id: 98139-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (98095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98139-Dialogue.mod:1
+msgid "Shoulda known better than to beg peacefully, eh?"
+msgstr ""
+
+#. Id: 98140-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 98140-Dialogue.mod:0
+msgid "Let's go. There's nothing for us here."
+msgstr ""
+
+#. Id: 98145-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 98145-Dialogue.mod:0
+msgid "I've no energy to rob you. Guess that makes us both lucky..."
+msgstr ""
+
+#. Id: 98094-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98071-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 2
+#: 98094-Dialogue.mod:0
+msgid "Shoo! Be off with you, vagrant!"
+msgstr ""
+
+#. Id: 98096-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98096-Dialogue.mod:0
+msgid "Shoulda known better than to beg peacefully, eh?... Well, desperate people do desperate things, outlander..."
+msgstr ""
+
+#. Id: 98150-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98094-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 98150-Dialogue.mod:0
+msgid "I didn't want it to come to this..."
+msgstr ""
+
+#. Id: 98153-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98153-Dialogue.mod:0
+msgid "But /IWE/ need food!"
+msgstr ""
+

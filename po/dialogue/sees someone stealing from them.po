@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3434-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 3434-dialogue-01.mod:0
+msgid "You thieving little shit! I'll cut your hands off!"
+msgstr ""
+
+#. Id: 3434-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 3434-dialogue-01.mod:3
+msgid "You /GREASY/ thief! You'll regret that!"
+msgstr ""
+
+#. Id: 13919-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 13919-Escapes.mod:5
+msgid "No good thief!"
+msgstr ""
+
+#. Id: 13921-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13919-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 13921-Escapes.mod:2
+msgid "Guards, help!"
+msgstr ""
+
+#. Id: 50075-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 50075-Dialogue.mod:0
+msgid "Skeleton! It's stealing from me!"
+msgstr ""
+
+#. Id: 50075-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 50075-Dialogue.mod:1
+msgid "/ARG/! The skeleton's stealing from me!"
+msgstr ""
+
+#. Id: 50075-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 50075-Dialogue.mod:2
+msgid "Thieving spawn of Narko!"
+msgstr ""
+
+#. Id: 50075-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 50075-Dialogue.mod:3
+msgid "Darkened thief!"
+msgstr ""
+

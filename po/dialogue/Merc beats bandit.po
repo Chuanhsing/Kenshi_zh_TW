@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12559-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12559-Dialogue?(11)?(2).mod:0
+msgid "Murderous /GODDAMN/ /RAT/"
+msgstr ""
+
+#. Id: 12559-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12566-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12559-Dialogue?(11)?(2).mod:1 12566-Dialogue?(11)?(2).mod:0
+msgid "I hate /GODDAMN/ bandits"
+msgstr ""
+
+#. Id: 12559-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12559-Dialogue?(11)?(2).mod:2
+msgid "Savage /GODDAMN/ bandits"
+msgstr ""
+
+#. Id: 12560-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12560-Dialogue?(11)?(2).mod:0
+msgid "Bandit /IDIOT/s"
+msgstr ""
+
+#. Id: 12560-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12562-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12560-Dialogue?(11)?(2).mod:1 12562-Dialogue?(11)?(2).mod:0
+msgid "/GODDAMN/ bandits"
+msgstr ""
+
+#. Id: 12561-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12561-Dialogue?(11)?(2).mod:0
+msgid "I ain't letting a dogshit like you outdo me, bandit"
+msgstr ""
+
+#. Id: 12561-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12561-Dialogue?(11)?(2).mod:1
+msgid "Ain't no way I'm letting some /IDIOT/ bandit outdo me"
+msgstr ""
+
+#. Id: 12561-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12561-Dialogue?(11)?(2).mod:2
+msgid "I ain't dying at the hands of a /CRAPPY/ bandit"
+msgstr ""
+
+#. Id: 12562-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12562-Dialogue?(11)?(2).mod:1
+msgid "Bandit /RAT/s"
+msgstr ""
+
+#. Id: 12562-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12562-Dialogue?(11)?(2).mod:2
+msgid "/IDIOT/s..."
+msgstr ""
+
+#. Id: 12566-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12566-Dialogue?(11)?(2).mod:1
+msgid "/CRAPPY/ bandits... I hate them all..."
+msgstr ""
+
+#. Id: 12566-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12566-Dialogue?(11)?(2).mod:2
+msgid "/CRAPPY/ bandits... /GODDAMN/ 'em all"
+msgstr ""
+
+#. Id: 12566-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12566-Dialogue?(11)?(2).mod:3
+msgid "Pummeling bandits is actually kind of therapeutic"
+msgstr ""
+
+#. Id: 12566-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc beats bandit
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12566-Dialogue?(11)?(2).mod:4
+msgid "A bit of bandit /STABBIN/ really hits the spot"
+msgstr ""
+

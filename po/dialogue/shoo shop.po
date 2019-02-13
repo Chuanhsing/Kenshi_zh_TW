@@ -1,0 +1,3434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3115-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 3115-gamedata.base:1 46446-Dialogue.mod:1
+msgid "Shop's closing!"
+msgstr ""
+
+#. Id: 3115-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 3115-gamedata.base:2 46446-Dialogue.mod:2
+msgid "Time to get out!"
+msgstr ""
+
+#. Id: 3115-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#: 3115-gamedata.base:3
+msgid "It's closing time!"
+msgstr ""
+
+#. Id: 3115-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 3115-gamedata.base:4 46396-Dialogue.mod:2
+msgid "C'mon, closing time."
+msgstr ""
+
+#. Id: 3115-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
+#: 3115-gamedata.base:5
+msgid "I really want to go to bed."
+msgstr ""
+
+#. Id: 3119-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 3119-gamedata.base:0
+msgid "Please come back tomorrow!"
+msgstr ""
+
+#. Id: 3119-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 3119-gamedata.base:1
+msgid "Thank you for your custom."
+msgstr ""
+
+#. Id: 3119-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 3119-gamedata.base:2
+msgid "Goodbye!"
+msgstr ""
+
+#. Id: 3119-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 3119-gamedata.base:3
+msgid "Thanks for visiting!"
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:1
+msgid "The shop is closing now."
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:2
+msgid "Thankyou come again!"
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:3
+msgid "Shop's closing, thanks for your custom!"
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:4
+msgid "Please make your way out, shop's closing up now."
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:5
+msgid "Shutting up shop, please come back tomorrow!"
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:6
+msgid "Shop's closing. Thankyou for your custom."
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:7
+msgid "Closing time. Thanks for visiting!"
+msgstr ""
+
+#. Id: 3122-gamedata.base
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 3122-gamedata.base:8
+msgid "Closing time. Thank you, come again!"
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:0
+msgid "C'mon, you can come back in the morning..."
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:1
+msgid "You can carry on shopping in the morning..."
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:2
+msgid "We'll be open again first thing in the morning..."
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:3
+msgid "You can come back again tomorrow..."
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:4
+msgid "If you want to buy something, come back tomorrow..."
+msgstr ""
+
+#. Id: 46395-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3122-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46395-Dialogue.mod:6
+msgid "Please leave, the shop is closing."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:0
+msgid "I need my beauty sleep, it's time for bed. Go."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:1
+msgid "Gotta close up so..."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:3
+msgid "I've got business to attend to, you need to leave."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:4
+msgid "I'm tired, I need to go to bed. Please leave."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:5
+msgid "Wrap it up and make your way out please."
+msgstr ""
+
+#. Id: 46396-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (46395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46396-Dialogue.mod:6
+msgid "Finish up and leave please."
+msgstr ""
+
+#. Id: 46427-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46427-Dialogue.mod:0
+msgid "Open as usual tomorrow..."
+msgstr ""
+
+#. Id: 46427-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (46396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46427-Dialogue.mod:1
+msgid "We'll be open as usual in the morning..."
+msgstr ""
+
+#. Id: 46427-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (46396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46427-Dialogue.mod:5
+msgid "It's been a long day, don't make me have to stay open longer..."
+msgstr ""
+
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46428-Dialogue.mod:0
+msgid "Please leave now."
+msgstr ""
+
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46428-Dialogue.mod:1
+msgid "Please get out."
+msgstr ""
+
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46428-Dialogue.mod:4
+msgid "C'mon!"
+msgstr ""
+
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46428-Dialogue.mod:5
+msgid "I've asked you enough times now! Please go."
+msgstr ""
+
+#. Id: 46428-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (46427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46428-Dialogue.mod:6
+msgid "How many times are you going to make me ask? Please leave."
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:0
+msgid "Are you even listening to me? You need to leave!"
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:1
+msgid "Why aren't you listening to me? I can't serve you, leave!"
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:2
+msgid "Are you just going to keep ignoring me? You need to go!"
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:3
+msgid "You need to go! Don't make this ugly for us all."
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:4
+msgid "I don't want any trouble. Please just leave."
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:5
+msgid "You can't buy anything, we're closed. Why are you still hanging around?"
+msgstr ""
+
+#. Id: 46397-Dialogue.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46397-Dialogue.mod:6
+msgid "Why are you still loitering around? We're closed!"
+msgstr ""
+
+#. Id: 46399-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46399-Dialogue.mod:0
+msgid "Why.. why are you just standing there? Why aren't you leaving?"
+msgstr ""
+
+#. Id: 46399-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46399-Dialogue.mod:2
+msgid "What are you doing there? You're not even doing anything!"
+msgstr ""
+
+#. Id: 46399-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (46397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46399-Dialogue.mod:3
+msgid "Why are you just standing there like that?"
+msgstr ""
+
+#. Id: 46458-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46458-Dialogue.mod:0
+msgid "You're creeping me out dammit!"
+msgstr ""
+
+#. Id: 46458-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46458-Dialogue.mod:1
+msgid "You're wierding me out!"
+msgstr ""
+
+#. Id: 46458-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46458-Dialogue.mod:2
+msgid "This is just getting wierd now..."
+msgstr ""
+
+#. Id: 46458-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (46399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46458-Dialogue.mod:3
+msgid "Now I'm just starting to think you're a creep..."
+msgstr ""
+
+#. Id: 46460-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46459-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46460-Dialogue.mod:0
+msgid "Need a hand?"
+msgstr ""
+
+#. Id: 46460-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46459-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46460-Dialogue.mod:1
+msgid "Need some help?"
+msgstr ""
+
+#. Id: 46460-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (46459-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46460-Dialogue.mod:2
+msgid "Maybe I can help?"
+msgstr ""
+
+#. Id: 46460-Dialogue.mod
+#. -- Index: 9.3
+#. -- Parent line: 8 (46459-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46460-Dialogue.mod:3
+msgid "/HEIS/ not even saying anything? Kinda rude..."
+msgstr ""
+
+#. Id: 46460-Dialogue.mod
+#. -- Index: 9.4
+#. -- Parent line: 8 (46459-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46460-Dialogue.mod:4
+msgid "Well this is a first..."
+msgstr ""
+
+#. Id: 46461-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46461-Dialogue.mod:0
+msgid "What're they doing there... just stood there like that..."
+msgstr ""
+
+#. Id: 46461-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46461-Dialogue.mod:1
+msgid "Look at /HIM/... just standing there..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:0
+msgid "Must be one hell of a day dream..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:1
+msgid "Looks like /HEIS/ a few grains short of a bread loaf..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:2
+msgid "This one ain't right, looks dumber than a bag of rocks..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.3
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:3
+msgid "Like trying to talk to a brick wall..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.5
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:5
+msgid "Looks a few whiskers short of a garru..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.6
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#: 46462-Dialogue.mod:6
+msgid "Looks about as sharp as a mashed cactus, this one..."
+msgstr ""
+
+#. Id: 46462-Dialogue.mod
+#. -- Index: 11.7
+#. -- Parent line: 10 (46461-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.2
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46462-Dialogue.mod:7 46597-Dialogue.mod:2
+msgid "Looks about as sharp as a bag of wet rats, this one..."
+msgstr ""
+
+#. Id: 46463-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46463-Dialogue.mod:0
+msgid "Think /HE/ had a meltdown or something? Is /HE/ okay?"
+msgstr ""
+
+#. Id: 46463-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (46462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46463-Dialogue.mod:1
+msgid "/HE/ seemed normal a few minutes ago. Think /HEIS/ alright?"
+msgstr ""
+
+#. Id: 46463-Dialogue.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (46462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46463-Dialogue.mod:2
+msgid "Maybe /HE/ had a breakdown?"
+msgstr ""
+
+#. Id: 46463-Dialogue.mod
+#. -- Index: 12.3
+#. -- Parent line: 11 (46462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46463-Dialogue.mod:3
+msgid "Maybe a heat stroke fried /HIS/ brains or something?"
+msgstr ""
+
+#. Id: 46463-Dialogue.mod
+#. -- Index: 12.4
+#. -- Parent line: 11 (46462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46463-Dialogue.mod:4
+msgid "I think something's wrong with 'em, you know..."
+msgstr ""
+
+#. Id: 46464-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46464-Dialogue.mod:0
+msgid "HEY, ARE YOU OKAY?"
+msgstr ""
+
+#. Id: 46464-Dialogue.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (46463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46464-Dialogue.mod:1
+msgid "ARE... YOU... OKAY... ?"
+msgstr ""
+
+#. Id: 46464-Dialogue.mod
+#. -- Index: 13.2
+#. -- Parent line: 12 (46463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46464-Dialogue.mod:2
+msgid "DO YOU NEED HELP?"
+msgstr ""
+
+#. Id: 46464-Dialogue.mod
+#. -- Index: 13.3
+#. -- Parent line: 12 (46463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46464-Dialogue.mod:3
+msgid "BLINK TWICE IF YOU NEED HELP..."
+msgstr ""
+
+#. Id: 46464-Dialogue.mod
+#. -- Index: 13.4
+#. -- Parent line: 12 (46463-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46464-Dialogue.mod:4
+msgid "Hey /GUY/, blink twice if you're still sane..."
+msgstr ""
+
+#. Id: 46465-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46464-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46465-Dialogue.mod:0
+msgid "Poke /HIM/."
+msgstr ""
+
+#. Id: 46465-Dialogue.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (46464-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46465-Dialogue.mod:1
+msgid "Try giving /HIM/ a poke."
+msgstr ""
+
+#. Id: 46465-Dialogue.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (46464-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46465-Dialogue.mod:2
+msgid "Give /HIM/ a little nudge. See what happens."
+msgstr ""
+
+#. Id: 46465-Dialogue.mod
+#. -- Index: 14.3
+#. -- Parent line: 13 (46464-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46465-Dialogue.mod:3
+msgid "Maybe try prodding /HIM/."
+msgstr ""
+
+#. Id: 46466-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (46465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46466-Dialogue.mod:0
+msgid "No way, what if they flip out on me? I'll just chuck a rock at /HIM/..."
+msgstr ""
+
+#. Id: 46466-Dialogue.mod
+#. -- Index: 15.1
+#. -- Parent line: 14 (46465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46466-Dialogue.mod:1
+msgid "The /GUY/ could be a psycho, I'm not gonna poke /HIM/... I'll chuck something at /HIM/ instead..."
+msgstr ""
+
+#. Id: 46467-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (46466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46467-Dialogue.mod:0
+msgid "*thump*"
+msgstr ""
+
+#. Id: 46467-Dialogue.mod
+#. -- Index: 16.2
+#. -- Parent line: 15 (46466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46467-Dialogue.mod:2
+msgid "*thwack*"
+msgstr ""
+
+#. Id: 46467-Dialogue.mod
+#. -- Index: 16.3
+#. -- Parent line: 15 (46466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46467-Dialogue.mod:3
+msgid "*whack*"
+msgstr ""
+
+#. Id: 46467-Dialogue.mod
+#. -- Index: 16.4
+#. -- Parent line: 15 (46466-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46467-Dialogue.mod:4
+msgid "*whop*"
+msgstr ""
+
+#. Id: 46468-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (46467-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46468-Dialogue.mod:0
+msgid "I vote we stop chucking rocks at the creepy /GUY/."
+msgstr ""
+
+#. Id: 46468-Dialogue.mod
+#. -- Index: 17.1
+#. -- Parent line: 16 (46467-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46468-Dialogue.mod:1
+msgid "How about we don't chuck any more rocks at the demented customer, eh?"
+msgstr ""
+
+#. Id: 46469-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (46468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46469-Dialogue.mod:0
+msgid "Geez, this is wierd, ain't it? Never seen anything quite like it..."
+msgstr ""
+
+#. Id: 46469-Dialogue.mod
+#. -- Index: 18.1
+#. -- Parent line: 17 (46468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46469-Dialogue.mod:1
+msgid "Well, I'm stumped."
+msgstr ""
+
+#. Id: 46469-Dialogue.mod
+#. -- Index: 18.2
+#. -- Parent line: 17 (46468-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46469-Dialogue.mod:2
+msgid "Well, I'm all out of ideas."
+msgstr ""
+
+#. Id: 46470-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (46469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46470-Dialogue.mod:0
+msgid "Just leave the door open and maybe they'll go eventually. Works with flies."
+msgstr ""
+
+#. Id: 46470-Dialogue.mod
+#. -- Index: 19.1
+#. -- Parent line: 18 (46469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46470-Dialogue.mod:1
+msgid "Okay, leave the door open and we'll both give /HIM/ a good staring down. /HE/'ll get the message eventually."
+msgstr ""
+
+#. Id: 46470-Dialogue.mod
+#. -- Index: 19.2
+#. -- Parent line: 18 (46469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46470-Dialogue.mod:2
+msgid "*sigh*  Maybe /HE/'ll just find /HIS/ way out eventually... "
+msgstr ""
+
+#. Id: 46470-Dialogue.mod
+#. -- Index: 19.3
+#. -- Parent line: 18 (46469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46470-Dialogue.mod:3
+msgid "Just don't leave me alone with /HIM/. Got some real menacing eyes on /HIM/..."
+msgstr ""
+
+#. Id: 46473-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 46473-Dialogue.mod:0
+msgid "Oh! /HE/ moved!"
+msgstr ""
+
+#. Id: 46473-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 46473-Dialogue.mod:1
+msgid "Wait! Are they leaving?"
+msgstr ""
+
+#. Id: 46473-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 46473-Dialogue.mod:2
+msgid "Wait, I think /HEIS/ leaving!"
+msgstr ""
+
+#. Id: 46473-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 46473-Dialogue.mod:3
+msgid "Hold on... /HEIS/ moving!"
+msgstr ""
+
+#. Id: 46585-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46585-Dialogue.mod:0
+msgid "Geez, what's wrong with /THISGUY/? Talk about rude..."
+msgstr ""
+
+#. Id: 46585-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46585-Dialogue.mod:1
+msgid "/THISGUY/ needs to learn some /GODDAMN/ manners..."
+msgstr ""
+
+#. Id: 46585-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46585-Dialogue.mod:2
+msgid "Can you believe the nerve of /THISGUY/?"
+msgstr ""
+
+#. Id: 46585-Dialogue.mod
+#. -- Index: 11.3
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46585-Dialogue.mod:3
+msgid "Geez, /THISGUY/'s so rude!"
+msgstr ""
+
+#. Id: 46586-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46586-Dialogue.mod:0
+msgid "Gonna land /HIMSELF/ in trouble rubbin' people up the wrong way like that..."
+msgstr ""
+
+#. Id: 46586-Dialogue.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (46585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46586-Dialogue.mod:2
+msgid "Foreigners..."
+msgstr ""
+
+#. Id: 46586-Dialogue.mod
+#. -- Index: 12.3
+#. -- Parent line: 11 (46585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46586-Dialogue.mod:3
+msgid "When are they gonna leave already?"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:0
+msgid "Finally!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:1
+msgid "/HEIS/ gone! Quick, lock /HIM/ out! Wierdo!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:2
+msgid "Quick, lock the door before they come back!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.3
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:3
+msgid "Geez, I though /HE/'d never leave!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.4
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:4
+msgid "And don't come back! Freak!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.5
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:5
+msgid "Bed time! Quick, close them out!"
+msgstr ""
+
+#. Id: 46590-Dialogue.mod
+#. -- Index: 11.6
+#. -- Parent line: 10 (46473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46590-Dialogue.mod:6
+msgid "What was that all about..."
+msgstr ""
+
+#. Id: 46593-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 65088-__october 17.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (65087-__october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dead cat villager sees player
+#: 46593-Dialogue.mod:1 65088-__october?17.mod:1
+msgid "Uhhh..."
+msgstr ""
+
+#. Id: 46595-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46593-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46595-Dialogue.mod:0
+msgid "Did /HE/ just start sneaking? Like we can't see /HIM/?"
+msgstr ""
+
+#. Id: 46595-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46593-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46595-Dialogue.mod:1
+msgid "Did /HE/ really just start sneaking?"
+msgstr ""
+
+#. Id: 46595-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46593-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46595-Dialogue.mod:2
+msgid "... Why /IS/ /HE/ walking like that?"
+msgstr ""
+
+#. Id: 46596-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (46595-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46596-Dialogue.mod:1
+msgid "*face palm*"
+msgstr ""
+
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46597-Dialogue.mod:0
+msgid "This one really is dumber than a bag of rocks..."
+msgstr ""
+
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46597-Dialogue.mod:1
+msgid "This one's about as sharp as a mashed cactus..."
+msgstr ""
+
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.3
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46597-Dialogue.mod:3
+msgid "About as smart as a bag of rocks..."
+msgstr ""
+
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.4
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46597-Dialogue.mod:4
+msgid "About as smart as a stick, you are, eh?"
+msgstr ""
+
+#. Id: 46597-Dialogue.mod
+#. -- Index: 13.5
+#. -- Parent line: 12 (46596-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46597-Dialogue.mod:5
+msgid ".... I have no words."
+msgstr ""
+
+#. Id: 46598-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46598-Dialogue.mod:0
+msgid "Let's just watch and see how this pans out..."
+msgstr ""
+
+#. Id: 46598-Dialogue.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (46597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46598-Dialogue.mod:1
+msgid "Well this just got entertaining. What a funny /GUY/..."
+msgstr ""
+
+#. Id: 46598-Dialogue.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (46597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46598-Dialogue.mod:2
+msgid "Just give /HIM/ space. The /GUY/'s obviously got a screw loose..."
+msgstr ""
+
+#. Id: 46401-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46400-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46401-Dialogue.mod:1
+msgid "Tch... late night shoppers..."
+msgstr ""
+
+#. Id: 46402-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46402-Dialogue.mod:0
+msgid "Can you believe /THISGUY/? Talk about outstaying your welcome..."
+msgstr ""
+
+#. Id: 46403-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46402-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46403-Dialogue.mod:0
+msgid "... Want me to kill /HIM/ for you?"
+msgstr ""
+
+#. Id: 46404-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46404-Dialogue.mod:0
+msgid "Try explaining that to the town guards... no thank you!"
+msgstr ""
+
+#. Id: 46404-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46404-Dialogue.mod:1
+msgid "You can't just go around killing customers! "
+msgstr ""
+
+#. Id: 46404-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (46403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46404-Dialogue.mod:2
+msgid "Oh don't be so dramatic! Always with the killing and the stabbing..."
+msgstr ""
+
+#. Id: 46404-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (46403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46404-Dialogue.mod:3
+msgid "Seems a bit excessive... And besides, I just had my floors cleaned last week..."
+msgstr ""
+
+#. Id: 46405-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46405-Dialogue.mod:0
+msgid "... /HEIS/ just standing there... look at /HIM/..."
+msgstr ""
+
+#. Id: 46405-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46405-Dialogue.mod:1
+msgid "Look at /HIM/! Just standing there... it's creepy."
+msgstr ""
+
+#. Id: 46408-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46405-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46408-Dialogue.mod:0
+msgid "... Well, if I ain't killin' /HIM/ I expect overtime."
+msgstr ""
+
+#. Id: 46410-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46408-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46410-Dialogue.mod:0
+msgid "Ugh, all you care about is overtime! You've got a bad attitude, you know that?"
+msgstr ""
+
+#. Id: 46411-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46410-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46411-Dialogue.mod:0
+msgid "I do have a life, you know. Guarding this shithole pays the bills. That's it."
+msgstr ""
+
+#. Id: 46412-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (46411-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46412-Dialogue.mod:0
+msgid "Then quit if you hate it so much! I'm fed up of your negativity and violence!"
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:0
+msgid "... And I'M fed up with your bad body odour. Do you even shower?..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.1
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:1
+msgid "... And I'M fed up of your squeaky goddamn nose..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.2
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:2
+msgid "... And I'M fed up of seeing your piggy face everyday..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.3
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:3
+msgid "And I'M fed up of having to peel your hungover butt off the floor every morning..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.4
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:4
+msgid "And I'M fed up of being kept awake by your pathetic sobbing every night..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.5
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:5
+msgid "And I'M fed up of your nasty cooking, I'd be better off eating a bag of rocks for lunch..."
+msgstr ""
+
+#. Id: 46413-Dialogue.mod
+#. -- Index: 16.6
+#. -- Parent line: 15 (46412-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46413-Dialogue.mod:6
+msgid "And I'M fed up of your spineless whineing 'ohhh don't murder the customers, it's wrong, wahhh'..."
+msgstr ""
+
+#. Id: 46414-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (46413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46414-Dialogue.mod:0
+msgid "That was a low blow! You lookin' to get fired?! Huh?!"
+msgstr ""
+
+#. Id: 46415-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (46414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46415-Dialogue.mod:0
+msgid "Damn you, customer! Look what you've done now!"
+msgstr ""
+
+#. Id: 46415-Dialogue.mod
+#. -- Index: 18.1
+#. -- Parent line: 17 (46414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46415-Dialogue.mod:1
+msgid "Look what you've started now, customer! This is all your fault!"
+msgstr ""
+
+#. Id: 46416-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (46415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46416-Dialogue.mod:0
+msgid "Would you get out already!? You're making us all cranky!"
+msgstr ""
+
+#. Id: 46417-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (46416-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46417-Dialogue.mod:0
+msgid "... Want me to kill /HIM/ yet?"
+msgstr ""
+
+#. Id: 46418-Dialogue.mod
+#. -- Index: 21.0
+#. -- Parent line: 20 (46417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46418-Dialogue.mod:0
+msgid "Oh for cryin' out loud! NO!"
+msgstr ""
+
+#. Id: 46419-Dialogue.mod
+#. -- Index: 22.0
+#. -- Parent line: 21 (46418-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46419-Dialogue.mod:0
+msgid "... Got any better ideas?"
+msgstr ""
+
+#. Id: 46422-Dialogue.mod
+#. -- Index: 25.0
+#. -- Parent line: 24 (46421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46422-Dialogue.mod:0
+msgid "... Then you can just pay me the overtime instead."
+msgstr ""
+
+#. Id: 46409-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46405-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46409-Dialogue.mod:0
+msgid "... So how are we gonna get rid of /HIM/?"
+msgstr ""
+
+#. Id: 46426-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46409-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46426-Dialogue.mod:0
+msgid "I'm thinking."
+msgstr ""
+
+#. Id: 46630-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46630-Dialogue.mod:0
+msgid "Okay, if he doesn't leave soon, break /HIS/ legs."
+msgstr ""
+
+#. Id: 46631-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (46630-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46631-Dialogue.mod:0
+msgid "It will be my pleasure."
+msgstr ""
+
+#. Id: 46633-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (46632-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46633-Dialogue.mod:0
+msgid "Can I do it now?"
+msgstr ""
+
+#. Id: 46635-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (46634-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46635-Dialogue.mod:0
+msgid "/HEIS/ not leaving. I'll just snap 'em with something blunt."
+msgstr ""
+
+#. Id: 46637-Dialogue.mod
+#. -- Index: 21.0
+#. -- Parent line: 20 (46636-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46637-Dialogue.mod:0
+msgid "I won't make a mess."
+msgstr ""
+
+#. Id: 46638-Dialogue.mod
+#. -- Index: 22.0
+#. -- Parent line: 21 (46637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46638-Dialogue.mod:0
+msgid "... Just... hang on..."
+msgstr ""
+
+#. Id: 46639-Dialogue.mod
+#. -- Index: 23.0
+#. -- Parent line: 22 (46638-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46639-Dialogue.mod:0
+msgid "Look at that smug /IDIOT/, /HEIS/ askin' for it. I'm going in..."
+msgstr ""
+
+#. Id: 46641-Dialogue.mod
+#. -- Index: 25.0
+#. -- Parent line: 24 (46640-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46641-Dialogue.mod:0
+msgid "I knew it! You didn't mean it! You liar! Why can't you just let me have my fun?"
+msgstr ""
+
+#. Id: 46642-Dialogue.mod
+#. -- Index: 26.0
+#. -- Parent line: 25 (46641-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46642-Dialogue.mod:0
+msgid "I was just trying to scare /HIM/ a bit. /HE/ doesn't deserve to have /HIS/ legs broken, geez..."
+msgstr ""
+
+#. Id: 46643-Dialogue.mod
+#. -- Index: 27.0
+#. -- Parent line: 26 (46642-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46643-Dialogue.mod:0
+msgid "Being nice isn't how you survive in this world. You gotta break some legs."
+msgstr ""
+
+#. Id: 46645-Dialogue.mod
+#. -- Index: 28.0
+#. -- Parent line: 27 (46643-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46645-Dialogue.mod:0
+msgid "People like you are dogs, dogs that need chaining. Calm yourself."
+msgstr ""
+
+#. Id: 46646-Dialogue.mod
+#. -- Index: 29.0
+#. -- Parent line: 28 (46645-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46646-Dialogue.mod:0
+msgid "Well, I'm out. You can handle it yourself. Wait here all night for all I care."
+msgstr ""
+
+#. Id: 46647-Dialogue.mod
+#. -- Index: 30.0
+#. -- Parent line: 29 (46646-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46647-Dialogue.mod:0
+msgid "Fine! /HE/'ll leave... eventually."
+msgstr ""
+
+#. Id: 46628-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46628-Dialogue.mod:0
+msgid "I'm sure /HE/'ll leave soon..."
+msgstr ""
+
+#. Id: 46430-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46430-Dialogue.mod:0
+msgid "... Why aren't they leaving? Is there something wrong with them?"
+msgstr ""
+
+#. Id: 46431-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46430-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46431-Dialogue.mod:0
+msgid "Probably had their brains eaten by cannibals or somethin'. I hear of these things."
+msgstr ""
+
+#. Id: 46431-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46430-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46431-Dialogue.mod:1
+msgid "I'll bet /HE/ had /HIS/ brains fried by rogue skeletons. These things happen all the time, you know."
+msgstr ""
+
+#. Id: 46432-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46432-Dialogue.mod:0
+msgid "... How are we gonna get rid of /HIM/..?"
+msgstr ""
+
+#. Id: 46432-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46432-Dialogue.mod:1
+msgid "What a creep.. What do we do? /HE/ won't leave..."
+msgstr ""
+
+#. Id: 46433-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46432-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46433-Dialogue.mod:0
+msgid "Could just try and nudge 'em out the door I guess..."
+msgstr ""
+
+#. Id: 46433-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46432-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46433-Dialogue.mod:1
+msgid "Poke 'em out the door?"
+msgstr ""
+
+#. Id: 46434-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 46434-Dialogue.mod:0
+msgid "I dunno... look at those swords. Last thing I need is half the town piling in here for a brawl."
+msgstr ""
+
+#. Id: 46436-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46434-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46436-Dialogue.mod:0
+msgid "FIRE! FIIIIIIRE!"
+msgstr ""
+
+#. Id: 46437-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46437-Dialogue.mod:0
+msgid "What!? Where?!"
+msgstr ""
+
+#. Id: 46438-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (46437-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46438-Dialogue.mod:0
+msgid "I was trying to trick 'em into leaving."
+msgstr ""
+
+#. Id: 46439-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (46438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46439-Dialogue.mod:0
+msgid "Well that was a dumb idea."
+msgstr ""
+
+#. Id: 46442-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (46441-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46442-Dialogue.mod:0
+msgid "... I wanna go to bed..."
+msgstr ""
+
+#. Id: 46723-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46434-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46723-Dialogue.mod:0
+msgid "Well, /HE/'ll leave eventually. Although it wouldn't hurt to chuck a rag over /HIS/ face..."
+msgstr ""
+
+#. Id: 46722-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46722-Dialogue.mod:0
+msgid "I guess that's an idea..."
+msgstr ""
+
+#. Id: 46768-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46768-Dialogue.mod:0
+msgid "I'm still waiting..."
+msgstr ""
+
+#. Id: 46768-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46768-Dialogue.mod:1
+msgid "Oh sure, I'll just wait here ALL night for you..."
+msgstr ""
+
+#. Id: 46768-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46768-Dialogue.mod:2
+msgid "Take your time why don't you. Make yourself at home why don't you."
+msgstr ""
+
+#. Id: 46768-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (46758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46768-Dialogue.mod:3
+msgid "Suuuure, make yourself comfortable, eh. It's not like I have to SLEEP or anything."
+msgstr ""
+
+#. Id: 46768-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (46758-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46768-Dialogue.mod:4
+msgid "Keeping us open and I bet you ain't even buying anything. Timewasters!"
+msgstr ""
+
+#. Id: 46534-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46534-Dialogue.mod:0
+msgid "... You're sneaking around now? I'm looking right at you!"
+msgstr ""
+
+#. Id: 46534-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46534-Dialogue.mod:1
+msgid "Why are you sneaking about? I can see you, idiot!"
+msgstr ""
+
+#. Id: 46534-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46534-Dialogue.mod:2
+msgid "What are you even doing? Why are you walking around like that?"
+msgstr ""
+
+#. Id: 46624-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46624-Dialogue.mod:0
+msgid "Just leave already. Stop clowning around."
+msgstr ""
+
+#. Id: 46624-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46624-Dialogue.mod:1
+msgid "Just leave.. please just leave..."
+msgstr ""
+
+#. Id: 46624-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46624-Dialogue.mod:2
+msgid "You're not fooling anyone. Stop wasting everyone's time and get out."
+msgstr ""
+
+#. Id: 46624-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (46534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46624-Dialogue.mod:3
+msgid "Hit the road already, timewaster!"
+msgstr ""
+
+#. Id: 46627-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46627-Dialogue.mod:0
+msgid "*sigh* I hate my life."
+msgstr ""
+
+#. Id: 46443-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 46443-Dialogue.mod:0
+msgid "Closing time, thank you, come again..."
+msgstr ""
+
+#. Id: 46443-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 46443-Dialogue.mod:1
+msgid "Shop's closing up, come again tomorrow..."
+msgstr ""
+
+#. Id: 46443-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 46443-Dialogue.mod:2
+msgid "Closing up now, open as usual tomorrow..."
+msgstr ""
+
+#. Id: 46443-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 46443-Dialogue.mod:3
+msgid "Locking up now, it's closing time..."
+msgstr ""
+
+#. Id: 46443-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 46443-Dialogue.mod:4
+msgid "Okay, make your way out now, it's closing time..."
+msgstr ""
+
+#. Id: 46444-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (46443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46444-Dialogue.mod:0
+msgid "Thank you for your custom, yada yada, you get the idea."
+msgstr ""
+
+#. Id: 46444-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (46443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46444-Dialogue.mod:1
+msgid "Thank you for shopping with us, blah blah blah..."
+msgstr ""
+
+#. Id: 46444-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (46443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46444-Dialogue.mod:2
+msgid "You can come chuck the rest of your Cats at me in the morning."
+msgstr ""
+
+#. Id: 46444-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (46443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 46444-Dialogue.mod:3
+msgid "But don't go to our competitor. Their stuff's shoddy. Make sure to come back here."
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:0
+msgid "Got places to be, chop chop, leave."
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:1
+msgid "Alright, c'mon, move along, hurry it up."
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:2
+msgid "Hurry it up now, I'm tired."
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:3
+msgid "C'mon, hurry it up, move it."
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:4
+msgid "Move move move!"
+msgstr ""
+
+#. Id: 46445-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (46819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46445-Dialogue.mod:5
+msgid "C'mon, scoot!"
+msgstr ""
+
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46446-Dialogue.mod:4
+msgid "You deaf? I said hit the road!"
+msgstr ""
+
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46446-Dialogue.mod:5
+msgid "You slow or something? I said get lost!"
+msgstr ""
+
+#. Id: 46446-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (46445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46446-Dialogue.mod:6
+msgid "Clear off already!"
+msgstr ""
+
+#. Id: 46457-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46457-Dialogue.mod:0
+msgid "Get out already, will you! I need to lock up!"
+msgstr ""
+
+#. Id: 46457-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46457-Dialogue.mod:1
+msgid "Scram already, will ya?! I wanna lock up!"
+msgstr ""
+
+#. Id: 46457-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46457-Dialogue.mod:2
+msgid "Hello?! Get out!"
+msgstr ""
+
+#. Id: 46457-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46457-Dialogue.mod:3
+msgid "Hello, anybody home?! Get out, I'm closing!"
+msgstr ""
+
+#. Id: 46457-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46457-Dialogue.mod:4
+msgid "We're closed! Leave!"
+msgstr ""
+
+#. Id: 46447-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46447-Dialogue.mod:3
+msgid "Grr!"
+msgstr ""
+
+#. Id: 46448-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46453-Dialogue.mod
+#. -- Index: 12.3
+#. -- Parent line: 11 (46452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46448-Dialogue.mod:1 46453-Dialogue.mod:3
+msgid "Auuugh!"
+msgstr ""
+
+#. Id: 46448-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46448-Dialogue.mod:2
+msgid "Rrrrrgh!"
+msgstr ""
+
+#. Id: 46449-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46449-Dialogue.mod:0
+msgid "C'mon, c'mon!"
+msgstr ""
+
+#. Id: 46449-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (46448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46449-Dialogue.mod:1
+msgid "Move, move!"
+msgstr ""
+
+#. Id: 46449-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (46448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46449-Dialogue.mod:2
+msgid "Hurry up, hurry up!"
+msgstr ""
+
+#. Id: 46450-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46450-Dialogue.mod:0
+msgid "Can't you do something, guard? Get your sword out, show /HIM/ the door!"
+msgstr ""
+
+#. Id: 46450-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46450-Dialogue.mod:1
+msgid "Guard! Do something, /HE/ won't go away! Rough /HIM/ up a bit, get rid of /HIM/!"
+msgstr ""
+
+#. Id: 46450-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (46451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46450-Dialogue.mod:2
+msgid "Why aren't you doing anything, guard? Chuck /HIM/ out, make /HIM/ bleed a bit!"
+msgstr ""
+
+#. Id: 46450-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (46451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46450-Dialogue.mod:3
+msgid "What the hell am I paying YOU for, guard? Or is that sword just for show, eh? Throw /HIM/ out already!"
+msgstr ""
+
+#. Id: 46452-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46450-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46452-Dialogue.mod:0
+msgid "I don't think that would be wise. Give /HIM/ a few more minutes."
+msgstr ""
+
+#. Id: 46452-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46450-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46452-Dialogue.mod:1
+msgid "Let's not be hasty. Be patient, /HE/'ll leave eventually."
+msgstr ""
+
+#. Id: 46452-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46450-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46452-Dialogue.mod:2
+msgid "Patience. Give /HIM/ a chance."
+msgstr ""
+
+#. Id: 46452-Dialogue.mod
+#. -- Index: 11.3
+#. -- Parent line: 10 (46450-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46452-Dialogue.mod:3
+msgid "That wouldn't be a good idea. Just wait it out a while."
+msgstr ""
+
+#. Id: 46453-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (46452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46453-Dialogue.mod:1
+msgid "Ugggh!"
+msgstr ""
+
+#. Id: 46453-Dialogue.mod
+#. -- Index: 12.4
+#. -- Parent line: 11 (46452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46453-Dialogue.mod:4
+msgid "Nyaaaah!"
+msgstr ""
+
+#. Id: 46453-Dialogue.mod
+#. -- Index: 12.5
+#. -- Parent line: 11 (46452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46453-Dialogue.mod:5
+msgid "Tch! Ugh!"
+msgstr ""
+
+#. Id: 46454-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46453-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46454-Dialogue.mod:0
+msgid "Unless you want your shop messed up. It's up to you."
+msgstr ""
+
+#. Id: 46454-Dialogue.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (46453-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46454-Dialogue.mod:1
+msgid "Remember last time? You said 'Nggh! Don't mess up my shop again!'. But, hey, it's your choice."
+msgstr ""
+
+#. Id: 46454-Dialogue.mod
+#. -- Index: 13.2
+#. -- Parent line: 12 (46453-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46454-Dialogue.mod:2
+msgid "I'm warning you. It will get real messy in here."
+msgstr ""
+
+#. Id: 46455-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46455-Dialogue.mod:0
+msgid "Auuuugh! Fine!"
+msgstr ""
+
+#. Id: 46455-Dialogue.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (46454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46455-Dialogue.mod:1
+msgid "Uuuuuurgh! FINE!"
+msgstr ""
+
+#. Id: 46455-Dialogue.mod
+#. -- Index: 14.2
+#. -- Parent line: 13 (46454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46455-Dialogue.mod:2
+msgid "Nnnngh! Whatever then!"
+msgstr ""
+
+#. Id: 46455-Dialogue.mod
+#. -- Index: 14.3
+#. -- Parent line: 13 (46454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46455-Dialogue.mod:3
+msgid "Fine! But you're not getting any overtime out of me!"
+msgstr ""
+
+#. Id: 46779-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46779-Dialogue.mod:0
+msgid "You must be havin' a laugh! I've got things to do, you know!"
+msgstr ""
+
+#. Id: 46779-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46779-Dialogue.mod:1
+msgid "C'mon! I've got stuff to do!"
+msgstr ""
+
+#. Id: 46779-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46779-Dialogue.mod:2
+msgid "I've got things to take care of, you know. Hurry up and leave!"
+msgstr ""
+
+#. Id: 46779-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46779-Dialogue.mod:3
+msgid "I do have a life you know, I've got things to do! Go!"
+msgstr ""
+
+#. Id: 46781-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46780-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46781-Dialogue.mod:0
+msgid "Like what?"
+msgstr ""
+
+#. Id: 46782-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46782-Dialogue.mod:0
+msgid "You know... important things. Business stuff, brains stuff..."
+msgstr ""
+
+#. Id: 46782-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46782-Dialogue.mod:1
+msgid "Business stuff! And it's none of YOUR concern!"
+msgstr ""
+
+#. Id: 46782-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (46781-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46782-Dialogue.mod:2
+msgid "Like loads of improtant stuff! You know, business things... "
+msgstr ""
+
+#. Id: 46783-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (46782-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46783-Dialogue.mod:0
+msgid "Oh?  Picking your nose and spying on the neighbour counts as business stuff?"
+msgstr ""
+
+#. Id: 46783-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46782-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46783-Dialogue.mod:1
+msgid "Is that right? Getting drunk and harrassing people from the roof counts as business stuff?"
+msgstr ""
+
+#. Id: 46783-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (46782-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46783-Dialogue.mod:2
+msgid "Really? Never would have thought sulking and throwing rum bottles at your employees would count as business stuff..."
+msgstr ""
+
+#. Id: 46784-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (46783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46784-Dialogue.mod:0
+msgid "Don't get lippy with me, guard! You know nothing!"
+msgstr ""
+
+#. Id: 46784-Dialogue.mod
+#. -- Index: 11.1
+#. -- Parent line: 10 (46783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46784-Dialogue.mod:1
+msgid "Don't be a smart ass, guard! Unless you wanna get fired!"
+msgstr ""
+
+#. Id: 46784-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46784-Dialogue.mod:2
+msgid "Careful how you talk to your boss, guard!"
+msgstr ""
+
+#. Id: 46784-Dialogue.mod
+#. -- Index: 11.3
+#. -- Parent line: 10 (46783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46784-Dialogue.mod:3
+msgid "Watch your tongue, guard!"
+msgstr ""
+
+#. Id: 46786-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (46785-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46786-Dialogue.mod:0
+msgid "And YOU! Would you get out already, customer!?"
+msgstr ""
+
+#. Id: 46787-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46786-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46787-Dialogue.mod:0
+msgid "Hoy... I give up! I need a drink..."
+msgstr ""
+
+#. Id: 46787-Dialogue.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (46786-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46787-Dialogue.mod:1
+msgid "It's like talking to a /GODDAMN/ rock! I give up!"
+msgstr ""
+
+#. Id: 46788-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46788-Dialogue.mod:0
+msgid "Oh I just LOVE waiting for ARROGANT customers to finish swaggering out of my shop!"
+msgstr ""
+
+#. Id: 46788-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46788-Dialogue.mod:1
+msgid "Oh goodie! I love nothing more than waiting around for ignorant customers to dawdle out of my shop!"
+msgstr ""
+
+#. Id: 46788-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46788-Dialogue.mod:2
+msgid "Oh lucky me! I get to wait for my customer to mooch around my shop after hours! Yay!"
+msgstr ""
+
+#. Id: 46789-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (46788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46789-Dialogue.mod:0
+msgid "Take your time! Please! "
+msgstr ""
+
+#. Id: 46789-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (46788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46789-Dialogue.mod:1
+msgid "Go ahead, take all the time in the world!"
+msgstr ""
+
+#. Id: 46789-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (46788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46789-Dialogue.mod:2
+msgid "Go ahead, stay the night, why don't you?!"
+msgstr ""
+
+#. Id: 46790-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (46789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46790-Dialogue.mod:0
+msgid "The whole world revolves around you, customer!"
+msgstr ""
+
+#. Id: 46790-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (46789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46790-Dialogue.mod:1
+msgid "You're the most IMPORTANT person in the world, dear customer!"
+msgstr ""
+
+#. Id: 46790-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (46789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46790-Dialogue.mod:2
+msgid "You're the only thing that matters to me, customer!"
+msgstr ""
+
+#. Id: 46791-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (46790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46791-Dialogue.mod:0
+msgid "I have no life, I live to serve your lordship apparently..."
+msgstr ""
+
+#. Id: 46791-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (46790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46791-Dialogue.mod:1
+msgid "No, I have no life outside this shop. I'm just a shopkeeper pawn anyway..."
+msgstr ""
+
+#. Id: 46791-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (46790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46791-Dialogue.mod:2
+msgid "I live to serve you..."
+msgstr ""
+
+#. Id: 46794-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (46793-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46794-Dialogue.mod:0
+msgid "What? You got a problem?"
+msgstr ""
+
+#. Id: 46796-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (46795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46796-Dialogue.mod:0
+msgid "Then keep quiet!"
+msgstr ""
+
+#. Id: 46796-Dialogue.mod
+#. -- Index: 14.1
+#. -- Parent line: 13 (46795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 46796-Dialogue.mod:1
+msgid "Then I don't wanna hear a peep outta you!"
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.1
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. Id: 46823-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (46821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:1 46823-Dialogue.mod:2
+msgid "What a jerk..."
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.2
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:2
+msgid "What an asshat..."
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.3
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:3
+msgid "What a jackass..."
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.4
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:4
+msgid "What a tool..."
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.5
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:5
+msgid "What an ass..."
+msgstr ""
+
+#. Id: 46826-Dialogue.mod
+#. -- Index: 10.6
+#. -- Parent line: 9 (46791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46826-Dialogue.mod:6
+msgid "The nerve..."
+msgstr ""
+
+#. Id: 46821-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46821-Dialogue.mod:0
+msgid "And why the hell are you walking like that? You look like a dork!"
+msgstr ""
+
+#. Id: 46821-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46821-Dialogue.mod:1
+msgid "And why in the world are you walking like that? You look like an idiot!"
+msgstr ""
+
+#. Id: 46821-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (46446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SNEAKING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 46821-Dialogue.mod:2
+msgid "And why the hell are you sneaking around like that? Moron!"
+msgstr ""
+
+#. Id: 46823-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46823-Dialogue.mod:0
+msgid "Hoy, what a clown..."
+msgstr ""
+
+#. Id: 46823-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (46821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#: 46823-Dialogue.mod:1
+msgid "I'm surrounded by nitwits..."
+msgstr ""
+

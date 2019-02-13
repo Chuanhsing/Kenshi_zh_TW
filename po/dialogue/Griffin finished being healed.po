@@ -1,0 +1,133 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50708-Dialogue.mod:0
+msgid "Okay, okay, enough... You got it already, skeleton. "
+msgstr ""
+
+#. Id: 50708-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50708-Dialogue.mod:1
+msgid "Okay, okay, I'm all healed, how about some distance, huh, skeleton?"
+msgstr ""
+
+#. Id: 50708-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50708-Dialogue.mod:2
+msgid "Finally... It's over..."
+msgstr ""
+
+#. Id: 50708-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50708-Dialogue.mod:3
+msgid "Well, that was traumatic."
+msgstr ""
+
+#. Id: 50708-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50708-Dialogue.mod:4
+msgid "That was... terrifying."
+msgstr ""
+
+#. Id: 50710-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50708-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Griffin finished being healed
+#. Id: 42690-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed other sundemon
+#. -- Condition: My Sub-Race(s): Greenlander
+#. Id: 3577-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#: 50710-Dialogue.mod:0 42690-Dialogue.mod:1 3577-dialogue-01.mod:3
+msgid "You're welcome."
+msgstr ""
+
+#. Id: 50709-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#: 50709-Dialogue.mod:0
+msgid "I'm ready for this."
+msgstr ""
+
+#. Id: 50709-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#: 50709-Dialogue.mod:1
+msgid "Ready and waiting."
+msgstr ""
+
+#. Id: 50709-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#: 50709-Dialogue.mod:2
+msgid "Thank you, /BROTHER/."
+msgstr ""
+
+#. Id: 50709-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#: 50709-Dialogue.mod:3
+msgid "Bless you, /BROTHER/."
+msgstr ""
+
+#. Id: 50709-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin finished being healed
+#: 50709-Dialogue.mod:4
+msgid "Good job, /BROTHER."
+msgstr ""
+

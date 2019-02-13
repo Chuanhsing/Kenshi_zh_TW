@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66408-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66408-Dialogue.mod:0
+msgid "Fuck sake, /YOURNAME/..."
+msgstr ""
+
+#. Id: 66409-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66408-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66409-Dialogue.mod:0
+msgid "Screwin' up the equilibrimum..."
+msgstr ""
+
+#. Id: 66410-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66410-Dialogue.mod:0
+msgid "Dick move, /YOURNAME/."
+msgstr ""
+
+#. Id: 66412-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#. Id: 12984-Dialogue (11) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12983-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 43388-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46930-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (46929-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#. Id: 46401-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (46400-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 66412-Dialogue.mod:0 12984-Dialogue?(11)?(2).mod:2 43388-Dialogue.mod:0 46930-Dialogue.mod:0 44139-Dialogue.mod:6 46401-Dialogue.mod:4
+msgid "Tch..."
+msgstr ""
+
+#. Id: 66413-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66413-Dialogue.mod:0
+msgid "Hoy, what a nutcase..."
+msgstr ""
+
+#. Id: 66414-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66414-Dialogue.mod:0
+msgid "*growl*"
+msgstr ""
+
+#. Id: 66415-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hounds embarrassed
+#: 66415-Dialogue.mod:0
+msgid "Tsk tsk tsk..."
+msgstr ""
+

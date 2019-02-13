@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65958-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65958-Dialogue.mod:0
+msgid "Feast your eyes on the finest armour in all the land, Crabbed One... Your one and only Crabsmith's own specialty: Crab Armour."
+msgstr ""
+
+#. Id: 65958-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65958-Dialogue.mod:1
+msgid "Fight like a crab, be one with the crabs. You're gonna love my armour, Crabbed One, take a look..."
+msgstr ""
+
+#. Id: 65958-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65958-Dialogue.mod:2
+msgid "I've got just the armour for you, Crabbed One. Take a look..."
+msgstr ""
+
+#. Id: 65958-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65958-Dialogue.mod:3
+msgid "You know what would look good on you? A crab helmet, take a look, try it on for size..."
+msgstr ""
+
+#. Id: 65958-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65958-Dialogue.mod:4
+msgid "How about some crab armour, Crabbed One? Designed by crabs FOR crabs... Crabs."
+msgstr ""
+
+#. Id: 65959-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crabsmith
+#: 65959-Dialogue.mod:0
+msgid "Show me your wares."
+msgstr ""
+
+#. Id: 65960-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crabsmith
+#: 65960-Dialogue.mod:0
+msgid "Nevermind, not interested."
+msgstr ""
+
+#. Id: 65961-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>48, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65961-Dialogue.mod:0
+msgid "So good to see you again, Crabbed One!"
+msgstr ""
+
+#. Id: 65961-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>48, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65961-Dialogue.mod:1
+msgid "You're back, Crabbed One! How go The Pits?"
+msgstr ""
+
+#. Id: 65961-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>48, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 65961-Dialogue.mod:2
+msgid "Welcome back to The Pits, Crabbed One."
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:0
+msgid "What."
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:1
+msgid "Crabless don't get to buy crab armour."
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:2
+msgid "I don't sell to crabless."
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:3
+msgid "Where's your crab?"
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:4
+msgid "Where's your crab, crabless?"
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:5
+msgid "I ain't selling to no crabless."
+msgstr ""
+
+#. Id: 65967-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crabsmith
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65967-Dialogue.mod:6
+msgid "Crabless ain't allowed in my shop."
+msgstr ""
+

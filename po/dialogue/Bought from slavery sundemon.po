@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43514-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43514-Dialogue.mod:0
+msgid "A scorchlander ain't built for servin'!"
+msgstr ""
+
+#. Id: 43514-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43514-Dialogue.mod:1
+msgid "Screw this! I serve no one!"
+msgstr ""
+
+#. Id: 43514-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43514-Dialogue.mod:4
+msgid "If you liked it, you shoulda put a shackle on it! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 43514-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43514-Dialogue.mod:9
+msgid "I serve no-one!"
+msgstr ""
+
+#. Id: 43515-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43515-Dialogue.mod:0
+msgid "You're freeing me?... Thanks!"
+msgstr ""
+
+#. Id: 43515-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43515-Dialogue.mod:1
+msgid "I'm free?.. I'm free!"
+msgstr ""
+
+#. Id: 43515-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43515-Dialogue.mod:4
+msgid "Guess you're my new boss then, eh..."
+msgstr ""
+
+#. Id: 43515-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43515-Dialogue.mod:5
+msgid "You freed me!... Thanks!"
+msgstr ""
+
+#. Id: 43515-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43515-Dialogue.mod:6
+msgid "I'm.. free?.. I never wanna see another cage again..."
+msgstr ""
+
+#. Id: 43516-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43516-Dialogue.mod:1
+msgid "You're the one who put me here! You can kiss my ass!"
+msgstr ""
+
+#. Id: 43516-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43516-Dialogue.mod:2
+msgid "You're the /INSULT/ who put me here! Eat my dust!"
+msgstr ""
+
+#. Id: 43517-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43517-Dialogue.mod:1
+msgid "Who's this chump? Am I free?"
+msgstr ""
+
+#. Id: 43517-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43517-Dialogue.mod:3
+msgid "I'm free?... Ahh, feels good to stretch my legs..."
+msgstr ""
+
+#. Id: 43517-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought from slavery sundemon
+#. -- Condition: My Sub-Race(s): Scorchlander
+#: 43517-Dialogue.mod:4
+msgid "I'm free...? "
+msgstr ""
+

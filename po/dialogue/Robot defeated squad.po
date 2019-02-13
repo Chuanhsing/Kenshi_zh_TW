@@ -1,0 +1,300 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:0
+msgid "Let's move on"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:1
+msgid "Let's push on"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:2
+msgid "Let's not get distracted"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 43530-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 42675-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon healing someone
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 43529-Dialogue.mod:3 43530-Dialogue.mod:2 42675-Dialogue.mod:1
+msgid "What a mess..."
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:4
+msgid "All clear"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:5
+msgid "Coast is clear"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:6
+msgid "Enemy down"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:7
+msgid "Threat removed"
+msgstr ""
+
+#. Id: 43529-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43529-Dialogue.mod:8
+msgid "Should be clear now"
+msgstr ""
+
+#. Id: 43530-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43530-Dialogue.mod:0
+msgid "Stay down if you know what's good for you..."
+msgstr ""
+
+#. Id: 43530-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43530-Dialogue.mod:1
+msgid "It's done..."
+msgstr ""
+
+#. Id: 43530-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43530-Dialogue.mod:3
+msgid "Coast is clear..."
+msgstr ""
+
+#. Id: 43530-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43530-Dialogue.mod:4
+msgid "Moving on..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 62784-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tin can being healed
+#: 43533-Dialogue.mod:0 62784-Dialogue.mod:9
+msgid "I need repair..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43533-Dialogue.mod:1
+msgid "That was too close..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43533-Dialogue.mod:2
+msgid "This is going to take a lot of fixing..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43533-Dialogue.mod:3
+msgid "... Took a lot of damage..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43533-Dialogue.mod:4
+msgid "Just about scraped through..."
+msgstr ""
+
+#. Id: 43533-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 43533-Dialogue.mod:5
+msgid "Might need some extra repair kits..."
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:0
+msgid "Blind devotion will be a nation's sole destruction."
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:1
+msgid "Fear and prejudice breeds only destruction. When will you Okranites ever learn?"
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:2
+msgid "Okranite fanatics... Hatred only breeds hatred..."
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:3
+msgid "The Holy Nation can't be reasoned with. Fear controls their judgement."
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:4
+msgid "So much destruction at the hands of the Holy Nation. Blind faith, in anything, is poison."
+msgstr ""
+
+#. Id: 47619-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot defeated squad
+#. -- Condition: My Race(s): Skeleton
+#: 47619-Dialogue.mod:5
+msgid "The tragedy of the Holy Nation. Fear and hatred are the world's most formidable enemies."
+msgstr ""
+

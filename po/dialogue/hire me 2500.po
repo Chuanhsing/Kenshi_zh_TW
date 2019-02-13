@@ -1,0 +1,850 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:0
+msgid "I'm looking for work if you're looking for a merc..."
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:1
+msgid "You here to recruit?"
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:3
+msgid "I take it you're here to hire a merc?"
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:4
+msgid "You there. Looking for a merc?"
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:5
+msgid "You, /OUTLANDER/. You need a mercenary on your squad?"
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:6
+msgid "/OUTLANDER/. You here to hire some muscle?"
+msgstr ""
+
+#. Id: 1739-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 1739-gamedata.base:7
+msgid "Not seen you around before... You here to hire?"
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:0
+msgid "I'm a decent swordsman. Fighting is what I do, not much of a thinker."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:1
+msgid "Fighting is my thing."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:2
+msgid "Fighting is what I do. Not much else."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:3
+msgid "I'm good with a sword. Not so much with my brain."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:4
+msgid "I'm not too bad with a sword."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:5
+msgid "Not too shabby with a sword. You need someone cutting down, I'll cut 'em down."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:6
+msgid "I can handle myself in a fight."
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:7
+msgid "I can hold my own in a fight. "
+msgstr ""
+
+#. Id: 18108-Recruits Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18108-Recruits?Dialogue.mod:8
+msgid "I'm a swordsman. Love fighting, hate calculus."
+msgstr ""
+
+#. Id: 18118-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18108-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18118-Recruits?Dialogue.mod:0
+msgid "Sorry, I'm not looking for a swordsman"
+msgstr ""
+
+#. Id: 18118-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18108-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18118-Recruits?Dialogue.mod:1
+msgid "Sorry, not looking for a warrior right now"
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:0
+msgid "I'm good at fighting... cutting, stabbing, scalping, skinning, what have you."
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:1
+msgid "Just tell me who you want stabbing and I'll stab 'em."
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:2
+msgid "Sure. I can stab, cut, skin, chop, cleave, shank, slice... you name it, I do it."
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:3
+msgid "Just tell me who to kill and I'll handle it."
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:4
+msgid "I'm good at killing."
+msgstr ""
+
+#. Id: 18116-Recruits Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (18106-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 18116-Recruits?Dialogue.mod:5
+msgid "I'm good at killing stuff."
+msgstr ""
+
+#. Id: 18109-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18109-Recruits?Dialogue.mod:1
+msgid "What's your cost?"
+msgstr ""
+
+#. Id: 18109-Recruits Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18109-Recruits?Dialogue.mod:3
+msgid "What are you charging?"
+msgstr ""
+
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18120-Recruits?Dialogue.mod:1
+msgid "6000 Cats and I'm yours."
+msgstr ""
+
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18120-Recruits?Dialogue.mod:3
+msgid "My price is 6000 Cats. You in?"
+msgstr ""
+
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18120-Recruits?Dialogue.mod:4
+msgid "My price is 6000 Cats. Do we have a deal?"
+msgstr ""
+
+#. Id: 18121-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (18120-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18121-Recruits?Dialogue.mod:1
+msgid "Don't have enough Cats right now..."
+msgstr ""
+
+#. Id: 8816-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8816-Dialogue.mod:0
+msgid "Need protection, /OUTLANDER/? 6000 Cats and I'm yours"
+msgstr ""
+
+#. Id: 8816-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8816-Dialogue.mod:1
+msgid "/HI/ /BROTHER/. Need to hire a sword? 6000 Cats"
+msgstr ""
+
+#. Id: 8816-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8816-Dialogue.mod:2
+msgid "Need to hire a sword? I only charge 6000 Cats, how about it? "
+msgstr ""
+
+#. Id: 8816-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8816-Dialogue.mod:3
+msgid "/HI/. Want to hire a sword? I charge 6000 Catan credits"
+msgstr ""
+
+#. Id: 8816-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8816-Dialogue.mod:4
+msgid "/HELLO/. Need my sword? It'll cost you 6000 Cats"
+msgstr ""
+
+#. Id: 8827-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 8827-Dialogue.mod:0
+msgid "If you need a sword, I charge 6000 Cats"
+msgstr ""
+
+#. Id: 18087-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8827-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18087-Recruits?Dialogue.mod:0
+msgid "What's your story?"
+msgstr ""
+
+#. Id: 18088-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18087-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 18088-Recruits?Dialogue.mod:0
+msgid "What's it to you? You wanna know what I did? Where I did time? All you need to know is you say fight, and I say who. You say take, I and I say with pleasure. Good enough for you?"
+msgstr ""
+
+#. Id: 5669-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 5669-Recruits?Dialogue.mod:0
+msgid "Lookin' for a fighter? I'm seasoned enough, lookin' for work. How 'bout it?"
+msgstr ""
+
+#. Id: 5671-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5670-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 5671-Recruits?Dialogue.mod:1
+msgid "Everyone's got a story, bub. Me? I became a merc after I lost my family to blood bandits, never looked back since. I reminisce, but I don't wallow in who I used to be, or who I became. Death catches up to you when you look back..."
+msgstr ""
+
+#. Id: 5671-Recruits Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5670-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 5671-Recruits?Dialogue.mod:4
+msgid "Me? Squire to a samurai. Tough cookies those killers. Polish this, run here, strike that, it never ended. They wouldn't even give me a blade, just kept me as a lacky till me last year. Training paid off, but I couldn't take any more of those insufferable swines. Looking to join someone more...fair."
+msgstr ""
+
+#. Id: 5671-Recruits Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (5670-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 5671-Recruits?Dialogue.mod:5
+msgid "Been surviving as a mercenary since I was just a kid. In this world, you fight one battle at a time, no matter how many goons you go up against. I'm just seeing where the next fight takes me."
+msgstr ""
+
+#. Id: 5671-Recruits Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (5670-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 5671-Recruits?Dialogue.mod:6
+msgid "Me? Ten years a merc. Everyone said I was unlucky, but I don't see it that way. Four squads, traders, mercs, you name it. I was the only one to come out. They said I was bad luck, right? No, I survived. I call that some pretty good luck."
+msgstr ""
+
+#. Id: 5772-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5671-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 5772-Recruits?Dialogue.mod:0
+msgid "Yeah, no thanks."
+msgstr ""
+
+#. Id: 5672-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5669-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 5672-Recruits?Dialogue.mod:0
+msgid "Seasoned is good. Come work for me, I'll pay you fairly."
+msgstr ""
+
+#. Id: 5673-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5672-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 5673-Recruits?Dialogue.mod:0
+msgid "Sounds 'bout right. Security fee is 6000 Cats. Up front."
+msgstr ""
+
+#. Id: 5674-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5673-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 5674-Recruits?Dialogue.mod:0
+msgid "Deal. Welcome aboard."
+msgstr ""
+
+#. Id: 5677-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5673-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 5677-Recruits?Dialogue.mod:0
+msgid "Too expensive. Another time."
+msgstr ""
+
+#. Id: 5676-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5669-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 5676-Recruits?Dialogue.mod:0
+msgid "Not today."
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:0
+msgid "You're back."
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:1
+msgid "Look who's back."
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:3
+msgid "That was quick. Changed your mind?"
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:5
+msgid "We meet again."
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:6
+msgid "So, we meet again..."
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:11
+msgid "Why the long face?"
+msgstr ""
+
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18123-Recruits?Dialogue.mod:12
+msgid "You again."
+msgstr ""
+
+#. Id: 18124-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18124-Recruits?Dialogue.mod:2
+msgid "Remind me how much you were charging again?"
+msgstr ""
+
+#. Id: 18126-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18126-Recruits?Dialogue.mod:1
+msgid "Forget it, I'm leaving"
+msgstr ""
+
+#. Id: 47748-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47748-Recruits?Dialogue.mod:0
+msgid "You don't look like you belong here, /OUTLANDER/. But then, neither do I. A bar is useless to a being that cannot drink afterall, isn't it?"
+msgstr ""
+
+#. Id: 47750-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47748-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 47750-Recruits?Dialogue.mod:0
+msgid "Enough of my musings. This is a place for banding up and I'm looking for work. I charge 6000 Cats if you're interested..."
+msgstr ""
+
+#. Id: 47749-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 47749-Recruits?Dialogue.mod:0
+msgid "Life looks as if it's taking it's toll on you, /OUTLANDER/. My sympathies, it's a tough world to survive for loners like yourself, everything and everyone wants to eat you alive when you're made of flesh and bone. If you need some extra help I'm right here, free of contract and available for hire."
+msgstr ""
+
+#. Id: 47751-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47751-Recruits?Dialogue.mod:0
+msgid "You're not here for the drink, so you must be here to hire. Or, of course, you're here on shady business with the ninjas. My lips are sealed."
+msgstr ""
+
+#. Id: 47753-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47751-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 47753-Recruits?Dialogue.mod:0
+msgid "Anyway, I'm available for hire, whatever your business. My price is 6000 Cats."
+msgstr ""
+
+#. Id: 47752-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Shek
+#: 47752-Recruits?Dialogue.mod:0
+msgid "Those eyes, so alert and curious. You remind me of someone I used to know... But that was a few hundred years ago now, all time melds together when you've lived as I long as I."
+msgstr ""
+
+#. Id: 47754-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47752-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 47754-Recruits?Dialogue.mod:0
+msgid "It wouldn't be the first time I've come across the descendant of a treasured old friend. Are you hiring? I charge 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:0
+msgid "You're here looking for recruits, yes? I'm available for hire if so. My fee is 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:1
+msgid "You must be here looking for recruits, correct? My sword is for hire if so, I charge 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:2
+msgid "You're here to find new recruits, correct? I'm available for 6000 Cats if you need."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:3
+msgid "Are you here for recruits, /OUTLANDER/? If so, I'm available, and I'm charging only 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:4
+msgid "You look lost, /OUTLANDER/, but if you're looking for new recruits I can help. I'm available for 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:5
+msgid "What brings you in here, /OUTLANDER/? Recruits? If so, I'm looking for work, I charge 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:6
+msgid "I'm here looking for work, and I assume perhaps you're looking for recruits... Need a sword, /OUTLANDER/? My fee is 6000 Cats."
+msgstr ""
+
+#. Id: 47755-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47755-Recruits?Dialogue.mod:7
+msgid "Are you hiring? I'm available for work if so, I charge 6000 Cats."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:0
+msgid "Hivers aren't natural loners, we need direction. I need food and I need a master to follow. My fee is 4000 Cats."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:1
+msgid "I'm hungry for food and desperate for a master to follow. I can work for you for 4000 Cats."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:2
+msgid "Do you need followers? I'll follow for 4000 Cats... Ever since I left the hive.. I'm struggling to survive without a master..."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:3
+msgid "I'm not ready to go it alone yet, it's not long since I separated myself from the hive. I'll follow you for 4000 Cats if you're hiring."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:4
+msgid "As a hiver, being alone is a suffocating feeling. I need direction, I need a master. I'll work for one fee of 4000 Cats..."
+msgstr ""
+
+#. Id: 47782-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: My Race(s): Hive Prince
+#: 47782-Recruits?Dialogue.mod:5
+msgid "I need a master and I need food. I'll follow you for 4000 Cats if you're hiring."
+msgstr ""
+
+#. Id: 47783-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 47783-Recruits?Dialogue.mod:0
+msgid "Need someone who can handle themself? A hive ronin's been through it all, I can watch your back better than anyone. I charge 6000 Cats. "
+msgstr ""
+
+#. Id: 47783-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 47783-Recruits?Dialogue.mod:1
+msgid "Seasoned ronin for hire. Will work for food... and a debt settlement of 6000 Cats."
+msgstr ""
+
+#. Id: 47783-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 47783-Recruits?Dialogue.mod:2
+msgid "Ronin in need of a new master. Interested in hiring? My fee is 6000 Cats. And I have the skills to prove my worth."
+msgstr ""
+
+#. Id: 47783-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 47783-Recruits?Dialogue.mod:3
+msgid "Need to hire yourself an experienced ronin? I charge 6000 Cats."
+msgstr ""
+
+#. Id: 47783-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 47783-Recruits?Dialogue.mod:4
+msgid "Are you looking for recruits? If so you're in luck, I'm looking for a master. My fee is 6000 Cats."
+msgstr ""
+

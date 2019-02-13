@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15937-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15937-Dialogue.mod:0
+msgid "You /CRAPPY/ thief! You'll regret that!"
+msgstr ""
+
+#. Id: 15937-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. Id: 3434-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15937-Dialogue.mod:2 3434-dialogue-01.mod:5
+msgid "/GODDAMN/ thief! You won't get away with this!"
+msgstr ""
+
+#. Id: 15937-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15937-Dialogue.mod:3
+msgid "You thieving shit! I'll cut your hands off!"
+msgstr ""
+
+#. Id: 15937-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. Id: 3434-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15937-Dialogue.mod:4 3434-dialogue-01.mod:1
+msgid "You! You'll pay for that in blood!"
+msgstr ""
+
+#. Id: 15937-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. Id: 3434-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#: 15937-Dialogue.mod:5 3434-dialogue-01.mod:2
+msgid "Stealing from me?! I don't fucking think so!"
+msgstr ""
+
+#. Id: 15940-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 3437-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 15940-Dialogue.mod:0 3437-dialogue-01.mod:0
+msgid "Put that down and get out of here!"
+msgstr ""
+
+#. Id: 15940-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 3437-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 15940-Dialogue.mod:1 3437-dialogue-01.mod:1
+msgid "Steal from me and you'll regret it!"
+msgstr ""
+
+#. Id: 15940-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 3437-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 15940-Dialogue.mod:2 3437-dialogue-01.mod:2
+msgid "You'd best be paying for that."
+msgstr ""
+
+#. Id: 15940-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 3437-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 15940-Dialogue.mod:3 3437-dialogue-01.mod:3
+msgid "Hey! I see what you're doing!"
+msgstr ""
+
+#. Id: 15940-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 3437-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#: 15940-Dialogue.mod:5 3437-dialogue-01.mod:5
+msgid " I'll call the law!"
+msgstr ""
+
+#. Id: 15941-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 4490-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 15941-Dialogue.mod:2 4490-dialogue-02.mod:2
+msgid "Give it back/PRD/"
+msgstr ""
+
+#. Id: 50385-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50385-Dialogue.mod:1
+msgid "Help, somebody get /HIM/!"
+msgstr ""
+
+#. Id: 50385-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Deadcat
+#: 50385-Dialogue.mod:2
+msgid "Somebody, help!"
+msgstr ""
+
+#. Id: 15943-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 18149-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. Id: 13919-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15943-Dialogue.mod:4 18149-Dialogue.mod:2 13919-Escapes.mod:4
+msgid "You thief!"
+msgstr ""
+
+#. Id: 15944-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15943-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 15944-Dialogue.mod:2
+msgid "/GUARD/s, help!"
+msgstr ""
+

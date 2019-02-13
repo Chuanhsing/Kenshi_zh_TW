@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:0
+msgid "/HI/! /HI/, how are you? Take a squat, rest up, guest!"
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:1
+msgid "Journeyed far, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:2
+msgid "Picked a fair day for trekking, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:4
+msgid "Good day to you, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:5
+msgid "Luck be with you, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:6
+msgid "Safe journeys, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65032-october 17.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 65032-october?17.mod:7
+msgid "A visitor?! /HI/!"
+msgstr ""
+
+#. Id: 65033-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<150, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>48, Tag: -1
+#: 65033-october?17.mod:0
+msgid "Seen you before, I swear..."
+msgstr ""
+
+#. Id: 65033-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<150, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>48, Tag: -1
+#: 65033-october?17.mod:1
+msgid "Returned so soon?"
+msgstr ""
+
+#. Id: 65034-october 17.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (65033-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#: 65034-october?17.mod:2
+msgid "Always good to see a familiar face, /BROTHER/."
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:0
+msgid "You look... odd."
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:1
+msgid "You, uh... you lost, stranger?"
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:2
+msgid "... What's with your hair?"
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:3
+msgid "Not much to see in this little village, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:4
+msgid "I smell a storm brewin'..."
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:5
+msgid "Who might you be?"
+msgstr ""
+
+#. Id: 65035-october 17.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 65035-october?17.mod:6
+msgid "Nothing of any value here, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:0
+msgid "Keep one eye on your job, the other on strangers..."
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:1
+msgid "Never trust a drifter, /NAME/."
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:2
+msgid "And where's /THISONE/ drifted in from?"
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:3
+msgid "Aye, 'n who's /THISONE/?"
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:4
+msgid "Got a bad feelin' 'bout /THISONE/."
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:5
+msgid "The quicker you leave, the better, /OUTLANDER/."
+msgstr ""
+
+#. Id: 65036-october 17.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 65036-october?17.mod:6
+msgid "Look, /NAME/, a visitor..."
+msgstr ""
+
+#. Id: 65058-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 65060-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 65062-october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 65058-october?17.mod:0 65060-october?17.mod:0 65062-october?17.mod:0
+msgid "... You okay there, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 65058-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 65060-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 65062-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 65058-october?17.mod:1 65060-october?17.mod:1 65062-october?17.mod:1
+msgid "... Rest up, /OUTLANDER/. You look like you need it."
+msgstr ""
+
+#. Id: 65058-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 65060-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 65058-october?17.mod:2 65060-october?17.mod:2
+msgid "You're hurt... is there danger nearby, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 65058-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. Id: 65060-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#: 65058-october?17.mod:3 65060-october?17.mod:3
+msgid "What happened to you, /OUTLANDER/? Are we in danger?"
+msgstr ""
+
+#. Id: 65062-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 65062-october?17.mod:2
+msgid "You're hurt... is there danger, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 65062-october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 65062-october?17.mod:3
+msgid "What did this to you, /OUTLANDER/? Are we in danger?"
+msgstr ""
+
+#. Id: 65064-october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 65064-october?17.mod:1
+msgid "Oh, my..."
+msgstr ""
+
+#. Id: 65064-october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 65064-october?17.mod:2
+msgid "Whoa..."
+msgstr ""
+
+#. Id: 65070-october 17.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65064-october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#: 65070-october?17.mod:0
+msgid "You look like you need this more than I do."
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:0
+msgid "Don't see many skellies this side of the outlands..."
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:1
+msgid "A skulking skelly leaves a bad omen in the belly..."
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:2
+msgid "... A skelly in the night will be a man's blight..."
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:3
+msgid "... Don't look into it's eyes... Don't look into it's eyes..."
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:4
+msgid "*gasp*... A skeleton!"
+msgstr ""
+
+#. Id: 65084-__october 17.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Target Race(s): Skeleton
+#: 65084-__october?17.mod:5
+msgid "You're... creepy."
+msgstr ""
+
+#. Id: 65086-__october 17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 65086-__october?17.mod:0
+msgid "Shit, did you see that skelly? All the way out here! Gave me the willies..."
+msgstr ""
+
+#. Id: 65086-__october 17.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Target Race(s): Skeleton
+#: 65086-__october?17.mod:1
+msgid "Did you see that skelly? It's eyes were empty as voids! Brrrr!"
+msgstr ""
+
+#. Id: 65088-__october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65087-__october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dead cat villager sees player
+#: 65088-__october?17.mod:0
+msgid "*COUGH COUGH*"
+msgstr ""
+
+#. Id: 65089-__october 17.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65088-__october 17.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dead cat villager sees player
+#: 65089-__october?17.mod:0
+msgid "... It's standing right behind me, isn't it...?"
+msgstr ""
+

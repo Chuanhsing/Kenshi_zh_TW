@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3573-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3573-dialogue-01.mod:0
+msgid "Good as new! Almost."
+msgstr ""
+
+#. Id: 3573-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3573-dialogue-01.mod:1
+msgid "Be careful next time, all right?"
+msgstr ""
+
+#. Id: 3573-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3573-dialogue-01.mod:2
+msgid "Hope that wasn't too bad."
+msgstr ""
+
+#. Id: 3573-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3573-dialogue-01.mod:3
+msgid "There. Feel better?"
+msgstr ""
+
+#. Id: 3573-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 3573-dialogue-01.mod:4
+msgid "Take it easy for a while, all right?"
+msgstr ""
+
+#. Id: 3575-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_ALLY=0, Tag: -1
+#: 3575-dialogue-01.mod:0
+msgid "I should charge people for this."
+msgstr ""
+
+#. Id: 3575-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_ALLY=0, Tag: -1
+#: 3575-dialogue-01.mod:1
+msgid "Had to shriek, didn't you."
+msgstr ""
+
+#. Id: 3575-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_ALLY=0, Tag: -1
+#: 3575-dialogue-01.mod:2
+msgid "Lucky I was around."
+msgstr ""
+
+#. Id: 3575-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_ALLY=0, Tag: -1
+#: 3575-dialogue-01.mod:3
+msgid "You're not welcome."
+msgstr ""
+
+#. Id: 3575-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IS_ALLY=0, Tag: -1
+#: 3575-dialogue-01.mod:4
+msgid "Don't make me do that again."
+msgstr ""
+
+#. Id: 3577-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#. Id: 13262-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc finished healing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3577-dialogue-01.mod:0 13262-Escapes.mod:1
+msgid "All done."
+msgstr ""
+
+#. Id: 3577-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#: 3577-dialogue-01.mod:2
+msgid "Best I can do."
+msgstr ""
+
+#. Id: 3577-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (finish)
+#: 3577-dialogue-01.mod:4
+msgid "That should do it."
+msgstr ""
+

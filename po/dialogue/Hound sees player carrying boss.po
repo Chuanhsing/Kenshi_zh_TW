@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66355-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66355-Dialogue.mod:0
+msgid "Whoa whoa whoa! Shit, /YOURNAME/!"
+msgstr ""
+
+#. Id: 66358-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66355-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66358-Dialogue.mod:0
+msgid "What are ya doin' with HIM?!"
+msgstr ""
+
+#. Id: 66356-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 66356-Dialogue.mod:0
+msgid "Big Gray?"
+msgstr ""
+
+#. Id: 66357-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66356-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66357-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you doin' with Big Gray?"
+msgstr ""
+
+#. Id: 66361-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66363-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 66365-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66361-Dialogue.mod:1 66363-Dialogue.mod:3 66365-Dialogue.mod:3
+msgid "... Oh... hell..."
+msgstr ""
+
+#. Id: 66366-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66361-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66366-Dialogue.mod:0
+msgid "Whatcha doin', /YOURNAME/?"
+msgstr ""
+
+#. Id: 66367-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66367-Dialogue.mod:0
+msgid "'Causin' trouble? "
+msgstr ""
+
+#. Id: 66368-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66367-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66368-Dialogue.mod:0
+msgid "Should put him back, eh? We got a good thing goin' here..."
+msgstr ""
+
+#. Id: 66375-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66368-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66375-Dialogue.mod:0
+msgid "Don't wanna be pokin' no spider nests."
+msgstr ""
+
+#. Id: 66375-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (66368-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66375-Dialogue.mod:1
+msgid "Don't be chuckin' stones at spider nests."
+msgstr ""
+
+#. Id: 66362-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 66362-Dialogue.mod:0
+msgid "Big Darkbrow?"
+msgstr ""
+
+#. Id: 66369-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66362-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66369-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you doin' with Big Darkbrow?"
+msgstr ""
+
+#. Id: 66364-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 66364-Dialogue.mod:0
+msgid "Big Al?"
+msgstr ""
+
+#. Id: 66379-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66379-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you doin' with Big Al?"
+msgstr ""
+
+#. Id: 66376-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 66376-Dialogue.mod:0
+msgid "Big Fang?"
+msgstr ""
+
+#. Id: 66380-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound sees player carrying boss
+#: 66380-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you doin' with Big Fang?"
+msgstr ""
+

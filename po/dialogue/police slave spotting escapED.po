@@ -1,0 +1,136 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 3829-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 3846-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (3839-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. Id: 3832-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 5372-gamedata.base:0 3829-gamedata.base:5 3846-gamedata.base:1 3832-gamedata.base:4
+msgid "Well well well!"
+msgstr ""
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 5372-gamedata.base:1
+msgid "Hang on..."
+msgstr ""
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 5390-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave spotting escapING
+#: 5372-gamedata.base:2 5390-gamedata.base:0
+msgid "Wait a minute..."
+msgstr ""
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 5372-gamedata.base:3
+msgid "/HALT/!"
+msgstr ""
+
+#. Id: 5372-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 16680-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver witness lockpicking
+#. -- Condition: In town(s) of faction(s): Slave Traders
+#. Id: 59510-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver spots picklock
+#: 5372-gamedata.base:4 16680-Dialogue.mod:1 59510-Dialogue.mod:1
+msgid "/YOUTHERE/!"
+msgstr ""
+
+#. Id: 5374-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5372-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#: 5374-gamedata.base:0
+msgid "You look suspicious..."
+msgstr ""
+
+#. Id: 5387-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5374-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: police slave spotting escapED
+#. Id: 13619-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13618-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from law enforcement
+#. Id: 12593-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police bounty spotted
+#. Id: 15621-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15620-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness stealing from me
+#. Id: 12583-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see crime
+#: 5387-gamedata.base:0 13619-Escapes.mod:0 12593-gamedata.base:3 15621-Dialogue.mod:4 12583-gamedata.base:2
+msgid "You're under arrest!"
+msgstr ""
+

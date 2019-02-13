@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96057-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 96057-Dialogue.mod:0
+msgid "A sk- sk- sk-..."
+msgstr ""
+
+#. Id: 96057-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 96057-Dialogue.mod:1
+msgid "/ARG/! SKELETON!"
+msgstr ""
+
+#. Id: 96058-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96057-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96058-Dialogue.mod:0
+msgid "... Skeletons, here on /SACRED/ /LAND/!"
+msgstr ""
+
+#. Id: 97352-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97352-Dialogue.mod:0
+msgid "We must report this to Inquisitor Seta!"
+msgstr ""
+
+#. Id: 97352-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (96059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 97367-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (97366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97352-Dialogue.mod:1 97367-Dialogue.mod:1
+msgid "Report back!"
+msgstr ""
+
+#. Id: 97353-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 97366-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97353-Dialogue.mod:0 97366-Dialogue.mod:0
+msgid "Quickly, paladins..."
+msgstr ""
+
+#. Id: 97353-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (97352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 97366-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (96066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97353-Dialogue.mod:1 97366-Dialogue.mod:1
+msgid "Onwards..."
+msgstr ""
+
+#. Id: 97353-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (97352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 97366-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (96066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97353-Dialogue.mod:2 97366-Dialogue.mod:2
+msgid "Forward march..."
+msgstr ""
+
+#. Id: 97353-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (97352-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 97366-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (96066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97353-Dialogue.mod:3 97366-Dialogue.mod:3
+msgid "To the capital..."
+msgstr ""
+
+#. Id: 97357-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97353-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 96066-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (96065-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97357-Dialogue.mod:0 96066-Dialogue.mod:2
+msgid "Make haste..."
+msgstr ""
+
+#. Id: 97357-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (97353-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 96066-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (96065-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97357-Dialogue.mod:1 96066-Dialogue.mod:4
+msgid "Come now..."
+msgstr ""
+
+#. Id: 97362-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97357-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97362-Dialogue.mod:0
+msgid "The skeletons must be purged!"
+msgstr ""
+
+#. Id: 96062-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#: 96062-Dialogue.mod:0
+msgid "Are there no men in this outpost?"
+msgstr ""
+
+#. Id: 96067-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#: 96067-Dialogue.mod:0
+msgid "This cannot be!"
+msgstr ""
+
+#. Id: 96065-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96067-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96065-Dialogue.mod:0
+msgid " It is against /SACRED/ law to take up residence without brotherly guidance..."
+msgstr ""
+
+#. Id: 96065-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (96067-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96065-Dialogue.mod:1
+msgid "Woman needs brotherly guidance and discipline that only a son of Okran can give..."
+msgstr ""
+
+#. Id: 96068-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#: 96068-Dialogue.mod:0
+msgid "Your blasphemy won't go unchecked, believe you me!"
+msgstr ""
+
+#. Id: 97367-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97367-Dialogue.mod:0
+msgid "I must report back at once!"
+msgstr ""
+
+#. Id: 97367-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (97366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97367-Dialogue.mod:2
+msgid "We must have them removed!"
+msgstr ""
+
+#. Id: 97367-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (97366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97367-Dialogue.mod:3
+msgid "I must report this!"
+msgstr ""
+
+#. Id: 96070-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 96070-Dialogue.mod:0
+msgid "... Beasts?"
+msgstr ""
+
+#. Id: 96070-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 96070-Dialogue.mod:1
+msgid "... Darkened?"
+msgstr ""
+
+#. Id: 96070-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 96070-Dialogue.mod:2
+msgid "... Darkened ones?"
+msgstr ""
+
+#. Id: 96070-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 96070-Dialogue.mod:3
+msgid "... Dark beasts?"
+msgstr ""
+
+#. Id: 96071-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#: 96071-Dialogue.mod:0
+msgid "On this /SACRED/ /LAND/!?"
+msgstr ""
+
+#. Id: 96073-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96071-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96073-Dialogue.mod:0
+msgid "What heresy is this?"
+msgstr ""
+
+#. Id: 96074-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 96074-Dialogue.mod:0
+msgid "The impure are not welcome here on Okran's soil..."
+msgstr ""
+
+#. Id: 96075-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96074-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#: 96075-Dialogue.mod:0
+msgid "You will be removed."
+msgstr ""
+
+#. Id: 97341-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Target Race(s): Greenlander
+#: 97341-Dialogue.mod:0
+msgid "There are unchained beasts in this outpost?"
+msgstr ""
+
+#. Id: 97342-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (97341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97342-Dialogue.mod:0
+msgid "Speak to me now, send me your leader!"
+msgstr ""
+
+#. Id: 97343-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (97342-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97343-Dialogue.mod:0
+msgid "I don't have time to wait around..."
+msgstr ""
+
+#. Id: 97344-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97344-Dialogue.mod:0
+msgid "I cannot risk corruption from a tainted one."
+msgstr ""
+
+#. Id: 97345-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97345-Dialogue.mod:0
+msgid "Last chance. Send me your leader!"
+msgstr ""
+
+#. Id: 97347-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (97346-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97347-Dialogue.mod:0
+msgid "I'll be sure to report this back to Inquisitor Seta himself."
+msgstr ""
+

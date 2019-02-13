@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59173-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#. Id: 60221-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 59173-Dialogue.mod:0 60221-Dialogue.mod:0
+msgid "Under the divine law of the Holy Lord Phoenix, blessed be his name..."
+msgstr ""
+
+#. Id: 59174-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59173-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#. Id: 60222-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60221-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 59174-Dialogue.mod:0 60222-Dialogue.mod:0
+msgid "I hereby arrest /YOURNAME/ for the brutalisation of one of Okran's purest of children..."
+msgstr ""
+
+#. Id: 59175-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59174-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#. Id: 60223-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60222-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 59175-Dialogue.mod:0 60223-Dialogue.mod:0
+msgid "For the attack on a High Inquisitor of the holy order..."
+msgstr ""
+
+#. Id: 59175-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59174-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 59175-Dialogue.mod:1
+msgid "For the attack on Okran's beloved High Inquisitor Seta..."
+msgstr ""
+
+#. Id: 59177-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59173-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#. Id: 60224-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60221-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 59177-Dialogue.mod:0 60224-Dialogue.mod:0
+msgid "I hereby arrest those responsible for the brutalisation of one of Okran's purest of children..."
+msgstr ""
+
+#. Id: 60223-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60222-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor revenge for high inquisitor attack
+#: 60223-Dialogue.mod:1
+msgid "For the attack on Okran's beloved High Inquisitor Valtena..."
+msgstr ""
+

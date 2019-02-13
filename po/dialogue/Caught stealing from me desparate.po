@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#. Id: 15941-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 4490-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 48005-Dialogue.mod:0 15941-Dialogue.mod:0 4490-dialogue-02.mod:0
+msgid "Stop that/PRD/"
+msgstr ""
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#. Id: 15941-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 4490-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 48005-Dialogue.mod:2 15941-Dialogue.mod:3 4490-dialogue-02.mod:3
+msgid "Put that back/PRD/"
+msgstr ""
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#. Id: 15941-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 4490-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 48005-Dialogue.mod:3 15941-Dialogue.mod:4 4490-dialogue-02.mod:4
+msgid "/OI/, that's mine/PRD/"
+msgstr ""
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#. Id: 15943-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13919-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 48005-Dialogue.mod:4 15943-Dialogue.mod:3 13919-Escapes.mod:3
+msgid "Thief! I saw that!"
+msgstr ""
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#. Id: 15943-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ catches someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13919-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sees someone stealing from them
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 48005-Dialogue.mod:5 15943-Dialogue.mod:2 13919-Escapes.mod:2
+msgid "Hey! I saw that!"
+msgstr ""
+
+#. Id: 48005-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caught stealing from me desparate
+#: 48005-Dialogue.mod:7
+msgid "Thief! Damn you!"
+msgstr ""
+

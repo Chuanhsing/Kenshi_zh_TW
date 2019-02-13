@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17644-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#: 17644-Dialogue.mod:0
+msgid "You really are a fool"
+msgstr ""
+
+#. Id: 17644-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#: 17644-Dialogue.mod:2
+msgid "I see you... /TRASH/"
+msgstr ""
+
+#. Id: 17644-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#. Id: 15002-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting Shek authority
+#: 17644-Dialogue.mod:4 15002-Dialogue.mod:2
+msgid "That doesn't belong to you, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17644-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#: 17644-Dialogue.mod:5
+msgid "Drop it, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17644-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#: 17644-Dialogue.mod:6
+msgid "Raise your sword, looter"
+msgstr ""
+
+#. Id: 17645-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17645-Dialogue.mod:0
+msgid "Stop that"
+msgstr ""
+
+#. Id: 17645-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17645-Dialogue.mod:1
+msgid "Don't do that"
+msgstr ""
+
+#. Id: 17645-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17645-Dialogue.mod:3
+msgid "You shouldn't have touched that"
+msgstr ""
+
+#. Id: 17645-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from shek ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15022-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 17645-Dialogue.mod:4 15022-Dialogue.mod:0
+msgid "Thief..."
+msgstr ""
+

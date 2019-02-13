@@ -1,0 +1,361 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56052-Dialogue.mod:2 56185-Dialogue.mod:2
+msgid "And we tenderizes the no-hives, just the way he likes them...."
+msgstr ""
+
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56052-Dialogue.mod:5 56185-Dialogue.mod:5
+msgid "Death to the fleshy ones!"
+msgstr ""
+
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56052-Dialogue.mod:6 56185-Dialogue.mod:6
+msgid "Meat, meat, meat!"
+msgstr ""
+
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56052-Dialogue.mod:8 56185-Dialogue.mod:8
+msgid "Whack them on the head, soften up the flesh..."
+msgstr ""
+
+#. Id: 56053-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56186-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56053-Dialogue.mod:0 56186-Dialogue.mod:0
+msgid "More meats for King!"
+msgstr ""
+
+#. Id: 56053-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56052-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#: 56053-Dialogue.mod:1
+msgid "Sacrifice for King!"
+msgstr ""
+
+#. Id: 56054-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56054-Dialogue.mod:0
+msgid "The flesh ones cry lots of red..."
+msgstr ""
+
+#. Id: 56054-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 56054-Dialogue.mod:1
+msgid "The fleshy ones bleed more red than we..."
+msgstr ""
+
+#. Id: 56055-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56054-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#: 56055-Dialogue.mod:0
+msgid "King likes the red..."
+msgstr ""
+
+#. Id: 56062-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 56187-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56062-Dialogue.mod:0 56187-Dialogue.mod:0
+msgid "Stop squirming, no-hive!"
+msgstr ""
+
+#. Id: 56062-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 56187-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56062-Dialogue.mod:1 56187-Dialogue.mod:1
+msgid "Stop wriggling, no-hive!"
+msgstr ""
+
+#. Id: 56063-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56188-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56063-Dialogue.mod:0 56188-Dialogue.mod:0
+msgid "King doesn't like the squirmy ones!"
+msgstr ""
+
+#. Id: 56063-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56188-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56063-Dialogue.mod:1 56188-Dialogue.mod:1
+msgid "King doesn't like it when they wriggle!"
+msgstr ""
+
+#. Id: 56063-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56188-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56063-Dialogue.mod:2 56188-Dialogue.mod:2
+msgid "We just want your meat!"
+msgstr ""
+
+#. Id: 56063-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56065-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56188-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. Id: 56190-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56063-Dialogue.mod:3 56065-Dialogue.mod:1 56188-Dialogue.mod:3 56190-Dialogue.mod:1
+msgid "Just give us your red bits!"
+msgstr ""
+
+#. Id: 56063-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (56062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56065-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56188-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (56187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. Id: 56190-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56063-Dialogue.mod:4 56065-Dialogue.mod:2 56188-Dialogue.mod:4 56190-Dialogue.mod:2
+msgid "We just want to take you to King!"
+msgstr ""
+
+#. Id: 56064-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 56189-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56064-Dialogue.mod:0 56189-Dialogue.mod:0
+msgid "Stop hurting us, no-hive!"
+msgstr ""
+
+#. Id: 56064-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 56189-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 56064-Dialogue.mod:1 56189-Dialogue.mod:1
+msgid "Stop hitting us, no-hive!"
+msgstr ""
+
+#. Id: 56065-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56190-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56065-Dialogue.mod:0 56190-Dialogue.mod:0
+msgid "We just want your meats!"
+msgstr ""
+
+#. Id: 56065-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. Id: 56190-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#: 56065-Dialogue.mod:3 56190-Dialogue.mod:3
+msgid "We just want to show you to King!"
+msgstr ""
+
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56066-Dialogue.mod:2
+msgid "Crack! Crack! Crack!"
+msgstr ""
+
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56066-Dialogue.mod:3
+msgid "Snap! Snap! Snap!"
+msgstr ""
+
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56066-Dialogue.mod:4
+msgid "Kill the skelly tun"
+msgstr ""
+
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56066-Dialogue.mod:5
+msgid "Death to the metal ones!"
+msgstr ""
+
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56066-Dialogue.mod:6
+msgid "Death to the skelly tun!"
+msgstr ""
+

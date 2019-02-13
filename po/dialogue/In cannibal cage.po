@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:0
+msgid "Oh god... this can't be happening"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:1
+msgid "*sob* why me?"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:2 8992-Dialogue.mod:9
+msgid "LET ME OUT! LET ME OUT!"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:10
+msgid "Please... don't hurt me"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:11
+msgid "I've got to do something..."
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:13
+msgid "They're gonna come rescue me... they'll be here, they'll be here!"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:14
+msgid "Please, I don't want to die"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.16
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:16
+msgid "Somebody will come save me... they HAVE to... please"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.17
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:17
+msgid "No... please..."
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.18
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:18
+msgid "What do I do, what do I DO?!"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.20
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:20
+msgid "SOMEBODY HELP!"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.21
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:21
+msgid "HELP!! HELP!!!!"
+msgstr ""
+
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.23
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6004-Dialogue.mod:23
+msgid "Somebody help me!"
+msgstr ""
+
+#. Id: 6009-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6009-Dialogue.mod:0
+msgid "Psst! You gotta get me out of here!"
+msgstr ""
+
+#. Id: 6009-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6009-Dialogue.mod:1
+msgid "Wait! Let me out of here!"
+msgstr ""
+
+#. Id: 6009-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6009-Dialogue.mod:2
+msgid "Please help me! "
+msgstr ""
+
+#. Id: 6009-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6009-Dialogue.mod:3
+msgid "Psst! Let me out! I'll do anything!"
+msgstr ""
+
+#. Id: 6009-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6009-Dialogue.mod:4
+msgid "Please, let me out"
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:0
+msgid "Don't leave me! "
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:1
+msgid "Wait! Don't go! Don't leave me here!"
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:2
+msgid "Please! Don't leave me here!"
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:3
+msgid "Wait! Help me, please!"
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:4
+msgid "You can't leave me here! Please!"
+msgstr ""
+
+#. Id: 6017-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6017-Dialogue.mod:6
+msgid "Shit shit shit!"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:0
+msgid "/FUCK/! This can't be real... "
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:1
+msgid "I don't want to die. Not like this..."
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:2
+msgid "I'm gonna die..."
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:3
+msgid "HELP ME!"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:4
+msgid "Nope. This isn't happening"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:5
+msgid "Shit, shit, shit!"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:6
+msgid "Maybe I can pick the lock..."
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:7
+msgid "I can't let them take me alive..."
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:8
+msgid "I gotta get out of here"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:10
+msgid "Dammit"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:12
+msgid "Fuck"
+msgstr ""
+
+#. Id: 8992-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 8992-Dialogue.mod:13
+msgid "Goddammit"
+msgstr ""
+
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12507-Dialogue?(10)?(2).mod:1
+msgid "Get me out! Help me!"
+msgstr ""
+
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12507-Dialogue?(10)?(2).mod:2
+msgid "You! Don't be a /BASTARD/, get me out of here!"
+msgstr ""
+
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12507-Dialogue?(10)?(2).mod:3
+msgid "You! You've got to bust me out of here! Help!"
+msgstr ""
+
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12507-Dialogue?(10)?(2).mod:4
+msgid "HELP!!!!"
+msgstr ""
+
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12507-Dialogue?(10)?(2).mod:5
+msgid "GET ME OUT! GET ME OUT!"
+msgstr ""
+
+#. Id: 12508-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12508-Dialogue?(10)?(2).mod:1
+msgid "I'm... so... SCARED!"
+msgstr ""
+
+#. Id: 12511-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12511-Dialogue?(10)?(2).mod:0
+msgid "*humming*"
+msgstr ""
+
+#. Id: 12511-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12511-Dialogue?(10)?(2).mod:1
+msgid "*giggling*"
+msgstr ""
+
+#. Id: 12512-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12511-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#: 12512-Dialogue?(10)?(2).mod:0
+msgid "Mmm, something smells delicious! What's cooking?"
+msgstr ""
+
+#. Id: 12512-Dialogue (10) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12511-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#: 12512-Dialogue?(10)?(2).mod:1
+msgid "What's on the menu then? I'm in the mood for something soupy!"
+msgstr ""
+
+#. Id: 12512-Dialogue (10) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12511-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#: 12512-Dialogue?(10)?(2).mod:2
+msgid "When I grow up, I'm gonna be a PIE!"
+msgstr ""
+

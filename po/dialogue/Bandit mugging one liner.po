@@ -1,0 +1,554 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47283-Dialogue.mod:0 47294-Dialogue.mod:0
+msgid "/QUICKLAUGH/, this is too easy!"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 47292-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:1 47292-Dialogue.mod:2
+msgid "Fresh victims!"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47283-Dialogue.mod:2 47294-Dialogue.mod:2
+msgid "Fresh meat!"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:3
+msgid "/QUICKLAUGH/... Ain't no city for you lot out here... Just bandits!"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:4
+msgid "Must be a long way from home out here, eh, guys?"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:5
+msgid "Strays from the city, eh?"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:6
+msgid "Ain't no-one to protect you out here, /RUNT/s!"
+msgstr ""
+
+#. Id: 47283-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47283-Dialogue.mod:7
+msgid "You must be askin' for trouble, travellin' through MY territory!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:0
+msgid "Charge! Cut /HIM/ down and see if /HEHAS/ got any good loot!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:1
+msgid "Take /HIM/ out, we'll check /HIM/ for loot after!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:2
+msgid "Take /HIM/ out, /HE/ might have some decent loot on /HIM/!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:3
+msgid "Swiping the loot from /THISGUY/ should be cinch!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:4
+msgid "Kill /EM/ and strip /EM/!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:5
+msgid "Check /EM/ over for valuables!"
+msgstr ""
+
+#. Id: 47284-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (47283-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47284-Dialogue.mod:6
+msgid "An' just as were runnin' out of supplies too!"
+msgstr ""
+
+#. Id: 47292-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 12759-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>2, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 47292-Dialogue.mod:0 12759-Dialogue?(11)?(2).mod:3 12808-Dialogue?(11)?(2).mod:4
+msgid "What's this?"
+msgstr ""
+
+#. Id: 47292-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47292-Dialogue.mod:1
+msgid "Who are these /IDIOT/s?"
+msgstr ""
+
+#. Id: 47292-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47292-Dialogue.mod:3
+msgid "Well looky here! An' what are YOU doin' all the way out here in the outlands, eh?"
+msgstr ""
+
+#. Id: 47292-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 47292-Dialogue.mod:4
+msgid "Who are you? This is MY territory!"
+msgstr ""
+
+#. Id: 47293-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47293-Dialogue.mod:0
+msgid "Looks like some /RUNT/s to take my rage out on!"
+msgstr ""
+
+#. Id: 47293-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47293-Dialogue.mod:1
+msgid "/QUICKLAUGH/! These sad /RUNT/s are just asking for a beating!"
+msgstr ""
+
+#. Id: 47293-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47293-Dialogue.mod:2
+msgid "/QUICKLAUGH/! These nobodies are just asking for a beating!"
+msgstr ""
+
+#. Id: 47293-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (47292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47293-Dialogue.mod:3
+msgid "Looks like we got us some trainin' dummies to beat on!"
+msgstr ""
+
+#. Id: 47293-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (47292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#: 47293-Dialogue.mod:4
+msgid "This oughtta make some good sword trainin' for us, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:1
+msgid "A fresh victim!"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:3
+msgid "A lone traveller, eh?"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:4
+msgid "Travellin' all on your lonesome, eh?"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:5
+msgid "Travellin' without any company? You make this too easy for us!"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:6
+msgid "/QUICKLAUGH/, this is a dangerous place for lone travellers..."
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:7
+msgid "A stray from the city, eh?"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:8
+msgid "/QUICKLAUGH/... Ain't no city for you out here, /INSULT/..."
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:9
+msgid "You must be a long way from home out here, eh, /INSULT/?"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:10
+msgid "Ain't no-one to protect you out here, /RUNT/!"
+msgstr ""
+
+#. Id: 47294-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 47294-Dialogue.mod:11
+msgid "You must be askin' for trouble, travellin' alone all the way out here!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:0
+msgid "Traders! Get 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:1
+msgid "Merchants! Get 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:2
+msgid "Traders! Gut 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:3
+msgid "Traders! Kill 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:4
+msgid "A trade caravan?! Crush 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:5
+msgid "Merchants! Gut 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:6
+msgid "Merchants! Kill 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:7
+msgid "Merchants! Bleed 'em dry!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:8
+msgid "Traders... This is the motherload, boys, /CHARGE/!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:9
+msgid "Merchants... This is the motherload, boys, /CHARGE/!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:10
+msgid "A caravan!... /CHARGE/! Loot 'em dry!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:11
+msgid "/THISGUY/ should have some juicy loot on /HIM/! /CHARGE/!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:12
+msgid "Merchants?!... Load up, boys! Take everything you can carry!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:13
+msgid "A trade caravan!... Load up, boys! Take everything you can carry!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:14
+msgid "Load up, boys! Take everything you can carry!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:15
+msgid "This oughtta get us some good loots! Get 'em!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.16
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:16
+msgid "Load up, boys! This lot oughtta have some decent loot!"
+msgstr ""
+
+#. Id: 47308-Dialogue.mod
+#. -- Index: 0.17
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit mugging one liner
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>2, Tag: -1
+#: 47308-Dialogue.mod:17
+msgid "Clear 'em out! These fat cats'll get us some good loot!"
+msgstr ""
+

@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64614-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#: 64614-Dialogue.mod:0
+msgid "This, is The Lord incarnate. You will not approach without summon, my brother."
+msgstr ""
+
+#. Id: 64615-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64614-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 64615-Dialogue.mod:0
+msgid "Step away from the Holy Lord Phoenix Himself, blessed be his name."
+msgstr ""
+
+#. Id: 64616-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 64616-Dialogue.mod:0
+msgid "You wish to talk to The Lord incarnate, the Holy Phoenix Himself, blessed be his name?"
+msgstr ""
+
+#. Id: 64617-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 64617-Dialogue.mod:0
+msgid "Then earn your audience..."
+msgstr ""
+
+#. Id: 64618-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 64618-Dialogue.mod:0
+msgid "Through blood, tears and sweat. Through the purging of Okran's enemies..."
+msgstr ""
+
+#. Id: 64619-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64618-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 64619-Dialogue.mod:0
+msgid "As long as Narko's agents roam freely, the Holy Inquisitor will always need helping swords. "
+msgstr ""
+
+#. Id: 64620-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 64620-Dialogue.mod:0
+msgid "Find him in the Inquisitor station."
+msgstr ""
+
+#. Id: 64624-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 64624-Dialogue.mod:0
+msgid "Wretched woman! Do not approach the Holy Lord Phoenix Himself, blessed be his name!"
+msgstr ""
+
+#. Id: 64625-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#: 64625-Dialogue.mod:0
+msgid "Shoo, woman! Be off with you!"
+msgstr ""
+
+#. Id: 64626-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 64626-Dialogue.mod:0
+msgid "Vile beast! Keep your distance from the Holy Lord Phoenix Himself, blessed be his name!"
+msgstr ""
+
+#. Id: 64627-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64626-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#: 64627-Dialogue.mod:0
+msgid "I will not have the Lord incarnate's AIR defiled by the scourge of Narko!"
+msgstr ""
+

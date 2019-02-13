@@ -1,0 +1,197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19667-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19667-Dialogue.mod:0
+msgid "You a warrior, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19668-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19667-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19668-Dialogue.mod:0
+msgid "One of the best!"
+msgstr ""
+
+#. Id: 19674-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19674-Dialogue.mod:0
+msgid "Hrm, spirited... Well, need an extra blade? Rane the Giant, pure Shek warrior, 7500 Cats. Are you in, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19663-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19663-Dialogue.mod:0
+msgid "Then let us find battle"
+msgstr ""
+
+#. Id: 19664-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19664-Dialogue.mod:0
+msgid "Rane the Giant? That's a... odd name."
+msgstr ""
+
+#. Id: 19665-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19664-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19665-Dialogue.mod:0
+msgid "My battle name, given to me by the Stone Golem. A rare honour given to only the best warriors, the 100 Guardians."
+msgstr ""
+
+#. Id: 19666-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19665-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19666-Dialogue.mod:0
+msgid "And why is one of the 'best Shek warriors' begging for work in a dingy bar?"
+msgstr ""
+
+#. Id: 19675-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19675-Dialogue.mod:0
+msgid "I was challenged and I lost my place in the 100 Guardians. Now I grow eager for action, for challenge. My bones grow rusty and my stomach hungry each day I wait for battle. Will you give me the action I need, outsider?"
+msgstr ""
+
+#. Id: 19684-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19675-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>7500, Tag: -1
+#: 19684-Dialogue.mod:0
+msgid "Knowing my luck we'll find action in no time... you're hired."
+msgstr ""
+
+#. Id: 19686-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19675-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>7500, Tag: -1
+#: 19686-Dialogue.mod:0
+msgid "Sure, it will be good to have a Shek warrior along. Come."
+msgstr ""
+
+#. Id: 19676-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19665-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>7500, Tag: -1
+#: 19676-Dialogue.mod:0
+msgid "Impressive. In that case, you're hired."
+msgstr ""
+
+#. Id: 19677-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19665-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<7500, Tag: -1
+#: 19677-Dialogue.mod:0
+msgid "I don't have 7500 Cats, can you give me a discount?"
+msgstr ""
+
+#. Id: 19681-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19677-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19681-Dialogue.mod:0
+msgid "To pay any less would be an insult to my worth. Come back when you have the Cats."
+msgstr ""
+
+#. Id: 19678-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19665-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19678-Dialogue.mod:0
+msgid "That's great and all, but sorry I'm not interested"
+msgstr ""
+
+#. Id: 19399-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19399-Dialogue.mod:0
+msgid "You will find no better ally in battle than a Shek warrior, /FLATSKIN/. And I am one of the best in the land."
+msgstr ""
+
+#. Id: 19391-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19391-Dialogue.mod:0
+msgid "7500 Cats? Seems a little steep..."
+msgstr ""
+
+#. Id: 19398-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19391-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19398-Dialogue.mod:0
+msgid "You want a premium fighter of mighty Shek blood, you must pay the price tag."
+msgstr ""
+
+#. Id: 19692-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19692-Dialogue.mod:0
+msgid "A tolerable answer... Need an extra blade? Rane the Giant, pure Shek warrior, 7500 Cats. Are you in, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19673-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19672-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19673-Dialogue.mod:0
+msgid "Nevermind then."
+msgstr ""
+
+#. Id: 19671-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19667-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 19671-Dialogue.mod:0
+msgid "No, I hate conflict."
+msgstr ""
+

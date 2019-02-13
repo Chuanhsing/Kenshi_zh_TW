@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12802-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 44615-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#: 12802-Dialogue?(11)?(2).mod:1 44615-Dialogue.mod:3
+msgid "Thieving /RAT/!"
+msgstr ""
+
+#. Id: 12802-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12802-Dialogue?(11)?(2).mod:2
+msgid "/GODDAMN/ sneak!"
+msgstr ""
+
+#. Id: 12802-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12802-Dialogue?(11)?(2).mod:5
+msgid "Stealing from me? Big mistake!"
+msgstr ""
+
+#. Id: 12802-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12802-Dialogue?(11)?(2).mod:6
+msgid "I don't like thieves!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:0
+msgid "Thought you could fool /MEUS/?!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:1
+msgid "Thought you could con /MEUS/?!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:2
+msgid "Thought you could cheat /MEUS/?!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:3
+msgid "Trying to make a fool out of /MEUS/?!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:6
+msgid "You'll pay for this, /GREASY/ /RAT/!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:7
+msgid "You won't get away with this! /GODDAMN/ /GREASY/ /RAT/!"
+msgstr ""
+
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 12803-Dialogue?(11)?(2).mod:8
+msgid "Thought you could steal from /MEUS/?!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44620-Dialogue.mod:1
+msgid "I won't let you get away with this! Come back here!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 3688-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3687-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up as enemy starts walking away
+#: 44620-Dialogue.mod:2 3688-dialogue-01.mod:3
+msgid "Come back here!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44620-Dialogue.mod:3
+msgid "Come back here! Face your punishment!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44620-Dialogue.mod:5
+msgid "/GODDAMN/ you, get back here!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44620-Dialogue.mod:6
+msgid "I'll catch you, I'll make you pay!"
+msgstr ""
+
+#. Id: 44620-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44620-Dialogue.mod:7
+msgid "Coward! Get back here!"
+msgstr ""
+
+#. Id: 13215-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13213-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 13215-Escapes.mod:0
+msgid "/GODDAMN/ sneak! You're lucky I'm in this cage!"
+msgstr ""
+
+#. Id: 13215-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13213-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 13215-Escapes.mod:1
+msgid "Thief! If I wasn't in this /GODDAMN/ cage...!"
+msgstr ""
+
+#. Id: 13215-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13213-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 13215-Escapes.mod:2
+msgid "Thieving /RAT/! You're lucky I'm stuck in this /GODDAMN/ cage!"
+msgstr ""
+

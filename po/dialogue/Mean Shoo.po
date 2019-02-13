@@ -1,0 +1,359 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16670-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#: 16670-Dialogue.mod:0
+msgid "You're not allowed here"
+msgstr ""
+
+#. Id: 16670-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#: 16670-Dialogue.mod:1
+msgid "Out of bounds"
+msgstr ""
+
+#. Id: 16670-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#: 16670-Dialogue.mod:2
+msgid "You're not supposed to be here"
+msgstr ""
+
+#. Id: 16670-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#: 16670-Dialogue.mod:3
+msgid "You're trespassing"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 14713-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (14712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:0 14713-Dialogue.mod:3
+msgid "Leave here"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:1
+msgid "Leave at once"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12479-Dialogue (10) (2).mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (12478-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 16671-Dialogue.mod:2 12479-Dialogue?(10)?(2).mod:8
+msgid "Clear out"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 17997-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 18152-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 12479-Dialogue (10) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12478-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 11854-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11853-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate guard neg relations
+#. Id: 14708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 14713-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:3 17997-Dialogue.mod:3 18152-Dialogue.mod:2 12479-Dialogue?(10)?(2).mod:3 11854-Dialogue?(10).mod:0 14708-Dialogue.mod:0 14713-Dialogue.mod:0
+msgid "Leave"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:4
+msgid "Take exit"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 18152-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 12479-Dialogue (10) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12478-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 12106-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12103-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 14706-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12103-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 17590-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 14713-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:5 18152-Dialogue.mod:3 12479-Dialogue?(10)?(2).mod:4 12106-Dialogue?(10).mod:3 14706-Dialogue.mod:0 17590-Dialogue.mod:1 14713-Dialogue.mod:2
+msgid "Get out"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:6
+msgid "Clear off"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 18152-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 12479-Dialogue (10) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12478-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 11854-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11853-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate guard neg relations
+#. Id: 16503-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16507-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (16506-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16534-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16533-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 14713-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 16671-Dialogue.mod:7 18152-Dialogue.mod:4 12479-Dialogue?(10)?(2).mod:5 11854-Dialogue?(10).mod:1 16503-Dialogue.mod:0 16507-Dialogue.mod:1 16534-Dialogue.mod:0 14713-Dialogue.mod:1
+msgid "Go"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 16503-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (16502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#: 16671-Dialogue.mod:8 16503-Dialogue.mod:1
+msgid "Move it"
+msgstr ""
+
+#. Id: 16671-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (16670-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12479-Dialogue (10) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12478-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. Id: 16503-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (16502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 16534-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (16533-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#: 16671-Dialogue.mod:9 12479-Dialogue?(10)?(2).mod:0 16503-Dialogue.mod:2 16534-Dialogue.mod:2
+msgid "Scram"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:0
+msgid "Or don't then!"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:1
+msgid "Fine, then I'll MAKE you leave!"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:2
+msgid "If you won't leave, I'll just have to make you!"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:3
+msgid "No? Then I'll just have to make you leave!"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:4
+msgid "/GODDAMN/ /IDIOT/! Why won't you leave?"
+msgstr ""
+
+#. Id: 42351-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (16671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mean Shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42351-Dialogue.mod:5
+msgid "Stubborn /IDIOT/! Leave already!"
+msgstr ""
+

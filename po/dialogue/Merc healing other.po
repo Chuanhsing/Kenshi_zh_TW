@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12662-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12662-Dialogue?(11)?(2).mod:0
+msgid "Close your eyes and embrace the pain"
+msgstr ""
+
+#. Id: 12662-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12662-Dialogue?(11)?(2).mod:1
+msgid "Sit back and embrace the pain"
+msgstr ""
+
+#. Id: 12662-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12662-Dialogue?(11)?(2).mod:2
+msgid "This is gonna sting... enjoy it while it lasts"
+msgstr ""
+
+#. Id: 12662-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12662-Dialogue?(11)?(2).mod:3
+msgid "Oh this is gonna hurt"
+msgstr ""
+
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 8687-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bo healing
+#. Id: 8444-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 12663-Dialogue?(11)?(2).mod:0 8687-Dialogue.mod:1 8444-Dialogue.mod:2
+msgid "Hold still"
+msgstr ""
+
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12663-Dialogue?(11)?(2).mod:2
+msgid "I can sort this"
+msgstr ""
+
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 13391-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13337-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 12663-Dialogue?(11)?(2).mod:3 13391-Escapes.mod:2
+msgid "I'll do what I can"
+msgstr ""
+
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12663-Dialogue?(11)?(2).mod:4
+msgid "Let's take a look..."
+msgstr ""
+
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 95525-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95524-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Slaver base announcement
+#. Id: 17949-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin hiver starts healing other
+#. -- Condition: My Race(s): Hive Prince
+#: 12663-Dialogue?(11)?(2).mod:5 95525-Dialogue.mod:0 17949-Dialogue.mod:1
+msgid "Let's see here..."
+msgstr ""
+
+#. Id: 12664-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12671-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12664-Dialogue?(11)?(2).mod:0 12671-Dialogue?(11)?(2).mod:0
+msgid "Here, I'll sort you out"
+msgstr ""
+
+#. Id: 12664-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12671-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12664-Dialogue?(11)?(2).mod:1 12671-Dialogue?(11)?(2).mod:1
+msgid "Here, I'll give you a once over"
+msgstr ""
+
+#. Id: 12664-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12671-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 15676-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military healing other
+#: 12664-Dialogue?(11)?(2).mod:2 12671-Dialogue?(11)?(2).mod:2 15676-Dialogue.mod:3
+msgid "Let me take a look"
+msgstr ""
+
+#. Id: 12665-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12664-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. Id: 12672-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12671-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#: 12665-Dialogue?(11)?(2).mod:0 12672-Dialogue?(11)?(2).mod:0
+msgid "Mmh. Soft..."
+msgstr ""
+
+#. Id: 12665-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12664-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. Id: 12672-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12671-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#: 12665-Dialogue?(11)?(2).mod:1 12672-Dialogue?(11)?(2).mod:1
+msgid "Oho..."
+msgstr ""
+
+#. Id: 12665-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12664-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#: 12665-Dialogue?(11)?(2).mod:2
+msgid "Ehehe..."
+msgstr ""
+
+#. Id: 12666-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12665-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Merc healing other
+#: 12666-Dialogue?(11)?(2).mod:0
+msgid "Hey! Watch your hands!"
+msgstr ""
+
+#. Id: 12672-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12671-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#: 12672-Dialogue?(11)?(2).mod:2
+msgid "Eheh..."
+msgstr ""
+
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13255-Escapes.mod:0
+msgid "Hrm... I'll see what I can do..."
+msgstr ""
+
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13255-Escapes.mod:1
+msgid "This doesn't look so good..."
+msgstr ""
+
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13255-Escapes.mod:2
+msgid "... What a mess..."
+msgstr ""
+
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 13255-Escapes.mod:3
+msgid "I don't like the look of this..."
+msgstr ""
+
+#. Id: 13255-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 13255-Escapes.mod:4 13857-Escapes.mod:4
+msgid "This looks bad..."
+msgstr ""
+

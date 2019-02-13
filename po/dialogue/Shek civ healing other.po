@@ -1,0 +1,272 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12225-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12225-Dialogue?(10).mod:0
+msgid "Just a flesh wound. Let me fix it."
+msgstr ""
+
+#. Id: 12225-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12225-Dialogue?(10).mod:1
+msgid "You'll live. Just needs some first aid."
+msgstr ""
+
+#. Id: 12225-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12225-Dialogue?(10).mod:2
+msgid "You'll survive. Here..."
+msgstr ""
+
+#. Id: 12225-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12225-Dialogue?(10).mod:3
+msgid "Doesn't look so bad. Let me..."
+msgstr ""
+
+#. Id: 12225-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12225-Dialogue?(10).mod:4
+msgid "I've seen worse. Here..."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:0
+msgid "... Keep still."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:1
+msgid "... Rest yourself."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:2
+msgid "... Don't move for a minute."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:3
+msgid "... Here."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:4
+msgid "... Be still."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:5
+msgid "... Relax."
+msgstr ""
+
+#. Id: 12226-Dialogue (10).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12226-Dialogue?(10).mod:6
+msgid "... Relax yourself."
+msgstr ""
+
+#. Id: 12230-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12230-Dialogue?(10).mod:0
+msgid "Hrm, looks painful... Here, let me..."
+msgstr ""
+
+#. Id: 12230-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12230-Dialogue?(10).mod:1
+msgid "Looks bad... Hold still..."
+msgstr ""
+
+#. Id: 12230-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12230-Dialogue?(10).mod:2
+msgid "Looks serious... Be still for me..."
+msgstr ""
+
+#. Id: 12230-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12230-Dialogue?(10).mod:3
+msgid "This will ease the pain"
+msgstr ""
+
+#. Id: 12231-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12231-Dialogue?(10).mod:0
+msgid "I can handle this, /BROTHER/"
+msgstr ""
+
+#. Id: 12231-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12231-Dialogue?(10).mod:1
+msgid "Let me handle this, /BROTHER/"
+msgstr ""
+
+#. Id: 12231-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12231-Dialogue?(10).mod:2
+msgid "Let me mend this, /BROTHER/"
+msgstr ""
+
+#. Id: 12231-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12231-Dialogue?(10).mod:3
+msgid "I can take care of this. /BROTHER/"
+msgstr ""
+
+#. Id: 12235-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12235-Dialogue?(10).mod:0
+msgid "/BROTHER/... here..."
+msgstr ""
+
+#. Id: 12235-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12235-Dialogue?(10).mod:1
+msgid "Here, /BROTHER/..."
+msgstr ""
+
+#. Id: 12235-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12235-Dialogue?(10).mod:2
+msgid "Be still a moment, /BROTHER/"
+msgstr ""
+
+#. Id: 12235-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12235-Dialogue?(10).mod:3
+msgid "I will fix that, /BROTHER/"
+msgstr ""
+
+#. Id: 12235-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ healing other
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 12235-Dialogue?(10).mod:4
+msgid "/BROTHER/, be more careful next time"
+msgstr ""
+

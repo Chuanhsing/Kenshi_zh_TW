@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19541-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19541-Dialogue.mod:0
+msgid "Looking at my horns, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19542-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19541-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19542-Dialogue.mod:0
+msgid "Er... no?"
+msgstr ""
+
+#. Id: 19545-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19542-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19545-Dialogue.mod:0
+msgid "Good. Don't... Because I can still prove my worth in battle without them... I have a question for you, /FLATSKIN/. What do you do if you are outnumbered on the battle field? "
+msgstr ""
+
+#. Id: 19548-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19548-Dialogue.mod:0
+msgid "Fight tactically. You take out the weakest opponents first."
+msgstr ""
+
+#. Id: 19552-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19548-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19552-Dialogue.mod:0
+msgid "Truth. We must even the odds against us when our situation looks bleak. We fight the enemy to the death, and we die with honor on the battle field."
+msgstr ""
+
+#. Id: 19553-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19552-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19553-Dialogue.mod:0
+msgid "But I didn't die... I awoke, surrounded by death, but still alive. They labeled me a deserter and cut my horns on my return, I'm no longer a warrior... but a servant."
+msgstr ""
+
+#. Id: 19554-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19553-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19554-Dialogue.mod:0
+msgid "But you fought bravely. You didn't deserve that."
+msgstr ""
+
+#. Id: 19557-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19554-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19557-Dialogue.mod:0
+msgid "Perhaps. Either way, I will not remain here as an unclad warrior. But you, you seem different to the other outsiders I have met, /FLATSKIN/... Let us band together, I am intrigued to fight alongside you."
+msgstr ""
+
+#. Id: 19558-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19558-Dialogue.mod:0
+msgid "It would be an honour."
+msgstr ""
+
+#. Id: 19559-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19559-Dialogue.mod:0
+msgid "Sure, what could go wrong..."
+msgstr ""
+
+#. Id: 19580-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19580-Dialogue.mod:0
+msgid "I work alone, sorry."
+msgstr ""
+
+#. Id: 19582-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19580-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19582-Dialogue.mod:0
+msgid "I see. Then see you on the other side, outsider."
+msgstr ""
+
+#. Id: 19581-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19581-Dialogue.mod:0
+msgid "I'm not interested..."
+msgstr ""
+
+#. Id: 19555-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19553-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19555-Dialogue.mod:0
+msgid "You lost your horns, but at least you're still alive to fight again."
+msgstr ""
+
+#. Id: 19556-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19553-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19556-Dialogue.mod:0
+msgid "You're damn lucky to be alive, horns or no horns."
+msgstr ""
+
+#. Id: 19550-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19550-Dialogue.mod:0
+msgid "You hightail it the hell out of there. Simple."
+msgstr ""
+
+#. Id: 19567-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19550-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19567-Dialogue.mod:0
+msgid "So you take the coward's way out. And then... you have to live with that awful shame. Surely that is a worse fate than death?"
+msgstr ""
+
+#. Id: 19568-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19567-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19568-Dialogue.mod:0
+msgid "Not at all. Appreciate your survival, don't dwell on the past."
+msgstr ""
+
+#. Id: 19572-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19568-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19572-Dialogue.mod:0
+msgid "Interesting. But surviving is for animals, not for warriors. Warriors fight to the death, we die with honour on the battle field."
+msgstr ""
+
+#. Id: 19569-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19567-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19569-Dialogue.mod:0
+msgid "But at least I'd still be alive."
+msgstr ""
+
+#. Id: 19570-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19567-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19570-Dialogue.mod:0
+msgid "I suppose you're right. I hadn't thought of it like that."
+msgstr ""
+
+#. Id: 19575-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19570-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19575-Dialogue.mod:0
+msgid "It is merely how we are taught in this society. Warriors fight to the death, we die with honour on the battle field."
+msgstr ""
+
+#. Id: 19571-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19567-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19571-Dialogue.mod:0
+msgid "Only a fool would choose to die for their own petty honour."
+msgstr ""
+
+#. Id: 19573-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19573-Dialogue.mod:0
+msgid "A warrior is not afraid of laying down their life for honour and comradery. "
+msgstr ""
+
+#. Id: 19574-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19573-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19574-Dialogue.mod:0
+msgid "True humility means sacrifice."
+msgstr ""
+
+#. Id: 19547-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19547-Dialogue.mod:0
+msgid "Is there even a choice? You keep fighting 'til the end."
+msgstr ""
+
+#. Id: 19561-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19547-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19561-Dialogue.mod:0
+msgid "Truth. You live a coward or you die a hero. We fight the enemy to the death, and we die with honor on the battle field."
+msgstr ""
+
+#. Id: 19549-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19549-Dialogue.mod:0
+msgid "Surrender and hope your life will be spared."
+msgstr ""
+
+#. Id: 19551-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19551-Dialogue.mod:0
+msgid "Play dead and return for their heads another day"
+msgstr ""
+
+#. Id: 19566-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19551-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19566-Dialogue.mod:0
+msgid "Very underhanded, as I might expect from a /FLATSKIN/ I suppose... A Shek warrior, on the other hand, lives to die on the battlefield. "
+msgstr ""
+
+#. Id: 19543-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19541-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19543-Dialogue.mod:0
+msgid "I really couldn't care less about your horns."
+msgstr ""
+
+#. Id: 19562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19543-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19562-Dialogue.mod:0
+msgid "Good... Because I can still prove my worth in battle without them... I have a question for you, /FLATSKIN/. What do you do if you are outnumbered on the battle field? "
+msgstr ""
+
+#. Id: 19544-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19541-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19544-Dialogue.mod:0
+msgid "Yeah, I was just thinking how stubby they were."
+msgstr ""
+
+#. Id: 19563-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19544-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Ruka
+#: 19563-Dialogue.mod:0
+msgid "Mmh... Well, even so, I can still prove my worth in battle without them... I have a question for you, /FLATSKIN/. What do you do if you are outnumbered on the battle field? "
+msgstr ""
+
+#. Id: 19565-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19541-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Ruka
+#: 19565-Dialogue.mod:0
+msgid "No. And I'm leaving."
+msgstr ""
+

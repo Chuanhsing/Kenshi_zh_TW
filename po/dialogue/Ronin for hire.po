@@ -1,0 +1,675 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19942-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19942-Dialogue.mod:0
+msgid "...Hear that?"
+msgstr ""
+
+#. Id: 19972-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19972-Dialogue.mod:0
+msgid "The crowd... Can barely hear myself think in this bar... A lot of people hate crowds, but me? I love' em. Can't seem to shake the feeling of loneliness ever since I left the Hive... So it comforts me."
+msgstr ""
+
+#. Id: 19943-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19943-Dialogue.mod:0
+msgid "So why don't you go back?"
+msgstr ""
+
+#. Id: 19944-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19943-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19944-Dialogue.mod:0
+msgid "... You're kidding me, right? That place is a prison, an illusion, and it's a miracle I ever broke free. Growing accustomed to something, like the brainless crowds of the Hive, isn't the same as missing something."
+msgstr ""
+
+#. Id: 19947-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19944-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19947-Dialogue.mod:0
+msgid "I suppose you're right. What brings you here anyway?"
+msgstr ""
+
+#. Id: 19948-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19948-Dialogue.mod:0
+msgid "I've gone and worked up a debt at the casino... The big boss said he'd break my legs if I didn't pay him back by the end of the week. So, here I am, selling my soul to pay off my debt... I like my legs afterall."
+msgstr ""
+
+#. Id: 19949-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19948-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19949-Dialogue.mod:0
+msgid "How much is your debt?"
+msgstr ""
+
+#. Id: 19950-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19950-Dialogue.mod:0
+msgid "3000 Cats..."
+msgstr ""
+
+#. Id: 19951-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 19951-Dialogue.mod:0
+msgid "I can pay your debt for you"
+msgstr ""
+
+#. Id: 19952-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (19951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19952-Dialogue.mod:0
+msgid "You can? Great, I'll prove my use to you..."
+msgstr ""
+
+#. Id: 19965-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 19965-Dialogue.mod:0
+msgid "Wish I could help, but I don't have the Cats..."
+msgstr ""
+
+#. Id: 20009-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (19965-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20009-Dialogue.mod:0
+msgid "That's okay. I'll find another way..."
+msgstr ""
+
+#. Id: 20008-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 20008-Dialogue.mod:0
+msgid "That's pretty steep. You got any skills to go with that?"
+msgstr ""
+
+#. Id: 19957-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (20008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19957-Dialogue.mod:0
+msgid "I'm a jack of all trades, me. I've done my time as a bandit, pickpocket, mercenary, you name it. I have street smarts and decent combat skills... I've done things I'm not proud of to get by, but name me one ronin who hasn't..."
+msgstr ""
+
+#. Id: 19961-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (19957-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19961-Dialogue.mod:0
+msgid "Then follow /MEUS/. I'll pay your debt."
+msgstr ""
+
+#. Id: 20013-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (19961-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20013-Dialogue.mod:0
+msgid "You will? Great, I'll prove my use to you..."
+msgstr ""
+
+#. Id: 20015-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (19957-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20015-Dialogue.mod:0
+msgid "On second thought, I can't help you."
+msgstr ""
+
+#. Id: 19968-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19968-Dialogue.mod:0
+msgid "That's one hell of a debt. Good luck with that"
+msgstr ""
+
+#. Id: 20006-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19948-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20006-Dialogue.mod:0
+msgid "Why don't you just run away?"
+msgstr ""
+
+#. Id: 20007-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (20006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20007-Dialogue.mod:0
+msgid "Trust me, you don't want to piss off the Big Bosses. Having my legs broken would be the better option of the two..."
+msgstr ""
+
+#. Id: 19985-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19944-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19985-Dialogue.mod:0
+msgid "But it's in your nature to be part of a hive. You can't fight nature."
+msgstr ""
+
+#. Id: 19987-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19987-Dialogue.mod:0
+msgid "I sure as hell can fight nature. And I sure as hell have..."
+msgstr ""
+
+#. Id: 19998-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19998-Dialogue.mod:0
+msgid "What brings an ex-hiver here anyway?"
+msgstr ""
+
+#. Id: 19999-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19999-Dialogue.mod:0
+msgid "Then you're an abomination of nature!"
+msgstr ""
+
+#. Id: 20002-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20002-Dialogue.mod:0
+msgid "An abomination? You're crazy, go talk to someone else."
+msgstr ""
+
+#. Id: 20000-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20000-Dialogue.mod:0
+msgid "Well you can at least still be part of a collective, why not join /MEUS/?"
+msgstr ""
+
+#. Id: 20001-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20001-Dialogue.mod:0
+msgid "Good for you. Anyway, I got places to be. See you around."
+msgstr ""
+
+#. Id: 19986-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19944-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19986-Dialogue.mod:0
+msgid "If you want to be part of a collective, why not join /MEUS/?"
+msgstr ""
+
+#. Id: 19988-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19988-Dialogue.mod:0
+msgid "Well, always up for an adventure, me. I'd like that... But I've gone and worked up a debt at the casino, I can't leave. The big boss said he'd break my legs if I didn't pay him back by the end of the week. And trust me, you don't want to get on the wrong side of the Big Bosses. So, I need to raise the money to pay off my debt first. I like my legs afterall."
+msgstr ""
+
+#. Id: 19989-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19988-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19989-Dialogue.mod:0
+msgid "Why don't you just run away with /MEUS/? "
+msgstr ""
+
+#. Id: 19991-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19991-Dialogue.mod:0
+msgid "That would be... unwise. I don't want to drag you into that mess, /OUTLANDER/."
+msgstr ""
+
+#. Id: 19990-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19988-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19990-Dialogue.mod:0
+msgid "How much is your debt? Maybe I can help."
+msgstr ""
+
+#. Id: 19992-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19988-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19992-Dialogue.mod:0
+msgid "I'm not getting involved in that. Good luck with it."
+msgstr ""
+
+#. Id: 19993-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19993-Dialogue.mod:0
+msgid "Of course. See you around, /OUTLANDER/"
+msgstr ""
+
+#. Id: 19995-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19944-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 19995-Dialogue.mod:0
+msgid "But it's in our nature to be part of a hive. You can't fight nature."
+msgstr ""
+
+#. Id: 19997-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19997-Dialogue.mod:0
+msgid "I sure as hell can fight nature. And I sure as hell have... You of all people should understand that. You broke free once after all."
+msgstr ""
+
+#. Id: 20004-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20004-Dialogue.mod:0
+msgid "Then you're an abomination of nature! We both are!"
+msgstr ""
+
+#. Id: 20005-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20005-Dialogue.mod:0
+msgid "Well we can at least still be part of a collective, why not join /MEUS/?"
+msgstr ""
+
+#. Id: 19975-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19975-Dialogue.mod:0
+msgid "I can imagine. Must be tough."
+msgstr ""
+
+#. Id: 19982-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19982-Dialogue.mod:0
+msgid "Sleeping, eating and breathing the same air as your colony every day becomes a habit. Feels naked being apart from that collective. I treasure my freedom everyday, but habit... it's a hard thing to break... Damn! I'm rambling on, sorry to talk your ear off, /OUTLANDER/. Guess I'm feeling a little reflective today."
+msgstr ""
+
+#. Id: 19983-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19982-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19983-Dialogue.mod:0
+msgid "That's okay. What brings an ex-hiver here anyway?"
+msgstr ""
+
+#. Id: 20016-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19982-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20016-Dialogue.mod:0
+msgid "Tell me about it, I got places to be. See you around."
+msgstr ""
+
+#. Id: 19976-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 19976-Dialogue.mod:0
+msgid "I know that feeling all too well..."
+msgstr ""
+
+#. Id: 19980-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19980-Dialogue.mod:0
+msgid "Sounds like you need to let go of the past to me."
+msgstr ""
+
+#. Id: 20020-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20020-Dialogue.mod:0
+msgid "You can shake the past, but you can't shake habit. Being accustomed to the crowds of the hive.. sleeping together, eating together, breathing together... Anyway, you don't want to hear about my problems! I'm just here looking for work."
+msgstr ""
+
+#. Id: 20021-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20021-Dialogue.mod:0
+msgid "Work? How much are you charging?"
+msgstr ""
+
+#. Id: 20023-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20021-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20023-Dialogue.mod:0
+msgid "All I want is 3000 Cats to settle my debt. I'm a jack of all trades, me. Not bad with a sword... not bad with a lockpick either. I've done things I'm not proud of to get by, but name me one ronin who hasn't..."
+msgstr ""
+
+#. Id: 20026-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (20024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#. Id: 20045-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20026-Dialogue.mod:0 20045-Dialogue.mod:0
+msgid "Great, I'll prove my use to you..."
+msgstr ""
+
+#. Id: 20028-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 20028-Dialogue.mod:0
+msgid "Sorry, that's a little out of my budget"
+msgstr ""
+
+#. Id: 20030-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20030-Dialogue.mod:0
+msgid "Nah, I'm not interested after all"
+msgstr ""
+
+#. Id: 20022-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20022-Dialogue.mod:0
+msgid "You're right, I didn't ask for your lifestory, pal. I got places to be."
+msgstr ""
+
+#. Id: 19981-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19972-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19981-Dialogue.mod:0
+msgid "Well, I didn't ask for your lifestory, pal. I got places to be."
+msgstr ""
+
+#. Id: 19969-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19942-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19969-Dialogue.mod:0
+msgid "All I hear is noisy bar drunks..."
+msgstr ""
+
+#. Id: 19971-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19971-Dialogue.mod:0
+msgid "Exactly... Can barely hear myself think in this bar... A lot of people hate crowds, but me? I love' em. Can't seem to shake the feeling of loneliness ever since I left the Hive... So it comforts me."
+msgstr ""
+
+#. Id: 19970-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19942-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19970-Dialogue.mod:0
+msgid "The guy over there coughing up a lung?"
+msgstr ""
+
+#. Id: 19974-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19970-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 19974-Dialogue.mod:0
+msgid "No, no, not him... The crowds! Can barely hear myself think in this bar... A lot of people hate crowds, but me? I love' em. Can't seem to shake the feeling of loneliness ever since I left the Hive... So it comforts me."
+msgstr ""
+
+#. Id: 19973-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19942-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 19973-Dialogue.mod:0
+msgid "Nope. And I don't want to either. Bye."
+msgstr ""
+
+#. Id: 20032-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. Id: 1827-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police chief bounty
+#. Id: 1375-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 19329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.16
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 13284-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13283-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 9687-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Partner In Crime, break up
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 13842-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13840-Escapes.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Law enforcement spots small fry bounty
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 20032-Dialogue.mod:0 1827-gamedata.base:0 1375-gamedata.base:2 18216-Recruits?Dialogue.mod:6 51595-Dialogue.mod:11 19329-Dialogue.mod:0 43745-Dialogue.mod:16 13284-Escapes.mod:1 9687-Dialogue.mod:0 51526-Dialogue.mod:6 13842-Escapes.mod:0 18123-Recruits?Dialogue.mod:9
+msgid "What is it?"
+msgstr ""
+
+#. Id: 20037-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 20037-Dialogue.mod:0
+msgid "I want to help you pay your debt"
+msgstr ""
+
+#. Id: 20042-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20037-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#: 20042-Dialogue.mod:0
+msgid "Really? You have the Cats to help me out?"
+msgstr ""
+
+#. Id: 20043-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (20042-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20043-Dialogue.mod:0
+msgid "Sure do. You're hired"
+msgstr ""
+
+#. Id: 20046-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (20042-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20046-Dialogue.mod:0
+msgid "Wait... no, sorry"
+msgstr ""
+
+#. Id: 20041-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ronin for hire
+#: 20041-Dialogue.mod:0
+msgid "Nothing, sorry to bother you"
+msgstr ""
+
+#. Id: 20034-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>30, Tag: -1
+#: 20034-Dialogue.mod:0
+msgid "Not seen you in a while. What brings you here?"
+msgstr ""
+

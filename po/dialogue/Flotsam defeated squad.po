@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62378-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 62378-Dialogue.mod:0
+msgid "Say hi to Narko for me..."
+msgstr ""
+
+#. Id: 62378-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 62378-Dialogue.mod:1
+msgid "Rot in the abyss..."
+msgstr ""
+
+#. Id: 62378-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 62378-Dialogue.mod:2
+msgid "Where's your precious god now?"
+msgstr ""
+
+#. Id: 62378-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 62378-Dialogue.mod:3
+msgid "Take that, zukin brains."
+msgstr ""
+
+#. Id: 62378-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 62378-Dialogue.mod:4
+msgid "Ain't so high and righteous now, are you?"
+msgstr ""
+
+#. Id: 62379-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 62379-Dialogue.mod:0
+msgid "I say we burn 'em."
+msgstr ""
+
+#. Id: 62381-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62380-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Flotsam defeated squad
+#: 62381-Dialogue.mod:0
+msgid "No, forgiveness, sister. Find Okran in your heart, and forgive."
+msgstr ""
+
+#. Id: 62382-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62381-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#: 62382-Dialogue.mod:0
+msgid "I prefer wrath, so cut me down."
+msgstr ""
+
+#. Id: 62383-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62382-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Flotsam defeated squad
+#: 62383-Dialogue.mod:0
+msgid "... I pray for you, sister."
+msgstr ""
+
+#. Id: 62386-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#: 62386-Dialogue.mod:0
+msgid "Okran forgive me..."
+msgstr ""
+
+#. Id: 62386-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam defeated squad
+#: 62386-Dialogue.mod:1
+msgid "Light forgive them..."
+msgstr ""
+

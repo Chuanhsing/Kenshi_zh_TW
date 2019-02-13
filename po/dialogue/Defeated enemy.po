@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7177-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. Id: 12406-Dialogue (10) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper defeated someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 7177-Dialogue.mod:0 12406-Dialogue?(10)?(2).mod:1
+msgid "Don't fuck with me again"
+msgstr ""
+
+#. Id: 7177-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7177-Dialogue.mod:1
+msgid "Don't cross me again"
+msgstr ""
+
+#. Id: 7177-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7177-Dialogue.mod:2
+msgid "I don't want to see your face again"
+msgstr ""
+
+#. Id: 7177-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7177-Dialogue.mod:3
+msgid "What a pain in the ass..."
+msgstr ""
+
+#. Id: 7177-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7177-Dialogue.mod:4
+msgid "What a pain in the neck..."
+msgstr ""
+
+#. Id: 7178-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7178-Dialogue.mod:0
+msgid "You got what you deserved, /RAT/"
+msgstr ""
+
+#. Id: 7178-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7178-Dialogue.mod:1
+msgid "Filthy /RAT/. Burn in hell"
+msgstr ""
+
+#. Id: 7178-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7178-Dialogue.mod:2
+msgid "You disgust me. I hope you die slowly"
+msgstr ""
+
+#. Id: 7178-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7178-Dialogue.mod:3
+msgid "Die slowly and painfully"
+msgstr ""
+
+#. Id: 7183-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7183-Dialogue.mod:0
+msgid "Damn animals"
+msgstr ""
+
+#. Id: 7183-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. Id: 7185-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7183-Dialogue.mod:1 7185-Dialogue.mod:1
+msgid "Disgusting animals"
+msgstr ""
+
+#. Id: 7183-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7183-Dialogue.mod:2
+msgid "/FUCKING/ ferals"
+msgstr ""
+
+#. Id: 7183-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7183-Dialogue.mod:3
+msgid "Feral creatures"
+msgstr ""
+
+#. Id: 7183-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7183-Dialogue.mod:4
+msgid "Your kind disgusts me"
+msgstr ""
+
+#. Id: 7184-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7184-Dialogue.mod:0
+msgid "And stay down! Damn /BANDIT/s"
+msgstr ""
+
+#. Id: 7184-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7184-Dialogue.mod:1
+msgid "/FUCKING/ /BANDIT/s"
+msgstr ""
+
+#. Id: 7184-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7184-Dialogue.mod:2
+msgid "Nothing but rats, the lot of you"
+msgstr ""
+
+#. Id: 7184-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7184-Dialogue.mod:3
+msgid "You /BANDIT/s need wiping out for good"
+msgstr ""
+
+#. Id: 7184-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7184-Dialogue.mod:4
+msgid "Like rats, you just keep on breeding. Filthy /BANDIT/ trash"
+msgstr ""
+
+#. Id: 7185-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7185-Dialogue.mod:0
+msgid "Stay out of my damn way"
+msgstr ""
+
+#. Id: 7185-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7185-Dialogue.mod:2
+msgid "Don't bother me again, lowlife"
+msgstr ""
+
+#. Id: 7185-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#: 7185-Dialogue.mod:3
+msgid "Don't get in my way again, lowlifes"
+msgstr ""
+
+#. Id: 7185-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. Id: 16678-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean defeats someone
+#. Id: 57074-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bayan defeated squad
+#. Id: 11495-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek defeated somebody
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 17574-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7185-Dialogue.mod:4 16678-Dialogue.mod:0 57074-Dialogue.mod:0 11495-Dialogue?(10).mod:1 17574-Dialogue.mod:1
+msgid "Stay down"
+msgstr ""
+
+#. Id: 7186-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7186-Dialogue.mod:0
+msgid "It had to be done"
+msgstr ""
+
+#. Id: 7186-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7186-Dialogue.mod:1
+msgid "It's too bad it had to come to this"
+msgstr ""
+
+#. Id: 7186-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 7186-Dialogue.mod:2
+msgid "It shouldn't have had to come to this"
+msgstr ""
+
+#. Id: 7190-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7190-Dialogue.mod:1
+msgid "/QUICKLAUGH/, that was fun!"
+msgstr ""
+
+#. Id: 7190-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7190-Dialogue.mod:2
+msgid "/QUICKLAUGH/, again again!"
+msgstr ""
+
+#. Id: 7192-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 7192-Dialogue.mod:0
+msgid "/ARG/ my /FUCKING/ leg"
+msgstr ""
+
+#. Id: 7192-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 7192-Dialogue.mod:1
+msgid "Did a number on my leg..."
+msgstr ""
+
+#. Id: 7192-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
+#: 7192-Dialogue.mod:2
+msgid "Rrgh! My /FUCKING/ leg's broken"
+msgstr ""
+
+#. Id: 7194-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 7194-Dialogue.mod:0
+msgid "Dammit, my head!"
+msgstr ""
+
+#. Id: 7194-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeated enemy
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 8285-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fighting
+#. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
+#: 7194-Dialogue.mod:1 8285-Dialogue.mod:3
+msgid "That's one hell of a headache"
+msgstr ""
+

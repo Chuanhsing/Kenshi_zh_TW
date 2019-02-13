@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18624-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#. Id: 13213-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IMPRISONED_BY_OTHER=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 18624-Dialogue.mod:2 13213-Escapes.mod:2
+msgid "What the-"
+msgstr ""
+
+#. Id: 18625-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18625-Dialogue.mod:1
+msgid "Thieving /TERRORIST/! Guards!"
+msgstr ""
+
+#. Id: 18625-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18624-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18625-Dialogue.mod:3
+msgid "Thieving /PEASANT/! Guards!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:0
+msgid "Make /HIM/ suffer! I want /HIS/ head!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:1
+msgid "Make /HIM/ bleed! Teach /HIM/ not to steal from nobility!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:2
+msgid "Show /HIM/ pain! Make /HIM/ regret crossing noble blood!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:3
+msgid "Make /HIM/ pay! I want /HIS/ head!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:4
+msgid "Bring me /HIS/ head!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:5
+msgid "Bring /HIM/ pain! Punish /HIM/!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:6
+msgid "I'll see to it that you never steal from me again, /PEASANT/!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:7
+msgid "You'll regret trying to steal from ME, /WORM/!"
+msgstr ""
+
+#. Id: 18627-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (18625-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from noble
+#: 18627-Dialogue.mod:8
+msgid "How dare you try stealing from me, /WORM/!"
+msgstr ""
+

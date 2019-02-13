@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12065-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12065-Dialogue?(10).mod:0
+msgid "Piece of junk..."
+msgstr ""
+
+#. Id: 12065-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12065-Dialogue?(10).mod:1
+msgid "Call this a sword...?"
+msgstr ""
+
+#. Id: 12065-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 12065-Dialogue?(10).mod:2
+msgid "This is no sword..."
+msgstr ""
+
+#. Id: 12073-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 12073-Dialogue?(10).mod:0
+msgid "Stick to the farms, /FLATSKIN/. War isn't for you"
+msgstr ""
+
+#. Id: 12073-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 12073-Dialogue?(10).mod:1
+msgid "Swords aren't for you, /FLATSKIN/"
+msgstr ""
+
+#. Id: 12073-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 12073-Dialogue?(10).mod:2
+msgid "You shouldn't play with swords, /FLATSKIN/"
+msgstr ""
+
+#. Id: 12073-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 12073-Dialogue?(10).mod:3
+msgid "Leave the swords to the real warriors, /FLATSKIN/"
+msgstr ""
+
+#. Id: 14654-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#: 14654-Dialogue?(4).mod:0
+msgid "Trashbags don't deserve swords"
+msgstr ""
+
+#. Id: 14654-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#: 14654-Dialogue?(4).mod:1
+msgid "Mutts like you don't deserve to own swords"
+msgstr ""
+
+#. Id: 14654-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. Id: 14655-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 14654-Dialogue?(4).mod:2 14655-Dialogue?(4).mod:2
+msgid "You don't deserve a sword"
+msgstr ""
+
+#. Id: 14654-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. Id: 14655-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 14654-Dialogue?(4).mod:3 14655-Dialogue?(4).mod:3
+msgid "You aren't worthy of your sword"
+msgstr ""
+
+#. Id: 14655-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 14655-Dialogue?(4).mod:0
+msgid "Scumbags don't deserve swords"
+msgstr ""
+
+#. Id: 14655-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 14655-Dialogue?(4).mod:1
+msgid "Mutts like you don't deserve to own a sword"
+msgstr ""
+
+#. Id: 17501-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17501-Dialogue.mod:0
+msgid "Your sword is mine now, /FLATSKIN/"
+msgstr ""
+
+#. Id: 17501-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17501-Dialogue.mod:1
+msgid "One can never have too many swords"
+msgstr ""
+
+#. Id: 17501-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: looting weapon
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17501-Dialogue.mod:2
+msgid "Fighting isn't for you"
+msgstr ""
+

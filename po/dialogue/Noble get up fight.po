@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 17952-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeated in player town- mark for raid --Unfinished--
+#. -- Condition: In town(s) of faction(s): Nameless
+#. Id: 12803-Dialogue (11) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12802-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#: 18600-Dialogue.mod:0 17952-gamedata.base:0 12803-Dialogue?(11)?(2).mod:5
+msgid "You'll pay for this!"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 18605-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 40952-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 18600-Dialogue.mod:2 18605-Dialogue.mod:2 40952-Dialogue.mod:0
+msgid "You'll never get away with this!"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18600-Dialogue.mod:3
+msgid "You're in so much trouble!"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18600-Dialogue.mod:4
+msgid "You're in way over your heads!"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 18605-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 18600-Dialogue.mod:5 18605-Dialogue.mod:3
+msgid "I'm bleeding!? YOU MADE ME BLEED!?"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 18600-Dialogue.mod:6
+msgid "Is that... MY blood?... I'M BLEEDING!!!"
+msgstr ""
+
+#. Id: 18600-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 18605-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 18600-Dialogue.mod:7 18605-Dialogue.mod:4
+msgid "I- I'm bleeding!? I'M BLEEDING!!"
+msgstr ""
+
+#. Id: 18601-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18601-Dialogue.mod:0
+msgid "/HE/ can't win! Do NOT let /HIM/ win!"
+msgstr ""
+
+#. Id: 18601-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18601-Dialogue.mod:1
+msgid "Make /HIM/ bleed! /HE/ MUST not get the upper hand!"
+msgstr ""
+
+#. Id: 18601-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18601-Dialogue.mod:2
+msgid "We will NOT be defeated!"
+msgstr ""
+
+#. Id: 18601-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18601-Dialogue.mod:3
+msgid "Show /HIM/ pain! /HE/ CAN'T win!"
+msgstr ""
+
+#. Id: 18601-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 18601-Dialogue.mod:4
+msgid "Make /HIM/ suffer! Do NOT let /HIM/ win!"
+msgstr ""
+
+#. Id: 18602-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18601-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#: 18602-Dialogue.mod:0
+msgid "Fail me and I'll have your heads!"
+msgstr ""
+
+#. Id: 18602-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18601-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#: 18602-Dialogue.mod:1
+msgid "I ORDER you to destroy /HIM/!"
+msgstr ""
+
+#. Id: 18602-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18601-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#: 18602-Dialogue.mod:2
+msgid "Fail me and I'll have you punished!"
+msgstr ""
+
+#. Id: 18605-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 18605-Dialogue.mod:0
+msgid "You're in way over your head, /WORM/!"
+msgstr ""
+
+#. Id: 18605-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble get up fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 18605-Dialogue.mod:1
+msgid "You'll pay for this, /WORM/!"
+msgstr ""
+

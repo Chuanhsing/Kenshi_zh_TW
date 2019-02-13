@@ -1,0 +1,608 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15277-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15277-Dialogue.mod:0
+msgid "/OI/... Tryin' to steal from me?!"
+msgstr ""
+
+#. Id: 15277-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15267-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting swamper ally
+#: 15277-Dialogue.mod:1 15267-Dialogue.mod:1
+msgid "/WHATTHEFUCK/..."
+msgstr ""
+
+#. Id: 15277-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15277-Dialogue.mod:2 15279-Dialogue.mod:9
+msgid "You steal from me, you die!"
+msgstr ""
+
+#. Id: 15277-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15277-Dialogue.mod:3
+msgid "/OI/! Sneaky /BASTARD/!"
+msgstr ""
+
+#. Id: 15277-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15277-Dialogue.mod:4
+msgid "/GREASY/ /INSULT/!"
+msgstr ""
+
+#. Id: 44728-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44695-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12433-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44728-Dialogue.mod:1 44695-Dialogue.mod:0
+msgid "Ha, you think you can outrun me?! "
+msgstr ""
+
+#. Id: 44728-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44700-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12445-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44728-Dialogue.mod:2 44700-Dialogue.mod:1
+msgid "Yeah, you BETTER run!"
+msgstr ""
+
+#. Id: 44728-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44698-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13871-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44728-Dialogue.mod:3 44698-Dialogue.mod:3
+msgid "Get back 'ere!"
+msgstr ""
+
+#. Id: 44728-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15277-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44728-Dialogue.mod:4
+msgid "You ain't gettin' away from me!"
+msgstr ""
+
+#. Id: 15278-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15278-Dialogue.mod:0
+msgid "Whatcha doin'?"
+msgstr ""
+
+#. Id: 15278-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15278-Dialogue.mod:1
+msgid "Whaddya doin'?"
+msgstr ""
+
+#. Id: 16111-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15278-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 16111-Dialogue.mod:0
+msgid "Mind if I watch?"
+msgstr ""
+
+#. Id: 16111-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15278-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 16111-Dialogue.mod:1
+msgid "Can I watch?"
+msgstr ""
+
+#. Id: 16111-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15278-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 16111-Dialogue.mod:2
+msgid "I'm gonna watch"
+msgstr ""
+
+#. Id: 16113-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15278-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 49426-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles defeated squad
+#. Id: 17814-Dialogue.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (17813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 62987-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit get up
+#. Id: 64689-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble prisoner
+#. Id: 47573-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47572-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc unneccessary get up
+#: 16113-Dialogue.mod:1 49426-Dialogue.mod:6 17814-Dialogue.mod:10 62987-Dialogue.mod:2 64689-Dialogue.mod:0 47573-Dialogue.mod:0
+msgid "*wheeze*"
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:0
+msgid "Gimme a cut too..."
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:1
+msgid "Cut me in too and I won't tell"
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:2
+msgid "/OI/, cut me in too"
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:3
+msgid "Tut tut tut"
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:4
+msgid "Naughty..."
+msgstr ""
+
+#. Id: 15283-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 15283-Dialogue.mod:5
+msgid "Cheeky..."
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:0
+msgid "/OI/! Pack it in!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:1
+msgid "/OI/!  Quit it!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:2
+msgid "/OI/!  Quit fuckin' around!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:3
+msgid "/OI/!  Quit /SKULK/in' around!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:4
+msgid "You! Back up!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:5
+msgid "You ain't gettin' away with tryin' to steal from me!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:6
+msgid "You try and steal from me, you die!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:7
+msgid "Tryin' to steal from me?! I'll kill you!"
+msgstr ""
+
+#. Id: 15279-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 15279-Dialogue.mod:8
+msgid "Nobody tries to steal from me and lives!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:0 44696-Dialogue.mod:0
+msgid "Come back here, you dirty /BASTARD/!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:1 44696-Dialogue.mod:1
+msgid "I'LL CUT YOU! YOU WON'T GET AWAY FROM ME!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:2 44696-Dialogue.mod:2
+msgid "You dirty damn /BASTARD/! Nobody steals from and gets away with it! I'll catch you!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:3 44696-Dialogue.mod:3
+msgid "Yeah, try and run! I'll chop your legs off!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:4 44696-Dialogue.mod:4
+msgid "Let's see you try runnin' after I've chopped your legs off!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:5 44696-Dialogue.mod:5
+msgid "Keep runnin'! I'll hunt you down!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:6 44696-Dialogue.mod:6
+msgid "Come' ere! Slippery /BASTARD/!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:7 44696-Dialogue.mod:7
+msgid "You ain't getting away from me!"
+msgstr ""
+
+#. Id: 44727-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (15279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 44696-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (12439-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 44727-Dialogue.mod:8 44696-Dialogue.mod:8
+msgid "I'll hunt you down! Keep runnin'! I love a good chase!"
+msgstr ""
+
+#. Id: 44729-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 12441-Dialogue (10) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12440-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44729-Dialogue.mod:0 12441-Dialogue?(10)?(2).mod:0
+msgid "I'll kill you! I'll gut you open like a dog!"
+msgstr ""
+
+#. Id: 44729-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 12441-Dialogue (10) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12440-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44729-Dialogue.mod:1 12441-Dialogue?(10)?(2).mod:1
+msgid "I'll have your eyes out! I'll cut you up!"
+msgstr ""
+
+#. Id: 44729-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 12441-Dialogue (10) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12440-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44729-Dialogue.mod:2 12441-Dialogue?(10)?(2).mod:2
+msgid "More /BODYPARTS/ to add to my collection, eh?! EHHH?!"
+msgstr ""
+
+#. Id: 44729-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (44727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 12441-Dialogue (10) (2).mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (12440-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44729-Dialogue.mod:4 12441-Dialogue?(10)?(2).mod:5
+msgid "I'll /CUTTHOSELIPS/!!"
+msgstr ""
+
+#. Id: 44729-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (44727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper catches someone lockpicking
+#. Id: 12441-Dialogue (10) (2).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (12440-Dialogue (10) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper stealing
+#: 44729-Dialogue.mod:5 12441-Dialogue?(10)?(2).mod:4
+msgid "I'll pop your eyeballs out! You're dead!"
+msgstr ""
+

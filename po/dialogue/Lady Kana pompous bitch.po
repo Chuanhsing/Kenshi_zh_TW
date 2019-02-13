@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54907-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54907-Dialogue.mod:0
+msgid "Try smiling, slave!"
+msgstr ""
+
+#. Id: 54907-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54907-Dialogue.mod:1
+msgid "Why so glum, slave?"
+msgstr ""
+
+#. Id: 54907-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54907-Dialogue.mod:2
+msgid "Wipe that depressing pout off your face, slave!"
+msgstr ""
+
+#. Id: 54908-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54907-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54908-Dialogue.mod:0
+msgid "Free board, free shelter, what more could you ask for? Mmmhaha..."
+msgstr ""
+
+#. Id: 54909-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 54909-Dialogue.mod:0
+msgid "Work for the Empire or rot in the outlands. You slaves have got it made."
+msgstr ""
+
+#. Id: 54909-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 54909-Dialogue.mod:1
+msgid "Free food, free security and free bed. You slaves have got it made."
+msgstr ""
+
+#. Id: 54912-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54912-Dialogue.mod:0
+msgid "You're welcome, mmhaha..."
+msgstr ""
+
+#. Id: 54912-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#: 54912-Dialogue.mod:1
+msgid "Ingrates."
+msgstr ""
+
+#. Id: 54913-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 54913-Dialogue.mod:0
+msgid "Ever heard of a bath?"
+msgstr ""
+
+#. Id: 54913-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 54913-Dialogue.mod:1
+msgid "You have the most slappable face, you know that?"
+msgstr ""
+
+#. Id: 54913-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 54913-Dialogue.mod:2
+msgid "Here for the slave life? You certainly look the part."
+msgstr ""
+
+#. Id: 54913-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 54913-Dialogue.mod:3
+msgid "Why must all of my visitors be so ugly?"
+msgstr ""
+
+#. Id: 54913-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lady Kana pompous bitch
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 54913-Dialogue.mod:4
+msgid "With that face, perhaps you should wear a mask in public."
+msgstr ""
+

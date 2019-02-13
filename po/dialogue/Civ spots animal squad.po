@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14140-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 14141-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 14140-Dialogue?(4).mod:0 14141-Dialogue?(4).mod:0
+msgid "/ARG/, /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 14140-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Bonedog
+#. Id: 14141-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots animal squad
+#. -- Condition: Target Race(s): Beak Thing
+#: 14140-Dialogue?(4).mod:1 14141-Dialogue?(4).mod:1
+msgid "/AAH/, /ANIMALTYPE/s!"
+msgstr ""
+

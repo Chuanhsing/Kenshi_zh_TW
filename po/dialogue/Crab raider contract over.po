@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63658-Dialogue.mod:0
+msgid "Dinner time!"
+msgstr ""
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63658-Dialogue.mod:1
+msgid "Feeding time!"
+msgstr ""
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63658-Dialogue.mod:2
+msgid "Nap time!"
+msgstr ""
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 65324-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Misc biome entry
+#: 63658-Dialogue.mod:3 65324-Dialogue.mod:0
+msgid "*yawn*"
+msgstr ""
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63658-Dialogue.mod:4
+msgid "Gotta go feed the crabs..."
+msgstr ""
+
+#. Id: 63658-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63658-Dialogue.mod:5
+msgid "It's getting late. Let's head back."
+msgstr ""
+
+#. Id: 63659-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63658-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab raider contract over
+#: 63659-Dialogue.mod:0
+msgid "So long, /YOURNAME/."
+msgstr ""
+

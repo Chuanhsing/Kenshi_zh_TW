@@ -1,0 +1,185 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55727-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 55727-Dialogue.mod:0
+msgid "[She lets out a sigh. She looks irritated by your presence]"
+msgstr ""
+
+#. Id: 55728-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55727-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55728-Dialogue.mod:0
+msgid "Uh, you're a trader, right?"
+msgstr ""
+
+#. Id: 55729-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55729-Dialogue.mod:0
+msgid "... Sure, sure, just make it quick. I do abhor the presence of sweaty gorillos."
+msgstr ""
+
+#. Id: 55730-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55730-Dialogue.mod:0
+msgid "Got a problem with me?"
+msgstr ""
+
+#. Id: 55731-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55730-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55731-Dialogue.mod:0
+msgid "What can I say? Being enslaved by Holy Nation grunts of your kind makes a woman a tad bitter towards her so-called brothers."
+msgstr ""
+
+#. Id: 55732-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55731-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55732-Dialogue.mod:0
+msgid "Now, are you here to trade, or not?"
+msgstr ""
+
+#. Id: 55733-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55732-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55733-Dialogue.mod:0
+msgid "... Uh, yeah. Let's see what you've got."
+msgstr ""
+
+#. Id: 55734-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55729-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55734-Dialogue.mod:0
+msgid "Then show me what you got."
+msgstr ""
+
+#. Id: 55744-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#. Id: 55738-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (55735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55744-Dialogue.mod:0 55738-Dialogue.mod:1
+msgid "Don't starve in the outlands or anything, 'brother'..."
+msgstr ""
+
+#. Id: 55738-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55738-Dialogue.mod:0
+msgid "Such a shame to lose such a valued customer. Now, where was I?"
+msgstr ""
+
+#. Id: 55745-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55745-Dialogue.mod:0
+msgid "Always nice to see a lovely lady all the way out here no man's land! What can I do for you, sister?"
+msgstr ""
+
+#. Id: 55741-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55741-Dialogue.mod:0
+msgid "Keep your wits about you, sister. The land's a free-for-all and we're it's prey."
+msgstr ""
+
+#. Id: 55740-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55740-Dialogue.mod:0
+msgid "Nothing, sorry to bother you."
+msgstr ""
+
+#. Id: 55746-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 55746-Dialogue.mod:0
+msgid "You again? What is it this time?"
+msgstr ""
+
+#. Id: 55753-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#. -- Condition: Target Race(s): Hive Prince
+#: 55753-Dialogue.mod:0
+msgid "Need to trade?"
+msgstr ""
+
+#. Id: 55756-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 55756-Dialogue.mod:0
+msgid "Nevermind, sorry to bother you."
+msgstr ""
+
+#. Id: 55940-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#. -- Condition: Target Race(s): Skeleton
+#: 55940-Dialogue.mod:0
+msgid "I warned you once, skeleton, stay the hell away from me!"
+msgstr ""
+
+#. Id: 55941-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55940-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe trade
+#: 55941-Dialogue.mod:0
+msgid "Kill or be killed"
+msgstr ""
+

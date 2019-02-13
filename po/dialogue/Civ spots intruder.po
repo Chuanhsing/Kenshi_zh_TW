@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45447-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 47416-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver ronin shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 51288-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Intruder shek
+#. Id: 42333-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14707-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43841-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc found intruder
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45447-Dialogue.mod:1 47416-Dialogue.mod:1 51288-Dialogue.mod:1 42333-Dialogue.mod:1 43841-Dialogue.mod:1
+msgid "Trespasser!"
+msgstr ""
+
+#. Id: 45447-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#: 45447-Dialogue.mod:3
+msgid "How did you get in?!"
+msgstr ""
+
+#. Id: 45447-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 8270-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacking on sight
+#. Id: 96163-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#: 45447-Dialogue.mod:4 8270-Dialogue.mod:0 96163-Dialogue.mod:1
+msgid "Who are you?!"
+msgstr ""
+
+#. Id: 45447-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 45447-Dialogue.mod:5 9936-Dialogue.mod:0
+msgid "!!!"
+msgstr ""
+
+#. Id: 45448-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 15762-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 45448-Dialogue.mod:0 15762-Dialogue.mod:0
+msgid "/GUARDS/!"
+msgstr ""
+
+#. Id: 45448-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 42251-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13929-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 13861-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 45448-Dialogue.mod:1 42251-Dialogue.mod:0 13861-Escapes.mod:4
+msgid "/GUARDS/! Help!"
+msgstr ""
+
+#. Id: 45448-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. Id: 13484-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13883-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: steal from bandit normal
+#: 45448-Dialogue.mod:2 13484-Escapes.mod:1
+msgid "Somebody! Help!"
+msgstr ""
+
+#. Id: 45456-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 45456-Dialogue.mod:1
+msgid "You'll regret breaking in here!"
+msgstr ""
+
+#. Id: 45456-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 45456-Dialogue.mod:2
+msgid "Help! I have an intruder!"
+msgstr ""
+
+#. Id: 45456-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (45447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 45456-Dialogue.mod:3
+msgid "I don't know what you want from me, but you're not getting it!"
+msgstr ""
+
+#. Id: 45451-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45451-Dialogue.mod:0
+msgid "R-- ROBOT!!!"
+msgstr ""
+
+#. Id: 45451-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45451-Dialogue.mod:1
+msgid "SK- SKELETON!!!"
+msgstr ""
+
+#. Id: 45451-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45451-Dialogue.mod:2
+msgid "... No... NO!!! ROBOT!!!"
+msgstr ""
+
+#. Id: 45451-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45451-Dialogue.mod:3
+msgid "Robot!? Okran have mercy!!! "
+msgstr ""
+
+#. Id: 50096-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50096-Dialogue.mod:0
+msgid "Skeleton!? Okran have mercy! "
+msgstr ""
+
+#. Id: 50096-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50096-Dialogue.mod:1
+msgid "... No... NO!!! Skeleton!!"
+msgstr ""
+
+#. Id: 50096-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots intruder
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 50096-Dialogue.mod:2
+msgid "Sk-skeleton!"
+msgstr ""
+

@@ -1,0 +1,318 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:0
+msgid "You're not welcome here, /RACENAME/. Leave."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:1
+msgid "Leave, /RACENAME/, you're not wanted here."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:2
+msgid "Leave, /RACENAME/."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:3
+msgid "Why are you in here, /RACENAME/? Go."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:4
+msgid "Go, /RACENAME/."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:5
+msgid "Leave here, /RACENAME/."
+msgstr ""
+
+#. Id: 47879-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#: 47879-Dialogue.mod:6
+msgid "Wrong place, /RACENAME/. Leave."
+msgstr ""
+
+#. Id: 47880-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47880-Dialogue.mod:0
+msgid "Better not to give me the excuse to destroy you, /RACENAME/. Leave."
+msgstr ""
+
+#. Id: 47880-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47880-Dialogue.mod:1
+msgid "I don't like breathers. Give me the excuse to kill you and I will."
+msgstr ""
+
+#. Id: 47881-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47881-Dialogue.mod:0
+msgid "Last warning."
+msgstr ""
+
+#. Id: 47881-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47881-Dialogue.mod:1
+msgid "No more warning."
+msgstr ""
+
+#. Id: 47881-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47881-Dialogue.mod:2
+msgid "This is your last warning."
+msgstr ""
+
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 10682-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (10680-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 45957-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (45956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 55263-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55262-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#. Id: 3129-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shoo civ
+#. Id: 1534391-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534390-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tinfist sees enemy
+#. Id: 47317-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15635-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 47318-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo military
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 12635-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12633-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46044-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (46040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton spots intruder
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 47882-Dialogue.mod:0 10682-Dialogue?(10).mod:0 45957-Dialogue.mod:3 55263-Dialogue.mod:0 3129-gamedata.base:0 1534391-Dialogue.mod:0 47317-Dialogue.mod:0 47318-Dialogue.mod:0 12635-Dialogue?(11)?(2).mod:2 46044-Dialogue.mod:0 44139-Dialogue.mod:3
+msgid "Leave."
+msgstr ""
+
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46071-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 47905-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked by captor dark skeleton
+#. Id: 49118-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tower skeleton floodlands
+#. Id: 47902-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight dark skeleton
+#. -- Condition: Target Race(s): Greenlander
+#. Id: 47903-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight dark skeleton
+#: 47882-Dialogue.mod:1 46071-Dialogue.mod:0 47905-Dialogue.mod:6 49118-Dialogue.mod:0 47902-Dialogue.mod:5 47903-Dialogue.mod:0
+msgid "Die."
+msgstr ""
+
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 96199-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. Id: 43288-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (43287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation Beasts Talk to
+#. Id: 53259-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53257-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 49909-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#. Id: 53990-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. Id: 9567-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 52294-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 47882-Dialogue.mod:2 96199-Dialogue.mod:0 43288-Dialogue.mod:0 53259-Dialogue.mod:0 49909-Dialogue.mod:0 53990-Dialogue.mod:0 9567-Dialogue.mod:5 52294-Dialogue.mod:0 44139-Dialogue.mod:4
+msgid "Go."
+msgstr ""
+
+#. Id: 47882-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (47881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47882-Dialogue.mod:3
+msgid "Sleep."
+msgstr ""
+
+#. Id: 47892-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47892-Dialogue.mod:0
+msgid "Leave or I will destroy you."
+msgstr ""
+
+#. Id: 47892-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo dark skeleton
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 47892-Dialogue.mod:1
+msgid "Leave here."
+msgstr ""
+

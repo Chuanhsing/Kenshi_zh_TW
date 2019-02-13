@@ -1,0 +1,173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11557-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 11557-Dialogue?(10).mod:0
+msgid "/YOURNAME/, correct?"
+msgstr ""
+
+#. Id: 11563-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11557-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11563-Dialogue?(10).mod:0
+msgid "Mmh. You've earned yourself a respectable reputation, /YOURNAME/..."
+msgstr ""
+
+#. Id: 11564-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11563-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11564-Dialogue?(10).mod:0
+msgid "But how about you put up your sword against a Shek warrior?"
+msgstr ""
+
+#. Id: 11564-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11563-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11564-Dialogue?(10).mod:1
+msgid "But how about you raise your sword against a Shek warrior?"
+msgstr ""
+
+#. Id: 11564-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (11563-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11564-Dialogue?(10).mod:2
+msgid "But why don't you put your skills to the true test, against a Shek warrior?"
+msgstr ""
+
+#. Id: 11567-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11566-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11567-Dialogue?(10).mod:0
+msgid "I see you do not live up to your reputation"
+msgstr ""
+
+#. Id: 11562-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 1532626-__world reactions.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 11562-Dialogue?(10).mod:0 1532626-__world?reactions.mod:0
+msgid "If it isn't /YOURNAME/..."
+msgstr ""
+
+#. Id: 11590-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11562-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11590-Dialogue?(10).mod:0
+msgid "Hrm. Your notoriety precedes you, /YOURNAME/. You don't look like much of a warrior to me"
+msgstr ""
+
+#. Id: 11591-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11590-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11591-Dialogue?(10).mod:0
+msgid "How about you show me what you're made of, prove yourself in a REAL fight!"
+msgstr ""
+
+#. Id: 11593-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11592-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11593-Dialogue?(10).mod:0
+msgid "Silence. "
+msgstr ""
+
+#. Id: 11594-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11593-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11594-Dialogue?(10).mod:0
+msgid "Such cowardice!"
+msgstr ""
+
+#. Id: 11898-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 1532627-__world reactions.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 11898-Dialogue?(10).mod:0 1532627-__world?reactions.mod:0
+msgid "If it isn't the famous /FLATSKIN/ pack"
+msgstr ""
+
+#. Id: 11898-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 11898-Dialogue?(10).mod:1
+msgid "If it isn't the famous /FLATSKIN/ squad"
+msgstr ""
+
+#. Id: 11899-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11898-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11899-Dialogue?(10).mod:0
+msgid "Mmh. You've earned yourselves a respectable reputation..."
+msgstr ""
+
+#. Id: 11900-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11898-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11900-Dialogue?(10).mod:0
+msgid "Hrm. Your notoriety precedes you. You don't look much like warriors to me..."
+msgstr ""
+
+#. Id: 11901-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11900-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#: 11901-Dialogue?(10).mod:0
+msgid "How about you show me what you're made of, prove yourselves in a REAL fight!"
+msgstr ""
+

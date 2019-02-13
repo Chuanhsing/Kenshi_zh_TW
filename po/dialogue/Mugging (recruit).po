@@ -1,0 +1,434 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8325-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8325-Dialogue.mod:1
+msgid "Yeah? What do you want?"
+msgstr ""
+
+#. Id: 8311-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8325-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8311-Dialogue.mod:0
+msgid "You pickpocketed my money!"
+msgstr ""
+
+#. Id: 8312-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (8311-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8312-Dialogue.mod:1
+msgid "You're talking crazy, stay the hell away from me and keep your voice down, will ya? You'll rile up the guards..."
+msgstr ""
+
+#. Id: 8320-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8320-Dialogue.mod:0
+msgid "I'll TELL the guards if you don't give it back!"
+msgstr ""
+
+#. Id: 8321-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8320-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8321-Dialogue.mod:0
+msgid "/QUICKLAUGH/, good luck with that... Now leave me alone."
+msgstr ""
+
+#. Id: 10872-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8321-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 10872-Dialogue?(10).mod:0
+msgid "Fine. We'll do this the hard way (Attack)"
+msgstr ""
+
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 10873-Dialogue?(10).mod:4
+msgid "Damn"
+msgstr ""
+
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 10873-Dialogue?(10).mod:5
+msgid "Whoa, shit"
+msgstr ""
+
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.6
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. Id: 46640-Dialogue.mod
+#. -- Index: 24.0
+#. -- Parent line: 23 (46639-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 10873-Dialogue?(10).mod:6 46640-Dialogue.mod:0
+msgid "Wait, stop!"
+msgstr ""
+
+#. Id: 58347-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8321-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 58347-Dialogue.mod:0
+msgid "[Scowl at her]"
+msgstr ""
+
+#. Id: 58348-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58347-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#: 58348-Dialogue.mod:0
+msgid "Eh! You won't miss 150 Cats anyway, will ya, fatsacks?"
+msgstr ""
+
+#. Id: 58352-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58348-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 58352-Dialogue.mod:0
+msgid "Thanking you kindly for the donation!"
+msgstr ""
+
+#. Id: 8327-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8327-Dialogue.mod:0
+msgid "If you don't give that back, I'll kill you. I'll follow you and I'll kill you"
+msgstr ""
+
+#. Id: 9406-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8327-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 9406-Dialogue.mod:0
+msgid "Oooooh! I'm so scared! This chump change will barely get me a loaf of bread anyway..."
+msgstr ""
+
+#. Id: 9406-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8327-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 9406-Dialogue.mod:1
+msgid "Oh noooo! I'm so frightened! This chump change will barely get me a loaf of bread anyway..."
+msgstr ""
+
+#. Id: 9407-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 9407-Dialogue.mod:0
+msgid "But I ain't gonna be losing sleep at night over you, pal."
+msgstr ""
+
+#. Id: 48334-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8327-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 48334-Dialogue.mod:0
+msgid "Okay, okay, take it easy..."
+msgstr ""
+
+#. Id: 48335-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48334-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 48335-Dialogue.mod:0
+msgid "This chump change will barely get me a loaf of bread anyway..."
+msgstr ""
+
+#. Id: 8328-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (8312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8328-Dialogue.mod:1
+msgid "Do I LOOK rich to you? I don't need this."
+msgstr ""
+
+#. Id: 8328-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (8312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8328-Dialogue.mod:2
+msgid "Do I LOOK rich to you? Come on..."
+msgstr ""
+
+#. Id: 8329-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#: 8329-Dialogue.mod:0
+msgid "Yep, you sure do!"
+msgstr ""
+
+#. Id: 8329-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#: 8329-Dialogue.mod:1
+msgid "Tough shit. A /MEMAN/'s gotta eat"
+msgstr ""
+
+#. Id: 8337-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8337-Dialogue.mod:0
+msgid "Look, a /MEMAN/'s gotta eat somehow. Nothing personal, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 9798-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 9798-Dialogue.mod:0
+msgid "...You're an ass"
+msgstr ""
+
+#. Id: 9799-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 9799-Dialogue.mod:0
+msgid "/QUICKLAUGH/, aw thanks!"
+msgstr ""
+
+#. Id: 8338-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8338-Dialogue.mod:0
+msgid "Well, so do /IWE/.  Come on, have pity..."
+msgstr ""
+
+#. Id: 8339-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (8338-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8339-Dialogue.mod:0
+msgid "Don't try your sob stories with me. Times are tough. I got the guards on my back and I'm damn hungry. You can't be that hard up if you've made it here from out of town. I can't even afford to get out of this dump"
+msgstr ""
+
+#. Id: 8340-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (8339-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8340-Dialogue.mod:0
+msgid "Geez if you want out so bad then just come with /MEUS/. Us underdogs need to stick together, right?"
+msgstr ""
+
+#. Id: 8343-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8343-Dialogue.mod:0
+msgid "... I do REALLY need to get out of this city... "
+msgstr ""
+
+#. Id: 58343-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (8343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 58343-Dialogue.mod:0
+msgid "Ah, to hell with it, I've got nothing left to lose apart from the rags on my back! And there's something about you, you seem like my kinda /GUY/. Let's go, you and me, we stick together!"
+msgstr ""
+
+#. Id: 9797-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (58343-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 9797-Dialogue.mod:0
+msgid "But first, give me back my money..."
+msgstr ""
+
+#. Id: 9806-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 9806-Dialogue.mod:0
+msgid "This is exciting"
+msgstr ""
+
+#. Id: 8341-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (8339-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8341-Dialogue.mod:0
+msgid "I didn't ask for you life story. I just want my money back..."
+msgstr ""
+
+#. Id: 8342-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (8341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 8342-Dialogue.mod:0
+msgid "Okay, just quit whining at me already..."
+msgstr ""
+
+#. Id: 48337-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (8339-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 48337-Dialogue.mod:0
+msgid "I'm just trying to survive like you are."
+msgstr ""
+
+#. Id: 48338-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (48337-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 48338-Dialogue.mod:0
+msgid "... Fine. Stealing from the poor gives me chest pains anyway."
+msgstr ""
+
+#. Id: 9800-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 9800-Dialogue.mod:0
+msgid "I'm begging you, please..."
+msgstr ""
+
+#. Id: 9801-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9800-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 9801-Dialogue.mod:0
+msgid "Ugh fine! Take your money back! Just quit cryin' about it and go find where you left your damn dignity."
+msgstr ""
+
+#. Id: 48323-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 48323-Dialogue.mod:0
+msgid "I'll find my supper elsewhere..."
+msgstr ""
+
+#. Id: 9803-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 9803-Dialogue.mod:0
+msgid "We're all hungry. It's no excuse to screw people over."
+msgstr ""
+
+#. Id: 9804-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9803-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#: 9804-Dialogue.mod:0
+msgid "Oh yeah?... You can't be that hard up if you've made it here from out of town. I can't even afford to get out of this dump. Times are tough. I got the guards on my back and I haven't eaten for 4 days. I'm not screwing you over, I'm just trying to survive..."
+msgstr ""
+
+#. Id: 8326-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8312-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 8326-Dialogue.mod:0
+msgid "Whatever, keep it"
+msgstr ""
+
+#. Id: 10500-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8325-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 10500-Dialogue?(7).mod:0
+msgid "You don't want to mess with me, thief! Return my Cats or die!"
+msgstr ""
+
+#. Id: 10871-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8325-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 10871-Dialogue?(10).mod:0
+msgid "You have one chance. Give me back the money you stole"
+msgstr ""
+
+#. Id: 10881-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8325-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mugging (recruit)
+#: 10881-Dialogue?(10).mod:0
+msgid "Nothing, forget it"
+msgstr ""
+

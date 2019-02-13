@@ -1,0 +1,458 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3302-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3302-gamedata.base:2
+msgid "Thanks doc"
+msgstr ""
+
+#. Id: 3302-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3302-gamedata.base:3
+msgid "That go it, thanks doc"
+msgstr ""
+
+#. Id: 3302-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 3302-gamedata.base:5
+msgid "Feels better"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:0
+msgid "The dogs would have eaten me alive if you hadn't got here when you did"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:1
+msgid "The slavers would've had me for sure if you hadn't helped me"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:2
+msgid "Damn cannibal /RAT/s would've come along and clubbed me to a bloody pulp if you hadn't come along when you did"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:3
+msgid "My wounds would have attracted all sorts of wildlife if you hadn't bandaged me up"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:4
+msgid "I would have been stranded out here if it wasn't for you"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:5
+msgid "Damn cannibals would've dragged me off to their camp if you hadn't come along when you did"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:6
+msgid "My blood would have attracted all sorts of crazies if it wasn't for you"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:7
+msgid "My blood would have attracted all kinds of wildlife if it wasn't for you"
+msgstr ""
+
+#. Id: 9340-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9340-Dialogue.mod:8
+msgid "Probably would've been eaten alive by cannibals if it wasn't for you"
+msgstr ""
+
+#. Id: 9341-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (9340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#: 9341-Dialogue.mod:2
+msgid "I appreciate it"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:0
+msgid "You didn't need to help me. Thank you, I appreciate it, /OUTLANDER/"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:1
+msgid "You didn't have to help me. I appreciate it, thank you, /OUTLANDER/"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:2
+msgid "Thank you for helping me, /OUTLANDER/"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:3
+msgid "Thank you. You're a life saver"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:4
+msgid "Thank you. I'm in your debt"
+msgstr ""
+
+#. Id: 9342-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9342-Dialogue.mod:5
+msgid "Thank you. /OUTLANDER/"
+msgstr ""
+
+#. Id: 9349-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9349-Dialogue.mod:0
+msgid "Thanks! Some good med skills you've got there"
+msgstr ""
+
+#. Id: 9349-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9349-Dialogue.mod:1
+msgid "That's some good healing. Thank you"
+msgstr ""
+
+#. Id: 9349-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9349-Dialogue.mod:2
+msgid "Ought to keep the dogs away, thanks"
+msgstr ""
+
+#. Id: 9354-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9354-Dialogue.mod:0
+msgid "That will do I suppose"
+msgstr ""
+
+#. Id: 9354-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9354-Dialogue.mod:1
+msgid "Got some moonshine for the pain?"
+msgstr ""
+
+#. Id: 9354-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9354-Dialogue.mod:2
+msgid "Could use some moonshine right about now"
+msgstr ""
+
+#. Id: 9354-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9354-Dialogue.mod:3
+msgid "Who needs medkits when you've got moonshine? "
+msgstr ""
+
+#. Id: 9354-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 9354-Dialogue.mod:4
+msgid "Got any liquor in that medkit?"
+msgstr ""
+
+#. Id: 12643-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12643-Dialogue?(11)?(2).mod:0
+msgid "Gotta love that burning feeling"
+msgstr ""
+
+#. Id: 12643-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12643-Dialogue?(11)?(2).mod:1
+msgid "Gotta love that stinging feeling"
+msgstr ""
+
+#. Id: 12643-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12643-Dialogue?(11)?(2).mod:2
+msgid "Looks like I get to live another day"
+msgstr ""
+
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41080-Dialogue.mod:1
+msgid "Heal me all you want, I'll never trust a /GODDAMN/ Skeleton!"
+msgstr ""
+
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41080-Dialogue.mod:2
+msgid "Get off of me! I don't need the help of a Skeleton..."
+msgstr ""
+
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41080-Dialogue.mod:3
+msgid "... Don't touch me..."
+msgstr ""
+
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41080-Dialogue.mod:4
+msgid "Don't touch me again... I won't be darkened by you..."
+msgstr ""
+
+#. Id: 41080-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41080-Dialogue.mod:5
+msgid "I won't let you darken me Skeleton..."
+msgstr ""
+

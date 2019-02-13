@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56091-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#. Id: 63823-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63818-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63825-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63829-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63830-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63831-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 98828-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 98829-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#. Id: 56066-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Skeleton
+#: 56091-Dialogue.mod:0 63823-Dialogue.mod:0 63825-Dialogue.mod:0 63829-Dialogue.mod:0 63830-Dialogue.mod:0 63831-Dialogue.mod:0 98828-Dialogue.mod:0 98829-Dialogue.mod:0 56066-Dialogue.mod:1
+msgid "Greeeeee!"
+msgstr ""
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:0
+msgid "The no-hives attack us!"
+msgstr ""
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:1
+msgid "The no-hives have come for us!"
+msgstr ""
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#: 56092-Dialogue.mod:2
+msgid "Protect us, King!"
+msgstr ""
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#. Id: 56191-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Skeleton
+#: 56092-Dialogue.mod:4 56191-Dialogue.mod:4
+msgid "Help us, King!"
+msgstr ""
+
+#. Id: 56092-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (56091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Attacked by someone southern hive
+#. Id: 19773-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 98828-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 19754-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 56092-Dialogue.mod:6 19773-Dialogue.mod:0 98828-Dialogue.mod:2 56052-Dialogue.mod:0 56185-Dialogue.mod:0 19754-Dialogue.mod:0
+msgid "Death to the no-hives!"
+msgstr ""
+

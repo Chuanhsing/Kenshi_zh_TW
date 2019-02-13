@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50934-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Hive Soldier Drone
+#: 50934-rebirth.mod:0
+msgid "EER! Look at this 'un Margery, it's a bleeding Fogman! *hic*"
+msgstr ""
+
+#. Id: 50948-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50935-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50948-rebirth.mod:0
+msgid "My name 'ain't Margery..."
+msgstr ""
+
+#. Id: 50937-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50948-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50937-rebirth.mod:0
+msgid "E's only a bloody bleedin' bloody Fogman innie, Margery?"
+msgstr ""
+
+#. Id: 50941-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50937-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50941-rebirth.mod:0
+msgid "A bleedin' Fogman?! *hic*"
+msgstr ""
+
+#. Id: 50943-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50941-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Target Race(s): Hive Worker Drone
+#: 50943-rebirth.mod:0
+msgid "I'm not a Fogman. I'm just a normal Hiver...."
+msgstr ""
+
+#. Id: 50939-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50943-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50939-rebirth.mod:0
+msgid "Bleedin' 'ell! A talking bloody Fogman, innit?!"
+msgstr ""
+
+#. Id: 50936-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50939-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50936-rebirth.mod:0
+msgid "Bleedin' 'ell!"
+msgstr ""
+
+#. Id: 50938-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (50936-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Target Race(s): Hive Soldier Drone
+#: 50938-rebirth.mod:0
+msgid "No really, I'm not a..."
+msgstr ""
+
+#. Id: 50944-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (50938-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50944-rebirth.mod:0
+msgid "We're gonna be bloody rich!  Get 'im!"
+msgstr ""
+
+#. Id: 50945-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (50944-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#: 50945-rebirth.mod:0
+msgid "*burp*"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:0
+msgid "Hoy look at this, mate! The /FUCKING/ bar sign 'as come back from the dead! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:1
+msgid "Lookit! /QUICKLAUGH/! The bar sign is alive! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:2
+msgid "The Dancin' Skellyton is back from the dead again! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:3
+msgid "Look! It's the dancing Skeleton, back for revenge! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 50953-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50953-rebirth.mod:4
+msgid "/QUICKLAUGH/! It's the Dancing Seleton!"
+msgstr ""
+

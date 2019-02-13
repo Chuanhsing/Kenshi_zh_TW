@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55790-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard skeleton talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55790-Dialogue.mod:0
+msgid "Welcome, dear human, and please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back in the cha- uh... back some time ago..."
+msgstr ""
+
+#. Id: 55791-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard skeleton talk to
+#: 55791-Dialogue.mod:0
+msgid "Old magazines, fragments of old wreckages, funny shaped rocks... we don't have anything of much use here but then, of course, one man's junk is another man's treasure. So, how can I help you?"
+msgstr ""
+
+#. Id: 55793-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Junkyard skeleton talk to
+#: 55793-Dialogue.mod:0
+msgid "I've got enough junk, thanks."
+msgstr ""
+
+#. Id: 55797-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard skeleton talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 55797-Dialogue.mod:0
+msgid "Welcome, dear huma- uh... welcome, dear. Please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back in the cha- uh... back some time ago..."
+msgstr ""
+
+#. Id: 55798-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard skeleton talk to
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<120, Tag: -1
+#: 55798-Dialogue.mod:0
+msgid "Back in our little junkyard already? Each to their own, I suppose. How can I help?"
+msgstr ""
+
+#. Id: 56014-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard skeleton talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56014-Dialogue.mod:0
+msgid "Welcome, and please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back during the chaos age. Trying times I'm sure you remember..."
+msgstr ""
+

@@ -1,0 +1,544 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41687-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41687-Dialogue.mod:0
+msgid "You fell once for me. You'll fall again."
+msgstr ""
+
+#. Id: 41687-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41687-Dialogue.mod:1
+msgid "Back for another thrashing?"
+msgstr ""
+
+#. Id: 41687-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41687-Dialogue.mod:2
+msgid "Back for another round?"
+msgstr ""
+
+#. Id: 41687-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41687-Dialogue.mod:3
+msgid "Returning for another defeat? This one's got spine."
+msgstr ""
+
+#. Id: 41687-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41687-Dialogue.mod:4
+msgid "I cut you down once. I'll cut you down again."
+msgstr ""
+
+#. Id: 41702-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41702-Dialogue.mod:0
+msgid "Fight me like a true warrior! Bleed!"
+msgstr ""
+
+#. Id: 41702-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41702-Dialogue.mod:1
+msgid "Come fight me! My sword hungers for another victory!"
+msgstr ""
+
+#. Id: 41702-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41702-Dialogue.mod:2
+msgid "Fight me again! Reclaim your lost honour!"
+msgstr ""
+
+#. Id: 41711-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41711-Dialogue.mod:0
+msgid "Face your end with courage, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 41711-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41711-Dialogue.mod:1
+msgid "Face your demise like a true warrior, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 41708-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41708-Dialogue.mod:0
+msgid "The warrior returns!"
+msgstr ""
+
+#. Id: 41708-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41708-Dialogue.mod:1
+msgid "We meet again, warrior"
+msgstr ""
+
+#. Id: 41708-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41708-Dialogue.mod:2
+msgid "My rival returns!"
+msgstr ""
+
+#. Id: 41689-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41689-Dialogue.mod:0
+msgid "You could have at least finished the job last time, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 41689-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41689-Dialogue.mod:1
+msgid "You should have finished me while you had the chance, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 41689-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41689-Dialogue.mod:2
+msgid "It was a big mistake to leave me alive, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 41689-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41708-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41689-Dialogue.mod:3
+msgid "To live through defeat is the greatest of dishonours for a Shek Warrior..."
+msgstr ""
+
+#. Id: 41703-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41703-Dialogue.mod:0
+msgid "Fight me again! Today I reclaim my lost honour."
+msgstr ""
+
+#. Id: 41703-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41703-Dialogue.mod:1
+msgid "Fight me again! Today I reclaim my stolen glory."
+msgstr ""
+
+#. Id: 41703-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41703-Dialogue.mod:2
+msgid "Honour before death! Bring me a good battle... and this time finish it properly."
+msgstr ""
+
+#. Id: 41703-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41703-Dialogue.mod:3
+msgid "Raise your sword and fight me again! Today is a good day to die!"
+msgstr ""
+
+#. Id: 41710-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41710-Dialogue.mod:0
+msgid "This time, at least one of us dies."
+msgstr ""
+
+#. Id: 41710-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41710-Dialogue.mod:1
+msgid "This time only one of us survives."
+msgstr ""
+
+#. Id: 41710-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41710-Dialogue.mod:2
+msgid "No more games! This time, only the victor survives."
+msgstr ""
+
+#. Id: 41710-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (41689-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41710-Dialogue.mod:3
+msgid "No more games! This time, we find death."
+msgstr ""
+
+#. Id: 41712-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41712-Dialogue.mod:0
+msgid "You, warrior..."
+msgstr ""
+
+#. Id: 41712-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41712-Dialogue.mod:1
+msgid "Warrior..."
+msgstr ""
+
+#. Id: 41714-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41714-Dialogue.mod:0
+msgid "I've come to avenge my brethren's defeat..."
+msgstr ""
+
+#. Id: 41714-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41714-Dialogue.mod:1
+msgid "For a /FLATSKIN/ to defeat a Shek Warrior, it is admirable. But my kin will be avenged. "
+msgstr ""
+
+#. Id: 41714-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41714-Dialogue.mod:2
+msgid "My kin's death will not be in vain. They will be avenged."
+msgstr ""
+
+#. Id: 41714-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 41714-Dialogue.mod:3
+msgid "My kin fell to your sword... But I'll reclaim their lost honour for them."
+msgstr ""
+
+#. Id: 41715-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41715-Dialogue.mod:0
+msgid "So, fight me warrior! I live for the challenge!"
+msgstr ""
+
+#. Id: 41715-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41715-Dialogue.mod:1
+msgid "So, come at me warrior! Let's see how you do against ME!"
+msgstr ""
+
+#. Id: 41715-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41714-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41715-Dialogue.mod:2
+msgid "So, come fight me warrior! Only one of us will come out of this alive!"
+msgstr ""
+
+#. Id: 41722-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41722-Dialogue.mod:0
+msgid "You defeated my kin... but can you defeat me?"
+msgstr ""
+
+#. Id: 41722-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41712-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41722-Dialogue.mod:1
+msgid "You slayed my kin... but can you defeat me?"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41723-Dialogue.mod:0
+msgid "Let's see how you do!"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41723-Dialogue.mod:1
+msgid "Raise your sword and fight me!"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41723-Dialogue.mod:2
+msgid "Try me."
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. Id: 59676-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (59680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Kingdom defeated (return assault)
+#. Id: 99658-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 99659-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 17599-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (17598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 41723-Dialogue.mod:4 59676-Dialogue.mod:4 99658-Dialogue.mod:2 99659-Dialogue.mod:5 17599-Dialogue.mod:10
+msgid "Today is a good day to die!"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. Id: 14719-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 10968-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 41723-Dialogue.mod:5 14719-Dialogue.mod:5 10968-Dialogue?(10).mod:4
+msgid "Only the weak fear death"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. Id: 14726-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 61405-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (61404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Berserker tracks down player assault
+#: 41723-Dialogue.mod:6 14726-Dialogue.mod:3 61405-Dialogue.mod:3
+msgid "Bring me a good battle!"
+msgstr ""
+
+#. Id: 41723-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (41722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41723-Dialogue.mod:7
+msgid "Honour before death!"
+msgstr ""
+
+#. Id: 41716-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41716-Dialogue.mod:0
+msgid "You again? I already defeated you..."
+msgstr ""
+
+#. Id: 41716-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41716-Dialogue.mod:1
+msgid "You? I already took care of you..."
+msgstr ""
+
+#. Id: 41716-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 41716-Dialogue.mod:2
+msgid "Tch, you again? Still alive after I thrashed you last time?"
+msgstr ""
+
+#. Id: 41718-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41716-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41718-Dialogue.mod:0
+msgid "Hmph. This is no challenge."
+msgstr ""
+
+#. Id: 41718-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41716-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41718-Dialogue.mod:1
+msgid "Mmh! Too easy..."
+msgstr ""
+
+#. Id: 41719-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41716-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41719-Dialogue.mod:0
+msgid "You're not worthy to be my rival...."
+msgstr ""
+
+#. Id: 41719-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41716-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardians spots tagged enemy
+#: 41719-Dialogue.mod:1
+msgid "Such a /PALTRY/ opponent... this is no fun."
+msgstr ""
+

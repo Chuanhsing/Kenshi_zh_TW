@@ -1,0 +1,213 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62732-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#. Id: 98737-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98749-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 20164-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog base announcement 1st contact
+#: 62732-Dialogue.mod:0 98737-Dialogue.mod:0 98749-Dialogue.mod:0 20164-Dialogue.mod:0
+msgid "Anybody home?"
+msgstr ""
+
+#. Id: 62732-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62732-Dialogue.mod:1
+msgid "Wanna trade?"
+msgstr ""
+
+#. Id: 62732-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62732-Dialogue.mod:2
+msgid "Here for trade!"
+msgstr ""
+
+#. Id: 62733-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62733-Dialogue.mod:0
+msgid "Big town like this gonna need lots of supplies, eh?"
+msgstr ""
+
+#. Id: 62733-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (62732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62733-Dialogue.mod:1
+msgid "Hub like this gotta need supplies at some point, eh?"
+msgstr ""
+
+#. Id: 62733-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (62732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62733-Dialogue.mod:2
+msgid "Gonna need to stock up your outpost while you can, right?"
+msgstr ""
+
+#. Id: 62734-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62734-Dialogue.mod:0
+msgid "Come speak to me..."
+msgstr ""
+
+#. Id: 62734-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (62733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#. Id: 53919-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: You Stop!
+#: 62734-Dialogue.mod:1 53919-Dialogue.mod:1
+msgid "Speak with me..."
+msgstr ""
+
+#. Id: 62735-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62735-Dialogue.mod:0
+msgid "I'll sort you out."
+msgstr ""
+
+#. Id: 62736-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62736-Dialogue.mod:0
+msgid "C'mon, don't leave me hangin'..."
+msgstr ""
+
+#. Id: 62736-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (62735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62736-Dialogue.mod:1
+msgid "C'mon, don't leave me waitin' now..."
+msgstr ""
+
+#. Id: 62736-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (62735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62736-Dialogue.mod:2
+msgid "C'mon, just take a little look, eh?"
+msgstr ""
+
+#. Id: 62736-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (62735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62736-Dialogue.mod:3
+msgid "Doesn't hurt to take a look..."
+msgstr ""
+
+#. Id: 62737-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62737-Dialogue.mod:0
+msgid "... Hauled a lot 'o stuff here for ya to look at."
+msgstr ""
+
+#. Id: 62737-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (62736-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62737-Dialogue.mod:1
+msgid "... Come along way out here."
+msgstr ""
+
+#. Id: 62738-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62737-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62738-Dialogue.mod:0
+msgid "Not interested?"
+msgstr ""
+
+#. Id: 62738-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (62737-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62738-Dialogue.mod:1
+msgid "Not doin' it for ya?"
+msgstr ""
+
+#. Id: 62739-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62738-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62739-Dialogue.mod:0
+msgid "Alright, alright..."
+msgstr ""
+
+#. Id: 62740-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (62739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62740-Dialogue.mod:0
+msgid "Next time, yeah?"
+msgstr ""
+
+#. Id: 62740-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (62739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free trader base visit
+#: 62740-Dialogue.mod:1
+msgid "'Til next time, ah?"
+msgstr ""
+

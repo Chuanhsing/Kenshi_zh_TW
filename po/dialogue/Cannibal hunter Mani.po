@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50771-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50771-Dialogue.mod:0
+msgid "What brings you out here, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50771-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50771-Dialogue.mod:1
+msgid "Got business with me, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50776-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50772-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50776-Dialogue.mod:0
+msgid "Cannibal station. My job is keeping the painted tribes contained so they don't overrun our main camp. Leave them unchecked, they'll breed like swamp raptors and make the plains their own buffet..."
+msgstr ""
+
+#. Id: 50782-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50776-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal hunter Mani
+#: 50782-Dialogue.mod:0
+msgid "Thanks for the info. "
+msgstr ""
+
+#. Id: 50773-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50771-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal hunter Mani
+#. Id: 19007-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 12481-Dialogue (10) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper polite shoo
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 63031-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: The elder talk to
+#. Id: 51752-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shinobi guild plastic surgeon
+#. -- Condition: Who: ME, Condition: FACTION_RANK=0, Tag: -1
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. Id: 45376-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc shoo
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 50284-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50308-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: armour king talk to
+#. Id: 59214-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59212-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 1533906-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tinfist talk to ally
+#. Id: 2737-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2736-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: crumblejon
+#: 50773-Dialogue.mod:0 19007-Dialogue.mod:0 12481-Dialogue?(10)?(2).mod:2 63031-Dialogue.mod:0 51752-rebirth.mod:1 98453-__March?18.mod:1 45376-Dialogue.mod:0 50284-rebirth.mod:0 59214-Dialogue.mod:0 1533906-Dialogue.mod:0 2737-gamedata.base:0
+msgid "Who are you?"
+msgstr ""
+
+#. Id: 50777-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50773-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50777-Dialogue.mod:0
+msgid "Flotsam's second in command, Defence Captain Mani. I'm an ex-cannibal hunter, made it my life mission to track cannibals ever since I escaped their prisons 10 years ago. My comrades though, they weren't so lucky..."
+msgstr ""
+
+#. Id: 50778-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50777-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50778-Dialogue.mod:0
+msgid "I'm somewhat of an expert on them now though. I know how they breathe, how they move, how they feed... And I suggest that you don't delve far past this outpost if you want to live, /OUTLANDER/."
+msgstr ""
+
+#. Id: 50783-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50778-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal hunter Mani
+#: 50783-Dialogue.mod:0
+msgid "It's nothing /IWE/ can't handle."
+msgstr ""
+
+#. Id: 50774-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50771-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal hunter Mani
+#: 50774-Dialogue.mod:0
+msgid "Could use some supplies..."
+msgstr ""
+
+#. Id: 50779-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50774-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50779-Dialogue.mod:0
+msgid "We only keep the essentials here but maybe we can sort something out for you. Take a look..."
+msgstr ""
+
+#. Id: 50780-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50779-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50780-Dialogue.mod:0
+msgid "We've got meds and rations..."
+msgstr ""
+
+#. Id: 50775-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50771-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal hunter Mani
+#: 50775-Dialogue.mod:0
+msgid "Nothing, I'm leaving."
+msgstr ""
+
+#. Id: 50965-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50775-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal hunter Mani
+#: 50965-Dialogue.mod:0
+msgid "Watch your step out there. I won't be able to save your sorry butt from the cannibal cooking pot if you get caught..."
+msgstr ""
+

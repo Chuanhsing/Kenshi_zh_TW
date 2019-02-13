@@ -1,0 +1,363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7311-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 6036-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7311-Dialogue.mod:0 6036-Dialogue.mod:4
+msgid "Yeah yeah, c'mon unlock me!"
+msgstr ""
+
+#. Id: 7311-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 6039-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7311-Dialogue.mod:1 6039-Dialogue.mod:4
+msgid "That's it, that's it! Help me out!"
+msgstr ""
+
+#. Id: 7311-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 6041-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7311-Dialogue.mod:2 6041-Dialogue.mod:5
+msgid "Yeah yeah yeah, get me out, get me out!"
+msgstr ""
+
+#. Id: 7311-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 6041-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 7311-Dialogue.mod:3 6041-Dialogue.mod:6
+msgid "Yes! C'mon, c'mon, let me out!"
+msgstr ""
+
+#. Id: 7312-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 16786-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7312-Dialogue.mod:0 16786-Dialogue.mod:0
+msgid "... /WTF/?"
+msgstr ""
+
+#. Id: 7312-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 16786-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7312-Dialogue.mod:1 16786-Dialogue.mod:1
+msgid "... you?"
+msgstr ""
+
+#. Id: 7314-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#: 7314-Dialogue.mod:0
+msgid "Why are you helping me..."
+msgstr ""
+
+#. Id: 7314-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 6056-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 7314-Dialogue.mod:2 6056-Dialogue.mod:2
+msgid "You're helping me?"
+msgstr ""
+
+#. Id: 7314-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#: 7314-Dialogue.mod:3
+msgid "You're helping me now?"
+msgstr ""
+
+#. Id: 7315-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. Id: 6034-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#: 7315-Dialogue.mod:0 6034-Dialogue.mod:8
+msgid "/FUCK/, yes! Please help me!"
+msgstr ""
+
+#. Id: 7315-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. Id: 6039-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7315-Dialogue.mod:1 6039-Dialogue.mod:5
+msgid "Jackpot! Yes! Get me out of here, please!"
+msgstr ""
+
+#. Id: 7315-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. Id: 6036-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 7315-Dialogue.mod:2 6036-Dialogue.mod:5
+msgid "That's it! Thank you thank you! Don't leave me here!"
+msgstr ""
+
+#. Id: 17743-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 16828-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17743-Dialogue.mod:0 16828-Dialogue.mod:0
+msgid "Wh- what you doin'?!"
+msgstr ""
+
+#. Id: 17743-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 16828-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17743-Dialogue.mod:1 16828-Dialogue.mod:1
+msgid "H- hey! No! Don't do that!"
+msgstr ""
+
+#. Id: 17743-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 16828-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17743-Dialogue.mod:2 16828-Dialogue.mod:2
+msgid "Stop! No..."
+msgstr ""
+
+#. Id: 17745-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 16831-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#: 17745-Dialogue.mod:0 16831-Dialogue.mod:0
+msgid "Go away... Th- the master will see!"
+msgstr ""
+
+#. Id: 17745-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 16831-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (16828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#: 17745-Dialogue.mod:1 16831-Dialogue.mod:1
+msgid "Leave me alone... Th- the master will punish me!"
+msgstr ""
+
+#. Id: 17745-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. Id: 16831-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (16828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#: 17745-Dialogue.mod:2 16831-Dialogue.mod:2
+msgid "Th- the master will see!"
+msgstr ""
+
+#. Id: 17745-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (17743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#: 17745-Dialogue.mod:3
+msgid "Noooo! What about the master!? THE MASTER!!!"
+msgstr ""
+
+#. Id: 17746-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 16834-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 17746-Dialogue.mod:0 16834-Dialogue.mod:0
+msgid "H- huh?!"
+msgstr ""
+
+#. Id: 17746-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 16834-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. Id: 16825-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Rescued bandit
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17746-Dialogue.mod:1 16834-Dialogue.mod:1 16825-Dialogue.mod:1
+msgid "N- no..."
+msgstr ""
+
+#. Id: 17746-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 12949-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 16834-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit rescue attemp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 17746-Dialogue.mod:2 12949-Dialogue?(11)?(2).mod:2 16834-Dialogue.mod:2
+msgid "No... no..."
+msgstr ""
+

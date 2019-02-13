@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12571-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12571-Dialogue?(11)?(2).mod:0
+msgid "/QUICKLAUGH/! Come on! I'll take you all on MYSELF!"
+msgstr ""
+
+#. Id: 12571-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12571-Dialogue?(11)?(2).mod:1
+msgid "/LAUGH/, come at me, I'll kill you ALL!"
+msgstr ""
+
+#. Id: 12571-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12571-Dialogue?(11)?(2).mod:2
+msgid "Who's next? I'll kill every /GODDAMN/ one of you myself"
+msgstr ""
+
+#. Id: 12571-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12571-Dialogue?(11)?(2).mod:3
+msgid "Who's next? I'll kill every /GODDAMN/ one of you"
+msgstr ""
+
+#. Id: 12575-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12575-Dialogue?(11)?(2).mod:0
+msgid "Like a /GODDAMN/ pack of dogs"
+msgstr ""
+
+#. Id: 12575-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12575-Dialogue?(11)?(2).mod:1
+msgid "Like a /GODDAMN/ pack of animals"
+msgstr ""
+
+#. Id: 12576-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12575-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 12576-Dialogue?(11)?(2).mod:0
+msgid "I'll bring you all down myself"
+msgstr ""
+
+#. Id: 12576-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12575-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 12576-Dialogue?(11)?(2).mod:1
+msgid "I'll take you all on myself"
+msgstr ""
+
+#. Id: 12576-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12575-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 12576-Dialogue?(11)?(2).mod:2
+msgid "Come at me"
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:0
+msgid "Like a pack of /GODDAMN/ dogs..."
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:1
+msgid "Like a pack of /GODDAMN/ animals..."
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:2
+msgid "How many of you ARE there?!"
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:3
+msgid "When is this gonna end already?"
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:4
+msgid "They just keep on comin'..."
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:5
+msgid "It's never ending..."
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:6
+msgid "When will this end...?"
+msgstr ""
+
+#. Id: 12578-Dialogue (11) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12578-Dialogue?(11)?(2).mod:7
+msgid "/TCH/... They just keep on comin'"
+msgstr ""
+
+#. Id: 12581-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12581-Dialogue?(11)?(2).mod:0
+msgid "So, who wants to party with me next?"
+msgstr ""
+
+#. Id: 12581-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 17955-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin hiver defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 12581-Dialogue?(11)?(2).mod:1 17955-Dialogue.mod:1
+msgid "One down..."
+msgstr ""
+
+#. Id: 12581-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12581-Dialogue?(11)?(2).mod:2
+msgid "So, who's up next?"
+msgstr ""
+
+#. Id: 12581-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12581-Dialogue?(11)?(2).mod:3
+msgid "Next up?"
+msgstr ""
+
+#. Id: 12581-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12581-Dialogue?(11)?(2).mod:4
+msgid "That's one down..."
+msgstr ""
+
+#. Id: 55877-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55877-Dialogue.mod:0 55879-Dialogue.mod:3
+msgid "If Tinfist taught us anything, it was to fight against all odds..."
+msgstr ""
+
+#. Id: 55877-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 55877-Dialogue.mod:1
+msgid "A fight fit for Arc himself..."
+msgstr ""
+
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55879-Dialogue.mod:0
+msgid "Taking on all these slavers, eh. Keep this up and /IWE/'ll rival Tinfist himself..."
+msgstr ""
+
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55879-Dialogue.mod:1
+msgid "I'll fight til the end against scum like you, slaver..."
+msgstr ""
+
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55879-Dialogue.mod:2
+msgid "/BATTLECRY/, die, slaver scum!"
+msgstr ""
+
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55879-Dialogue.mod:4
+msgid "To wipe out slaver scum is my purpose... Even if I die trying!"
+msgstr ""
+
+#. Id: 55879-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc is outnumbered
+#: 55879-Dialogue.mod:5
+msgid "Forever remember, never forget. I'll take you down even if I die trying, slavers!"
+msgstr ""
+

@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6022-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 6022-Dialogue.mod:0
+msgid "You, you saved me!"
+msgstr ""
+
+#. Id: 6023-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#: 6023-Dialogue.mod:0
+msgid "Thank you! "
+msgstr ""
+
+#. Id: 14107-Dialogue (12).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14107-Dialogue?(12).mod:1
+msgid "I'm free"
+msgstr ""
+
+#. Id: 14107-Dialogue (12).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14107-Dialogue?(12).mod:3
+msgid "Success!"
+msgstr ""
+
+#. Id: 15836-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14107-Dialogue (12).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#: 15836-Dialogue.mod:1
+msgid "Let's get the hell out of here"
+msgstr ""
+
+#. Id: 15836-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14107-Dialogue (12).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#: 15836-Dialogue.mod:2
+msgid "You lead, I'll follow you out!"
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14122-Dialogue?(4).mod:0
+msgid "I'm out! "
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14122-Dialogue?(4).mod:2
+msgid "... but, what if they're hiding, waiting for us, tricking us?!"
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14122-Dialogue?(4).mod:4
+msgid "It's open, you did it!"
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17983-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked hiver ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 14122-Dialogue?(4).mod:5 17983-Dialogue.mod:0
+msgid "You got it!"
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14122-Dialogue?(4).mod:7
+msgid "... oh god, what if they see us..."
+msgstr ""
+
+#. Id: 14122-Dialogue (4).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14122-Dialogue?(4).mod:8
+msgid "I'm free! God, I have to get out of here!"
+msgstr ""
+
+#. Id: 14123-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14122-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#: 14123-Dialogue?(4).mod:0
+msgid "Please, take me with you"
+msgstr ""
+
+#. Id: 14123-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14122-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#: 14123-Dialogue?(4).mod:1
+msgid "Please, don't leave me on my own"
+msgstr ""
+
+#. Id: 14124-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14124-Dialogue?(4).mod:1
+msgid "I'm out of here!"
+msgstr ""
+
+#. Id: 14124-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14124-Dialogue?(4).mod:2
+msgid "I'm running like hell!"
+msgstr ""
+
+#. Id: 14124-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14124-Dialogue?(4).mod:3
+msgid "I'm not hanging around, that's for sure"
+msgstr ""
+
+#. Id: 14124-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14124-Dialogue?(4).mod:4
+msgid "I can't let them catch me again! I have to get out of here!"
+msgstr ""
+
+#. Id: 14124-Dialogue (4).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed from cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 14124-Dialogue?(4).mod:5
+msgid "I gotta get out of here, before they come back!"
+msgstr ""
+

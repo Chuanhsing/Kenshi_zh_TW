@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42788-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42788-Dialogue.mod:0
+msgid "Looks like now's your chance to shine, human. Burn me in your holy flame, sacrifice me to your god... whatever it is you crazy humans do with Skeletons... "
+msgstr ""
+
+#. Id: 42789-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42788-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42789-Dialogue.mod:0
+msgid "Actually, I wanted to help. You look pretty messed up..."
+msgstr ""
+
+#. Id: 42794-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42788-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42794-Dialogue.mod:0
+msgid "Sacrifices aren't really my bag. But you look like you might need a hand..."
+msgstr ""
+
+#. Id: 42792-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42794-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42792-Dialogue.mod:0
+msgid "And why would you help me? You side with a Skeleton and you'll be forever branded a heretic by the Holy Nation. And that's a powerful enemy to make. "
+msgstr ""
+
+#. Id: 42793-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42793-Dialogue.mod:0
+msgid "There is always a hidden agenda with humans. Either I'm tricked by con artists or I'm chased across the /SANDS/ by zealots."
+msgstr ""
+
+#. Id: 42795-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42795-Dialogue.mod:0
+msgid "Screw the Holy Nation. I'm not interested in kissing up to those nutjobs anyway"
+msgstr ""
+
+#. Id: 42799-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42795-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42799-Dialogue.mod:0
+msgid "You seem like one of the more interesting humans I've met in my time... But that doesn't mean I trust you..."
+msgstr ""
+
+#. Id: 42800-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42800-Dialogue.mod:0
+msgid "So sure, fix me up, do your bit. But you should probably move on before the inquisitors get here. You won't want to be here when the inquisitors come."
+msgstr ""
+
+#. Id: 42801-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42800-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 42801-Dialogue.mod:0
+msgid "I'm not leaving you on your own with those crazies. They'll have to get through me first."
+msgstr ""
+
+#. Id: 42802-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (42801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42802-Dialogue.mod:0
+msgid "Got a lot of fight for a human, haven't you? It's quite... curiosity inducing. But heck, who am I to keep you from your suicide mission? This should be interesting, I'll see where this goes..."
+msgstr ""
+
+#. Id: 42937-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (42802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42937-Dialogue.mod:0
+msgid "Great, let's get moving..."
+msgstr ""
+
+#. Id: 42804-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (42937-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42804-Dialogue.mod:0
+msgid "Let's just steer clear of Holy Nation territory, shall we?"
+msgstr ""
+
+#. Id: 42805-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (42804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42805-Dialogue.mod:0
+msgid "Maybe you've got a deathwish, but I like... existing."
+msgstr ""
+
+#. Id: 42818-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42800-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42818-Dialogue.mod:0
+msgid "I appreciate the warning. Good luck, Skeleton."
+msgstr ""
+
+#. Id: 42819-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42800-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42819-Dialogue.mod:0
+msgid "Inquisitors? Hell, I'm outta here!"
+msgstr ""
+
+#. Id: 42938-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (42819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42938-Dialogue.mod:0
+msgid "Smart choice..."
+msgstr ""
+
+#. Id: 42806-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42806-Dialogue.mod:0
+msgid "Well, I have no hidden agenda. I just like helping people."
+msgstr ""
+
+#. Id: 42826-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42806-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42826-Dialogue.mod:0
+msgid "I've heard a lot of lies in my time, but this one's a real winner. It's in your nature to stab me in the back, human. And if you're not lying, well, then you should probably go find some other charity-case that isn't going to get you burned alive by the Holy Nation..."
+msgstr ""
+
+#. Id: 42827-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42826-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42827-Dialogue.mod:0
+msgid "Move along, human"
+msgstr ""
+
+#. Id: 42807-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42807-Dialogue.mod:0
+msgid "To be honest, you don't look like you're in the position to deny my help right now..."
+msgstr ""
+
+#. Id: 42825-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42825-Dialogue.mod:0
+msgid "You speak a lot of sense for a human... But that doesn't mean I trust you..."
+msgstr ""
+
+#. Id: 42808-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42793-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42808-Dialogue.mod:0
+msgid "... You're right. Helping you is too risky. See you later."
+msgstr ""
+
+#. Id: 42828-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42808-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42828-Dialogue.mod:0
+msgid "Then move along, human."
+msgstr ""
+
+#. Id: 42809-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42788-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42809-Dialogue.mod:0
+msgid "Evil! Evil agent of darkness! Die! (Attack)"
+msgstr ""
+
+#. Id: 42811-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42809-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42811-Dialogue.mod:0
+msgid "I'll destroy you, human!"
+msgstr ""
+
+#. Id: 42810-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42788-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42810-Dialogue.mod:0
+msgid "Forget it, I'm not getting involved with a Skeleton..."
+msgstr ""
+
+#. Id: 42812-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Recruit holy nation skeleton healing
+#: 42812-Dialogue.mod:0
+msgid "Walk away, human. I don't want to get involved with you either..."
+msgstr ""
+

@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48836-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opp alone hive worker
+#: 48836-Dialogue.mod:0
+msgid "Free..?"
+msgstr ""
+
+#. Id: 48837-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48836-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opp alone hive worker
+#. Id: 46018-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sundemon freed by captor
+#. -- Condition: My Sub-Race(s): Scorchlander
+#. Id: 19736-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver Unlocked
+#. Id: 48832-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: escape opp hive worker
+#. Id: 48946-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 48837-Dialogue.mod:0 46018-Dialogue.mod:0 19736-Dialogue.mod:0 48832-Dialogue.mod:0 48946-Dialogue.mod:0
+msgid "Free!"
+msgstr ""
+

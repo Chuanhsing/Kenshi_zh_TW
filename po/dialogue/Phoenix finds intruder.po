@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50583-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 50583-Dialogue.mod:0
+msgid "Intruder! I'll expel you by my own sword!"
+msgstr ""
+
+#. Id: 50583-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 50583-Dialogue.mod:1
+msgid "A man possessed! Why are you here in my sacred quarters, trespasser?!"
+msgstr ""
+
+#. Id: 50585-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50585-Dialogue.mod:0
+msgid "What are you doing in here?! Trying to /TAINT/ me, /TEMPTRESS/?!"
+msgstr ""
+
+#. Id: 50585-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50585-Dialogue.mod:1
+msgid "What business does a wretched seductress have, here, in my sacred quarters?!"
+msgstr ""
+
+#. Id: 50585-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50585-Dialogue.mod:2
+msgid "Intruder! A wretched daughter of Narko, here to /TAINT/ Okran's champion?"
+msgstr ""
+
+#. Id: 50585-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 50585-Dialogue.mod:3
+msgid "How dare you disturb my meditation, woman!"
+msgstr ""
+
+#. Id: 50596-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50585-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#: 50596-Dialogue.mod:0
+msgid "I'll punish you by my own sword, in the name of Okran!"
+msgstr ""
+
+#. Id: 50596-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50585-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#: 50596-Dialogue.mod:1
+msgid "Paladins, see to this woman!"
+msgstr ""
+
+#. Id: 50587-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 50587-Dialogue.mod:0
+msgid "Dark ones! Here, in MY sacred quarters! /BURNHIM/!"
+msgstr ""
+
+#. Id: 50587-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 50587-Dialogue.mod:1
+msgid "Darkened beasts, here in my quarters! I'll purge you by my own sword, in the name of Okran!"
+msgstr ""
+
+#. Id: 50587-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix finds intruder
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 50587-Dialogue.mod:2
+msgid "An abomination! In my sacred quarters! /BURNHIM/! Our city must be cleansed!"
+msgstr ""
+

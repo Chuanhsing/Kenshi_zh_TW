@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14356-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#: 14356-Dialogue?(4).mod:1
+msgid "Drop it!"
+msgstr ""
+
+#. Id: 14356-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#: 14356-Dialogue?(4).mod:3
+msgid "Get the hell out of here, thief!"
+msgstr ""
+
+#. Id: 14356-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#: 14356-Dialogue?(4).mod:4
+msgid "Get the hell away from there, shoplifter!"
+msgstr ""
+
+#. Id: 14356-Dialogue (4).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#: 14356-Dialogue?(4).mod:5
+msgid "Get away from there, thief!"
+msgstr ""
+
+#. Id: 14356-Dialogue (4).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#: 14356-Dialogue?(4).mod:6
+msgid "Don't even think about it, thief!"
+msgstr ""
+
+#. Id: 14359-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14359-Dialogue?(4).mod:0
+msgid "Shoplifters get broken fingers!"
+msgstr ""
+
+#. Id: 14359-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14359-Dialogue?(4).mod:1
+msgid "Thieves get their fingers broken!"
+msgstr ""
+
+#. Id: 14359-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14359-Dialogue?(4).mod:2
+msgid "I'll break your fingers, thief!"
+msgstr ""
+
+#. Id: 14359-Dialogue (4).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14359-Dialogue?(4).mod:3
+msgid "Get your /GODDAMN/ hands off of that, thief!"
+msgstr ""
+
+#. Id: 14359-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 14359-Dialogue?(4).mod:4
+msgid "Get your /GREASY/ /GODDAMN/ hands off of that!"
+msgstr ""
+
+#. Id: 14360-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 14360-Dialogue?(4).mod:0
+msgid "Get out, thief!"
+msgstr ""
+
+#. Id: 14360-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 14360-Dialogue?(4).mod:2
+msgid "You're going down, thief!"
+msgstr ""
+
+#. Id: 14367-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 14367-Dialogue?(4).mod:0
+msgid "Try and steal from there, I dare you!"
+msgstr ""
+
+#. Id: 14367-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from shop guard
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 14367-Dialogue?(4).mod:1
+msgid "Try it!... go ahead and try it, thief!"
+msgstr ""
+

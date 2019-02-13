@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47096-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47096-Dialogue.mod:0
+msgid "Don't go into the mist, /RACENAMEHIVE/! The mists are cursed, CURSED! You go in, you never come back out! "
+msgstr ""
+
+#. Id: 47168-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47096-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47168-Dialogue.mod:0
+msgid "... Unless you have Hive lantern with you. We have one you can have if you want to go there. Not free though."
+msgstr ""
+
+#. Id: 47097-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47097-Dialogue.mod:0
+msgid "Mists? Where?"
+msgstr ""
+
+#. Id: 47101-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47097-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47101-Dialogue.mod:0
+msgid "North of Vain, north of the Hive. No-hives call it the Deathyard. It's full of ancient treasures! But you need a lantern to travel through..."
+msgstr ""
+
+#. Id: 47102-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47101-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47102-Dialogue.mod:0
+msgid "And if I don't have a lantern?"
+msgstr ""
+
+#. Id: 47105-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47102-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47105-Dialogue.mod:0
+msgid "I already told you, no-hive! You won't come back out."
+msgstr ""
+
+#. Id: 47106-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47098-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47106-Dialogue.mod:0
+msgid "2500 Cats. This is a good price, /RACENAMEHIVE/. You can't put a price on safety."
+msgstr ""
+
+#. Id: 47109-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47106-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 47109-Dialogue.mod:0
+msgid "Okay, I'll take it."
+msgstr ""
+
+#. Id: 47112-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47112-Dialogue.mod:0
+msgid "This is a special discount, /RACENAMEHIVE/, this is a good deal! Here, take a looks at it..."
+msgstr ""
+
+#. Id: 58078-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47113-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 58078-Dialogue.mod:0
+msgid "You won't regret it, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 47114-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47114-Dialogue.mod:0
+msgid "Honestly, I don't have enough money..."
+msgstr ""
+
+#. Id: 47114-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (47112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47114-Dialogue.mod:1
+msgid "I told you I don't have enough money..."
+msgstr ""
+
+#. Id: 47115-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47114-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47115-Dialogue.mod:0
+msgid "No more discount for you! 2500 Cats, let's finish this, /RACENAMEHIVE/."
+msgstr ""
+
+#. Id: 47152-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47115-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47152-Dialogue.mod:0
+msgid "I'm going! Take a hint already..."
+msgstr ""
+
+#. Id: 47153-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47115-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 47153-Dialogue.mod:0
+msgid "Okay, okay, 2500 Cats."
+msgstr ""
+
+#. Id: 47116-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47116-Dialogue.mod:0
+msgid "Sorry, actually I've changed my mind..."
+msgstr ""
+
+#. Id: 47111-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47106-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47111-Dialogue.mod:0
+msgid "Thanks for the warning, but I'll pass."
+msgstr ""
+
+#. Id: 47099-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47099-Dialogue.mod:0
+msgid "Tell me more about this lantern..."
+msgstr ""
+
+#. Id: 47103-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47103-Dialogue.mod:0
+msgid "Our Queen enchants the Lanterns of Radiance to clear the mists. All hive merchants use them to travel north, I promise our lantern will keep you safe, out of the mist. If not, we give you a refund. Our promise to you."
+msgstr ""
+
+#. Id: 47104-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47104-Dialogue.mod:0
+msgid " A refund is useless to a dead person..."
+msgstr ""
+
+#. Id: 47137-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47104-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47137-Dialogue.mod:0
+msgid "Haaaah! Of course! You got us, /RACENAMEHIVE/! But you can trust our promise."
+msgstr ""
+
+#. Id: 47100-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47168-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47100-Dialogue.mod:0
+msgid "Yeah. Right. Not interested."
+msgstr ""
+
+#. Id: 47117-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47100-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47117-Dialogue.mod:0
+msgid "You'll regret not buying our lantern from us, /RACENAMEHIVE/! I'll give you a good price, 2500 Cats. Here, take it..."
+msgstr ""
+
+#. Id: 47118-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47117-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 47118-Dialogue.mod:0
+msgid "... Go on then."
+msgstr ""
+
+#. Id: 47119-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47117-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47119-Dialogue.mod:0
+msgid "Really, I'm not even interested in going to the mists anyway..."
+msgstr ""
+
+#. Id: 47121-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47119-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47121-Dialogue.mod:0
+msgid "/RACENAMEHIVE/, you are being stupid! You only get one chance to buy the Lantern of Radiance, otherwise you can never go to the mists! Ever! This is a special item, it's unique!"
+msgstr ""
+
+#. Id: 47122-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47121-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47122-Dialogue.mod:0
+msgid "Just leave me alone already!"
+msgstr ""
+
+#. Id: 47141-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47122-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47141-Dialogue.mod:0
+msgid "We won't let you die, /RACENAMEHIVE/! 2500 Cats, this is the best price I can give you. Special for you, no-hive!"
+msgstr ""
+
+#. Id: 47142-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47141-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47142-Dialogue.mod:0
+msgid "I'm going! No means no!"
+msgstr ""
+
+#. Id: 47147-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47142-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47147-Dialogue.mod:0
+msgid "You're going?"
+msgstr ""
+
+#. Id: 47148-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (47147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47148-Dialogue.mod:0
+msgid "How rude. Why would you not accept our offer?"
+msgstr ""
+
+#. Id: 47151-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (47154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47151-Dialogue.mod:0
+msgid "We gave you special price as well! Just for you... You insult the Queen!"
+msgstr ""
+
+#. Id: 47145-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (47151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47145-Dialogue.mod:0
+msgid "Curse you, /RACENAMEHIVE/! The mists will swallow you whole! You'll DIE!"
+msgstr ""
+
+#. Id: 47150-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (47145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47150-Dialogue.mod:0
+msgid "You'll never come back out! You'll regret this! "
+msgstr ""
+
+#. Id: 47143-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47141-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 47143-Dialogue.mod:0
+msgid "I'll buy the /GODDAMN/, lantern! Just leave me alone!"
+msgstr ""
+
+#. Id: 47123-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47121-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47123-Dialogue.mod:0
+msgid "Honestly, I don't have that much money..."
+msgstr ""
+
+#. Id: 47125-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47121-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47125-Dialogue.mod:0
+msgid "Stop talking at me or this is gonna get real bloody, real fast..."
+msgstr ""
+
+#. Id: 47126-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47125-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47126-Dialogue.mod:0
+msgid "You threaten us, /RACENAMEHIVE/?! We won't stand for it! We finish this deal now! 2500 Cats!"
+msgstr ""
+
+#. Id: 47129-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47126-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 47129-Dialogue.mod:0
+msgid "You're so damn annoying! (Draw sword)"
+msgstr ""
+
+#. Id: 47131-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47131-Dialogue.mod:0
+msgid "Violent /RACENAMEHIVE/! We won't stand for it!"
+msgstr ""
+
+#. Id: 47130-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47126-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
+#: 47130-Dialogue.mod:0
+msgid "*Sigh*. Just give me the /GODDAMN/ lantern then..."
+msgstr ""
+
+#. Id: 47127-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47125-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 47127-Dialogue.mod:0
+msgid "You threaten us!? "
+msgstr ""
+
+#. Id: 47139-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47127-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hive merchant mist talisman
+#: 47139-Dialogue.mod:0
+msgid "Curse you, /RACENAMEHIVE/! The mists will swallow you whole! You’ll die!"
+msgstr ""
+

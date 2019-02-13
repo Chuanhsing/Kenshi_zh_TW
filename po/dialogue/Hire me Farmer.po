@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:0
+msgid "Need a farmer, /OUTLANDER/? Growing crops runs naturally in the blood of a hive worker. I only charge 4000 Cats."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:1
+msgid "My place isn't in a drunken bar, I belong as part of a colony, outside on the farms. Are you looking to /TEAMUP/, /OUTLANDER/? Only 4000 Cats."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:2
+msgid "Natural born farmer right here. I'll charge you a discount if you're looking to /TEAMUP/, /OUTLANDER/. 4000 Cats to be a part of your colony."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:3
+msgid "Let me join your colony, /OUTLANDER/? I'll charge you a cheap rate, 4000 Cats. Hivers make the best farmers, you know."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:4
+msgid "You'll find no better farmer than a hive farmer. I charge 4000 Cats if you're hiring, /OUTLANDER/."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:5
+msgid "Happen to need a farmer? All I ask for in return is simple companionship... and a 4000 Cat recruitment fee."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:6
+msgid "I don't belong in this town, I belong outside on a farm... as part of a community. Are you looking for a farmer by any chance, stranger? I'll give you a discount, 4000 Cats if you take me with you."
+msgstr ""
+
+#. Id: 53328-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53328-Dialogue.mod:7
+msgid "Working the farms as a collective was all I knew back in the hive. But city bars? I'm a fish out of water... So, you happen to be recruiting? I charge 4000 Cats."
+msgstr ""
+
+#. Id: 53338-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#. Id: 53334-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 50529-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50528-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter Recruit 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 53338-Dialogue.mod:0 53334-Dialogue.mod:0 50529-Dialogue.mod:0
+msgid "Sure, you're hired."
+msgstr ""
+
+#. Id: 53339-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4000, Tag: -1
+#: 53339-Dialogue.mod:0
+msgid "Sorry, I don't have enough."
+msgstr ""
+
+#. Id: 53329-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 53329-Dialogue.mod:0
+msgid "Here to recruit?... Well, if you need a farmer look no further. I can turn a barren wasteland into a blooming oasis. Even managed twenty farms before they went to hell back in the Red Rebellion. I charge 6000 Cats if you're interested."
+msgstr ""
+
+#. Id: 53329-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 53329-Dialogue.mod:1
+msgid "Farmer looking for greener pastures! You hiring, /OUTLANDER/? A farmer can't earn a living in Empire territory, the Red Rebellion put an end to that. I gave up everything I own ready for a fresh start. 6000 Cats and I'll follow."
+msgstr ""
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Scorchlander or Shek or Greenlander
+#: 53330-Dialogue.mod:0
+msgid "[They look you up and down] Not one of the locals, are you? Looking to /TEAMUP/? I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Scorchlander or Shek or Greenlander
+#: 53330-Dialogue.mod:1
+msgid "Not seen you around before... You here for recruits? If so, I'm looking to /TEAMUP/ for 6000 Cats."
+msgstr ""
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Scorchlander or Shek or Greenlander
+#: 53330-Dialogue.mod:2
+msgid "I'm looking to /TEAMUP/ if you're looking to hire, /OUTLANDER/. I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53330-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: My Race(s): Scorchlander or Shek or Greenlander
+#: 53330-Dialogue.mod:3
+msgid "Don't look like one of the usual bar drunks... guess you're a traveller, huh? Looking to /TEAMUP/? 6000 Cats and I'll follow you."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:0
+msgid "Well, not the toughest of mercs but I know a thing or two about hydroponics and riceweed care if you need a farmer."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:1
+msgid "Well, I'm not much of a people person but I sure know how to make a riceweed plant happy if you're looking for a farmer..."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:2
+msgid "I grow things, I'm a farmer, it's what I do. I don't like violence, don't like people much either but I'll do whatever you need of me."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:3
+msgid "Farming's my specialty, born and raised on the greenfruit fields... but I'll do my best at whatever you throw my way, you can rely on me."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:4
+msgid "I'm a farmer, grew up on a farm as a kid. But I'll handle anything else you need of me."
+msgstr ""
+
+#. Id: 53332-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (53331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53332-Dialogue.mod:5
+msgid "Not so much in the way of combat if you're looking for muscle. Know a thing or two about farming though."
+msgstr ""
+
+#. Id: 53346-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53334-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53346-Dialogue.mod:0
+msgid "Let's get to work"
+msgstr ""
+
+#. Id: 53344-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53330-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 53344-Dialogue.mod:0
+msgid "I don't have enough right now."
+msgstr ""
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:0
+msgid "Never been much of a city person, more of an outdoors type. I grew up on the farms, at one with nature you could say... So here I am selling my farming skills for a ticket out of here. You interested in hiring? I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:1
+msgid "Damn I miss working the farm... Been stuck in this town far too long. Say, you looking to hire there, /OUTLANDER/? I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:2
+msgid "Hoes over swords I always say. Never been one for violence. Need a farmer, stranger?"
+msgstr ""
+
+#. Id: 53336-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#: 53336-Dialogue.mod:3
+msgid "Guess you're here for recruits, am I right? I'm looking for work if so. Main specialty's farming. My fee's 6000 Cats, interested?"
+msgstr ""
+
+#. Id: 53337-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 53337-Dialogue.mod:0
+msgid "6000 Cats, that's my price. Be needing a farmer on your squad by any chance, /OUTLANDER/?... Gosh I miss those days on the farm... my pet goat Frieda... the smell of damp riceweed in the morning... the relentless bandit raids..."
+msgstr ""
+
+#. Id: 53352-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#: 53352-Dialogue.mod:0
+msgid "Back again? Still for hire if you need me, 6000 Cats."
+msgstr ""
+
+#. Id: 53353-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Farmer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#. -- Condition: My Race(s): Hive Worker Drone
+#: 53353-Dialogue.mod:0
+msgid "Back again? I'm still for hire if you need me, 4000 Cats."
+msgstr ""
+

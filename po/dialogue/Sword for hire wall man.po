@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41350-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41350-Dialogue.mod:0
+msgid "You look like someone who can appreciate a good wall."
+msgstr ""
+
+#. Id: 41351-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41350-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41351-Dialogue.mod:0
+msgid "A wall? They're alright I guess."
+msgstr ""
+
+#. Id: 41352-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41351-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41352-Dialogue.mod:0
+msgid "I can't stop thinking about them, they're everywhere! Town walls, building walls, walls in chests, walls of rock, walls behind walls, sheild walls, cell walls, invisible walls, walls between people, walls around our hearts, walls between my spouse and I, walls! Walls are everywhere!"
+msgstr ""
+
+#. Id: 41353-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41352-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41353-Dialogue.mod:0
+msgid "This might be a stretch but...Can you build walls for me?"
+msgstr ""
+
+#. Id: 41354-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41353-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41354-Dialogue.mod:0
+msgid "Can I!? I'll build, toil, labor all day for the sake of making more walls. I don't mind and I'm good at it too! All I need is a 5000 Cat advance. After all, my service is behind a pay wall."
+msgstr ""
+
+#. Id: 41355-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 41355-Dialogue.mod:0
+msgid "Alright, here's the dough. Let's get you to building walls."
+msgstr ""
+
+#. Id: 41356-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41356-Dialogue.mod:0
+msgid "Wait what am I thinking? You're crazy! Get out of here!"
+msgstr ""
+
+#. Id: 41357-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
+#: 41357-Dialogue.mod:0
+msgid "I can't...my funds are all walled off..."
+msgstr ""
+
+#. Id: 41359-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41359-Dialogue.mod:0
+msgid "...Break...walls...? I don't...I don't even..."
+msgstr ""
+
+#. Id: 41360-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41352-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41360-Dialogue.mod:0
+msgid "Uhuh... So, you're an engineer I take it?"
+msgstr ""
+
+#. Id: 41361-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41361-Dialogue.mod:0
+msgid "I am! And you can hire me for just 5000 Cat advance. After all, my service is behind a pay wall."
+msgstr ""
+
+#. Id: 41363-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41350-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41363-Dialogue.mod:0
+msgid "You're talkin' walls? Love 'em!"
+msgstr ""
+
+#. Id: 41364-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41350-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 41364-Dialogue.mod:0
+msgid "Walls blow. I'm out of here."
+msgstr ""
+
+#. Id: 41365-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire wall man
+#: 41365-Dialogue.mod:0
+msgid "Oh. Bye."
+msgstr ""
+

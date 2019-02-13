@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45309-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 45309-Dialogue.mod:0
+msgid "How you holding up in there? Wanna chat? I get so excited when I get a new neighbour to talk to. Not much to do in here see. Sometimes I like to count flies. I call this one Chubbs, because she’s a bit overweight. She's the only friend I have in here."
+msgstr ""
+
+#. Id: 45310-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45310-Dialogue.mod:0
+msgid "Ok, I just-"
+msgstr ""
+
+#. Id: 45311-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45310-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45311-Dialogue.mod:0
+msgid "Do you have any friends? Tell me about your friends! Tell me about everything! What’s your favourite snack? Do you have an outtie or an innie? Which would you rather have, a head the size of a nut, or a head the size of a watermelon?"
+msgstr ""
+
+#. Id: 45317-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45317-Dialogue.mod:0
+msgid "What happened to you? Why are you in here?"
+msgstr ""
+
+#. Id: 45322-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45317-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45322-Dialogue.mod:0
+msgid "Well, it was a while ago, but I had a date with a girl from out of town. So I put on my best clothes, I was so excited for it, I’d been writing letters to woo her  for months… "
+msgstr ""
+
+#. Id: 45324-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45324-Dialogue.mod:0
+msgid "Now here’s a tip: Don’t wear nice clothes in the outlands, because bandits will mistake you for a rich merchant. They took me for ransom, but ain't nobody gonna pay it because the nobles don't even know who I am! And as if I know anyone with those kinda Cats... It’s been a long time, seen a few seasons go by at least. Date's sure gonna be peeved at me for standing her up..."
+msgstr ""
+
+#. Id: 45325-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45325-Dialogue.mod:0
+msgid "Then let's get you on that date!"
+msgstr ""
+
+#. Id: 45332-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45325-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45332-Dialogue.mod:0
+msgid "Wha-- You think you can get me out of here? It- it's been so long!"
+msgstr ""
+
+#. Id: 45326-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45326-Dialogue.mod:0
+msgid "You've been here that long?... Hold on, I'm bustin' you out!"
+msgstr ""
+
+#. Id: 45333-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45326-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45333-Dialogue.mod:0
+msgid "Really--? You think you can get me out? You're a hero!"
+msgstr ""
+
+#. Id: 45327-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45327-Dialogue.mod:0
+msgid "Only an idiot would venture into the outlands dressed like that."
+msgstr ""
+
+#. Id: 45334-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45327-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45334-Dialogue.mod:0
+msgid "An idiot in love... *sigh*"
+msgstr ""
+
+#. Id: 45328-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45324-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45328-Dialogue.mod:0
+msgid "I don't have time for this. You talk way too much."
+msgstr ""
+
+#. Id: 45329-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 45329-Dialogue.mod:0
+msgid "No, don't go! Stay! Stay and chat with me!"
+msgstr ""
+
+#. Id: 45331-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45331-Dialogue.mod:0
+msgid "Then I'll talk to Chubbs! I don't need you anyway."
+msgstr ""
+
+#. Id: 45318-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=1, Tag: -1
+#: 45318-Dialogue.mod:0
+msgid "Perhaps we should just focus on getting out of here first..."
+msgstr ""
+
+#. Id: 45319-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 45319-Dialogue.mod:0
+msgid "We can chat later, let's get you out of here first..."
+msgstr ""
+
+#. Id: 45323-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45311-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45323-Dialogue.mod:0
+msgid "I don't have time for chit chat. I'm leaving."
+msgstr ""
+
+#. Id: 45335-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45335-Dialogue.mod:0
+msgid "Leaving? No-one leaves, outlander..."
+msgstr ""
+
+#. Id: 45336-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45335-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#: 45336-Dialogue.mod:0
+msgid " Guess it's just me and you from here on out, eh, Chubbs?"
+msgstr ""
+
+#. Id: 45312-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45312-Dialogue.mod:0
+msgid "Sorry, I don't-"
+msgstr ""
+
+#. Id: 45313-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust King's prisoner
+#: 45313-Dialogue.mod:0
+msgid "That's great but-"
+msgstr ""
+
+#. Id: 45315-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King's prisoner
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#: 45315-Dialogue.mod:0
+msgid "Oh, hey a new guy! ...Wanna chat? I get so excited when I get visitors to talk to. Not much to do in here see. Sometimes I like to count flies. I call this one Chubbs, because she’s a bit overweight. She's the only friend I have in here."
+msgstr ""
+

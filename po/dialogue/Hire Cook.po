@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52559-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52559-Dialogue.mod:0
+msgid "Was always told I'd never make it if I couldn't handle myself with a sword. Well, I'm still alive, aren't I? Melting the hearts of my enemies with my cooking, one ricebowl at a time!"
+msgstr ""
+
+#. Id: 52560-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (52559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52560-Dialogue.mod:0
+msgid "So, how about it? Need a cook on your team?"
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:0
+msgid "You look like a /GUY/ in need of a good dustwich if I ever saw one. Need a cook on your side?"
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:1
+msgid "Need a chef, /BROTHER/? I make a mean dustwich and a sake to blow your socks off..."
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:2
+msgid "Cook for hire! Will work for companionship and protection..."
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:3
+msgid "How about hiring yourself a cook, /OUTLANDER/? One bite of my cuisine and you'll never go back to those shoddy ration packs again."
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:4
+msgid "Killing and eating, that's all this world's good for... Me, I prefer the latter. How about it, need a chef?"
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:5
+msgid "You there, need a cook? I could cook you up a ricebowl so good it'd have you drooling at the chops for weeks. You'll be on your knees begging for more of my special recipe...."
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:6
+msgid "You look like you could use a bit of meat on you, /BROTHER/. I can sort that out for you... Pro cook looking to /TEAMUP/ if you're interested..."
+msgstr ""
+
+#. Id: 52561-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52561-Dialogue.mod:7
+msgid "Make bread not blood, I say... Too much gutting and bone breaking in these towns for my liking... Looking to hire a baker, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 52668-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (52561-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#: 52668-Dialogue.mod:2
+msgid "First things first, what's your fee?"
+msgstr ""
+
+#. Id: 52670-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52670-Dialogue.mod:0
+msgid "Usual fee, 6000 Cats."
+msgstr ""
+
+#. Id: 52670-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52670-Dialogue.mod:1
+msgid "6000 Cats. So we got a deal?"
+msgstr ""
+
+#. Id: 52670-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#: 52670-Dialogue.mod:2
+msgid "I charge 6000 Cats. Are you interested?"
+msgstr ""
+
+#. Id: 52673-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#: 52673-Dialogue.mod:0
+msgid "I'm not interested afterall."
+msgstr ""
+
+#. Id: 52673-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52670-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#. Id: 53509-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53504-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 52673-Dialogue.mod:1 53509-Dialogue.mod:0
+msgid "I've changed my mind, sorry."
+msgstr ""
+
+#. Id: 52669-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (52561-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Cook
+#: 52669-Dialogue.mod:1
+msgid "Sorry, not interested."
+msgstr ""
+
+#. Id: 52678-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#: 52678-Dialogue.mod:0
+msgid "You're back? Did you change your mind? I charge 6000 Cats if you need a cook."
+msgstr ""
+
+#. Id: 52678-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire Cook
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
+#: 52678-Dialogue.mod:1
+msgid "Need a cook after all? 6000 Cat was my price."
+msgstr ""
+

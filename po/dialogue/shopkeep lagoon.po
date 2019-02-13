@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95584-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95584-__Mourn.mod:0
+msgid "On route to the Ashlands? Guess you'll be looking to stock up."
+msgstr ""
+
+#. Id: 95586-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95586-__Mourn.mod:0
+msgid "Can you tell me about the Ashlands?"
+msgstr ""
+
+#. Id: 95589-__Mourn.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95586-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95589-__Mourn.mod:0
+msgid "A tech hunter asking questions 'stead of spouting stories? Now that's a first..."
+msgstr ""
+
+#. Id: 95590-__Mourn.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95589-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95590-__Mourn.mod:0
+msgid "Well, the Ashlands lie to the south east... the ultimate expedition for any tech hunting pro. You could say it's exactly because nobody ever makes it there that we crazy ones just find it all the more enticing. Apart from the Ashland Drifters of course, but they're long gone."
+msgstr ""
+
+#. Id: 95738-__Mourn.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95590-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95738-__Mourn.mod:0
+msgid "There are three ways into it: south through the hives or south east directly through the gorillos. Either way will get a novice ripped to shreds..."
+msgstr ""
+
+#. Id: 95595-__Mourn.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95592-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95595-__Mourn.mod:0
+msgid "Careful, adventurer. They don't call it the Forbidden Lands for nothing."
+msgstr ""
+
+#. Id: 95593-__Mourn.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95738-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#: 95593-__Mourn.mod:0
+msgid "And the third way?"
+msgstr ""
+
+#. Id: 95594-__Mourn.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95593-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#: 95594-__Mourn.mod:0
+msgid "East. Skirt the pits and swim it there."
+msgstr ""
+
+#. Id: 95588-__Mourn.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: shopkeep lagoon
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#. Id: 12613-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
+#: 95588-__Mourn.mod:0 12613-gamedata.base:0
+msgid "I ain't trading with no thief!"
+msgstr ""
+

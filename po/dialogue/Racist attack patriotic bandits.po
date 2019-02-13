@@ -1,0 +1,1354 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42645-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Skeleton
+#: 42645-Dialogue.mod:0
+msgid "/OI/, /RACISTNAME/! !"
+msgstr ""
+
+#. Id: 42646-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 42646-Dialogue.mod:0
+msgid "No /RACISTNAME/s allowed... This is OUR land..."
+msgstr ""
+
+#. Id: 42647-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42646-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 42647-Dialogue.mod:0
+msgid "Go back to the junkyard! We don't want you here!"
+msgstr ""
+
+#. Id: 42647-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42646-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 42647-Dialogue.mod:1
+msgid "Go back to the junk heap! You ain't welcome here!"
+msgstr ""
+
+#. Id: 42648-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 42648-Dialogue.mod:0
+msgid "/GODDAMN/ freak!"
+msgstr ""
+
+#. Id: 54645-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54645-Dialogue.mod:0
+msgid "Where's your soul?"
+msgstr ""
+
+#. Id: 54646-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54646-Dialogue.mod:0
+msgid "Oh yeah, that's right, YOU DON'T HAVE ONE, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 54648-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54647-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. Id: 54572-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54571-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54648-Dialogue.mod:0 54572-Dialogue.mod:0
+msgid "/LAUGH/! Good one, boss..."
+msgstr ""
+
+#. Id: 54654-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54654-Dialogue.mod:0
+msgid "Ahh that was a low blow, eh? Hurts, eh?... Well, don't cry, /RACISTNAME/..."
+msgstr ""
+
+#. Id: 54655-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54655-Dialogue.mod:0
+msgid "Wait, I almost forgot... YOU CAN'T CRY, /LAUGH/!"
+msgstr ""
+
+#. Id: 54656-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54655-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54656-Dialogue.mod:0
+msgid "/LAUGH/! Stop... stop I can't take no more, boss... *wheeze*"
+msgstr ""
+
+#. Id: 54649-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (54656-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54649-Dialogue.mod:0
+msgid "Anyway, freak woes aside, do one, /RACISTNAME/! You ain't welcome here!"
+msgstr ""
+
+#. Id: 54650-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42645-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54650-Dialogue.mod:0
+msgid "When did ya last get laid?"
+msgstr ""
+
+#. Id: 54651-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54650-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54651-Dialogue.mod:0
+msgid "Oh yeah, that's right, YOU GOT NO JUNK! Junk, get it? /LAUGH/!"
+msgstr ""
+
+#. Id: 54536-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54536-Dialogue.mod:0
+msgid "Is that... Is that a /RACISTNAME/ in OUR outlands?"
+msgstr ""
+
+#. Id: 54536-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54536-Dialogue.mod:1
+msgid "Well would'ya look at that. We got us a /RACISTNAME/ takin' a walk in OUR desert, eh?"
+msgstr ""
+
+#. Id: 54536-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54536-Dialogue.mod:2
+msgid "Yet ANOTHER /RACISTNAME/ in OUR United Cities, eh?"
+msgstr ""
+
+#. Id: 54536-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54536-Dialogue.mod:3
+msgid "Ugh! Another /RACISTNAME/ in our land... One o' these days they're gonna take over all together..."
+msgstr ""
+
+#. Id: 54536-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54536-Dialogue.mod:4
+msgid "Tch. Another /RACISTNAME/ to clog our great cities..."
+msgstr ""
+
+#. Id: 54537-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54537-Dialogue.mod:0
+msgid "Go back to the mud hives where you belong, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54537-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54537-Dialogue.mod:1
+msgid "Why don't you go back to the dirt hive where you crawled out from, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54537-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54537-Dialogue.mod:2
+msgid "We're clean folk in the United Cities! Go back to your own filthy hive village and muddy that up instead, eh, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:0
+msgid "I'm sick o' these /DIRTY/ tribals bringin' down our proud cities!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:1
+msgid "I'm getting tired o' seeing these twig men takin' over our proud Empire cities!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:2
+msgid "I'm sick o' these bug men /RACIST_CLAIM1/ our /RACIST_CLAIM2/! This is OUR land!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:3
+msgid "I'm fed up o' these /DIRTY/ tribals bringin' down our noble cities!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:4
+msgid "I'm getting tired o' seeing these insect people takin' over our proud Empire cities!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:5
+msgid "I'm getting tired o' seeing these bug freaks takin' over our noble Empire cities!"
+msgstr ""
+
+#. Id: 54541-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (54544-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54541-Dialogue.mod:6
+msgid "I'm sick o' these insect people /RACIST_CLAIM1/ our /RACIST_CLAIM2/! This is OUR nation!"
+msgstr ""
+
+#. Id: 54545-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54541-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54545-Dialogue.mod:0
+msgid "Too right, /NAME/! Then we'll just have to take this /RACISTNAME/ infestation into our own hands, eh?"
+msgstr ""
+
+#. Id: 54545-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (54541-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54545-Dialogue.mod:1
+msgid "Rightly said, /NAME/! I say we take this VERMIN problem into our own hands!"
+msgstr ""
+
+#. Id: 54545-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (54541-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54545-Dialogue.mod:2
+msgid "Well said, /NAME/! Now, how about we take pest control of these freaks into our own hands!?"
+msgstr ""
+
+#. Id: 54581-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54547-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#: 54581-Dialogue.mod:0
+msgid "/QUICKLAUGH/, then allow me to start!"
+msgstr ""
+
+#. Id: 54581-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (54547-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#: 54581-Dialogue.mod:1
+msgid "I'm already on it boss, /LAUGH/!"
+msgstr ""
+
+#. Id: 54548-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54581-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. Id: 65019-october 17.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54581-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54548-Dialogue.mod:0 65019-october?17.mod:0
+msgid "Oh ain't nothing better than bashin' in /RACISTNAME/ skulls!"
+msgstr ""
+
+#. Id: 54548-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (54581-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. Id: 65019-october 17.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (54581-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54548-Dialogue.mod:1 65019-october?17.mod:1
+msgid "Ain't nothing better than /STABBIN/ freaks like you, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54551-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54545-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54551-Dialogue.mod:0
+msgid "You can't run from us, /RACISTNAME/! Get over 'ere!"
+msgstr ""
+
+#. Id: 54551-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (54545-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54551-Dialogue.mod:1
+msgid "Yeah, just you try runnin', /RACISTNAME/! We'll get you and teach you to stay away from the UC!"
+msgstr ""
+
+#. Id: 54551-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (54545-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54551-Dialogue.mod:2
+msgid "Run all you want, /RACISTNAME/! But we'll show you not to intrude on UC territory!"
+msgstr ""
+
+#. Id: 54551-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (54545-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54551-Dialogue.mod:3
+msgid "Tryin' to run, eh? You won't get away from us, /RACISTNAME/! We've still got a lesson to teach you..."
+msgstr ""
+
+#. Id: 54538-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54538-Dialogue.mod:0
+msgid "I don't like bug men... Know what I do when I don't like something?"
+msgstr ""
+
+#. Id: 54538-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54538-Dialogue.mod:1
+msgid "I don't like peg legs... Know what I do when I don't like something?"
+msgstr ""
+
+#. Id: 54538-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54538-Dialogue.mod:2
+msgid "I dislike twig men... You know what I do if there's something I don't like?"
+msgstr ""
+
+#. Id: 54540-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54540-Dialogue.mod:0
+msgid "I make it disappear! Poof! But how are we gonna make YOU disappear, eh?"
+msgstr ""
+
+#. Id: 54540-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54540-Dialogue.mod:1
+msgid "I make it disappear!... Question is, how are we gonna make YOU disappear, eh, /RACISTNAME/?"
+msgstr ""
+
+#. Id: 54555-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54554-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54555-Dialogue.mod:0
+msgid "Ohh I can think of a couple ways. Ain't gonna feel too nice though, that's for sure, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 54555-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (54554-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54555-Dialogue.mod:1
+msgid "I can think of plenty o' ways, don't you worry. Ain't gonna be pretty though, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 54557-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54556-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54557-Dialogue.mod:0
+msgid "Not like it's got any feelin's anyway, it's just a brainless /RACISTNAME/ drone..."
+msgstr ""
+
+#. Id: 54557-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (54556-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54557-Dialogue.mod:1
+msgid "Everyone knows bug men don't have feelings anyway. They're just brainless drones..."
+msgstr ""
+
+#. Id: 54558-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54557-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54558-Dialogue.mod:0
+msgid "'Course. An' I want it out of my desert! Make it disappear, boys..."
+msgstr ""
+
+#. Id: 54559-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (54558-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#: 54559-Dialogue.mod:0
+msgid "Bleed!... Or don't bleed.. Whatever the fuck it is you bug freaks do!"
+msgstr ""
+
+#. Id: 65023-october 17.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (54558-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 65023-october?17.mod:0
+msgid "You're gonna bleed!... Or not bleed.."
+msgstr ""
+
+#. Id: 65024-october 17.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65023-october 17.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#: 65024-october?17.mod:0
+msgid "Whatever the fuck it is you bug freaks do!"
+msgstr ""
+
+#. Id: 42629-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Scorchlander
+#: 42629-Dialogue.mod:0
+msgid "/OI/, /RACISTNAME/! "
+msgstr ""
+
+#. Id: 42635-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42629-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 42635-Dialogue.mod:0
+msgid "Where's your queen?"
+msgstr ""
+
+#. Id: 42635-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42629-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 42635-Dialogue.mod:1
+msgid "Where's your precious queen now, eh?"
+msgstr ""
+
+#. Id: 42636-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42635-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 42636-Dialogue.mod:0
+msgid "Oh yeah, that's right. I forgot, she's IMAGINARY! Ha!"
+msgstr ""
+
+#. Id: 42637-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54572-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42637-Dialogue.mod:0
+msgid "Now, freak queens aside, do one, /RACISTNAME/! You ain't welcome here!"
+msgstr ""
+
+#. Id: 54576-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54576-Dialogue.mod:0
+msgid "Bleed the /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54576-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (42637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54576-Dialogue.mod:1
+msgid "Get 'im! Take the /RACISTNAME/ down!"
+msgstr ""
+
+#. Id: 54576-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (42637-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54576-Dialogue.mod:2
+msgid "Show 'im the exit... But first, show 'im pain!"
+msgstr ""
+
+#. Id: 54542-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54536-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54542-Dialogue.mod:0
+msgid "Comin' here /RACIST_CLAIM1/ our /RACIST_CLAIM2/ no doubt, eh..."
+msgstr ""
+
+#. Id: 42631-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42853-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42631-Dialogue.mod:0
+msgid "Go back to your squat, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42631-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42853-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42631-Dialogue.mod:1
+msgid "Go back to your mud hive, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42631-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42853-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42631-Dialogue.mod:2
+msgid "Get out of our land, go back to your squat, /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42632-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42631-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42632-Dialogue.mod:0
+msgid "You're not welcome 'round here!"
+msgstr ""
+
+#. Id: 42632-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (42631-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42632-Dialogue.mod:1
+msgid "You ain't welcome in /THISPLACE/!"
+msgstr ""
+
+#. Id: 42632-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (42631-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42632-Dialogue.mod:2
+msgid "We don't want you in the United Cities! You ain't welcome!"
+msgstr ""
+
+#. Id: 42632-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (42631-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42632-Dialogue.mod:3
+msgid "We got enough of you freaks taking over our cities already! Go home!"
+msgstr ""
+
+#. Id: 42633-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42632-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42633-Dialogue.mod:0
+msgid "/DIRTY/ tribal! Get 'im!"
+msgstr ""
+
+#. Id: 65028-october 17.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42634-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 65028-october?17.mod:0
+msgid "Later... Later, you'll see..."
+msgstr ""
+
+#. Id: 65028-october 17.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (42634-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 65028-october?17.mod:1
+msgid "Be seein' you later, /RACISTNAME/..."
+msgstr ""
+
+#. Id: 65028-october 17.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (42634-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 65028-october?17.mod:2
+msgid "Ain't finished with you, /RACISTNAME/..."
+msgstr ""
+
+#. Id: 54560-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54560-Dialogue.mod:0
+msgid "Did you see that? Did that /RACISTNAME/ just give me the ol' stink eye?"
+msgstr ""
+
+#. Id: 54560-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54560-Dialogue.mod:1
+msgid "/WTF/! Did you all see that? That /RACISTNAME/ just gave me the stink eye!"
+msgstr ""
+
+#. Id: 54560-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54560-Dialogue.mod:2
+msgid "Did you all see that? That /RACISTNAME/ just scowled right at me!"
+msgstr ""
+
+#. Id: 54560-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54560-Dialogue.mod:3
+msgid "Did you all see that? That /RACISTNAME/ just glared right at me!"
+msgstr ""
+
+#. Id: 54560-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 54560-Dialogue.mod:4
+msgid "/WTF/! Did youl see the dirty look that /RACISTNAME/ just gave me?!"
+msgstr ""
+
+#. Id: 54562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54561-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54562-Dialogue.mod:0
+msgid "Eh? Nah, /HE/ was just mindin- "
+msgstr ""
+
+#. Id: 54562-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54561-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54562-Dialogue.mod:1
+msgid "Eh, /HE/ didn't even look over-"
+msgstr ""
+
+#. Id: 54562-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (54561-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 54562-Dialogue.mod:2
+msgid "Nah, can't have, /HE/ wasn't even-"
+msgstr ""
+
+#. Id: 54564-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54564-Dialogue.mod:0
+msgid "Shut up, /NAME/!"
+msgstr ""
+
+#. Id: 54564-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (54562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54564-Dialogue.mod:1
+msgid "Pipe down, /NAME/! Wasn't askin' you!"
+msgstr ""
+
+#. Id: 54564-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (54562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#: 54564-Dialogue.mod:2
+msgid "Did I ask YOU, /NAME/?... Shut up!"
+msgstr ""
+
+#. Id: 54566-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54565-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54566-Dialogue.mod:0
+msgid "I saw it, boss! Them stick men be gettin' sassy these days..."
+msgstr ""
+
+#. Id: 54566-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (54565-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54566-Dialogue.mod:1
+msgid "I saw it, /HE/ gave you a real good eyeballin', that /RACISTNAME/ /INSULT/!"
+msgstr ""
+
+#. Id: 54566-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (54565-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54566-Dialogue.mod:2
+msgid "I saw it, boss. Gave you a real ballsy staring down, can't let /HIM/ get away with that..."
+msgstr ""
+
+#. Id: 54567-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54567-Dialogue.mod:0
+msgid "/RACIST_CLAIM1/ our /RACIST_CLAIM2/... givin' me the stink eye... what next?!"
+msgstr ""
+
+#. Id: 54567-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (54566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54567-Dialogue.mod:1
+msgid " /RACIST_CLAIM1/ our /RACIST_CLAIM2/... then givin' me the eyeball... what next?!"
+msgstr ""
+
+#. Id: 54568-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54567-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54568-Dialogue.mod:0
+msgid "Gettin' their /RACISTNAME/ blood all over our threads, no doubt! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 54568-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (54567-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54568-Dialogue.mod:1
+msgid "Bleedin' their /RACISTNAME/ pus all over our threads once we finish /STABBIN/ 'em! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 54569-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (54568-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54569-Dialogue.mod:0
+msgid "Get 'im! Make 'im pay for /HIS/ insult!"
+msgstr ""
+
+#. Id: 54583-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 54583-Dialogue.mod:0
+msgid "Oh, aye. Another /RACISTNAME/ paying the United Cities a 'lil visit, eh?"
+msgstr ""
+
+#. Id: 54583-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 54583-Dialogue.mod:1
+msgid "Oh, eh. Got us a /RACISTNAME/ fresh outta the bone hovel, have we?"
+msgstr ""
+
+#. Id: 54583-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 54583-Dialogue.mod:2
+msgid "Well, what do we have here? More /RACISTNAME/s comin' to take over the United Cities, eh?"
+msgstr ""
+
+#. Id: 54583-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 54583-Dialogue.mod:3
+msgid "Who's this then? More /RACISTNAME/s comin' and /RACIST_CLAIM1/ our /RACIST_CLAIM2/, eh?"
+msgstr ""
+
+#. Id: 42638-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 42638-Dialogue.mod:0
+msgid "Nice horns, /RACISTNAME/. Good for hangin' washin' on I guess, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 42638-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (54583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 42638-Dialogue.mod:1
+msgid "We don't want you here, /RACISTNAME/... /RACIST_CLAIM1/ our /GODDAMN/ /RACIST_CLAIM2/..."
+msgstr ""
+
+#. Id: 42638-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (54583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 42638-Dialogue.mod:2
+msgid "Well, horns ain't welcome 'round 'ere! Didn't anybody tell ya?"
+msgstr ""
+
+#. Id: 42638-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (54583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 42638-Dialogue.mod:3
+msgid "You ain't one of us, /RACISTNAME/. And horns are for goats... You a goat? Eh, goat /MAN/?"
+msgstr ""
+
+#. Id: 42638-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (54583-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Target Race(s): Shek
+#: 42638-Dialogue.mod:5
+msgid "Feelin' HORNY, are we? /LAUGH/, /STUPID/ /RACISTNAME/..."
+msgstr ""
+
+#. Id: 42639-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42639-Dialogue.mod:0
+msgid "You gonna fight me, primitive? Thought that's what /RACISTNAME/s do?"
+msgstr ""
+
+#. Id: 42639-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42639-Dialogue.mod:1
+msgid "You gonna defend your 'honour', or what? You /RACISTNAME/s ain't so tough!"
+msgstr ""
+
+#. Id: 42639-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (42638-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42639-Dialogue.mod:2
+msgid "Come on, you gonna /BRAWL/ with me, /RACISTNAME/? That's all you /RACISTNAME/s are good for, ain't it?"
+msgstr ""
+
+#. Id: 42640-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54605-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42640-Dialogue.mod:0
+msgid "/QUICKLAUGH/. Ain't nothin' but a puffed up /DIRTY/ /RACISTNAME/!"
+msgstr ""
+
+#. Id: 42640-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (54605-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 42640-Dialogue.mod:1
+msgid "/TCH/... Ain't nothin' but a stuck up /DIRTY/ /RACISTNAME/."
+msgstr ""
+
+#. Id: 54606-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42640-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54606-Dialogue.mod:0
+msgid "'Bout time someone put these /RACISTNAME/ savages in their place for good!"
+msgstr ""
+
+#. Id: 54606-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (42640-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54606-Dialogue.mod:1
+msgid "Someone oughta show these /RACISTNAME/ savages where they stand if you ask me!"
+msgstr ""
+
+#. Id: 54604-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54606-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54604-Dialogue.mod:0
+msgid "Come on then, get your sword out, WARRIOR! "
+msgstr ""
+
+#. Id: 54604-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (54606-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54604-Dialogue.mod:1
+msgid "Come on then, 'raise your sword', WARRIOR! /LAUGH/!"
+msgstr ""
+
+#. Id: 54604-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (54606-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54604-Dialogue.mod:2
+msgid "Come on then, get your sword out, WARRIOR! Fight me!"
+msgstr ""
+
+#. Id: 42854-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56891-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 42854-Dialogue.mod:0
+msgid "Wooo, don't make the big bad /RACISTNAME/ angry... "
+msgstr ""
+
+#. Id: 42854-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (56891-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#: 42854-Dialogue.mod:1
+msgid "Ooohoo, don't make the big tough /RACISTNAME/ mad..."
+msgstr ""
+
+#. Id: 54586-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54586-Dialogue.mod:0
+msgid "Ohhh! Don't anger the big bad Shek! Don't hurt me big bad /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54586-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54586-Dialogue.mod:1
+msgid "Ohhh, wait! Don't make the big bad Shek mad! Oohoo don't hurt me scary Shek!"
+msgstr ""
+
+#. Id: 54586-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (54585-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54586-Dialogue.mod:2
+msgid "Whoooa, don't make the big bad Shek angry! You know what happens when they get angry!"
+msgstr ""
+
+#. Id: 54588-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54587-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54588-Dialogue.mod:0
+msgid "The big bad /RACISTNAME/'s gonna get us!"
+msgstr ""
+
+#. Id: 54588-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (54587-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54588-Dialogue.mod:1
+msgid "Ohhh, the big bad Shek's gonna get us!"
+msgstr ""
+
+#. Id: 54588-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (54587-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54588-Dialogue.mod:2
+msgid "Ohhh, the big bad Shek's gonna beat us up!"
+msgstr ""
+
+#. Id: 54588-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (54587-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54588-Dialogue.mod:3
+msgid "Ohooo, the /RACISTNAME/'s gonna beat us all up!"
+msgstr ""
+
+#. Id: 54588-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (54587-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54588-Dialogue.mod:4
+msgid "The big bad /RACISTNAME/'s gonna spike us all!"
+msgstr ""
+
+#. Id: 54589-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54589-Dialogue.mod:0
+msgid "Did /HE/ just look at us? Eeeek, think I'm gonna piss me pants!"
+msgstr ""
+
+#. Id: 54589-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (54588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54589-Dialogue.mod:1
+msgid "Oh mah gerd! /HE/ just looked at us! Squeeee, I'm so scared!"
+msgstr ""
+
+#. Id: 54589-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (54588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54589-Dialogue.mod:2
+msgid "Eeek, /HE/ just looked right at us! Think I nearly wet myself!"
+msgstr ""
+
+#. Id: 54590-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54589-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54590-Dialogue.mod:0
+msgid "Oh nooooo, lord save us from the mighty /RACISTNAME/!"
+msgstr ""
+
+#. Id: 54590-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (54589-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54590-Dialogue.mod:1
+msgid "Noooo, somebody save us from the big bad warrior Shek!"
+msgstr ""
+
+#. Id: 54591-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54590-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54591-Dialogue.mod:0
+msgid "/LAUGH/. Primitives."
+msgstr ""
+
+#. Id: 54591-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (54590-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54591-Dialogue.mod:1
+msgid "/LAUGH/. Primitive /RACISTNAME/s..."
+msgstr ""
+
+#. Id: 54592-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (54591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54592-Dialogue.mod:0
+msgid "Ain't even worth a scrap."
+msgstr ""
+
+#. Id: 54592-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (54591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54592-Dialogue.mod:2
+msgid "Ain't even worth a scuffle."
+msgstr ""
+
+#. Id: 54595-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54594-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54595-Dialogue.mod:0
+msgid "We don't need ruffians like you takin' over our cities, /RACISTNAME/..."
+msgstr ""
+
+#. Id: 54595-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (54594-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54595-Dialogue.mod:1
+msgid "We don't need savages like you takin' over our /RACIST_CLAIM2/..."
+msgstr ""
+
+#. Id: 54596-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54595-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54596-Dialogue.mod:0
+msgid "That's what you /RACISTNAME/ barbarians do, right? Invade and plunder. Beat and murder..."
+msgstr ""
+
+#. Id: 54596-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (54595-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54596-Dialogue.mod:1
+msgid "That's what you /RACISTNAME/ 'warlords' do, right? Invade... pillage... plunder..."
+msgstr ""
+
+#. Id: 54598-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54597-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54598-Dialogue.mod:0
+msgid "Well how about we see how tough the /RACISTNAME/ is when /HEIS/ outnumbered, eh?"
+msgstr ""
+
+#. Id: 54599-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54598-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Racist attack patriotic bandits
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 54599-Dialogue.mod:0
+msgid "/QUICKLAUGH/, sounds like fun to me!"
+msgstr ""
+

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40950-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 40950-Dialogue.mod:0
+msgid "Unlock me! The Holy Nation needs me!"
+msgstr ""
+
+#. Id: 40950-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 40950-Dialogue.mod:1
+msgid "There's no time to waste! Unlock me!"
+msgstr ""
+
+#. Id: 40956-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#: 40956-Dialogue.mod:0
+msgid "Okran's retribution will find you, dark one!"
+msgstr ""
+
+#. Id: 40956-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#: 40956-Dialogue.mod:1
+msgid "Your fate has already been sealed by Okran"
+msgstr ""
+
+#. Id: 40954-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 40954-Dialogue.mod:0
+msgid "... What's your game, Skeleton?"
+msgstr ""
+
+#. Id: 40954-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix unlock attempt
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 40954-Dialogue.mod:1
+msgid "... I don't need your help! You won't fool me, Skeleton..."
+msgstr ""
+

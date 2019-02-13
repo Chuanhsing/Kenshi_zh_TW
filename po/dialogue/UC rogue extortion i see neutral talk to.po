@@ -1,0 +1,913 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 95902-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60589-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 95902-Dialogue.mod:0 60589-Dialogue.mod:0
+msgid "Hoy, hope you got enough food here for the rest of us. It's a hungry job guarding these lands from bandits, you know?"
+msgstr ""
+
+#. Id: 95902-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60589-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#: 95902-Dialogue.mod:1 60589-Dialogue.mod:1
+msgid "It's a tiring job, guarding these lands, you know... Rogue slaves, hungry wolves, they all breed like rats... But somebody's got to do it. We don't want the outlands littered with devoured outposts, eh?"
+msgstr ""
+
+#. Id: 95902-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95902-Dialogue.mod:2
+msgid "It's hungry work patrolling the outlands, keeping outposts like your's safe, you know?"
+msgstr ""
+
+#. Id: 95903-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
+#: 95903-Dialogue.mod:0
+msgid "Then here's a gift, for your hard work."
+msgstr ""
+
+#. Id: 95904-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95904-Dialogue.mod:0
+msgid "Good for you, /BOY/. Keep the gifts coming and I'll be sure to direct any savages away from your little abode, eh?"
+msgstr ""
+
+#. Id: 95905-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60596-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95905-Dialogue.mod:0 60596-Dialogue.mod:0
+msgid "Respect the army."
+msgstr ""
+
+#. Id: 95905-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (95904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60596-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (61187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95905-Dialogue.mod:1 60596-Dialogue.mod:1
+msgid "Respect the Empire."
+msgstr ""
+
+#. Id: 95905-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (95904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60608-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (60597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 60596-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (61187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95905-Dialogue.mod:2 60608-Dialogue.mod:1 60596-Dialogue.mod:2
+msgid "*Wink*"
+msgstr ""
+
+#. Id: 95907-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95907-Dialogue.mod:0
+msgid "Well? Got any gifts of appreciation for your local Empire guard, dreg?"
+msgstr ""
+
+#. Id: 95907-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (95906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95907-Dialogue.mod:1
+msgid "Silence? Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, dreg. Gonna show me some appreciation, a donation? Or do I need to teach you fear?"
+msgstr ""
+
+#. Id: 95908-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95907-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95908-Dialogue.mod:0
+msgid "Me, respect you? No. You show ME some respect."
+msgstr ""
+
+#. Id: 95946-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61210-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61209-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95946-Dialogue.mod:0 61210-Dialogue.mod:0
+msgid "Who the-... Then if that's how you wanna play, that's how we'll play."
+msgstr ""
+
+#. Id: 95909-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95907-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61212-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60614-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95909-Dialogue.mod:0 61212-Dialogue.mod:0
+msgid "Dreg?.. Do you even know who I am!?"
+msgstr ""
+
+#. Id: 95910-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 65918-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65915-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. Id: 61213-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 56291-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56288-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 95910-Dialogue.mod:0 65918-Dialogue.mod:0 61213-Dialogue.mod:0 56291-Dialogue.mod:0
+msgid "Enlighten me."
+msgstr ""
+
+#. Id: 95911-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. Id: 61214-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 95911-Dialogue.mod:0 61214-Dialogue.mod:0
+msgid "I'm a noble lord of the Empire!"
+msgstr ""
+
+#. Id: 95912-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61222-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95912-Dialogue.mod:0 61222-Dialogue.mod:0
+msgid "/LAUGH/, don't look much like a noble to me! /QUICKLAUGH/, just look at this dump! It looks like a starver shanty town... You think a noble would live in a shack like this?"
+msgstr ""
+
+#. Id: 95914-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (95913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61230-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61229-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95914-Dialogue.mod:0 61230-Dialogue.mod:0
+msgid "Crush /HIM/. Beat /HIM/ bloody for lying to me!"
+msgstr ""
+
+#. Id: 95915-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>2, Tag: -1
+#. Id: 61223-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>2, Tag: -1
+#: 95915-Dialogue.mod:0 61223-Dialogue.mod:0
+msgid "I serve the nobles, I know the face of every last one of 'em... and you're not one of 'em. So, just for lying to me, I'm gonna have to teach you a lesson..."
+msgstr ""
+
+#. Id: 95919-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61233-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61225-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95919-Dialogue.mod:0 61233-Dialogue.mod:0
+msgid "I... I'm sorry, /SIR/, please forgive me!"
+msgstr ""
+
+#. Id: 95920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 61215-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 95920-Dialogue.mod:0 61215-Dialogue.mod:0
+msgid "I'm a noble lady of the Empire!"
+msgstr ""
+
+#. Id: 95923-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61217-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95923-Dialogue.mod:0 61217-Dialogue.mod:0
+msgid "I'm the Bugmaster slayer!"
+msgstr ""
+
+#. Id: 95924-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95934-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95935-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95936-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61237-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61217-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 61252-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61218-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 61244-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61219-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 95898-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95924-Dialogue.mod:0 95934-Dialogue.mod:0 95935-Dialogue.mod:0 95936-Dialogue.mod:0 61237-Dialogue.mod:0 61252-Dialogue.mod:0 61244-Dialogue.mod:0 95898-Dialogue.mod:0
+msgid "[They look to their comrade. They exchange worried nods]..."
+msgstr ""
+
+#. Id: 95925-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61239-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95925-Dialogue.mod:0 61239-Dialogue.mod:0
+msgid "Well, uh... Bugmaster slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
+msgstr ""
+
+#. Id: 95926-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (95925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61240-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95926-Dialogue.mod:0 61240-Dialogue.mod:0
+msgid "Sorry... /SIR/... Good day to you."
+msgstr ""
+
+#. Id: 95927-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61238-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61217-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95927-Dialogue.mod:0 61238-Dialogue.mod:0
+msgid "Bugmaster slayer? That was one man, try taking on a samurai army! /QUICKLAUGH/, you're just a has-been now..."
+msgstr ""
+
+#. Id: 95928-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61242-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61238-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95928-Dialogue.mod:0 61242-Dialogue.mod:0
+msgid "Show the has-been who's champion these days!"
+msgstr ""
+
+#. Id: 95929-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61218-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95929-Dialogue.mod:0 61218-Dialogue.mod:0
+msgid "I'm the /MEMAN/ who took down the Phoenix!"
+msgstr ""
+
+#. Id: 95937-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61253-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61252-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95937-Dialogue.mod:0 61253-Dialogue.mod:0
+msgid "Well, uh... Phoenix slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
+msgstr ""
+
+#. Id: 95938-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61254-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61218-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95938-Dialogue.mod:0 61254-Dialogue.mod:0
+msgid "Phoenix slayer? That was one man, try taking on a samurai army! /QUICKLAUGH/, you're just a has-been now..."
+msgstr ""
+
+#. Id: 95930-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61219-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95930-Dialogue.mod:0 61219-Dialogue.mod:0
+msgid "I'm the /MEMAN/ who took down the Stone Golem!"
+msgstr ""
+
+#. Id: 95939-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95935-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61245-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61244-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95939-Dialogue.mod:0 61245-Dialogue.mod:0
+msgid "Well, uh... Queen slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
+msgstr ""
+
+#. Id: 95940-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61247-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61219-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95940-Dialogue.mod:0 61247-Dialogue.mod:0
+msgid "Queen slayer? That was one woman, try taking on a samurai army! /QUICKLAUGH/, you're just a has-been now..."
+msgstr ""
+
+#. Id: 95931-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61220-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95931-Dialogue.mod:0 61220-Dialogue.mod:0
+msgid "I'm your worst nightmare."
+msgstr ""
+
+#. Id: 95941-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61248-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61220-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95941-Dialogue.mod:0 61248-Dialogue.mod:0
+msgid "Pah!... /LAUGH/!"
+msgstr ""
+
+#. Id: 95941-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (95931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61248-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (61220-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95941-Dialogue.mod:1 61248-Dialogue.mod:1
+msgid "... Cocky for a dreg, aren't you?"
+msgstr ""
+
+#. Id: 95942-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61249-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95942-Dialogue.mod:0 61249-Dialogue.mod:0
+msgid "Beat /HIM/ down."
+msgstr ""
+
+#. Id: 95932-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61221-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95932-Dialogue.mod:0 61221-Dialogue.mod:0
+msgid "Draw your sword and I'll show you..."
+msgstr ""
+
+#. Id: 95943-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61250-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61221-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95943-Dialogue.mod:0 61250-Dialogue.mod:0
+msgid "A fool's move... Then show me what you've got!"
+msgstr ""
+
+#. Id: 95933-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95910-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95897-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95933-Dialogue.mod:0 95897-Dialogue.mod:0
+msgid "I'm the /MEMAN/ who took down Tinfist!"
+msgstr ""
+
+#. Id: 95944-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95900-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95944-Dialogue.mod:0 95900-Dialogue.mod:0
+msgid "Well, uh... Tinfist slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
+msgstr ""
+
+#. Id: 95945-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 95899-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95945-Dialogue.mod:0 95899-Dialogue.mod:0
+msgid "Tinfist slayer? That was one skelly, try taking on a samurai army! /QUICKLAUGH/, you're just a has-been now..."
+msgstr ""
+
+#. Id: 95947-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60602-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95947-Dialogue.mod:0 60602-Dialogue.mod:0
+msgid "Get to the point. What do you want?"
+msgstr ""
+
+#. Id: 95950-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95950-Dialogue.mod:0
+msgid "Some appreciation... But more importantly, some respect, /WORM/. How about you try being a little more polite to your protectors? A donation wouldn't go amiss either..."
+msgstr ""
+
+#. Id: 95950-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (95947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95950-Dialogue.mod:1
+msgid "A bit of appreciation for your protectors sweating in the outlands. A donation."
+msgstr ""
+
+#. Id: 95952-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95950-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#. Id: 60613-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60612-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 95952-Dialogue.mod:0 60613-Dialogue.mod:0
+msgid "I can't afford a donation..."
+msgstr ""
+
+#. Id: 95953-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95953-Dialogue.mod:0
+msgid "... Well ain't that disappointing. Then I suggest you /LICKMYBOOTS/ and show a little more gratitude to me to make up for the lack of gifts... "
+msgstr ""
+
+#. Id: 95956-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95956-Dialogue.mod:0
+msgid "Good /BOY/.... Now, make sure you've got some spare Cats next time, eh? Ain't got a lot of patience round here for deadbeats..."
+msgstr ""
+
+#. Id: 95959-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95953-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 9908-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9905-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 15447-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 9946-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9938-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 95959-Dialogue.mod:0 9908-Dialogue.mod:0 15447-Dialogue.mod:0 9946-Dialogue.mod:0
+msgid "(Spit in their face)"
+msgstr ""
+
+#. Id: 95960-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95960-Dialogue.mod:0
+msgid "You little-..."
+msgstr ""
+
+#. Id: 95960-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (95959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95960-Dialogue.mod:1
+msgid "And now I'm pissed."
+msgstr ""
+
+#. Id: 95961-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95960-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 61196-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95961-Dialogue.mod:0 61196-Dialogue.mod:0
+msgid "Allow me to teach you some respect!"
+msgstr ""
+
+#. Id: 95963-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95963-Dialogue.mod:0
+msgid "No? Nothing?..."
+msgstr ""
+
+#. Id: 95963-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (95962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95963-Dialogue.mod:1
+msgid "... Not gonna bite, eh?"
+msgstr ""
+
+#. Id: 95963-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (95962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95963-Dialogue.mod:2
+msgid "Well. Guess that's my entertainment over from you..."
+msgstr ""
+
+#. Id: 95957-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (95952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95957-Dialogue.mod:0
+msgid "Well ain't that disappointing. People don't make a habit of setting up shop on Empire land when they don't even have a Cat to their name, /PEASANT/. And I certainly didn't wander all the way over here to your shithole outpost to walk away with nothing..."
+msgstr ""
+
+#. Id: 95958-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95958-Dialogue.mod:0
+msgid "If you can't look after your local guards... well, I can't promise we'll look after you."
+msgstr ""
+
+#. Id: 96044-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 96044-Dialogue.mod:0
+msgid "Useless dreg."
+msgstr ""
+
+#. Id: 96042-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (95957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 96042-Dialogue.mod:0
+msgid "Looks like we'll have to search for a donation ourselves..."
+msgstr ""
+
+#. Id: 95964-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 62164-__additions.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95964-Dialogue.mod:0 62164-__additions.mod:0
+msgid "And thank you for the hard work."
+msgstr ""
+
+#. Id: 95965-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 62165-__additions.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62164-__additions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95965-Dialogue.mod:0 62165-__additions.mod:0
+msgid "How about a tip to back up that appreciation, eh, /PEASANT/?"
+msgstr ""
+
+#. Id: 95965-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (95964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 62165-__additions.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (62164-__additions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95965-Dialogue.mod:1 62165-__additions.mod:1
+msgid "How about a gift to show your thanks, eh, /PEASANT/?"
+msgstr ""
+
+#. Id: 95966-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (95965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 62166-__additions.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62165-__additions.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 61905-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 95966-Dialogue.mod:0 62166-__additions.mod:0 61905-Dialogue.mod:0
+msgid "I'm not paying you anything."
+msgstr ""
+
+#. Id: 95967-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60603-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95967-Dialogue.mod:0 60603-Dialogue.mod:0
+msgid "(Roll your eyes)"
+msgstr ""
+
+#. Id: 95967-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 60603-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95967-Dialogue.mod:1 60603-Dialogue.mod:1
+msgid "So what. What do you want, a medal?"
+msgstr ""
+
+#. Id: 95967-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (95902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 9867-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 60603-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (60589-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 95967-Dialogue.mod:2 9867-Dialogue.mod:2 60603-Dialogue.mod:2
+msgid "Do I look like I care?"
+msgstr ""
+
+#. Id: 95968-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95967-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#: 95968-Dialogue.mod:0
+msgid "Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, /PEASANT/. Gonna show me some appreciation, a donation? Or do I need to teach you how to fear?"
+msgstr ""
+

@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1534210-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534210-Dialogue.mod:0
+msgid "Make it quick, servant, I'm busy. What do you want?"
+msgstr ""
+
+#. Id: 1534211-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534210-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534211-Dialogue.mod:0
+msgid "Servant? I'm no man's servant."
+msgstr ""
+
+#. Id: 1534216-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534219-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534220-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534221-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534222-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534216-Dialogue.mod:0 1534219-Dialogue.mod:0 1534220-Dialogue.mod:0 1534221-Dialogue.mod:0 1534222-Dialogue.mod:0
+msgid "[He stammers and shifts nervously]"
+msgstr ""
+
+#. Id: 1534217-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534216-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534217-Dialogue.mod:0
+msgid "I suppose you... have a name, don't you... Very well, /YOURNAME/, what is it?"
+msgstr ""
+
+#. Id: 1534223-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534217-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534223-Dialogue.mod:0
+msgid "I..."
+msgstr ""
+
+#. Id: 1534224-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534223-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534224-Dialogue.mod:0
+msgid "EEEEECH! [He flinches]"
+msgstr ""
+
+#. Id: 1534225-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534224-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534225-Dialogue.mod:0
+msgid "*Ahem* Excuse me, I thought I saw a spider for a second. Just... keep your hands away from your sword in my presence, understood?"
+msgstr ""
+
+#. Id: 1534240-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534225-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534240-Dialogue.mod:0
+msgid "Yes, Lord Tengu."
+msgstr ""
+
+#. Id: 1534247-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534247-Dialogue.mod:0
+msgid "*Sigh*..."
+msgstr ""
+
+#. Id: 1534241-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534225-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534241-Dialogue.mod:0
+msgid "(Glare at him)"
+msgstr ""
+
+#. Id: 1534244-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534241-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534244-Dialogue.mod:0
+msgid " [He dabs a handkerchief at a bead of sweat on his forehead]"
+msgstr ""
+
+#. Id: 1534242-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534225-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534242-Dialogue.mod:0
+msgid "I do what I want."
+msgstr ""
+
+#. Id: 1534243-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534242-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534243-Dialogue.mod:0
+msgid "... Of course you do... [He dabs a handkerchief at a bead of sweat on his forehead]"
+msgstr ""
+
+#. Id: 1534245-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1534243-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534245-Dialogue.mod:0
+msgid "Now, how can I help you, /YOURNAME/?"
+msgstr ""
+
+#. Id: 1534246-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1534245-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534246-Dialogue.mod:0
+msgid "Nevermind, I don't need your help."
+msgstr ""
+
+#. Id: 1534218-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534211-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534218-Dialogue.mod:0
+msgid "In my Empire, you are my servant! I'm losing patience, /BOY2/..."
+msgstr ""
+
+#. Id: 1534228-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534227-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534228-Dialogue.mod:0
+msgid "Oh, off with you! You're boring!"
+msgstr ""
+
+#. Id: 1534212-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534210-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534346-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534284-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to Koin ally
+#. Id: 1534292-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534212-Dialogue.mod:0 1534346-Dialogue.mod:0 1534292-Dialogue.mod:0
+msgid "I want to destroy the Holy Nation."
+msgstr ""
+
+#. Id: 1534229-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534229-Dialogue.mod:0
+msgid "The Holy Nation? Kill them all! Pain in the ass god chanters, they need to learn where they stand!-"
+msgstr ""
+
+#. Id: 1534230-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534230-Dialogue.mod:0
+msgid "That's something we can both agree on."
+msgstr ""
+
+#. Id: 1534234-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534230-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534234-Dialogue.mod:0
+msgid "[He looks around the room at his expectant guards and sinks back into his throne]"
+msgstr ""
+
+#. Id: 1534235-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1534234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534235-Dialogue.mod:0
+msgid "But bah! A fool I would be to involve myself in that petty little threeway between tribal bone warriors, flame worshipping kooks and yet another clan of ninja bandits..."
+msgstr ""
+
+#. Id: 1534237-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534235-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534237-Dialogue.mod:0
+msgid "You don't think I have enough ninjas to deal with in this desert? Leave the Holy Nation where they are, they act as a nice little peaceable buffer between us and those bone loonies."
+msgstr ""
+
+#. Id: 1534257-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1534237-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534257-Dialogue.mod:0
+msgid "Take down that inquisitor Vlahahlena and push them back at Okran's Shield, remind them who rules the world and take that lovely little defensive position of theirs. I'm sure they'll start sticking to themselves again and then we don't have to deal with those bloddthirsty boneheads knocking at our gates."
+msgstr ""
+
+#. Id: 1534258-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1534257-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#. Id: 1534261-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Koin interrupt crowd trigger
+#: 1534258-Dialogue.mod:0 1534261-Dialogue.mod:0
+msgid "It can be your gift to me."
+msgstr ""
+
+#. Id: 1534238-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1534235-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534238-Dialogue.mod:0
+msgid "You think I want to deal with more ninjas after I've just cleaned my hands of Tinfist? Leave the Holy Nation where they are, they act as a nice little peaceable buffer between us and those bone loonies."
+msgstr ""
+
+#. Id: 1534231-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534231-Dialogue.mod:0
+msgid "True wisdom you speak, Lord Tengu."
+msgstr ""
+
+#. Id: 1534232-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#. Id: 47983-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 1534232-Dialogue.mod:0 47983-Dialogue.mod:0
+msgid "Indeed."
+msgstr ""
+
+#. Id: 1534233-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534229-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534233-Dialogue.mod:0
+msgid "(Nod)"
+msgstr ""
+
+#. Id: 1534213-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534210-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#. Id: 1533370-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533368-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Phoenix talk to ally tips
+#. Id: 1534293-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Yamdu talk to -- town level bug--
+#: 1534213-Dialogue.mod:0 1533370-Dialogue.mod:0 1534293-Dialogue.mod:0
+msgid "I want to destroy the Shek Kingdom."
+msgstr ""
+
+#. Id: 1534249-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534249-Dialogue.mod:0
+msgid "The Shek can't be tamed, they make terrible slaves! Stubborn boneheads. There's nothing to be gained from riling that gutters nest, leave them to the Holy Nation to deal with."
+msgstr ""
+
+#. Id: 1534250-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534249-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534250-Dialogue.mod:0
+msgid "Why would you suggest such an unprofitable thing, /YOURNAME/? Stop wasting my time..."
+msgstr ""
+
+#. Id: 1534214-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534210-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534214-Dialogue.mod:0
+msgid "I want to destroy the rebels."
+msgstr ""
+
+#. Id: 1534215-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534214-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534215-Dialogue.mod:0
+msgid "Bah! Way to sour my relaxation time, /YOURNAME/. Talk to Koin about desert cleaning duties, I don't want my apetite spoiled thinking about those filthy dregs."
+msgstr ""
+
+#. Id: 1534248-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1534215-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu ally talk to
+#: 1534248-Dialogue.mod:0
+msgid "Okay, I'll be going now."
+msgstr ""
+
+#. Id: 1534387-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1534248-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534387-Dialogue.mod:0
+msgid "About time!"
+msgstr ""
+
+#. Id: 1534239-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534239-Dialogue.mod:0
+msgid "Ah! The famed assassin of Tinfist has come to greet me! Now, make it quick, servant, I'm busy. What do you want?"
+msgstr ""
+
+#. Id: 1534251-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534251-Dialogue.mod:0
+msgid "Well done to you, /YOURNAME/! We now have a bunch of rabid bone warriors to keep out of our desert after your little cleanup in the grass plains..."
+msgstr ""
+
+#. Id: 1534252-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534251-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534252-Dialogue.mod:0
+msgid "Genius..."
+msgstr ""
+
+#. Id: 1534253-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534253-Dialogue.mod:0
+msgid "Ah! The famed Bugmaster hunter has come to greet me! Now, make it quick, servant, I'm busy. What do you want?"
+msgstr ""
+
+#. Id: 1534254-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534254-Dialogue.mod:0
+msgid "You took the fort of Vlahahlena for me, /YOURNAME/!"
+msgstr ""
+
+#. Id: 1534255-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534254-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534255-Dialogue.mod:0
+msgid "Such a good /BOY2/...."
+msgstr ""
+
+#. Id: 1534256-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534255-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534256-Dialogue.mod:0
+msgid "So much better than Eyegore."
+msgstr ""
+
+#. Id: 1534375-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534375-Dialogue.mod:0
+msgid "Ah! My most favourite of warriors!"
+msgstr ""
+
+#. Id: 1534376-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534375-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu ally talk to
+#: 1534376-Dialogue.mod:0
+msgid "You don't visit me enough, /YOURNAME/!"
+msgstr ""
+

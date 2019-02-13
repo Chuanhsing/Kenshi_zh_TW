@@ -1,0 +1,526 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44288-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44288-Dialogue.mod:0
+msgid "Alright, /MR/ bounty, I want 50 Cats! Pay up or I start yellin'!"
+msgstr ""
+
+#. Id: 44288-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44288-Dialogue.mod:1
+msgid "Here's the deal, /MR/ bounty: I want 50 Cats... 50 Cats or I start yellin'!"
+msgstr ""
+
+#. Id: 44288-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44288-Dialogue.mod:2
+msgid "A wanted /MAN/, eh? Alright, I'll keep quiet, but I want 50 Cats... or I starts yellin' and the guards start comin'!"
+msgstr ""
+
+#. Id: 44289-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44288-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 44307-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44289-Dialogue.mod:0 44307-Dialogue.mod:0
+msgid "Don't even think about fightin' the town /GUARD/s, they'll squash you like a bug. Pay up or spend your days rottin' in a jail cell!"
+msgstr ""
+
+#. Id: 44289-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44288-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 44307-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44289-Dialogue.mod:1 44307-Dialogue.mod:1
+msgid "You don't want the town /GUARD/s to get involved now, do ya? Those jail cells are mighty cramped, ya know..."
+msgstr ""
+
+#. Id: 44289-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44288-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 44307-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44305-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44289-Dialogue.mod:2 44307-Dialogue.mod:2
+msgid "Let's not let the law get involved now, eh? Those jail cells are nasty places, ya know..."
+msgstr ""
+
+#. Id: 44290-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44308-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44290-Dialogue.mod:0 44308-Dialogue.mod:0
+msgid "Fine. Now keep your trap shut!"
+msgstr ""
+
+#. Id: 44290-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44308-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44290-Dialogue.mod:1 44308-Dialogue.mod:1
+msgid "Fine. Now stay out of my way!"
+msgstr ""
+
+#. Id: 44290-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44308-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44290-Dialogue.mod:2 44308-Dialogue.mod:2
+msgid "Fine, take your bribe money and keep quiet!"
+msgstr ""
+
+#. Id: 44295-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 47813-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47797-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black Dog extortion pt 3
+#: 44295-Dialogue.mod:0 47813-Dialogue.mod:0
+msgid "Pleasure doin' business with you!"
+msgstr ""
+
+#. Id: 44295-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (44290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44295-Dialogue.mod:1
+msgid "Why, thank you, my /MAN/! My lips are sealed, heheh..."
+msgstr ""
+
+#. Id: 44295-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (44290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44295-Dialogue.mod:2
+msgid "My lips are sealed!"
+msgstr ""
+
+#. Id: 44295-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (44290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 65569-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65568-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome arrival bugmaster
+#: 44295-Dialogue.mod:3 65569-Dialogue.mod:0
+msgid "... Deal."
+msgstr ""
+
+#. Id: 44294-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (44295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44294-Dialogue.mod:1
+msgid "Your secret's safe with me."
+msgstr ""
+
+#. Id: 44294-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (44295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44294-Dialogue.mod:2
+msgid "*wink*"
+msgstr ""
+
+#. Id: 44294-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (44295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44294-Dialogue.mod:3
+msgid "It will be our 'lil secret, eh?"
+msgstr ""
+
+#. Id: 44294-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (44295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44294-Dialogue.mod:4
+msgid "I'm a /MEMAN/ of my word!"
+msgstr ""
+
+#. Id: 44291-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44309-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44291-Dialogue.mod:0 44309-Dialogue.mod:0
+msgid "Here, take it."
+msgstr ""
+
+#. Id: 44291-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44309-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44291-Dialogue.mod:1 44309-Dialogue.mod:1
+msgid "Here, just take it."
+msgstr ""
+
+#. Id: 44291-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44309-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44291-Dialogue.mod:2 44309-Dialogue.mod:2
+msgid "Then take it and let me go."
+msgstr ""
+
+#. Id: 44291-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50, Tag: -1
+#. Id: 44309-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 44291-Dialogue.mod:3 44309-Dialogue.mod:3
+msgid "Take it. Let me be on my way."
+msgstr ""
+
+#. Id: 44292-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44292-Dialogue.mod:0
+msgid "Blackmailing /RAT/! I'll pay you nothing!"
+msgstr ""
+
+#. Id: 44292-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44292-Dialogue.mod:1
+msgid "I'll pay you nothing, sneaky /INSULT/! "
+msgstr ""
+
+#. Id: 44292-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44292-Dialogue.mod:2
+msgid "Blackmailing /INSULT/! I'll pay you nothing!"
+msgstr ""
+
+#. Id: 44292-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44292-Dialogue.mod:3
+msgid "You /RAT/! I'll pay you nothing!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:0
+msgid "GUARDS! GUAAAAARDS!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:1
+msgid "GUARDS! GUARDS!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:2
+msgid "GUARDS! "
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:3
+msgid "GUARDS! OVER HERE!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:4
+msgid "GUARDS! BOUNTY! OVER HERE!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:5
+msgid "BOUNTY! /HE/ got a bounty on /HER/ head!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:6
+msgid "BOUNTY! CONVICT ON THE LOOSE!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:7
+msgid "BOUNTY! CRIMINAL! GUARDS!"
+msgstr ""
+
+#. Id: 44296-Dialogue.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (44292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44296-Dialogue.mod:8
+msgid "OVER HERE! THERE'S A BOUNTY!"
+msgstr ""
+
+#. Id: 44298-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44298-Dialogue.mod:0
+msgid "/ARG/!!! /ARG/!"
+msgstr ""
+
+#. Id: 44298-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (44296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44298-Dialogue.mod:1
+msgid "/ARG/!!! /ARG/!!!"
+msgstr ""
+
+#. Id: 44298-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (44296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44298-Dialogue.mod:2
+msgid "/ARG/!!! THIS WAY!"
+msgstr ""
+
+#. Id: 44293-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44293-Dialogue.mod:0
+msgid "Yell all you want, I'll take you down with me!"
+msgstr ""
+
+#. Id: 44293-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44293-Dialogue.mod:1
+msgid "Damn you! Snitches get cut! Yell all you want!"
+msgstr ""
+
+#. Id: 44293-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44293-Dialogue.mod:2
+msgid "I'll cut you down, snitch! Yell all you want!"
+msgstr ""
+
+#. Id: 44293-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#: 44293-Dialogue.mod:3
+msgid "Then yell! No-one can save you from my sword, /RAT/!"
+msgstr ""
+
+#. Id: 44301-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44301-Dialogue.mod:0
+msgid "Wha?... "
+msgstr ""
+
+#. Id: 44302-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#: 44302-Dialogue.mod:0
+msgid "/ARG/!! HELP!"
+msgstr ""
+
+#. Id: 44319-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50, Tag: -1
+#. Id: 44321-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<200, Tag: -1
+#. Id: 19256-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 44319-Dialogue.mod:3 44321-Dialogue.mod:3 19256-Dialogue.mod:2
+msgid "I need more Cats..."
+msgstr ""
+
+#. Id: 44305-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>2000, Tag: -1
+#: 44305-Dialogue.mod:0
+msgid "Alright, this is how it's gonna go, /MR/ bigshot convict: I know about that juicy big bounty on your head... pay me 200 Cats and I keep quiet!"
+msgstr ""
+
+#. Id: 44305-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>2000, Tag: -1
+#: 44305-Dialogue.mod:1
+msgid "Alright, /MR/ bigshot criminal, I want 200 Cats! Pay up or I start yellin'!"
+msgstr ""
+
+#. Id: 44305-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>2000, Tag: -1
+#: 44305-Dialogue.mod:2
+msgid "I know who you are /MR/ bigshot criminal! Pay me 200 Cats or I start yellin' and the town guards start runnin'!"
+msgstr ""
+

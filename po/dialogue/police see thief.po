@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12573-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#: 12573-gamedata.base:0
+msgid "Damn thief!"
+msgstr ""
+
+#. Id: 12573-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#: 12573-gamedata.base:1
+msgid "/OI/! Thief!"
+msgstr ""
+
+#. Id: 12573-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#: 12573-gamedata.base:2
+msgid "You're under arrest thief!"
+msgstr ""
+
+#. Id: 12577-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 12577-gamedata.base:0
+msgid "Stop! Thief!"
+msgstr ""
+
+#. Id: 12577-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 12577-gamedata.base:1
+msgid "Get back here thief!"
+msgstr ""
+
+#. Id: 12577-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police see thief
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 12577-gamedata.base:2
+msgid "Halt! You're under arrest! "
+msgstr ""
+

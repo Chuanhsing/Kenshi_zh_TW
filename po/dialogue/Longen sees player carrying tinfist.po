@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60938-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#: 60938-Dialogue.mod:0
+msgid "I know the sight of that rusted junk heap better than my own mother..."
+msgstr ""
+
+#. Id: 60939-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#: 60939-Dialogue.mod:0
+msgid "Take it to the police and come back to me..."
+msgstr ""
+
+#. Id: 60940-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#: 60940-Dialogue.mod:0
+msgid "You'll live like a king, you have my word. You've outdone yourself, country/MAN/. "
+msgstr ""
+
+#. Id: 1534323-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. Id: 1534324-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#. Id: 1534325-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#: 1534323-Dialogue.mod:0 1534324-Dialogue.mod:0 1534325-Dialogue.mod:0
+msgid "You'll find the prison OUTSIDE..."
+msgstr ""
+
+#. Id: 1534328-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Longen sees player carrying tinfist
+#: 1534328-Dialogue.mod:0
+msgid "I'm happy for your catch but please remove your bounty from my premises."
+msgstr ""
+

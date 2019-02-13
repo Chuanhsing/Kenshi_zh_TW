@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50663-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50663-Dialogue.mod:0
+msgid "... Rgh, cold!"
+msgstr ""
+
+#. Id: 50663-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50663-Dialogue.mod:1
+msgid "Cold!"
+msgstr ""
+
+#. Id: 50663-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50663-Dialogue.mod:2
+msgid "Uh, whoa!"
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:0
+msgid "Such cold... er, hands?... can't possibly hold Okran's warmth..."
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:1
+msgid "This... is going to take some getting used to."
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:2
+msgid "Cold and light... The two just don't go together."
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:4
+msgid "I- I'm fine, skeleton, leave me... Quit poking around..."
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:5
+msgid "I can heal myself, skeleton..."
+msgstr ""
+
+#. Id: 50664-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#: 50664-Dialogue.mod:6
+msgid "How about we keep our distance, huh, skeleton?"
+msgstr ""
+
+#. Id: 50702-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50664-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Griffin healed by skeleton
+#: 50702-Dialogue.mod:0
+msgid "Shh. I'm working here."
+msgstr ""
+
+#. Id: 50702-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50664-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Griffin healed by skeleton
+#: 50702-Dialogue.mod:1
+msgid "Quiet, I'm working."
+msgstr ""
+
+#. Id: 50667-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 50667-Dialogue.mod:0
+msgid "... I won't let my fear get me..."
+msgstr ""
+
+#. Id: 50669-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50667-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Griffin healed by skeleton
+#: 50669-Dialogue.mod:0
+msgid "There's no need to fear me, Griffin. I'm on your side."
+msgstr ""
+
+#. Id: 50666-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50666-Dialogue.mod:0
+msgid "Healed by a Skeleton... Now I've experienced everything."
+msgstr ""
+
+#. Id: 50666-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50666-Dialogue.mod:1
+msgid "Just... keep your hands where I can see them, will you?"
+msgstr ""
+
+#. Id: 50666-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50666-Dialogue.mod:2
+msgid "I- I'm fine, skeleton, leave me... I can heal myself..."
+msgstr ""
+
+#. Id: 50666-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50666-Dialogue.mod:3
+msgid "I try to be open minded. But having a skeleton poke around inside me is just too far..."
+msgstr ""
+
+#. Id: 50666-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin healed by skeleton
+#. -- Condition: Target Race(s): Skeleton
+#: 50666-Dialogue.mod:4
+msgid "Healed by a skeleton... Okran you really test me..."
+msgstr ""
+

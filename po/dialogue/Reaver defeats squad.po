@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59384-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 59384-Dialogue.mod:0
+msgid "As brothers we live, as heroes we die!"
+msgstr ""
+
+#. Id: 59384-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 59384-Dialogue.mod:1
+msgid "We die as one, we die together!"
+msgstr ""
+
+#. Id: 59384-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 59384-Dialogue.mod:2
+msgid "Live as brothers, die as brothers!"
+msgstr ""
+
+#. Id: 59385-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59385-Dialogue.mod:2
+msgid "For the Reavers!"
+msgstr ""
+
+#. Id: 59387-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 59387-Dialogue.mod:0
+msgid "No more scrambling for survival like desperate rats!"
+msgstr ""
+
+#. Id: 59389-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59389-Dialogue.mod:0
+msgid "No more kneeling before self proclaimed kings!"
+msgstr ""
+
+#. Id: 59389-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59389-Dialogue.mod:1
+msgid "No more kneeling before crooked lords!"
+msgstr ""
+
+#. Id: 59390-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59390-Dialogue.mod:0
+msgid "We fight as one, we fight together..."
+msgstr ""
+
+#. Id: 59391-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59390-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59391-Dialogue.mod:0
+msgid "As a brotherhood!"
+msgstr ""
+
+#. Id: 59391-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (59390-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59391-Dialogue.mod:1
+msgid "As Reavers!"
+msgstr ""
+
+#. Id: 59403-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59403-Dialogue.mod:0
+msgid "The gods have fled... but when the kings are dead..."
+msgstr ""
+
+#. Id: 59404-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59404-Dialogue.mod:0
+msgid "The brotherhood will spread..."
+msgstr ""
+
+#. Id: 59406-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59406-Dialogue.mod:0
+msgid "Together we grow, the best heroes sow..."
+msgstr ""
+
+#. Id: 59407-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver defeats squad
+#: 59407-Dialogue.mod:0
+msgid "Into war we go, and calamity we sow..."
+msgstr ""
+

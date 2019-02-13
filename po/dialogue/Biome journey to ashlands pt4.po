@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66023-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 66023-Dialogue.mod:0
+msgid "Ever hear of that famous adventurer group, the Ashland Drifters?"
+msgstr ""
+
+#. Id: 66024-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66023-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66024-Dialogue.mod:0
+msgid "Apparently the only people to come back out of the Ashlands alive..."
+msgstr ""
+
+#. Id: 66026-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66025-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66026-Dialogue.mod:0
+msgid "Seriously... Not the time for this conversation. We're JUST getting to the Ashlands..."
+msgstr ""
+
+#. Id: 66027-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66027-Dialogue.mod:0
+msgid "Well, we can't ignore the leviathyn in the room now, can we?"
+msgstr ""
+
+#. Id: 66028-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66028-Dialogue.mod:0
+msgid "If the acid rain don't melt our skin off it'll be the dragons that finish us off."
+msgstr ""
+
+#. Id: 66029-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66029-Dialogue.mod:0
+msgid "I don't even know who's idea it was to come here. I guess I'm the idiot for coming along..."
+msgstr ""
+
+#. Id: 66031-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66030-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#. Id: 66152-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66151-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66031-Dialogue.mod:0 66152-Dialogue.mod:0
+msgid "... What's a dragon?"
+msgstr ""
+
+#. Id: 66032-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (66031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66032-Dialogue.mod:0
+msgid "Oh they're basically like leviathyns with wings..."
+msgstr ""
+
+#. Id: 66033-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (66032-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66033-Dialogue.mod:0
+msgid "But they shoot flames out of their eyes and have giant fangs for crushing the bones of adventurers..."
+msgstr ""
+
+#. Id: 66035-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (66034-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66035-Dialogue.mod:0
+msgid "Nah, you're thinking of winged beak ogres."
+msgstr ""
+
+#. Id: 66036-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (66037-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66036-Dialogue.mod:0
+msgid "Or dray guns? Yeah they're the turret beams that the headless ancients boil adventurers with."
+msgstr ""
+
+#. Id: 66038-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (66036-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66038-Dialogue.mod:0
+msgid "They're made of drays."
+msgstr ""
+
+#. Id: 66039-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (66038-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66039-Dialogue.mod:0
+msgid "What the fuck is a dray?"
+msgstr ""
+
+#. Id: 66040-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (66039-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66040-Dialogue.mod:0
+msgid "CAN WE STOP TALKING ABOUT DYING IN THE ASHLANDS PLEASE?"
+msgstr ""
+
+#. Id: 66154-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (66038-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66154-Dialogue.mod:0
+msgid "... Drays?"
+msgstr ""
+
+#. Id: 66153-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (66034-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome journey to ashlands pt4
+#: 66153-Dialogue.mod:0
+msgid "You're thinking of winged beak ogres. What foreign name is this 'daragorn'?"
+msgstr ""
+

@@ -1,0 +1,260 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61279-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61279-Dialogue.mod:0
+msgid "You know the drill, /FLATSKIN/. Time for tribute."
+msgstr ""
+
+#. Id: 61279-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61279-Dialogue.mod:1
+msgid "I trust you have our tribute ready, /FLATSKIN/."
+msgstr ""
+
+#. Id: 61279-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61279-Dialogue.mod:2
+msgid "We need food, /FLATSKIN/. We're hungry. It's time to share your harvest."
+msgstr ""
+
+#. Id: 61279-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61279-Dialogue.mod:3
+msgid "I hope you've had a good harvest since last time, /FLATSKIN/."
+msgstr ""
+
+#. Id: 61279-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61279-Dialogue.mod:4
+msgid "Mmh. What have you harvested for me today, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 61280-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61279-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61280-Dialogue.mod:0
+msgid "Take whatever /IWE/ owe."
+msgstr ""
+
+#. Id: 61280-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61279-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61280-Dialogue.mod:1
+msgid "Help yourself, take what /IWE/ owe."
+msgstr ""
+
+#. Id: 61281-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61279-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61281-Dialogue.mod:0
+msgid "/IMWERE/ not paying you tribute anymore."
+msgstr ""
+
+#. Id: 61282-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61282-Dialogue.mod:1
+msgid "You're on our land, /FLATSKIN/. It is what we are owed."
+msgstr ""
+
+#. Id: 61282-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61282-Dialogue.mod:2
+msgid "One warning. Fight us and you'll lose, /FLATSKIN/."
+msgstr ""
+
+#. Id: 61282-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (61281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61282-Dialogue.mod:3
+msgid "You pay us with food or you pay us with blood. Which is it."
+msgstr ""
+
+#. Id: 61283-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61282-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61283-Dialogue.mod:0
+msgid "On second thoughts, I want no trouble. Take what you want."
+msgstr ""
+
+#. Id: 61291-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61284-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59667-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61291-Dialogue.mod:0 59667-Dialogue.mod:0
+msgid "Check the stores!"
+msgstr ""
+
+#. Id: 61285-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61282-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61285-Dialogue.mod:0
+msgid "No means no."
+msgstr ""
+
+#. Id: 61289-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61285-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59663-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59660-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61289-Dialogue.mod:0 59663-Dialogue.mod:0
+msgid "/IDIOCY/. Then we'll return for blood. Ready your blade/S/."
+msgstr ""
+
+#. Id: 61289-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (61285-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59663-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (59660-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61289-Dialogue.mod:1 59663-Dialogue.mod:1
+msgid "/IDIOCY/. Then I'll give you my warning. Prepare for battle."
+msgstr ""
+
+#. Id: 61290-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61290-Dialogue.mod:0
+msgid "I'll be back after sundown."
+msgstr ""
+
+#. Id: 61286-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61282-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt2 interrupt
+#: 61286-Dialogue.mod:0
+msgid "This is my land now. You want it, try and take it."
+msgstr ""
+
+#. Id: 61287-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61286-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59654-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61287-Dialogue.mod:0 59654-Dialogue.mod:0
+msgid "Hm hm hm. A /FLATSKIN/ with claws, and there I thought you looked nothing more than a disappointing /WORM/..."
+msgstr ""
+
+#. Id: 61287-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (61286-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59654-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61287-Dialogue.mod:1 59654-Dialogue.mod:1
+msgid "Impressive. A /FLATSKIN/ with /SPINE/, this should be fun... "
+msgstr ""
+
+#. Id: 61288-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59655-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61288-Dialogue.mod:0 59655-Dialogue.mod:0
+msgid "Do not disappoint me, 'warrior'. I'll be back for battle."
+msgstr ""
+
+#. Id: 61288-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (61287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59655-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (59654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61288-Dialogue.mod:1 59655-Dialogue.mod:1
+msgid "I hope you live up to your words, 'warrior'. I grow tired of easy battles."
+msgstr ""
+
+#. Id: 61288-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (61287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. Id: 59655-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (59654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 61288-Dialogue.mod:2 59655-Dialogue.mod:2
+msgid "This had better be battle worthy of my blade, 'warrior'. I'll be back."
+msgstr ""
+

@@ -1,0 +1,461 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53445-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53445-Dialogue.mod:0
+msgid "Need yourself a sharp shooter? I've got the experience if you've got the Cats."
+msgstr ""
+
+#. Id: 53445-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53445-Dialogue.mod:1
+msgid "Need a good eye to man your turrets?"
+msgstr ""
+
+#. Id: 53445-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53445-Dialogue.mod:2
+msgid "Gunner at your service. Here to /TEAMUP/?"
+msgstr ""
+
+#. Id: 53445-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53445-Dialogue.mod:3
+msgid "Done a lot of things I regret in my life, but it's never to late to change. Ex gunner looking to start fresh."
+msgstr ""
+
+#. Id: 53445-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53445-Dialogue.mod:4
+msgid "Gunner looking to /TEAMUP/... You happen to be recruiting, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 53469-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53445-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#: 53469-Dialogue.mod:0
+msgid "Maybe. How much?"
+msgstr ""
+
+#. Id: 53474-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53474-Dialogue.mod:0
+msgid "Pay me once, 6000 Cats, and I'll follow."
+msgstr ""
+
+#. Id: 53474-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53469-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53474-Dialogue.mod:1
+msgid "6000 Cats is all I ask. That, and a clan to watch my back."
+msgstr ""
+
+#. Id: 53476-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53474-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 53476-Dialogue.mod:0
+msgid "I don't have enough right now..."
+msgstr ""
+
+#. Id: 53479-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53476-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53479-Dialogue.mod:0
+msgid "Then come back when you've got the Cats."
+msgstr ""
+
+#. Id: 53470-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53445-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#: 53470-Dialogue.mod:0
+msgid "Maybe another time."
+msgstr ""
+
+#. Id: 53446-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53446-Dialogue.mod:0
+msgid "Sitting behind the barrel of a turret, clean of blood, free from noise... It's the best job you can have on the battlefield..."
+msgstr ""
+
+#. Id: 53466-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53446-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#: 53466-Dialogue.mod:0
+msgid "You're a gunner?"
+msgstr ""
+
+#. Id: 53471-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53471-Dialogue.mod:0
+msgid "Yeah... Currently between jobs, you could say. Recruiting?"
+msgstr ""
+
+#. Id: 53467-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53446-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#: 53467-Dialogue.mod:0
+msgid "Looking for work?"
+msgstr ""
+
+#. Id: 53472-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53472-Dialogue.mod:0
+msgid "Actually, I am. My fee is 6000 Cats. Interested?"
+msgstr ""
+
+#. Id: 53468-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53446-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#. Id: 44794-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44784-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. Id: 44791-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug2
+#. Id: 55748-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55727-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 53468-Dialogue.mod:0 44794-Dialogue.mod:0 44791-Dialogue.mod:0 55748-Dialogue.mod:0
+msgid "Nevermind..."
+msgstr ""
+
+#. Id: 53453-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 53453-Dialogue.mod:0
+msgid "Gramps always said I got eyes for shooting but arms for tooting... whatever that means. Basically he was too polite to tell me straight out that a child could beat me in an arm wrestle."
+msgstr ""
+
+#. Id: 53454-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 53454-Dialogue.mod:0
+msgid "Taking lives from the barrel of a turret is easy. You're clean of bloodied hands and guilt, you become numb to death..."
+msgstr ""
+
+#. Id: 53456-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 53456-Dialogue.mod:0
+msgid "Need yourself a gunner? I promise you I've got good eyes, eyes of a hawk. Been manning turrets since before I sprouted a beard on my face."
+msgstr ""
+
+#. Id: 53458-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Skeleton
+#: 53458-Dialogue.mod:0
+msgid "You here to recruit? I'm available for 6000 Cats if you need a sharp shooter."
+msgstr ""
+
+#. Id: 53458-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Skeleton
+#: 53458-Dialogue.mod:1
+msgid "Here to /TEAMUP/? I've a steady hand and good vision, ideal for turret work. I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53459-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 53459-Dialogue.mod:0
+msgid "If you're not here for the drink then I'm guessing you're here to hire, am I right?"
+msgstr ""
+
+#. Id: 53459-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 53459-Dialogue.mod:1
+msgid "Here's hoping you've come to me looking for recruits..."
+msgstr ""
+
+#. Id: 53459-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 53459-Dialogue.mod:2
+msgid "What is it? You looking to hire?"
+msgstr ""
+
+#. Id: 53459-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 53459-Dialogue.mod:3
+msgid "You're not one of the usuals... So, you here looking to /TEAMUP/?"
+msgstr ""
+
+#. Id: 53459-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Scorchlander or Shek
+#: 53459-Dialogue.mod:4
+msgid "You can do one of three things here, /OUTLANDER/: Drink up, hire me or shut up."
+msgstr ""
+
+#. Id: 53460-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53459-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#: 53460-Dialogue.mod:0
+msgid "I'm here for recruits..."
+msgstr ""
+
+#. Id: 53449-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 53449-Dialogue.mod:0
+msgid "Well, my specialty is shooting. Give me a turret any day. Fighting with swords and bloodied hands is for animals. My fee is 6000 Cats."
+msgstr ""
+
+#. Id: 53451-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 53451-Dialogue.mod:0
+msgid "Is that so? Well, you're in luck, I'm a gunner. Can shoot a bird right out of the sky, can't swing a sword for shit. Pay me 6000 Cats and I follow."
+msgstr ""
+
+#. Id: 53452-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53452-Dialogue.mod:0
+msgid "And I'm looking for work. Got a keen eye for shooting, but at this stage I'll do whatever job you throw my way. I charge 6000 Cats."
+msgstr ""
+
+#. Id: 53452-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53452-Dialogue.mod:1
+msgid "And I'm looking for a team. I can handle a turret pretty well if you need your walls defending. 6000 Cats, how about it?"
+msgstr ""
+
+#. Id: 53452-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53452-Dialogue.mod:2
+msgid "And I'm looking for a new start. Gunner for hire, 6000 Cats. Interested?"
+msgstr ""
+
+#. Id: 53452-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53452-Dialogue.mod:3
+msgid "Then maybe you wanna hire me. I'm an experienced gunner, fee's 6000 Cats."
+msgstr ""
+
+#. Id: 53448-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 53448-Dialogue.mod:0
+msgid "And I'm looking for work. Got a keen eye for shooting, but at this stage I'll do whatever job you throw my way. I charge 4000 Cats."
+msgstr ""
+
+#. Id: 53448-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 53448-Dialogue.mod:1
+msgid "And I'm looking for a team. I can handle a turret pretty well if you need your walls defending. 4000 Cats, how about it?"
+msgstr ""
+
+#. Id: 53448-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 53448-Dialogue.mod:2
+msgid "And I'm looking for a new start. Gunner for hire, 4000 Cats. Interested?"
+msgstr ""
+
+#. Id: 53448-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (53460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 53448-Dialogue.mod:3
+msgid "Then maybe you wanna hire me. I'm an experienced gunner, fee's 4000 Cats."
+msgstr ""
+
+#. Id: 53581-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4000, Tag: -1
+#: 53581-Dialogue.mod:0
+msgid "I don't have enough money right now..."
+msgstr ""
+
+#. Id: 53586-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53581-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#: 53586-Dialogue.mod:0
+msgid "Make sure to come back when you have the Cats..."
+msgstr ""
+
+#. Id: 53573-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#. -- Condition: My Race(s): Hive Prince
+#: 53573-Dialogue.mod:0
+msgid "You're back? Did you change your mind? My price is 4000 Cats if so."
+msgstr ""
+
+#. Id: 53573-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#. -- Condition: My Race(s): Hive Prince
+#: 53573-Dialogue.mod:1
+msgid "4000 Cats if you're still interested in taking on a gunner..."
+msgstr ""
+
+#. Id: 53577-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 53577-Dialogue.mod:0
+msgid "6000 Cats if you're still interested in taking on a gunner..."
+msgstr ""
+
+#. Id: 53577-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me gunner
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 53577-Dialogue.mod:1
+msgid "6000 Cats, in case you needed reminding. Still interested in hiring a shooter?"
+msgstr ""
+

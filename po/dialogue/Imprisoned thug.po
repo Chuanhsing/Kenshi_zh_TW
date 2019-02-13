@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13576-Escapes.mod:0
+msgid "Get me the /FUCK/ out of here!"
+msgstr ""
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13576-Escapes.mod:1
+msgid "Please! Get me out of here! Don't leave me!"
+msgstr ""
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13576-Escapes.mod:2
+msgid "You! Get me the /FUCK/ out of here!"
+msgstr ""
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13576-Escapes.mod:3
+msgid "/OI/! You! Get me /FUCKING/ out of here! Help!"
+msgstr ""
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 18532-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed noble
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 17982-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Unlocked hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 45813-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: ronin unlocked by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 48873-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave esc opp hiver ronin
+#: 13576-Escapes.mod:4 18532-Dialogue.mod:0 17982-Dialogue.mod:1 45813-Dialogue.mod:2 48873-Dialogue.mod:0
+msgid "I have to get out of here!"
+msgstr ""
+
+#. Id: 13576-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. Id: 8756-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles in cage
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 13576-Escapes.mod:5 7866-Dialogue.mod:8 8756-Dialogue.mod:1 45509-Dialogue.mod:5
+msgid "I don't wanna die!"
+msgstr ""
+
+#. Id: 13577-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13577-Escapes.mod:0
+msgid "H- hey, what about me? Help me out!"
+msgstr ""
+
+#. Id: 13577-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13577-Escapes.mod:1
+msgid "Hey... help me out... please"
+msgstr ""
+
+#. Id: 13577-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13577-Escapes.mod:2
+msgid "Wait, don't leave me... help!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:0
+msgid "I'll cut you a deal if you get me out!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:1
+msgid "Let's sort something out!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:2
+msgid "I'll sort you out, come on!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:3
+msgid "I'll make it worth your while!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:4
+msgid "I'll make you a deal if you help me!"
+msgstr ""
+
+#. Id: 13582-Escapes.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13577-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13582-Escapes.mod:5
+msgid "We can sort something out! C'mon, help me!"
+msgstr ""
+
+#. Id: 13579-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12507-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 12209-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 7067-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 7071-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7069-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. Id: 14091-Dialogue (12).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 13579-Escapes.mod:0 12507-Dialogue?(10)?(2).mod:0 12209-Dialogue?(10).mod:1 7067-Dialogue.mod:3 7071-Dialogue.mod:1 14091-Dialogue?(12).mod:1
+msgid "Get me out of here!"
+msgstr ""
+
+#. Id: 13579-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 13579-Escapes.mod:1
+msgid "Help! Get me out of here!"
+msgstr ""
+
+#. Id: 13579-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 13579-Escapes.mod:2
+msgid "Help! Don't go..."
+msgstr ""
+
+#. Id: 13586-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 13586-Escapes.mod:0
+msgid "Go on... bust me out..."
+msgstr ""
+
+#. Id: 13586-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 13586-Escapes.mod:1
+msgid "Come on, bust me out of here...."
+msgstr ""
+
+#. Id: 13586-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>1, Tag: -1
+#. -- Condition: In town(s) of faction(s): United Cities
+#: 13586-Escapes.mod:2
+msgid "/OI/, do me a favour, help me out..."
+msgstr ""
+
+#. Id: 13588-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13586-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13588-Escapes.mod:0
+msgid "I'll cut you a deal..."
+msgstr ""
+
+#. Id: 13588-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13586-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13588-Escapes.mod:1
+msgid "I'll make it worth your while..."
+msgstr ""
+
+#. Id: 13588-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13586-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13588-Escapes.mod:2
+msgid "I'll make you a deal..."
+msgstr ""
+
+#. Id: 13588-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13586-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 13588-Escapes.mod:3
+msgid "We can work something out..."
+msgstr ""
+
+#. Id: 13598-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13598-Escapes.mod:0
+msgid "/FUCKING/ cannibals! Someone'll come for me! Just you wait!"
+msgstr ""
+
+#. Id: 13598-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13598-Escapes.mod:1
+msgid "/FUCKING/ cannibals! I'll get out of here!"
+msgstr ""
+
+#. Id: 13598-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13598-Escapes.mod:2
+msgid "Cannibal /BASTARD/s! I'll get free, someone'll come for me!"
+msgstr ""
+
+#. Id: 13600-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13598-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#: 13600-Escapes.mod:0
+msgid "It's gonna be a cannibal massacre tonight!"
+msgstr ""
+
+#. Id: 13600-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13598-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#: 13600-Escapes.mod:1
+msgid "I'll be butchering you cannibals good!"
+msgstr ""
+
+#. Id: 13600-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13598-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned thug
+#: 13600-Escapes.mod:2
+msgid "It's gonna be a cannibal slaughter I tell ya!"
+msgstr ""
+

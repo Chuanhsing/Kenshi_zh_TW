@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59373-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#. Id: 1534193-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 59373-Dialogue.mod:0 1534193-__Fixes.mod:0
+msgid "Open your eyes. Look at me. I, am your new king..."
+msgstr ""
+
+#. Id: 59374-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59373-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59374-Dialogue.mod:0
+msgid "I am the one who will transform you into a warrior, from a coward..."
+msgstr ""
+
+#. Id: 59375-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59374-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59375-Dialogue.mod:0
+msgid "From a coward who turns /HIS/ back on the starving..."
+msgstr ""
+
+#. Id: 59376-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59375-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59376-Dialogue.mod:0
+msgid "Who allows the 'noble' snakes to lord over the lands..."
+msgstr ""
+
+#. Id: 59377-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59377-Dialogue.mod:0
+msgid "And does nothing!"
+msgstr ""
+
+#. Id: 59378-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59378-Dialogue.mod:0
+msgid "Who turns a blind eye to all atrocities in the name of survival..."
+msgstr ""
+
+#. Id: 59379-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59378-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59379-Dialogue.mod:0
+msgid "But, now... This is your chance to change, to be a hero and shed your shameful past..."
+msgstr ""
+
+#. Id: 59380-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59379-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59380-Dialogue.mod:0
+msgid "Now is your chance to prove yourself..."
+msgstr ""
+
+#. Id: 59381-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59380-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#: 59381-Dialogue.mod:0
+msgid "But not alone... As part of a brotherhood. As part of a revolution!"
+msgstr ""
+
+#. Id: 59382-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (59381-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Valamon introducing conscript
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 59382-Dialogue.mod:0
+msgid "... Welcome, my /BROTHER/, to your new home."
+msgstr ""
+

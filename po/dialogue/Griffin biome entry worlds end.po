@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50687-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin biome entry worlds end
+#: 50687-Dialogue.mod:0
+msgid "This is it. We've finally travelled beyond the holy lands."
+msgstr ""
+
+#. Id: 50688-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50687-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin biome entry worlds end
+#: 50688-Dialogue.mod:0
+msgid "I've heard stories that the mouth of the abyss lies ahead past these hills, the lands ravaged with demons and unholy monsters from the underworld..."
+msgstr ""
+
+#. Id: 50689-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin biome entry worlds end
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#: 50689-Dialogue.mod:0
+msgid "Prepare yourselves, /BROTHER/s."
+msgstr ""
+
+#. Id: 50691-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50688-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Griffin biome entry worlds end
+#: 50691-Dialogue.mod:0
+msgid "We should prepare ourselves."
+msgstr ""
+

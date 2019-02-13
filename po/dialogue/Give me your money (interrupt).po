@@ -1,0 +1,2195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:0
+msgid "Cats. Cough it up, /BOY/."
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:1
+msgid "Gimme your /CATS/!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:2
+msgid "Spare a little coin, /BOY/?... Well, I'm not askin' actually. Hand over your Cats!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:4
+msgid "Gimme a nice gift and I might spare you. Cats, hand 'em over."
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:5
+msgid "Alright cough it up, fat-cats. MONEY!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:6
+msgid "You can afford to share some o' those /CATS/ with me... Cough 'em up!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:7
+msgid "Cats! Pay up or I break your /BODYPART/."
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:8
+msgid "Gimme your Cats! This will all go much more smoothly if you play along and pay up."
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:9
+msgid "Gimme some Catans, moneybags! Pay up!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:10
+msgid "I want some of that money! Hand it over!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 13979-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6222-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugger
+#: 5147-D-Dialogue.mod:11 13979-Escapes.mod:0
+msgid "MONEY!"
+msgstr ""
+
+#. Id: 5147-D-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5147-D-Dialogue.mod:13
+msgid "Hand over the /CATS/!"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:0
+msgid "Okay, okay. Here (200 Cats)"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#. Id: 5172-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:1 5172-Dialogue.mod:0
+msgid "Just take it (200 Cats)"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:2
+msgid "... This is all I have, take it (200 Cats)"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:3
+msgid "/FINE/ /FINE/, here you go (200 Cats)"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:4
+msgid "/IWE/ don't have much... (200 Cats)"
+msgstr ""
+
+#. Id: 5154-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5154-Dialogue.mod:5
+msgid "I can only afford 200 Cats"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:3 5448-Dialogue.mod:5
+msgid "Ooh! Money!"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:4
+msgid "Okay that'll do"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:5
+msgid "I suppose that will do"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 42691-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sundemon healed
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 5201-Dialogue.mod:6 42691-Dialogue.mod:3
+msgid "That'll do the trick"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 3302-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 5201-Dialogue.mod:7 3302-gamedata.base:4
+msgid "That hit the spot"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:8
+msgid "Good enough"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.9
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:9
+msgid "/TCH/ I guess that will do"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.10
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:10
+msgid "Stingy. But okay whatever, I don't like fighting anyway"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.11
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:11
+msgid "Meh I guess that's okay. Can't be bothered to beat you up"
+msgstr ""
+
+#. Id: 5201-Dialogue.mod
+#. -- Index: 2.12
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5201-Dialogue.mod:12
+msgid "Meh I suppose that'll do. Can't be assed to kick you in"
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:0
+msgid "With that fat bounty I think you can afford more than 200 Cats"
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:1
+msgid "And what about the nice big bounty on your back? 200 Cats displeases me"
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:2
+msgid "No deal. I want a piece of that bounty."
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:3
+msgid "Don't be stingy. You can afford more with that fat bounty on your back"
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:4
+msgid "That's a hefty bounty you got there... 400 Cats!"
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:5
+msgid "No. More. Let me have some of that bounty..."
+msgstr ""
+
+#. Id: 5203-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (5154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#: 5203-Dialogue.mod:6
+msgid "You're gonna be rich with that bounty. I want more."
+msgstr ""
+
+#. Id: 5206-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
+#: 5206-Dialogue.mod:0
+msgid "Fine (400 Cats)"
+msgstr ""
+
+#. Id: 5206-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
+#: 5206-Dialogue.mod:1
+msgid "/TCH/ /FINE/, here (400 Cats)"
+msgstr ""
+
+#. Id: 5206-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
+#: 5206-Dialogue.mod:2
+msgid "Alright, alright. Here, just take it (400 Cats)"
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5404-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour picking pt3
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 52886-rebirth.mod
+#. -- Index: 12.2
+#. -- Parent line: 11 (52885-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: mechanical shopkeeper
+#. Id: 8749-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles healed
+#: 5448-Dialogue.mod:0 5404-Escapes.mod:2 52886-rebirth.mod:2 8749-Dialogue.mod:0
+msgid "Thanks!"
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 60196-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (60190-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees player carry enemy
+#. Id: 59478-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59477-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hand over conscript reaver
+#: 5448-Dialogue.mod:1 5437-Dialogue.mod:2 60196-Dialogue.mod:1 59478-Dialogue.mod:0
+msgid "/QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:2 5437-Dialogue.mod:1
+msgid "Meh I guess that's okay. Can't be bothered to beat you up anyway!"
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:3
+msgid "Meh I suppose that'll do. Can't be assed to kick you in anyway!"
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.8
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 62327-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62326-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bar patrons random faction comment on world state
+#. Id: 13810-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13809-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness assault
+#: 5448-Dialogue.mod:4 5437-Dialogue.mod:8 62327-Dialogue.mod:0 13810-Escapes.mod:0
+msgid "/LAUGH/..."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:6
+msgid "Okay that'll do."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.7
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:7
+msgid "I suppose that will do."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.8
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:8
+msgid "That'll do the trick..."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.9
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:9
+msgid "That hit the spot."
+msgstr ""
+
+#. Id: 5448-Dialogue.mod
+#. -- Index: 4.10
+#. -- Parent line: 3 (5206-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5448-Dialogue.mod:10
+msgid "Good enough!"
+msgstr ""
+
+#. Id: 5208-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5208-Dialogue.mod:0
+msgid "Don't push it, we outnumber you, /BANDIT/.  "
+msgstr ""
+
+#. Id: 5208-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5208-Dialogue.mod:1
+msgid "400 Cats is too greedy. You're outnumbered, /BANDIT/"
+msgstr ""
+
+#. Id: 5208-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5208-Dialogue.mod:2
+msgid "Just take it. We outnumber you"
+msgstr ""
+
+#. Id: 5208-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5208-Dialogue.mod:3
+msgid "You really want to fight all of us over 200 Cats?"
+msgstr ""
+
+#. Id: 5208-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 5208-Dialogue.mod:4
+msgid "That's /CRAZY/, there are more of us than you!"
+msgstr ""
+
+#. Id: 5212-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5208-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5212-Dialogue.mod:0
+msgid "/FINE/ /FINE/ 200 Cats"
+msgstr ""
+
+#. Id: 5212-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (5208-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5212-Dialogue.mod:1
+msgid "/FINE/ gimme 200 Cats then"
+msgstr ""
+
+#. Id: 5212-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (5208-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5212-Dialogue.mod:2
+msgid "/FINE/, that'll do I guess"
+msgstr ""
+
+#. Id: 5212-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (5208-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5212-Dialogue.mod:3
+msgid "/FINE/, I suppose that will do"
+msgstr ""
+
+#. Id: 18247-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5203-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<400, Tag: -1
+#. Id: 53614-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (9511-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. Id: 52507-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (52496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Drug bust bribe
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4000, Tag: -1
+#: 18247-Dialogue.mod:0 53614-Dialogue.mod:0 52507-Dialogue.mod:0
+msgid "I don't have that much..."
+msgstr ""
+
+#. Id: 18249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18247-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 18249-Dialogue.mod:0
+msgid "That's too bad. I'll just have to take your clothes to make up for it!"
+msgstr ""
+
+#. Id: 18250-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18249-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 18250-Dialogue.mod:0
+msgid "As soon as you're all alone..."
+msgstr ""
+
+#. Id: 5155-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5155-Dialogue.mod:0
+msgid "Never! I'm not giving you anything."
+msgstr ""
+
+#. Id: 5155-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5155-Dialogue.mod:1
+msgid "Not gonna happen!"
+msgstr ""
+
+#. Id: 5155-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5155-Dialogue.mod:2
+msgid "No, you're not taking my money."
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:0
+msgid "You don't exactly look fit to defend yourself, /BOY/. Last chance... Cough up or die!"
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:1
+msgid "You really think you can defend yourself with those injuries, /BOY/?"
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:2
+msgid "You don't look healthy enough for a fight, /BOY/. Last chance to give it up..."
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:3
+msgid "I don't think you wanna be fighting me in your condition, /BOY/..."
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:4
+msgid "With those wounds, this is gonna be too easy... Last chance!"
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:5
+msgid "You look pretty fucked up, I think you should just hand it over."
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:6
+msgid "You look pretty messed up, I think you should just give it up."
+msgstr ""
+
+#. Id: 5164-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 5164-Dialogue.mod:7
+msgid "You already look busted up. You ain't gonna survive this, /BOY/..."
+msgstr ""
+
+#. Id: 5169-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5169-Dialogue.mod:0
+msgid "Again, not gonna happen"
+msgstr ""
+
+#. Id: 5169-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 5775-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5654-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#: 5169-Dialogue.mod:1 5775-Recruits?Dialogue.mod:0
+msgid "Nope!"
+msgstr ""
+
+#. Id: 5169-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (5164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5169-Dialogue.mod:2
+msgid "I said no"
+msgstr ""
+
+#. Id: 5169-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (5164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5169-Dialogue.mod:3
+msgid "No means no"
+msgstr ""
+
+#. Id: 5169-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (5164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5169-Dialogue.mod:4
+msgid "You deaf? "
+msgstr ""
+
+#. Id: 48339-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48339-Dialogue.mod:0
+msgid "Well I ain't one for reasonin'. So I'll just pummel it outta you later instead!"
+msgstr ""
+
+#. Id: 48339-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48339-Dialogue.mod:1
+msgid "You shoulda just paid up when I told you to..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:0
+msgid "Hmph. You'll regret this..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:1
+msgid "You're gonna regret this..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:2
+msgid "I'm gonna get you later..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:3
+msgid "Oh just you wait..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:4
+msgid "As soon as the /COP/s ain't lookin'..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:5
+msgid "Then I'll take it!"
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:6
+msgid "Wrong answer..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:7
+msgid "When you're all alone..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:8
+msgid "Better watch your back, /BOY/..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:9
+msgid "Then I'll pry it from your /CORPSE/ later..."
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:10
+msgid "Then I'll TAKE it!"
+msgstr ""
+
+#. Id: 5156-Dialogue.mod
+#. -- Index: 3.11
+#. -- Parent line: 2 (48339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5156-Dialogue.mod:11
+msgid "Then I'll beat it out of you!"
+msgstr ""
+
+#. Id: 48584-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48584-Dialogue.mod:0
+msgid "/COP/s can't protect your forever /BOY/. Gimme your money!"
+msgstr ""
+
+#. Id: 48584-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48584-Dialogue.mod:1
+msgid "As soon as you leave the city - BAM! Hand over the money or else."
+msgstr ""
+
+#. Id: 48584-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48584-Dialogue.mod:2
+msgid "The guards ain't gonna have your back once your outside of town. Hand over the money, /BOY/."
+msgstr ""
+
+#. Id: 48591-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48591-Dialogue.mod:0
+msgid "Ain't gonna play along, eh? Well, I'll give you points for havin' balls but... balls ain't gonna save you from a /BEATING/!"
+msgstr ""
+
+#. Id: 48591-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48591-Dialogue.mod:1
+msgid "Gonna play it stubborn, eh?.. Well, I got nothin' better to do than beat on stubborn /OUTLANDER/s anyway!"
+msgstr ""
+
+#. Id: 48591-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5155-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48591-Dialogue.mod:2
+msgid "Final answer, eh? Shoulda just played along and handed over your Cats..."
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#: 5434-Dialogue.mod:0
+msgid "Okay, okay. Here (75 Cats)"
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#. Id: 5843-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#: 5434-Dialogue.mod:1 5843-Dialogue.mod:0
+msgid "Just take it (75 Cats)"
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#: 5434-Dialogue.mod:2
+msgid "... This is all I have, take it (75 Cats)"
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#: 5434-Dialogue.mod:3
+msgid "/FINE/ /FINE/, here you go (75 Cats)"
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#: 5434-Dialogue.mod:4
+msgid "/IWE/ don't have much... (75 Cats)"
+msgstr ""
+
+#. Id: 5434-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
+#: 5434-Dialogue.mod:5
+msgid "I can only afford 75 Cats"
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:3
+msgid "Okay that'll do..."
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:4
+msgid "I suppose that will do..."
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:5
+msgid "/TCH/ I guess that will do!"
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:6
+msgid "Better than a poke in the eye I guess!"
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:7
+msgid "Good enough..."
+msgstr ""
+
+#. Id: 5437-Dialogue.mod
+#. -- Index: 2.9
+#. -- Parent line: 1 (5434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5437-Dialogue.mod:9
+msgid "Stingy. But okay whatever, I don't like fighting anyway!"
+msgstr ""
+
+#. Id: 10571-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10571-Dialogue?(10).mod:0
+msgid "... You what?"
+msgstr ""
+
+#. Id: 10571-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10571-Dialogue?(10).mod:1
+msgid "Wait, what...?"
+msgstr ""
+
+#. Id: 10571-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10571-Dialogue?(10).mod:2
+msgid "Sorry...? I don't understand..."
+msgstr ""
+
+#. Id: 10572-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10571-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10572-Dialogue?(10).mod:0
+msgid "*sigh*... Do I really gotta spell it out for you, /BOY/?... Give me your money and I won't break your /BODYPART/. It's how it works 'round here"
+msgstr ""
+
+#. Id: 10572-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10571-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10572-Dialogue?(10).mod:1
+msgid "What are you, slow? Hand me your /CATS/ and I won't /SNAP/ your legs off!"
+msgstr ""
+
+#. Id: 10572-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10571-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10572-Dialogue?(10).mod:2
+msgid "*sigh*... Hand me your /CATS/ and I won't /THREAT_ACTION/ your /BODYPART/ with /THREAT_TOOL/!... Clear enough for you now?"
+msgstr ""
+
+#. Id: 10572-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (10571-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10572-Dialogue?(10).mod:3
+msgid "Seriously? It goes like this: You pay me protection money, I protect you... from myself! Pay up, /BOY/!"
+msgstr ""
+
+#. Id: 10573-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10572-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10573-Dialogue?(10).mod:0
+msgid "Can't we talk about this?"
+msgstr ""
+
+#. Id: 10574-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10573-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10574-Dialogue?(10).mod:0
+msgid "... Do I look like the talkin' type to you? Stop wasting my time and.. PAY UP!"
+msgstr ""
+
+#. Id: 10575-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10575-Dialogue?(10).mod:0
+msgid "(Kick them in the groin)"
+msgstr ""
+
+#. Id: 10575-Dialogue (10).mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (10574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10575-Dialogue?(10).mod:2
+msgid "(Punch them in the nose)"
+msgstr ""
+
+#. Id: 10575-Dialogue (10).mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (10574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 15447-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 10575-Dialogue?(10).mod:4 15447-Dialogue.mod:3
+msgid "(Kick them in the shin)"
+msgstr ""
+
+#. Id: 10580-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10580-Dialogue?(10).mod:0
+msgid "Why you! You're gonna regret this!"
+msgstr ""
+
+#. Id: 10580-Dialogue (10).mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10580-Dialogue?(10).mod:1
+msgid "DUMB MOVE!"
+msgstr ""
+
+#. Id: 10580-Dialogue (10).mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10580-Dialogue?(10).mod:2
+msgid "You dumbass!"
+msgstr ""
+
+#. Id: 10581-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10580-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10581-Dialogue?(10).mod:0
+msgid "I'll get you! Later on, outside them gates! Just you wait!"
+msgstr ""
+
+#. Id: 10581-Dialogue (10).mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (10580-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 10581-Dialogue?(10).mod:1
+msgid "I'll get you for this!"
+msgstr ""
+
+#. Id: 48585-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48585-Dialogue.mod:0
+msgid "Urk...!"
+msgstr ""
+
+#. Id: 48585-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48585-Dialogue.mod:1
+msgid "Agh...!"
+msgstr ""
+
+#. Id: 48585-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (10575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 47737-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ assassination failed
+#. Id: 57696-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Acid rain tough reaction
+#: 48585-Dialogue.mod:2 47737-Dialogue.mod:4 57696-Dialogue.mod:10
+msgid "Ouch!"
+msgstr ""
+
+#. Id: 48586-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (48585-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48586-Dialogue.mod:0
+msgid "*cough* cheap shot! *hack*"
+msgstr ""
+
+#. Id: 48586-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (48585-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48586-Dialogue.mod:1
+msgid "Augh... cheap.. shot..."
+msgstr ""
+
+#. Id: 48587-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (48585-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48587-Dialogue.mod:0
+msgid "I'll kill you for that!"
+msgstr ""
+
+#. Id: 10579-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10579-Dialogue?(10).mod:0
+msgid "How about /GETLOST/?"
+msgstr ""
+
+#. Id: 10579-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10579-Dialogue?(10).mod:1
+msgid "Nope! Beat it, goon!"
+msgstr ""
+
+#. Id: 10579-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5147-D-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 10579-Dialogue?(10).mod:2
+msgid "No! Get out of my face, punk!"
+msgstr ""
+
+#. Id: 48332-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10579-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48332-Dialogue.mod:0
+msgid "Givin' me attitude, eh? Well I got no time for it. I'll get you later, when no one can save you..."
+msgstr ""
+
+#. Id: 48332-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10579-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48332-Dialogue.mod:1
+msgid "Think yourself a wise /GUY/, eh? Then I'll just have to get you later, when no one can hear you scream!"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:0
+msgid "You owe me money!"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:1
+msgid "Where's my money?!"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:2
+msgid "I want my money!"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:3
+msgid "You seem to have my money, /BOY/..."
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:4
+msgid "Can I have my money now?"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:5
+msgid "My money?"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:6
+msgid "That's MY money."
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:7
+msgid "You owe me money..."
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:8
+msgid "I'm here to collect my debt!"
+msgstr ""
+
+#. Id: 5151-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 5151-Dialogue.mod:9
+msgid "Pay your debts, /BOY/!"
+msgstr ""
+
+#. Id: 5152-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5152-Dialogue.mod:0
+msgid "What money?"
+msgstr ""
+
+#. Id: 5152-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5152-Dialogue.mod:1
+msgid "I don't owe you any money..."
+msgstr ""
+
+#. Id: 5152-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 61883-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61882-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#: 5152-Dialogue.mod:2 61883-Dialogue.mod:0
+msgid "What are you talking about?"
+msgstr ""
+
+#. Id: 5152-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5152-Dialogue.mod:3
+msgid "I don't know what you're talking about..."
+msgstr ""
+
+#. Id: 5153-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5153-Dialogue.mod:0
+msgid "The money you owe me for not breaking your /BODYPART/! Hand it over!"
+msgstr ""
+
+#. Id: 5153-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5153-Dialogue.mod:1
+msgid "The /CATS/ you owe me for not snapping your legs off! Hand em over!"
+msgstr ""
+
+#. Id: 5153-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5153-Dialogue.mod:2
+msgid "The /CATS/ that you're paying me not to /THREAT ACTION/ your /BODYPART/ with /THREAT_TOOL/! Now, cough it up!"
+msgstr ""
+
+#. Id: 5153-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5153-Dialogue.mod:3
+msgid "Protection money. Protection against me. Pay up, /BOY/!"
+msgstr ""
+
+#. Id: 5153-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (5152-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5153-Dialogue.mod:4
+msgid "You questioning me /BOY/? You want your /BODYPART/ smashed? Just hand over your Cats!"
+msgstr ""
+
+#. Id: 5451-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5153-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5451-Dialogue.mod:0
+msgid "I'll tell the guards!"
+msgstr ""
+
+#. Id: 5451-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (5153-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5451-Dialogue.mod:1
+msgid "The guards will protect me."
+msgstr ""
+
+#. Id: 5451-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (5153-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5451-Dialogue.mod:2
+msgid "I'll get the guards!"
+msgstr ""
+
+#. Id: 5452-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5452-Dialogue.mod:0
+msgid "The guards can't do shit, /BOY/! Quit flappin'!"
+msgstr ""
+
+#. Id: 5452-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5452-Dialogue.mod:1
+msgid "/QUICKLAUGH/! The guards don't give a shit about you, /BOY/. Now quit stallin'!"
+msgstr ""
+
+#. Id: 5452-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5452-Dialogue.mod:2
+msgid "The guards can't watch you forever, /BOY/..."
+msgstr ""
+
+#. Id: 5452-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5452-Dialogue.mod:3
+msgid "Tell the guards and I swear I'll goddamn kill you..."
+msgstr ""
+
+#. Id: 5452-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5452-Dialogue.mod:4
+msgid "You're pissing me off, /BOY/... The guards can't help you, so quit stallin'!"
+msgstr ""
+
+#. Id: 5453-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5452-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5453-Dialogue.mod:0
+msgid "Leave me alone, or I'll tell!"
+msgstr ""
+
+#. Id: 5453-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (5452-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5453-Dialogue.mod:1
+msgid "The law will be on my side!"
+msgstr ""
+
+#. Id: 5454-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5454-Dialogue.mod:0
+msgid "The cops ain't gonna protect you. Bad decision."
+msgstr ""
+
+#. Id: 5454-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (5453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5454-Dialogue.mod:1
+msgid "You'll regret this, /COWARD/."
+msgstr ""
+
+#. Id: 5454-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (5453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5454-Dialogue.mod:2
+msgid "I hate sissy /BOY/s. I'll get you, just you wait..."
+msgstr ""
+
+#. Id: 5456-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#: 5456-Dialogue.mod:0
+msgid "I don't see any /COP/s around, smartass! Die!"
+msgstr ""
+
+#. Id: 48575-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48575-Dialogue.mod:0
+msgid "The guards?... /LAUGH/! Guards!? You're in the swamps now, /BOY/, ain't no /TINCAN/ baby sitters around to save your hide!"
+msgstr ""
+
+#. Id: 48576-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48575-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48576-Dialogue.mod:0
+msgid "Cry babies like you need some sense beaten into your brains!"
+msgstr ""
+
+#. Id: 48576-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (48575-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48576-Dialogue.mod:1
+msgid "Now I GOTTA beat you up for bein' such a wet leaf!"
+msgstr ""
+
+#. Id: 48577-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (48576-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48577-Dialogue.mod:0
+msgid "/LAUGH/!... Tell the guards..."
+msgstr ""
+
+#. Id: 5172-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5172-Dialogue.mod:1
+msgid "Just leave /MEUS/ (200 Cats)"
+msgstr ""
+
+#. Id: 5172-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#. Id: 5177-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5172-Dialogue.mod:2 5177-Dialogue.mod:1
+msgid "Here you go (200 Cats)"
+msgstr ""
+
+#. Id: 5172-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5172-Dialogue.mod:3
+msgid "Take it (200 Cats)"
+msgstr ""
+
+#. Id: 5182-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5182-Dialogue.mod:0
+msgid "Excuse me? I'm sorry, I don't speak thug-/TRASH/..."
+msgstr ""
+
+#. Id: 5182-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5182-Dialogue.mod:1
+msgid "You lost your money? Apologies, I don't understand trash-speak."
+msgstr ""
+
+#. Id: 5182-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5182-Dialogue.mod:2
+msgid "I don't care. Get out of my face, thug-/TRASH/."
+msgstr ""
+
+#. Id: 48579-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48579-Dialogue.mod:0
+msgid "A wise /GUY/, ah?... You oughtta be careful who you backtalk around here!"
+msgstr ""
+
+#. Id: 48579-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5182-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48579-Dialogue.mod:2
+msgid "Wrong answer, smart ass..."
+msgstr ""
+
+#. Id: 48580-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48580-Dialogue.mod:0
+msgid "Guess I'll just TAKE your Cats instead if you ain't gonna play!"
+msgstr ""
+
+#. Id: 48580-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48580-Dialogue.mod:1
+msgid "Then I'll beat it out of you instead! Shoulda co-operated!"
+msgstr ""
+
+#. Id: 48580-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (48579-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48580-Dialogue.mod:2
+msgid "Hmph. You'll regret this!"
+msgstr ""
+
+#. Id: 5843-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#: 5843-Dialogue.mod:1
+msgid "Just leave /MEUS/ (75 Cats)"
+msgstr ""
+
+#. Id: 5843-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#: 5843-Dialogue.mod:2
+msgid "Here you go (75 Cats)"
+msgstr ""
+
+#. Id: 5843-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (5151-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#: 5843-Dialogue.mod:3
+msgid "Take it (75 Cats)"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:0
+msgid "Cough up the Cats, /OUTLANDER/, I got a family to feed. Hand it over!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:1
+msgid "I'm saving up for a face lift and YOU'RE gonna pay for it, /BOY/! Gimme your Cats!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:2
+msgid "I'm feelin' peckish for a hot meal and YOU'RE gonna pay for it, /BOY/... hand over the /CATS/!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:3
+msgid "I haven't had a decent meal in 4 days and I get ANGRY when I'm hungry. You won't like me when I'm angry, /BOY/! Gimme some Cats, hand 'em over!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:4
+msgid "I'm all outta Cats and I haven't had a drink in 5 days. I hate being sober. I get real stabby. Hand over some Cats, /BOY/, now!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:6
+msgid "There's this nice slave I wanna buy, but I don't got enough /CATS/. Hand over your money, /BOY/, pay me my toll!"
+msgstr ""
+
+#. Id: 5170-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5170-Dialogue.mod:7
+msgid "I got people to feed and YOU'RE gonna help. Pay up."
+msgstr ""
+
+#. Id: 5177-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
+#: 5177-Dialogue.mod:0
+msgid "/FINE/, maybe this will help (200 Cats)"
+msgstr ""
+
+#. Id: 5179-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 5179-Dialogue.mod:0
+msgid "Good luck with that, /FRIEND/ (500 Cats)"
+msgstr ""
+
+#. Id: 5179-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 5179-Dialogue.mod:1
+msgid "This should help, /FRIEND/ (500 Cats)"
+msgstr ""
+
+#. Id: 5226-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5226-Dialogue.mod:0
+msgid "Not bad. I'll remember this"
+msgstr ""
+
+#. Id: 5226-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5226-Dialogue.mod:1
+msgid "I'll remember this"
+msgstr ""
+
+#. Id: 5226-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (5179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 5226-Dialogue.mod:2
+msgid "You're alright I s'pose"
+msgstr ""
+
+#. Id: 5226-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (5179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 8548-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by neutral
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 5226-Dialogue.mod:3 8548-Dialogue.mod:2
+msgid "Not bad"
+msgstr ""
+
+#. Id: 5181-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5181-Dialogue.mod:0
+msgid "Oh boohoo, cry me a river..."
+msgstr ""
+
+#. Id: 5181-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 5181-Dialogue.mod:1
+msgid "Oh boohoo, cry me a freakin' river..."
+msgstr ""
+
+#. Id: 5844-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>75, Tag: -1
+#: 5844-Dialogue.mod:0
+msgid "/FINE/, maybe this will help (75 Cats)"
+msgstr ""
+
+#. Id: 13736-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 13736-Escapes.mod:0
+msgid "Not good enough, /BOY/! Try again...!"
+msgstr ""
+
+#. Id: 13736-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (5844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 13736-Escapes.mod:1
+msgid "Not gonna cut it, /BOY/! Try again...!"
+msgstr ""
+
+#. Id: 13738-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13736-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#: 13738-Escapes.mod:0
+msgid "I can't give you any more..."
+msgstr ""
+
+#. Id: 13739-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Give me your money (interrupt)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75, Tag: -1
+#: 13739-Escapes.mod:0
+msgid "I don't have any money..."
+msgstr ""
+
+#. Id: 13742-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 13742-Escapes.mod:0
+msgid "Too bad, I'll just have to take your pants instead..."
+msgstr ""
+
+#. Id: 13742-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 13742-Escapes.mod:1
+msgid "Too bad, I'll just have to steal your pants from you instead..."
+msgstr ""
+
+#. Id: 13742-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#. Id: 48573-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 13742-Escapes.mod:2 48573-Dialogue.mod:2
+msgid "Then I guess I'll just take the clothes from your back..."
+msgstr ""
+
+#. Id: 48572-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13742-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48572-Dialogue.mod:0
+msgid "Now we'll have to do this the hard way!"
+msgstr ""
+
+#. Id: 48572-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (13742-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48572-Dialogue.mod:1
+msgid "I guess we'll just have to do this the painful way!"
+msgstr ""
+
+#. Id: 48572-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (13742-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48572-Dialogue.mod:2
+msgid "I'm gonna have to take the Cats from your /CORPSE/!"
+msgstr ""
+
+#. Id: 48572-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (13742-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48572-Dialogue.mod:3
+msgid "I'm just gonna have to beat your Cats out of you!"
+msgstr ""
+
+#. Id: 48573-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48573-Dialogue.mod:0
+msgid "Too bad, I'll just have to take your pants later instead..."
+msgstr ""
+
+#. Id: 48573-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13739-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give me your money (interrupt)
+#: 48573-Dialogue.mod:1
+msgid "Too bad, I'll just have to steal your pants from you later..."
+msgstr ""
+

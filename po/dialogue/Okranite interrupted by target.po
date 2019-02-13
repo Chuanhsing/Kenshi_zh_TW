@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#: 46318-Dialogue.mod:0
+msgid "Demon possessed!"
+msgstr ""
+
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#: 46318-Dialogue.mod:1
+msgid "Robot possessed!"
+msgstr ""
+
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#: 46318-Dialogue.mod:2
+msgid "Skeleton possessed!"
+msgstr ""
+
+#. Id: 46318-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#: 46318-Dialogue.mod:4
+msgid "/HEIS/ possessed!"
+msgstr ""
+
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 46328-Dialogue.mod:0
+msgid "Skeleton demon spawn!"
+msgstr ""
+
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 46328-Dialogue.mod:1
+msgid "Skeleton attack!"
+msgstr ""
+
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 46328-Dialogue.mod:2
+msgid "Robot attack!"
+msgstr ""
+
+#. Id: 46328-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Okranite interrupted by target
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 46328-Dialogue.mod:3
+msgid "Abomination!"
+msgstr ""
+

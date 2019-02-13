@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54266-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 54266-Dialogue.mod:0
+msgid "Wai-- Did you see that? Up ahead, I'm sure I saw something..."
+msgstr ""
+
+#. Id: 54268-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54267-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54268-Dialogue.mod:0
+msgid "Stay alert. This is the heart of the cannibal plains now and we're the prey..."
+msgstr ""
+
+#. Id: 54311-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54310-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54311-Dialogue.mod:0
+msgid "It's just the wind. Relax, stay off the hashish a while, eh?"
+msgstr ""
+
+#. Id: 54314-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54313-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54314-Dialogue.mod:0
+msgid "It's not that. This is the cannibal plains, you're being hunted."
+msgstr ""
+
+#. Id: 54315-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54314-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#. Id: 54299-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54293-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54315-Dialogue.mod:0 54299-Dialogue.mod:0
+msgid "It wasn't always like this. We don't know why the northwesterners suddenly developed a taste for humanoid meat..."
+msgstr ""
+
+#. Id: 54316-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54315-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#. Id: 54301-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54300-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54316-Dialogue.mod:0 54301-Dialogue.mod:0
+msgid "... Guess that's lucky for you, eh, tinhead? The one place in the land where you're NOT the prey."
+msgstr ""
+
+#. Id: 54317-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54316-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#. Id: 54302-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (54301-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54317-Dialogue.mod:0 54302-Dialogue.mod:0
+msgid "Just make sure you rescue us if we get caught and sentenced to the chopping block."
+msgstr ""
+
+#. Id: 54269-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 54269-Dialogue.mod:0
+msgid "Anybody else get the distinct feeling they're being watched?"
+msgstr ""
+
+#. Id: 54272-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54271-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54272-Dialogue.mod:0
+msgid "Must be the forbidden lands, where it's said that the locals run naked and worship Narko. I feel it too, the air is heavy here."
+msgstr ""
+
+#. Id: 54275-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54274-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54275-Dialogue.mod:0
+msgid "Naked, eh? Well, I shall have to study these locals further! You know, for uh... research purposes..."
+msgstr ""
+
+#. Id: 54340-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54339-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54340-Dialogue.mod:0
+msgid "Naked, eh? Well, I shall have to study these locals further! You know, for uh... medical research purposes..."
+msgstr ""
+
+#. Id: 54277-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54276-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54277-Dialogue.mod:0
+msgid "Yep. That's because this is the cannibal plains. "
+msgstr ""
+
+#. Id: 54278-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54277-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54278-Dialogue.mod:0
+msgid "The good news is that the place is littered with ancient tech. Just gotta survive the naked cannibals first."
+msgstr ""
+
+#. Id: 54280-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54279-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54280-Dialogue.mod:0
+msgid "That's because you ARE being watched. This is the cannibal plains and we're the prey."
+msgstr ""
+
+#. Id: 54281-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54280-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54281-Dialogue.mod:0
+msgid "As individuals they're weak, but as a horde they're formidable. Stay on your toes."
+msgstr ""
+
+#. Id: 54288-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54289-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54288-Dialogue.mod:0
+msgid "Then keep your eyes peeled and be ready to run or fight."
+msgstr ""
+
+#. Id: 54291-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54290-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54291-Dialogue.mod:0
+msgid "... Savages with sticks. Nothing we can't handle."
+msgstr ""
+
+#. Id: 54283-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54282-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54283-Dialogue.mod:0
+msgid "Hold up, CANNIBAL plains?!"
+msgstr ""
+
+#. Id: 54284-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54283-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54284-Dialogue.mod:0
+msgid "Great, out of one cooking pot and into another. Literally..."
+msgstr ""
+
+#. Id: 54344-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54343-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Cannibal plains biome entry
+#: 54344-Dialogue.mod:0
+msgid "Cannibals?!... Such evil savages should be destroyed before they kill more innocents..."
+msgstr ""
+
+#. Id: 54345-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54344-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54345-Dialogue.mod:0
+msgid "Be a hero all you want. But I'll be hightailing it outta there while the savages are feeding on your carcass..."
+msgstr ""
+
+#. Id: 54293-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54292-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54293-Dialogue.mod:0
+msgid "Most likely because you ARE. This is the cannibal plains and you're the prey here."
+msgstr ""
+
+#. Id: 54295-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54294-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54295-Dialogue.mod:0
+msgid "There's nothing around, quit being paranoid. Maybe lay off the hashish a while, eh?"
+msgstr ""
+
+#. Id: 54296-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54295-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#: 54296-Dialogue.mod:0
+msgid "Not paranoia. I know when I'm being watched..."
+msgstr ""
+
+#. Id: 54297-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (54296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#: 54297-Dialogue.mod:0
+msgid "Stay on your toes..."
+msgstr ""
+
+#. Id: 54270-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 54270-Dialogue.mod:0
+msgid "We're reaching unchartered territory now... Anyone else get the feeling we're being watched?"
+msgstr ""
+
+#. Id: 54322-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#: 54322-Dialogue.mod:0
+msgid "... Vigilance. We're being watched."
+msgstr ""
+
+#. Id: 54324-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54323-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54324-Dialogue.mod:0
+msgid "That's because this is the cannibal plains. You're being hunted."
+msgstr ""
+
+#. Id: 54326-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54325-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54326-Dialogue.mod:0
+msgid "Cannibals. This is their territory now... and we're the prey."
+msgstr ""
+
+#. Id: 54328-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54327-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Cannibal plains biome entry
+#: 54328-Dialogue.mod:0
+msgid "Oh, that's just me. Couldn't help staring at an old piece o' gristle flap stuck on your horn... How'd you even get that there anyway?"
+msgstr ""
+
+#. Id: 54329-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (54328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal plains biome entry
+#: 54329-Dialogue.mod:0
+msgid "... Buffoon."
+msgstr ""
+
+#. Id: 54331-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54330-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Cannibal plains biome entry
+#: 54331-Dialogue.mod:0
+msgid "The Shek is right. This is the heart of the cannibal plains now and we're the prey..."
+msgstr ""
+

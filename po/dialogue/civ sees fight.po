@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:0
+msgid "Not in my house! /OI/!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:1
+msgid "/OI/! Take it outside!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:2
+msgid "Damn it, you're gonna get blood everywhere!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:3
+msgid "Oh come on!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:4
+msgid "I just finished scrubbing the floor!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:5
+msgid "Out! All of you!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:6
+msgid "Outside! Outside, I said!"
+msgstr ""
+
+#. Id: 4763-D-dialogue-02.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 4763-D-dialogue-02.mod:7
+msgid "Not here, dammit!"
+msgstr ""
+
+#. Id: 4767-D-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4763-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 4767-D-dialogue-02.mod:0
+msgid "What'd you say?!"
+msgstr ""
+
+#. Id: 4767-D-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4763-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 4767-D-dialogue-02.mod:1
+msgid "You say something?!"
+msgstr ""
+
+#. Id: 4767-D-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4763-D-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 4767-D-dialogue-02.mod:2
+msgid "Little busy here!"
+msgstr ""
+
+#. Id: 4769-D-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4767-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#: 4769-D-dialogue-02.mod:0
+msgid "Forget it."
+msgstr ""
+
+#. Id: 4769-D-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4767-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. Id: 49645-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 1380-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1375-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 1533043-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533040-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Ally talk to Flotsam Ninja
+#. Id: 59333-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59331-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek law bounty
+#: 4769-D-dialogue-02.mod:1 49645-Dialogue.mod:0 1380-gamedata.base:0 1533043-Dialogue.mod:0 59333-Dialogue.mod:0
+msgid "Nothing."
+msgstr ""
+
+#. Id: 4769-D-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4767-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#: 4769-D-dialogue-02.mod:2
+msgid "Never mind."
+msgstr ""
+
+#. Id: 4770-D-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4769-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. Id: 96046-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96045-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave check interrogation --Unfinished--
+#. Id: 52802-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52801-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#: 4770-D-dialogue-02.mod:0 96046-Dialogue.mod:0 52802-Dialogue.mod:0
+msgid "Carry on."
+msgstr ""
+
+#. Id: 4770-D-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4769-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#: 4770-D-dialogue-02.mod:1
+msgid "Go right ahead."
+msgstr ""
+
+#. Id: 4770-D-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4769-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#: 4770-D-dialogue-02.mod:2
+msgid "Don't mind me."
+msgstr ""
+
+#. Id: 4774-D-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4770-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4774-D-dialogue-02.mod:0
+msgid "You missed a spot."
+msgstr ""
+
+#. Id: 4774-D-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4770-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4774-D-dialogue-02.mod:1
+msgid "Still a clean spot over there."
+msgstr ""
+
+#. Id: 4774-D-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (4770-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
+#: 4774-D-dialogue-02.mod:2
+msgid "Oh look. A place you haven't spilled blood."
+msgstr ""
+
+#. Id: 4772-D-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4763-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=1, Tag: -1
+#: 4772-D-dialogue-02.mod:0
+msgid "And how'd you get in?!"
+msgstr ""
+
+#. Id: 4772-D-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4763-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: civ sees fight
+#. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=1, Tag: -1
+#: 4772-D-dialogue-02.mod:1
+msgid "What're you doing in here, anyway?!"
+msgstr ""
+

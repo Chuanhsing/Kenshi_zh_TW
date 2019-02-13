@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15968-Dialogue.mod:0 3623-dialogue-01.mod:0
+msgid "Ughh."
+msgstr ""
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48018-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15968-Dialogue.mod:1 3623-dialogue-01.mod:1 48018-Dialogue.mod:1
+msgid "Agh."
+msgstr ""
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48018-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15968-Dialogue.mod:2 3623-dialogue-01.mod:2 48018-Dialogue.mod:2
+msgid "Mmmph."
+msgstr ""
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48018-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15968-Dialogue.mod:3 3623-dialogue-01.mod:3 48018-Dialogue.mod:3
+msgid "Urgh."
+msgstr ""
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48018-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15968-Dialogue.mod:4 3623-dialogue-01.mod:4 48018-Dialogue.mod:4
+msgid "Eurrk."
+msgstr ""
+
+#. Id: 15968-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. Id: 3623-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48018-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15968-Dialogue.mod:5 3623-dialogue-01.mod:5 48018-Dialogue.mod:5
+msgid "Unnff."
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:0 3624-dialogue-01.mod:0
+msgid "I won't back down!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:1 3624-dialogue-01.mod:1
+msgid "That was nothing!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:2 3624-dialogue-01.mod:2
+msgid "Until my last breath!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:4 3624-dialogue-01.mod:4
+msgid "Dare you to try that again!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:5 3624-dialogue-01.mod:5
+msgid "No more holding back."
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:6 3624-dialogue-01.mod:6
+msgid "Let me show you what a killing looks like."
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3624-dialogue-01.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:7 3624-dialogue-01.mod:7
+msgid "I was born for this!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:8
+msgid "I won't give up!"
+msgstr ""
+
+#. Id: 15969-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15969-Dialogue.mod:9
+msgid "Let's do this."
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#: 15970-Dialogue.mod:0 15970-Dialogue.mod:9 3626-dialogue-01.mod:0 13857-Escapes.mod:12
+msgid "I'm getting out of here!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15970-Dialogue.mod:1 3626-dialogue-01.mod:1
+msgid "I'll die if I don't run!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 12203-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Marked for death shek civ
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 48019-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15970-Dialogue.mod:2 12203-Dialogue?(10).mod:2 3626-dialogue-01.mod:2 48019-Dialogue.mod:2
+msgid "Get away from me!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15970-Dialogue.mod:3 3626-dialogue-01.mod:3
+msgid "What am I still doing here?!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15970-Dialogue.mod:4 3626-dialogue-01.mod:4
+msgid "Fuck this!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15970-Dialogue.mod:5 3626-dialogue-01.mod:5
+msgid "Don't need this shit!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 48019-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15970-Dialogue.mod:6 3626-dialogue-01.mod:6 48019-Dialogue.mod:3
+msgid "The only win is staying alive!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 3626-dialogue-01.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 15970-Dialogue.mod:7 3626-dialogue-01.mod:7
+msgid "Fine! You win!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 13857-Escapes.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
+#. Id: 45509-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 15970-Dialogue.mod:8 13857-Escapes.mod:10 45509-Dialogue.mod:0
+msgid "Screw this!"
+msgstr ""
+
+#. Id: 15970-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
+#: 15970-Dialogue.mod:10
+msgid "That's it! I'm outta here!"
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48019-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15971-Dialogue.mod:0 3627-dialogue-01.mod:0 48019-Dialogue.mod:4
+msgid "No. I can still stand."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#. Id: 48019-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (48018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight desparate
+#: 15971-Dialogue.mod:1 3627-dialogue-01.mod:1 48019-Dialogue.mod:5
+msgid "Have to fight on."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15971-Dialogue.mod:3 3627-dialogue-01.mod:2
+msgid "Can't run from this."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15971-Dialogue.mod:4 3627-dialogue-01.mod:4
+msgid "I'm stronger than this."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15971-Dialogue.mod:5 3627-dialogue-01.mod:5
+msgid "One. More. Time."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15971-Dialogue.mod:6 3627-dialogue-01.mod:6
+msgid "Time to give some back."
+msgstr ""
+
+#. Id: 15971-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (15968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 3627-dialogue-01.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (3623-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up while battle continues
+#: 15971-Dialogue.mod:7 3627-dialogue-01.mod:7
+msgid "Blood for blood."
+msgstr ""
+

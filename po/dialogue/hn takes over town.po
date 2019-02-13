@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 99038-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hn takes over town
+#: 99038-Dialogue.mod:0
+msgid "Area purged."
+msgstr ""
+
+#. Id: 99038-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hn takes over town
+#: 99038-Dialogue.mod:1
+msgid "Darkness defeated!"
+msgstr ""
+
+#. Id: 99038-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hn takes over town
+#. Id: 99674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: crowd trigger in faith
+#. Id: 98932-Dialogue.mod
+#. -- Index: 25.0
+#. -- Parent line: 24 (98931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. Id: 98933-Dialogue.mod
+#. -- Index: 26.0
+#. -- Parent line: 25 (98932-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#. Id: 99672-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (99671-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation turns up to protect player base
+#: 99038-Dialogue.mod:2 99674-Dialogue.mod:0 98932-Dialogue.mod:0 98933-Dialogue.mod:0 99672-Dialogue.mod:0
+msgid "In faith."
+msgstr ""
+
+#. Id: 99040-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hn takes over town
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 99040-Dialogue.mod:0
+msgid "I hereby return this land to the Lord Of Light..."
+msgstr ""
+
+#. Id: 99042-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (99040-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hn takes over town
+#: 99042-Dialogue.mod:0
+msgid "And remove the heretics that corrupt his soil."
+msgstr ""
+

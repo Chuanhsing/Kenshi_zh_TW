@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44153-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 44153-Dialogue.mod:0
+msgid "Thought you could outrun the law, did you, fugitive?"
+msgstr ""
+
+#. Id: 44153-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 44153-Dialogue.mod:1
+msgid "A piece of advice from me to you, convict: You can never outrun the law, better to get your punishment over with than to play with fire...."
+msgstr ""
+
+#. Id: 44155-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44153-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44155-Dialogue.mod:0
+msgid "Well, I'm a nice guy, so I'll give you a chance. Pay the fine and I'll set you free, I'll wipe your bounty clean and you can safely walk the cities once again..."
+msgstr ""
+
+#. Id: 44156-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44155-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 62010-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62009-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Taxman 3rd
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 95466-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC base visit talk to 2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4500, Tag: -1
+#. Id: 60534-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60532-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 60543-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60533-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4500, Tag: -1
+#. Id: 60479-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60471-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base visit talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 44156-Dialogue.mod:0 62010-Dialogue.mod:0 95466-Dialogue.mod:0 60534-Dialogue.mod:0 60543-Dialogue.mod:0 60479-Dialogue.mod:0
+msgid "Okay, I'll pay."
+msgstr ""
+
+#. Id: 44159-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>0, Tag: -1
+#. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL<251, Tag: -1
+#: 44159-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 300 Cats."
+msgstr ""
+
+#. Id: 44188-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44159-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
+#. Id: 44206-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44160-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
+#. Id: 44207-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44161-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#. Id: 44208-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>600, Tag: -1
+#. Id: 44209-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44163-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>700, Tag: -1
+#. Id: 44210-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>800, Tag: -1
+#. Id: 44211-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44165-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>900, Tag: -1
+#. Id: 44212-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44166-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
+#. Id: 44213-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1100, Tag: -1
+#: 44188-Dialogue.mod:0 44206-Dialogue.mod:0 44207-Dialogue.mod:0 44208-Dialogue.mod:0 44209-Dialogue.mod:0 44210-Dialogue.mod:0 44211-Dialogue.mod:0 44212-Dialogue.mod:0 44213-Dialogue.mod:0
+msgid "Fine. Here"
+msgstr ""
+
+#. Id: 44391-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44391-Dialogue.mod:0
+msgid "Good. Now stay out of trouble, I don't want any repeat offences..."
+msgstr ""
+
+#. Id: 44392-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (44391-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44392-Dialogue.mod:0
+msgid "You're clear."
+msgstr ""
+
+#. Id: 44392-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (44391-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. Id: 12821-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: police free to go
+#. Id: 48356-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prisoner free to go
+#: 44392-Dialogue.mod:1 12821-gamedata.base:0 48356-Dialogue.mod:0
+msgid "You're free to go."
+msgstr ""
+
+#. Id: 44222-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44159-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44237-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44160-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44238-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44161-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44239-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44240-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44163-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44241-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44242-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44165-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. Id: 44243-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44166-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44222-Dialogue.mod:0 44237-Dialogue.mod:0 44238-Dialogue.mod:0 44239-Dialogue.mod:0 44240-Dialogue.mod:0 44241-Dialogue.mod:0 44242-Dialogue.mod:0 44243-Dialogue.mod:0
+msgid "What? This is extortion!"
+msgstr ""
+
+#. Id: 44234-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44222-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44234-Dialogue.mod:0
+msgid "I'm doing you a favour, criminal. Call it my fee for granting your freedom, it's a bargain. You're lucky I'm in a generous mood!"
+msgstr ""
+
+#. Id: 44235-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (44234-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44235-Dialogue.mod:0
+msgid "... But if you'd rather not pay, there's a perfectly good jail cell with your name on it."
+msgstr ""
+
+#. Id: 44160-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<351, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>250, Tag: -1
+#: 44160-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 400 Cats."
+msgstr ""
+
+#. Id: 44161-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<451, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>350, Tag: -1
+#: 44161-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 500 Cats."
+msgstr ""
+
+#. Id: 44162-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<551, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>450, Tag: -1
+#: 44162-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 600 Cats."
+msgstr ""
+
+#. Id: 44163-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<651, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>550, Tag: -1
+#: 44163-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 700 Cats."
+msgstr ""
+
+#. Id: 44164-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<751, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>650, Tag: -1
+#: 44164-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 800 Cats."
+msgstr ""
+
+#. Id: 44165-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<851, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>750, Tag: -1
+#: 44165-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 900 Cats."
+msgstr ""
+
+#. Id: 44166-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<951, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>850, Tag: -1
+#: 44166-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 1000 Cats."
+msgstr ""
+
+#. Id: 44167-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44156-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL<1051, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>950, Tag: -1
+#: 44167-Dialogue.mod:0
+msgid "Okay, let's see... Criminal charges plus interest... that will be 1100 Cats."
+msgstr ""
+
+#. Id: 96205-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44157-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. Id: 51761-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51760-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#: 96205-Dialogue.mod:0 51761-Dialogue.mod:0
+msgid "Can't talk?"
+msgstr ""
+
+#. Id: 44158-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44155-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44158-Dialogue.mod:0
+msgid "Nope, not interested."
+msgstr ""
+
+#. Id: 96204-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 96204-Dialogue.mod:0
+msgid "Too bad, I guess rotting in a prison cage will interest you more..."
+msgstr ""
+
+#. Id: 44154-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44154-Dialogue.mod:0
+msgid "Since your bounty's only a small one, I'll give you a chance to buy your freedom. Pay the bounty, or sit out your sentence in jail, your choice."
+msgstr ""
+
+#. Id: 44357-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44357-Dialogue.mod:0
+msgid "I'll pay my bounty"
+msgstr ""
+
+#. Id: 44358-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<100, Tag: -1
+#: 44358-Dialogue.mod:0
+msgid "I don't have enough money to pay..."
+msgstr ""
+
+#. Id: 44393-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44358-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44393-Dialogue.mod:0
+msgid "Tough break... But I've no sympathy for criminals, you'll serve your time in jail and pay for your damages."
+msgstr ""
+
+#. Id: 44394-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. Id: 52793-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52792-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Forbidden/ drug check holy nation part 2
+#. Id: 51862-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (51874-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 52246-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (52178-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drug bust bribe
+#. Id: 53232-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52310-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 53238-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52300-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 53236-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53218-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 44394-Dialogue.mod:0 52793-Dialogue.mod:0 51862-Dialogue.mod:0 52246-Dialogue.mod:0 53232-Dialogue.mod:0 53238-Dialogue.mod:0 53236-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/."
+msgstr ""
+
+#. Id: 44359-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44359-Dialogue.mod:0
+msgid "No. You ain't getting a single Cat out of me."
+msgstr ""
+
+#. Id: 44396-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44359-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44396-Dialogue.mod:0
+msgid "A poor choice. If you won't pay your bounty, you'll pay for your crimes in jail..."
+msgstr ""
+
+#. Id: 44396-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44359-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44396-Dialogue.mod:1
+msgid "Your stubborness does you no favours. If you won't pay your charges, then you'll pay for your crimes with your time..."
+msgstr ""
+
+#. Id: 44360-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44360-Dialogue.mod:0
+msgid "Ha... You think you can actually arrest me?"
+msgstr ""
+
+#. Id: 44360-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44360-Dialogue.mod:1
+msgid "How cute! You think you can arrest me"
+msgstr ""
+
+#. Id: 44360-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44360-Dialogue.mod:2
+msgid "Ha! Fool, I'd like to see you try arresting me"
+msgstr ""
+
+#. Id: 44360-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#: 44360-Dialogue.mod:3
+msgid "You want to arrest me?...  Ha, try me."
+msgstr ""
+
+#. Id: 44361-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44361-Dialogue.mod:0
+msgid "Are you mocking me?... Arrogant /WORM/!"
+msgstr ""
+
+#. Id: 44362-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44362-Dialogue.mod:0
+msgid "Are you mocking me?... /GREASY/ criminal!"
+msgstr ""
+
+#. Id: 44363-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44360-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 44363-Dialogue.mod:0
+msgid "Are you mocking me?... Brazen /TEMPTRESS/! Know your place!"
+msgstr ""
+
+#. Id: 44372-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44154-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
+#: 44372-Dialogue.mod:0
+msgid "Don't you know who I am? I suggest you turn and run."
+msgstr ""
+
+#. Id: 44375-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44372-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 44375-Dialogue.mod:0
+msgid "You're just a /MAN/, and all /MEN2/ bleed... You don't scare me!"
+msgstr ""
+
+#. Id: 44388-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44375-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44388-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/! Don't let /HIM/ fool you, /HIS/ legend precedes /HIM/!"
+msgstr ""
+
+#. Id: 44382-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44376-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bounty extortion pay
+#: 44382-Dialogue.mod:0
+msgid "One of these days you'll be hunted down!... Fall back!"
+msgstr ""
+

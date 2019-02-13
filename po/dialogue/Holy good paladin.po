@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53864-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53864-Dialogue.mod:0
+msgid "/HOLYGREET/. Welcome to the /SACRED/ /LAND/, homeland and /REFUGE/ to all humans pure of blood. Darkness looms at every corner of the land, but you are safe here, /BROTHER/, where you belong under the Holy Lord Phoenix Himself's watch, blessed be his name."
+msgstr ""
+
+#. Id: 53864-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53864-Dialogue.mod:1
+msgid "/HOLYGREET/. Welcome to your motherland, the /SACRED/ /LAND/ of the Holy Lord Phoenix Himself, blessed be his name. Evil lurks in all shadows of the land but Okran watches over you here, /BROTHER/, where you belong as a pure blood. "
+msgstr ""
+
+#. Id: 53864-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53864-Dialogue.mod:2
+msgid "/HOLYGREET/. Welcome home to the /SACRED/ /LAND/. The lands of light and purity where you truly belong under the /REFUGE/ of the Lord Okran."
+msgstr ""
+
+#. Id: 53864-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53864-Dialogue.mod:3
+msgid "/HOLYGREET/. Welcome to the /SACRED/ /LAND/. A /REFUGE/ from the darkness that plagues our lands, a place where you belong as a pure and true child of Okran."
+msgstr ""
+
+#. Id: 53865-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53865-Dialogue.mod:0
+msgid "Uh, thanks?"
+msgstr ""
+
+#. Id: 53865-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53865-Dialogue.mod:1
+msgid "This is a holy place?"
+msgstr ""
+
+#. Id: 53865-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53865-Dialogue.mod:2
+msgid "Where I belong?"
+msgstr ""
+
+#. Id: 53869-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53869-Dialogue.mod:0
+msgid "As I thought, you're not from here, are you?... In a world of darkness and deceit, we look out for one another here, as brothers. Do not become lost to the shadows, my friend."
+msgstr ""
+
+#. Id: 53869-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53869-Dialogue.mod:1
+msgid "Ah, you're not from our lands... Well, know that we look after one another here, as brothers of Okran. The land is full of evil and impure beings, be sure to stick with your brothers and steer away from the darkness, my friend."
+msgstr ""
+
+#. Id: 53869-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53869-Dialogue.mod:2
+msgid "As I assumed, you're not from our lands... The world is plagued with the evil trickery of Narko. We must stick together and care for one another, both as pure brothers and as children of Okran."
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:0
+msgid "Now, please, have some food, and know that you are in good hands here. I trust you'll choose the right path to live by, a holy one under Okran's watchful eye."
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:1
+msgid "There will be no hunger, no illness, no suffering on /SACRED/ /LAND/. Please, take some food, and be safe."
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:2
+msgid "Now, please, take some food. Know that you are in good hands here."
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:3
+msgid "Anyway, I have some spare rations, please, take this food and be safe. It's easy to run low on supplies out here."
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:4
+msgid "Anyway, here, take some rations. It's easy to lose your way and starve in /THISPLACE/, stay stocked up and /BECAREFUL/, got it?"
+msgstr ""
+
+#. Id: 53870-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53870-Dialogue.mod:5
+msgid "Now, be safe, brother. Please accept a gift, some supplies to aid you in your travels. You're in good hands here."
+msgstr ""
+
+#. Id: 53872-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53872-Dialogue.mod:1
+msgid "May the Lord Of Light watch over you"
+msgstr ""
+
+#. Id: 53872-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (53870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53872-Dialogue.mod:2
+msgid "May the Lord Of Light protect you"
+msgstr ""
+
+#. Id: 53872-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (53870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53872-Dialogue.mod:3
+msgid "May the Lord Of Light guide you"
+msgstr ""
+
+#. Id: 53885-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 53885-Dialogue.mod:0
+msgid "Now, you look hurt, brother, do you need medical supplies? Take this first aid kit, take some time to recover your wounds."
+msgstr ""
+
+#. Id: 53885-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53889-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53892-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 53885-Dialogue.mod:1 53889-Dialogue.mod:1 53892-Dialogue.mod:1
+msgid "Now, more importantly, you look like you could use some aid for that wound, brother. Here, take some supplies, you're in good hands here. "
+msgstr ""
+
+#. Id: 53885-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53889-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53892-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 53885-Dialogue.mod:2 53889-Dialogue.mod:2 53892-Dialogue.mod:2
+msgid "Now, more importantly, let's get that wound seen to, brother. Here, take some of my meds and rest up. Let the wound fester and you'll become walking Gutter food."
+msgstr ""
+
+#. Id: 53885-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53889-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53892-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 53885-Dialogue.mod:3 53889-Dialogue.mod:3 53892-Dialogue.mod:3
+msgid "Now, more importantly, let's get that wound seen to, brother. If the beasts smell your blood even Okran can't defend you against their hunger. Here, take some my first aid kit and /BECAREFUL/. "
+msgstr ""
+
+#. Id: 53889-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 53892-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 53889-Dialogue.mod:0 53892-Dialogue.mod:0
+msgid "Now, you look hurt, brother, do you need medical supplies? Please, take this first aid kit, take some time to recover your wounds."
+msgstr ""
+
+#. Id: 53894-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53894-Dialogue.mod:0
+msgid "Now, more importantly, you look like you could use a good meal. Take my rations, I'm sure you need them more than me. Be healthy, brother."
+msgstr ""
+
+#. Id: 53894-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53894-Dialogue.mod:1
+msgid "Now, you look starved half to death. Here, take this, you need these rations more than I do. Be well, brother."
+msgstr ""
+
+#. Id: 53894-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53894-Dialogue.mod:2
+msgid "Now, let's get you some food, you look dangerously malnourished. Here, take my rations and be well, brother."
+msgstr ""
+
+#. Id: 53894-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (53869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 53894-Dialogue.mod:3
+msgid "Now, let's get you fed, you look like you haven't seen a decent meal in weeks. Take /MYOUR/ spare rations and be healthy, brother."
+msgstr ""
+
+#. Id: 53895-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53895-Dialogue.mod:0
+msgid "It's easy to find danger and lose your path when you journey away from the /SACRED/ cities, my brother. Remember to stay true to your purity and take /REFUGE/ in the Holy Lord Phoenix Himself, blessed be his name."
+msgstr ""
+
+#. Id: 53895-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53895-Dialogue.mod:1
+msgid "Be sure to make use of the /REFUGE/ of the /SACRED/ cities, my brother. It's dangerous in /THISPLACE/ but you're not completely alone."
+msgstr ""
+
+#. Id: 53867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53867-Dialogue.mod:0
+msgid "... I guess you want something from me?"
+msgstr ""
+
+#. Id: 53867-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53864-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53867-Dialogue.mod:1
+msgid "... And what do you want from me?"
+msgstr ""
+
+#. Id: 53877-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53877-Dialogue.mod:0
+msgid "[He moves his hand to his sword] ... Why the silence, brother?... Are you unwell? "
+msgstr ""
+
+#. Id: 53877-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53876-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53877-Dialogue.mod:1
+msgid "[He shifts to a battle-ready stance] ... Something ailing you, brother?... You don't speak? "
+msgstr ""
+
+#. Id: 53878-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53878-Dialogue.mod:0
+msgid "I've nothing to say. So, do you want something from me?"
+msgstr ""
+
+#. Id: 53881-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53878-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53881-Dialogue.mod:0
+msgid "[He squints his eyes at you and looks you up and down]"
+msgstr ""
+
+#. Id: 53882-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53882-Dialogue.mod:0
+msgid "No, I want nothing of you. May Okran keep you safe and free of Narko's dark ones during your travels, brother..."
+msgstr ""
+
+#. Id: 53882-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (53881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53882-Dialogue.mod:1
+msgid "No, I want nothing of you. May Okran keep you safe and free of Narko's /TAINT/ing during your travels, brother..."
+msgstr ""
+
+#. Id: 53880-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53880-Dialogue.mod:0
+msgid "I'm fine. Just sick of listening to you preaching /TINCAN/s."
+msgstr ""
+
+#. Id: 53900-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53899-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53900-Dialogue.mod:0
+msgid "Leave him. He deserves no compassion."
+msgstr ""
+
+#. Id: 53901-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53901-Dialogue.mod:0
+msgid "Oh there's nothing wrong with ME. But, you, I must destroy!"
+msgstr ""
+
+#. Id: 53901-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (53877-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Holy good paladin
+#: 53901-Dialogue.mod:1
+msgid "You were a fool to approach me. (Attack)"
+msgstr ""
+
+#. Id: 53902-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53901-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53902-Dialogue.mod:0
+msgid "A dark one! Ready your swords!"
+msgstr ""
+
+#. Id: 53902-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (53901-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy good paladin
+#: 53902-Dialogue.mod:1
+msgid "He's darkened! Stand ready!"
+msgstr ""
+

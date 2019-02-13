@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5096-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5096-gamedata.base:0
+msgid "Okay job's over, see ya!"
+msgstr ""
+
+#. Id: 5096-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5096-gamedata.base:1
+msgid "Job's finished, time to go."
+msgstr ""
+
+#. Id: 5103-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5096-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#: 5103-gamedata.base:0
+msgid "Don't worry, I'll finish up here first, but then I'm outta here!"
+msgstr ""
+
+#. Id: 5103-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5096-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
+#: 5103-gamedata.base:1
+msgid "After this fight of course!"
+msgstr ""
+
+#. Id: 5107-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5096-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 5107-gamedata.base:0
+msgid "Uhhh... guess you're not conscious... heh."
+msgstr ""
+
+#. Id: 5107-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5096-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 5107-gamedata.base:1
+msgid ".... you can't hear me can you?"
+msgstr ""
+
+#. Id: 5107-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5096-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#: 5107-gamedata.base:2
+msgid "Hello? Still alive? Hmmm."
+msgstr ""
+
+#. Id: 5109-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 5109-gamedata.base:0
+msgid "Guess I can't really leave you here all alone..."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:0
+msgid "Fine, I'll guard you a little longer..."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:1
+msgid "Ok, this one's a freebie."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:2
+msgid "Look at me, working for free now. Geez."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:3
+msgid "Can't believe I'm doing this..."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.4
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:4
+msgid "Damn... Workin' overtime."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.5
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:5
+msgid "Stupid client, gettin' /HIMSELF/ all beaten up and stuff..."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.6
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:6
+msgid "You owe me /MAN/."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.7
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:7
+msgid "I'm too old for this shit..."
+msgstr ""
+
+#. Id: 5114-gamedata.base
+#. -- Index: 3.8
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5114-gamedata.base:8
+msgid "Working for free now..."
+msgstr ""
+
+#. Id: 5120-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5120-gamedata.base:0
+msgid "But I will anyway!"
+msgstr ""
+
+#. Id: 5120-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5120-gamedata.base:1
+msgid "But that's life!"
+msgstr ""
+
+#. Id: 5120-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5120-gamedata.base:2
+msgid "Life is tough, eh?"
+msgstr ""
+
+#. Id: 5120-gamedata.base
+#. -- Index: 3.4
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5120-gamedata.base:4
+msgid "I will though!"
+msgstr ""
+
+#. Id: 5120-gamedata.base
+#. -- Index: 3.5
+#. -- Parent line: 2 (5109-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 40512-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: purchased slave reaction- general
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5120-gamedata.base:5 40512-gamedata.base:3
+msgid "Bye!"
+msgstr ""
+
+#. Id: 5111-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5111-gamedata.base:0
+msgid "Well.... good luck!"
+msgstr ""
+
+#. Id: 5111-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5111-gamedata.base:1
+msgid "Good luck..."
+msgstr ""
+
+#. Id: 5111-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5111-gamedata.base:2
+msgid "....bye then!"
+msgstr ""
+
+#. Id: 5111-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 5111-gamedata.base:3
+msgid "Oh well, see you later!  ...I hope."
+msgstr ""
+
+#. Id: 5112-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 5112-gamedata.base:0
+msgid "Damn..."
+msgstr ""
+
+#. Id: 5112-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 5112-gamedata.base:1
+msgid "...can't leave it like this..."
+msgstr ""
+
+#. Id: 5112-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 5112-gamedata.base:2
+msgid "Wouldn't be right to leave you now..."
+msgstr ""
+
+#. Id: 5112-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 5112-gamedata.base:3
+msgid "Wouldn't be honorable to just leave you in the dirt..."
+msgstr ""
+
+#. Id: 5112-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 5112-gamedata.base:4
+msgid "Ain't right..."
+msgstr ""
+
+#. Id: 5115-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5115-gamedata.base:0
+msgid "Awwww..."
+msgstr ""
+
+#. Id: 5115-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5115-gamedata.base:1
+msgid "....I can't just leave you like this..."
+msgstr ""
+
+#. Id: 5115-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5115-gamedata.base:2
+msgid "...can't just leave you in the dirt..."
+msgstr ""
+
+#. Id: 5115-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (5107-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5115-gamedata.base:3
+msgid "I feel a bit bad..."
+msgstr ""
+
+#. Id: 5101-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 5101-gamedata.base:0
+msgid "Damn that was a rough job."
+msgstr ""
+
+#. Id: 5101-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
+#: 5101-gamedata.base:1
+msgid "Damn job nearly killed me this time. Time's up!"
+msgstr ""
+
+#. Id: 5105-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5101-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5105-gamedata.base:0
+msgid "/QUICKLAUGH/! Looks like you got it rough too, eh?"
+msgstr ""
+
+#. Id: 5105-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (5101-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5105-gamedata.base:1
+msgid "Looks like you got it rough too, eh?"
+msgstr ""
+
+#. Id: 5105-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (5101-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 5105-gamedata.base:2
+msgid "Took a few hits yourself didn't you? /QUICKLAUGH/."
+msgstr ""
+
+#. Id: 59609-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59609-Dialogue.mod:0
+msgid "I must get back to my duties, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 59609-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59609-Dialogue.mod:1
+msgid "My kingdom needs me, /FLATSKIN/. I must return to the Stone Golem..."
+msgstr ""
+
+#. Id: 59610-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 54931-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek purchased reaction
+#: 59610-Dialogue.mod:0 54931-Dialogue.mod:0
+msgid "See you on the other side."
+msgstr ""
+
+#. Id: 59611-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59611-Dialogue.mod:0
+msgid "As soon as I've take care of this /MUTT/..."
+msgstr ""
+
+#. Id: 59611-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59611-Dialogue.mod:1
+msgid "As fun as this is..."
+msgstr ""
+
+#. Id: 59616-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 59616-Dialogue.mod:0
+msgid "Hm. Out cold?"
+msgstr ""
+
+#. Id: 59616-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59609-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 59616-Dialogue.mod:1
+msgid "Hm... Knocked out..."
+msgstr ""
+
+#. Id: 59620-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59616-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. Id: 16395-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 42335-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42334-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 63992-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#. Id: 17627-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek witness assault
+#: 59620-Dialogue.mod:1 16395-Dialogue.mod:1 42335-Dialogue.mod:3 63992-Dialogue.mod:0 17627-Dialogue.mod:1
+msgid "/IDIOCY/..."
+msgstr ""
+
+#. Id: 59617-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 59617-Dialogue.mod:0
+msgid "This has been fun, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 59617-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: IS_NEARLY_KO=1, Tag: -1
+#: 59617-Dialogue.mod:1
+msgid "Hm hm hm! We should do this again sometime, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 59619-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59619-Dialogue.mod:0
+msgid "But I must get back to my duties now..."
+msgstr ""
+
+#. Id: 59619-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59617-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 59619-Dialogue.mod:1
+msgid "But my kingdom needs me now, I must return to the Stone Golem..."
+msgstr ""
+
+#. Id: 60804-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 60804-Dialogue.mod:0
+msgid "Should be getting back to base now..."
+msgstr ""
+
+#. Id: 60808-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: ME, Condition: IN_COMBAT=1, Tag: -1
+#: 60808-Dialogue.mod:0
+msgid "As soon as I've dealt with this /MUTT/..."
+msgstr ""
+
+#. Id: 60810-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60804-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#: 60810-Dialogue.mod:0
+msgid "Stay safe, comrade."
+msgstr ""
+
+#. Id: 98193-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98193-Dialogue.mod:1
+msgid "See you again, /BROTHER//S/..."
+msgstr ""
+
+#. Id: 98193-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98193-Dialogue.mod:2
+msgid "Farewell, /BROTHER//S/..."
+msgstr ""
+
+#. Id: 98193-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#: 98193-Dialogue.mod:3
+msgid "Goodbye, friend/S/..."
+msgstr ""
+
+#. Id: 98194-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bodyguard finished job
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
+#: 98194-Dialogue.mod:0
+msgid "I won't leave you like this, friend..."
+msgstr ""
+

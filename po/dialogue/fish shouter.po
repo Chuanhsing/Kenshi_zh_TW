@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. Id: 48377-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48372-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48391-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48373-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48400-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48374-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48426-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48375-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#. Id: 48409-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (48376-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catcrawlers game
+#: 50584-rebirth.mod:0 50585-rebirth.mod:0 48377-Dialogue.mod:0 48391-Dialogue.mod:0 48400-Dialogue.mod:0 48426-Dialogue.mod:0 48409-Dialogue.mod:0
+msgid "Fish!"
+msgstr ""
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50584-rebirth.mod:1
+msgid "Get your fish!"
+msgstr ""
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50584-rebirth.mod:2
+msgid "Nutritious fish!"
+msgstr ""
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50584-rebirth.mod:3 50585-rebirth.mod:7
+msgid "Buy my fish!"
+msgstr ""
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50584-rebirth.mod:4
+msgid "Best fish in town!"
+msgstr ""
+
+#. Id: 50584-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50584-rebirth.mod:5
+msgid "Fish for sale!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:1
+msgid "You, /SIR/, look at my fish!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:2
+msgid "Smell my fish!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:3
+msgid "Come for the fish!  Stay for the fish!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:4
+msgid "Fish is good for you!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:5
+msgid "Healthiest food in the world! Heals all ailments and injuries!"
+msgstr ""
+
+#. Id: 50585-rebirth.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50585-rebirth.mod:6
+msgid "Enjoy my fish!"
+msgstr ""
+
+#. Id: 50589-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 50589-rebirth.mod:0
+msgid "You there, Hiver!  You guys love fish!"
+msgstr ""
+
+#. Id: 50589-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 50589-rebirth.mod:1
+msgid "C'mon, you guys love fish!"
+msgstr ""
+
+#. Id: 50589-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 50589-rebirth.mod:2
+msgid "Hivers love fish!"
+msgstr ""
+
+#. Id: 50962-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50589-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: fish shouter
+#. -- Condition: Target Race(s): Hive Prince
+#: 50962-rebirth.mod:0
+msgid "It's true"
+msgstr ""
+
+#. Id: 50962-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50589-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: fish shouter
+#. -- Condition: Target Race(s): Hive Prince
+#: 50962-rebirth.mod:1
+msgid "It's true, we do love fish."
+msgstr ""
+
+#. Id: 50962-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50589-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: fish shouter
+#. -- Condition: Target Race(s): Hive Prince
+#: 50962-rebirth.mod:2
+msgid "I do love fish"
+msgstr ""
+
+#. Id: 50962-rebirth.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (50589-rebirth.mod)
+#. -- Speaker: Target with race (6)
+#. -- Group title: fish shouter
+#. -- Condition: Target Race(s): Hive Prince
+#: 50962-rebirth.mod:3
+msgid "He's right, we love fish"
+msgstr ""
+
+#. Id: 50591-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 50591-rebirth.mod:0
+msgid "Fish is even great for Skeletons!"
+msgstr ""
+
+#. Id: 50592-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50591-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50592-rebirth.mod:0
+msgid "It lubricates the... uh... electrical... valves..."
+msgstr ""
+
+#. Id: 50592-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50591-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: fish shouter
+#: 50592-rebirth.mod:1
+msgid "It polishes the... skillet...uh...  plugs...."
+msgstr ""
+

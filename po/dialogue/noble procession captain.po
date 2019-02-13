@@ -1,0 +1,139 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56049-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 56049-rebirth.mod:0
+msgid "MAKE WAY FOR THE HONORED NOBLE OF THE EMPIRE!"
+msgstr ""
+
+#. Id: 56056-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56054-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 56056-rebirth.mod:0
+msgid "/TERRORIST/s in the lord's path!"
+msgstr ""
+
+#. Id: 56056-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (56054-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 56056-rebirth.mod:1
+msgid "/TERRORIST/s refusing to make way!"
+msgstr ""
+
+#. Id: 56073-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56050-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 56076-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56050-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 56079-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56050-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 56080-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56050-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
+#. Id: 5443-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 5447-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (5443-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: is freed by someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 3878-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#. Id: 46962-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity alone
+#: 56073-rebirth.mod:0 56076-rebirth.mod:0 56079-rebirth.mod:0 56080-rebirth.mod:0 5443-gamedata.base:3 5447-gamedata.base:0 3878-gamedata.base:2 46962-rebirth.mod:4
+msgid "/OHSHIT/!"
+msgstr ""
+
+#. Id: 56070-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 56070-rebirth.mod:1
+msgid "COME NO CLOSER!"
+msgstr ""
+
+#. Id: 56070-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=0, Tag: -1
+#: 56070-rebirth.mod:2
+msgid "STAY AFAR FROM THE NOBLE LORD!"
+msgstr ""
+
+#. Id: 56072-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56070-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#: 56072-rebirth.mod:0
+msgid "APPROACH NOT THE NOBLE LORD!"
+msgstr ""
+
+#. Id: 56072-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56070-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: noble procession captain
+#: 56072-rebirth.mod:1
+msgid "DO NOT OBSTRUCT YOUR BETTERS!"
+msgstr ""
+

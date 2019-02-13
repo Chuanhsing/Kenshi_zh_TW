@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62426-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62426-Dialogue.mod:0
+msgid "Ah, fresh air never tasted so good..."
+msgstr ""
+
+#. Id: 62427-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62427-Dialogue.mod:0
+msgid "Fifteen years I've been locked up in that place."
+msgstr ""
+
+#. Id: 62428-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62427-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62428-Dialogue.mod:0
+msgid "Say, Tengu still running the Empire these days?"
+msgstr ""
+
+#. Id: 62431-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62431-Dialogue.mod:0
+msgid "... It's been a while. I owe him a visit."
+msgstr ""
+
+#. Id: 62432-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62431-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62432-Dialogue.mod:0
+msgid "You just unleashed his worst nightmare, /YOURNAME/."
+msgstr ""
+
+#. Id: 62433-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62432-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 62433-Dialogue.mod:0
+msgid "But a lot can change in fifteen years... I'm gonna need you."
+msgstr ""
+
+#. Id: 62435-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62433-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62435-Dialogue.mod:0
+msgid "A skilled /MAN2/ like you, with a vendetta against the Empire at that..."
+msgstr ""
+
+#. Id: 62434-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Lu escaped vault with player
+#: 62434-Dialogue.mod:0
+msgid "This time we won't fail."
+msgstr ""
+

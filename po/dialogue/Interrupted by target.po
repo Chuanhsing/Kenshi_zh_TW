@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7082-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7082-Dialogue.mod:0
+msgid "What the hell!?"
+msgstr ""
+
+#. Id: 7082-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 8508-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 7082-Dialogue.mod:2 8508-Dialogue.mod:3
+msgid "What are you, /CRAZY/?"
+msgstr ""
+
+#. Id: 7082-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 7082-Dialogue.mod:3
+msgid "You're /CRAZY/!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:0
+msgid "Why!? "
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:1
+msgid "Why me!?"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:2
+msgid "Please, no!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 7083-Dialogue.mod:3 6004-Dialogue.mod:15
+msgid "Please don't hurt me!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:4
+msgid "Why are you doing this to me?!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:5
+msgid "I don't deserve this!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:6
+msgid "Wh- why!?"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:7
+msgid "Wh- why do you do this?!"
+msgstr ""
+
+#. Id: 7083-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7083-Dialogue.mod:8
+msgid "Why?! Whyyy?!"
+msgstr ""
+
+#. Id: 7087-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 7087-Dialogue.mod:0
+msgid "Huh?! You won't get away with this!"
+msgstr ""
+
+#. Id: 7087-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 7087-Dialogue.mod:1
+msgid "What?! You'll never get away with this!"
+msgstr ""
+
+#. Id: 7087-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#: 7087-Dialogue.mod:2
+msgid "You /CRAZY/ /BASTARD/! "
+msgstr ""
+
+#. Id: 7093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7093-Dialogue.mod:0
+msgid "Please! No!"
+msgstr ""
+
+#. Id: 7093-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7093-Dialogue.mod:1
+msgid "Please! I have no chance against all of you!"
+msgstr ""
+
+#. Id: 7093-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7093-Dialogue.mod:2 7097-Dialogue.mod:0
+msgid "Have mercy!"
+msgstr ""
+
+#. Id: 7093-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 7093-Dialogue.mod:3
+msgid "Please! I can't beat all of you!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:1
+msgid "I'm unarmed! Have mercy!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:2
+msgid "I have no weapon! Please stop!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:3
+msgid "No! Please!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:4
+msgid "Wh- why!? Why!??"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:7
+msgid "Please, I'm unarmed!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:8
+msgid "Please, I yield! I yield!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:9
+msgid "Why?! Please, no!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:10
+msgid "Why?! I'm unarmed!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:11
+msgid "Why?! Have mercy!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.12
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:12
+msgid "Please, have mercy!"
+msgstr ""
+
+#. Id: 7097-Dialogue.mod
+#. -- Index: 1.15
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 7097-Dialogue.mod:15
+msgid "Mercy!"
+msgstr ""
+
+#. Id: 7100-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7100-Dialogue.mod:0
+msgid "Think you can take me?! /IDIOT/..."
+msgstr ""
+
+#. Id: 7100-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7100-Dialogue.mod:1
+msgid "You really think you have a chance against ME? /QUICKLAUGH/"
+msgstr ""
+
+#. Id: 7100-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 7100-Dialogue.mod:2
+msgid "Big mistake! I'll squash you like an insect!"
+msgstr ""
+
+#. Id: 13688-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13688-Escapes.mod:0
+msgid "I can't even defend myself! You /CUR/!"
+msgstr ""
+
+#. Id: 13688-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13688-Escapes.mod:1
+msgid "Have you no honour? I'm unarmed!"
+msgstr ""
+
+#. Id: 13688-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13688-Escapes.mod:2
+msgid "You /CUR/! Do you enjoy attacking unarmed /MEN/?"
+msgstr ""
+
+#. Id: 13688-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13688-Escapes.mod:3
+msgid "I'm unarmed, you /CUR/!"
+msgstr ""
+
+#. Id: 15965-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#: 15965-Dialogue.mod:0
+msgid "Huh?! Why are you doing this?!"
+msgstr ""
+
+#. Id: 15965-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#: 15965-Dialogue.mod:1
+msgid "Why?!!!"
+msgstr ""
+
+#. Id: 43991-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 43991-Dialogue.mod:1
+msgid "Get away! "
+msgstr ""
+
+#. Id: 43991-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 8532-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. Id: 15627-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military marked for death
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 43991-Dialogue.mod:2 8532-Dialogue.mod:5 15627-Dialogue.mod:2
+msgid "No! Get away from me!"
+msgstr ""
+
+#. Id: 43991-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 43991-Dialogue.mod:3
+msgid "No! Shoo! Go away!"
+msgstr ""
+

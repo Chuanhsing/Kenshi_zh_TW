@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40966-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. Id: 40972-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 40966-Dialogue.mod:0 40972-Dialogue.mod:0
+msgid "I must live, for the holy crusade!"
+msgstr ""
+
+#. Id: 40974-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#: 40974-Dialogue.mod:0
+msgid "But mark my words, dark heretic: This is war."
+msgstr ""
+
+#. Id: 40968-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#: 40968-Dialogue.mod:0
+msgid "You have aided in the cause of light more than you know, /BROTHER/..."
+msgstr ""
+
+#. Id: 40980-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#: 40980-Dialogue.mod:0
+msgid "I must live, I must return for the holy crusade..."
+msgstr ""
+
+#. Id: 40981-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (40980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#: 40981-Dialogue.mod:0
+msgid "Okran will not forget your actions, saviour. "
+msgstr ""
+
+#. Id: 40970-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 40970-Dialogue.mod:0
+msgid "What is your hidden agenda..? Your trickery won't fool me, Skeleton! "
+msgstr ""
+
+#. Id: 40987-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40970-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#: 40987-Dialogue.mod:0
+msgid "I must live, I must return for the holy crusade!"
+msgstr ""
+
+#. Id: 40977-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix freed
+#: 40977-Dialogue.mod:0
+msgid "But mark my words, Skeleton: This is war. You will be destroyed."
+msgstr ""
+

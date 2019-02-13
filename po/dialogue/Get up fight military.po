@@ -1,0 +1,372 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:0
+msgid "Here is where they die!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:1
+msgid "If we die, we'll take them with us!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:2
+msgid "We fight down to the last!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:3
+msgid "Fight to your last breath!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:4
+msgid "Give it your all!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:5
+msgid "Another day! Another fight!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#: 15748-Dialogue.mod:6 15709-Dialogue.mod:7
+msgid "Hold nothing back!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 15723-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#: 15748-Dialogue.mod:7 15723-Dialogue.mod:2
+msgid "Bring them ruin!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 15723-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. Id: 16678-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mean defeats someone
+#. Id: 15705-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (15704-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 15709-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (15706-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military spots animals
+#: 15748-Dialogue.mod:8 15723-Dialogue.mod:7 16678-Dialogue.mod:3 15705-Dialogue.mod:6 15709-Dialogue.mod:5
+msgid "Tear them down!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:9
+msgid "Let the ground run red!"
+msgstr ""
+
+#. Id: 15748-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15748-Dialogue.mod:10
+msgid "Bleed them dry!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:0
+msgid "Make them remember our name!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:1
+msgid "We'll show them to fear us!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:2
+msgid "Respect our authority!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:3
+msgid "Revere the power of the Empire!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:4
+msgid "You will respect the power of the Empire!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:5
+msgid "Bow before the Empire!"
+msgstr ""
+
+#. Id: 15750-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15750-Dialogue.mod:6
+msgid "Grovel before the Empire!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#. Id: 41020-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix interrupted by someone else
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:0 15725-Dialogue.mod:5 40691-Dialogue.mod:7 41020-Dialogue.mod:0 40790-Dialogue.mod:2
+msgid "Light of okran, bestow me the strength to purge this darkness!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 15725-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 40691-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest get up fight
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:1 15725-Dialogue.mod:4 40691-Dialogue.mod:6 40790-Dialogue.mod:1
+msgid "Enemy of Okran, I will destroy you!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15751-Dialogue.mod:3
+msgid "For Okran, I will lay down my life!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:4 40790-Dialogue.mod:7
+msgid "In Okran's name, I will destroy this evil!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:5 40790-Dialogue.mod:5
+msgid "In Okran's name, this evil will be destroyed!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:6 40790-Dialogue.mod:8
+msgid "In the name of Okran, I will destroy this darkness!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 41020-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (41019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix interrupted by someone else
+#. Id: 40790-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (40789-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 15751-Dialogue.mod:7 41020-Dialogue.mod:2 40790-Dialogue.mod:9
+msgid "In the name of Okran, this darkness shall be purged!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15751-Dialogue.mod:8
+msgid "The /TERRORIST/s MUST die!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15751-Dialogue.mod:9
+msgid "The /TERRORIST/s MUST be destroyed!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#: 15751-Dialogue.mod:10
+msgid "The /TERRORIST/s MUST be purged!"
+msgstr ""
+
+#. Id: 15751-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight military
+#. Id: 41020-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix interrupted by someone else
+#: 15751-Dialogue.mod:11 41020-Dialogue.mod:1
+msgid "In the name of Okran, I will protect these lands from evil!"
+msgstr ""
+

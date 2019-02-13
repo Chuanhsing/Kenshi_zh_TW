@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62897-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62897-Dialogue.mod:0
+msgid "A skeleton, I see... If you want to join us, the doctor can cure you of your skinless ways. You'll need to speak to Savant. Savant is the greatest master of science in all the land, he has shown us the way, the truth of the evil skeleton and how we can undergo the skinning transformation in human's purest form."
+msgstr ""
+
+#. Id: 62899-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62899-Dialogue.mod:0
+msgid "Okay, I'm in. Down with the skinless!"
+msgstr ""
+
+#. Id: 62906-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62899-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62906-Dialogue.mod:0
+msgid "Yes, we skinned ones need to stick together. /FUCK/! Go, find Savant..."
+msgstr ""
+
+#. Id: 62907-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62907-Dialogue.mod:0
+msgid "Watch your back against the skinless."
+msgstr ""
+
+#. Id: 62900-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62900-Dialogue.mod:0
+msgid "No thanks. I feel fine."
+msgstr ""
+
+#. Id: 62903-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62903-Dialogue.mod:0
+msgid "That's what all the sick ones say! /FUCK/! Either you're a nostril rousing skeleton clinger, or you're one of us..."
+msgstr ""
+
+#. Id: 62904-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62904-Dialogue.mod:0
+msgid "[They step closer and draw their weapon towards you, swearing under their breath like a madman]"
+msgstr ""
+
+#. Id: 62905-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62905-Dialogue.mod:0
+msgid "You're actually insane... And your suit stinks."
+msgstr ""
+
+#. Id: 62912-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62905-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62912-Dialogue.mod:0
+msgid "Suit? This is my skin! My soft /FUCKING/ skin!"
+msgstr ""
+
+#. Id: 62914-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (62912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#. Id: 56415-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Longen get up fight
+#. Id: 7454-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations
+#: 62914-Dialogue.mod:0 56415-Dialogue.mod:7 7454-Dialogue.mod:1 14552-Dialogue?(4).mod:1 8421-Dialogue.mod:4 7858-Dialogue.mod:1
+msgid "Kill /HIM/!"
+msgstr ""
+
+#. Id: 62915-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (62914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62915-Dialogue.mod:0
+msgid "Savant told us not to trust skeleton clingers!"
+msgstr ""
+
+#. Id: 62913-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62913-Dialogue.mod:0
+msgid "Count me out. I've no problem with skeletons."
+msgstr ""
+
+#. Id: 62922-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (62913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62922-Dialogue.mod:0
+msgid "If you're not willing to heal yourself, you're no better than the /FUCKING/ Skeleton Legion themselves, /FUCK/!"
+msgstr ""
+
+#. Id: 63260-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62904-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 63260-Dialogue.mod:0
+msgid "Easy now, no skeleton clingers to see here..."
+msgstr ""
+
+#. Id: 63261-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 63261-Dialogue.mod:0
+msgid "... Go find Savant. /FUCK/! You're sick and you need help..."
+msgstr ""
+
+#. Id: 63262-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (63261-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 63262-Dialogue.mod:0
+msgid "... Watch this one."
+msgstr ""
+
+#. Id: 62901-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62901-Dialogue.mod:0
+msgid "But... you ARE a skeleton..."
+msgstr ""
+
+#. Id: 62902-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62901-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62902-Dialogue.mod:0
+msgid "Your BIRTH GIVER is a skeleton!... What's your problem, pal? Maybe you have no shame in your skinless metal ways, but there's no need to insult a stranger. Are you going to join us, or not?"
+msgstr ""
+
+#. Id: 62919-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62897-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skin bandit talk to
+#: 62919-Dialogue.mod:0
+msgid "What makes the skeletons evil?"
+msgstr ""
+
+#. Id: 62920-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit talk to
+#: 62920-Dialogue.mod:0
+msgid "They have no skin, not like us. But Savant, he'll teach you all you need to know. Savant is a genius. He has thoroughly studied the history of the land and the anatomy of the skeleton body. Join us."
+msgstr ""
+

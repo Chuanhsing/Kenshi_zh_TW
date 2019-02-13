@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 8951-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8951-Dialogue.mod:0
+msgid "It's rare to meet good folks like you. Where are you headed? Mind if I tag along? I've been having some seriously bad luck these past few days, could use a change of scenery..."
+msgstr ""
+
+#. Id: 8951-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 8951-Dialogue.mod:1
+msgid "It's rare to find good people like you around here. Where are you off to? Mind if I follow? I could use some allies out here, I've had way too many close calls these past few weeks"
+msgstr ""
+
+#. Id: 8952-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8951-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8952-Dialogue.mod:0
+msgid "Of course, come along!"
+msgstr ""
+
+#. Id: 8954-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (8952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8954-Dialogue.mod:2
+msgid "Let's head off then"
+msgstr ""
+
+#. Id: 8954-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (8952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. Id: 8967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (8965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8954-Dialogue.mod:3 8967-Dialogue.mod:0
+msgid "Great!"
+msgstr ""
+
+#. Id: 8956-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: COLD_CRUEL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 8956-Dialogue.mod:0
+msgid "I owe you, thank you"
+msgstr ""
+
+#. Id: 8956-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: COLD_CRUEL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ____
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 9015-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping Cannibals (Recruit)
+#: 8956-Dialogue.mod:1 9015-Dialogue.mod:0
+msgid "Thank you, I owe you big time"
+msgstr ""
+
+#. Id: 8957-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8956-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8957-Dialogue.mod:0
+msgid "You owe me? Then join /MEUS/!"
+msgstr ""
+
+#. Id: 8960-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 8960-Dialogue.mod:0
+msgid "I'd like that actually, but it depends. Where are you headed?"
+msgstr ""
+
+#. Id: 8962-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8962-Dialogue.mod:0
+msgid "/IMWERE/ off to build an empire, /IMWERE/ scouting for a base"
+msgstr ""
+
+#. Id: 8962-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (8960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8962-Dialogue.mod:1
+msgid "/IMWERE/ off to build /MYOUR/ own enclave, to find a place to call home"
+msgstr ""
+
+#. Id: 8965-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 8972-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8965-Dialogue.mod:0 8972-Dialogue.mod:0
+msgid "Sounds tempting. Yeah, I like the sound of that. I'll join you"
+msgstr ""
+
+#. Id: 8965-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 8972-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8965-Dialogue.mod:1 8972-Dialogue.mod:1
+msgid "I'm more a wanderer type myself... But I'm curious. Perhaps I'll follow you a while"
+msgstr ""
+
+#. Id: 8966-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. Id: 8970-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8966-Dialogue.mod:0 8970-Dialogue.mod:0
+msgid "I'm sorry. I'm a drifter, an explorer, born and bred. I don't think that would work for me, but good luck"
+msgstr ""
+
+#. Id: 8963-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8963-Dialogue.mod:0
+msgid "/IMWERE/ off to explore the world, to discover uncharted lands"
+msgstr ""
+
+#. Id: 8976-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8976-Dialogue.mod:0
+msgid "Excellent. I live to explore. Count me in"
+msgstr ""
+
+#. Id: 8976-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8976-Dialogue.mod:1
+msgid "Perfect. I was born to explore! Yeah, I'll join you"
+msgstr ""
+
+#. Id: 8964-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8964-Dialogue.mod:0
+msgid "/IMWERE/ hunting. Bandits, mainly"
+msgstr ""
+
+#. Id: 8964-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (8960-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8964-Dialogue.mod:1
+msgid "/IMWERE/ exterminating vermin. Bandits, mainly"
+msgstr ""
+
+#. Id: 8970-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 8970-Dialogue.mod:1
+msgid "That sounds a little too... bloody for me. I think I'll sit this one out, sorry "
+msgstr ""
+
+#. Id: 8973-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8973-Dialogue.mod:0
+msgid "Sounds a little twisted.... I like it."
+msgstr ""
+
+#. Id: 8973-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (8964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8973-Dialogue.mod:1
+msgid "Sounds fun actually. Yeah, I like the sound of that. I'll join you."
+msgstr ""
+
+#. Id: 8958-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8956-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8958-Dialogue.mod:0
+msgid "Perhaps you can repay me for the medkit I used on you?"
+msgstr ""
+
+#. Id: 8986-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (8958-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Healed (Recruit)
+#: 8986-Dialogue.mod:0
+msgid "Here (50 Cats)"
+msgstr ""
+
+#. Id: 8989-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (8986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8989-Dialogue.mod:0
+msgid "Really? That's all you can spare?"
+msgstr ""
+
+#. Id: 8959-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8956-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Healed (Recruit)
+#: 8959-Dialogue.mod:0
+msgid "Don't worry about it"
+msgstr ""
+

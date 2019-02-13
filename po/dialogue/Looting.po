@@ -1,0 +1,532 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7152-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<500, Tag: -1
+#: 7152-Dialogue.mod:0
+msgid "Mah! Not got much, do ya?"
+msgstr ""
+
+#. Id: 7152-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<500, Tag: -1
+#: 7152-Dialogue.mod:1
+msgid "Pff, good for nothing drifters"
+msgstr ""
+
+#. Id: 7152-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<500, Tag: -1
+#: 7152-Dialogue.mod:2
+msgid "Damn /MISER/"
+msgstr ""
+
+#. Id: 7152-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<500, Tag: -1
+#: 7152-Dialogue.mod:3
+msgid "Where's all the damn /CATS/?"
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:0
+msgid "All these backpacks, I reckon /IWE/ hit gold here..."
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:1
+msgid "Lookit all this stuff!"
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:2
+msgid "Lookit all this!"
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:3
+msgid "So much stuff!"
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:4
+msgid "Hit the jackpot here"
+msgstr ""
+
+#. Id: 7154-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 7154-Dialogue.mod:5
+msgid "Damn, all this loot!"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:0
+msgid "Oooh, rum! "
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:1
+msgid "Rum! Just what I needed..."
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:2
+msgid "Rum! Score!"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:3
+msgid "This should quench my thirst"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:4
+msgid "I'm getting drunk tonight"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:5
+msgid "Now I can drown my sorrows with rum"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:6
+msgid "Rum, This should hit the spot"
+msgstr ""
+
+#. Id: 7156-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7156-Dialogue.mod:7
+msgid "Rum, my favourite"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:0
+msgid "Crack it open then!"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:1
+msgid "C'mon then, open it! "
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:2
+msgid "Pass it over here then!"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:3
+msgid "You gonna share it or what?"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:4
+msgid "Don't be a hoarder, share it around"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:5
+msgid "You found rum? C'mon share it round"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:6
+msgid "Rum? Open it up already then"
+msgstr ""
+
+#. Id: 7163-Dialogue.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (7162-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7163-Dialogue.mod:7
+msgid "No way, you got rum? Chuck it over here!"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:0
+msgid "No! I'm saving it!"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:1
+msgid "Back off! It's mine!"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:2
+msgid "/GETLOST/, I found it first!"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:3
+msgid "Finders keepers. Get your own"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:4
+msgid "Yeah, yeah whatever"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:5
+msgid "Calm down, I'll open it later"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:6
+msgid "Okay, let's celebrate"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:7
+msgid "/FINE/ but no backwash"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:8
+msgid "Fine but if I find backwash in it I'm gonna /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:9
+msgid "Me first"
+msgstr ""
+
+#. Id: 7164-Dialogue.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (7163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7164-Dialogue.mod:10
+msgid "I get first swigs"
+msgstr ""
+
+#. Id: 7157-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#. Id: 47251-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47250-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Starving mugging one line
+#: 7157-Dialogue.mod:0 47251-Dialogue.mod:2
+msgid "Food!"
+msgstr ""
+
+#. Id: 7157-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7157-Dialogue.mod:1
+msgid "/IMWERE/ gonna eat well tonight"
+msgstr ""
+
+#. Id: 7157-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7157-Dialogue.mod:2
+msgid "Finally, some decent grub"
+msgstr ""
+
+#. Id: 7157-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7157-Dialogue.mod:3
+msgid "/IMWERE/ gonna get so fat!"
+msgstr ""
+
+#. Id: 7157-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7157-Dialogue.mod:4
+msgid "Grub!"
+msgstr ""
+
+#. Id: 7161-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7160-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7161-Dialogue.mod:0
+msgid "You got food? Gimme some!"
+msgstr ""
+
+#. Id: 7161-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7160-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7161-Dialogue.mod:1
+msgid "Food? I'm hungry, let's eat now!"
+msgstr ""
+
+#. Id: 7161-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7160-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Looting
+#: 7161-Dialogue.mod:2
+msgid "You found food?! Pass some my way!"
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:0
+msgid "This should get us some extra cash for sure, /QUICKLAUGH/"
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:1
+msgid "Well well well, what do we have here?"
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:2
+msgid "What's this little gem? This'll make /MEUS/ some good money"
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:3
+msgid "/QUICKLAUGH/! Looks like we heisted us some smugglers!"
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:4
+msgid "...Tut! Naughty /MAN/! I'll take those drugs off your hands..."
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:5
+msgid "... Drugs? Someone's been a bad /MAN/, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 7158-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7158-Dialogue.mod:6
+msgid "... Caught us some smugglers, eh? Jackpot..."
+msgstr ""
+
+#. Id: 7159-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7159-Dialogue.mod:0
+msgid "Ooh, lookit all this"
+msgstr ""
+
+#. Id: 7159-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7159-Dialogue.mod:2
+msgid "Oh? What's this?"
+msgstr ""
+
+#. Id: 7159-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7159-Dialogue.mod:3
+msgid "Jackpot"
+msgstr ""
+
+#. Id: 7159-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting
+#: 7159-Dialogue.mod:4
+msgid "This outta fetch us some good monies"
+msgstr ""
+

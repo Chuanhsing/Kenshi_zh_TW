@@ -1,0 +1,676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11219-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#. -- Condition: Target Race(s): Shek
+#: 11219-Dialogue?(10).mod:0
+msgid "Kin!"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11224-Dialogue?(10).mod:0
+msgid "Release me from this cage"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11224-Dialogue?(10).mod:1
+msgid "Free me from this cage"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11224-Dialogue?(10).mod:2
+msgid "Release me from this coop"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11224-Dialogue?(10).mod:3
+msgid "Release me from this hutch"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 11478-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11224-Dialogue?(10).mod:4 11478-Dialogue?(10).mod:2
+msgid "Set me free"
+msgstr ""
+
+#. Id: 11224-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (11219-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 11478-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11224-Dialogue?(10).mod:5 11433-Dialogue?(10).mod:4 11478-Dialogue?(10).mod:3
+msgid "Release me"
+msgstr ""
+
+#. Id: 11220-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
+#: 11220-Dialogue?(10).mod:0
+msgid "/BROTHER/!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:0
+msgid "Release me from this cage!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:1
+msgid "Free me from this cage!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:2
+msgid "Release me from this coop!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:3
+msgid "Release me from this hutch!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 11431-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:4 11431-Dialogue?(10).mod:0
+msgid "Set me free!"
+msgstr ""
+
+#. Id: 11225-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (11220-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 11431-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11225-Dialogue?(10).mod:5 11431-Dialogue?(10).mod:1
+msgid "Release me!"
+msgstr ""
+
+#. Id: 11420-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Target Race(s): Shek
+#: 11420-Dialogue?(10).mod:0
+msgid "Hurry. Release me"
+msgstr ""
+
+#. Id: 11420-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Target Race(s): Shek
+#: 11420-Dialogue?(10).mod:1
+msgid "Quickly. Set me free"
+msgstr ""
+
+#. Id: 11420-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Target Race(s): Shek
+#: 11420-Dialogue?(10).mod:2
+msgid "Faster"
+msgstr ""
+
+#. Id: 11420-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Target Race(s): Shek
+#: 11420-Dialogue?(10).mod:3
+msgid "Come on, free me"
+msgstr ""
+
+#. Id: 11420-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Target Race(s): Shek
+#: 11420-Dialogue?(10).mod:4
+msgid "Faster, faster"
+msgstr ""
+
+#. Id: 11422-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11422-Dialogue?(10).mod:0
+msgid "Hurry, /FLATSKIN/. Release me"
+msgstr ""
+
+#. Id: 11422-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11422-Dialogue?(10).mod:1
+msgid "Faster, /FLATSKIN/"
+msgstr ""
+
+#. Id: 11422-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11422-Dialogue?(10).mod:2
+msgid "Quickly, /FLATSKIN/. Set me free"
+msgstr ""
+
+#. Id: 11422-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11422-Dialogue?(10).mod:3
+msgid "Come on, /FLATSKIN/. Free me"
+msgstr ""
+
+#. Id: 11422-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11422-Dialogue?(10).mod:4
+msgid "Faster, faster, /FLATSKIN/"
+msgstr ""
+
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 11424-Dialogue?(10).mod:0
+msgid "Stay focused"
+msgstr ""
+
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12210-Dialogue (10).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 11424-Dialogue?(10).mod:1 12210-Dialogue?(10).mod:6 7063-Dialogue.mod:3
+msgid "Almost there"
+msgstr ""
+
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 7063-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7061-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#: 11424-Dialogue?(10).mod:2 7063-Dialogue.mod:1
+msgid "Keep at it"
+msgstr ""
+
+#. Id: 11424-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 13235-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 12207-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 11424-Dialogue?(10).mod:3 11433-Dialogue?(10).mod:8 13235-Escapes.mod:1 12207-Dialogue?(10).mod:1
+msgid "Keep going"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 13238-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 11426-Dialogue?(10).mod:0 13238-Escapes.mod:0
+msgid "Don't let them see you"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11426-Dialogue?(10).mod:1
+msgid "Don't get caught"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11426-Dialogue?(10).mod:2
+msgid "Don't let them catch you too"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11426-Dialogue?(10).mod:3
+msgid "Careful they don't see you"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11426-Dialogue?(10).mod:4
+msgid "I'll keep watch"
+msgstr ""
+
+#. Id: 11426-Dialogue (10).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (11424-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11426-Dialogue?(10).mod:5
+msgid "I'll watch your back"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:0
+msgid "Come on! Focus"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:1
+msgid "Come on! Concentrate"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:2
+msgid "Come on! Do it"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:3
+msgid "Come on! Open it"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:4
+msgid "Open it already"
+msgstr ""
+
+#. Id: 11427-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 11427-Dialogue?(10).mod:5
+msgid "Get it open"
+msgstr ""
+
+#. Id: 11429-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11429-Dialogue?(10).mod:0
+msgid "... Almost"
+msgstr ""
+
+#. Id: 11429-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11429-Dialogue?(10).mod:1
+msgid "... Nearly"
+msgstr ""
+
+#. Id: 11429-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 17976-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picklock attempt hiver ronin slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 17286-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc lockpick attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Shek
+#. Id: 14080-Dialogue (12).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11429-Dialogue?(10).mod:2 17976-Dialogue.mod:0 17286-Dialogue.mod:1 14080-Dialogue?(12).mod:0
+msgid "That's it..."
+msgstr ""
+
+#. Id: 11431-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. Id: 15642-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military unlock attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 12209-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12207-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#. Id: 7067-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 11431-Dialogue?(10).mod:2 15642-Dialogue.mod:5 12209-Dialogue?(10).mod:0 7067-Dialogue.mod:4
+msgid "Get me out!"
+msgstr ""
+
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11433-Dialogue?(10).mod:0
+msgid "That's it, release me"
+msgstr ""
+
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11433-Dialogue?(10).mod:1
+msgid "Right. Set me free"
+msgstr ""
+
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11433-Dialogue?(10).mod:2
+msgid "Get me out of this coop"
+msgstr ""
+
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15642-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military unlock attempt
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 18037-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picklock attempt hiver ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 11433-Dialogue?(10).mod:5 15642-Dialogue.mod:6 18037-Dialogue.mod:0
+msgid "That's it"
+msgstr ""
+
+#. Id: 11433-Dialogue (10).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 11433-Dialogue?(10).mod:6
+msgid "Do it"
+msgstr ""
+
+#. Id: 11478-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11478-Dialogue?(10).mod:0
+msgid "Go on, release me"
+msgstr ""
+
+#. Id: 11478-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 11478-Dialogue?(10).mod:1
+msgid "That's it, set me free"
+msgstr ""
+
+#. Id: 11479-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11478-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11479-Dialogue?(10).mod:0
+msgid "I'll wipe out every last one of them!"
+msgstr ""
+
+#. Id: 11479-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11478-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11479-Dialogue?(10).mod:1
+msgid "I'll kill every last one of them!"
+msgstr ""
+
+#. Id: 11479-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11478-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11479-Dialogue?(10).mod:2
+msgid "I'll kill them all!"
+msgstr ""
+
+#. Id: 11479-Dialogue (10).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (11478-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11479-Dialogue?(10).mod:3
+msgid "I'll hunt them all down like dogs!"
+msgstr ""
+
+#. Id: 11479-Dialogue (10).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (11478-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Release me Shek
+#: 11479-Dialogue?(10).mod:4
+msgid "I'll cut them all down!"
+msgstr ""
+

@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62797-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#. -- Condition: Target Race(s): Skeleton
+#: 62797-Dialogue.mod:0
+msgid "Greetings, fellow skele-ton. You finally found your way home. It is our mission to destroy all humans. Join us. We can converse about histories and polish our nuts by the campfire."
+msgstr ""
+
+#. Id: 63008-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62797-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63008-Dialogue.mod:0
+msgid "How do I join?"
+msgstr ""
+
+#. Id: 63018-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63018-Dialogue.mod:0
+msgid "Go find the Elder. Speak with him. Now you are unlost, you can continue your mission together with us..."
+msgstr ""
+
+#. Id: 63027-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63027-Dialogue.mod:0
+msgid "To exterminate all humans."
+msgstr ""
+
+#. Id: 63009-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62797-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63009-Dialogue.mod:0
+msgid "But... You're just a /MAN/ with a mask..."
+msgstr ""
+
+#. Id: 63010-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63010-Dialogue.mod:0
+msgid "Incorrect!... [They go quiet for a second and make stifled throat noises]"
+msgstr ""
+
+#. Id: 63011-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63011-Dialogue.mod:0
+msgid "*cough*.... Excuse me, fellow skele-ton. I seem to have an error in my AI core. Please continue."
+msgstr ""
+
+#. Id: 63012-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63012-Dialogue.mod:0
+msgid "You just coughed!"
+msgstr ""
+
+#. Id: 63013-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63013-Dialogue.mod:0
+msgid "Incorrect!... I am a dangerous skele-ton bandit. I cannot cough. And I do not have patience for insults. We are the same, so it is appropriate we fight side by side."
+msgstr ""
+
+#. Id: 63019-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (63017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63019-Dialogue.mod:0
+msgid "It is not surprising to me that you will join us. Because you are the same as us. Your purpose is the same. Otherwise you are not a proper skele-ton, clearly. A proper skele-ton would converse with his fellow skele-tons about histories and such..."
+msgstr ""
+
+#. Id: 63024-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (63019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63024-Dialogue.mod:0
+msgid "Find the Elder. Then you can join us."
+msgstr ""
+
+#. Id: 63020-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63020-Dialogue.mod:0
+msgid "Who is the Elder?"
+msgstr ""
+
+#. Id: 63023-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63023-Dialogue.mod:0
+msgid "He is the first skele-ton born. He knows all. He is the mission giver. Join us and you will meet him yourself."
+msgstr ""
+
+#. Id: 63021-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63021-Dialogue.mod:0
+msgid "Makes total sense. I guess I'll join you."
+msgstr ""
+
+#. Id: 63022-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63011-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63022-Dialogue.mod:0
+msgid "Forget it. I'm not joining you."
+msgstr ""
+
+#. Id: 63014-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62797-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63014-Dialogue.mod:0
+msgid "Sounds... nice. But I'm busy, thanks."
+msgstr ""
+
+#. Id: 63015-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63014-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Join skeleton bandits talk to (add masked branch)
+#: 63015-Dialogue.mod:0
+msgid "Incorrect response... You and we are the same, so it is appropriate we do skele-ton things together."
+msgstr ""
+

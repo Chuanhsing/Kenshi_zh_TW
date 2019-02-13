@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48886-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: WEARING_LOCKED_SHACKLES=1, Tag: -1
+#: 48886-Dialogue.mod:0
+msgid "Argh, /GODDAMN/ shackles!"
+msgstr ""
+
+#. Id: 48886-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: WEARING_LOCKED_SHACKLES=1, Tag: -1
+#: 48886-Dialogue.mod:1
+msgid "/GODDAMN/it, these shackles are gonna slow me down!"
+msgstr ""
+
+#. Id: 48886-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: WEARING_LOCKED_SHACKLES=1, Tag: -1
+#: 48886-Dialogue.mod:2
+msgid "/GODDAMN/ these shackles!"
+msgstr ""
+
+#. Id: 48890-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48885-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48890-Dialogue.mod:0
+msgid "I gotta get the hell out of here!"
+msgstr ""
+
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48888-Dialogue.mod:0
+msgid "You did it! You killed them!"
+msgstr ""
+
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48888-Dialogue.mod:1
+msgid "You... you did it! They're all dead!"
+msgstr ""
+
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48888-Dialogue.mod:3
+msgid "I... I'm free again!"
+msgstr ""
+
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48888-Dialogue.mod:4
+msgid "You knocked them all out, the lot of 'em! I'm free!"
+msgstr ""
+
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48888-Dialogue.mod:6
+msgid "... Never did I think I'd be /GODDAMN/ free again!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:0
+msgid "/GODDAMN/, I could kiss you!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:1
+msgid "You're a /GODDAMN/ hero!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:2
+msgid "You've got guts takin' on the masters... You're a hero!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:3
+msgid "You... You're a hero!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:4
+msgid "You're my /GODDAMN/ saviour!"
+msgstr ""
+
+#. Id: 48889-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (48888-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48889-Dialogue.mod:5
+msgid "You saved us all!"
+msgstr ""
+
+#. Id: 48946-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 48946-Dialogue.mod:2
+msgid "The maste- our captors are dead!"
+msgstr ""
+
+#. Id: 48946-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 48946-Dialogue.mod:3
+msgid "Our mast... our captors are defeated!"
+msgstr ""
+
+#. Id: 48946-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 48946-Dialogue.mod:4
+msgid "You did it! You killed our imprisoners!"
+msgstr ""
+
+#. Id: 48946-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 48946-Dialogue.mod:5
+msgid "You did it, you killed them! We're free!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:0
+msgid "All hail the savior!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:1
+msgid "Praise the liberator!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:2
+msgid "All hail our rescuer!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:3
+msgid "All hail our freer!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:4
+msgid "Long live the savior!"
+msgstr ""
+
+#. Id: 48947-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (48946-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#: 48947-Dialogue.mod:5
+msgid "Freedom! Long live our hero!"
+msgstr ""
+
+#. Id: 48949-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tough merc esc opportunity
+#: 48949-Dialogue.mod:0
+msgid "Long live the hero!"
+msgstr ""
+
+#. Id: 48949-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (48948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tough merc esc opportunity
+#: 48949-Dialogue.mod:1
+msgid "Hero!"
+msgstr ""
+
+#. Id: 48949-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (48948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tough merc esc opportunity
+#: 48949-Dialogue.mod:2
+msgid "Praise the unknown hero!"
+msgstr ""
+
+#. Id: 48949-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (48948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tough merc esc opportunity
+#: 48949-Dialogue.mod:3
+msgid "Praise the hero!"
+msgstr ""
+

@@ -1,0 +1,306 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42381-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42381-Dialogue.mod:0
+msgid "What? What are you looking at, can't you see I'm busy here?"
+msgstr ""
+
+#. Id: 42381-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42381-Dialogue.mod:1
+msgid "The hell do YOU want? Can't you see I'm busy here?"
+msgstr ""
+
+#. Id: 42381-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42381-Dialogue.mod:2
+msgid "Why are you interrupting me, /OUTLANDER/? We don't take kindly to trouble makers round here..."
+msgstr ""
+
+#. Id: 42382-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42382-Dialogue.mod:0
+msgid "Is there a problem here? "
+msgstr ""
+
+#. Id: 42386-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42382-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42386-Dialogue.mod:0
+msgid "Yeah. There is. This cheap /WORM/ is skimping on taxes and if they don't pay, they're gonna rot in a jail cell... But unless you plan on footing the bill for 'em, I don't think it's any of your concern, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 42387-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42387-Dialogue.mod:0
+msgid "I'll pay their tax bill. How much is it?"
+msgstr ""
+
+#. Id: 42391-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42391-Dialogue.mod:0
+msgid "Oho! Got ourselves a do-gooder have we? Alright, 1200 Cats and they're off the hook."
+msgstr ""
+
+#. Id: 42392-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42391-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1200, Tag: -1
+#. Id: 12663-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc healing other
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12724-Dialogue (11) (2).mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (12723-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 8449-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 42392-Dialogue.mod:0 12663-Dialogue?(11)?(2).mod:1 12724-Dialogue?(11)?(2).mod:2 8449-Dialogue.mod:0
+msgid "Here"
+msgstr ""
+
+#. Id: 42403-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42392-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42403-Dialogue.mod:0
+msgid "/QUICKLAUGH/, rum's on me tonight!"
+msgstr ""
+
+#. Id: 42395-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42391-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42395-Dialogue.mod:0
+msgid "1200 Cats?! You guards are nothing but /CROOKED/ scumbags!"
+msgstr ""
+
+#. Id: 42397-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42395-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42397-Dialogue.mod:0
+msgid "I don't like your tone, /WORM/! And you're wasting my precious time with your damn insults!"
+msgstr ""
+
+#. Id: 42406-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42406-Dialogue.mod:0
+msgid "Insubordination! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 42396-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42391-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42396-Dialogue.mod:0
+msgid "On second thought, I'll leave you to it..."
+msgstr ""
+
+#. Id: 42409-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (42396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42409-Dialogue.mod:0
+msgid "Don't waste my time again, /WORM/!"
+msgstr ""
+
+#. Id: 48190-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (42409-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 48190-Dialogue.mod:0
+msgid "And I'll be back for you later, /PEASANT/!"
+msgstr ""
+
+#. Id: 42388-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42388-Dialogue.mod:0
+msgid "Damn tax-dodgers... "
+msgstr ""
+
+#. Id: 42410-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42388-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42410-Dialogue.mod:0
+msgid "Right... now mind your own business in future, /OUTLANDER/..."
+msgstr ""
+
+#. Id: 42411-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (42410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42411-Dialogue.mod:0
+msgid "A guard's time is precious..."
+msgstr ""
+
+#. Id: 42389-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42389-Dialogue.mod:0
+msgid "You're right, this is none of my concern."
+msgstr ""
+
+#. Id: 42390-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42386-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42390-Dialogue.mod:0
+msgid "Sounds like you're ripping them off to me."
+msgstr ""
+
+#. Id: 51647-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42390-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 51647-Dialogue.mod:0
+msgid "I don't like your tone, /WORM/... And you're wasting my precious time with your damn accusations! Do I really need to teach you who runs this town?"
+msgstr ""
+
+#. Id: 42383-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42383-Dialogue.mod:0
+msgid "No, didn't mean to bother you, I'll be going now..."
+msgstr ""
+
+#. Id: 42384-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42384-Dialogue.mod:0
+msgid "Bullying defenseless farmers, eh, /TINCAN/? Classy! (Attack)"
+msgstr ""
+
+#. Id: 42384-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42384-Dialogue.mod:1
+msgid "Leave the poor farmer alone, /TINCAN/! (Attack)"
+msgstr ""
+
+#. Id: 42405-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42405-Dialogue.mod:0
+msgid "You interrupt my guard duties for THIS? /GODDAMN/ /TERRORIST/s!"
+msgstr ""
+
+#. Id: 42385-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42381-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Interrupt guard bullying event
+#: 42385-Dialogue.mod:0
+msgid "Need some help? This /PEASANT/ giving you trouble?"
+msgstr ""
+
+#. Id: 42398-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42398-Dialogue.mod:0
+msgid "Oho! And what makes you think I need help from a /GODDAMN/ /RUNT/ like you?! Now /GETLOST/, before I arrest you for interfering with guard duties!"
+msgstr ""
+
+#. Id: 42399-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (42398-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#: 42399-Dialogue.mod:0
+msgid "Damn /IDIOT/..."
+msgstr ""
+
+#. Id: 42400-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (42385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#. -- Condition: Who: TARGET, Condition: REPUTATION>30, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 42400-Dialogue.mod:0
+msgid "I've got it covered."
+msgstr ""
+
+#. Id: 42400-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (42385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt guard bullying event
+#. -- Condition: Who: TARGET, Condition: REPUTATION>30, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 42400-Dialogue.mod:1
+msgid "I can handle it."
+msgstr ""
+

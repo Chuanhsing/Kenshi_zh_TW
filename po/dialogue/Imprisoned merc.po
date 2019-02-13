@@ -1,0 +1,867 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:0
+msgid "I've got a plan..."
+msgstr ""
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:1
+msgid "You want out of here?"
+msgstr ""
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:2
+msgid "Let's get out of here..."
+msgstr ""
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:3
+msgid "You, let's get out of here..."
+msgstr ""
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:4
+msgid "You want to get out of here?"
+msgstr ""
+
+#. Id: 12974-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12974-Dialogue?(11)?(2).mod:5
+msgid "You want out of here, right?"
+msgstr ""
+
+#. Id: 12981-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12974-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12981-Dialogue?(11)?(2).mod:0
+msgid "What's the plan?"
+msgstr ""
+
+#. Id: 12980-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12981-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12980-Dialogue?(11)?(2).mod:0
+msgid "I hope you're good at lockpicking. Start working on the locks and let's get out of here"
+msgstr ""
+
+#. Id: 12980-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12981-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12980-Dialogue?(11)?(2).mod:1
+msgid "You any good at lockpicking? We need to get free first, get started on the locks"
+msgstr ""
+
+#. Id: 12980-Dialogue (11) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12981-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12980-Dialogue?(11)?(2).mod:2
+msgid "Can you pick locks? Start working on the locks... then we'll sneak out"
+msgstr ""
+
+#. Id: 12999-Dialogue (11) (2).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12980-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12999-Dialogue?(11)?(2).mod:1
+msgid "Got it"
+msgstr ""
+
+#. Id: 17278-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12999-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 17278-Dialogue.mod:0
+msgid "You can do this"
+msgstr ""
+
+#. Id: 17278-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (12999-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 17276-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (17275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 17278-Dialogue.mod:1 17276-Dialogue.mod:1
+msgid "I'm counting on you"
+msgstr ""
+
+#. Id: 13001-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12980-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 13001-Dialogue?(11)?(2).mod:0
+msgid "You ain't the boss of me!"
+msgstr ""
+
+#. Id: 13002-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (13001-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13002-Dialogue?(11)?(2).mod:0
+msgid "Er.. okay"
+msgstr ""
+
+#. Id: 12983-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12974-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12983-Dialogue?(11)?(2).mod:0
+msgid "I don't need help, thanks"
+msgstr ""
+
+#. Id: 12984-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12983-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12984-Dialogue?(11)?(2).mod:0
+msgid "Miserable one, aren't ya?"
+msgstr ""
+
+#. Id: 12984-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12983-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12984-Dialogue?(11)?(2).mod:1
+msgid "Then be like that"
+msgstr ""
+
+#. Id: 12977-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 12977-Dialogue?(11)?(2).mod:0
+msgid "/FUCK/! You got a plan?"
+msgstr ""
+
+#. Id: 12977-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 12977-Dialogue?(11)?(2).mod:1
+msgid "Well... isn't this fun... /FUCK/..."
+msgstr ""
+
+#. Id: 12995-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12977-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#. Id: 17292-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 12995-Dialogue?(11)?(2).mod:0 17292-Dialogue.mod:0
+msgid "I'll pick the locks. Follow my lead"
+msgstr ""
+
+#. Id: 13003-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12995-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13003-Dialogue?(11)?(2).mod:0
+msgid "Y- yeah..."
+msgstr ""
+
+#. Id: 13003-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12995-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13003-Dialogue?(11)?(2).mod:1
+msgid "R- right..."
+msgstr ""
+
+#. Id: 13006-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12977-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 13006-Dialogue?(11)?(2).mod:0
+msgid "I don't know, I'm pretty attached to living here"
+msgstr ""
+
+#. Id: 13006-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12977-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 13006-Dialogue?(11)?(2).mod:1
+msgid "I dunno, I think it's pretty cozy here"
+msgstr ""
+
+#. Id: 13007-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12977-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 13007-Dialogue?(11)?(2).mod:0
+msgid "Don't talk to me"
+msgstr ""
+
+#. Id: 12978-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12978-Dialogue?(11)?(2).mod:1
+msgid "We need to escape"
+msgstr ""
+
+#. Id: 12978-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12978-Dialogue?(11)?(2).mod:2
+msgid "We can't sit around here doing nothing"
+msgstr ""
+
+#. Id: 12979-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS<3, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12979-Dialogue?(11)?(2).mod:0
+msgid "Pretty cozy in here..."
+msgstr ""
+
+#. Id: 12979-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS<3, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12979-Dialogue?(11)?(2).mod:1
+msgid "Cozy in here, isn't it?"
+msgstr ""
+
+#. Id: 12979-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS<3, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12979-Dialogue?(11)?(2).mod:2
+msgid "Eh, I've seen dirtier prisons..."
+msgstr ""
+
+#. Id: 12979-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS<3, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 12979-Dialogue?(11)?(2).mod:3
+msgid "Scared?"
+msgstr ""
+
+#. Id: 12985-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12979-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12985-Dialogue?(11)?(2).mod:1
+msgid "We've got to get out of here..."
+msgstr ""
+
+#. Id: 12988-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12985-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12988-Dialogue?(11)?(2).mod:0
+msgid "This should be interesting. Better start picking the locks then, unless you've got any better ideas?"
+msgstr ""
+
+#. Id: 13009-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12988-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 13009-Dialogue?(11)?(2).mod:0
+msgid "Follow my lead"
+msgstr ""
+
+#. Id: 17268-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (13009-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 17274-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17273-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 17268-Dialogue.mod:1 17274-Dialogue.mod:0
+msgid "Heh"
+msgstr ""
+
+#. Id: 12986-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12979-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12986-Dialogue?(11)?(2).mod:0
+msgid "How are you so calm?!"
+msgstr ""
+
+#. Id: 12986-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12979-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12986-Dialogue?(11)?(2).mod:1
+msgid "How are you so relaxed?!"
+msgstr ""
+
+#. Id: 12989-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12986-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12989-Dialogue?(11)?(2).mod:0
+msgid "Eh, call it numbness I guess. You're planning on escaping I guess?"
+msgstr ""
+
+#. Id: 12989-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12986-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12989-Dialogue?(11)?(2).mod:1
+msgid "Calm eh? I like to call it 'emotionally dead'. You're planning on escaping I guess?"
+msgstr ""
+
+#. Id: 12989-Dialogue (11) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12986-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12989-Dialogue?(11)?(2).mod:2
+msgid "Calm you say? My ex likes to call it 'emotionally challenged'. You're planning on escaping I guess?"
+msgstr ""
+
+#. Id: 12990-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12989-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12990-Dialogue?(11)?(2).mod:0
+msgid "Yeah, are you with me?"
+msgstr ""
+
+#. Id: 12990-Dialogue (11) (2).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12989-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12990-Dialogue?(11)?(2).mod:1
+msgid "Yeah, care to join me?"
+msgstr ""
+
+#. Id: 13010-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12990-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13010-Dialogue?(11)?(2).mod:0
+msgid "Sure, I'm no good at lockpicking though. You?"
+msgstr ""
+
+#. Id: 13010-Dialogue (11) (2).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (12990-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13010-Dialogue?(11)?(2).mod:1
+msgid "Sure. I can't lockpick to save my life though. Literally. How about you?"
+msgstr ""
+
+#. Id: 13010-Dialogue (11) (2).mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (12990-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 13010-Dialogue?(11)?(2).mod:2
+msgid "I'm up for it. Can't picklock for shit though. You?"
+msgstr ""
+
+#. Id: 17269-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#. Id: 13388-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13337-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 13363-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13342-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 17269-Dialogue.mod:0 13388-Escapes.mod:0 13363-Escapes.mod:1
+msgid "Leave it to me"
+msgstr ""
+
+#. Id: 17269-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17269-Dialogue.mod:1
+msgid "I'll handle it"
+msgstr ""
+
+#. Id: 17269-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17269-Dialogue.mod:2
+msgid "Let me handle it"
+msgstr ""
+
+#. Id: 17271-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17271-Dialogue.mod:0
+msgid "Me neither. I'll give it a go though"
+msgstr ""
+
+#. Id: 17271-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17271-Dialogue.mod:1
+msgid "Me neither. Doesn't hurt to try though"
+msgstr ""
+
+#. Id: 17275-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17271-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17275-Dialogue.mod:0
+msgid "Always a good time to learn when you're waiting for your turn to be cooked alive, eh"
+msgstr ""
+
+#. Id: 17275-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (17271-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17275-Dialogue.mod:1
+msgid "Well, now's a better time to learn that ever, eh"
+msgstr ""
+
+#. Id: 17275-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (17271-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 17275-Dialogue.mod:2
+msgid "No better time to learn than now, eh?"
+msgstr ""
+
+#. Id: 17276-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (17275-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 12207-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek civ get me out of this cage
+#: 17276-Dialogue.mod:0 12207-Dialogue?(10).mod:0
+msgid "Don't give up"
+msgstr ""
+
+#. Id: 17272-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17272-Dialogue.mod:0
+msgid "Nope"
+msgstr ""
+
+#. Id: 17272-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (13010-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 17272-Dialogue.mod:1
+msgid "I suck at it"
+msgstr ""
+
+#. Id: 17273-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (17272-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 17273-Dialogue.mod:0
+msgid "/MERCLAUGH/. Guess we'll rot in these cozy old cages then"
+msgstr ""
+
+#. Id: 12991-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12989-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12991-Dialogue?(11)?(2).mod:0
+msgid "Yeah, I don't need anyone slowing me down though"
+msgstr ""
+
+#. Id: 12994-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12991-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12994-Dialogue?(11)?(2).mod:0
+msgid "/MERCLAUGH/, suit yourself..."
+msgstr ""
+
+#. Id: 12992-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12989-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12992-Dialogue?(11)?(2).mod:0
+msgid "No, I plan on waiting for my doom in this hutch..."
+msgstr ""
+
+#. Id: 12993-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12992-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#: 12993-Dialogue?(11)?(2).mod:0
+msgid "/MERCLAUGH/, sacrcastic one, aren't ya?"
+msgstr ""
+
+#. Id: 12987-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12979-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#: 12987-Dialogue?(11)?(2).mod:0
+msgid "(Ignore them)"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:0 17291-Dialogue.mod:0
+msgid "Th- this is /CRAZY/... I can't die like this... /FUCK/!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:1 17291-Dialogue.mod:1
+msgid "I- I... This is /CRAZY/... /FUCK/..."
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:2 17291-Dialogue.mod:2
+msgid "This is just /CRAZY/! W- we can't just sit back and do nothing!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:3 17291-Dialogue.mod:3
+msgid "/FUCK/! Th- this is seriously /CRAZY/!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:4 17291-Dialogue.mod:4
+msgid "/WTF/... Th- this place... this placed is fucked up!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:5 17291-Dialogue.mod:5
+msgid "Th- these people are /CRAZY/!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:6 17291-Dialogue.mod:6
+msgid "/WTF/, what kind of place is this place?!"
+msgstr ""
+
+#. Id: 12996-Dialogue (11) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 17291-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 12996-Dialogue?(11)?(2).mod:7 17291-Dialogue.mod:7
+msgid "/WTF/ is this!? These people are nutjobs!"
+msgstr ""
+
+#. Id: 49937-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12996-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#. Id: 17293-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 49937-Dialogue.mod:0 17293-Dialogue.mod:0
+msgid "Yep, we're pretty screwed"
+msgstr ""
+
+#. Id: 49941-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49937-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc
+#. Id: 17297-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (17293-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 49941-Dialogue.mod:0 17297-Dialogue.mod:0
+msgid "No... no, no, no..."
+msgstr ""
+
+#. Id: 49939-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12996-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#. Id: 17294-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 49939-Dialogue.mod:0 17294-Dialogue.mod:0
+msgid "Grow a backbone and quit flapping..."
+msgstr ""
+
+#. Id: 49939-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12996-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc
+#. Id: 17294-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged neighbour talk to pt 2
+#: 49939-Dialogue.mod:1 17294-Dialogue.mod:1
+msgid "Grow a pair and quit crying..."
+msgstr ""
+

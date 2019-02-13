@@ -1,0 +1,661 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44808-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44808-Dialogue.mod:0
+msgid "/WHATTHEFUCK/ are you /LOOKING/ at, eh?"
+msgstr ""
+
+#. Id: 44948-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44808-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44948-Dialogue.mod:0
+msgid "I was, uh, just admiring your sword, that's all..."
+msgstr ""
+
+#. Id: 44982-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44982-Dialogue.mod:0
+msgid "Yeah, it's a good sword. So what. You plannin' on stealin' it or somethin'?!"
+msgstr ""
+
+#. Id: 44983-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44982-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44983-Dialogue.mod:0
+msgid "No, of course not..."
+msgstr ""
+
+#. Id: 45464-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44983-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45464-Dialogue.mod:0
+msgid "So then what's your problem, ah? Quit botherin' me!"
+msgstr ""
+
+#. Id: 44986-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44982-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44986-Dialogue.mod:0
+msgid "I just meant it as a compliment..."
+msgstr ""
+
+#. Id: 44987-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44987-Dialogue.mod:0
+msgid "So what, you hittin' on me now? I swear, you must be askin' for a /BEATING/!"
+msgstr ""
+
+#. Id: 44988-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44988-Dialogue.mod:0
+msgid "I just want to be friends..."
+msgstr ""
+
+#. Id: 44991-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (44988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44991-Dialogue.mod:0
+msgid "You wanna be friends, eh? Then go buy me a drink and get out of my face!"
+msgstr ""
+
+#. Id: 44992-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (44991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44992-Dialogue.mod:0
+msgid "I don't think you understand how friendship works..."
+msgstr ""
+
+#. Id: 44999-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (44992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44999-Dialogue.mod:0
+msgid "JUST GET OUT OF MY FACE ALREADY!"
+msgstr ""
+
+#. Id: 45000-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (44999-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45000-Dialogue.mod:0
+msgid "Gabby /GODDAMN/ out-of-towners..."
+msgstr ""
+
+#. Id: 44993-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (44991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 44993-Dialogue.mod:0
+msgid "Sure, have some grog on me..."
+msgstr ""
+
+#. Id: 45001-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (44993-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45001-Dialogue.mod:0
+msgid "I accept your grog."
+msgstr ""
+
+#. Id: 45002-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45001-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45002-Dialogue.mod:0
+msgid "Now quit gabbin' and sit down"
+msgstr ""
+
+#. Id: 44994-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (44991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 15136-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15127-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 3000
+#: 44994-Dialogue.mod:0 15136-Dialogue.mod:0
+msgid "I'm leaving, I'm leaving..."
+msgstr ""
+
+#. Id: 44997-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (44991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<100, Tag: -1
+#: 44997-Dialogue.mod:0
+msgid "Sorry, I can't afford to buy you a drink..."
+msgstr ""
+
+#. Id: 45003-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (44997-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45003-Dialogue.mod:0
+msgid "Then /GETLOST/ already!"
+msgstr ""
+
+#. Id: 45004-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (45003-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45004-Dialogue.mod:0
+msgid "Dumb out-of-towners..."
+msgstr ""
+
+#. Id: 44989-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44989-Dialogue.mod:0
+msgid "Fine, you really want to fight me? Then let's go!"
+msgstr ""
+
+#. Id: 44990-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. Id: 44951-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44990-Dialogue.mod:0 44951-Dialogue.mod:0
+msgid "I'm sorry... (Back away)"
+msgstr ""
+
+#. Id: 44990-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (44987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44990-Dialogue.mod:1
+msgid "I should probably just go... (Back away)"
+msgstr ""
+
+#. Id: 45465-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (44990-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45465-Dialogue.mod:0
+msgid "Eh! You will be..."
+msgstr ""
+
+#. Id: 45466-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (45465-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45466-Dialogue.mod:0
+msgid "*muttering*"
+msgstr ""
+
+#. Id: 44984-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44984-Dialogue.mod:0
+msgid "What's that supposed to mean? You pickin' a fight!?.. Sure, I can 'show you' my sword if you want, let's go!"
+msgstr ""
+
+#. Id: 44949-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44808-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44949-Dialogue.mod:0
+msgid "I just wanted to buy you a drink..."
+msgstr ""
+
+#. Id: 45005-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45005-Dialogue.mod:0
+msgid "... Make it a grog. A cold one."
+msgstr ""
+
+#. Id: 45006-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100, Tag: -1
+#: 45006-Dialogue.mod:0
+msgid "One grog comin' up!"
+msgstr ""
+
+#. Id: 45013-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45006-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45013-Dialogue.mod:0
+msgid "*gulp gulp gulp*"
+msgstr ""
+
+#. Id: 45014-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45014-Dialogue.mod:0
+msgid "Shit grog."
+msgstr ""
+
+#. Id: 45015-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 45015-Dialogue.mod:0
+msgid "... Is that it? Not even a 'thank you'? Or a cool story?!"
+msgstr ""
+
+#. Id: 45017-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (45014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 45017-Dialogue.mod:0
+msgid "Um... bye then..."
+msgstr ""
+
+#. Id: 45008-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 45008-Dialogue.mod:0
+msgid "'Please' wouldn't go amiss, you know..."
+msgstr ""
+
+#. Id: 45019-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45019-Dialogue.mod:0
+msgid "Buy me a grog, shut up, or take a /BEATING/. Your choice, /RUNT/..."
+msgstr ""
+
+#. Id: 45020-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45019-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 45020-Dialogue.mod:0
+msgid "But I want to talk, can we talk? Let's talk."
+msgstr ""
+
+#. Id: 45009-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45005-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 45009-Dialogue.mod:0
+msgid "Oh... this is embarrassing, I don't have enough money afterall..."
+msgstr ""
+
+#. Id: 45010-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45010-Dialogue.mod:0
+msgid "Then get out of my face! Useless out-of-towner, gettin' in my space..."
+msgstr ""
+
+#. Id: 45011-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (45010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45011-Dialogue.mod:0
+msgid "/GETLOST/..."
+msgstr ""
+
+#. Id: 44950-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44808-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44950-Dialogue.mod:0
+msgid "I'm sorry, I meant no offence..."
+msgstr ""
+
+#. Id: 45022-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44950-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45022-Dialogue.mod:0
+msgid "Then hurry up and get out of my face already..."
+msgstr ""
+
+#. Id: 45023-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 45023-Dialogue.mod:0
+msgid "Out-of-towners..."
+msgstr ""
+
+#. Id: 44952-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44808-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44952-Dialogue.mod:0
+msgid "A dead /MEMAN/ if you keep pushing me..."
+msgstr ""
+
+#. Id: 44952-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44808-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44952-Dialogue.mod:1
+msgid "I don't know, I'm trying to figure that out myself..."
+msgstr ""
+
+#. Id: 44968-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44968-Dialogue.mod:0
+msgid "Let's see how cocky you are after I'm done giving you a /BEATING/!"
+msgstr ""
+
+#. Id: 44809-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44809-Dialogue.mod:0
+msgid "I eat /RUNT/s like you for breakfast! Come on, you wanna fight, let's fight!"
+msgstr ""
+
+#. Id: 44809-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44809-Dialogue.mod:1
+msgid "You lookin' for a fight, /INSULT/?!"
+msgstr ""
+
+#. Id: 44809-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44809-Dialogue.mod:2
+msgid "You get up in my space, you ask for a /BEATING/! So let's go, /SCUM/!"
+msgstr ""
+
+#. Id: 44809-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44809-Dialogue.mod:3
+msgid "What? You wanna fight?!"
+msgstr ""
+
+#. Id: 44975-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44975-Dialogue.mod:0
+msgid "I'll show you pain!"
+msgstr ""
+
+#. Id: 44975-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44975-Dialogue.mod:1
+msgid "I ain't afraid of no /RUNT/!"
+msgstr ""
+
+#. Id: 44975-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44975-Dialogue.mod:2
+msgid "They won't recognize your /CORPSE/ after I'm done with you!"
+msgstr ""
+
+#. Id: 44973-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44973-Dialogue.mod:0
+msgid "Got nothin' to say?! Smug /INSULT/!"
+msgstr ""
+
+#. Id: 44973-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44973-Dialogue.mod:1
+msgid "Too good to talk to me, eh? Cocky /INSULT/!"
+msgstr ""
+
+#. Id: 44974-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (44973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44974-Dialogue.mod:2
+msgid "Come on, let's do this!"
+msgstr ""
+
+#. Id: 44979-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44979-Dialogue.mod:0
+msgid "Sorry, I don't want any trouble..."
+msgstr ""
+
+#. Id: 44980-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44980-Dialogue.mod:0
+msgid "Pft, ain't got no time for /COWARD/s..."
+msgstr ""
+
+#. Id: 44980-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (44979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44980-Dialogue.mod:1
+msgid "Ha, coward..."
+msgstr ""
+
+#. Id: 44981-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44981-Dialogue.mod:0
+msgid "Go, run back home to your mom, /RUNT/"
+msgstr ""
+
+#. Id: 44947-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44947-Dialogue.mod:0
+msgid "I don't like that look in your eye, /INSULT/! You smirkin' at me?!"
+msgstr ""
+
+#. Id: 44956-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44956-Dialogue.mod:0
+msgid "You got a purdie mouth (Lick your lips)"
+msgstr ""
+
+#. Id: 44956-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44956-Dialogue.mod:1
+msgid "You got tasty lookin' eyeballs *wheeze*"
+msgstr ""
+
+#. Id: 44957-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#. Id: 65159-__october 17.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65158-__october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Eyegore hunts down player
+#: 44957-Dialogue.mod:0 65159-__october?17.mod:0
+msgid "... "
+msgstr ""
+
+#. Id: 44958-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44958-Dialogue.mod:0
+msgid "Stay the hell away from me. Creepy /GODDAMN/ wierdo..."
+msgstr ""
+
+#. Id: 44959-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44959-Dialogue.mod:0
+msgid "Uhuh... (Crack your knuckles)"
+msgstr ""
+
+#. Id: 44960-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44960-Dialogue.mod:0
+msgid "Then let's go, /INSULT/!"
+msgstr ""
+
+#. Id: 44961-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (44960-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44961-Dialogue.mod:0
+msgid "You ain't gonna look too pretty by the time I'm finished with ya!"
+msgstr ""
+
+#. Id: 44954-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44954-Dialogue.mod:0
+msgid "What? You got a problem, /RUNT/?! /WHATTHEFUCK/ do you want?"
+msgstr ""
+
+#. Id: 44955-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44954-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug3
+#: 44955-Dialogue.mod:0
+msgid "Yeah, I got a problem, with that fugly face of yours!"
+msgstr ""
+
+#. Id: 44963-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44963-Dialogue.mod:0
+msgid "Hnnnngh! You're so mean!"
+msgstr ""
+
+#. Id: 44966-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#: 44966-Dialogue.mod:0
+msgid "I'll kill you! *sob*"
+msgstr ""
+

@@ -1,0 +1,268 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12852-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#: 12852-Dialogue?(11)?(2).mod:1
+msgid "Raiders!"
+msgstr ""
+
+#. Id: 12854-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12854-Dialogue?(11)?(2).mod:0
+msgid "Thieving dogs!"
+msgstr ""
+
+#. Id: 12854-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 12854-Dialogue?(11)?(2).mod:1
+msgid "Stinking dogs!"
+msgstr ""
+
+#. Id: 12855-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12855-Dialogue?(11)?(2).mod:0
+msgid "I hate bandits!"
+msgstr ""
+
+#. Id: 12855-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12855-Dialogue?(11)?(2).mod:1
+msgid "Bandit /SCUM/!"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:1
+msgid "Nothing beats a bit of bandit killing!"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:2
+msgid "Killing bandits: My favourite past time, heheh"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:3
+msgid "Ah, some entertainment!"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:4
+msgid "A perfect start to the day, heheh"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:5
+msgid "Ah, my order of bandits has arrived!"
+msgstr ""
+
+#. Id: 12856-Dialogue (11) (2).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12853-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 12856-Dialogue?(11)?(2).mod:6
+msgid "Ah, my order of bandits is here!"
+msgstr ""
+
+#. Id: 12861-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#: 12861-Dialogue?(11)?(2).mod:0
+msgid "Bandits?!"
+msgstr ""
+
+#. Id: 12861-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#: 12861-Dialogue?(11)?(2).mod:1
+msgid "Raiders?!"
+msgstr ""
+
+#. Id: 12860-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12860-Dialogue?(11)?(2).mod:0
+msgid "Not in MY town!"
+msgstr ""
+
+#. Id: 12860-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12860-Dialogue?(11)?(2).mod:1
+msgid "This is MY town! No dogs allowed"
+msgstr ""
+
+#. Id: 12860-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12860-Dialogue?(11)?(2).mod:2
+msgid "Get out of my town!"
+msgstr ""
+
+#. Id: 12860-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 12860-Dialogue?(11)?(2).mod:3
+msgid "Dogs aren't welcome here!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:0
+msgid "A little help over here?!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:1
+msgid "A little help, someone?!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:2
+msgid "A little help?!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:3
+msgid "Could use a hand over here!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:4
+msgid "Could use some assistance over here!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:5
+msgid "Could use some help over here!"
+msgstr ""
+
+#. Id: 12865-Dialogue (11) (2).mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12861-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 12865-Dialogue?(11)?(2).mod:6
+msgid "Give me a hand, someone?!"
+msgstr ""
+

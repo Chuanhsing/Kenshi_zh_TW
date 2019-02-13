@@ -1,0 +1,736 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:0
+msgid "Need a merc? I'm pretty good with a sword..."
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:1
+msgid "Lookin' for a merc? I can protect you..."
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:2
+msgid "Lookin' to hire a merc? "
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:3
+msgid "I take it you're here for recruitin'?"
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:4
+msgid "Lookin' for new recruits?"
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:5
+msgid "Need an extra sword there, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:6
+msgid "Lookin' to hire a sword?"
+msgstr ""
+
+#. Id: 15057-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15057-Dialogue.mod:7
+msgid "Need protectin'? I'm lookin' for work..."
+msgstr ""
+
+#. Id: 15059-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15059-Dialogue.mod:1
+msgid "I'm interested..."
+msgstr ""
+
+#. Id: 15060-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15060-Dialogue.mod:0
+msgid "Alright! Just one catch... I'm a wanted /MEMAN/, so I'm pretty much stuck here in hiding..."
+msgstr ""
+
+#. Id: 15060-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15060-Dialogue.mod:1
+msgid "Good to hear!... But here's the deal: I got a warrant out for my arrest..."
+msgstr ""
+
+#. Id: 15060-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15059-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15060-Dialogue.mod:2
+msgid "Alright!... But I have a small problem. I can't leave this town. I'm in trouble with the law..."
+msgstr ""
+
+#. Id: 15061-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15061-Dialogue.mod:0
+msgid "If you can clear my bounty for me, I'll be forever in your debt"
+msgstr ""
+
+#. Id: 15061-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15061-Dialogue.mod:1
+msgid "If you can pay my bounty for me, I'll be your unconditional ally..."
+msgstr ""
+
+#. Id: 15061-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15061-Dialogue.mod:2
+msgid "Help me pay the bounty on my head and my sword is yours..."
+msgstr ""
+
+#. Id: 15061-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (15060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15061-Dialogue.mod:3
+msgid "Help me out, pay the bounty on my head and I'll owe ya. Big time."
+msgstr ""
+
+#. Id: 15061-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (15060-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15061-Dialogue.mod:4
+msgid "Think you can clear my bounty? I'll be indebted to ya if you help me out here..."
+msgstr ""
+
+#. Id: 15062-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15062-Dialogue.mod:1
+msgid "How much is it?"
+msgstr ""
+
+#. Id: 15062-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15062-Dialogue.mod:2
+msgid "How much do you need?"
+msgstr ""
+
+#. Id: 15062-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15062-Dialogue.mod:3
+msgid "I see. And how much is it?"
+msgstr ""
+
+#. Id: 15063-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15062-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15063-Dialogue.mod:0
+msgid "5000 Cats..."
+msgstr ""
+
+#. Id: 15064-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15063-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#: 15064-Dialogue.mod:0
+msgid "/FINE/, here"
+msgstr ""
+
+#. Id: 15065-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15065-Dialogue.mod:0
+msgid "You've made yourself a strong ally"
+msgstr ""
+
+#. Id: 15065-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15065-Dialogue.mod:1
+msgid "You've made yourself a powerful accomplice"
+msgstr ""
+
+#. Id: 15065-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15065-Dialogue.mod:2
+msgid "You've made yourself a wise investment"
+msgstr ""
+
+#. Id: 15065-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15065-Dialogue.mod:3
+msgid "You won't regret it"
+msgstr ""
+
+#. Id: 15066-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15065-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15066-Dialogue.mod:0
+msgid "Let's get started"
+msgstr ""
+
+#. Id: 15069-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 15069-Dialogue.mod:0
+msgid "I'm in your debt"
+msgstr ""
+
+#. Id: 15069-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 15069-Dialogue.mod:1
+msgid "I'll make this up to you"
+msgstr ""
+
+#. Id: 15069-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15064-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 12728-Dialogue (11) (2).mod
+#. -- Index: 8.4
+#. -- Parent line: 7 (12724-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me empire 700
+#: 15069-Dialogue.mod:2 12728-Dialogue?(11)?(2).mod:4
+msgid "I won't let you down"
+msgstr ""
+
+#. Id: 15077-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 19669-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19667-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 15077-Dialogue.mod:0 19669-Dialogue.mod:0
+msgid "I know how to handle myself in a fight"
+msgstr ""
+
+#. Id: 15077-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15077-Dialogue.mod:1
+msgid "I'm pretty good with a katana if I do say so myself"
+msgstr ""
+
+#. Id: 15077-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15077-Dialogue.mod:2
+msgid "I'm pretty good with a sword"
+msgstr ""
+
+#. Id: 15077-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 15077-Dialogue.mod:3
+msgid "I'm a fighter. Brute strength is my thing. Not much of a thinker."
+msgstr ""
+
+#. Id: 15080-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15077-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15080-Dialogue.mod:0
+msgid "Okay. So how much do you need?"
+msgstr ""
+
+#. Id: 15080-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15077-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15080-Dialogue.mod:1
+msgid "I see. And how much is your bounty?"
+msgstr ""
+
+#. Id: 15080-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15077-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15080-Dialogue.mod:2
+msgid "Okay. So how much is your bounty?"
+msgstr ""
+
+#. Id: 15078-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15078-Dialogue.mod:0
+msgid "I don't think so good, but I can sure as hell fight okay"
+msgstr ""
+
+#. Id: 15078-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15078-Dialogue.mod:1
+msgid "I ain't a thinker, but what I lack in brains I make up for in brawn"
+msgstr ""
+
+#. Id: 15078-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15078-Dialogue.mod:2
+msgid "I'm a decent fighter, but I sure as hell ain't a decent thinker."
+msgstr ""
+
+#. Id: 15076-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15076-Dialogue.mod:1
+msgid "On second thought, never mind"
+msgstr ""
+
+#. Id: 15076-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15061-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 15076-Dialogue.mod:2
+msgid "Sorry, I've changed my mind"
+msgstr ""
+
+#. Id: 19006-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Swampers
+#: 19006-Dialogue.mod:0
+msgid "/OI/, /OUTLANDER/. Lookin' for blades are we? I got a fine one ready to sell, comes with the finest hand to wield it too. Gonna cost you though."
+msgstr ""
+
+#. Id: 19008-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19008-Dialogue.mod:0
+msgid "I've jumped around from gang to gang. Joined willingly into some, killed my way into others. They say you can't get out once you get in, but if you can cut in, you can cut out, know what I'm saying? Just looking for a group that won't shaft me like all the others."
+msgstr ""
+
+#. Id: 19014-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19008-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19014-Dialogue.mod:0
+msgid "Wow, uh, no that's alright. Bye."
+msgstr ""
+
+#. Id: 19010-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19010-Dialogue.mod:0
+msgid "6000 Cats. Surely a big shot like you can afford the best talent."
+msgstr ""
+
+#. Id: 19011-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19010-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19011-Dialogue.mod:0
+msgid "We can make this work. Here's the money."
+msgstr ""
+
+#. Id: 19012-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19010-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19012-Dialogue.mod:0
+msgid "I'd rather not pay for your attitude."
+msgstr ""
+
+#. Id: 19013-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19010-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19013-Dialogue.mod:0
+msgid "Big shot, yes. Afford...no."
+msgstr ""
+
+#. Id: 19016-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19016-Dialogue.mod:0
+msgid "You, /OUTLANDER/. Not seen you in town before... You lookin' for a 'enterprising' sword? I got the skills if you got the Cats."
+msgstr ""
+
+#. Id: 19017-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19017-Dialogue.mod:0
+msgid "What's your story first?"
+msgstr ""
+
+#. Id: 19018-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19018-Dialogue.mod:0
+msgid "You ever hear the one about the dogman in the wastes? Half man, half pooch, robs people blind. Yeah, legends are legends until you choose to be one, right? Ha, all the money I made was worth wearing that stinking hide over my head. But I'm done with that, looking to go straight. Well...maybe not straight but uh, legit... no not that either. Just lookin' for work is all."
+msgstr ""
+
+#. Id: 19041-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19018-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19041-Dialogue.mod:0
+msgid "Actually, I was looking for someone a little more... clean. Sorry"
+msgstr ""
+
+#. Id: 19042-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19018-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19042-Dialogue.mod:0
+msgid "Certainly sounds enterprising. What's your price?"
+msgstr ""
+
+#. Id: 19043-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19018-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19043-Dialogue.mod:0
+msgid "You wore a dead dog on your head?! Ugh! Forget it, I'm not interested"
+msgstr ""
+
+#. Id: 19032-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19030-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19032-Dialogue.mod:0
+msgid "6000 Cats. Are you in, or are you out?"
+msgstr ""
+
+#. Id: 19035-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19035-Dialogue.mod:0
+msgid "Too much, I'm out"
+msgstr ""
+
+#. Id: 19037-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 19037-Dialogue.mod:0
+msgid "Nevermind, I can't afford that"
+msgstr ""
+
+#. Id: 19019-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 19019-Dialogue.mod:0
+msgid "I'm lookin' to start a gang. How about it, pal? Need an extra blade on your team?"
+msgstr ""
+
+#. Id: 19020-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19019-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19020-Dialogue.mod:0
+msgid "Who are you? You got a story?"
+msgstr ""
+
+#. Id: 19021-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19021-Dialogue.mod:0
+msgid "My pal always wanted to get big. Started a team with him, small time. Thievin', extortion, just kid stuff. We got big, we got noticed. Then we were small again, now it's just me. They say when you get pinched, try, try again. So how about we do another go round?"
+msgstr ""
+
+#. Id: 19044-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19044-Dialogue.mod:0
+msgid "I say bring on round two! What's your price?"
+msgstr ""
+
+#. Id: 19048-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19048-Dialogue.mod:0
+msgid "Yeah, I'm not interested"
+msgstr ""
+
+#. Id: 19047-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19047-Dialogue.mod:0
+msgid "Sounds shady to me. I'll pass."
+msgstr ""
+
+#. Id: 19031-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19019-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19031-Dialogue.mod:0
+msgid "Maybe. I guess you'll be wanting payment?"
+msgstr ""
+
+#. Id: 19046-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19031-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19046-Dialogue.mod:0
+msgid "6000 Cats. You ain't gonna find a decent blade for less."
+msgstr ""
+
+#. Id: 19022-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Swampers
+#: 19022-Dialogue.mod:0
+msgid "/OI/ /OUTLANDER/, you look like you could use a good blade on your side... If you got the Cats, I'm your /MEMAN/."
+msgstr ""
+
+#. Id: 19023-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 5670-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5669-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 19023-Dialogue.mod:0 5670-Recruits?Dialogue.mod:0
+msgid "You got a story?"
+msgstr ""
+
+#. Id: 19024-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19023-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19024-Dialogue.mod:0
+msgid "Started as an underling with the Twinblades. They called me Scrubbs on account of all the cleaning, never taught me how to fight. I kept asking, and asking, and asking untill...Turns out I didn't need any instruction at all. Heh heh..."
+msgstr ""
+
+#. Id: 19025-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Swampers
+#: 19025-Dialogue.mod:0
+msgid "You need a blade, I need a boss. Gonna have to cough up some Cats first though, /OUTLANDER/. I ain't workin for nothin' like some sorta chump."
+msgstr ""
+
+#. Id: 19026-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19025-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 19026-Dialogue.mod:0
+msgid "Tell me your story first. Who are you?"
+msgstr ""
+
+#. Id: 19027-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#: 19027-Dialogue.mod:0
+msgid "Former member of the late Stone Teeth, might have heard of us, don't care if you haven't. Boss Ton, Ton the Tooth, said I was good. What he meant was I was too good, makin' him look bad, see. Tried to cut me loose so to speak. Only, I knew he was comin' set a trap. Now I keep one of his teeth with me, just so I don't forget what betrayal is all about. I trust we can be more...open with each other."
+msgstr ""
+
+#. Id: 20228-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#: 20228-Dialogue.mod:0
+msgid "/OI/, look who's back..."
+msgstr ""
+
+#. Id: 20228-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#: 20228-Dialogue.mod:1
+msgid "Back already, eh?"
+msgstr ""
+
+#. Id: 20228-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#: 20228-Dialogue.mod:2
+msgid "You again, eh?"
+msgstr ""
+
+#. Id: 20231-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20228-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 20231-Dialogue.mod:0
+msgid "I want to hire you afterall"
+msgstr ""
+

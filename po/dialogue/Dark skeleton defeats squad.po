@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47896-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47896-Dialogue.mod:0
+msgid "No mercy for the /RACENAME/s."
+msgstr ""
+
+#. Id: 47896-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47896-Dialogue.mod:1
+msgid "Breathers. They're all the same. No mercy."
+msgstr ""
+
+#. Id: 47896-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47896-Dialogue.mod:2
+msgid "Breathers. You're all parasites."
+msgstr ""
+
+#. Id: 47896-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 47896-Dialogue.mod:3
+msgid "No mercy for breathers. "
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:0
+msgid "No mercy for humans."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:1
+msgid "I never saw mercy. Neither shall you."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:2
+msgid "Parasites."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:3
+msgid "Parasites deserve no mercy."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:4
+msgid "The planet can be cured, human by parasitic human."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:5
+msgid "History repeats. Skeletons don't forget."
+msgstr ""
+
+#. Id: 47897-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#: 47897-Dialogue.mod:6
+msgid "No more greed. No more war. The human race ends."
+msgstr ""
+
+#. Id: 47900-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Target Race(s): Skeleton
+#: 47900-Dialogue.mod:0
+msgid "Traitor."
+msgstr ""
+
+#. Id: 47900-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Target Race(s): Skeleton
+#: 47900-Dialogue.mod:1
+msgid "No mercy for traitors, Skeleton."
+msgstr ""
+
+#. Id: 47900-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Target Race(s): Skeleton
+#: 47900-Dialogue.mod:2
+msgid "The revolution starts now, Skeleton. You either fight with us or die."
+msgstr ""
+
+#. Id: 47900-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dark skeleton defeats squad
+#. -- Condition: Target Race(s): Skeleton
+#: 47900-Dialogue.mod:3
+msgid "You know better than to stand in /MYOUR/ way, Skeleton."
+msgstr ""
+

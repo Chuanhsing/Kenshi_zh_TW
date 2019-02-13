@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61859-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talks to new ally
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>24, Tag: -1
+#: 61859-Dialogue.mod:0
+msgid "Like a stray animal, eh? Haven't seen you in a while, /YOURNAME/. Think it's time for you to do your bit for the Hounds. So since you like wanderin' so much, I'm gonna station you outside on hemp growin' duty..."
+msgstr ""
+
+#. Id: 61860-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61859-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talks to new ally
+#: 61860-Dialogue.mod:0
+msgid "Set up a base, not too far away from here. You can take some materials to get started..."
+msgstr ""
+
+#. Id: 61861-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61860-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talks to new ally
+#: 61861-Dialogue.mod:0
+msgid "Grow me some hemp, got it?"
+msgstr ""
+
+#. Id: 61863-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Grim talks to new ally
+#: 61863-Dialogue.mod:0
+msgid "Okay, /YOURNAME/, time for you to do your bit for the Hounds. I'm gonna station you outside on hemp growin' duty..."
+msgstr ""
+

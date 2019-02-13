@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 58762-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 58762-Dialogue.mod:0
+msgid "Witch of Narko!... "
+msgstr ""
+
+#. Id: 58763-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58762-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 58763-Dialogue.mod:0
+msgid "Take her to the inquisitor, child..."
+msgstr ""
+
+#. Id: 58764-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 58764-Dialogue.mod:0
+msgid "Horned devil woman!..."
+msgstr ""
+
+#. Id: 58765-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 58765-Dialogue.mod:0
+msgid "That rotten tyrant!... You've caught him!"
+msgstr ""
+
+#. Id: 58766-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58765-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 58766-Dialogue.mod:0
+msgid "Take him to the inquisitor, child, straight away..."
+msgstr ""
+
+#. Id: 59887-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 59892-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 59894-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61513-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61516-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61519-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 1533424-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 59887-Dialogue.mod:0 59892-Dialogue.mod:0 59894-Dialogue.mod:0 61513-Dialogue.mod:0 61516-Dialogue.mod:0 61519-Dialogue.mod:0 1533424-Dialogue.mod:0
+msgid "Leave, woman! Shoo! What is this dead thing you've dragged in?"
+msgstr ""
+
+#. Id: 59888-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59887-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 59888-Dialogue.mod:0
+msgid "Ugh. Like a wild beast with a chewed crow in its jaws..."
+msgstr ""
+
+#. Id: 59889-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 59893-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 59895-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61514-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61517-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 61520-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 59889-Dialogue.mod:0 59893-Dialogue.mod:0 59895-Dialogue.mod:0 61514-Dialogue.mod:0 61517-Dialogue.mod:0 61520-Dialogue.mod:0
+msgid "What is this dead thing you've dragged in? Leave, dark one! "
+msgstr ""
+
+#. Id: 61515-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61515-Dialogue.mod:0
+msgid "Is that the Lord of the Traders Guild...?!"
+msgstr ""
+
+#. Id: 61565-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61515-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 61565-Dialogue.mod:0
+msgid "What are you doing, child? Get him out of here!"
+msgstr ""
+
+#. Id: 61566-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61565-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 61566-Dialogue.mod:0
+msgid "We want no part in your war!"
+msgstr ""
+
+#. Id: 61518-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61518-Dialogue.mod:0
+msgid "The abomination General of the rotten Empire...!"
+msgstr ""
+
+#. Id: 61521-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61521-Dialogue.mod:0
+msgid "Tinfist, the darkest of Narko's agents..!"
+msgstr ""
+
+#. Id: 61522-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61522-Dialogue.mod:0
+msgid "Foolish woman! Get that darkened abomination out of my city!"
+msgstr ""
+
+#. Id: 61523-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61523-Dialogue.mod:0
+msgid "Foolish beast! Get that darkened abomination out of my city!"
+msgstr ""
+
+#. Id: 1533322-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 1533322-Dialogue.mod:0
+msgid "The devil offspring!"
+msgstr ""
+
+#. Id: 1533427-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533322-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees sworn enemy being carried
+#: 1533427-Dialogue.mod:0
+msgid "Take her to the inquisitor. The ritual will be performed and Okran will take care of her..."
+msgstr ""
+

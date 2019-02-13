@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43551-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43550-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Betrayal sundemon
+#. Id: 7089-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13682-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted by target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 14138-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14136-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian betrayed
+#: 43551-Dialogue.mod:0 7089-Dialogue.mod:1 14138-Dialogue?(4).mod:0
+msgid "You /BASTARD/!"
+msgstr ""
+
+#. Id: 43551-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43550-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Betrayal sundemon
+#: 43551-Dialogue.mod:1
+msgid "You backstabbin' /INSULT/!"
+msgstr ""
+

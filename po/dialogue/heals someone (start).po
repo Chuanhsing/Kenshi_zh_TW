@@ -1,0 +1,419 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:0 15839-Dialogue.mod:1
+msgid "Don't worry. I can remedy this."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:1 15839-Dialogue.mod:2
+msgid "Should I mend that for you?"
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:2 15839-Dialogue.mod:3
+msgid "Trust me. I've healed worse wounds."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:3 15839-Dialogue.mod:4
+msgid "You're going to be fine."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:4 15839-Dialogue.mod:5
+msgid "Sorry if this stings."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:5 15839-Dialogue.mod:6
+msgid "Leave this to me."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:6 15839-Dialogue.mod:7
+msgid "This might hurt a little."
+msgstr ""
+
+#. Id: 3565-dialogue-01.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#. Id: 15839-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#: 3565-dialogue-01.mod:7 15839-Dialogue.mod:0
+msgid "Let's patch you up"
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:0 15840-Dialogue.mod:0
+msgid "Hold still."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:1 15840-Dialogue.mod:1
+msgid "Stop squirming."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:2 15840-Dialogue.mod:2
+msgid "Shut up for a minute."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:3 15840-Dialogue.mod:3
+msgid "This'll hurt."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:4 15840-Dialogue.mod:4
+msgid "Don't scream in my ear while I fix you."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:5 15840-Dialogue.mod:5 15840-Dialogue.mod:6
+msgid "Great. Here go my supplies."
+msgstr ""
+
+#. Id: 3567-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 15840-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 3567-dialogue-01.mod:6 15840-Dialogue.mod:7
+msgid "Draining my kits, you know that?"
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:0 15841-Dialogue.mod:0
+msgid "I'll patch you up."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:1 15841-Dialogue.mod:1
+msgid "Clean. Pressure. Bandage."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:2 15841-Dialogue.mod:2
+msgid "Bite down on the pain. Leave the wounds with me."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:3 15841-Dialogue.mod:3
+msgid "Sit tight while I tend to this."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:4 15841-Dialogue.mod:4
+msgid "Let me take a look."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:5 15841-Dialogue.mod:5
+msgid "Should be able to handle this."
+msgstr ""
+
+#. Id: 3569-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. Id: 15841-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ healing start
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 3569-dialogue-01.mod:6 15841-Dialogue.mod:6
+msgid "I'll mend what I can."
+msgstr ""
+
+#. Id: 50088-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 50088-Dialogue.mod:0
+msgid "Okran lend me your healing light..."
+msgstr ""
+
+#. Id: 50088-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 50088-Dialogue.mod:1
+msgid "Okran grant us your healing warmth..."
+msgstr ""
+
+#. Id: 50088-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 50088-Dialogue.mod:2
+msgid "You'll live. Okran has a purpose for you yet."
+msgstr ""
+
+#. Id: 50088-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: heals someone (start)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 50088-Dialogue.mod:3
+msgid "Have faith in Okran and his light will heal all."
+msgstr ""
+

@@ -1,0 +1,312 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:0
+msgid "Concentrate... concentrate..."
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:1
+msgid "Okay... I can do this... I can do this..."
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:2
+msgid "Steady now..."
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:3
+msgid "How hard can this be? No trouble, just... just don't move, okay?"
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:4
+msgid "Don't... move..."
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:5
+msgid "Hold still, don't squirm, in fact don't even breathe..."
+msgstr ""
+
+#. Id: 50786-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#: 50786-Dialogue.mod:6
+msgid "This looks serious..."
+msgstr ""
+
+#. Id: 50787-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pia healing other
+#: 50787-Dialogue.mod:0
+msgid "... Why are you stroking me?"
+msgstr ""
+
+#. Id: 51120-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51120-Dialogue.mod:0
+msgid "I... I'm a nervous stroker..."
+msgstr ""
+
+#. Id: 51121-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51120-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pia healing other
+#. Id: 55259-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55258-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: using my equipment skeleton
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 51121-Dialogue.mod:0 55259-Dialogue.mod:0
+msgid "Stop it."
+msgstr ""
+
+#. Id: 51122-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51121-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51122-Dialogue.mod:0
+msgid "Yes /SIR/."
+msgstr ""
+
+#. Id: 50788-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50786-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pia healing other
+#. -- Condition: Target Race(s): Skeleton
+#: 50788-Dialogue.mod:0
+msgid "*Buzzzz*"
+msgstr ""
+
+#. Id: 50789-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 50789-Dialogue.mod:0
+msgid "Oop! No fear, I can fix that, I can fix that!"
+msgstr ""
+
+#. Id: 50789-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 50789-Dialogue.mod:1
+msgid "Ahhh I have no idea what I'm doing!"
+msgstr ""
+
+#. Id: 50789-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (50788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 50789-Dialogue.mod:2
+msgid "Aah, that wasn't supposed to happen!"
+msgstr ""
+
+#. Id: 51146-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Shek
+#: 51146-Dialogue.mod:0
+msgid "That's a lot of blood..."
+msgstr ""
+
+#. Id: 51146-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Shek
+#: 51146-Dialogue.mod:1
+msgid "Don't die on me..."
+msgstr ""
+
+#. Id: 51146-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Shek
+#: 51146-Dialogue.mod:2
+msgid "Wake up... please wake up..."
+msgstr ""
+
+#. Id: 51146-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Shek
+#: 51146-Dialogue.mod:3
+msgid "Are you okay? Please be okay..."
+msgstr ""
+
+#. Id: 51146-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Shek
+#: 51146-Dialogue.mod:4
+msgid "Live..."
+msgstr ""
+
+#. Id: 51147-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 51147-Dialogue.mod:0
+msgid "I got this, relax."
+msgstr ""
+
+#. Id: 51147-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 51147-Dialogue.mod:1
+msgid "Relax! I'm here to save the day..."
+msgstr ""
+
+#. Id: 51147-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ENEMY=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince
+#: 51147-Dialogue.mod:2
+msgid "Okay, let me at it. What's the problem here..."
+msgstr ""
+
+#. Id: 51151-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51151-Dialogue.mod:0
+msgid "Wait.. what is that?"
+msgstr ""
+
+#. Id: 51151-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51151-Dialogue.mod:1
+msgid "Oh... this is a bit gooey..."
+msgstr ""
+
+#. Id: 51151-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51147-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51151-Dialogue.mod:2
+msgid "Oh... that looks wierd..."
+msgstr ""
+
+#. Id: 51152-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51152-Dialogue.mod:0
+msgid "Eh... Is that supposed to look like that?"
+msgstr ""
+
+#. Id: 51152-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (51151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51152-Dialogue.mod:1
+msgid "I have no idea what I'm doing..."
+msgstr ""
+
+#. Id: 51152-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (51151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Pia healing other
+#: 51152-Dialogue.mod:2
+msgid "Don't... don't you guys have blood?"
+msgstr ""
+

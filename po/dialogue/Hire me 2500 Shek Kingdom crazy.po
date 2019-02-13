@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19422-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19422-Dialogue.mod:0
+msgid "Looking for protection, fragile /FLATSKIN/?"
+msgstr ""
+
+#. Id: 19428-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19428-Dialogue.mod:0
+msgid "Who you callin' 'fragile'?"
+msgstr ""
+
+#. Id: 19429-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19428-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19429-Dialogue.mod:0
+msgid "The fragile /FLATSKIN/ wishes to prove me wrong. Interesting."
+msgstr ""
+
+#. Id: 19452-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19429-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19452-Dialogue.mod:0
+msgid "So... have you got any skills?"
+msgstr ""
+
+#. Id: 19453-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19429-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19453-Dialogue.mod:0
+msgid "How much are you charging anyway?"
+msgstr ""
+
+#. Id: 19454-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19429-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19454-Dialogue.mod:0
+msgid "I don't like your attitude, Shek"
+msgstr ""
+
+#. Id: 19457-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19457-Dialogue.mod:0
+msgid "Is that so? I like yours, /FLATSKIN/, you have honour and spine. Something I seldom see in outsiders. Hire me. My fee is 6000 Cats."
+msgstr ""
+
+#. Id: 19458-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19458-Dialogue.mod:0
+msgid "Did you just order me to hire you?"
+msgstr ""
+
+#. Id: 19462-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19462-Dialogue.mod:0
+msgid "I suggested that you hire me."
+msgstr ""
+
+#. Id: 19474-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19462-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. Id: 19434-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19433-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19474-Dialogue.mod:0 19434-Dialogue.mod:0
+msgid "Lose the attitude and maybe we can work something out..."
+msgstr ""
+
+#. Id: 19475-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19474-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19475-Dialogue.mod:0
+msgid "I change for no-one. You either hire me, or you walk away. And in the latter case you'll presumably die a fool..."
+msgstr ""
+
+#. Id: 19459-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19459-Dialogue.mod:0
+msgid "Well, do you have any skills first?"
+msgstr ""
+
+#. Id: 19461-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19457-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19461-Dialogue.mod:0
+msgid "Definitely not. Goodbye."
+msgstr ""
+
+#. Id: 19456-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19429-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19456-Dialogue.mod:0
+msgid "I don't need this, I'm out of here."
+msgstr ""
+
+#. Id: 19432-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. Id: 19627-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19617-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#: 19432-Dialogue.mod:0 19627-Dialogue.mod:0
+msgid "Maybe. Got any skills?"
+msgstr ""
+
+#. Id: 19433-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19432-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19433-Dialogue.mod:0
+msgid "I'm a Shek warrior, /FLATSKIN/. Do you really need to ask?"
+msgstr ""
+
+#. Id: 19473-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19434-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19473-Dialogue.mod:0
+msgid "I change for no-one. You either hire me, or you walk away. And in the latter case you'll die a fool..."
+msgstr ""
+
+#. Id: 19481-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19473-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19481-Dialogue.mod:0
+msgid "Sorry, this isn't going to work"
+msgstr ""
+
+#. Id: 19435-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19433-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19435-Dialogue.mod:0
+msgid "That still doesn't tell me exactly HOW skilled you are..."
+msgstr ""
+
+#. Id: 19436-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19436-Dialogue.mod:0
+msgid "I could crack your skull with ease, /FLATSKIN/. Does that answer your question?"
+msgstr ""
+
+#. Id: 19437-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19437-Dialogue.mod:0
+msgid "... That should do it. "
+msgstr ""
+
+#. Id: 19439-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19439-Dialogue.mod:0
+msgid "My fee is 6000 Cats. I will enjoy the challenge of keeping a fragile /FLATSKIN/ alive. I hear your people get killed very easily."
+msgstr ""
+
+#. Id: 19440-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19440-Dialogue.mod:0
+msgid "... Okay. I guess you're hired"
+msgstr ""
+
+#. Id: 19441-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19441-Dialogue.mod:0
+msgid "Now you are my /FLATSKIN/. Nobody will touch you."
+msgstr ""
+
+#. Id: 19442-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19441-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19442-Dialogue.mod:0
+msgid "If they do, I will tear out their spines."
+msgstr ""
+
+#. Id: 19478-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 19478-Dialogue.mod:0
+msgid "Now, I fight by your side, /FLATSKIN/. Nobody will touch you."
+msgstr ""
+
+#. Id: 19479-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 19479-Dialogue.mod:0
+msgid "Now, you are my /BROTHER/. Nobody will touch you."
+msgstr ""
+
+#. Id: 19443-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19443-Dialogue.mod:0
+msgid "And this is supposed to make me feel better...?"
+msgstr ""
+
+#. Id: 19447-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19447-Dialogue.mod:0
+msgid "Do you want to be protected, or do you merely want your ego stroked? Because a Shek does not do the latter."
+msgstr ""
+
+#. Id: 19469-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19447-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19469-Dialogue.mod:0
+msgid "You're right, welcome to the squad"
+msgstr ""
+
+#. Id: 19470-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19447-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19470-Dialogue.mod:0
+msgid "Forget it, I'd much rather have my ego stroked"
+msgstr ""
+
+#. Id: 19471-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19447-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. Id: 18768-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18681-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 19471-Dialogue.mod:0 18768-Dialogue.mod:0
+msgid "Nevermind, I'm not interested after all"
+msgstr ""
+
+#. Id: 19444-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19444-Dialogue.mod:0
+msgid "That's the spirit. Let's go"
+msgstr ""
+
+#. Id: 19445-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19445-Dialogue.mod:0
+msgid "Now you're just creeping me out, forget it. "
+msgstr ""
+
+#. Id: 19446-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19446-Dialogue.mod:0
+msgid "Not sure if that's supposed to be a threat...?"
+msgstr ""
+
+#. Id: 19448-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19448-Dialogue.mod:0
+msgid "It is not."
+msgstr ""
+
+#. Id: 19468-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19448-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19468-Dialogue.mod:0
+msgid "Well, I'm not interested anyway"
+msgstr ""
+
+#. Id: 19476-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 19476-Dialogue.mod:0
+msgid "My fee is 6000 Cats. Fighting alongside a /FLATSKIN/ will be a... new experience. "
+msgstr ""
+
+#. Id: 19483-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19476-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19483-Dialogue.mod:0
+msgid "Likewise. Then let's do this!"
+msgstr ""
+
+#. Id: 19477-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 19477-Dialogue.mod:0
+msgid "My fee is 6000 Cats. Protecting a /FLATSKIN/ will be a... peculiar experience. "
+msgstr ""
+
+#. Id: 19490-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19477-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 19490-Dialogue.mod:0
+msgid "You're hired. But you'd better remember who's boss."
+msgstr ""
+
+#. Id: 19492-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (19490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19492-Dialogue.mod:0
+msgid "I will be your warrior, but you are no boss of me"
+msgstr ""
+
+#. Id: 19493-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (19492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19493-Dialogue.mod:0
+msgid "Remember that, /FLATSKIN/"
+msgstr ""
+
+#. Id: 19438-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19438-Dialogue.mod:0
+msgid "Not really. How much are you charging anyway?"
+msgstr ""
+
+#. Id: 19472-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19436-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19472-Dialogue.mod:0
+msgid "Just forget it. I'm not interested in this."
+msgstr ""
+
+#. Id: 19480-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 19480-Dialogue.mod:0
+msgid "Skilled enough to fight as one of the 100 Guardians... Does that answer your question?"
+msgstr ""
+
+#. Id: 19497-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (19480-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#: 19497-Dialogue.mod:0
+msgid "... Sure, I guess so."
+msgstr ""
+
+#. Id: 19423-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 19426-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 19423-Dialogue.mod:0 19426-Dialogue.mod:0
+msgid "Looking for protection, /FLATSKIN/?"
+msgstr ""
+

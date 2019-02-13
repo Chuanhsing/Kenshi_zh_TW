@@ -1,0 +1,518 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48984-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 48984-Dialogue.mod:0
+msgid "Impressive skills, /BROTHER/. You succeeded where I failed, you defeated my captor... Honor to you. "
+msgstr ""
+
+#. Id: 48984-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 48984-Dialogue.mod:1
+msgid "Glory to you, hero. You defeated my captor, you put an end to my humiliation when I could not..."
+msgstr ""
+
+#. Id: 48984-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 48984-Dialogue.mod:2
+msgid "Honor to you, /BROTHER/, you are a true warrior! You defeated my captor when I could not, you freed me from my indignity..."
+msgstr ""
+
+#. Id: 49015-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49015-Dialogue.mod:0
+msgid "No problem. Are you okay?"
+msgstr ""
+
+#. Id: 49015-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49015-Dialogue.mod:1
+msgid "It was my pleasure. Are you alright?"
+msgstr ""
+
+#. Id: 49016-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49016-Dialogue.mod:0
+msgid "Mmh. Always... You have my gratitude and my respects. I'll proudly fight for you, as your warrior, if you will take me..."
+msgstr ""
+
+#. Id: 49016-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49016-Dialogue.mod:1
+msgid "A bruised ego is all... You have my gratitude and my respects. If you will take me, I will proudly fight for your honor."
+msgstr ""
+
+#. Id: 49016-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (49015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49016-Dialogue.mod:2
+msgid "Hurt pride, but I will recover. You have my gratitude and my respects. I'll proudly fight for you, as your warrior, if you will take me..."
+msgstr ""
+
+#. Id: 48992-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48992-Dialogue.mod:0
+msgid "The honor would be mine."
+msgstr ""
+
+#. Id: 48992-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48992-Dialogue.mod:1
+msgid "I'd be honoured to have you on my side."
+msgstr ""
+
+#. Id: 49009-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49009-Dialogue.mod:0
+msgid "Sure, you can follow /MEUS/ if you want."
+msgstr ""
+
+#. Id: 49009-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49009-Dialogue.mod:1
+msgid "Sure, I'll take you. Follow /MEUS/."
+msgstr ""
+
+#. Id: 49010-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49010-Dialogue.mod:0
+msgid "Forget it, I don't need company."
+msgstr ""
+
+#. Id: 49010-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49010-Dialogue.mod:1
+msgid "Nah, not interested."
+msgstr ""
+
+#. Id: 49011-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49011-Dialogue.mod:0
+msgid "I appreciate the offer, but no thanks."
+msgstr ""
+
+#. Id: 49011-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49011-Dialogue.mod:1
+msgid "Thank you for the offer, but no."
+msgstr ""
+
+#. Id: 49012-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49011-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49012-Dialogue.mod:0
+msgid "Mmh... Gratitude to you anyway, /BROTHER/."
+msgstr ""
+
+#. Id: 49017-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49017-Dialogue.mod:0
+msgid "No big deal, I enjoyed the practise."
+msgstr ""
+
+#. Id: 49017-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49017-Dialogue.mod:1
+msgid "It was nothing. I had fun crushing them."
+msgstr ""
+
+#. Id: 49018-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49018-Dialogue.mod:0
+msgid "Hrm! A strong spirit too. You have my gratitude and my respects. I'll proudly fight for you, as your warrior, if you will take me..."
+msgstr ""
+
+#. Id: 49018-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49018-Dialogue.mod:1
+msgid "Mmh! And a strong spirit too... You have my gratitude and my respects. If you will take me, I will proudly fight for your honor."
+msgstr ""
+
+#. Id: 49019-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49019-Dialogue.mod:0
+msgid "Damn right! Bow before your new master."
+msgstr ""
+
+#. Id: 49020-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 49020-Dialogue.mod:0
+msgid "I'd slit my own throat before I serve another captor again."
+msgstr ""
+
+#. Id: 49025-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49025-Dialogue.mod:0
+msgid "Either kill me or leave me."
+msgstr ""
+
+#. Id: 49022-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49022-Dialogue.mod:0
+msgid "Hmph, arrogance! I'll die before I serve another captor again!"
+msgstr ""
+
+#. Id: 49023-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49023-Dialogue.mod:0
+msgid "You want me? Then raise your sword."
+msgstr ""
+
+#. Id: 49026-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48984-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#. Id: 51516-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51514-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 2
+#: 49026-Dialogue.mod:0 51516-Dialogue.mod:0
+msgid "Whatever..."
+msgstr ""
+
+#. Id: 48985-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 48985-Dialogue.mod:0
+msgid "The humiliation! A Shek Warrior shackled like a worthless animal! I'll skin them alive for doing this to me!... Honor to you, /FLATSKIN/, for giving me this second chance..."
+msgstr ""
+
+#. Id: 48985-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 48985-Dialogue.mod:1
+msgid "Glory to you, /FLATSKIN/ for freeing me from this humiliation! I'll gather my brethren and rip their heads from their necks for shackling a Shek Warrior!"
+msgstr ""
+
+#. Id: 48985-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 48985-Dialogue.mod:2
+msgid "Glory to you, /FLATSKIN/ for freeing me from this humiliation! I'll gather my brethren and tear them inside out for shackling a Shek Warrior!"
+msgstr ""
+
+#. Id: 48985-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 48985-Dialogue.mod:3
+msgid "The humiliation! A Shek Warrior shackled like a worthless animal! I'll break their bones for doing this to me!... Honor to you, /FLATSKIN/, for giving me this second chance..."
+msgstr ""
+
+#. Id: 48986-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48986-Dialogue.mod:0
+msgid "Right, because you did so well defeating them before..."
+msgstr ""
+
+#. Id: 48986-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48986-Dialogue.mod:1
+msgid "Big talk for a slave..."
+msgstr ""
+
+#. Id: 48987-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 48987-Dialogue.mod:0
+msgid "A Shek Warrior never gives up. I will have my vengeance. To let such an enemy remain as my defeater, it is a fate worse than death."
+msgstr ""
+
+#. Id: 49008-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48987-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49008-Dialogue.mod:0
+msgid "Uhuh. Well, good luck with that."
+msgstr ""
+
+#. Id: 48988-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48988-Dialogue.mod:0
+msgid "Cutting down slavers is what I do. Why not join me?"
+msgstr ""
+
+#. Id: 48988-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48988-Dialogue.mod:1
+msgid "Fighting oppressors is kind of my thing. Why not join me?"
+msgstr ""
+
+#. Id: 48988-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48988-Dialogue.mod:2
+msgid "I live to crush slavers. Why not join me?"
+msgstr ""
+
+#. Id: 49001-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49001-Dialogue.mod:0
+msgid "Hrm. Is that right?... You fight well. I'd be honored to break necks with you, /BROTHER/."
+msgstr ""
+
+#. Id: 49001-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (48988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49001-Dialogue.mod:1
+msgid "Hrm. Is that so?... You fight like a true warrior. I'd be honored to break skulls with you, /BROTHER/."
+msgstr ""
+
+#. Id: 49001-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (48988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49001-Dialogue.mod:2
+msgid "Hrm. Is that right?... You fight well. I'd be honored to break bones with you, /BROTHER/."
+msgstr ""
+
+#. Id: 49001-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (48988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49001-Dialogue.mod:3
+msgid "Hrm. Is that so?... You fight like a true warrior. I'd be honored to slice necks with you, /BROTHER/."
+msgstr ""
+
+#. Id: 49002-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49001-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49002-Dialogue.mod:0
+msgid "Then let's break some necks."
+msgstr ""
+
+#. Id: 49003-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49001-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49003-Dialogue.mod:0
+msgid "Welcome to the team."
+msgstr ""
+
+#. Id: 49004-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49001-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 49004-Dialogue.mod:0
+msgid "Actually, I've changed my mind."
+msgstr ""
+
+#. Id: 48989-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48989-Dialogue.mod:0
+msgid "No problem at all, you're welcome."
+msgstr ""
+
+#. Id: 48989-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48989-Dialogue.mod:1
+msgid "It's no big deal. Take care of yourself."
+msgstr ""
+
+#. Id: 48989-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48989-Dialogue.mod:2
+msgid "It was my pleasure to help."
+msgstr ""
+
+#. Id: 48999-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 48999-Dialogue.mod:0
+msgid "See you on the other side, /BROTHER/."
+msgstr ""
+
+#. Id: 48991-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48991-Dialogue.mod:0
+msgid "You just happened to belong to my enemy, nothing more."
+msgstr ""
+
+#. Id: 48991-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48985-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Talk to shek slave esc opp
+#: 48991-Dialogue.mod:1
+msgid "I defeated an enemy. You're freedom is no more than a byproduct."
+msgstr ""
+
+#. Id: 49000-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#: 49000-Dialogue.mod:0
+msgid "Hmph. "
+msgstr ""
+
+#. Id: 48996-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 48996-Dialogue.mod:0
+msgid "The humiliation! A Shek Warrior shackled like a worthless animal! I'll skin them alive for doing this to me!... Honor to you, /BROTHER/, for giving me this second chance..."
+msgstr ""
+
+#. Id: 48996-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to shek slave esc opp
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 48996-Dialogue.mod:1
+msgid "Glory to you, /BROTHER/ for freeing me from this humiliation! I'll gather my brethren and rip their heads from their necks for shackling a Shek Warrior!"
+msgstr ""
+

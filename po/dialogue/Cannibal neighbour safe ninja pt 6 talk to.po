@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5789-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5789-Escapes.mod:0
+msgid "Coast looks clear, we made it. Good job"
+msgstr ""
+
+#. Id: 5794-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5790-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5794-Escapes.mod:0
+msgid "Mm... Well, nice knowing you."
+msgstr ""
+
+#. Id: 5795-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5794-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5795-Escapes.mod:0
+msgid "Wait, ninja! Don't go..."
+msgstr ""
+
+#. Id: 5796-Escapes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5795-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 5796-Escapes.mod:0
+msgid "Hm? What is it?"
+msgstr ""
+
+#. Id: 5797-Escapes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5796-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5797-Escapes.mod:0
+msgid "We're a team, let's stick together"
+msgstr ""
+
+#. Id: 5802-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5801-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5802-Escapes.mod:0
+msgid "... You've grown on me"
+msgstr ""
+
+#. Id: 5803-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5801-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5803-Escapes.mod:0
+msgid "We'll get vengeance on them someday. Together."
+msgstr ""
+
+#. Id: 5808-Escapes.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (5803-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5808-Escapes.mod:0
+msgid "... I'll join you"
+msgstr ""
+
+#. Id: 5804-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5801-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5804-Escapes.mod:0
+msgid "I could use your skills. How about it?"
+msgstr ""
+
+#. Id: 5805-Escapes.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (5804-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5805-Escapes.mod:0
+msgid "And what will you have me do with my 'skills'?"
+msgstr ""
+
+#. Id: 5806-Escapes.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5805-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5806-Escapes.mod:0
+msgid "Join my army, we'll take over the world!"
+msgstr ""
+
+#. Id: 5807-Escapes.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (5806-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5807-Escapes.mod:0
+msgid "I fight for retribution, for justice..."
+msgstr ""
+
+#. Id: 5819-Escapes.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (5807-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5819-Escapes.mod:0
+msgid "So, no. But good luck."
+msgstr ""
+
+#. Id: 5810-Escapes.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5805-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5810-Escapes.mod:0
+msgid "We'll fight together, for good. For freedom"
+msgstr ""
+
+#. Id: 5811-Escapes.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5805-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5811-Escapes.mod:0
+msgid "We'll hunt those damn cannibals down"
+msgstr ""
+
+#. Id: 5820-Escapes.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (5805-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5820-Escapes.mod:0
+msgid "Protect me, fight for me"
+msgstr ""
+
+#. Id: 5821-Escapes.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (5820-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5821-Escapes.mod:0
+msgid "You can just hire a merc for that"
+msgstr ""
+
+#. Id: 5798-Escapes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5796-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5798-Escapes.mod:0
+msgid "... Where are you going?"
+msgstr ""
+
+#. Id: 5823-Escapes.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5798-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5823-Escapes.mod:0
+msgid "To get reinforcements. I said I'd get my revenge, and I will..."
+msgstr ""
+
+#. Id: 5824-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5823-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5824-Escapes.mod:0
+msgid "No need for reinforcements. Join with me instead"
+msgstr ""
+
+#. Id: 5825-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5823-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5825-Escapes.mod:0
+msgid "Kill them slowly. For me"
+msgstr ""
+
+#. Id: 5826-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5823-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5826-Escapes.mod:0
+msgid "Good luck with that"
+msgstr ""
+
+#. Id: 5827-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5823-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5827-Escapes.mod:0
+msgid "Let it go. It's just their nature, that's all"
+msgstr ""
+
+#. Id: 5829-Escapes.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (5827-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5829-Escapes.mod:0
+msgid "Innocent people are dying, I don't care if it's their nature."
+msgstr ""
+
+#. Id: 5829-Escapes.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (5827-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5829-Escapes.mod:1
+msgid "Their 'nature' nearly got me killed."
+msgstr ""
+
+#. Id: 5799-Escapes.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5796-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#. Id: 62647-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62646-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Drifter walks into player base
+#: 5799-Escapes.mod:0 62647-Dialogue.mod:0
+msgid "Can we talk?"
+msgstr ""
+
+#. Id: 5822-Escapes.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5799-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5822-Escapes.mod:0
+msgid "I'm not one for chit-chat"
+msgstr ""
+
+#. Id: 5831-Escapes.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (5822-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5831-Escapes.mod:0
+msgid "Well, thanks for your help anyway"
+msgstr ""
+
+#. Id: 59324-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5795-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 59324-Dialogue.mod:0
+msgid "Sorry, comrade. Places to be..."
+msgstr ""
+
+#. Id: 5813-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5794-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5813-Escapes.mod:0
+msgid "Thanks for your help, ninja"
+msgstr ""
+
+#. Id: 5791-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5789-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5791-Escapes.mod:0
+msgid "Shit! How can you be so calm?"
+msgstr ""
+
+#. Id: 5812-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5791-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5812-Escapes.mod:0
+msgid "Panicking never helped anyone... Well, nice knowing you anyway, but I've got to run."
+msgstr ""
+
+#. Id: 5792-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5789-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5792-Escapes.mod:0
+msgid "It was easy"
+msgstr ""
+
+#. Id: 5793-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5789-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe ninja pt 6 talk to
+#: 5793-Escapes.mod:0
+msgid "I couldn't have done it without you"
+msgstr ""
+

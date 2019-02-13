@@ -1,0 +1,623 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43330-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 43330-rebirth.mod:0
+msgid "/RACENAME/! Welcome /RACENAME/!"
+msgstr ""
+
+#. Id: 43330-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. Id: 96224-__Southern hive.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 43330-rebirth.mod:1 96224-__Southern?hive.mod:1
+msgid "/RACENAME/!"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:0
+msgid "Come /RACENAME/, come and trade."
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:1
+msgid "We must trade now /RACENAME/"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:2
+msgid "Let us trade now"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:3
+msgid "You can buy many things here, /RACENAME/"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:4
+msgid "Let us trade in the tradition of humans"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:5
+msgid "Good prices to benefit the Hive and the /RACENAME/s"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:6
+msgid "Let's do trading"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:7
+msgid "So much trade I have for you"
+msgstr ""
+
+#. Id: 43336-rebirth.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (43330-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43336-rebirth.mod:8
+msgid "You will love my goods, nothing is stolen."
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:0
+msgid "I am the best trader for /RACENAME/s."
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:1
+msgid "I buy things from you too!"
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:2
+msgid "All original goods of the Hive!"
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:3
+msgid "Authentic items! Nothing stolen!"
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:4
+msgid "/RACENAME/."
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:5
+msgid "/RACENAME/s come to me from all over the land"
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:6
+msgid "Don't believe the liars who call us thieves! They are the thieves!"
+msgstr ""
+
+#. Id: 43337-rebirth.mod
+#. -- Index: 2.7
+#. -- Parent line: 1 (43336-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#: 43337-rebirth.mod:7
+msgid "All goods produced here in the Hive!"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:0
+msgid "Where are you going?"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:1
+msgid "Come back to the shop, /RACENAME/!"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:2
+msgid "/RACENAME/! Wait!"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:3
+msgid "Don't go yet /RACENAME/!"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:4
+msgid "/RACENAME/! Nooooo!"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:5
+msgid "/RACENAME/ come back to the shop"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:6
+msgid "Wait! Come back and buy...."
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:7
+msgid "Why do you leave?"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.8
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:8
+msgid "Don't leave the shop, /RACENAME/..."
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:9
+msgid "Stop leaving...."
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.10
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:10
+msgid "Come back to my shop, /RACENAME/"
+msgstr ""
+
+#. Id: 43343-rebirth.mod
+#. -- Index: 3.11
+#. -- Parent line: 2 (43337-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43343-rebirth.mod:11
+msgid "Return to the shop!"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:0
+msgid "Why do you flee?!"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:1
+msgid "Why do you flee my shop!?"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:2
+msgid "Do not flee from the shop!!"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:3
+msgid "Why do /RACENAME/s always flee my shop?"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:4
+msgid "No fleeing the shop!"
+msgstr ""
+
+#. Id: 43368-rebirth.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (43343-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 43368-rebirth.mod:5
+msgid "Fleeing is against shop rules!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:0
+msgid "I will catch you, /RACENAME/! "
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:1
+msgid "You cannot flee the shop! I am too fast!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:2
+msgid "I will catch you, /RACENAME/, and you shall buy something from the Hive!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:3
+msgid "The shop is for the benefit of the Hive! Don't flee!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:4
+msgid "I am fast at running to help you trade with the Hive!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:5
+msgid "Do not flee! Trade with the Hive!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:6
+msgid "Trade!"
+msgstr ""
+
+#. Id: 43376-rebirth.mod
+#. -- Index: 5.7
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 43376-rebirth.mod:7
+msgid "Traaaadddeeee!!!"
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:0
+msgid "I am so happy you returned, /RACENAME/. "
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:1
+msgid "I am glad you came back /RACENAME/."
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:2
+msgid "You are wise to return to my shop.  It is for the Hive."
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:3
+msgid "Phew! Lucky you returned to the shop or you would miss great trading."
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:4
+msgid "Well done to return, /RACENAME/. Now we can trade."
+msgstr ""
+
+#. Id: 43380-rebirth.mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (43376-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 43380-rebirth.mod:5
+msgid "*pant* *pant* You drive a hard bargain, /RACENAME/!"
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:0
+msgid "You win this round, /RACENAME/, but you shall return!"
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:1
+msgid "You win this round, /RACENAME/!"
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:2
+msgid "Well played, /RACENAME/."
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:3
+msgid "Well played, /RACENAME/. Well played indeed."
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:4
+msgid "There goes a fine trader. Very fast."
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:5
+msgid "Such a hard bargainer."
+msgstr ""
+
+#. Id: 43382-rebirth.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (43368-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 43382-rebirth.mod:6
+msgid "Well done /RACENAME/.  I see you are experienced in trade."
+msgstr ""
+
+#. Id: 43346-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. -- Condition: Target Race(s): Hive Prince
+#: 43346-rebirth.mod:0
+msgid "....Hive!"
+msgstr ""
+
+#. Id: 43347-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43346-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hive shopkeep sees
+#. Id: 96258-__Southern hive.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96257-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 43347-rebirth.mod:0 96258-__Southern?hive.mod:0
+msgid "LOST ONE! HIVELESS! GET OUT!"
+msgstr ""
+

@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56998-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56998-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 98803-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bandits take over town
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 1532696-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1532695-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#. Id: 96437-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96432-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Lost my leg
+#. Id: 95913-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (95912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC rogue extortion i see neutral talk to
+#. Id: 5276-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5269-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: shout at slave worker
+#. Id: 5459-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5435-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: event slave escaped
+#. Id: 10937-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10936-Dialogue (10).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bullying events - make civs separate faction
+#. Id: 63417-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63416-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault break
+#. Id: 15989-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Defeats squad civilian
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 44299-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (44298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug extorts bounty
+#. Id: 63903-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (63902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Red sabre announce
+#. Id: 62326-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (62325-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bar patrons random faction comment on world state
+#. Id: 7436-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (7435-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 7445-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7442-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 42300-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (42299-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: patriot harrassment
+#. Id: 42317-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. Id: 42319-rebirth.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42317-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. Id: 3904-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (3903-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. Id: 3908-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (3905-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking repeat target
+#. Id: 63443-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63441-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#. Id: 64889-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64890-rebirth.mod)
+#. -- Speaker: Whole squad (5)
+#. -- Group title: racists win fight
+#. Id: 1533707-rebirth.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (1533706-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome- beep random 1
+#. Id: 1533724-rebirth.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (1533714-rebirth.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome- beep random 1
+#. Id: 61229-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61222-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#. Id: 12531-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats someone
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 14820-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper witness crime
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 42116-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (42114-rebirth.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome cower
+#. Id: 64135-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61900-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: stone rat base extortion negotiate
+#. Id: 14071-Dialogue (12).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 13437-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13428-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up fight bandit
+#: 56994-Dialogue.mod:0 56994-Dialogue.mod:3 56994-Dialogue.mod:4 57050-Dialogue.mod:3 57093-Dialogue.mod:2 56998-Dialogue.mod:0 56998-Dialogue.mod:3 57092-Dialogue.mod:0 57092-Dialogue.mod:3 98803-Dialogue.mod:2 1532696-rebirth.mod:0 96437-Dialogue.mod:0 95913-Dialogue.mod:0 5276-gamedata.base:0 5459-gamedata.base:0 10937-Dialogue?(10).mod:0 63417-Dialogue.mod:0 15989-Dialogue.mod:0 44299-Dialogue.mod:0 63903-Dialogue.mod:0 62326-Dialogue.mod:0 7436-Dialogue.mod:0 7445-Dialogue.mod:0 42300-gamedata.base:1 42317-rebirth.mod:0 42319-rebirth.mod:1 3904-gamedata.base:0 3908-gamedata.base:0 63443-Dialogue.mod:0 64889-rebirth.mod:0 1533707-rebirth.mod:0 1533724-rebirth.mod:0 61229-Dialogue.mod:0 12531-Dialogue?(10)?(2).mod:0 14820-Dialogue.mod:2 42116-rebirth.mod:0 64135-Dialogue.mod:0 14071-Dialogue?(12).mod:0 13437-Escapes.mod:2
+msgid "/LAUGH/!"
+msgstr ""
+
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56994-Dialogue.mod:1
+msgid "BWAHAHAHAHA!"
+msgstr ""
+
+#. Id: 56994-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 55828-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Slave hunter slaver town bar
+#: 56994-Dialogue.mod:2 57093-Dialogue.mod:4 55828-Dialogue.mod:0
+msgid "*Snort*"
+msgstr ""
+
+#. Id: 56996-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56996-Dialogue.mod:0
+msgid "Take it.. *wheeze*... take the royal seal to Clunknad Spanner!"
+msgstr ""
+
+#. Id: 56996-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56996-Dialogue.mod:2
+msgid "Don't lose the royal seal! *snort*"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:0
+msgid "Where are you going hero? Save us!"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:1
+msgid "Don't go hero! Don't gooooo!"
+msgstr ""
+
+#. Id: 57050-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 57050-Dialogue.mod:2
+msgid "That's it! Run along, kill the big bad grievewrath!"
+msgstr ""
+
+#. Id: 57052-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56996-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57052-Dialogue.mod:0
+msgid "... Now, quiet! Enough of this 'fun'. Back to work!"
+msgstr ""
+
+#. Id: 57055-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57054-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Tengu's guards laugh at player
+#: 57055-Dialogue.mod:0
+msgid "Hnngh!... Sir, yes sir!"
+msgstr ""
+
+#. Id: 58878-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57056-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 60194-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (60192-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ sees player carry enemy
+#: 58878-Dialogue.mod:0 60194-Dialogue.mod:3
+msgid "*Gulp*"
+msgstr ""
+
+#. Id: 58876-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58877-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Tengu's guards laugh at player
+#: 58876-Dialogue.mod:0
+msgid "... Perhaps I can help instead, outlander?"
+msgstr ""
+
+#. Id: 58880-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (58876-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Tengu's guards laugh at player
+#: 58880-Dialogue.mod:0
+msgid "Speak with me."
+msgstr ""
+
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57093-Dialogue.mod:0
+msgid "/HE/ actually fell for it, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56998-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 57093-Dialogue.mod:1 56998-Dialogue.mod:1 56725-Dialogue.mod:1
+msgid "*Heave*"
+msgstr ""
+
+#. Id: 57093-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (56994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#. Id: 56725-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc poison gas
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#. Id: 53789-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (53788-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper gang member one liners
+#. Id: 53938-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53932-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire good guard
+#: 57093-Dialogue.mod:3 56725-Dialogue.mod:4 53789-Dialogue.mod:3 53938-Dialogue.mod:1
+msgid "*Wheeze*"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:0
+msgid "Save us, hero!"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:1
+msgid "We'll give you gold, hero!"
+msgstr ""
+
+#. Id: 56995-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56995-Dialogue.mod:3
+msgid "Lend us your aid, outlander!"
+msgstr ""
+
+#. Id: 56998-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 56998-Dialogue.mod:2
+msgid "*Slap*"
+msgstr ""
+
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57092-Dialogue.mod:1
+msgid "We BELIEVE in you, hero!"
+msgstr ""
+
+#. Id: 57092-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu's guards laugh at player
+#: 57092-Dialogue.mod:2
+msgid "Slay the grievewrath, hero!"
+msgstr ""
+

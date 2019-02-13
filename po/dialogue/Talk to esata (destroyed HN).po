@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1533466-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533466-Dialogue.mod:0
+msgid "The weak Okranites are lost without their precious Phoenix. Amusing... Such panic and squabbling amongst themselves has ended up destroying their own capital before we could take it. Good. I do not care for slaughtering feeble flatskin civilians. We have our own prizes to keep, the grass plains are ours and the Holy Nation is finally dead."
+msgstr ""
+
+#. Id: 1533473-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533473-Dialogue.mod:0
+msgid "You never fail to live up to your reputation, Battle Born. You and I have earned our place on the other side and we've restored Kral's glory once again. All shall fear the name of the Shek..."
+msgstr ""
+
+#. Id: 1533471-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533471-Dialogue.mod:0
+msgid "You are a rival for Kral himself, Invincible /YOURNAME/!"
+msgstr ""
+
+#. Id: 1533467-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533467-Dialogue.mod:0
+msgid "Valtena is defeated and the Holy Nation is in a panic. Loathsome. So gutless are the flatskins..."
+msgstr ""
+
+#. Id: 1533474-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533474-Dialogue.mod:0
+msgid "But the Phoenix still holds his forces. He must die."
+msgstr ""
+
+#. Id: 1533475-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 1533475-Dialogue.mod:0
+msgid "... Hm... Forgiveness, kin. Not you..."
+msgstr ""
+
+#. Id: 1533480-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533480-Dialogue.mod:0
+msgid "But Seta's defences still block our armies. He must die."
+msgstr ""
+
+#. Id: 1533468-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1533468-Dialogue.mod:0
+msgid "Hm hm hm! The Okranite cattle are so weak and cowardly when they have no leader to herd them. Taking Stack and Bad Teeth was easy with Seta of Stack defeated. My warriors continue their war with the surviving Okranite dogs of the south..."
+msgstr ""
+
+#. Id: 1534150-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1534150-__Fixes.mod:0
+msgid "With the Phoenix defeated, all that is left is to finish his quivering generals."
+msgstr ""
+
+#. Id: 1534151-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534150-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Talk to esata (destroyed HN)
+#: 1534151-__Fixes.mod:0
+msgid "We must hit Seta of Stack and take the town as ours. My warriors will want to fight by your side. Ask them. Do not deprive them of the battle they deserve, do you hear me?"
+msgstr ""
+

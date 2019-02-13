@@ -1,0 +1,169 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51680-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51680-Dialogue.mod:0
+msgid "/GETEM/ and strip /HIM/."
+msgstr ""
+
+#. Id: 51680-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51680-Dialogue.mod:1
+msgid "/GETEM/ and ransack /HIM/."
+msgstr ""
+
+#. Id: 51680-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51680-Dialogue.mod:2
+msgid "Time to restock on supplies. Strip /HIM/ bare."
+msgstr ""
+
+#. Id: 51681-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51681-Dialogue.mod:0
+msgid "End /HIM/ quickly. "
+msgstr ""
+
+#. Id: 51681-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51681-Dialogue.mod:1
+msgid "Take /HIM/ down, quick and clean."
+msgstr ""
+
+#. Id: 51681-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51681-Dialogue.mod:2
+msgid "Kill /HIM/, quickly and cleanly."
+msgstr ""
+
+#. Id: 51682-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51682-Dialogue.mod:0
+msgid "And take only what you need. No more junky trinkets clogging our chests!"
+msgstr ""
+
+#. Id: 51682-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51682-Dialogue.mod:1
+msgid "And take only what you need. No more junk clogging our chests!"
+msgstr ""
+
+#. Id: 51682-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51682-Dialogue.mod:2
+msgid "Any pockets, bags... check it all for valuables."
+msgstr ""
+
+#. Id: 51682-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (51681-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51682-Dialogue.mod:3
+msgid "Take all the valuables you can find on /HIM/."
+msgstr ""
+
+#. Id: 51683-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 51683-Dialogue.mod:0
+msgid "You're in swamp territory now, /BOY2/. Time to pay the toll in loot."
+msgstr ""
+
+#. Id: 51683-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 51683-Dialogue.mod:1
+msgid "The brainless prey delivers itself right to our doors..."
+msgstr ""
+
+#. Id: 51683-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 51683-Dialogue.mod:2
+msgid "A supply delivery right to our door!"
+msgstr ""
+
+#. Id: 51684-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51684-Dialogue.mod:0
+msgid "Strip /HIM/ bare."
+msgstr ""
+
+#. Id: 51684-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51684-Dialogue.mod:1
+msgid "Beat /HIM/ and loot /HIM/."
+msgstr ""
+
+#. Id: 51684-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (51683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51684-Dialogue.mod:2
+msgid "Bleed /HIM/ and strip /HIM/."
+msgstr ""
+
+#. Id: 51684-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (51683-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp ninja attack
+#: 51684-Dialogue.mod:3
+msgid "Take /HIM/ down and check the /CORPSE/ for valuables."
+msgstr ""
+

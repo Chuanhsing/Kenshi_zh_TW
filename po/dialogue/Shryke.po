@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56899-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56899-Dialogue.mod:0
+msgid "Stranded in this dead end town and for what? Some puffed up tech hunter rumour of AI cores and CPU units? Well, goodbye blue skies, goodbye sunlight, so long desert breeze. Now there's the sounds of the fog to listen to instead. Listen to that and there you've got yourself a few sleepless nights... And don't even get me started on food! How much longer are the reserves gonna last on this marooned island, eh? Ugh...."
+msgstr ""
+
+#. Id: 56900-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56899-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56900-Dialogue.mod:0
+msgid "Anyway, looks like you're one of us now, eh? Welcome to the party! If you don't wanna be a party pooper, don't talk about the fog.... or what's in it for that matter. The screeches and groans are enough of a reminder already..."
+msgstr ""
+
+#. Id: 56901-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56900-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56901-Dialogue.mod:0
+msgid "How long have you been here?"
+msgstr ""
+
+#. Id: 56905-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56901-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56905-Dialogue.mod:0
+msgid "Too long. Don't tend to keep track of the days in this place but I'd say a year or so now. Long enough to start feeling the Mongrel crazy at least. "
+msgstr ""
+
+#. Id: 56922-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56905-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56922-Dialogue.mod:0
+msgid "How about you leave with me?"
+msgstr ""
+
+#. Id: 56902-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56900-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56902-Dialogue.mod:0
+msgid "Why not leave?"
+msgstr ""
+
+#. Id: 56906-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56902-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56906-Dialogue.mod:0
+msgid "Oh, I want to, believe me. But every single time I pluck up the courage, my dear old brother's tortured screams echo in my mind. And that's when I remember that perhaps a lack of sunlight and the odd back-pain grumble from Crumblejon isn't such a bad thing after all. Not compared to my fate that lurks in the fogs... I mean sure, its easy to throw out suggestions, captain obvious, but talking about it is much easier than doing it.."
+msgstr ""
+
+#. Id: 56908-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56906-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56908-Dialogue.mod:0
+msgid "Then allow me to drag you out of here with me."
+msgstr ""
+
+#. Id: 56910-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE<3, Tag: -1
+#: 56910-Dialogue.mod:0
+msgid "[Her eyes check you over and she smirks]"
+msgstr ""
+
+#. Id: 56911-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56910-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56911-Dialogue.mod:0
+msgid "Just... you? Tell me you're an apprentice of Tinfist.. a Shek invincible.. a trained ninja...? I'm not filled with confidence at the company you're offering me so far... But I guess you made it here in one piece. That's something."
+msgstr ""
+
+#. Id: 56915-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56912-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56915-Dialogue.mod:0
+msgid "Ahh, to the abyss with it. I might never get another chance...."
+msgstr ""
+
+#. Id: 56917-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56917-Dialogue.mod:0
+msgid "Drag me if you have to. Don't let me bail on this."
+msgstr ""
+
+#. Id: 56913-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56911-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56913-Dialogue.mod:0
+msgid "Just a /MEMAN/ with a sword. Take it or leave it."
+msgstr ""
+
+#. Id: 56916-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56911-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56916-Dialogue.mod:0
+msgid "I'm your ticket out of here. And you know it."
+msgstr ""
+
+#. Id: 56914-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56911-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56914-Dialogue.mod:0
+msgid "Just forget I ever asked."
+msgstr ""
+
+#. Id: 56918-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56918-Dialogue.mod:0
+msgid "Didn't mean to insult you, stranger."
+msgstr ""
+
+#. Id: 56920-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56920-Dialogue.mod:0
+msgid "Well... you've got a nice sized crowd following you... and you all made it here in one piece, that's something. But is it enough I wonder..."
+msgstr ""
+
+#. Id: 56921-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (56920-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56921-Dialogue.mod:0
+msgid "[She grows silent as she fidgets with the scar on her hand]"
+msgstr ""
+
+#. Id: 56903-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56900-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shryke
+#: 56903-Dialogue.mod:0
+msgid "... Are you done whining yet?"
+msgstr ""
+
+#. Id: 56904-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56903-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shryke
+#: 56904-Dialogue.mod:0
+msgid "When it comes to this dump, never. Don't like my whining, don't gotta listen!"
+msgstr ""
+

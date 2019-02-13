@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63674-Dialogue.mod:0
+msgid "Well, I have had an enjoyable time, flesh /BROTHER//S/..."
+msgstr ""
+
+#. Id: 63674-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63674-Dialogue.mod:1
+msgid "This has been /FUCKING/ fun, flesh /BROTHER//S/..."
+msgstr ""
+
+#. Id: 63674-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 63674-Dialogue.mod:2
+msgid "/FUCK/, it was /FUCKING/ good to hang out, flesh /BROTHER//S/!"
+msgstr ""
+
+#. Id: 63675-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#: 63675-Dialogue.mod:0
+msgid "But I am feeling tired now."
+msgstr ""
+
+#. Id: 63676-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#: 63676-Dialogue.mod:0
+msgid "I need to catch some zeds."
+msgstr ""
+
+#. Id: 63676-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#: 63676-Dialogue.mod:1
+msgid "I need to get my human sleep."
+msgstr ""
+
+#. Id: 63677-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#: 63677-Dialogue.mod:0
+msgid "But my belly is rumbling now."
+msgstr ""
+
+#. Id: 63678-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63677-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit bodyguard finished
+#: 63678-Dialogue.mod:0
+msgid "I need to go refill on delicious morsels."
+msgstr ""
+

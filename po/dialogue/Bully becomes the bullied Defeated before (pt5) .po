@@ -1,0 +1,547 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10019-Dialogue (7).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10019-Dialogue?(7).mod:0
+msgid "... you..."
+msgstr ""
+
+#. Id: 10023-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10055-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10054-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10023-Dialogue?(7).mod:0 10055-Dialogue?(7).mod:0
+msgid "Do I know you?"
+msgstr ""
+
+#. Id: 10023-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10023-Dialogue?(7).mod:1
+msgid "Erm... and you are..?"
+msgstr ""
+
+#. Id: 10023-Dialogue (7).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10023-Dialogue?(7).mod:2
+msgid "Uh... do I know you?"
+msgstr ""
+
+#. Id: 10027-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10027-Dialogue?(7).mod:0
+msgid "Spit it out, do I know you?"
+msgstr ""
+
+#. Id: 10034-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10027-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10034-Dialogue?(7).mod:0
+msgid "... We had a... fight once... but we're good now, right? All even?"
+msgstr ""
+
+#. Id: 10050-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10034-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10050-Dialogue?(7).mod:0
+msgid "Ah, yes, the town bully. Sure, whatever"
+msgstr ""
+
+#. Id: 10051-Dialogue (7).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10050-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 20010-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (19952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin for hire
+#. Id: 13393-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13388-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 98087-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#. Id: 9341-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: thanks
+#. Id: 7061-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 10051-Dialogue?(7).mod:0 20010-Dialogue.mod:0 13393-Escapes.mod:0 98087-Dialogue.mod:0 9341-Dialogue.mod:0 7061-Dialogue.mod:2
+msgid "Thank you"
+msgstr ""
+
+#. Id: 10052-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10034-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10052-Dialogue?(7).mod:0
+msgid "Meh, still don't remember. And don't care"
+msgstr ""
+
+#. Id: 10028-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 14425-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14424-Dialogue (4).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bust out of jail bandit
+#. Id: 9789-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: You saved me!
+#: 10028-Dialogue?(7).mod:0 14425-Dialogue?(4).mod:0 9789-Dialogue.mod:0
+msgid "Nevermind then..."
+msgstr ""
+
+#. Id: 10029-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10026-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10029-Dialogue?(7).mod:0
+msgid "Oh I remember! You used to be the town bully!"
+msgstr ""
+
+#. Id: 10036-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10035-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10036-Dialogue?(7).mod:0
+msgid "Oh the tables have turned!"
+msgstr ""
+
+#. Id: 10048-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10047-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10048-Dialogue?(7).mod:0
+msgid "But revenge is for fools... Go on, scram"
+msgstr ""
+
+#. Id: 10049-Dialogue (7).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10048-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10049-Dialogue?(7).mod:0
+msgid "... Th-thank you"
+msgstr ""
+
+#. Id: 10022-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10022-Dialogue?(7).mod:0
+msgid "So, you gonna show me some respect /RUNT/?"
+msgstr ""
+
+#. Id: 10022-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10022-Dialogue?(7).mod:1
+msgid "You gonna show me some respect, /RUNT/?"
+msgstr ""
+
+#. Id: 10041-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10022-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10086-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10059-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10041-Dialogue?(7).mod:0 10086-Dialogue?(7).mod:0
+msgid "(Reluctantly bows down to you)"
+msgstr ""
+
+#. Id: 10042-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10041-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10087-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10086-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#. Id: 9905-Dialogue.mod
+#. -- Index: 8.3
+#. -- Parent line: 7 (9904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 10042-Dialogue?(7).mod:0 10087-Dialogue?(7).mod:0 9905-Dialogue.mod:3
+msgid "Lower!"
+msgstr ""
+
+#. Id: 10042-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10041-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10087-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10086-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10042-Dialogue?(7).mod:1 10087-Dialogue?(7).mod:1
+msgid "That's no good! Bend lower!"
+msgstr ""
+
+#. Id: 10044-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10042-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10089-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10087-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10044-Dialogue?(7).mod:0 10089-Dialogue?(7).mod:0
+msgid "(Touches head to the floor)"
+msgstr ""
+
+#. Id: 10045-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10044-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10090-Dialogue (7).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10089-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10045-Dialogue?(7).mod:0 10090-Dialogue?(7).mod:0
+msgid "Goooood, gooood!"
+msgstr ""
+
+#. Id: 10043-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10041-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10088-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10086-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10043-Dialogue?(7).mod:0 10088-Dialogue?(7).mod:0
+msgid "Now go"
+msgstr ""
+
+#. Id: 10043-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10041-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10043-Dialogue?(7).mod:1
+msgid "Okay. Be gone"
+msgstr ""
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10091-Dialogue?(7).mod:0
+msgid "R-right"
+msgstr ""
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10091-Dialogue?(7).mod:1
+msgid "O-of course"
+msgstr ""
+
+#. Id: 10091-Dialogue (7).mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (10043-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10091-Dialogue?(7).mod:2
+msgid "U-uh right"
+msgstr ""
+
+#. Id: 10024-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10024-Dialogue?(7).mod:0
+msgid "Dance for me! Dance! Muahaha!"
+msgstr ""
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10030-Dialogue?(7).mod:0
+msgid "Y-yes!"
+msgstr ""
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10030-Dialogue?(7).mod:1
+msgid "Y-y-right!"
+msgstr ""
+
+#. Id: 10030-Dialogue (7).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10024-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10030-Dialogue?(7).mod:2
+msgid "O-of course!"
+msgstr ""
+
+#. Id: 10037-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10069-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10068-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10037-Dialogue?(7).mod:0 10069-Dialogue?(7).mod:0
+msgid "Very good! You may go now"
+msgstr ""
+
+#. Id: 10031-Dialogue (7).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10037-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10074-Dialogue (7).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10070-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#. Id: 49426-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pickles defeated squad
+#. Id: 64689-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble prisoner
+#. Id: 12450-Dialogue (10) (2).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper unneccessary get up
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 65257-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65256-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab raider heals pet crab
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 12508-Dialogue (10) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 44014-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ spots swamp raptor crime
+#. Id: 59972-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civ base reactions to world states
+#. Id: 9988-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (9987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 49509-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49508-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Suspicious farmer
+#: 10031-Dialogue?(7).mod:0 10074-Dialogue?(7).mod:0 49426-Dialogue.mod:7 64689-Dialogue.mod:1 12450-Dialogue?(10)?(2).mod:8 65257-Dialogue.mod:0 6004-Dialogue.mod:12 12508-Dialogue?(10)?(2).mod:0 44014-Dialogue.mod:0 59972-Dialogue.mod:0 9988-Dialogue.mod:1 49509-Dialogue.mod:0
+msgid "*sob*"
+msgstr ""
+
+#. Id: 10031-Dialogue (7).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (10037-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10031-Dialogue?(7).mod:1
+msgid "Awahhh"
+msgstr ""
+
+#. Id: 10038-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10070-Dialogue (7).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10068-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10038-Dialogue?(7).mod:0 10070-Dialogue?(7).mod:0
+msgid "That's rubbish! Get out of my face!"
+msgstr ""
+
+#. Id: 10038-Dialogue (7).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10038-Dialogue?(7).mod:1
+msgid "You call that a dance?! Get out of my face!"
+msgstr ""
+
+#. Id: 10039-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10030-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10039-Dialogue?(7).mod:0
+msgid "Doesn't feel so good being on the other end, does it?"
+msgstr ""
+
+#. Id: 10025-Dialogue (7).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10025-Dialogue?(7).mod:0
+msgid "Out of my way, /RAT/"
+msgstr ""
+
+#. Id: 10025-Dialogue (7).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (10019-Dialogue (7).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#: 10025-Dialogue?(7).mod:1
+msgid "You're in my way, /RAT/"
+msgstr ""
+
+#. Id: 10033-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10025-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10085-Dialogue (7).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (10056-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10033-Dialogue?(7).mod:0 10085-Dialogue?(7).mod:0
+msgid "Y-yes! Sorry!"
+msgstr ""
+
+#. Id: 10033-Dialogue (7).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10025-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10085-Dialogue (7).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (10056-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10033-Dialogue?(7).mod:1 10085-Dialogue?(7).mod:1
+msgid "R-right! I'm sorry!"
+msgstr ""
+
+#. Id: 10033-Dialogue (7).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10025-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes the bullied Defeated before (pt5)
+#. Id: 10085-Dialogue (7).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (10056-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bully becomes bullied (pt5)
+#: 10033-Dialogue?(7).mod:2 10085-Dialogue?(7).mod:2
+msgid "Of course... p-please forgive me!"
+msgstr ""
+

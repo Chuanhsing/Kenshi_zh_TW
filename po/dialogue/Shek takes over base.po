@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 17560-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>4, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 98806-___March?2.mod:0 17560-Dialogue.mod:1
+msgid "Victory!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:1
+msgid "RARGH!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:2
+msgid "Victory is ours!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:3
+msgid "Victory to the Shek!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 17560-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>4, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 98806-___March?2.mod:4 17560-Dialogue.mod:2
+msgid "Triumph!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 98814-___March 2.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 17567-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#: 98806-___March?2.mod:7 98814-___March?2.mod:0 17567-Dialogue.mod:0
+msgid "Glory to the Shek!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:8
+msgid "HWARGH!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:9
+msgid "ROOARGH!"
+msgstr ""
+
+#. Id: 98806-___March 2.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#: 98806-___March?2.mod:10
+msgid "YARGH!"
+msgstr ""
+
+#. Id: 98812-___March 2.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98814-___March 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 98812-___March?2.mod:0
+msgid "You do not dwell here anymore, outsiders."
+msgstr ""
+
+#. Id: 98812-___March 2.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (98814-___March 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 98812-___March?2.mod:1
+msgid "Your outpost belongs to us."
+msgstr ""
+
+#. Id: 98812-___March 2.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (98814-___March 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 98812-___March?2.mod:2
+msgid "This land is not yours, outsiders."
+msgstr ""
+
+#. Id: 98805-___March 2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98812-___March 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#: 98805-___March?2.mod:0
+msgid "Now, we live here."
+msgstr ""
+
+#. Id: 98805-___March 2.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (98812-___March 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek takes over base
+#: 98805-___March?2.mod:1
+msgid "We live here now."
+msgstr ""
+

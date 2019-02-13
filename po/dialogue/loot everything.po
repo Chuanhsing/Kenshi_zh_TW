@@ -1,0 +1,376 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:1
+msgid "Taking all your stuff, ok?"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:2
+msgid "All your stuff is mine now"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:3
+msgid "If you wake up again, I'll be long gone and selling your /STUFF/ to some trader"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:4
+msgid "This /STUFF/ is nice"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:5
+msgid "Stay asleep while I remove your /STUFF/"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:6
+msgid "Don't wake up yet, I'm stealing your /STUFF/"
+msgstr ""
+
+#. Id: 5131-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 5131-gamedata.base:7
+msgid "I'm taking your /STUFF/ "
+msgstr ""
+
+#. Id: 5172-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5172-gamedata.base:0
+msgid "Just so you know, I'm robbing you because I hate you."
+msgstr ""
+
+#. Id: 5172-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5172-gamedata.base:1
+msgid "Looting your stupid body feels so right."
+msgstr ""
+
+#. Id: 5172-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5172-gamedata.base:2
+msgid "You deserve a good lootin'"
+msgstr ""
+
+#. Id: 5174-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5174-gamedata.base:0
+msgid "I hate you, and now you're dead, and so I'm taking all your stuff."
+msgstr ""
+
+#. Id: 5174-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5174-gamedata.base:1
+msgid "All your stuff is mine now, you dead bastard"
+msgstr ""
+
+#. Id: 5174-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5174-gamedata.base:2
+msgid "I'm glad you're dead."
+msgstr ""
+
+#. Id: 5174-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#: 5174-gamedata.base:3
+msgid "Looting your corpse feels so good."
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:0
+msgid "A dead /GUY/ can't use all of this cool stuff"
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:1
+msgid "The dead don't need clothes"
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:2
+msgid "You're dead, I need your /STUFF/"
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:3
+msgid "You're dead, I want your /STUFF/"
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:4
+msgid "Eurh, it's soaked in blood"
+msgstr ""
+
+#. Id: 5178-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#: 5178-gamedata.base:5
+msgid "I'm taking all this, you don't need it where you're going"
+msgstr ""
+
+#. Id: 5183-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5183-gamedata.base:0
+msgid "This isn't right..."
+msgstr ""
+
+#. Id: 5186-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 5186-gamedata.base:0
+msgid "Once I was your prisoner, now I'm stealing your /STUFF/. Such is life."
+msgstr ""
+
+#. Id: 5186-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 5186-gamedata.base:1
+msgid "Once I was your prisoner, now look at you."
+msgstr ""
+
+#. Id: 5186-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 5186-gamedata.base:2
+msgid "Thought you had me caged up forever didn't you? Didn't think I would be looting your body one day!"
+msgstr ""
+
+#. Id: 5186-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 5186-gamedata.base:3
+msgid "Looting the body of my captor. Best feeling ever."
+msgstr ""
+
+#. Id: 5189-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5189-gamedata.base:0
+msgid "Ooohhh, medkits!"
+msgstr ""
+
+#. Id: 5189-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5189-gamedata.base:1
+msgid "Nice. /IWE/ needed more medkits."
+msgstr ""
+
+#. Id: 5189-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5189-gamedata.base:2
+msgid "I got /MEUS/ some medkits!"
+msgstr ""
+
+#. Id: 5190-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5190-gamedata.base:0
+msgid "Free food!"
+msgstr ""
+
+#. Id: 5190-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5190-gamedata.base:1
+msgid "Food! Yes!"
+msgstr ""
+
+#. Id: 5190-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5190-gamedata.base:2
+msgid "Food, /IWE/ needed that."
+msgstr ""
+
+#. Id: 5190-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5190-gamedata.base:3
+msgid "Food! Just in time too."
+msgstr ""
+
+#. Id: 5190-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5190-gamedata.base:4
+msgid "Hey I found some food!"
+msgstr ""
+
+#. Id: 5192-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (5191-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: loot everything
+#: 5192-gamedata.base:1
+msgid "Thank /FUCK/ for that!"
+msgstr ""
+
+#. Id: 5192-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (5191-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: loot everything
+#: 5192-gamedata.base:2
+msgid "Food! Let me have some!"
+msgstr ""
+
+#. Id: 5193-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (5191-gamedata.base)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: loot everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5193-gamedata.base:0
+msgid "Food! Give it to me!"
+msgstr ""
+
+#. Id: 5195-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (5193-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: loot everything
+#: 5195-gamedata.base:0
+msgid "No, it's mine!"
+msgstr ""
+

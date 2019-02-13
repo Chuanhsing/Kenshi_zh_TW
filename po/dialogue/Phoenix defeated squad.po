@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40933-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#: 40933-Dialogue.mod:0
+msgid "Okran's Will shall be done"
+msgstr ""
+
+#. Id: 40933-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#: 40933-Dialogue.mod:1
+msgid "Okran's divine judgement will be cast"
+msgstr ""
+
+#. Id: 40933-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#: 40933-Dialogue.mod:2
+msgid "May Okran show mercy for you in his judgement"
+msgstr ""
+
+#. Id: 40933-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#: 40933-Dialogue.mod:3
+msgid "Okran will show no mercy to the darkened"
+msgstr ""
+
+#. Id: 40934-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 40934-Dialogue.mod:0
+msgid "Only the divine flame of Okran will cleanse this one of it's sins"
+msgstr ""
+
+#. Id: 40936-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 40936-Dialogue.mod:0
+msgid "My mission is to protect the holy people. You won't escape my judgement, dark one"
+msgstr ""
+
+#. Id: 40936-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix defeated squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 40936-Dialogue.mod:1
+msgid "To protect the people of Okran is my mission. Be purged, dark one"
+msgstr ""
+

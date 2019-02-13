@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60529-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
+#: 60529-Dialogue.mod:0
+msgid "*Sigh*... I see your outpost is looking as charming as ever, /PEASANT/..."
+msgstr ""
+
+#. Id: 60529-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
+#: 60529-Dialogue.mod:1
+msgid "Ugh... Back again in my favourite shanty town..."
+msgstr ""
+
+#. Id: 60529-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
+#: 60529-Dialogue.mod:2
+msgid "... Oh how I enjoy my sweaty treks to your little... shanty town, /PEASANT/..."
+msgstr ""
+
+#. Id: 60529-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
+#: 60529-Dialogue.mod:3
+msgid "I swear, this stinking outpost of yours gets uglier every time I see it..."
+msgstr ""
+
+#. Id: 60532-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60529-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60532-Dialogue.mod:0
+msgid "It's time for your tax payment. The amount owed is 3000 Cats."
+msgstr ""
+
+#. Id: 60557-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#. Id: 60502-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60557-Dialogue.mod:0 60502-Dialogue.mod:0
+msgid "Good! I'll see you in a week for the next contribution."
+msgstr ""
+
+#. Id: 60557-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (60534-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 60557-Dialogue.mod:1
+msgid "Thank you for your payment. Until next time..."
+msgstr ""
+
+#. Id: 60558-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60557-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. Id: 60504-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60558-Dialogue.mod:0 60504-Dialogue.mod:0
+msgid "Stay safe, /SIR/."
+msgstr ""
+
+#. Id: 60558-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (60557-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. Id: 60504-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (60502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60558-Dialogue.mod:1 60504-Dialogue.mod:1
+msgid "Good day to you, /SIR/."
+msgstr ""
+
+#. Id: 60563-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60538-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. Id: 60517-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60516-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60563-Dialogue.mod:0 60517-Dialogue.mod:0
+msgid "*Snort*... You can't afford to pay 3000 Cats? The price of half a stinking farm dog? Then why are you even here on Empire land? Don't you even know destitution is a crime here? If you want to scrape by with rag loincloths and stale breadcrumbs, I suggest moving to the holy plains. Perhaps one of the god-loving looneys will take pity on you."
+msgstr ""
+
+#. Id: 60564-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60564-Dialogue.mod:0
+msgid "We've no room for wasters in the desert. Leave, or you'll be removed."
+msgstr ""
+
+#. Id: 60565-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. Id: 60525-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base visit talk to
+#: 60565-Dialogue.mod:0 60525-Dialogue.mod:0
+msgid "You have three days."
+msgstr ""
+
+#. Id: 60539-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60532-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60539-Dialogue.mod:0
+msgid "I'm an ally of the United Cities. Do I really have to pay tax?"
+msgstr ""
+
+#. Id: 60551-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60539-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60551-Dialogue.mod:0
+msgid "Everybody pays taxes. If you want protection from the samurai guards, if you want strong trade and ample food, you'll also contribute. This land has zero tolerance for deadbeats whatever your deal with the diplomats."
+msgstr ""
+
+#. Id: 60540-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60532-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60540-Dialogue.mod:0
+msgid "Do you even know who you're talking to? I'm a war hero!"
+msgstr ""
+
+#. Id: 60550-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60540-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60550-Dialogue.mod:0
+msgid "I couldn't care less if you killed Tinfist, or if you laid leviathyn pearls for Tengu himself! You're an Empire citizen and you'll pay taxes. This land has zero tolerance for deadbeats, war hero or not."
+msgstr ""
+
+#. Id: 60552-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60532-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60552-Dialogue.mod:0
+msgid "Your face is beginning to irritate me, tax collector."
+msgstr ""
+
+#. Id: 60553-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60552-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60553-Dialogue.mod:0
+msgid "Oh?! Everybody pays taxes, /PEASANT/. Or do I need to get the guards to rough you up, teach you respect for the Empire?"
+msgstr ""
+
+#. Id: 60554-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60553-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60554-Dialogue.mod:0
+msgid "Sounds like fun. Send them over."
+msgstr ""
+
+#. Id: 60569-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (60554-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60569-Dialogue.mod:0
+msgid "Tch! You leave me no choice. But I'd like to see you be so cocky when an elite army shows up at your door..."
+msgstr ""
+
+#. Id: 60533-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60529-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60533-Dialogue.mod:0
+msgid "It's time for your tax payment. The amount owed is 4500 Cats."
+msgstr ""
+
+#. Id: 60535-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60533-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60535-Dialogue.mod:0
+msgid "What? Last time it was 3000 Cats..."
+msgstr ""
+
+#. Id: 60536-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60535-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60536-Dialogue.mod:0
+msgid "Yes, yes, a poxy 1500 Cats extra, no need to blow your top over it. You can blame Tinfist and his band of psychotic terrorists for the price hike. We've got stone mines to reinforce and noble tastes to satisfy."
+msgstr ""
+
+#. Id: 60571-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (60536-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60571-Dialogue.mod:0
+msgid "Forget it. I'm not paying that."
+msgstr ""
+
+#. Id: 60572-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60546-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60572-Dialogue.mod:0
+msgid "*Snort*... If you can't afford a measly tax payment like this then you've obviously chosen the wrong place to settle, /PEASANT/..."
+msgstr ""
+
+#. Id: 60530-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60530-Dialogue.mod:0
+msgid "Let's make this quick, citizen. I've trekked far to visit you today and I very much dislike travelling. "
+msgstr ""
+
+#. Id: 60530-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60530-Dialogue.mod:1
+msgid "Since you insist on setting up your outpost so far from the cities, let's get this over with quickly citizen. I'm feeling hot and irritable."
+msgstr ""
+
+#. Id: 60530-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60530-Dialogue.mod:2
+msgid "[They give a nod]... Citizen."
+msgstr ""
+
+#. Id: 60530-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#: 60530-Dialogue.mod:3
+msgid "[They flick their hand impatiently]... Cordial greetings and such, citizen."
+msgstr ""
+
+#. Id: 60531-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 60531-Dialogue.mod:0
+msgid "[They give a nod]... Greetings, /SIR/."
+msgstr ""
+
+#. Id: 60531-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 60531-Dialogue.mod:1
+msgid "... Greetings, /SIR/"
+msgstr ""
+
+#. Id: 60531-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC Tax base 2nd visit talk to
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 60531-Dialogue.mod:2
+msgid "Back again, good /SIR/."
+msgstr ""
+

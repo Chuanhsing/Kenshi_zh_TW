@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56978-Dialogue.mod:0
+msgid "[He eyes you up and down, too lazy even to move his neck]"
+msgstr ""
+
+#. Id: 56979-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56978-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56979-Dialogue.mod:0
+msgid "Oh... thank the moons you've arrived now of all times, outlander! A new hero is exactly what my empire needs... I have a favour of you, swordsman. An ancient Grievewrath plagues our land, it kills our cattle, terrorizes our people..."
+msgstr ""
+
+#. Id: 56980-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56980-Dialogue.mod:0
+msgid "But someone like you will be able to track it down. With that sword of yours you'll be able to kill it once and for all! I'll reward you well for this, hero. Status, treasure, slaves: You name it!"
+msgstr ""
+
+#. Id: 56981-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56980-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56981-Dialogue.mod:0
+msgid "Okay, what do I do?"
+msgstr ""
+
+#. Id: 56985-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56985-Dialogue.mod:0
+msgid "Okay, first, you'll have to find Clunknad Spanner, the skeleton wizard. You'll find him to the South, in a tower over the mountain pass. He'll brew you the Elixer of Godly Powers that will help you to defeat the Grievewrath... "
+msgstr ""
+
+#. Id: 57059-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 57059-Dialogue.mod:0
+msgid "Here, bring my seal to him so that he knows I sent you [he pulls out a small sack]..."
+msgstr ""
+
+#. Id: 56986-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57059-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56986-Dialogue.mod:0
+msgid "[Open the sack]"
+msgstr ""
+
+#. Id: 56988-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56988-Dialogue.mod:0
+msgid "[It contains the half-chewed stone of a greenfruit]"
+msgstr ""
+
+#. Id: 56989-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56988-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56989-Dialogue.mod:0
+msgid "[Shoot him a confused look]"
+msgstr ""
+
+#. Id: 56991-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (56989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56991-Dialogue.mod:0
+msgid "[He starts shaking uncontrollably, making choking sounds and slapping his thighs]"
+msgstr ""
+
+#. Id: 57049-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (56991-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 57049-Dialogue.mod:0
+msgid "KWEHHHHEHEHEHEHEHEH!"
+msgstr ""
+
+#. Id: 56992-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (57049-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 56992-Dialogue.mod:0
+msgid "*Clap clap clap*"
+msgstr ""
+
+#. Id: 56990-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (56988-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56990-Dialogue.mod:0
+msgid "[Close the bag and nod confidently]"
+msgstr ""
+
+#. Id: 56987-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57059-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56987-Dialogue.mod:0
+msgid "[Put it in your pocket]"
+msgstr ""
+
+#. Id: 57060-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (56987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tengu player talk to
+#: 57060-Dialogue.mod:0
+msgid "Look after it, hero. Now go! Go forth and save my empire!"
+msgstr ""
+
+#. Id: 57062-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57060-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 57062-Dialogue.mod:0
+msgid "You can count on me, my lord."
+msgstr ""
+
+#. Id: 56983-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56980-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu player talk to
+#: 56983-Dialogue.mod:0
+msgid "Leave it to me, my lord."
+msgstr ""
+

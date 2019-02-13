@@ -1,0 +1,327 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12682-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12682-Dialogue?(11)?(2).mod:0
+msgid "A fellow /OUTLANDER/? This is an expensive town to stay eh? What with all the guards'... monetary 'needs'. Anyway, /NEEDASWORD/?"
+msgstr ""
+
+#. Id: 12682-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12682-Dialogue?(11)?(2).mod:1
+msgid "A fellow /OUTLANDER/? How are you finding it in town so far? Expensive? Haha. Make sure you've got plenty of bribe money to spare. Anyway, /NEEDASWORD/?"
+msgstr ""
+
+#. Id: 12682-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12682-Dialogue?(11)?(2).mod:2
+msgid "You from the outlands too? Watch out for those guards, they're a /CROOKED/ bunch. 'Specially if you don't have the Cats to buy 'em off. Anyway, /NEEDASWORD/?"
+msgstr ""
+
+#. Id: 12682-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12682-Dialogue?(11)?(2).mod:3
+msgid "You a traveller too? Careful of the guards around here, /CRUEL/ bastards. When in doubt, chuck all your Cats at 'em. Anyway, /NEEDASWORD/?"
+msgstr ""
+
+#. Id: 12682-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12682-Dialogue?(11)?(2).mod:4
+msgid "Ah, you're not from around here are you? Well, welcome to paradise, /OUTLANDER/. My advice? Buy the guards' love with Cats. Anyway, /NEEDASWORD/?"
+msgstr ""
+
+#. Id: 12683-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 9950-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9944-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 12683-Dialogue?(11)?(2).mod:1 9950-Dialogue.mod:0
+msgid "Yes"
+msgstr ""
+
+#. Id: 12683-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12683-Dialogue?(11)?(2).mod:2
+msgid "I'm interested"
+msgstr ""
+
+#. Id: 12687-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12683-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12687-Dialogue?(11)?(2).mod:0
+msgid "Good to hear. First things first though, I'm going to need security pay, 6000 Cats"
+msgstr ""
+
+#. Id: 12687-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12683-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12687-Dialogue?(11)?(2).mod:1
+msgid "Good. It will cost you 6000 Cats. Security pay."
+msgstr ""
+
+#. Id: 12687-Dialogue (11) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12683-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12687-Dialogue?(11)?(2).mod:2
+msgid "Glad to hear. I'll need 6000 Cats security pay upfront."
+msgstr ""
+
+#. Id: 12688-Dialogue (11) (2).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 12688-Dialogue?(11)?(2).mod:0
+msgid "Deal (Pay 6000 Cats)"
+msgstr ""
+
+#. Id: 12688-Dialogue (11) (2).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 12688-Dialogue?(11)?(2).mod:1
+msgid "Sounds fair (Pay 6000 Cats)"
+msgstr ""
+
+#. Id: 12688-Dialogue (11) (2).mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 12688-Dialogue?(11)?(2).mod:2
+msgid "Okay (Pay 6000 Cats)"
+msgstr ""
+
+#. Id: 12691-Dialogue (11) (2).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (12689-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12691-Dialogue?(11)?(2).mod:0
+msgid "Pretty standard deal for any self-respecting merc. It proves you're worth something to me, but it also ensures I have enough value not to get hawked to slavers in the outlands"
+msgstr ""
+
+#. Id: 12691-Dialogue (11) (2).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (12689-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12691-Dialogue?(11)?(2).mod:1
+msgid "A standard advance. Ensures your worth as a comrade. Also a deterent to slave peddlers which is always an added bonus."
+msgstr ""
+
+#. Id: 12699-Dialogue (11) (2).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12691-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12699-Dialogue?(11)?(2).mod:0
+msgid "Sounds like a rip off"
+msgstr ""
+
+#. Id: 12699-Dialogue (11) (2).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (12691-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 15043-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 12699-Dialogue?(11)?(2).mod:1 15043-Dialogue.mod:2
+msgid "Sounds like a con to me"
+msgstr ""
+
+#. Id: 12699-Dialogue (11) (2).mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (12691-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12699-Dialogue?(11)?(2).mod:2
+msgid "Sounds pretty one sided"
+msgstr ""
+
+#. Id: 12701-Dialogue (11) (2).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (12699-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12701-Dialogue?(11)?(2).mod:0
+msgid "Well, suit yourself"
+msgstr ""
+
+#. Id: 18876-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18876-Dialogue.mod:0
+msgid "I don't have enough /CATS/..."
+msgstr ""
+
+#. Id: 18876-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18876-Dialogue.mod:1
+msgid "I need more money..."
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:0
+msgid "6000? That's way too much!"
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:1
+msgid "Too much, I'm not interested..."
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:2
+msgid "I was looking for something cheaper actually"
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:3
+msgid "That's kind of out of my budget"
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:4
+msgid "Way out of my budget"
+msgstr ""
+
+#. Id: 18878-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 18878-Dialogue.mod:5
+msgid "6000 Cats is too much, no thanks"
+msgstr ""
+
+#. Id: 12684-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12684-Dialogue?(11)?(2).mod:0
+msgid "Depends, got any skills?"
+msgstr ""
+
+#. Id: 12684-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12684-Dialogue?(11)?(2).mod:1
+msgid "Depends, what skills have you got?"
+msgstr ""
+
+#. Id: 12686-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12684-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12686-Dialogue?(11)?(2).mod:0
+msgid "I can handle myself in a fight if that's what you mean. I'll need security pay first though, 6000 Cats"
+msgstr ""
+
+#. Id: 12686-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12684-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#: 12686-Dialogue?(11)?(2).mod:1
+msgid "I can hold my own in a fight. I charge 6000 Cats security pay."
+msgstr ""
+
+#. Id: 12706-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 12706-Dialogue?(11)?(2).mod:0
+msgid "Back again, /OUTLANDER/? Did you change your mind, do you need a sword?"
+msgstr ""
+
+#. Id: 12708-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12706-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#: 12708-Dialogue?(11)?(2).mod:0
+msgid "Yes, I do"
+msgstr ""
+

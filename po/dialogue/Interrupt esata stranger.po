@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43084-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43084-Dialogue.mod:0
+msgid "Then let's fight, scum."
+msgstr ""
+
+#. Id: 43084-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43084-Dialogue.mod:1
+msgid "Then fight me, scum."
+msgstr ""
+
+#. Id: 43084-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43084-Dialogue.mod:2
+msgid "The fool thinks /HE/ can fight."
+msgstr ""
+
+#. Id: 43085-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43085-Dialogue.mod:0
+msgid "I could use the exercise anyway."
+msgstr ""
+
+#. Id: 43085-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43085-Dialogue.mod:1
+msgid "I'll crush you like an insect."
+msgstr ""
+
+#. Id: 43085-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43084-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43085-Dialogue.mod:2
+msgid "I'll squash you like a bug."
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:0
+msgid "To fight me, it's an honor you don't deserve."
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:1
+msgid "You're no challenge..."
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:2
+msgid "I hate easy fights..."
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:3
+msgid "You're no worthy opponent..."
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:4
+msgid "I'll squash you"
+msgstr ""
+
+#. Id: 43086-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#: 43086-Dialogue.mod:5
+msgid "I'll crush you"
+msgstr ""
+
+#. Id: 43087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. Id: 45777-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot witness swamp raptor
+#. -- Condition: My Race(s): Skeleton
+#: 43087-Dialogue.mod:0 45777-Dialogue.mod:0
+msgid "Vermin."
+msgstr ""
+
+#. Id: 43087-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupt esata stranger
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#: 43087-Dialogue.mod:1
+msgid "So I'm reduced to pest extermination now?"
+msgstr ""
+

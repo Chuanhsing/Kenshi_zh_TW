@@ -1,0 +1,895 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7802-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7802-Dialogue.mod:0
+msgid "Everyone, attack! Don't let /HIM/ get away!"
+msgstr ""
+
+#. Id: 7802-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7802-Dialogue.mod:1
+msgid "Cut /HIM/ down! Make /HIM/ bleed! Make /HIM/ scream!!"
+msgstr ""
+
+#. Id: 7802-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7802-Dialogue.mod:2
+msgid "Get /HIM/, get /HIM/! Everyone round up!"
+msgstr ""
+
+#. Id: 7802-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7802-Dialogue.mod:3
+msgid "This just got serious. Everyone! Attack!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:0
+msgid "No survivors!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:1
+msgid "I don't want ANY of 'em gettin' out of this one alive!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:2
+msgid "Kill 'em all!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:3
+msgid "Wipe 'em all out like the rats they are!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:4
+msgid "Stay on your toes! You slack and you'll die!"
+msgstr ""
+
+#. Id: 7806-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7806-Dialogue.mod:5
+msgid "No one lives!"
+msgstr ""
+
+#. Id: 7816-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7816-Dialogue.mod:0
+msgid "No survivors! /ARG/!"
+msgstr ""
+
+#. Id: 7816-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7816-Dialogue.mod:2
+msgid "You won't escape us!! Die!"
+msgstr ""
+
+#. Id: 7816-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (7814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7816-Dialogue.mod:6
+msgid "No survivors! /ATTACK/!"
+msgstr ""
+
+#. Id: 49539-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7814-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 49539-Dialogue.mod:3
+msgid "Awoooo! /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:0
+msgid "He's just one man! How strong can he be?"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:1
+msgid "This guy's bloody /CRAZY/"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:2
+msgid "Take him down FAST"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:3
+msgid "Go for his ankles! He won't have a chance"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:4
+msgid "Attack from behind! We got this guy"
+msgstr ""
+
+#. Id: 7807-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7807-Dialogue.mod:5
+msgid "Surround him! He's just one guy!"
+msgstr ""
+
+#. Id: 7822-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7821-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7822-Dialogue.mod:0
+msgid "Take him down!"
+msgstr ""
+
+#. Id: 7822-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7821-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7822-Dialogue.mod:1
+msgid "Don't give him space!"
+msgstr ""
+
+#. Id: 7822-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7821-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7822-Dialogue.mod:2
+msgid "Get him!"
+msgstr ""
+
+#. Id: 7822-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7821-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7822-Dialogue.mod:3
+msgid "He's outnumbered! "
+msgstr ""
+
+#. Id: 7809-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7809-Dialogue.mod:0
+msgid "She's just one woman! How strong can she be?"
+msgstr ""
+
+#. Id: 7809-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7809-Dialogue.mod:1
+msgid "Surround her! Don't give her a chance to hit!"
+msgstr ""
+
+#. Id: 7809-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7809-Dialogue.mod:2
+msgid "Swamp her! Keep her holed up, she's got no chance!"
+msgstr ""
+
+#. Id: 7809-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7809-Dialogue.mod:3
+msgid "Attack from behind! She's just one woman"
+msgstr ""
+
+#. Id: 7809-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (7802-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7809-Dialogue.mod:5
+msgid "This woman's a nutjob"
+msgstr ""
+
+#. Id: 7820-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7819-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7820-Dialogue.mod:1
+msgid "Cut her from behind!"
+msgstr ""
+
+#. Id: 7820-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7819-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7820-Dialogue.mod:2
+msgid "Go for her legs!"
+msgstr ""
+
+#. Id: 7820-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7819-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7820-Dialogue.mod:3
+msgid "She's outnumbered!"
+msgstr ""
+
+#. Id: 7823-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7823-Dialogue.mod:0
+msgid "Make 'em pay! Make 'em writhe in agony!"
+msgstr ""
+
+#. Id: 7823-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7823-Dialogue.mod:1
+msgid "Get 'em! /CUT/ 'em, gut 'em, slit 'em!"
+msgstr ""
+
+#. Id: 7823-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7823-Dialogue.mod:2
+msgid "Time for vengeance! Get these /BASTARD/s! NOW!"
+msgstr ""
+
+#. Id: 7823-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7823-Dialogue.mod:3
+msgid "These /INSULT/s are gonna pay! Attack 'em! No survivors!"
+msgstr ""
+
+#. Id: 7862-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE<4, Tag: -1
+#: 7862-Dialogue.mod:4
+msgid "These guys don't look so tough..."
+msgstr ""
+
+#. Id: 7864-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7864-Dialogue.mod:0
+msgid "You're all gonna pay! Die!"
+msgstr ""
+
+#. Id: 7864-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7864-Dialogue.mod:1
+msgid "You're all gonna go to hell!"
+msgstr ""
+
+#. Id: 7864-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7864-Dialogue.mod:2
+msgid "You /BASTARD/s are playing with fire!"
+msgstr ""
+
+#. Id: 7864-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7861-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7864-Dialogue.mod:3
+msgid "You'll regret messin' with us!"
+msgstr ""
+
+#. Id: 7832-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 7832-Dialogue.mod:0
+msgid "Make him pay! Make him writhe in agony!"
+msgstr ""
+
+#. Id: 7832-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 7832-Dialogue.mod:1
+msgid "Kill the /INSULT/! Get 'im! /CUT/ 'im, gut 'im, slit 'im!"
+msgstr ""
+
+#. Id: 7832-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 7832-Dialogue.mod:2
+msgid "Time for vengeance! Get this /BASTARD/! NOW!"
+msgstr ""
+
+#. Id: 7832-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 7832-Dialogue.mod:3
+msgid "This /INSULT/'s gonna pay! Attack 'im! Make him beg for his life!"
+msgstr ""
+
+#. Id: 7860-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7859-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7860-Dialogue.mod:2
+msgid "He's gonna pay for screwing with us!"
+msgstr ""
+
+#. Id: 7860-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7859-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7860-Dialogue.mod:4
+msgid "You've bitten off way more than you can chew, /BOY/!"
+msgstr ""
+
+#. Id: 7833-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7833-Dialogue.mod:0
+msgid "Make her pay! Make her writhe in agony!"
+msgstr ""
+
+#. Id: 7833-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7833-Dialogue.mod:1
+msgid "Kill the /INSULT/! Get her! /CUT/ her, gut her, slit her!"
+msgstr ""
+
+#. Id: 7833-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7833-Dialogue.mod:2
+msgid "Time for vengeance, men! Get this /BITCH/! NOW!"
+msgstr ""
+
+#. Id: 7833-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7833-Dialogue.mod:3
+msgid "This /BITCH/'s gonna pay! /CUT/ her up! Make her beg!"
+msgstr ""
+
+#. Id: 7833-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7833-Dialogue.mod:4
+msgid "Don't let her get away! She's in for a /STABBIN/!"
+msgstr ""
+
+#. Id: 7856-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7855-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7856-Dialogue.mod:0
+msgid "She don't look so tough... "
+msgstr ""
+
+#. Id: 7856-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (7855-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7856-Dialogue.mod:4
+msgid "How the hell can one little /BROAD/ cause so much trouble?"
+msgstr ""
+
+#. Id: 7856-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (7855-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7856-Dialogue.mod:5
+msgid "She's gonna pay for messing with us!"
+msgstr ""
+
+#. Id: 7867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7867-Dialogue.mod:0
+msgid "Big Boss' gonna reward me well for your head!"
+msgstr ""
+
+#. Id: 7872-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7872-Dialogue.mod:0
+msgid "How's a lil /SWEETIE/ like you caused so much of a stir anyway?"
+msgstr ""
+
+#. Id: 7872-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7872-Dialogue.mod:1
+msgid "How'd a lil /SWEETIE/ like you cause such a shit storm anyway?"
+msgstr ""
+
+#. Id: 7883-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7883-Dialogue.mod:0
+msgid "Don't worry, I'll try and make it quick and painless for you"
+msgstr ""
+
+#. Id: 7883-D-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7883-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7883-D-Dialogue.mod:0
+msgid "Or maybe not..."
+msgstr ""
+
+#. Id: 7886-D-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7886-D-Dialogue.mod:0
+msgid "How'd ONE guy cause so much trouble anyway? This is too easy /QUICKLAUGH/"
+msgstr ""
+
+#. Id: 7887-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7887-Dialogue.mod:0
+msgid "How'd one measly /BROAD/ kick up such a fuss anyway?"
+msgstr ""
+
+#. Id: 7887-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 7887-Dialogue.mod:1
+msgid "I still can't believe everyone's goin' /CRAZY/ over ONE measly /BROAD/"
+msgstr ""
+
+#. Id: 7894-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7893-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7894-Dialogue.mod:0
+msgid "Well, I for one certainly ain't gonna let one chick scare me"
+msgstr ""
+
+#. Id: 7902-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7902-Dialogue.mod:0
+msgid "/QUICKLAUGH/, this should be fun!"
+msgstr ""
+
+#. Id: 7870-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7870-Dialogue.mod:0
+msgid "Big Boss' gonna reward me well for your heads!"
+msgstr ""
+
+#. Id: 7912-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7911-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Gang Bad Relations
+#: 7912-Dialogue.mod:0
+msgid "Don't let 'em get away! "
+msgstr ""
+
+#. Id: 7896-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7896-Dialogue.mod:0
+msgid "C'mon! Get /HIM/, get /HIM/!"
+msgstr ""
+
+#. Id: 7896-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 7896-Dialogue.mod:1
+msgid "All together now, attack!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:0
+msgid "Fuck! Fuck, it's /HIM/! Run!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:1
+msgid "/OHSHIT/ no, it's /HIM/! "
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:2
+msgid "Run away! Run run run!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:3
+msgid "EEEEEEK!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:4
+msgid "RUN!!!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:5
+msgid "It's /HIM/, it's /HIM/!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:6
+msgid "/OHSHIT/, run!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:7
+msgid "I'm too young to die!"
+msgstr ""
+
+#. Id: 7866-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: REPUTATION>70, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#: 7866-Dialogue.mod:10
+msgid "/AAH/! Run away!"
+msgstr ""
+
+#. Id: 7918-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: REPUTATION>80, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7918-Dialogue.mod:0
+msgid "No, fuck this. I'm not dying today"
+msgstr ""
+
+#. Id: 7918-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: REPUTATION>80, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7918-Dialogue.mod:1
+msgid "Nope nope nope"
+msgstr ""
+
+#. Id: 7918-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: REPUTATION>80, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7918-Dialogue.mod:2
+msgid "I'm outta here"
+msgstr ""
+
+#. Id: 7918-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: REPUTATION>80, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7918-Dialogue.mod:3
+msgid "No way. I'm not fighting /THISGUY/. I'm gone"
+msgstr ""
+
+#. Id: 7918-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#. -- Condition: Who: TARGET, Condition: REPUTATION>80, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE<5, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 7918-Dialogue.mod:4
+msgid "I don't want to die! I'm not ready yet!"
+msgstr ""
+

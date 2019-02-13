@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55719-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe attacked reaction
+#: 55719-Dialogue.mod:0
+msgid "Attacking me?!"
+msgstr ""
+
+#. Id: 55721-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe attacked reaction
+#: 55721-Dialogue.mod:0
+msgid "Just as I'd expect from a male meatbag like you!"
+msgstr ""
+
+#. Id: 55721-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe attacked reaction
+#: 55721-Dialogue.mod:1
+msgid "You underestimate me, meatbag! Come closer and I'll castrate you!"
+msgstr ""
+
+#. Id: 55722-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55719-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe attacked reaction
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 55722-Dialogue.mod:0
+msgid "Traitor to the goddess... No mercy!"
+msgstr ""
+

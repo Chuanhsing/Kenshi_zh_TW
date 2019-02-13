@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57134-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 59901-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 59956-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. Id: 64645-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64646-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. Id: 64647-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 57134-Dialogue.mod:0 59901-Dialogue.mod:2 59956-Dialogue.mod:1 64645-Dialogue.mod:1 64646-Dialogue.mod:2 64647-Dialogue.mod:1
+msgid "Protect the Holy Lord Phoenix!"
+msgstr ""
+
+#. Id: 57134-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 96057-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor searching player base
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 57134-Dialogue.mod:1 96057-Dialogue.mod:2
+msgid "/AGENTSOFDARKNESS/!"
+msgstr ""
+
+#. Id: 57134-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Target Race(s): Skeleton
+#: 57134-Dialogue.mod:2
+msgid "Holy Lord Phoenix!"
+msgstr ""
+
+#. Id: 59901-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 64646-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 59901-Dialogue.mod:0 64646-Dialogue.mod:0
+msgid "Flotsam! Protect the Holy Lord Phoenix!"
+msgstr ""
+
+#. Id: 59901-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. Id: 64338-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin spots enemy
+#. Id: 64646-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 59901-Dialogue.mod:1 64338-Dialogue.mod:0 64646-Dialogue.mod:1
+msgid "Flotsam!"
+msgstr ""
+
+#. Id: 59956-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. Id: 64647-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 59956-Dialogue.mod:0 64647-Dialogue.mod:0
+msgid "Skeleton lover!"
+msgstr ""
+
+#. Id: 59956-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to crowd
+#. Id: 64645-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64647-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix crowd trigger
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 59956-Dialogue.mod:2 64645-Dialogue.mod:2 64647-Dialogue.mod:2
+msgid "Minion of Tinfist!"
+msgstr ""
+

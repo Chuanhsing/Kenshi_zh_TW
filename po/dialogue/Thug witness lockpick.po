@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44438-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness lockpick
+#. Id: 43509-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43508-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon witness thief
+#: 44438-Dialogue.mod:0 43509-Dialogue.mod:0
+msgid "What're ya doin'?"
+msgstr ""
+
+#. Id: 44438-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness lockpick
+#. Id: 43508-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sundemon witness thief
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander
+#: 44438-Dialogue.mod:1 43508-Dialogue.mod:2
+msgid "Eh? What's this?"
+msgstr ""
+
+#. Id: 44438-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug witness lockpick
+#: 44438-Dialogue.mod:2
+msgid "What're ya doin' with that lock?"
+msgstr ""
+

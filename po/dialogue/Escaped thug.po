@@ -1,0 +1,499 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:0
+msgid "/WEMADEIT/... you'd make a useful accomplice, ya know"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:1
+msgid "/WEMADEIT/... you'd make a useful partner, ya know"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:2
+msgid "/WEMADEIT/... you'd make a useful ally, ya know"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:3
+msgid "/WEMADEIT/... ya know, you'd make a handy accomplice"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:4
+msgid "/WEMADEIT/... ya know, you'd make a handy partner"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:5
+msgid "/WEMADEIT/... ya know, you'd make a handy ally"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:6
+msgid "/WEMADEIT/! ... you'd be a pretty good accomplice, ya know"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:7
+msgid "/WEMADEIT/! ... you'd be a pretty good ally, ya know"
+msgstr ""
+
+#. Id: 13761-Escapes.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13761-Escapes.mod:8
+msgid "/WEMADEIT/! ... you'd be a pretty good partner, ya know"
+msgstr ""
+
+#. Id: 13771-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13771-Escapes.mod:0
+msgid "You're right, let's /TEAMUP/"
+msgstr ""
+
+#. Id: 13771-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13771-Escapes.mod:1
+msgid "You're right, let's stick together"
+msgstr ""
+
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13777-Escapes.mod:0
+msgid "Good /MAN/"
+msgstr ""
+
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13777-Escapes.mod:1
+msgid "Good choice"
+msgstr ""
+
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13777-Escapes.mod:2
+msgid "Wise choice"
+msgstr ""
+
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13777-Escapes.mod:5
+msgid "Let's mess shit up"
+msgstr ""
+
+#. Id: 13772-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13772-Escapes.mod:0
+msgid "Not in a million years"
+msgstr ""
+
+#. Id: 13772-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13772-Escapes.mod:1
+msgid "Never. I have standards"
+msgstr ""
+
+#. Id: 13772-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13772-Escapes.mod:2
+msgid "Never in a million years"
+msgstr ""
+
+#. Id: 13774-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13772-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13774-Escapes.mod:0
+msgid "Pff... stuck up bigshot"
+msgstr ""
+
+#. Id: 13774-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13772-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13774-Escapes.mod:1
+msgid "Tch... snooty /INSULT/"
+msgstr ""
+
+#. Id: 13774-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13772-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13774-Escapes.mod:2
+msgid "Pff... snotty /INSULT/"
+msgstr ""
+
+#. Id: 13775-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13774-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13775-Escapes.mod:0
+msgid "Your loss!"
+msgstr ""
+
+#. Id: 13775-Escapes.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (13774-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13775-Escapes.mod:1
+msgid "Don't go gettin' caught again!"
+msgstr ""
+
+#. Id: 13775-Escapes.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (13774-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13775-Escapes.mod:2
+msgid "Don't let 'em catch you again, eh"
+msgstr ""
+
+#. Id: 13773-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13773-Escapes.mod:0
+msgid "I prefer my own company, thanks"
+msgstr ""
+
+#. Id: 13773-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13761-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13773-Escapes.mod:1
+msgid "I prefer to go solo, thanks"
+msgstr ""
+
+#. Id: 13762-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 13762-Escapes.mod:0
+msgid "I vote we keep movin', they could still catch us"
+msgstr ""
+
+#. Id: 13762-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 13762-Escapes.mod:1
+msgid "We should keep movin', right?"
+msgstr ""
+
+#. Id: 13762-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 13762-Escapes.mod:2
+msgid "Let's keep goin', I don't wanna get caught again"
+msgstr ""
+
+#. Id: 13780-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13762-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13780-Escapes.mod:0
+msgid "Ok, come with me"
+msgstr ""
+
+#. Id: 13780-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13762-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13780-Escapes.mod:1
+msgid "Ok, follow me"
+msgstr ""
+
+#. Id: 13781-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13762-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13781-Escapes.mod:0
+msgid "You're fine. Relax"
+msgstr ""
+
+#. Id: 13781-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13762-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13781-Escapes.mod:1
+msgid "Relax. You'll be fine"
+msgstr ""
+
+#. Id: 13782-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13762-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13782-Escapes.mod:0
+msgid "Whatever you want. I'm splitting"
+msgstr ""
+
+#. Id: 13763-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13763-Escapes.mod:0
+msgid "What now?..."
+msgstr ""
+
+#. Id: 13763-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13763-Escapes.mod:2
+msgid "What do we do now?"
+msgstr ""
+
+#. Id: 13763-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13763-Escapes.mod:3
+msgid "Are we safe here? What happens now? "
+msgstr ""
+
+#. Id: 13783-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13763-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13783-Escapes.mod:0
+msgid "We keep moving. Follow me"
+msgstr ""
+
+#. Id: 13792-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13783-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13792-Escapes.mod:0
+msgid "Right, let's go"
+msgstr ""
+
+#. Id: 13784-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13763-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13784-Escapes.mod:0
+msgid "I'm not your mother. Find your own way"
+msgstr ""
+
+#. Id: 13785-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13763-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13785-Escapes.mod:0
+msgid "We split"
+msgstr ""
+
+#. Id: 13785-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13763-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13785-Escapes.mod:1
+msgid "We go our separate ways"
+msgstr ""
+
+#. Id: 13793-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13785-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13793-Escapes.mod:0
+msgid "O- okay, thanks for your help"
+msgstr ""
+
+#. Id: 13793-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13785-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13793-Escapes.mod:1
+msgid "O- okay, see you around"
+msgstr ""
+
+#. Id: 13793-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13785-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13793-Escapes.mod:2
+msgid "R- right, see you"
+msgstr ""
+
+#. Id: 13765-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13765-Escapes.mod:0
+msgid "/WEMADEIT/! /WOOT/, you 'n me all the way, baby! How about we /TEAMUP/?"
+msgstr ""
+
+#. Id: 13765-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13765-Escapes.mod:1
+msgid "/WEMADEIT/! /WOOT/, yeah baby, you 'n me! How's about we /TEAMUP/?"
+msgstr ""
+
+#. Id: 13765-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 13765-Escapes.mod:2
+msgid "/WEMADEIT/! /WOOT/, yeah baby, that was tense! You 'n me, we gotta /TEAMUP/"
+msgstr ""
+
+#. Id: 13786-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13765-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13786-Escapes.mod:0
+msgid "Yeah baby!"
+msgstr ""
+
+#. Id: 13789-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13786-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13789-Escapes.mod:1
+msgid "We'll be unstoppable"
+msgstr ""
+
+#. Id: 13789-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13786-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 13789-Escapes.mod:2
+msgid "Together we'll rule the /SANDS/"
+msgstr ""
+
+#. Id: 13787-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13765-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped thug
+#: 13787-Escapes.mod:0
+msgid "Sure, let's /TEAMUP/"
+msgstr ""
+

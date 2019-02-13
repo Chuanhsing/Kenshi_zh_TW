@@ -1,0 +1,369 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15033-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15033-Dialogue.mod:0
+msgid "/OI/... headin' out of the city? Need any recruits?"
+msgstr ""
+
+#. Id: 15033-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15033-Dialogue.mod:1
+msgid "/OI/... headin' out of town? Lookin' to /TEAMUP/?"
+msgstr ""
+
+#. Id: 15033-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15033-Dialogue.mod:2
+msgid "/OI/, /OUTLANDER/. Lookin' to /TEAMUP/?"
+msgstr ""
+
+#. Id: 15034-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15034-Dialogue.mod:0
+msgid "Yeah, want to join up?"
+msgstr ""
+
+#. Id: 15034-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15034-Dialogue.mod:1
+msgid "Sure, will you join me?"
+msgstr ""
+
+#. Id: 15034-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15034-Dialogue.mod:2
+msgid "Yeah, want to join me?"
+msgstr ""
+
+#. Id: 15034-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15034-Dialogue.mod:4
+msgid "Sure, I could use a new recruit"
+msgstr ""
+
+#. Id: 15035-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15035-Dialogue.mod:0
+msgid "Yeah, but it'll cost ya. 3000 Cats recruitment fee. Sort me out, /OUTLANDER/ and I'll follow you, no questions asked."
+msgstr ""
+
+#. Id: 15035-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15035-Dialogue.mod:1
+msgid "Sure, but I'll need 3000 Cats first. Help me out and I'll work off my debt for you"
+msgstr ""
+
+#. Id: 15035-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15035-Dialogue.mod:2
+msgid "I would, but I need 3000 Cats before I can leave town... Will you help me out?"
+msgstr ""
+
+#. Id: 15035-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (15034-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15035-Dialogue.mod:3
+msgid "Yeah, but I have a small recruitment fee that needs settlin' first see... I need 3000 Cats, /OUTLANDER/. Can you help me out? I'll owe ya..."
+msgstr ""
+
+#. Id: 15036-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 15036-Dialogue.mod:0
+msgid "That's fine. Here (3000 Cats)"
+msgstr ""
+
+#. Id: 15037-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15037-Dialogue.mod:0
+msgid "You're a lifesaver..."
+msgstr ""
+
+#. Id: 15037-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15037-Dialogue.mod:1
+msgid "Alright! You won't regret it"
+msgstr ""
+
+#. Id: 15037-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15037-Dialogue.mod:2
+msgid "I'll make it up to you"
+msgstr ""
+
+#. Id: 15037-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (15036-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15037-Dialogue.mod:3
+msgid "Alright! I owe ya..."
+msgstr ""
+
+#. Id: 15047-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 15047-Dialogue.mod:0
+msgid "Sure, I can run. I can swing a sword. What more do you want for 3000 Cats?"
+msgstr ""
+
+#. Id: 15047-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 15047-Dialogue.mod:1
+msgid "I have the tenacity of a bemused Shek. So am I hired? "
+msgstr ""
+
+#. Id: 15047-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 15047-Dialogue.mod:2
+msgid "What do you expect for 3000 Cats? I still got all my limbs.. good enough for ya?"
+msgstr ""
+
+#. Id: 15050-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15047-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 15050-Dialogue.mod:0
+msgid "Fine, here (3000 Cats)"
+msgstr ""
+
+#. Id: 15050-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15047-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 15050-Dialogue.mod:1
+msgid "Okay (3000 Cats)"
+msgstr ""
+
+#. Id: 15050-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15047-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 15050-Dialogue.mod:2
+msgid "Alright (3000 Cats)"
+msgstr ""
+
+#. Id: 15048-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15048-Dialogue.mod:0
+msgid "I can do whatever the hell you want me to do. Are you gonna pay the 3000 Cats or what?"
+msgstr ""
+
+#. Id: 15048-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15048-Dialogue.mod:1
+msgid "Not really. But if I did, I'd be makin' a tidier profit out of you than 3000 Cats. So are you gonna help me?"
+msgstr ""
+
+#. Id: 15048-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15048-Dialogue.mod:2
+msgid "Sure, I'm a champion fighter 'round here. Gonna pay me already?"
+msgstr ""
+
+#. Id: 15051-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15051-Dialogue.mod:0
+msgid "Nope, but I learn real fast"
+msgstr ""
+
+#. Id: 15051-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15042-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15051-Dialogue.mod:1
+msgid "Nah, not really"
+msgstr ""
+
+#. Id: 15043-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15043-Dialogue.mod:0
+msgid "You're trying to rip me off"
+msgstr ""
+
+#. Id: 15043-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15043-Dialogue.mod:1
+msgid "No way, sounds like a scam"
+msgstr ""
+
+#. Id: 15043-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15043-Dialogue.mod:3
+msgid "Sounds like a rip-off"
+msgstr ""
+
+#. Id: 15055-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15055-Dialogue.mod:0
+msgid "I ain't trying to rip you off."
+msgstr ""
+
+#. Id: 15055-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15055-Dialogue.mod:1
+msgid "Guess you'll just have to trust me"
+msgstr ""
+
+#. Id: 15055-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15055-Dialogue.mod:2
+msgid "I just need help, that's all there is to it"
+msgstr ""
+
+#. Id: 15055-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (15043-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#: 15055-Dialogue.mod:3
+msgid "I just need some Cats, nothin' more to it than that"
+msgstr ""
+
+#. Id: 15044-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15044-Dialogue.mod:1
+msgid "Nevermind then"
+msgstr ""
+
+#. Id: 15041-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15033-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 15041-Dialogue.mod:0
+msgid "No, I'm not interested"
+msgstr ""
+
+#. Id: 16724-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#: 16724-Dialogue.mod:0
+msgid "Back again eh? Lookin' to /TEAMUP/?"
+msgstr ""
+
+#. Id: 16724-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 800
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#: 16724-Dialogue.mod:1
+msgid "Back already? Guess you changed your mind, eh"
+msgstr ""
+

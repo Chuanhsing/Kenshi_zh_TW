@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 46082-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#. Id: 46091-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by target
+#. -- Condition: My Race(s): Skeleton
+#: 46081-Dialogue.mod:0 46082-Dialogue.mod:1 46091-Dialogue.mod:2
+msgid "/IMWERE/ under attack..."
+msgstr ""
+
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 18128-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 45287-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw released by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#. Id: 53400-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ray spots varmints
+#. Id: 15734-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Interrupted military by someone else
+#. Id: 14764-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 57132-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 64326-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#. Id: 57380-rebirth.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (57377-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 17598-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stranger interrupts Shek
+#. Id: 17622-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. Id: 2381-gamedata.base
+#. -- Index: 6.1
+#. -- Parent line: 5 (2379-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce
+#. Id: 19761-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 20049-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness crime
+#. Id: 17986-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. Id: 16017-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave escapin spotted by civ
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 46081-Dialogue.mod:1 18128-Dialogue.mod:1 45287-Dialogue.mod:0 46076-Dialogue.mod:3 53400-Dialogue.mod:0 15734-Dialogue.mod:1 14764-Dialogue.mod:2 57132-Dialogue.mod:0 64326-Dialogue.mod:0 45843-Dialogue.mod:0 57380-rebirth.mod:1 17598-Dialogue.mod:1 17622-Dialogue.mod:0 2381-gamedata.base:1 19761-Dialogue.mod:3 20049-Dialogue.mod:4 17986-Dialogue.mod:0 10873-Dialogue?(10).mod:3 16017-Dialogue.mod:0
+msgid "!"
+msgstr ""
+
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 46091-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by target
+#. -- Condition: My Race(s): Skeleton
+#: 46081-Dialogue.mod:3 46091-Dialogue.mod:5
+msgid "/IMWERE/ under assault..."
+msgstr ""
+
+#. Id: 46082-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
+#. -- Condition: My Race(s): Skeleton
+#: 46082-Dialogue.mod:0
+msgid "/ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 46092-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#: 46092-Dialogue.mod:0
+msgid "Bandits..."
+msgstr ""
+

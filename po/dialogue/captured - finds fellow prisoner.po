@@ -1,0 +1,174 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:0
+msgid "Quick. Look for a way out."
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:1
+msgid "Are you waiting for invitations? Do something!"
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:2
+msgid "We could die here."
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:3
+msgid "Don't just stand around!"
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:4
+msgid "Break the cage. Free the birds."
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#. Id: 7067-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3298-dialogue-01.mod:5 7067-Dialogue.mod:0
+msgid "Hurry!"
+msgstr ""
+
+#. Id: 3298-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: My Race(s): Greenlander
+#: 3298-dialogue-01.mod:6
+msgid "Hmm... over there...?"
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:0
+msgid "Fucking cannibals. Bloody, fucking cannibals."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:1
+msgid "Know their favorite appetiser? Skin rolls."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:2
+msgid "Not the fingers. Please, not the fingers."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:3
+msgid "Hide your ears, hide your ears, hide your ears."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:4
+msgid "Don't let them see your eyes."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:5
+msgid "I will not scream."
+msgstr ""
+
+#. Id: 3299-dialogue-01.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: captured - finds fellow prisoner
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 3299-dialogue-01.mod:6
+msgid "If they take me first, don't watch."
+msgstr ""
+

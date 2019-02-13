@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64666-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64666-Dialogue.mod:0
+msgid "Thanks for the company adventurer..."
+msgstr ""
+
+#. Id: 64666-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64666-Dialogue.mod:1
+msgid "Well, that's me done for the day..."
+msgstr ""
+
+#. Id: 64667-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64667-Dialogue.mod:0
+msgid "I'm gonna stick around here a while, you go on ahead."
+msgstr ""
+
+#. Id: 64667-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (64666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64667-Dialogue.mod:1
+msgid "I'm gonna rest up a while, go on without me."
+msgstr ""
+
+#. Id: 64667-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (64666-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64667-Dialogue.mod:2
+msgid "Gonna rest my feet a bit, don't wait up."
+msgstr ""
+
+#. Id: 64668-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64668-Dialogue.mod:0
+msgid "Safe huntin', /YOURNAME/."
+msgstr ""
+
+#. Id: 64668-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (64667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#. Id: 11804-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Gate guard good rel
+#: 64668-Dialogue.mod:1 11804-Dialogue?(10).mod:1
+msgid "Safe travels, /YOURNAME/."
+msgstr ""
+
+#. Id: 64668-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (64667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter parts ways
+#: 64668-Dialogue.mod:2
+msgid "Happy lootin', /YOURNAME/."
+msgstr ""
+

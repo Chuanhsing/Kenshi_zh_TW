@@ -1,0 +1,696 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:0
+msgid "Welcome to our village, outsider, may light and dark both bless you. Are you here for recruits? "
+msgstr ""
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:1
+msgid "Blessings, /BROTHER/, you must be visiting from the outlands? Are you looking to /TEAMUP/?"
+msgstr ""
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:2
+msgid "Okran bless, /BROTHER/, welcome to the village. Are you looking for recruits by any chance?"
+msgstr ""
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:3
+msgid "Gods be with you, /BROTHER/. Are you here to /TEAMUP/?"
+msgstr ""
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:4
+msgid "Okran granted me my freedom and I'd like to put it to good use. Are you taking recruits, /BROTHER/? "
+msgstr ""
+
+#. Id: 50291-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 50291-Dialogue.mod:5
+msgid "A visitor from the godless lands? Okran has sent me a golden ticket out of here! Tell me you're hiring, /BROTHER/?"
+msgstr ""
+
+#. Id: 50315-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. Id: 19431-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. Id: 18678-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18677-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 50315-Dialogue.mod:0 19431-Dialogue.mod:0 18678-Dialogue.mod:1
+msgid "I am. How much are you charging?"
+msgstr ""
+
+#. Id: 50315-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50315-Dialogue.mod:1
+msgid "Yes. How much?"
+msgstr ""
+
+#. Id: 50315-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. Id: 19240-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#: 50315-Dialogue.mod:2 19240-Dialogue.mod:5
+msgid "I am. What's your fee?"
+msgstr ""
+
+#. Id: 50315-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50315-Dialogue.mod:3
+msgid "Yeah. What's your price?"
+msgstr ""
+
+#. Id: 50315-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50315-Dialogue.mod:4
+msgid "I am. How much will it cost me?"
+msgstr ""
+
+#. Id: 50317-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#: 50317-Dialogue.mod:0
+msgid "3000 Cats plus my food and board, that's all I ask."
+msgstr ""
+
+#. Id: 50317-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (50315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#: 50317-Dialogue.mod:1
+msgid "I've no skills to offer so just the bare minimum to cover my guild fees, 3000 Cats."
+msgstr ""
+
+#. Id: 50317-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (50315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#: 50317-Dialogue.mod:2
+msgid "3000 Cats is all I'm charging. I've no skills but I can learn whatever you can teach."
+msgstr ""
+
+#. Id: 50317-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (50315-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#: 50317-Dialogue.mod:3
+msgid "Just 3000 Cats. I've not got much to offer for it but what I do have is loyalty and determination."
+msgstr ""
+
+#. Id: 50318-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 1381-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 52538-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47779-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 15104-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 40526-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (40524-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: trade slaves
+#. Id: 53435-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2300, Tag: -1
+#. Id: 51765-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51764-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire pro-slave
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
+#. Id: 64118-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64116-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: stone rat base extortion negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 50318-Dialogue.mod:1 1381-gamedata.base:0 52538-Dialogue.mod:0 15104-Dialogue.mod:1 40526-gamedata.base:1 53435-Dialogue.mod:0 51765-Dialogue.mod:0 64118-Dialogue.mod:0
+msgid "Deal."
+msgstr ""
+
+#. Id: 50318-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50318-Dialogue.mod:3
+msgid "Come with me."
+msgstr ""
+
+#. Id: 50319-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50317-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 48660-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48657-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamp Skeleton for hire 2 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#: 50319-Dialogue.mod:0 48660-Dialogue.mod:0
+msgid "I can't afford that."
+msgstr ""
+
+#. Id: 50307-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50307-Dialogue.mod:0
+msgid "I'm not interested, sorry."
+msgstr ""
+
+#. Id: 50307-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50291-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50307-Dialogue.mod:1
+msgid "Sorry, I'm not interested."
+msgstr ""
+
+#. Id: 50292-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 50292-Dialogue.mod:0
+msgid "Life's a struggle here: food is scarce, tensions are high... Us refugees need to start looking after ourselves. So, here I am looking for work if you're hiring, /OUTLANDER/."
+msgstr ""
+
+#. Id: 50292-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 50292-Dialogue.mod:1
+msgid "It's overcrowded here, there's not enough food or shelter to go round to all the refugees... I need out. Are you looking to /TEAMUP/, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50292-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 50292-Dialogue.mod:2
+msgid "There's not enough room in this village for all of us refugees. We need to start moving on, finding our own way... So here I am, offering my sword for food and shelter if you're hiring, /OUTLANDER/."
+msgstr ""
+
+#. Id: 50292-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 50292-Dialogue.mod:3
+msgid "It doesn't take a genius to work out that there are only so many resources to go round all these villagers. I can't hang around here, we all need to move on with our lives and make way for new refugees. So here I am, I'm looking for work if you're hiring, /OUTLANDER/."
+msgstr ""
+
+#. Id: 50322-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. Id: 19009-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#: 50322-Dialogue.mod:1 19009-Dialogue.mod:0
+msgid "What's your fee?"
+msgstr ""
+
+#. Id: 50323-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50292-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50323-Dialogue.mod:0
+msgid "Depends, have you got any skills?"
+msgstr ""
+
+#. Id: 50297-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#: 50297-Dialogue.mod:0
+msgid "You'll struggle to find many mercs here with skills, /BROTHER/. Refugees from the Holy Nation have no education, no combat training... And if they do happen to have picked up some skills, they'll most likely be working for the Flotsam Ninjas..."
+msgstr ""
+
+#. Id: 50293-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 50293-Dialogue.mod:0
+msgid "The ninjas won't take me on but I want to fight, I want to be something! I'm looking for work if you're willing to hire a newbie, /BROTHER/..."
+msgstr ""
+
+#. Id: 50293-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 50293-Dialogue.mod:1
+msgid "I failed my trial to join the Flotsam Ninjas, can you believe that? But now I've tasted how it feels to fight for a cause, and I want it. Interested in hiring a newbie, outsider?"
+msgstr ""
+
+#. Id: 50293-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 50293-Dialogue.mod:2
+msgid "Now that I finally have my freedom, I want to fight, to prove my worth. But the Flotsam Ninjas won't take me, so here I am in search of a new clan. Are you looking for recruits, outsider?"
+msgstr ""
+
+#. Id: 50293-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 50293-Dialogue.mod:3
+msgid "Failed the Ninja trials so there's nothing left for me to do here now. How about you, are you looking for fresh recruits?"
+msgstr ""
+
+#. Id: 50293-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 50293-Dialogue.mod:4
+msgid "The ninjas won't have me, but that doesn't mean I'm giving up. I want to do what was always denied of me: I want to learn to fight. Are you recruiting, /BROTHER/?"
+msgstr ""
+
+#. Id: 50298-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50298-Dialogue.mod:0
+msgid "Fancy adopting a refugee, /BROTHER/? If you're willing to train me, I'll work for food and shelter alone. Oh, and of course my fee to the Adventurers Guild, 3000 Cats."
+msgstr ""
+
+#. Id: 50298-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50298-Dialogue.mod:1
+msgid "I'm free of the Phoenix' shackles and all I want to do is hit the road and roam free. If you're looking to /TEAMUP/ my fee is 3000 Cats, /BROTHER/."
+msgstr ""
+
+#. Id: 50298-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50298-Dialogue.mod:2
+msgid "How about taking a fresh refugee under your wing, /BROTHER/? 3000 Cats is all it will cost you. "
+msgstr ""
+
+#. Id: 50298-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50298-Dialogue.mod:3
+msgid "Looking to /TEAMUP/, /BROTHER/? Just 3000 Cats is all I need."
+msgstr ""
+
+#. Id: 50298-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 50298-Dialogue.mod:4
+msgid "Made it out of Bad Teeth and now I'm looking to start over. You hiring, /BROTHER/? My fee is 3000 Cats."
+msgstr ""
+
+#. Id: 50324-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 1740-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (8816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 50251-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50206-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 2
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 50324-Dialogue.mod:0 1740-gamedata.base:2 50251-Dialogue.mod:0
+msgid "Sounds good. You're hired."
+msgstr ""
+
+#. Id: 50324-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 50224-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50223-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 4
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50324-Dialogue.mod:1 50224-Dialogue.mod:0
+msgid "Sounds fair. Let's go."
+msgstr ""
+
+#. Id: 50324-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50324-Dialogue.mod:2
+msgid "Deal. Come with me."
+msgstr ""
+
+#. Id: 50326-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50298-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 49974-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49971-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Flotsam recruit 1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 50326-Dialogue.mod:0 49974-Dialogue.mod:0
+msgid "I don't have that much money, sorry."
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:0
+msgid "So long Holy Nation, so long Flotsam, I'm outta here. 3000 Cats if you're hiring, stranger. "
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:1
+msgid "I'm fed up of moody ninjas and gloomy, sour faced refugees. And I'm fed up of Okran too, Okran can suck it. I'm out of here, 3000 Cats if you're looking to /TEAMUP/, stranger. "
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:2
+msgid "I'm hungry, I'm pissed off and I'm getting out of this village. Hire me and it'll only cost you 3000 Cats. You can train me up to do whatever you want, I don't care."
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:3
+msgid "An outsider! Take me away to the land of the godless! I'm free to sin and no god can tell me what to do. How about it, my fee is 3000 Cats."
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:4
+msgid "An outsider from the godless lands, right? Maybe you're my ticket out of here. My fee is only 3000 Cats if you're hiring... "
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:5
+msgid "A godless outsider... how exotic. How bad. I like it, too much clinging to a devil in a god's disguise around here for my liking. You hiring? I charge 3000 Cats."
+msgstr ""
+
+#. Id: 50304-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 50304-Dialogue.mod:6
+msgid "I'm finally free from the Phoenix' rule and I've got a lot of travelling, shouting and pent up anger to unload. My fee is 3000 Cats if you're hiring, stranger."
+msgstr ""
+
+#. Id: 50313-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 50313-Dialogue.mod:0 18216-Recruits?Dialogue.mod:7
+msgid "Did you change your mind?"
+msgstr ""
+
+#. Id: 50313-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 50547-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech hunter recruit 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
+#: 50313-Dialogue.mod:1 18216-Recruits?Dialogue.mod:2 50547-Dialogue.mod:0
+msgid "You're back?"
+msgstr ""
+
+#. Id: 50313-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#: 50313-Dialogue.mod:2
+msgid "It's you again?"
+msgstr ""
+
+#. Id: 50313-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50313-Dialogue.mod:3 50411-Dialogue.mod:0
+msgid "What can I do for you?"
+msgstr ""
+
+#. Id: 50337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 18217-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18216-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 19268-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19261-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50337-Dialogue.mod:0 18217-Recruits?Dialogue.mod:0 19268-Dialogue.mod:0
+msgid "I changed my mind, you're hired."
+msgstr ""
+
+#. Id: 50337-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 50337-Dialogue.mod:1
+msgid "I came back to hire you, let's go."
+msgstr ""
+
+#. Id: 50337-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (50313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 18125-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 50337-Dialogue.mod:2 18125-Recruits?Dialogue.mod:2
+msgid "I want to hire you after all."
+msgstr ""
+
+#. Id: 50338-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me flotsam 700
+#: 50338-Dialogue.mod:0
+msgid "It's nothing, sorry to bother you."
+msgstr ""
+

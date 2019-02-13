@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 62556-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 62556-Dialogue.mod:0
+msgid "Thought I'd never get outta them mines... Would be just my luck if I came upon a town of /FUCKING/ pro slavers after all I've been through. Outta one cooking pot, into another... But to the abyss with it, I'm hungry. Any room to take in an extra pair of hands, /BROTHER/?"
+msgstr ""
+
+#. Id: 62588-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62556-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#. Id: 62559-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62588-Dialogue.mod:0 62559-Dialogue.mod:0
+msgid "Sure. Welcome aboard."
+msgstr ""
+
+#. Id: 62591-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62591-Dialogue.mod:0
+msgid "Appreciate it, /BROTHER/. Rare to find a /MAN2/ with a heart in the outlands."
+msgstr ""
+
+#. Id: 62592-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62591-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62592-Dialogue.mod:0
+msgid "Anything you need, I'm on it."
+msgstr ""
+
+#. Id: 62589-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62556-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#. Id: 62570-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62589-Dialogue.mod:0 62570-Dialogue.mod:0
+msgid "Sorry, place is a little too cramped for newcomers."
+msgstr ""
+
+#. Id: 62590-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62589-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62590-Dialogue.mod:0
+msgid "I see. Guess it's eaten by gutters or reclaimed by the slavers for me then."
+msgstr ""
+
+#. Id: 62594-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62590-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62594-Dialogue.mod:0
+msgid "See you in the abyss."
+msgstr ""
+
+#. Id: 62557-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#: 62557-Dialogue.mod:0
+msgid "Will you have mercy on an Empire fugitive? I can't survive in the outlands like this... Don't turn me in, I beg you. Don't send me back to the mines..."
+msgstr ""
+
+#. Id: 62566-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62566-Dialogue.mod:0
+msgid "It's okay, you can hide out here."
+msgstr ""
+
+#. Id: 62567-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62567-Dialogue.mod:0
+msgid "Bless you, merciful one! I'll remember this, I'll work hard I swear!"
+msgstr ""
+
+#. Id: 62568-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62567-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62568-Dialogue.mod:0
+msgid "Any jobs for me?"
+msgstr ""
+
+#. Id: 62572-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62570-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62572-Dialogue.mod:0
+msgid "I see... Then I guess it's back to the outlands for me. I just hope the wolves don't sniff me out before I get to the next town..."
+msgstr ""
+
+#. Id: 62573-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62572-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62573-Dialogue.mod:0
+msgid "Or the masters don't find me and... *gulp*... torture me..."
+msgstr ""
+
+#. Id: 62571-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62571-Dialogue.mod:0
+msgid "Take in a SLAVE? No thank you."
+msgstr ""
+
+#. Id: 62571-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (62557-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62571-Dialogue.mod:1
+msgid "Not interested. And you're lucky if I don't turn you in to the slavers."
+msgstr ""
+
+#. Id: 62575-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62575-Dialogue.mod:0
+msgid "Please don't send me back... You don't know what it's like... it's hell."
+msgstr ""
+
+#. Id: 62558-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 62558-Dialogue.mod:0
+msgid "Funny story... I was on my way to Stoat for a trade deal when I got jumped by /FUCKING/ escaped slaves! They took all my clothes and supplies and left me with nothing but these rags... Ha... ha ha... What are the chances? So... uh... can I stay here a bit? I can work..."
+msgstr ""
+
+#. Id: 62563-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62563-Dialogue.mod:0
+msgid "Ha, /GREAT/... /GREAT/... Any passing slavers might've gotten the wrong idea, you know?"
+msgstr ""
+
+#. Id: 62564-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62564-Dialogue.mod:0
+msgid "You've saved my hide..."
+msgstr ""
+
+#. Id: 62564-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (62563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62564-Dialogue.mod:1
+msgid "Got any grub? I'm starving..."
+msgstr ""
+
+#. Id: 62564-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (62563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62564-Dialogue.mod:2
+msgid "Got any clean clothes? These rags are a little stale..."
+msgstr ""
+
+#. Id: 62564-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (62563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62564-Dialogue.mod:3
+msgid "I'll pay my way, promise..."
+msgstr ""
+
+#. Id: 62562-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (62558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62562-Dialogue.mod:0
+msgid "Take in a SLAVE? I'm not getting involved in this."
+msgstr ""
+
+#. Id: 62562-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (62558-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Escaped slave approaches base
+#: 62562-Dialogue.mod:1
+msgid "Leave me out of this. You're lucky if I don't turn you in to the slavers."
+msgstr ""
+
+#. Id: 62576-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (62562-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62576-Dialogue.mod:0
+msgid "Easy now, easy... Don't turn me in, I'm going..."
+msgstr ""
+
+#. Id: 62577-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (62576-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped slave approaches base
+#: 62577-Dialogue.mod:0
+msgid "I'm going..."
+msgstr ""
+

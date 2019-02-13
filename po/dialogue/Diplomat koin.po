@@ -1,0 +1,464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 58809-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58809-Dialogue.mod:0
+msgid "As you can see, Lord Tengu is rather... tied up right now... *Sigh*... If you have business here, you can speak with myself, Diplomat Koin."
+msgstr ""
+
+#. Id: 58810-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58810-Dialogue.mod:0
+msgid "I want to make an alliance."
+msgstr ""
+
+#. Id: 58811-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 58811-Dialogue.mod:0
+msgid "[He eyes you up and down and tightens his mouth]... Well, the United Cities is known as the land of opportunity after all... we'll see what we can do, shall we?"
+msgstr ""
+
+#. Id: 58812-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58811-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58812-Dialogue.mod:0
+msgid "There are three ways into the United Cities: Money, influence, or force."
+msgstr ""
+
+#. Id: 58813-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58813-Dialogue.mod:0
+msgid "Tell me about the money option."
+msgstr ""
+
+#. Id: 58816-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58816-Dialogue.mod:0
+msgid "The simplest of the three. A small matter of paying your way through the ranks. Sponsor a farm, gift a noble or donate to the elite samurai guards. We accept all payments in Cats."
+msgstr ""
+
+#. Id: 58825-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<20000, Tag: -1
+#: 58825-Dialogue.mod:0
+msgid "Donate 5000 Cats."
+msgstr ""
+
+#. Id: 58837-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58825-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58837-Dialogue.mod:0
+msgid "[He stifles a snort]... Oh, how generous. Will that be all for today, /SIR/?"
+msgstr ""
+
+#. Id: 59007-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58837-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59007-Dialogue.mod:0
+msgid "This should buy me a stale loaf of bread *snort*..."
+msgstr ""
+
+#. Id: 58826-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>10000, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50000, Tag: -1
+#: 58826-Dialogue.mod:0
+msgid "Donate 10,000 Cats."
+msgstr ""
+
+#. Id: 58838-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58826-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58838-Dialogue.mod:0
+msgid "[He squints and stares at the Cats in his hand]... Emptying your pocket change, I see..."
+msgstr ""
+
+#. Id: 59008-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59008-Dialogue.mod:0
+msgid "Come back with the rest soon, won't you?"
+msgstr ""
+
+#. Id: 58827-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>20000, Tag: -1
+#: 58827-Dialogue.mod:0
+msgid "Donate 20,000 Cats."
+msgstr ""
+
+#. Id: 58846-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58846-Dialogue.mod:0
+msgid "Well, this will buy a lovely hat for Lord Inaba..."
+msgstr ""
+
+#. Id: 59009-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58846-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59009-Dialogue.mod:0
+msgid " I'll pass your donation on."
+msgstr ""
+
+#. Id: 58828-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50000, Tag: -1
+#: 58828-Dialogue.mod:0
+msgid "Donate 50,000 Cats."
+msgstr ""
+
+#. Id: 58847-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58847-Dialogue.mod:0
+msgid "This will certainly help secure the farms against rotten workers..."
+msgstr ""
+
+#. Id: 58829-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
+#: 58829-Dialogue.mod:0
+msgid "Donate 100,000 Cats."
+msgstr ""
+
+#. Id: 58848-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58829-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58848-Dialogue.mod:0
+msgid "The samurai guards will be indebted to you, /SIR/. Your donation will certainly be remembered."
+msgstr ""
+
+#. Id: 59010-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. Id: 58869-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59010-Dialogue.mod:0 58869-Dialogue.mod:0
+msgid "Welcome to the United Cities."
+msgstr ""
+
+#. Id: 59024-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
+#: 59024-Dialogue.mod:0
+msgid "I don't have enough to donate right now."
+msgstr ""
+
+#. Id: 59026-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (59024-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59026-Dialogue.mod:0
+msgid "I know you don't, I can smell the poverty oozing out of your very pores..."
+msgstr ""
+
+#. Id: 59027-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (59026-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 59027-Dialogue.mod:0
+msgid "Well... come back to me when you're worth something, hmm?"
+msgstr ""
+
+#. Id: 58815-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58815-Dialogue.mod:0
+msgid "Tell me about the force option."
+msgstr ""
+
+#. Id: 58820-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58820-Dialogue.mod:0
+msgid "A case of proving your use to us. We have enemies that need... erasing, troublesome pests who are causing quite a stir in the United Cities. Clean up our criminal problem - Tinfinst and his anti slavers - and your power will soon be recognised. Be sure to take any captives to the police station."
+msgstr ""
+
+#. Id: 58850-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58820-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58850-Dialogue.mod:0
+msgid "Got it, thanks."
+msgstr ""
+
+#. Id: 58814-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58814-Dialogue.mod:0
+msgid "Tell me about the influence option."
+msgstr ""
+
+#. Id: 58817-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58814-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58817-Dialogue.mod:0
+msgid "Influence is your value to us as a trading power and military ally. Control of a strategically impressive outpost will be enough to show your worth to us. Hmm... Allow me to check my scout report, we'll see how you fare, shall we?"
+msgstr ""
+
+#. Id: 58821-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58817-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58821-Dialogue.mod:0
+msgid "[He sneers and raises an eyebrow]... I see you currently have no such thing to your name."
+msgstr ""
+
+#. Id: 58864-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58821-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58864-Dialogue.mod:0
+msgid "Nevermind then. I'll be leaving."
+msgstr ""
+
+#. Id: 58822-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58817-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL=1, Tag: -1
+#: 58822-Dialogue.mod:0
+msgid "[He huffs and shakes his head]... Well, I wouldn't call that building site of yours an outpost. Your... shack... is of no use to us I'm afraid."
+msgstr ""
+
+#. Id: 58823-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58817-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL=2, Tag: -1
+#: 58823-Dialogue.mod:0
+msgid "[He holds his chin while he reads the report]... It's not the most impressive of outposts... But it has a use, certainly. Still, you'll need to pay a fee if you wish to join the Empire. 10,000 Cats."
+msgstr ""
+
+#. Id: 58865-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58865-Dialogue.mod:0
+msgid "What do I get in return?"
+msgstr ""
+
+#. Id: 58866-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58865-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58866-Dialogue.mod:0
+msgid "Our safety and protection, what else? Of course, we expect the same from you if the need ever arises. And your outpost will serve as a useful shelter for travelling caravans and military squads..."
+msgstr ""
+
+#. Id: 58867-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58823-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>10000, Tag: -1
+#: 58867-Dialogue.mod:0
+msgid "Deal. (+60 Relations) "
+msgstr ""
+
+#. Id: 58824-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58817-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION=3, Tag: -1
+#: 58824-Dialogue.mod:0
+msgid "[He nods his head while he reads the report]... An impressive city, /YOURNAME/. You'll surely make a useful ally to us. Now, all I need is a 10,000 Cat joining fee and our alliance will be official."
+msgstr ""
+
+#. Id: 58818-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58818-Dialogue.mod:0
+msgid "And how do you propose to go ahead? Will you be making a payment, or a trade agreement...?"
+msgstr ""
+
+#. Id: 58851-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58818-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58851-Dialogue.mod:0
+msgid "I want to make a payment."
+msgstr ""
+
+#. Id: 58855-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58855-Dialogue.mod:0
+msgid "And how much would you like to pay today?"
+msgstr ""
+
+#. Id: 58856-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58855-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58856-Dialogue.mod:0
+msgid "Sorry, I've changed my mind."
+msgstr ""
+
+#. Id: 58852-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58818-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58852-Dialogue.mod:0
+msgid "I have an outpost and I want to offer a trade agreement."
+msgstr ""
+
+#. Id: 58854-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58852-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 58854-Dialogue.mod:0
+msgid "Hmm... Allow me to check my scout report, we'll see how you fair, shall we?"
+msgstr ""
+
+#. Id: 58853-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58818-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Diplomat koin
+#: 58853-Dialogue.mod:0
+msgid "What are my options again?"
+msgstr ""
+
+#. Id: 58882-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#: 58882-Dialogue.mod:0
+msgid "Yes? How can I help?"
+msgstr ""
+
+#. Id: 66204-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 66204-Dialogue.mod:0
+msgid "I suggest you leave quickly, back to the Shek Kingdom where you belong, savage..."
+msgstr ""
+
+#. Id: 66205-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66204-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 66205-Dialogue.mod:0
+msgid "Your people aren't welcome in the United Cities."
+msgstr ""
+
+#. Id: 66206-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 66206-Dialogue.mod:0
+msgid "I suggest you leave quickly, back to your Holy Lands where you belong, Okranite..."
+msgstr ""
+
+#. Id: 66207-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Diplomat koin
+#: 66207-Dialogue.mod:0
+msgid "You've got guts walking into Tengu's palace, Anti-Slaver..."
+msgstr ""
+

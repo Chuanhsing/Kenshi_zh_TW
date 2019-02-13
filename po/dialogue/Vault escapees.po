@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63440-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63440-Dialogue.mod:0
+msgid "Lost 'em..."
+msgstr ""
+
+#. Id: 63441-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63440-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63441-Dialogue.mod:0
+msgid "All thanks to this /FUCKING/ hero right here!"
+msgstr ""
+
+#. Id: 63444-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63444-Dialogue.mod:0
+msgid "It's been a long time..."
+msgstr ""
+
+#. Id: 63445-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63444-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63445-Dialogue.mod:0
+msgid "But maybe... maybe my family will still be at the farm..."
+msgstr ""
+
+#. Id: 63446-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63446-Dialogue.mod:0
+msgid "Thank you, /BROTHER/..."
+msgstr ""
+
+#. Id: 63447-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63447-Dialogue.mod:0
+msgid "I'm forever in your debt."
+msgstr ""
+
+#. Id: 63448-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63448-Dialogue.mod:0
+msgid "That hell hole makes the Hives seem like paradise in comparison..."
+msgstr ""
+
+#. Id: 63449-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#: 63449-Dialogue.mod:0
+msgid "I thought I was doomed to lose my mind in that place."
+msgstr ""
+
+#. Id: 63450-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63449-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vault escapees
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 63450-Dialogue.mod:0
+msgid "... But around you I feel safe."
+msgstr ""
+

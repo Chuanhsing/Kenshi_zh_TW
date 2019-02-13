@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:0
+msgid "Freedom at last"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:1
+msgid "Glorious freedom"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:2
+msgid "Magnificent freedom"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:3
+msgid "Free at last"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:4
+msgid "Freedom"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:5
+msgid "We lost them"
+msgstr ""
+
+#. Id: 17667-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17667-Dialogue.mod:6
+msgid "We are unfollowed"
+msgstr ""
+
+#. Id: 17669-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 17669-Dialogue.mod:0
+msgid "Let us keep moving, kin. We will return for their heads soon."
+msgstr ""
+
+#. Id: 17669-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 17669-Dialogue.mod:1
+msgid "Let us press on, kin. Soon we will avenge our lost honour, I will tear their heads from their necks."
+msgstr ""
+
+#. Id: 17669-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 17669-Dialogue.mod:2
+msgid "Let us move on, kin. We will return for their skins soon."
+msgstr ""
+
+#. Id: 17677-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17677-Dialogue.mod:0
+msgid "Let us keep moving. I will not be put in a coop again."
+msgstr ""
+
+#. Id: 17677-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 17677-Dialogue.mod:1
+msgid "Let us press on. I will not be locked in a coop again."
+msgstr ""
+
+#. Id: 17668-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17668-Dialogue.mod:0
+msgid "Let us keep moving, /BROTHER/. We will return for their heads soon."
+msgstr ""
+
+#. Id: 17668-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17668-Dialogue.mod:1
+msgid "Let us move on, /BROTHER/. We will return for their skins soon."
+msgstr ""
+
+#. Id: 17668-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (17667-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17668-Dialogue.mod:2
+msgid "Let us press on, /BROTHER/. Soon we will avenge our lost honour, I will tear their heads from their necks."
+msgstr ""
+
+#. Id: 17679-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#. Id: 15518-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 17679-Dialogue.mod:2 15518-Dialogue.mod:1
+msgid "Hrm..."
+msgstr ""
+
+#. Id: 17679-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17679-Dialogue.mod:4
+msgid "Wait... you hear that?"
+msgstr ""
+
+#. Id: 17679-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17679-Dialogue.mod:5
+msgid "We lost them..."
+msgstr ""
+
+#. Id: 17679-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped Shek joining
+#: 17679-Dialogue.mod:6
+msgid "They do not follow us anymore..."
+msgstr ""
+

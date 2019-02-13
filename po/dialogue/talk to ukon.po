@@ -1,0 +1,722 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64964-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 64964-Dialogue.mod:0
+msgid "Who the fuck are you? Be wantin' me bounty I 'spect, eh? That's all that ye plump traders, mercenaries and townies are intested in after all, ain't it? Don't matter who's pocket the Cats are in, as long as you can line yer own with 'em..."
+msgstr ""
+
+#. Id: 64966-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64966-Dialogue.mod:0
+msgid "Actually, I want to join you."
+msgstr ""
+
+#. Id: 64971-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64966-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64971-Dialogue.mod:0
+msgid "[He chews an imaginary straw and stares you up and down]"
+msgstr ""
+
+#. Id: 64972-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#. Id: 98539-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 98546-___March 2.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64972-Dialogue.mod:0 98539-Dialogue.mod:0 98546-___March?2.mod:0
+msgid "Don't look desperate enough to join a bunch of dirt covered peasants to me, eh, chub... Move the fuck along. We may be hungry but at least we be free of the Empire here, I won't have no plump townies spoil me ranks..."
+msgstr ""
+
+#. Id: 1533275-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533275-__world?reactions?NE.mod:0
+msgid "You REALLY wanna join us, ye can go prove yourself to us - Go punch a noble or somethin'! Come back if ye survive their wrath, eh?"
+msgstr ""
+
+#. Id: 64973-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533275-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64973-Dialogue.mod:0
+msgid "Now scram! Or take me bounty... if ye can."
+msgstr ""
+
+#. Id: 65007-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#: 65007-Dialogue.mod:0
+msgid "Joinin' us lost farmers' gonna win you some big enemies, /BOY2/..."
+msgstr ""
+
+#. Id: 65008-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65007-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 65008-Dialogue.mod:0
+msgid "I know. And I don't care."
+msgstr ""
+
+#. Id: 64977-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65008-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64977-Dialogue.mod:0
+msgid "We don't turn our backs on the starvin' and the desperate here... Stick around."
+msgstr ""
+
+#. Id: 64980-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64980-Dialogue.mod:0
+msgid "Don't got much but... here."
+msgstr ""
+
+#. Id: 98547-___March 2.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
+#: 98547-___March?2.mod:0
+msgid "Rest those wounds, /BROTHER/."
+msgstr ""
+
+#. Id: 65009-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65007-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 65009-Dialogue.mod:0
+msgid "... On second thought, maybe not."
+msgstr ""
+
+#. Id: 65010-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 65010-Dialogue.mod:0
+msgid "Yeah, thought as much."
+msgstr ""
+
+#. Id: 98535-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. Id: 1533635-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. Id: 1533636-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64971-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#: 98535-Dialogue.mod:0 1533635-Dialogue.mod:0 1533636-Dialogue.mod:0
+msgid "Joinin' us lost farmers' gonna win you some big enemies, /BOY2/... And by the looks of those wounds you already got more than you can handle, eh."
+msgstr ""
+
+#. Id: 64968-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64968-Dialogue.mod:0
+msgid "I'm from the Anti Slavers. Join us."
+msgstr ""
+
+#. Id: 64981-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64981-Dialogue.mod:0
+msgid "Aye, I heard of 'em. So they sent you to rally us, eh? Well what took 'em so long? I've watched my brothers and sisters die over the years... lost me own baby daughter even! And where the fuck were they?!"
+msgstr ""
+
+#. Id: 64983-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64981-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64983-Dialogue.mod:0
+msgid "Unfortunately we can't exist everywhere, and we can't save everyone..."
+msgstr ""
+
+#. Id: 64987-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64983-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64987-Dialogue.mod:0
+msgid "Bullshit! I've murdered traders, robbed travellers just so save me own skin, just to save me brothers' skins! And where was that bastard Tinfist then!?"
+msgstr ""
+
+#. Id: 64988-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64988-Dialogue.mod:0
+msgid "[He hangs his head and stifles a choke]"
+msgstr ""
+
+#. Id: 64989-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64988-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64989-Dialogue.mod:0
+msgid "Emotions got the best of me, /BROTHER/. Beggars can't be choosers in the sands."
+msgstr ""
+
+#. Id: 64990-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64990-Dialogue.mod:0
+msgid "Aye. We'll join the Anti Slavers."
+msgstr ""
+
+#. Id: 64984-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64981-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64984-Dialogue.mod:0
+msgid "I'm sorry for your loss..."
+msgstr ""
+
+#. Id: 64991-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64984-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64991-Dialogue.mod:0
+msgid "Sorry? SORRY? I've murdered traders, robbed travellers just so save me own skin, just to save me brothers' skins! And where was that bastard Tinfist then!?"
+msgstr ""
+
+#. Id: 64985-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64981-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64985-Dialogue.mod:0
+msgid "You've lost allies as we have. And you've saved them as we have."
+msgstr ""
+
+#. Id: 64986-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64981-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64986-Dialogue.mod:0
+msgid "Watch your mouth, farmer."
+msgstr ""
+
+#. Id: 64992-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64986-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64992-Dialogue.mod:0
+msgid "Or what, Anti Slaver?! The safety of me men and me women comes above all, I ain't riskin' their lives by proddin' a sleepin' leviathyn! Go rally your allies elsewhere..."
+msgstr ""
+
+#. Id: 64969-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64969-Dialogue.mod:0
+msgid "Your crimes can't be justified. Sword up, bandit."
+msgstr ""
+
+#. Id: 64974-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64969-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64974-Dialogue.mod:0
+msgid "Think us weak? Our ruin's only made us strong!"
+msgstr ""
+
+#. Id: 64975-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64974-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64975-Dialogue.mod:0
+msgid "Take me bounty... if ye can!"
+msgstr ""
+
+#. Id: 64970-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 64970-Dialogue.mod:0
+msgid "Forget it, I shouldn't have come here."
+msgstr ""
+
+#. Id: 64976-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64970-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 64976-Dialogue.mod:0
+msgid "Then scram! Before ye become our next victim..."
+msgstr ""
+
+#. Id: 64982-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 64982-Dialogue.mod:0
+msgid "Who the fuck are you? Be wantin' me bounty I 'spect, eh? That's all that ye traders, mercenaries and townies are intested in after all, ain't it? Don't matter who's pocket the Cats are in, as long as you can line yer own with 'em..."
+msgstr ""
+
+#. Id: 65016-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65016-Dialogue.mod:0
+msgid "Well if it ain't, /YOURNAME/. Don't think I ain't heard o' ye before, /BROTHER/, stirring the gutter nest of the United Cities. Welcome to the home of the rebel farmers, pleasure to have ye."
+msgstr ""
+
+#. Id: 65019-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 65019-Dialogue.mod:0
+msgid "Make yourself at home. An enemy of the Empire is a friend of the rebels."
+msgstr ""
+
+#. Id: 65018-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 65018-Dialogue.mod:0
+msgid "An Anti-Slaver knocking at our shanty door, eh? Well, ain't that a first..."
+msgstr ""
+
+#. Id: 65020-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65018-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 65020-Dialogue.mod:0
+msgid "Join us in the fight against the Empire."
+msgstr ""
+
+#. Id: 65021-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 65021-Dialogue.mod:0
+msgid "So they sent you to rally us, eh? Well what took 'em so long? I've watched my brothers and sisters die over the years... lost me own baby daughter even! And where the fuck were they?!"
+msgstr ""
+
+#. Id: 65024-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65023-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 65024-Dialogue.mod:0
+msgid "Never helped us before. Why would ya now."
+msgstr ""
+
+#. Id: 1533156-__world reactions NE.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 1533156-__world?reactions?NE.mod:0
+msgid "Aye?"
+msgstr ""
+
+#. Id: 1533168-__world reactions NE.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533156-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533168-__world?reactions?NE.mod:0
+msgid "How do you plan to fight the United Cities?"
+msgstr ""
+
+#. Id: 1533158-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533168-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533158-__world?reactions?NE.mod:0
+msgid "My rebels ain't a match for the samurai guards, but the peasants, they can help us... they've been oppressed long enough. They're scared, the nobles have got 'em under control with false security and fear. But if we can shake up the hierarchy we can get 'em on our side."
+msgstr ""
+
+#. Id: 1533159-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533158-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533159-__world?reactions?NE.mod:0
+msgid "The nobles are the ones pullin' the strings, ordering the executions, rulin' the nation with fear. Take them out of the picture and we'll have desert wide riots, we just gotta whittle 'em down one by one. Lord Yoshinaga is our closest neighbour, Sho-Battai oughta start fallin' to pieces with him outta the way."
+msgstr ""
+
+#. Id: 1533163-__world reactions NE.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1533159-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533163-__world?reactions?NE.mod:0
+msgid "Sanda in Bark and Inaba in Stoat help hold the Great Desert together. Then you got Tsugi holding the border south at Stormgap. Tengu ain't nothin' but a useless puppet on his own... we've gotta take down the whole set of 'em to truly collapse this empire."
+msgstr ""
+
+#. Id: 1533164-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533163-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533164-__world?reactions?NE.mod:0
+msgid "Leave it to me."
+msgstr ""
+
+#. Id: 1533167-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533164-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533167-__world?reactions?NE.mod:0
+msgid "A clean assassination is our best bet. We ain't trained ninjas an' we've lost a lotta brave heros attempting it. Maybe you're a better assassin than they were..."
+msgstr ""
+
+#. Id: 1533174-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533167-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533174-__world?reactions?NE.mod:0
+msgid "But if at any point you do need more muscle, talk to my rebels. I don't have a lot of 'em to spare, but together we've got a chance..."
+msgstr ""
+
+#. Id: 1533177-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533174-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533177-__world?reactions?NE.mod:0
+msgid " We're ready when you are, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533165-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533163-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533165-__world?reactions?NE.mod:0
+msgid "With the anti-slavers on our side we'll be unstoppable."
+msgstr ""
+
+#. Id: 1533173-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533165-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. Id: 1533175-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533166-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533173-__world?reactions?NE.mod:0 1533175-__world?reactions?NE.mod:0
+msgid "Aye..."
+msgstr ""
+
+#. Id: 1533178-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533173-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533178-__world?reactions?NE.mod:0
+msgid "An anti-slave ninja like you oughta be a better assassin then us rebels. I've lost a lotta brave heros who've attempted it, I hope you're a better assassin than they were..."
+msgstr ""
+
+#. Id: 1533166-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533163-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533166-__world?reactions?NE.mod:0
+msgid "That's a lot of nobles and samurai to take on..."
+msgstr ""
+
+#. Id: 1533181-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533175-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533181-__world?reactions?NE.mod:0
+msgid "Good luck, Simion."
+msgstr ""
+
+#. Id: 1533179-__world reactions NE.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1533163-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533179-__world?reactions?NE.mod:0
+msgid "We could really use the anti-slavers on our side."
+msgstr ""
+
+#. Id: 1533180-__world reactions NE.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533179-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533180-__world?reactions?NE.mod:0
+msgid "Aye... We're born farmers, not fighters, they'd prove far more useful for the assassinations. But they're too busy terrorizin' slave caravans to deal with Tengu it seems. I've watched my brothers and sisters die over the years... lost me own baby daughter even. Anti-slavers ain't ever helped any of us farmers..."
+msgstr ""
+
+#. Id: 1533183-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533180-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533183-__world?reactions?NE.mod:0
+msgid "Where are they based?"
+msgstr ""
+
+#. Id: 1533184-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533183-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533184-__world?reactions?NE.mod:0
+msgid "Nobody really knows. They're thought to be hiding south of Brink towards the Forbidden Lands."
+msgstr ""
+
+#. Id: 1533185-__world reactions NE.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533184-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533185-__world?reactions?NE.mod:0
+msgid "I'll talk to them."
+msgstr ""
+
+#. Id: 1533188-__world reactions NE.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1533185-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. Id: 1533011-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1533010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam
+#: 1533188-__world?reactions?NE.mod:0 1533011-Dialogue.mod:0
+msgid "Good luck, /YOURNAME/."
+msgstr ""
+
+#. Id: 1533187-__world reactions NE.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533184-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533187-__world?reactions?NE.mod:0
+msgid "Perhaps our forces will be enough without their help."
+msgstr ""
+
+#. Id: 1533189-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533180-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533189-__world?reactions?NE.mod:0
+msgid "They can only do so much..."
+msgstr ""
+
+#. Id: 1533192-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533189-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533192-__world?reactions?NE.mod:0
+msgid "They can do more than I can. But I don't see 'em fightin'."
+msgstr ""
+
+#. Id: 1533190-__world reactions NE.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1533180-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533190-__world?reactions?NE.mod:0
+msgid "I'm sorry for your loss."
+msgstr ""
+
+#. Id: 1533191-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533190-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533191-__world?reactions?NE.mod:0
+msgid "[He looks away]"
+msgstr ""
+
+#. Id: 1533193-__world reactions NE.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1533191-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533193-__world?reactions?NE.mod:0
+msgid "Leave the nobles to me."
+msgstr ""
+
+#. Id: 1533195-__world reactions NE.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533158-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533195-__world?reactions?NE.mod:0
+msgid "The nobles are the ones pullin' the strings, ordering the executions, rulin' the nation with fear. Take them out of the picture and we'll have desert wide riots, we just gotta whittle 'em down one by one."
+msgstr ""
+
+#. Id: 1533169-__world reactions NE.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533156-__world reactions NE.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: talk to ukon
+#: 1533169-__world?reactions?NE.mod:0
+msgid "Why are you risking your life to fight Tengu?"
+msgstr ""
+
+#. Id: 1533170-__world reactions NE.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533169-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1533170-__world?reactions?NE.mod:0
+msgid "Same reason everybody else here is fighting the Empire. Because we've all lost something... or someone special. We've all been used up, squeezed dry of all our worth and cast out. But no more."
+msgstr ""
+
+#. Id: 1534175-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 1534176-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 1534178-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 1534179-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 1534180-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. Id: 1534177-__Fixes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#: 1534175-__Fixes.mod:0 1534176-__Fixes.mod:0 1534178-__Fixes.mod:0 1534179-__Fixes.mod:0 1534180-__Fixes.mod:0 1534177-__Fixes.mod:0
+msgid "No shit! Look at this 'un draggin' in half-beat nobles, stirring the gutter nest of the United Cities! Welcome to the home of the rebel farmers, /BROTHER/, make yourself at home. An enemy of the Empire is always a friend of the rebels."
+msgstr ""
+
+#. Id: 1534181-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534175-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1534181-__Fixes.mod:0
+msgid "Now get rid of that noble will ye? Don't wanna be attractin' any unwanted attention of generals and assassins out my way now, ya hear?"
+msgstr ""
+
+#. Id: 1534182-__Fixes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1534181-__Fixes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#: 1534182-__Fixes.mod:0
+msgid "... Dispose of 'em... don't much care how."
+msgstr ""
+

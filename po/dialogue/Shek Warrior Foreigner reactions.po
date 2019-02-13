@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11300-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11300-Dialogue?(10).mod:0
+msgid "/FLATSKIN/, this city isn't for you."
+msgstr ""
+
+#. Id: 11300-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11300-Dialogue?(10).mod:1
+msgid "You can't handle this city, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 11300-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11300-Dialogue?(10).mod:2
+msgid "A /FLATSKIN/ won't survive in the Shek Kingdom."
+msgstr ""
+
+#. Id: 43075-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11300-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 43075-Dialogue.mod:0
+msgid "Run along, /PALTRY/ /RUNT/. Before you get trampled on."
+msgstr ""
+
+#. Id: 43075-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11300-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 43075-Dialogue.mod:1
+msgid "Run along, /RUNT/. Come back when you've found a /SPINE/."
+msgstr ""
+
+#. Id: 11525-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11525-Dialogue?(10).mod:0
+msgid "What's this? A /FLATSKIN/ that fights?"
+msgstr ""
+
+#. Id: 11525-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11525-Dialogue?(10).mod:1
+msgid "Hrm. Think yourself a warrior, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 11526-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11525-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 11526-Dialogue?(10).mod:0
+msgid "Or is that sword just for decoration?"
+msgstr ""
+
+#. Id: 11526-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11525-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 11526-Dialogue?(10).mod:1
+msgid "Or a clown with a sword?"
+msgstr ""
+
+#. Id: 11526-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11525-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 11526-Dialogue?(10).mod:2
+msgid "Or a buffoon with a toy sword? "
+msgstr ""
+
+#. Id: 47941-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11526-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47941-Dialogue.mod:0
+msgid "Humorous."
+msgstr ""
+
+#. Id: 47941-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11526-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47941-Dialogue.mod:1
+msgid "Hm, amusing."
+msgstr ""
+
+#. Id: 47942-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 47942-Dialogue.mod:0
+msgid "The Shek will crush every last /FLATSKIN/ nest in this world! The greedy, fat cowards repulse me."
+msgstr ""
+
+#. Id: 47943-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47942-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47943-Dialogue.mod:0
+msgid "Raise your sword. Prove your worth if you are to set foot in my kingdom, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 47945-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47944-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47945-Dialogue.mod:0
+msgid "Composure, sister... A leviathyn should not concern itself with the trampling of a mouse. "
+msgstr ""
+
+#. Id: 47945-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47944-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47945-Dialogue.mod:1
+msgid "Composure, sister... A true warrior does not pick fights with one who cannot win."
+msgstr ""
+
+#. Id: 47948-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47948-Dialogue.mod:0
+msgid "Tch. Truth..."
+msgstr ""
+
+#. Id: 47974-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 47974-Dialogue.mod:0
+msgid "I can't stand this! What are we waiting for? We're warriors, not peasants..."
+msgstr ""
+
+#. Id: 47975-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47975-Dialogue.mod:0
+msgid "The Empire cowards, the Okran dogs... they laugh at us! We need blood! We need battle!"
+msgstr ""
+
+#. Id: 47977-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47975-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47977-Dialogue.mod:0
+msgid "Patience. The Stone Golem will lead us to glory..."
+msgstr ""
+
+#. Id: 47978-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47977-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 47978-Dialogue.mod:0
+msgid "Aimless battle has won us no victory so far. Faith."
+msgstr ""
+
+#. Id: 55963-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 55963-Dialogue.mod:0
+msgid "Eat well, kin. We have a long day of training ahead."
+msgstr ""
+
+#. Id: 55963-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 55963-Dialogue.mod:1
+msgid "Easy, kin. Tomorrow we have a long day ahead of us."
+msgstr ""
+
+#. Id: 55963-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 55963-Dialogue.mod:2
+msgid "Time's are too quiet. My blade rusts and my bones seize..."
+msgstr ""
+
+#. Id: 55966-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55965-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 55966-Dialogue.mod:0
+msgid "Mmh. "
+msgstr ""
+
+#. Id: 55968-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 55968-Dialogue.mod:0
+msgid "Slander! All this talk of the sabre wielding Arc... Hmph."
+msgstr ""
+
+#. Id: 55969-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 55969-Dialogue.mod:0
+msgid "The Stone Golem would squash Arc like the bug he is..."
+msgstr ""
+
+#. Id: 55971-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55970-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 55971-Dialogue.mod:0
+msgid "To the Stone Golem!"
+msgstr ""
+
+#. Id: 55973-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55972-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 55973-Dialogue.mod:0
+msgid "To Kral!"
+msgstr ""
+
+#. Id: 55974-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 55974-Dialogue.mod:0
+msgid "To the Shikkenom! *inaudible sounds* RARGGGH!"
+msgstr ""
+
+#. Id: 98229-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#. -- Condition: Who: ME, Condition: IS_INDOORS=1, Tag: -1
+#: 98229-Dialogue.mod:0
+msgid "New sword, kin?"
+msgstr ""
+
+#. Id: 98232-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98231-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98232-Dialogue.mod:0
+msgid "Who was it from? It was a good fight I hope."
+msgstr ""
+
+#. Id: 98233-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98232-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98233-Dialogue.mod:0
+msgid "Hmph. Not good enough."
+msgstr ""
+
+#. Id: 98234-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98234-Dialogue.mod:0
+msgid "Looks small, kin. It's no sword of the Gurgler King that's for sure."
+msgstr ""
+
+#. Id: 98235-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98234-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98235-Dialogue.mod:0
+msgid "Who is this Gurgler King you speak of?"
+msgstr ""
+
+#. Id: 98236-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98235-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98236-Dialogue.mod:0
+msgid "A giant who possesses the greatest sword of all..."
+msgstr ""
+
+#. Id: 98243-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98236-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98243-Dialogue.mod:0
+msgid "The heaviest of weapons crafted by the ancient Skeleton swordsmen..."
+msgstr ""
+
+#. Id: 98238-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98243-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98238-Dialogue.mod:0
+msgid "... Gurgler King you say, hm..."
+msgstr ""
+
+#. Id: 98239-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98238-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98239-Dialogue.mod:0
+msgid "Idiocy I say! A buffoon that gurgles cannot possibly own such a sword!"
+msgstr ""
+
+#. Id: 98240-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (98239-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98240-Dialogue.mod:0
+msgid "I do not care if a warrior barks, gurgles or squawks..."
+msgstr ""
+
+#. Id: 98241-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (98240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98241-Dialogue.mod:0
+msgid "If they wield an Edgewalker, they are a worthy opponent for me."
+msgstr ""
+
+#. Id: 98242-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (98241-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98242-Dialogue.mod:0
+msgid "Then go seek your gurgling man..."
+msgstr ""
+
+#. Id: 98245-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (98242-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Shek Warrior Foreigner reactions
+#: 98245-Dialogue.mod:0
+msgid "I'll stick to the silent warriors of the Stenn."
+msgstr ""
+

@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47082-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Scorchlander
+#: 47082-Dialogue.mod:0
+msgid "Vain. The hivers may seem harmless enough but don't let that fool you... "
+msgstr ""
+
+#. Id: 47083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47083-Dialogue.mod:0
+msgid "Those guys are plain sneaky."
+msgstr ""
+
+#. Id: 47085-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47085-Dialogue.mod:0
+msgid "Hey, what about me?"
+msgstr ""
+
+#. Id: 47085-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47084-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47085-Dialogue.mod:1
+msgid "Ouch, that hurts, you know..."
+msgstr ""
+
+#. Id: 47086-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47085-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47086-Dialogue.mod:0
+msgid "Oh, don't overreact. You know I don't mean you, no-hive. Heh."
+msgstr ""
+
+#. Id: 47086-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (47085-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47086-Dialogue.mod:1
+msgid "Oh don't get soft on me. You're not one of them anymore, eh no-hive? "
+msgstr ""
+
+#. Id: 47087-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Soldier Drone or Hive Worker Drone or Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince
+#: 47087-Dialogue.mod:0
+msgid "We're close to a hive here... I hate nothing more than visiting the hives..."
+msgstr ""
+
+#. Id: 47184-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47183-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 47184-Dialogue.mod:0
+msgid "But it's home, isn't it? You don't miss it? "
+msgstr ""
+
+#. Id: 47088-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47088-Dialogue.mod:0
+msgid "... Seeing the mindless drones at work brings back bad memories."
+msgstr ""
+
+#. Id: 47088-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (47184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47088-Dialogue.mod:1
+msgid "... It's a reminder of the braindead hell before my awakening... Nothing more."
+msgstr ""
+
+#. Id: 47089-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: My Race(s): Deadhive Prince or Deadhive Soldier or Deadhive Worker or Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 47089-Dialogue.mod:0
+msgid "Hive territory. It's been a while since I left..."
+msgstr ""
+
+#. Id: 47091-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47091-Dialogue.mod:0
+msgid "In the Hive, nothing matters, nothing exists, nothing is desired..."
+msgstr ""
+
+#. Id: 47092-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47092-Dialogue.mod:0
+msgid "Nothing but loyalty for the Queen..."
+msgstr ""
+
+#. Id: 47090-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 47090-Dialogue.mod:0
+msgid "... I don't look forward to my welcome home."
+msgstr ""
+
+#. Id: 64944-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Scorchlander or Shek
+#: 64944-Dialogue.mod:0
+msgid "So, uh, you know we gotta get one of them lanterns while we're in Vain..."
+msgstr ""
+
+#. Id: 64947-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64948-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64947-Dialogue.mod:0
+msgid "Lanterns? What lanterns?"
+msgstr ""
+
+#. Id: 64949-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64947-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64949-Dialogue.mod:0
+msgid "You know, them Lanterns of Raidians. It would be like going to the swamps and not buying drugs or fish..."
+msgstr ""
+
+#. Id: 64950-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64950-Dialogue.mod:0
+msgid "You gotta buy a lantern."
+msgstr ""
+
+#. Id: 64953-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64951-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 64953-Dialogue.mod:0
+msgid "*slap*"
+msgstr ""
+
+#. Id: 64954-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (64953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64954-Dialogue.mod:0
+msgid "Why are you slapping your head? Are there flies? I hate flies!"
+msgstr ""
+
+#. Id: 64957-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64956-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome vain
+#. Id: 65095-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64957-Dialogue.mod:0 65095-Dialogue.mod:0
+msgid "Just don't. Don't even go there..."
+msgstr ""
+
+#. Id: 64958-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (64957-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: biome vain
+#. Id: 65096-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64958-Dialogue.mod:0 65096-Dialogue.mod:0
+msgid "Don't even get me started on those fucking Lanterns of Radiance."
+msgstr ""
+
+#. Id: 64959-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (64954-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64959-Dialogue.mod:0
+msgid "More like the buzzing of memories from an old life, am I right?"
+msgstr ""
+
+#. Id: 64960-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (64959-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 64960-Dialogue.mod:0
+msgid "I... may have sold a few lanterns. Don't judge me."
+msgstr ""
+
+#. Id: 64952-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64950-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 64952-Dialogue.mod:0
+msgid "... You mean Lantern of Radiance."
+msgstr ""
+
+#. Id: 64955-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (64952-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 64955-Dialogue.mod:0
+msgid "Yeah yeah yeah, Lantern Of Rodents."
+msgstr ""
+
+#. Id: 65089-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65089-Dialogue.mod:0
+msgid "... Great. Vain."
+msgstr ""
+
+#. Id: 65090-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65089-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65090-Dialogue.mod:0
+msgid "I wouldn't buy a loaf of bread from a bug merchant if I was starving to death."
+msgstr ""
+
+#. Id: 65091-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65091-Dialogue.mod:0
+msgid "Scamming bastards."
+msgstr ""
+
+#. Id: 65092-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65092-Dialogue.mod:0
+msgid "... Scamming adorable bastards."
+msgstr ""
+
+#. Id: 65093-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65093-Dialogue.mod:0
+msgid "Yeah but we gotta buy one of those lanterns while we're here though. It goes without saying."
+msgstr ""
+
+#. Id: 65099-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65097-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65099-Dialogue.mod:0
+msgid "I'm right here, you know."
+msgstr ""
+
+#. Id: 65100-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65099-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome vain
+#: 65100-Dialogue.mod:0
+msgid "Don't act so innocent. You got a lot of repenting to do, I bet."
+msgstr ""
+
+#. Id: 65101-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: biome vain
+#: 65101-Dialogue.mod:0
+msgid "Well your kind aren't so perfect either!"
+msgstr ""
+
+#. Id: 65103-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65102-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 65103-Dialogue.mod:0
+msgid "Knock it off. You both breath, you both eat. To me, you're one and the same."
+msgstr ""
+
+#. Id: 65104-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65103-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: biome vain
+#: 65104-Dialogue.mod:0
+msgid "The same imperfect, defective clones."
+msgstr ""
+

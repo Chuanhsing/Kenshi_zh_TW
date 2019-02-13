@@ -1,0 +1,701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57328-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 57328-Dialogue.mod:0
+msgid "UG?... [They prod you with a loud clunk]... GRUGHHHHH!"
+msgstr ""
+
+#. Id: 57329-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Skeleton
+#: 57329-Dialogue.mod:0
+msgid "You want meat? Here you go, chew on this... (Stick your arm out)"
+msgstr ""
+
+#. Id: 57329-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Skeleton
+#: 57329-Dialogue.mod:1
+msgid "You want meat? Have a bite... (Stick your arm out)"
+msgstr ""
+
+#. Id: 57329-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Skeleton
+#: 57329-Dialogue.mod:2
+msgid "So its meat you want? Then let me treat you to a buffet... (Hold your arm out)"
+msgstr ""
+
+#. Id: 57329-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Skeleton
+#: 57329-Dialogue.mod:3
+msgid "You want meat? Then take me, but spare the others."
+msgstr ""
+
+#. Id: 57331-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57329-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57331-Dialogue.mod:0
+msgid "[They wrinkle their nose and continue to prod you with more ferocity]"
+msgstr ""
+
+#. Id: 57332-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57331-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57332-Dialogue.mod:0
+msgid "URGHGHGH! URG GUR!... GUUUUH!"
+msgstr ""
+
+#. Id: 57333-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57333-Dialogue.mod:0
+msgid "Well, you'll only find skeleton meat here I'm afraid..."
+msgstr ""
+
+#. Id: 57333-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57333-Dialogue.mod:1
+msgid "I take it you don't like skeleton meat then..."
+msgstr ""
+
+#. Id: 57333-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57333-Dialogue.mod:2
+msgid "There is no meat for you here. Just skeletons."
+msgstr ""
+
+#. Id: 57337-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57337-Dialogue.mod:0
+msgid "[Long awkward silence]"
+msgstr ""
+
+#. Id: 57338-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57338-Dialogue.mod:0
+msgid "(Remain motionless)"
+msgstr ""
+
+#. Id: 57339-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57338-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57339-Dialogue.mod:0
+msgid "[They lean in and sniff at you]"
+msgstr ""
+
+#. Id: 57340-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57339-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57340-Dialogue.mod:0
+msgid "GUHHHH!.... URHH.. RUHH!"
+msgstr ""
+
+#. Id: 57377-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57377-Dialogue.mod:0
+msgid "So I guess we're done here..."
+msgstr ""
+
+#. Id: 57378-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57337-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57378-Dialogue.mod:0
+msgid "Well. This is awkward."
+msgstr ""
+
+#. Id: 57379-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57333-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 57379-Dialogue.mod:0
+msgid "URGHGH! [They point behind you and gnash their teeth]"
+msgstr ""
+
+#. Id: 58660-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57379-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. Id: 57374-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57370-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58660-Dialogue.mod:0 57374-Dialogue.mod:0
+msgid "URGHGH... GUUUR!"
+msgstr ""
+
+#. Id: 58661-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58660-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58661-Dialogue.mod:0
+msgid "... Fine. If I hand over my comrade, will you leave?"
+msgstr ""
+
+#. Id: 58665-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58661-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58665-Dialogue.mod:0
+msgid "[They nod vigorously]"
+msgstr ""
+
+#. Id: 58666-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (58665-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58666-Dialogue.mod:0
+msgid "URG!"
+msgstr ""
+
+#. Id: 58662-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58660-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58662-Dialogue.mod:0
+msgid "Think about this. You really want to start a war over one scrawny human?"
+msgstr ""
+
+#. Id: 58663-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58662-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58663-Dialogue.mod:0
+msgid "[They sniff at the air and scratch at their scalp]"
+msgstr ""
+
+#. Id: 58669-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (58668-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58669-Dialogue.mod:0
+msgid "URG..."
+msgstr ""
+
+#. Id: 58671-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58660-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58671-Dialogue.mod:0
+msgid "I DON'T SPEAK URG! WHAT DO YOU WANT?"
+msgstr ""
+
+#. Id: 58672-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (58660-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. Id: 57366-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57365-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58672-Dialogue.mod:0 57366-Dialogue.mod:0
+msgid "I'll work for you. I'll find you all the food you can possibly eat."
+msgstr ""
+
+#. Id: 58673-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (58672-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58673-Dialogue.mod:0
+msgid "[They sniff at the air and contemplate]"
+msgstr ""
+
+#. Id: 58674-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (58673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58674-Dialogue.mod:0
+msgid "URG! GURRRRR GUGUGUGUG!"
+msgstr ""
+
+#. Id: 57335-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57335-Dialogue.mod:0
+msgid "Very well said, /SIR/, I absolutely agree."
+msgstr ""
+
+#. Id: 57335-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57335-Dialogue.mod:1
+msgid "Uhuh. URGHGHGH indeed."
+msgstr ""
+
+#. Id: 57336-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57332-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57336-Dialogue.mod:0
+msgid "Would you quit prodding me already?"
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:0
+msgid "Touch me again and you die, savage."
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:1
+msgid "Take your hands off'a me, savage!"
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:2
+msgid "You get one warning: Leave my town or I harpoon you."
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:3
+msgid "(Show your weapon) Call that a sword? Leave or die, cannibal."
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:4
+msgid "(Shout 'URG's right back in their face)"
+msgstr ""
+
+#. Id: 57330-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57330-Dialogue.mod:5
+msgid "(Prod them back with double ferocity)"
+msgstr ""
+
+#. Id: 57342-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. Id: 57388-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 57342-Dialogue.mod:0 57388-Dialogue.mod:0
+msgid "[The group starts to pound their chests in unison. They snarl and gnash their teeth]"
+msgstr ""
+
+#. Id: 57385-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
+#: 57385-Dialogue.mod:0
+msgid "[They furrow their eyebrows and glance behind you]"
+msgstr ""
+
+#. Id: 57343-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57328-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57343-Dialogue.mod:0
+msgid "Let's settle this: What do you want? Money?"
+msgstr ""
+
+#. Id: 57358-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57358-Dialogue.mod:0
+msgid "[They bare their teeth and chomp at the air]"
+msgstr ""
+
+#. Id: 57359-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57358-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57359-Dialogue.mod:0
+msgid "With 10,000 Cats you can buy a lot of slaves, you know..."
+msgstr ""
+
+#. Id: 57360-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57358-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57360-Dialogue.mod:0
+msgid "A few thousand Cats will get you some nice new rags..."
+msgstr ""
+
+#. Id: 57361-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57358-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57361-Dialogue.mod:0
+msgid "Or... you know... the body has other hungers..."
+msgstr ""
+
+#. Id: 57362-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57358-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57362-Dialogue.mod:0
+msgid "I guess you don't want money then..."
+msgstr ""
+
+#. Id: 57363-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57362-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57363-Dialogue.mod:0
+msgid "GUGH! [They slam their cleaver into the dirt at their feet]"
+msgstr ""
+
+#. Id: 57364-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57364-Dialogue.mod:0
+msgid "Then I'll bring you people, I'll bring you food, okay?"
+msgstr ""
+
+#. Id: 57368-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57368-Dialogue.mod:0
+msgid "[They pick their cleaver up and puff their chest]..."
+msgstr ""
+
+#. Id: 57369-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (57368-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57369-Dialogue.mod:0
+msgid "[They nod sternly] MMM."
+msgstr ""
+
+#. Id: 57372-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (57369-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57372-Dialogue.mod:0
+msgid "GRUH..."
+msgstr ""
+
+#. Id: 57370-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#. Id: 57375-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (57364-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Hive Worker Drone or Scorchlander or Shek
+#: 57370-Dialogue.mod:0 57375-Dialogue.mod:0
+msgid "[They lick their lips and rub their cleaver over your skin]"
+msgstr ""
+
+#. Id: 57367-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57367-Dialogue.mod:0
+msgid "Then I guess this means war."
+msgstr ""
+
+#. Id: 57367-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (57363-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57367-Dialogue.mod:1
+msgid "Then you leave me no choice (Draw weapon)"
+msgstr ""
+
+#. Id: 57344-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 57344-Dialogue.mod:0
+msgid "[They prod at your hard skin and snort. Their beady eyes narrow]"
+msgstr ""
+
+#. Id: 57346-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57346-Dialogue.mod:0
+msgid "URGHGH! [They jab at you some more and point towards a hill in the distance]... URGHGH GUUUR! GUUUUH!"
+msgstr ""
+
+#. Id: 57349-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Hive Soldier Drone or Leviathan or Scorchlander or Shek
+#: 57349-Dialogue.mod:0
+msgid "If I go with you, will you spare my comrades?"
+msgstr ""
+
+#. Id: 57380-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57349-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57380-Dialogue.mod:0
+msgid "MMM... [They nod sternly]"
+msgstr ""
+
+#. Id: 57381-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57380-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57381-Dialogue.mod:0
+msgid "... Fine. I'll go with you. "
+msgstr ""
+
+#. Id: 57383-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57380-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57383-Dialogue.mod:0
+msgid "That's a shame for them... (Draw your weapon)"
+msgstr ""
+
+#. Id: 57383-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (57380-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57383-Dialogue.mod:1
+msgid "Sadly for them I'm not that selfless... (Draw weapon)"
+msgstr ""
+
+#. Id: 57350-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57350-Dialogue.mod:0
+msgid "Stop looking at me like that. I have a prisoner for you..."
+msgstr ""
+
+#. Id: 57350-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57350-Dialogue.mod:1
+msgid "Don't eat ME, you fool. I have a prisoner for you instead..."
+msgstr ""
+
+#. Id: 57384-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57384-Dialogue.mod:0
+msgid "[Their eyes widen and they stamp their feet]"
+msgstr ""
+
+#. Id: 57352-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Greenlander or Scorchlander
+#: 57352-Dialogue.mod:0
+msgid "You don't want to eat me, really."
+msgstr ""
+
+#. Id: 57353-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone
+#: 57353-Dialogue.mod:0
+msgid "Really want to risk battle for my tough carcass? Hive meat doesn't taste good."
+msgstr ""
+
+#. Id: 57365-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57353-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 57365-Dialogue.mod:0
+msgid "URG!... [They shove you with force and lick their lips]"
+msgstr ""
+
+#. Id: 58682-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (57366-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58682-Dialogue.mod:0
+msgid "[They slowly shake their head while groping at you]"
+msgstr ""
+
+#. Id: 58683-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57365-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#: 58683-Dialogue.mod:0
+msgid "Did- did you just SHOVE me?!"
+msgstr ""
+
+#. Id: 58680-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (57353-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 58680-Dialogue.mod:0
+msgid "MMM.... [They nod sternly]"
+msgstr ""
+
+#. Id: 57354-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57346-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: My Race(s): Shek
+#: 57354-Dialogue.mod:0
+msgid "Really want to risk battle for my spikey carcass? All bone and no meat, trust me."
+msgstr ""
+
+#. Id: 57345-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Shek
+#: 57345-Dialogue.mod:0
+msgid "They prod at your bones and snort. Their small eyes narrow]"
+msgstr ""
+
+#. Id: 57347-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal talk to diplomat --Unfinished-- --Needs Handover Action--
+#. -- Condition: Target Race(s): Greenlander or Scorchlander
+#: 57347-Dialogue.mod:0
+msgid "[They prod at your squishy bits and lick their lips]... GUGH!"
+msgstr ""
+

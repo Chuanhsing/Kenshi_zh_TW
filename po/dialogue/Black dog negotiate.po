@@ -1,0 +1,381 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 20172-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20172-Dialogue.mod:0
+msgid "/HI/ neighbour, not been here long I see... Well, let me introduce myself! We're the Black Dog mercenaries, me and my boys, we keep the area safe from those grisly cannibals and nuisance wolves... "
+msgstr ""
+
+#. Id: 20174-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (20172-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20174-Dialogue.mod:0
+msgid "Now that you're benefitting from our presence, we kindly ask that you chip in like everyone else. For a small fee we'll guard your base and take care of all your vermin problems."
+msgstr ""
+
+#. Id: 20173-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20174-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20173-Dialogue.mod:0
+msgid "Sure, I guess that's only fair."
+msgstr ""
+
+#. Id: 20173-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (20174-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20173-Dialogue.mod:1
+msgid "That sounds fair I suppose."
+msgstr ""
+
+#. Id: 20182-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (20173-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20182-Dialogue.mod:0
+msgid "Glad we have an understanding. 4000 Cats will cover two days of our labour. We earn our living, you stay safe, everyone's happy..."
+msgstr ""
+
+#. Id: 20183-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 20183-Dialogue.mod:0
+msgid "Can /IWE/ get a discount?"
+msgstr ""
+
+#. Id: 20190-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20183-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20190-Dialogue.mod:0
+msgid "Tight on Cats, eh? Sure, we can work something out. We're not heartless afterall, we just wanna help out our neighbours. How much are you thinkin'?"
+msgstr ""
+
+#. Id: 20190-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (20183-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20190-Dialogue.mod:1
+msgid "Short on Cats, eh? Sure, I'm a reasonable /MEMAN/, we can work something out. How much can you chip in?"
+msgstr ""
+
+#. Id: 20195-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 20195-Dialogue.mod:0
+msgid "3000 Cats"
+msgstr ""
+
+#. Id: 20201-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20201-Dialogue.mod:0
+msgid "... If that's all you got, then that's all you got. I'll give you your discount."
+msgstr ""
+
+#. Id: 20202-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (20201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20202-Dialogue.mod:0
+msgid "And that's a BIG discount I just gave you, neighbour. Hope you appreciate it."
+msgstr ""
+
+#. Id: 61929-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20195-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 61929-Dialogue.mod:0
+msgid "That's a little insulting don't you think, neighbour? But if you're not willing to pay us fairly, we've no choice but to be unfair back to you..."
+msgstr ""
+
+#. Id: 64149-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 64149-Dialogue.mod:0
+msgid "Take it or leave it. I can't pay more."
+msgstr ""
+
+#. Id: 20193-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
+#: 20193-Dialogue.mod:0
+msgid "3500 Cats"
+msgstr ""
+
+#. Id: 20204-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20193-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20204-Dialogue.mod:0
+msgid "... Alright. I can work with that."
+msgstr ""
+
+#. Id: 20194-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20190-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 20194-Dialogue.mod:0
+msgid "On second thoughts, I'll pay the 4000 Cats."
+msgstr ""
+
+#. Id: 20205-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20194-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20205-Dialogue.mod:0
+msgid "... Deal!"
+msgstr ""
+
+#. Id: 20184-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 20184-Dialogue.mod:0
+msgid "Sure. Here."
+msgstr ""
+
+#. Id: 20191-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20184-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20191-Dialogue.mod:0
+msgid "Appreciate the donation, neighbour..."
+msgstr ""
+
+#. Id: 20192-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20191-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20192-Dialogue.mod:0
+msgid "Stay safe now!"
+msgstr ""
+
+#. Id: 20185-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20185-Dialogue.mod:0
+msgid "That's way too much. Forget it."
+msgstr ""
+
+#. Id: 20186-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20186-Dialogue.mod:0
+msgid "Ok, whatever you want, but I can't protect you from my hungry, sober men if I don't got any rum money... "
+msgstr ""
+
+#. Id: 20187-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20186-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20187-Dialogue.mod:0
+msgid "You deaf? I said forget it."
+msgstr ""
+
+#. Id: 20189-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (20187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20189-Dialogue.mod:0
+msgid "That's your final answer, eh?"
+msgstr ""
+
+#. Id: 20188-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (20189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20188-Dialogue.mod:0
+msgid "Watch yourself, /OUTLANDER/. We'll be back."
+msgstr ""
+
+#. Id: 20188-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (20189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20188-Dialogue.mod:1
+msgid "You haven't seen the last of us."
+msgstr ""
+
+#. Id: 20188-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (20189-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20188-Dialogue.mod:2
+msgid "Be seeing you real soon, settler."
+msgstr ""
+
+#. Id: 20208-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20186-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
+#: 20208-Dialogue.mod:0
+msgid "... Fine"
+msgstr ""
+
+#. Id: 20211-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (20186-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20211-Dialogue.mod:0
+msgid "Well, can /IWE/ at least pay a fairer price?"
+msgstr ""
+
+#. Id: 62170-__additions.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20185-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 62170-__additions.mod:0
+msgid "Well that's a shame, but I can't protect you from my hungry, sober men if I don't got any rum money for them... "
+msgstr ""
+
+#. Id: 62168-__additions.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 62168-__additions.mod:0
+msgid "I've don't have enough money for that."
+msgstr ""
+
+#. Id: 20175-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20174-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 20175-Dialogue.mod:0
+msgid "We don't need your help. We can take care of ourselves."
+msgstr ""
+
+#. Id: 20177-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20174-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 20177-Dialogue.mod:0
+msgid "I don't need your help. I can take care of myself."
+msgstr ""
+
+#. Id: 20179-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (20174-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20179-Dialogue.mod:0
+msgid "Thanks for the offer, but /IWE/'ll pass."
+msgstr ""
+
+#. Id: 20180-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (20179-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20180-Dialogue.mod:0
+msgid "... It wasn't an offer. We need work, you need protection. How about you don't be a /MISER/ and pay up the 4000. Us mercs work our asses off keeping the lands safe out here."
+msgstr ""
+
+#. Id: 20181-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (20180-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Black dog negotiate
+#: 20181-Dialogue.mod:0
+msgid "Not interested. Now get the hell off my land."
+msgstr ""
+
+#. Id: 20212-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (20181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20212-Dialogue.mod:0
+msgid "Ouch! How rude!"
+msgstr ""
+
+#. Id: 20212-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (20181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20212-Dialogue.mod:1
+msgid "What's with all the hostility?"
+msgstr ""
+
+#. Id: 20212-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (20181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20212-Dialogue.mod:2
+msgid "I find your tone very inhospitable, neighbour..."
+msgstr ""
+
+#. Id: 20212-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (20181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Black dog negotiate
+#: 20212-Dialogue.mod:3
+msgid "How unwelcoming!"
+msgstr ""
+

@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 44128-Dialogue.mod:1 47388-Dialogue.mod:1
+msgid "Shoo! Get out of here!"
+msgstr ""
+
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 44128-Dialogue.mod:2 47388-Dialogue.mod:2
+msgid "Hey! Shoo!"
+msgstr ""
+
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 44128-Dialogue.mod:3 47388-Dialogue.mod:3
+msgid "Scram, animal!"
+msgstr ""
+
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#. Id: 47388-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Player merc sees swamp raptors
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 44128-Dialogue.mod:4 47388-Dialogue.mod:4
+msgid "Go away! Shoo!"
+msgstr ""
+
+#. Id: 44128-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc sees swamp raptor looting
+#: 44128-Dialogue.mod:5
+msgid "Hit the road! Scram!"
+msgstr ""
+

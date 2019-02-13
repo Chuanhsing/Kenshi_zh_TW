@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1532336-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 1532336-Dialogue.mod:0
+msgid "... Who are you? I received report that there were no men at this base..."
+msgstr ""
+
+#. Id: 1532337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532337-Dialogue.mod:0
+msgid "I'm sorry, you heard wrong. This is my outpost."
+msgstr ""
+
+#. Id: 1532343-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532337-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532343-Dialogue.mod:0
+msgid "[He glances around the place suspiciously]"
+msgstr ""
+
+#. Id: 1532344-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532343-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532344-Dialogue.mod:0
+msgid "I see... Well, apologies for the misunderstanding. Do not take on too many women though, holy brother, it will be an arduous task you will regret."
+msgstr ""
+
+#. Id: 1532341-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532341-Dialogue.mod:0
+msgid "Me? Oh, I don't live here, I was just here for the loose women."
+msgstr ""
+
+#. Id: 1532345-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532341-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532345-Dialogue.mod:0
+msgid "...Vile!"
+msgstr ""
+
+#. Id: 1532350-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532345-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532350-Dialogue.mod:0
+msgid "Devolved into a brothel!... To be expected of wild women left to their own hedonism..."
+msgstr ""
+
+#. Id: 1532346-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532350-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532346-Dialogue.mod:0
+msgid "Under divine law of the Holy Flame, I hereby remove you all from our /SACRED/ land..."
+msgstr ""
+
+#. Id: 1532342-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532336-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: HN assault woman interrupt
+#: 1532342-Dialogue.mod:0
+msgid "Yeah? So what? (Draw your sword)"
+msgstr ""
+
+#. Id: 1532351-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532342-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532351-Dialogue.mod:0
+msgid "[He skids a foot behind him and draws his sword]"
+msgstr ""
+
+#. Id: 1532352-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532351-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532352-Dialogue.mod:0
+msgid "Violence against a servant of Okran is a serious crime. As is women being left without a husband's escort - as your women were found the other day..."
+msgstr ""
+
+#. Id: 1532353-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 1532353-Dialogue.mod:0
+msgid "The /SACRED/ lands cannot have wild women running lose without husbandly guidance..."
+msgstr ""
+
+#. Id: 1532356-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 1532356-Dialogue.mod:0
+msgid "And just to add further insult, a unholy beast is sent to speak with me?"
+msgstr ""
+

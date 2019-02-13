@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#: 12808-Dialogue?(11)?(2).mod:0 40728-Dialogue.mod:3
+msgid "What is this?"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 40728-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness lockpicking
+#. Id: 3866-gamedata.base
+#. -- Index: 5.1
+#. -- Parent line: 4 (3865-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: bandit fight picking new target in wilds
+#. Id: 51662-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc contract betrayal
+#. Id: 14075-Dialogue (12).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 12808-Dialogue?(11)?(2).mod:1 40728-Dialogue.mod:2 3866-gamedata.base:1 51662-rebirth.mod:2 14075-Dialogue?(12).mod:6
+msgid "What are you doing?"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:2
+msgid "Hm?... Hey..."
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:3
+msgid "Huh?... Hey..."
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:5
+msgid "What's going on here?"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 43824-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:6 43824-Dialogue.mod:1
+msgid "What the?"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12853-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#: 12808-Dialogue?(11)?(2).mod:7 12853-Dialogue?(11)?(2).mod:1
+msgid "Ah?!"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:9
+msgid "The hell...?!"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:10
+msgid "Huh? What the?!"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:11
+msgid "The hell's going on?!"
+msgstr ""
+
+#. Id: 12808-Dialogue (11) (2).mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12808-Dialogue?(11)?(2).mod:14 43827-Dialogue.mod:4
+msgid "Hey?!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44464-Dialogue.mod:1
+msgid "Cut that out!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44464-Dialogue.mod:2
+msgid "I see what you're doing!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44464-Dialogue.mod:4
+msgid "Thievin' /RAT/!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44464-Dialogue.mod:5
+msgid "That's locked for a reason, /RAT/!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44464-Dialogue.mod:6
+msgid "Keep out of there, thief!"
+msgstr ""
+
+#. Id: 44464-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. Id: 40808-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (40807-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting ally holy nation resident
+#: 44464-Dialogue.mod:7 40808-Dialogue.mod:3
+msgid "Stay away from there!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:0
+msgid "Get out and stay out, thief!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:1
+msgid "That's it, run! And don't come back, thief!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:2
+msgid "Run away, scumbag! And don't come back!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:3
+msgid "That's it, run away if you know what's good for you! No good thief..."
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:4
+msgid "You BETTER run! Thievin' coward!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:5
+msgid "Get out of here and stay out of here!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:6
+msgid "Go on, get out!"
+msgstr ""
+
+#. Id: 44467-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 44467-Dialogue.mod:7
+msgid "RUN! Get out of here, /RAT/!"
+msgstr ""
+
+#. Id: 44472-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 42110-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (42070-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy nation slave recruit talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 8361-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: DIALOGUE8360
+#. Id: 17505-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior still got fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 41343-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (41335-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#. Id: 10873-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10872-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mugging (recruit)
+#. Id: 8574-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 44472-Dialogue.mod:0 42110-Dialogue.mod:1 8361-Dialogue.mod:0 17505-Dialogue.mod:2 41343-Dialogue.mod:0 10873-Dialogue?(10).mod:0 8574-Dialogue.mod:0
+msgid "Tch!"
+msgstr ""
+
+#. Id: 44472-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 46940-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (46939-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shopkeep holy shoo
+#: 44472-Dialogue.mod:2 46940-Dialogue.mod:1
+msgid "Hit the road!"
+msgstr ""
+
+#. Id: 44472-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (44467-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: COPS_AROUND=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. Id: 49915-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (49909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: holy merc shoo shop
+#: 44472-Dialogue.mod:3 49915-Dialogue.mod:2
+msgid "Get lost!"
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:0
+msgid "Damn thieves..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:1
+msgid "Thievin' /RAT/..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:2
+msgid "Scumbag thieves..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:3
+msgid "Thievin' scumbags..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:4
+msgid "I hate thieves..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:5
+msgid "/IDIOT/..."
+msgstr ""
+
+#. Id: 44483-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (12808-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 44483-Dialogue.mod:6
+msgid "And stay out!"
+msgstr ""
+
+#. Id: 12809-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12809-Dialogue?(11)?(2).mod:0
+msgid "You up to something, huh /OUTLANDER/?"
+msgstr ""
+
+#. Id: 12809-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12809-Dialogue?(11)?(2).mod:1
+msgid "What are you doing there, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 12809-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12809-Dialogue?(11)?(2).mod:2
+msgid "What are you up to there, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 12809-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12809-Dialogue?(11)?(2).mod:3
+msgid "This is looking suspicious to me, /OUTLANDER/."
+msgstr ""
+
+#. Id: 43824-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43824-Dialogue.mod:2
+msgid "Hey?"
+msgstr ""
+
+#. Id: 43825-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#: 43825-Dialogue.mod:2
+msgid "Hey! Over here!"
+msgstr ""
+
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 13213-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc thief caught stealing from me
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IMPRISONED_BY_OTHER=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43827-Dialogue.mod:0 43831-Dialogue.mod:9 13213-Escapes.mod:1
+msgid "Hey, what are you doing?!"
+msgstr ""
+
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43827-Dialogue.mod:1 43831-Dialogue.mod:7
+msgid "Hey, what is this?!"
+msgstr ""
+
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 12853-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. Id: 18652-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble witness lockpicking
+#: 43827-Dialogue.mod:2 12853-Dialogue?(11)?(2).mod:0 18652-Dialogue.mod:3
+msgid "Hm?!"
+msgstr ""
+
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43827-Dialogue.mod:6
+msgid "Hey! What's going on here?!"
+msgstr ""
+
+#. Id: 43827-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 17938-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from ronin
+#. -- Condition: My Race(s): Hive Prince
+#: 43827-Dialogue.mod:7 17938-Dialogue.mod:2
+msgid "Hey! What are you doing?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:2
+msgid "Hm?! What's going on?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:3
+msgid "Huh? What's this?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:4
+msgid "Hm? What is this?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:5
+msgid "Huh? What are you doing?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:6
+msgid "Hm? What are you doing?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:8
+msgid "Hey, what's going on?!"
+msgstr ""
+
+#. Id: 43831-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc witness lockpicking
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 43831-Dialogue.mod:10
+msgid "Huh?! What's going on?!"
+msgstr ""
+

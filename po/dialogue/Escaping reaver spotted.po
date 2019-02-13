@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59450-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59450-Dialogue.mod:0
+msgid "Trying to run?"
+msgstr ""
+
+#. Id: 59450-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59450-Dialogue.mod:1
+msgid "Trying to escape?"
+msgstr ""
+
+#. Id: 59451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#. Id: 3690-dialogue-01.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3687-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up as enemy starts walking away
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 59451-Dialogue.mod:0 3690-dialogue-01.mod:2
+msgid "Coward!"
+msgstr ""
+
+#. Id: 59452-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59452-Dialogue.mod:0
+msgid "You're a Reaver now, whelp... you can't run from your fate."
+msgstr ""
+
+#. Id: 59453-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59453-Dialogue.mod:0
+msgid "Running away, coward?"
+msgstr ""
+
+#. Id: 59453-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59453-Dialogue.mod:1
+msgid "Turning your back on the Reavers, coward?"
+msgstr ""
+
+#. Id: 59453-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#. Id: 13626-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13625-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from law enforcement
+#. Id: 15581-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13625-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from law enforcement
+#. Id: 14455-Dialogue (4).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots super high bounty wtf
+#. Id: 7685-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug get off my turf - I hate this guy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 13665-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13658-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness looting ally
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 5857-D-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (5856-D-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bandit Revenge I hate this guy
+#. Id: 44879-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: intruder shout
+#. Id: 14451-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 7454-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 16540-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (16539-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Empire terrorist hunt
+#. Id: 1533301-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skin bandit witness crime
+#. Id: 14552-Dialogue (4).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14548-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Give us your stuff!
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. Id: 16193-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante generic assault
+#. Id: 51083-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Moll spots imposter
+#. Id: 8383-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5246-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: intruder slavers
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 8421-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Attack
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#. Id: 95769-__december17.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reaver attack
+#. Id: 54601-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (54599-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Racist attack patriotic bandits
+#. Id: 18646-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18643-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from nobles ally
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 59501-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver witness assault
+#. Id: 14458-Dialogue (4).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14457-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots small fry bounty
+#. Id: 10765-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10764-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bad Relations Empire <-70
+#. Id: 7858-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7857-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamper Gang Bad Relations
+#. Id: 7865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Gang Bad Relations
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 16234-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16233-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#. Id: 16027-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Civ looting ally
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. Id: 96164-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sand ninja shoo
+#. Id: 13821-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law enforcement spots prisoner escaping
+#. Id: 14037-Dialogue (12).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (14036-Dialogue (12).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law spots slave
+#: 59453-Dialogue.mod:2 13626-Escapes.mod:1 15581-Dialogue.mod:1 14455-Dialogue?(4).mod:4 7685-Dialogue.mod:0 13665-Escapes.mod:1 5857-D-Dialogue.mod:0 44879-rebirth.mod:1 14451-Dialogue?(4).mod:0 7454-Dialogue.mod:0 16540-Dialogue.mod:0 1533301-Dialogue.mod:0 14552-Dialogue?(4).mod:0 16193-Dialogue.mod:8 51083-Dialogue.mod:0 8383-Dialogue.mod:0 8421-Dialogue.mod:0 95769-__december17.mod:0 54601-Dialogue.mod:0 18646-Dialogue.mod:1 59501-Dialogue.mod:1 14458-Dialogue?(4).mod:2 10765-Dialogue?(10).mod:0 7858-Dialogue.mod:0 7865-Dialogue.mod:0 16234-Dialogue.mod:1 16027-Dialogue.mod:0 96164-Dialogue.mod:0 13821-Escapes.mod:1 14037-Dialogue?(12).mod:0
+msgid "Get /HIM/!"
+msgstr ""
+
+#. Id: 59454-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#: 59454-Dialogue.mod:0
+msgid "You'll regret trying to escape us!"
+msgstr ""
+
+#. Id: 59454-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (59453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaping reaver spotted
+#. Id: 12836-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc betrayed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 12337-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12336-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek betrayed
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 63193-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton bandit attack enemy
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 59502-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: reaver witness assault
+#. Id: 5033-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 59454-Dialogue.mod:1 12836-Dialogue?(11)?(2).mod:0 12337-Dialogue?(10).mod:0 63193-Dialogue.mod:1 59502-Dialogue.mod:1 5033-gamedata.base:2
+msgid "Traitor!"
+msgstr ""
+

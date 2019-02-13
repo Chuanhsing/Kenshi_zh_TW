@@ -1,0 +1,67 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18128-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 15737-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military interrupted by player
+#. Id: 45363-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc spots intruder
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 12853-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: merc interrupted by bandit
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#. Id: 19761-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#. Id: 16232-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante spots imposter
+#: 18128-Dialogue.mod:0 15737-Dialogue.mod:1 45363-Dialogue.mod:5 12853-Dialogue?(11)?(2).mod:2 45843-Dialogue.mod:3 19761-Dialogue.mod:4 16232-Dialogue.mod:5
+msgid "!?"
+msgstr ""
+
+#. Id: 18129-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18128-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Stealing from Hiver
+#. Id: 19762-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19761-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Looting from a hiver
+#: 18129-Dialogue.mod:2 19762-Dialogue.mod:2
+msgid "They take from the Hive!"
+msgstr ""
+

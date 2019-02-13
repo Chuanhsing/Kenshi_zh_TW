@@ -1,0 +1,175 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40714-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 40714-Dialogue.mod:2
+msgid "Over here, paladins, quickly!"
+msgstr ""
+
+#. Id: 40714-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 40714-Dialogue.mod:3
+msgid "Stop this, NOW!"
+msgstr ""
+
+#. Id: 40714-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 40714-Dialogue.mod:4
+msgid "This is a holy place! Stop this!"
+msgstr ""
+
+#. Id: 40716-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 40716-Dialogue.mod:0
+msgid "Not here on sacred soil! Stop!"
+msgstr ""
+
+#. Id: 40716-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 40716-Dialogue.mod:1
+msgid "Not here on hallowed land! Stop now!"
+msgstr ""
+
+#. Id: 40716-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 40716-Dialogue.mod:2
+msgid "Not on Okran's soil! Stop this!"
+msgstr ""
+
+#. Id: 40716-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 40716-Dialogue.mod:3
+msgid "Stop this! Surrender!"
+msgstr ""
+
+#. Id: 40716-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 40716-Dialogue.mod:4
+msgid "THIS IS SACRED SOIL! STOP!"
+msgstr ""
+
+#. Id: 49931-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Target Race(s): Skeleton
+#: 49931-Dialogue.mod:0
+msgid "The day of Reckoning is upon us!"
+msgstr ""
+
+#. Id: 49931-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Target Race(s): Skeleton
+#: 49931-Dialogue.mod:1
+msgid "The time has come for Narko's second extinction!"
+msgstr ""
+
+#. Id: 49931-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#. -- Condition: Target Race(s): Skeleton
+#: 49931-Dialogue.mod:2
+msgid "The day of Extinction has come!"
+msgstr ""
+
+#. Id: 49932-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49932-Dialogue.mod:0
+msgid "Narko's dark agents infest our very city! "
+msgstr ""
+
+#. Id: 49932-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (49931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49932-Dialogue.mod:1
+msgid "Our city is plagued by darkness, bought to us by Narko's minions!"
+msgstr ""
+
+#. Id: 49932-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (49931-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49932-Dialogue.mod:2
+msgid "Our city has fallen to the darkness! The first of the skeletons has come!"
+msgstr ""
+
+#. Id: 49934-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49934-Dialogue.mod:0
+msgid "The end has come! Okran has punished us for our sins!"
+msgstr ""
+
+#. Id: 49934-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49934-Dialogue.mod:1
+msgid "This is the end! Debauchery and lust have bought to us our punishment!"
+msgstr ""
+
+#. Id: 49934-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (49932-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest witness generic assault
+#: 49934-Dialogue.mod:2
+msgid "We have sinned and the Lord of Light has abandoned us to the darkness!"
+msgstr ""
+

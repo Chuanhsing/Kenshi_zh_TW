@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65500-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander or Hive Prince
+#: 65500-Dialogue.mod:0
+msgid "The Empire has been crippled yet... I feel no better."
+msgstr ""
+
+#. Id: 65501-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65500-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65501-Dialogue.mod:0
+msgid "Victims still suffer... evils get replaced with new evils..."
+msgstr ""
+
+#. Id: 65504-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65503-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#: 65504-Dialogue.mod:0
+msgid "Look a little more closely. You're looking at the whole world, and it's too big to take in."
+msgstr ""
+
+#. Id: 65505-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65504-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#: 65505-Dialogue.mod:0
+msgid "But one by one, we've saved people. "
+msgstr ""
+
+#. Id: 65506-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65506-Dialogue.mod:0
+msgid "So... Tengu's gone now..."
+msgstr ""
+
+#. Id: 65524-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65524-Dialogue.mod:0
+msgid "Tengu was a useless coward. I feel no pride in defeating the bloated meatsack..."
+msgstr ""
+
+#. Id: 65562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65561-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#. Id: 65461-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65460-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Longen world state
+#: 65562-Dialogue.mod:0 65461-Dialogue.mod:0
+msgid "Agreed."
+msgstr ""
+
+#. Id: 65563-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65562-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#: 65563-Dialogue.mod:0
+msgid "Disdain. The baby's blubbering has left a bad taste in my mouth."
+msgstr ""
+
+#. Id: 65564-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#. Id: 17814-Dialogue.mod
+#. -- Index: 3.9
+#. -- Parent line: 2 (17813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 45018-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (45015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thug3
+#. Id: 44777-Dialogue.mod
+#. -- Index: 0.15
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thug1
+#. Id: 44139-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (44137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shop guard shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
+#: 65564-Dialogue.mod:0 17814-Dialogue.mod:9 45018-Dialogue.mod:1 44777-Dialogue.mod:15 44139-Dialogue.mod:2
+msgid "*grunt*"
+msgstr ""
+
+#. Id: 65525-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65525-Dialogue.mod:0
+msgid "I was expecting something a little more dramatic following the death of the Emperor..."
+msgstr ""
+
+#. Id: 65526-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65526-Dialogue.mod:0
+msgid "Watching Tengu squeal was like music to my ears. Ha! Not laughing now, is he?"
+msgstr ""
+
+#. Id: 65528-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65527-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#: 65528-Dialogue.mod:0
+msgid "... Not a lot has changed since. I'm disappointed."
+msgstr ""
+
+#. Id: 65530-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65529-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65530-Dialogue.mod:0
+msgid "What did you expect? That idiot to be the mastermind behind the UC?"
+msgstr ""
+
+#. Id: 65531-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65530-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65531-Dialogue.mod:0
+msgid "He was a puppet. And puppets are easily replaced."
+msgstr ""
+
+#. Id: 65534-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65533-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65534-Dialogue.mod:0
+msgid "Well, I had my fun anyway."
+msgstr ""
+
+#. Id: 65536-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65535-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65536-Dialogue.mod:0
+msgid "We brought justice to Tengu, either way."
+msgstr ""
+
+#. Id: 65537-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65536-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65537-Dialogue.mod:0
+msgid "Let his replacement quiver in his boots at the thought of Tengu's murderers on the loose!"
+msgstr ""
+
+#. Id: 65538-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65537-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65538-Dialogue.mod:0
+msgid "As long as we still breathe, we'll make the nobles suffer."
+msgstr ""
+
+#. Id: 65553-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65552-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65553-Dialogue.mod:0
+msgid "Hmph, annoyance. So we find it's real root, and we destroy it."
+msgstr ""
+
+#. Id: 65560-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65553-Dialogue.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: Biome entries Tengu world state
+#: 65560-Dialogue.mod:0
+msgid "Tengu was no challenge anyway."
+msgstr ""
+
+#. Id: 65540-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65539-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65540-Dialogue.mod:0
+msgid "Freedom is a never ending battle. The moment you pause, the moment the rot starts spreading back..."
+msgstr ""
+
+#. Id: 65541-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65540-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65541-Dialogue.mod:0
+msgid "The land will always need freedom fighters. Better to fight than be a victim."
+msgstr ""
+
+#. Id: 65544-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65543-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65544-Dialogue.mod:0
+msgid "The UC is as old as it is big. It will take more to dig up it's root."
+msgstr ""
+
+#. Id: 65545-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65544-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65545-Dialogue.mod:0
+msgid "Didn't it used to be your home, the UC?"
+msgstr ""
+
+#. Id: 65546-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65545-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65546-Dialogue.mod:0
+msgid "It was my master's home. I follow a new master now, the life of a samurai goes on."
+msgstr ""
+
+#. Id: 65547-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (65546-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65547-Dialogue.mod:0
+msgid "Sounds a little heartless..."
+msgstr ""
+
+#. Id: 65548-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (65547-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65548-Dialogue.mod:0
+msgid "Try working for a noble, then come back to me and we'll finish this conversation."
+msgstr ""
+
+#. Id: 65549-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (65548-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65549-Dialogue.mod:0
+msgid "It was nothing but stress. How else do you think I ended up with grey hair?"
+msgstr ""
+
+#. Id: 65550-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (65549-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Biome entries Tengu world state
+#: 65550-Dialogue.mod:0
+msgid "Bad sun protection?"
+msgstr ""
+
+#. Id: 65551-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (65550-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Biome entries Tengu world state
+#: 65551-Dialogue.mod:0
+msgid "Well... that too."
+msgstr ""
+
+#. Id: 65507-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65555-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Biome entries Tengu world state
+#: 65507-Dialogue.mod:0
+msgid "You know, I can't help but feel that the lands got even MORE fucked up with him gone... "
+msgstr ""
+

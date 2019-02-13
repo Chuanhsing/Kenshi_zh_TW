@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53977-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53977-Dialogue.mod:0
+msgid "Are you aware that destitution is illegal in United Cities /LAND/, /OUTLANDER/?... That bony carcass of yours tells me you're breaking the law..."
+msgstr ""
+
+#. Id: 53977-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. Id: 53978-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 53977-Dialogue.mod:1 53978-Dialogue.mod:2
+msgid "The United Cities /LAND/ is a place for the rich elite, /OUTLANDER/, not for the starving /MUTT/. And you, my friend, look like you could desperately use a dustwich and a couple of Cats right now..."
+msgstr ""
+
+#. Id: 53977-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53977-Dialogue.mod:2
+msgid "Empire /LAND/ is for the wealthy elite, not for the desperate needy to drag it down, /OUTLANDER/. Destitution is a crime this side of the world and by the looks of your scrawny frame I'd say you're breaking that law..."
+msgstr ""
+
+#. Id: 53977-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53977-Dialogue.mod:3
+msgid "[They slowly look you up and down]... Do you know that destitution is considered a crime in the United Cities, /OUTLANDER/?... You look the epitome of a beggar right now..."
+msgstr ""
+
+#. Id: 53978-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 53978-Dialogue.mod:0
+msgid "You look as bony as a stick man from the mud hives. I mean, really, you look like hell, /OUTLANDER/. You know it's illegal to be starving and destitute in United City /LAND/, right?"
+msgstr ""
+
+#. Id: 53978-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 53978-Dialogue.mod:1
+msgid "Hell, you look like as skinny as a bug man, /OUTLANDER/, when did you last have a decent meal? You're aware that destitution is a crime here in United Cities /LAND/, right?"
+msgstr ""
+
+#. Id: 53978-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 53978-Dialogue.mod:3
+msgid "... You look like death, /OUTLANDER/, can't you even afford to feed yourself? Destitution is a crime in United Cities /LAND/, we can't be overrun with desperate beggars."
+msgstr ""
+
+#. Id: 53979-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53979-Dialogue.mod:0
+msgid "... Have pity..."
+msgstr ""
+
+#. Id: 53979-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53979-Dialogue.mod:1
+msgid "... *Wheeze*"
+msgstr ""
+
+#. Id: 53979-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53979-Dialogue.mod:2
+msgid "... Please... so... hungry..."
+msgstr ""
+
+#. Id: 53983-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53983-Dialogue.mod:0
+msgid "Trying to guilt me? It won't work. You've bought this fate on yourself, dreg. Destitution finds it's way only to the weak and the foolish. Unless you can show me your worth, I'm going to have to arrest you."
+msgstr ""
+
+#. Id: 53983-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53979-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53983-Dialogue.mod:1
+msgid "I've no sympathy for beggars so don't bother trying to win my pity... Any last words before I arrest you for destitution?"
+msgstr ""
+
+#. Id: 53993-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53993-Dialogue.mod:0
+msgid "Nothing to say in your defense? Then so be it."
+msgstr ""
+
+#. Id: 53993-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53993-Dialogue.mod:1
+msgid "As I thought, a penniless sponger in United Cities? So be it."
+msgstr ""
+
+#. Id: 53984-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53993-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53984-Dialogue.mod:0
+msgid "I'm arresting you for beggaring on Empire /LAND/"
+msgstr ""
+
+#. Id: 53996-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53983-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 53996-Dialogue.mod:0
+msgid "... Wait. (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 53997-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53983-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53997-Dialogue.mod:0
+msgid "You're a callous scumbag."
+msgstr ""
+
+#. Id: 53980-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53980-Dialogue.mod:1
+msgid "Then arrest me already."
+msgstr ""
+
+#. Id: 53980-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53980-Dialogue.mod:2
+msgid "So throw me in prison already."
+msgstr ""
+
+#. Id: 53985-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53985-Dialogue.mod:0
+msgid "It will be my pleasure. At least the prison guards will fatten up your sorry carcass when they throw you in the cage..."
+msgstr ""
+
+#. Id: 53981-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53981-Dialogue.mod:0
+msgid "I'm not poor. Just out of rations."
+msgstr ""
+
+#. Id: 53986-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53986-Dialogue.mod:0
+msgid "Then I'll need to see proof of that, rules are rules after all, /OUTLANDER/. So, show me some Cats and prove yourself."
+msgstr ""
+
+#. Id: 53986-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53986-Dialogue.mod:1
+msgid "You LOOK moneyless to me, /OUTLANDER/. Prove yourself and show me some coin if you really want to protest your affluence."
+msgstr ""
+
+#. Id: 53986-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53986-Dialogue.mod:2
+msgid "I'll believe that when I see it with. Show me some credits and convince me otherwise, /OUTLANDER/. I've laws to uphold and keeping the nation from being overrun by beggars is one of them."
+msgstr ""
+
+#. Id: 53987-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#: 53987-Dialogue.mod:0
+msgid "Here. (Give 2000 Cats)"
+msgstr ""
+
+#. Id: 53988-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53988-Dialogue.mod:0
+msgid "Okay, you're free to go... But first, here, take this. You look like you're about to drop dead from malnutrition. This should last you until you restock at an outpost. "
+msgstr ""
+
+#. Id: 53989-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53989-Dialogue.mod:0
+msgid "Proof enough. Now, clean yourself up, you look a mess."
+msgstr ""
+
+#. Id: 53989-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53989-Dialogue.mod:1
+msgid "Proof enough. Now, sort yourself out, you look a state."
+msgstr ""
+
+#. Id: 53994-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53994-Dialogue.mod:0
+msgid "I've got no Cats on me... "
+msgstr ""
+
+#. Id: 53999-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53994-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53999-Dialogue.mod:0
+msgid "Then you've bought this fate on yourself, dreg. Destitution finds it's way only to the weak and the foolish. "
+msgstr ""
+
+#. Id: 53995-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53986-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53995-Dialogue.mod:0
+msgid "... Are you seriously threatening me for being hungry?"
+msgstr ""
+
+#. Id: 54000-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 54000-Dialogue.mod:0
+msgid "Poverty leads to hunger.. hunger leads to desperation.. and desperation is a dangerous thing, /OUTLANDER/. We see it in banditry, gang warfare and petty murder... You let yourself get in this state and you endanger the rest of society. "
+msgstr ""
+
+#. Id: 54000-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (53995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 54000-Dialogue.mod:1
+msgid "Hunger and poverty lead to desperation, to selfishness... and that's when the rest of society gets dragged down along with it, not unlike an overcrowded ship in the water..."
+msgstr ""
+
+#. Id: 54001-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (54000-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 54001-Dialogue.mod:0
+msgid "But, eliminate the weak links and the stronger may still live in peace... The elite worthy."
+msgstr ""
+
+#. Id: 54001-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (54000-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 54001-Dialogue.mod:1
+msgid "But, eliminate the weak links and the stronger may still live in peace..."
+msgstr ""
+
+#. Id: 53982-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53978-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hunger arrest empire
+#: 53982-Dialogue.mod:0
+msgid "Do I look like I give a shit?"
+msgstr ""
+
+#. Id: 53991-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53982-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53991-Dialogue.mod:0
+msgid "Tch. I guess you're not willing to play nice, are you, /OUTLANDER/? Then I'll treat you how I treat all disobedient /MUTT/s..."
+msgstr ""
+
+#. Id: 53991-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (53982-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53991-Dialogue.mod:1
+msgid "Well, if you won't play nice then I'll treat you the same way I treat all deadbeats..."
+msgstr ""
+
+#. Id: 53991-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (53982-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hunger arrest empire
+#: 53991-Dialogue.mod:2
+msgid "Tch. Rats... They refuse to co-operate and they plague the cities like stinking vermin..."
+msgstr ""
+

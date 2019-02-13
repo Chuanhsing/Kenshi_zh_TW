@@ -1,0 +1,1903 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:0
+msgid "Need to hire a good medic? I've got plenty of experience."
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:1
+msgid "Medic for hire!"
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:2
+msgid "Hungry medic looking for work!"
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:3
+msgid "/HI/ /OUTLANDER/, need a medic by any chance?"
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:4
+msgid "Looking for a good medic, /OUTLANDER/? I've got plenty of experience in the field"
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:5
+msgid "Gotta stay healthy, /OUTLANDER/. Need a medic? I'm looking for work if you need me."
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:6
+msgid "Important to look after your health, /OUTLANDER/. You happen to need a doctor on your team?"
+msgstr ""
+
+#. Id: 1754-gamedata.base
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 1754-gamedata.base:7
+msgid "If you're looking for a medic, I've got the skills right here. Looking to /TEAMUP/, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 1755-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1755-gamedata.base:0
+msgid "Can you fight too?"
+msgstr ""
+
+#. Id: 1755-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1755-gamedata.base:1
+msgid "How about combat? Can you fight as well?"
+msgstr ""
+
+#. Id: 1755-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 1755-gamedata.base:2 16867-Recruits?Dialogue.mod:1
+msgid "Can you handle yourself in a fight?"
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:0
+msgid "Not really. But I'm good at science and stuff."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:1
+msgid "I'm not much of a fighter, I'm a medic. But I can heal you up real nice."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:2
+msgid "I'm a doctor dammit! Not a fighter. "
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:3
+msgid "I've seen what fighting does to people's bodies. So no, I'm not a fighter, I dislike violence."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:4
+msgid "I've never been much of a fighter... but if that's what you need me to do, I'll do it."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.5
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:5
+msgid "Do I look like a fighter, /OUTLANDER/? I'm more of a thinker than a fighter."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.6
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:6
+msgid "Not really. But I dabble in science and research."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.7
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:7
+msgid "I'm not much of a fighter. But I'm good at science if you need some research."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.8
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:8
+msgid "No... But I AM also a hobbyist scientist if you ever need research doing..."
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.9
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:9
+msgid "I've never been much of a fighter... but I'm kind of a science boffin if you ever need me to do some research for you"
+msgstr ""
+
+#. Id: 1756-gamedata.base
+#. -- Index: 2.10
+#. -- Parent line: 1 (1755-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1756-gamedata.base:10
+msgid "I'm a terrible fighter. But I dabble in science..."
+msgstr ""
+
+#. Id: 18067-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1756-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18067-Recruits?Dialogue.mod:0
+msgid "Sounds good! How much?"
+msgstr ""
+
+#. Id: 18067-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (1756-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18067-Recruits?Dialogue.mod:1
+msgid "Great! How much?"
+msgstr ""
+
+#. Id: 18067-Recruits Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (1756-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18067-Recruits?Dialogue.mod:2
+msgid "Perfect! How much?"
+msgstr ""
+
+#. Id: 18068-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1756-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18068-Recruits?Dialogue.mod:0
+msgid "What will it cost me?"
+msgstr ""
+
+#. Id: 18068-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (1756-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18068-Recruits?Dialogue.mod:1
+msgid "And what are you charging?"
+msgstr ""
+
+#. Id: 1757-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1757-gamedata.base:0
+msgid "It depends, How much?"
+msgstr ""
+
+#. Id: 1757-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1757-gamedata.base:1
+msgid "Perhaps. How much are you charging?"
+msgstr ""
+
+#. Id: 1757-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1757-gamedata.base:2
+msgid "Maybe. How much will it cost me?"
+msgstr ""
+
+#. Id: 1757-gamedata.base
+#. -- Index: 1.3
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 19030-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19016-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 18109-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (1739-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 1757-gamedata.base:3 19030-Dialogue.mod:0 18109-Recruits?Dialogue.mod:2
+msgid "What's your price?"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. Id: 19723-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (19722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 1759-gamedata.base:0 18120-Recruits?Dialogue.mod:0 19723-Dialogue.mod:0
+msgid "6000 Cats."
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.1
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:1
+msgid "6000 Cats and a roof over my head..."
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.2
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:2
+msgid "6000 Cats and I'm yours"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.3
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:3
+msgid "Keep me safe and you can have me for just 6000 Cats."
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.4
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:4
+msgid "Keep me safe from bandits and I'm yours for 6000 Cats"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.5
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:5
+msgid "6000 Cats. How about it?"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.6
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:6
+msgid "6000 Cats. Deal?"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.7
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 1759-gamedata.base:7
+msgid "6000 Cats. You interested?"
+msgstr ""
+
+#. Id: 1759-gamedata.base
+#. -- Index: 2.8
+#. -- Parent line: 1 (1757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. Id: 18120-Recruits Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (18109-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 1759-gamedata.base:8 18120-Recruits?Dialogue.mod:2
+msgid "6000 Cats. Interested?"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 1760-gamedata.base:0
+msgid "You're in, buddy."
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 19220-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19219-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19413-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 58895-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hound diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
+#. Id: 54524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (54505-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering slave trader
+#. Id: 13292-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19632-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19631-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 12049-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12029-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 14481-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (14480-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: doctor shop
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 1760-gamedata.base:1 19220-Dialogue.mod:0 19413-Dialogue.mod:3 58895-Dialogue.mod:0 54524-Dialogue.mod:0 13292-Escapes.mod:1 19632-Dialogue.mod:0 12049-Dialogue?(10).mod:0 14481-rebirth.mod:0
+msgid "Deal"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.2
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 19220-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19219-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19253-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19248-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19413-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 13292-Escapes.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 19632-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19631-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 1760-gamedata.base:2 19220-Dialogue.mod:3 19253-Dialogue.mod:3 19413-Dialogue.mod:0 13292-Escapes.mod:0 19632-Dialogue.mod:1
+msgid "You're hired"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.3
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 1760-gamedata.base:3
+msgid "You're in"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.4
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 5671-Escapes.mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (5670-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 13173-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13166-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Cannibal neighbour safe pt 6 talk to
+#. Id: 19413-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 13292-Escapes.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 1760-gamedata.base:4 5671-Escapes.mod:5 13173-Escapes.mod:2 19413-Dialogue.mod:1 13292-Escapes.mod:2
+msgid "Sounds good"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.5
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 16854-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16853-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 8469-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healing ally
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 1760-gamedata.base:5 16854-Recruits?Dialogue.mod:0 8469-Dialogue.mod:2
+msgid "Done"
+msgstr ""
+
+#. Id: 1760-gamedata.base
+#. -- Index: 3.6
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 1760-gamedata.base:6
+msgid "Welcome to the team"
+msgstr ""
+
+#. Id: 18046-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 57999-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<100000, Tag: -1
+#. Id: 57954-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57929-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75000, Tag: -1
+#. Id: 57986-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<55000, Tag: -1
+#. Id: 57994-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (57940-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<35000, Tag: -1
+#. Id: 58115-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58112-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<15000, Tag: -1
+#. Id: 58027-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58020-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50000, Tag: -1
+#. Id: 58030-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<40000, Tag: -1
+#. Id: 58033-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58022-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<30000, Tag: -1
+#. Id: 58036-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58023-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<20000, Tag: -1
+#. Id: 58249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58242-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Pacifier bar diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<10000, Tag: -1
+#. Id: 18806-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15086-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 700 - non robot
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 20245-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15103-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw medic 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 44319-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50, Tag: -1
+#. Id: 44321-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<200, Tag: -1
+#. Id: 53436-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53421-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Green
+#. Id: 19327-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19313-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#. Id: 65910-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65927-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab town recruit
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 12729-Dialogue (11) (2).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (12723-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 13306-Escapes.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (13291-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 19395-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<7500, Tag: -1
+#. Id: 19594-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19591-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Shek Kingdom
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 19714-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12029-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me shek engineer
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 47110-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47106-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hive merchant mist talisman
+#: 18046-Recruits?Dialogue.mod:0 57999-Dialogue.mod:0 57954-Dialogue.mod:0 57986-Dialogue.mod:0 57994-Dialogue.mod:0 58115-Dialogue.mod:0 58027-Dialogue.mod:0 58030-Dialogue.mod:0 58033-Dialogue.mod:0 58036-Dialogue.mod:0 58249-Dialogue.mod:0 18806-Dialogue.mod:0 20245-Dialogue.mod:0 44319-Dialogue.mod:0 44321-Dialogue.mod:0 53436-Dialogue.mod:0 19327-Dialogue.mod:0 65910-Dialogue.mod:0 12729-Dialogue?(11)?(2).mod:0 13306-Escapes.mod:1 19395-Dialogue.mod:0 19594-Dialogue.mod:0 19714-Dialogue.mod:0 47110-Dialogue.mod:0
+msgid "I don't have that much money..."
+msgstr ""
+
+#. Id: 18046-Recruits Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18046-Recruits?Dialogue.mod:1
+msgid "Sorry, I don't have that much..."
+msgstr ""
+
+#. Id: 18046-Recruits Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 19277-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (19219-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire Me 1000 Holy Nation Female
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 44223-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44159-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1100, Tag: -1
+#. Id: 44251-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44160-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<400, Tag: -1
+#. Id: 44244-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44161-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<500, Tag: -1
+#. Id: 44245-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44162-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<600, Tag: -1
+#. Id: 44246-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44163-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<700, Tag: -1
+#. Id: 44247-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44164-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<800, Tag: -1
+#. Id: 44248-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44165-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<900, Tag: -1
+#. Id: 44249-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44166-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
+#. Id: 96200-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (44167-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bounty extortion pay
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<1100, Tag: -1
+#. Id: 19529-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19527-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 1500 Shek Kingdom hon
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3500, Tag: -1
+#. Id: 44319-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44289-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50, Tag: -1
+#. Id: 44321-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (44307-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug extorts bounty
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<200, Tag: -1
+#. Id: 47625-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47622-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton for hire
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 58902-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58894-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hound diplomat talk to
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
+#. Id: 19449-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (19439-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 18802-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18679-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#. Id: 18876-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18046-Recruits?Dialogue.mod:2 19277-Dialogue.mod:3 44223-Dialogue.mod:0 44251-Dialogue.mod:0 44244-Dialogue.mod:0 44245-Dialogue.mod:0 44246-Dialogue.mod:0 44247-Dialogue.mod:0 44248-Dialogue.mod:0 44249-Dialogue.mod:0 96200-Dialogue.mod:0 19529-Dialogue.mod:0 44319-Dialogue.mod:2 44321-Dialogue.mod:2 47625-Dialogue.mod:0 58902-Dialogue.mod:0 19449-Dialogue.mod:0 18802-Dialogue.mod:0 18876-Dialogue.mod:2
+msgid "I don't have enough money..."
+msgstr ""
+
+#. Id: 18046-Recruits Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (1759-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 18046-Recruits?Dialogue.mod:3
+msgid "Don't have enough Cats..."
+msgstr ""
+
+#. Id: 1758-gamedata.base
+#. -- Index: 1.1
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 18055-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1758-gamedata.base:1 18055-Recruits?Dialogue.mod:0
+msgid "I'll pass, thanks"
+msgstr ""
+
+#. Id: 1758-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 1767-gamedata.base
+#. -- Index: 1.2
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 15093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15084-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 700 - non robot
+#. Id: 19242-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. Id: 19629-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19617-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me medic shek
+#. Id: 15152-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15133-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 3000
+#: 1758-gamedata.base:2 1767-gamedata.base:2 15093-Dialogue.mod:0 19242-Dialogue.mod:0 19629-Dialogue.mod:0 15152-Dialogue.mod:0
+msgid "Sorry, not interested"
+msgstr ""
+
+#. Id: 1758-gamedata.base
+#. -- Index: 1.3
+#. -- Parent line: 0 (1754-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 1758-gamedata.base:3
+msgid "Not right now, thanks"
+msgstr ""
+
+#. Id: 5817-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 5817-Recruits?Dialogue.mod:0
+msgid "*Grumbling*... Unfit for medicine, how stupid can they be... Not a one of 'em has seen what goes on in the field."
+msgstr ""
+
+#. Id: 5818-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5817-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 5818-Recruits?Dialogue.mod:0
+msgid "And you have?"
+msgstr ""
+
+#. Id: 5819-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (5818-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 5819-Recruits?Dialogue.mod:0
+msgid "/BOY2/ have you cleaned an amputated arm of sand, wedged it back in there, and sewed it back up? Have you seen a pile of entrails, looked the poor bastard in the eye and said, in complete honestly, \"I've seen worse. You'll be fine.\" Hmm? I have."
+msgstr ""
+
+#. Id: 5820-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5819-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 5820-Recruits?Dialogue.mod:0
+msgid "I need a medic on my team, but I got to ask, why were you declared unfit for medicine?"
+msgstr ""
+
+#. Id: 5821-Recruits Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (5820-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 5821-Recruits?Dialogue.mod:0
+msgid "I...I tried to sew a third and fourth arm on a guy...you know, I almost had it down. Went septic at the end there...anyways, 6000 cats and I'll patch you and your guys up anytime."
+msgstr ""
+
+#. Id: 5822-Recruits Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5821-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 5822-Recruits?Dialogue.mod:0
+msgid "Done, just...no extra limbs please."
+msgstr ""
+
+#. Id: 5823-Recruits Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5821-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 5823-Recruits?Dialogue.mod:0
+msgid "(Leave without saying anything)"
+msgstr ""
+
+#. Id: 5824-Recruits Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5821-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 5824-Recruits?Dialogue.mod:0
+msgid "I can't pay that much."
+msgstr ""
+
+#. Id: 5825-Recruits Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (5821-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 16867-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1765-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#. Id: 19918-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Junior doctor
+#. Id: 41358-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41354-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#: 5825-Recruits?Dialogue.mod:0 16867-Recruits?Dialogue.mod:0 19918-Dialogue.mod:0 41358-Dialogue.mod:0
+msgid "Can you fight?"
+msgstr ""
+
+#. Id: 5826-Recruits Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (5825-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 5826-Recruits?Dialogue.mod:0
+msgid "I'm a lover not a fighter."
+msgstr ""
+
+#. Id: 5828-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (5819-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 5828-Recruits?Dialogue.mod:0
+msgid "That's great and all but uh...nevermind."
+msgstr ""
+
+#. Id: 16852-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5817-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 16852-Recruits?Dialogue.mod:0
+msgid "You're a medic? How much are you charging?"
+msgstr ""
+
+#. Id: 16853-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16852-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 16853-Recruits?Dialogue.mod:0
+msgid "Ah, someone who can appreciate a good medic when they see one, eh? 6000 cats and I'll patch you and your guys up anytime."
+msgstr ""
+
+#. Id: 16855-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (16853-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 1383-gamedata.base
+#. -- Index: 3.1
+#. -- Parent line: 2 (1377-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 18813-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18809-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Tough
+#: 16855-Recruits?Dialogue.mod:0 1383-gamedata.base:1 18813-Dialogue.mod:0
+msgid "Nevermind, I'm not interested"
+msgstr ""
+
+#. Id: 5827-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5817-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 5827-Recruits?Dialogue.mod:0
+msgid "Yeah. Sure. Bye."
+msgstr ""
+
+#. Id: 18038-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18038-Recruits?Dialogue.mod:0
+msgid "I can suture your wounds, splint your broken bones, give you a good going over... Need a doc?"
+msgstr ""
+
+#. Id: 18038-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18038-Recruits?Dialogue.mod:1
+msgid "Every squad should have a decent doctor on board! So... need a doc? I'm your /MEMAN/."
+msgstr ""
+
+#. Id: 18038-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18038-Recruits?Dialogue.mod:2
+msgid "Never neglect your health, /OUTLANDER/. Without it, you're as good as dead. So, on that note... need a doctor?"
+msgstr ""
+
+#. Id: 18038-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18038-Recruits?Dialogue.mod:3
+msgid "I can keep you real nice and healthy, /OUTLANDER/. Need a doc?"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:0 18041-Recruits?Dialogue.mod:0 18043-Recruits?Dialogue.mod:0
+msgid "Don't let those wounds fester, /OUTLANDER/. You look like you could use a medic on board. You hiring?"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:1 18041-Recruits?Dialogue.mod:1 18043-Recruits?Dialogue.mod:1
+msgid "That's an ugly wound you got there, /OUTLANDER/. I could clean it right up for you, looking to hire?"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:2
+msgid "You should get that leg looked at, /OUTLANDER/. I can help you out... need a medic?"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:3 18041-Recruits?Dialogue.mod:3 18043-Recruits?Dialogue.mod:3
+msgid "You look like you could use a doctor, /OUTLANDER/... I'm available for hire if you need me"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:4
+msgid "Yeesh, look at that leg! Don't ever ignore your health, /OUTLANDER/. Without it, you're dead meat... I'm looking for work if you need me, everybody should have a good doctor on board if they're travelling the outlands"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:5
+msgid "/GODDAMN/, look at that leg... Looking to hire a medic? You look like you could use one..."
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:6 18041-Recruits?Dialogue.mod:6 18043-Recruits?Dialogue.mod:6
+msgid "Looking to hire a medic? You look like you could use one..."
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:7 18041-Recruits?Dialogue.mod:7 18043-Recruits?Dialogue.mod:7
+msgid "Well... you certainly look like you could use a medic. And you're just in luck because I'm looking for work!"
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:8
+msgid "You should get that leg looked at, /OUTLANDER/. I happen to be a medic if you need one..."
+msgstr ""
+
+#. Id: 18039-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18039-Recruits?Dialogue.mod:9 18041-Recruits?Dialogue.mod:9 18043-Recruits?Dialogue.mod:9
+msgid ".... You look like you could use a doctor. Well, you're in luck... I'm available for hire."
+msgstr ""
+
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18041-Recruits?Dialogue.mod:2
+msgid "You should get that arm looked at, /OUTLANDER/. I can help you... need a medic?"
+msgstr ""
+
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18041-Recruits?Dialogue.mod:4
+msgid "Yeesh, look at that arm! Don't ever ignore your health, /OUTLANDER/. Without it, you're dead meat... I'm looking for work if you need me, everybody should have a good doctor on board if they're travelling the outlands..."
+msgstr ""
+
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18041-Recruits?Dialogue.mod:5
+msgid "/GODDAMN/, look at that arm... Looking to hire a medic? You look like you could use one..."
+msgstr ""
+
+#. Id: 18041-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18041-Recruits?Dialogue.mod:8
+msgid "You should get that arm looked at, /OUTLANDER/. I happen to be a medic if you need one..."
+msgstr ""
+
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18043-Recruits?Dialogue.mod:2
+msgid "You should get that head looked at, /OUTLANDER/. I can help you, need a medic?"
+msgstr ""
+
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18043-Recruits?Dialogue.mod:4
+msgid "Yeesh, look at that head! Don't ever ignore your health, /OUTLANDER/. Without it, you're dead meat... I'm looking for work if you need me, everybody should have a good doctor on board if they're travelling the outlands"
+msgstr ""
+
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18043-Recruits?Dialogue.mod:5
+msgid "/GODDAMN/, look at that head! Don't ever neglect your health, /OUTLANDER/. Trust me, you do NOT want gangrene on your face, I've seen it before and it ain't pretty... Anyway, looking to hire a medic? You look like you could use one..."
+msgstr ""
+
+#. Id: 18043-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18043-Recruits?Dialogue.mod:8
+msgid "You should get that head looked at, /OUTLANDER/. I happen to be a medic if you need one..."
+msgstr ""
+
+#. Id: 18048-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 18048-Recruits?Dialogue.mod:0
+msgid "Need a medic on your team? My death rate is only 35%, not bad eh?"
+msgstr ""
+
+#. Id: 18048-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 18048-Recruits?Dialogue.mod:1
+msgid "I'm on a roll! Hardly killed any of my patients this year. Looking for a medic?"
+msgstr ""
+
+#. Id: 18048-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 18048-Recruits?Dialogue.mod:2
+msgid "Looking for a medic? I've got a stellar death rate - 30%. Ain't gonna find better than that around here!"
+msgstr ""
+
+#. Id: 18051-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18051-Recruits?Dialogue.mod:0
+msgid "That doesn't sound like something to brag about..."
+msgstr ""
+
+#. Id: 18051-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18048-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18051-Recruits?Dialogue.mod:1
+msgid "You're really not selling yourself to me right now..."
+msgstr ""
+
+#. Id: 18058-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18051-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 18058-Recruits?Dialogue.mod:0
+msgid "Well, I'll offer you a bargain. Only 6000 Cats and I'm yours, take it or leave it. But don't forget to feed me, I get grumpy when I'm hungry"
+msgstr ""
+
+#. Id: 18058-Recruits Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (18051-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 18058-Recruits?Dialogue.mod:1
+msgid "Then I'll offer you a discount, /OUTLANDER/. Just 6000 Cats and I'm all yours!"
+msgstr ""
+
+#. Id: 18059-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18058-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18059-Recruits?Dialogue.mod:0
+msgid "Bargain? Isn't that the going price?"
+msgstr ""
+
+#. Id: 18060-Recruits Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18059-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 18060-Recruits?Dialogue.mod:0
+msgid "Er.. yeah, maybe for one of those incompetent medics that kill all their patients! So, 6000 Cats, deal?"
+msgstr ""
+
+#. Id: 18052-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18052-Recruits?Dialogue.mod:0
+msgid "Sounds good. How much are you charging?"
+msgstr ""
+
+#. Id: 18054-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18054-Recruits?Dialogue.mod:0
+msgid "You sound more like a murderer than a medic, forget it"
+msgstr ""
+
+#. Id: 18053-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18053-Recruits?Dialogue.mod:0
+msgid "A handful of sand in the wound, that's the way to fight infection! Looking to hire a doctor, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18053-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 18053-Recruits?Dialogue.mod:1
+msgid "The secret to fighting infection?... rub sand in the wound. That's our little secret okay, /OUTLANDER/? Need to hire a doctor?"
+msgstr ""
+
+#. Id: 18057-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18053-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18057-Recruits?Dialogue.mod:0
+msgid "That sounds really wrong..."
+msgstr ""
+
+#. Id: 18057-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18053-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18057-Recruits?Dialogue.mod:1
+msgid "Please don't do that. That just sounds painful."
+msgstr ""
+
+#. Id: 18063-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18057-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#: 18063-Recruits?Dialogue.mod:0
+msgid "Believe. Believe, /OUTLANDER/."
+msgstr ""
+
+#. Id: 18064-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18063-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18064-Recruits?Dialogue.mod:0
+msgid "... Okay. How much are you charging?"
+msgstr ""
+
+#. Id: 18065-Recruits Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (18063-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18065-Recruits?Dialogue.mod:0
+msgid "... I mourn for your victims"
+msgstr ""
+
+#. Id: 18061-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18053-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18061-Recruits?Dialogue.mod:0
+msgid "If you're gonna rub SAND in my open wounds? Forget it!"
+msgstr ""
+
+#. Id: 18062-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18053-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18062-Recruits?Dialogue.mod:0
+msgid "Sound advice, thanks. How much are you charging?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:0
+msgid "Back already? You changed your mind?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:1
+msgid "Back so soon?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:2 18028-Recruits?Dialogue.mod:3
+msgid "Ah, back already? Did you change your mind?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 18216-Recruits Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:3 18216-Recruits?Dialogue.mod:10
+msgid "Back again?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#. Id: 18028-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire engineer
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:4 18028-Recruits?Dialogue.mod:8
+msgid "Come back to hire me after all, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:5
+msgid "So, you came back?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:6
+msgid "Ah, it's you again."
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:7
+msgid "You again. Changed your mind?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:8
+msgid "Good to see you again"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:9
+msgid "I take it you changed your mind?"
+msgstr ""
+
+#. Id: 18069-Recruits Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 18069-Recruits?Dialogue.mod:10
+msgid "I guess you came back to hire me?"
+msgstr ""
+
+#. Id: 18070-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 18031-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18028-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire engineer
+#: 18070-Recruits?Dialogue.mod:0 18031-Recruits?Dialogue.mod:1
+msgid "How much was it again?"
+msgstr ""
+
+#. Id: 18070-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 18124-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18070-Recruits?Dialogue.mod:1 18124-Recruits?Dialogue.mod:1
+msgid "How much were you charging again?"
+msgstr ""
+
+#. Id: 18070-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18070-Recruits?Dialogue.mod:2
+msgid "Remind me, how much are you charging?"
+msgstr ""
+
+#. Id: 18070-Recruits Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 13300-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13296-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#: 18070-Recruits?Dialogue.mod:3 13300-Escapes.mod:0
+msgid "How much did you say again?"
+msgstr ""
+
+#. Id: 18070-Recruits Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#. Id: 18124-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 18070-Recruits?Dialogue.mod:4 18124-Recruits?Dialogue.mod:0
+msgid "What was your price again?"
+msgstr ""
+
+#. Id: 18071-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18071-Recruits?Dialogue.mod:0
+msgid "Nevermind, sorry"
+msgstr ""
+
+#. Id: 18071-Recruits Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18071-Recruits?Dialogue.mod:1
+msgid "Nevermind, I'll be going now"
+msgstr ""
+
+#. Id: 18071-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18069-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire doctor 2500
+#: 18071-Recruits?Dialogue.mod:2
+msgid "Nevermind, I'm leaving now"
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:0
+msgid "I've had my share of experience as a medic in the field. Are you looking to hire, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:1
+msgid "Medicine and the workings of human biology has always been a fascination of mine. Are you looking to hire a doctor, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:2
+msgid "Human biology will never cease to fascinate me. I'm a skilled doctor if you're looking to hire, /OUTLANDER/."
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:3
+msgid "I've lived through countless wars and catastrophes in my time, you'll find no better medic than a skeleton. Are you interested in hiring, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:4
+msgid "I've patched up century's worth of patients. If you need an experienced medic, I'm available for hire, /OUTLANDER/."
+msgstr ""
+
+#. Id: 47771-Recruits Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire doctor 2500
+#. -- Condition: My Race(s): Skeleton
+#: 47771-Recruits?Dialogue.mod:5
+msgid "The living body has remarkable resilience, but it also needs care and maintenance, like most things. I'm a medic if you need maintenance, /OUTLANDER/."
+msgstr ""
+

@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40673-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 40673-Dialogue.mod:0
+msgid "You did it! Okran bless you, /BROTHER/!"
+msgstr ""
+
+#. Id: 40673-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 40673-Dialogue.mod:1
+msgid "Praise Okran, you did it, /BROTHER/!"
+msgstr ""
+
+#. Id: 40674-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40674-Dialogue.mod:0
+msgid "Now help me get out of here!"
+msgstr ""
+
+#. Id: 40674-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40674-Dialogue.mod:1
+msgid "Now get me out of here!"
+msgstr ""
+
+#. Id: 40674-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40673-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40674-Dialogue.mod:2
+msgid "Now get me to safety!"
+msgstr ""
+
+#. Id: 40675-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40675-Dialogue.mod:0
+msgid "I'm free! I've got to get out of here!"
+msgstr ""
+
+#. Id: 40676-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (40675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40676-Dialogue.mod:0
+msgid "They'll be purged for what they've done to me! Heinous heretics!"
+msgstr ""
+
+#. Id: 40676-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (40675-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Freed priest
+#: 40676-Dialogue.mod:1
+msgid "They won't get away with this! The Holy Nation will hear of their sinful ways!"
+msgstr ""
+

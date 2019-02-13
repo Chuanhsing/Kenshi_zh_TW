@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55240-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55240-Dialogue.mod:0
+msgid "Kidnapping..."
+msgstr ""
+
+#. Id: 55240-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55240-Dialogue.mod:1
+msgid "Kidnap."
+msgstr ""
+
+#. Id: 55240-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55240-Dialogue.mod:2
+msgid "Snatcher."
+msgstr ""
+
+#. Id: 55241-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55241-Dialogue.mod:0
+msgid "For that, I will destroy you."
+msgstr ""
+
+#. Id: 55241-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55241-Dialogue.mod:1
+msgid "For this, you will die."
+msgstr ""
+
+#. Id: 55241-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55241-Dialogue.mod:2
+msgid "You'll regret this."
+msgstr ""
+
+#. Id: 55241-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55241-Dialogue.mod:3
+msgid "You've made your last mistake crossing /MEUS/."
+msgstr ""
+
+#. Id: 55241-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55241-Dialogue.mod:4
+msgid "Crossing /MEUS/ will be your last mistake."
+msgstr ""
+
+#. Id: 55242-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55242-Dialogue.mod:0
+msgid "To be expected from a /RACENAME/... But you won't escape /MEUS/."
+msgstr ""
+
+#. Id: 55242-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55242-Dialogue.mod:1
+msgid "Predictably treacherous for a /RACENAME/... I'll make sure you can't cross /MEUS/ again."
+msgstr ""
+
+#. Id: 55242-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55242-Dialogue.mod:2
+msgid "You've made a deadly mistake this time, /RACENAME/. No mercy for crooks."
+msgstr ""
+
+#. Id: 55242-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55242-Dialogue.mod:3
+msgid "This will be your last mistake, /RACENAME/."
+msgstr ""
+
+#. Id: 55242-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55240-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55242-Dialogue.mod:4
+msgid "This ends now, /RACENAME/."
+msgstr ""
+
+#. Id: 55245-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55245-Dialogue.mod:0
+msgid "I won't let you escape with them."
+msgstr ""
+
+#. Id: 55245-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55245-Dialogue.mod:1
+msgid "You have something on your shoulder. Care to give it back?"
+msgstr ""
+
+#. Id: 55245-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55245-Dialogue.mod:2
+msgid "Did you think /IWE/'d let you get away with /MYOUR/ ally on your shoulders?"
+msgstr ""
+
+#. Id: 55245-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55245-Dialogue.mod:3
+msgid "You know I can't let you escape now."
+msgstr ""
+
+#. Id: 55246-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55246-Dialogue.mod:0
+msgid "For this, you will be punished, kidnapper."
+msgstr ""
+
+#. Id: 55246-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55246-Dialogue.mod:1
+msgid "For this, I'll punish you, kidnapper."
+msgstr ""
+
+#. Id: 55246-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55246-Dialogue.mod:2
+msgid "Kidnappers will be destroyed."
+msgstr ""
+
+#. Id: 55246-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55245-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton kidnap my ally
+#: 55246-Dialogue.mod:3
+msgid "You've made a lethal mistake today, kidnapper. For that, you will die."
+msgstr ""
+

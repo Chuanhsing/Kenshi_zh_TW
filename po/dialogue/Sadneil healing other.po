@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55601-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55601-Dialogue.mod:0
+msgid "Tell me if this hurts..."
+msgstr ""
+
+#. Id: 55602-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55601-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55602-Dialogue.mod:0
+msgid "Or don't. Because I don't care."
+msgstr ""
+
+#. Id: 55603-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55603-Dialogue.mod:0
+msgid "I hate blood."
+msgstr ""
+
+#. Id: 55669-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55669-Dialogue.mod:0
+msgid "Sewing up humans like old potato sacks... "
+msgstr ""
+
+#. Id: 55671-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55669-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55671-Dialogue.mod:0
+msgid "Terribly dull for a being of my intelligence, you know."
+msgstr ""
+
+#. Id: 55672-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55672-Dialogue.mod:0
+msgid "More wounds to plug up then, is it? Terribly designed, you humans..."
+msgstr ""
+
+#. Id: 55673-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55672-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55673-Dialogue.mod:0
+msgid "Spring leaks as easily as battered old boats."
+msgstr ""
+
+#. Id: 55674-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55674-Dialogue.mod:0
+msgid "'Stuffing' duty for me again, is it? Oh what a glamorous life I lead..."
+msgstr ""
+
+#. Id: 55676-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55674-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55676-Dialogue.mod:0
+msgid "Bite down and keep quiet then, let's stuff those entrails back in..."
+msgstr ""
+
+#. Id: 55677-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
+#: 55677-Dialogue.mod:0
+msgid "Oh that's no good at all, is it? The state you're in, you may as well be inside out..."
+msgstr ""
+
+#. Id: 55679-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55677-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55679-Dialogue.mod:0
+msgid "That's not pretty at all, I'll be surprised if you make it through the night, you know."
+msgstr ""
+
+#. Id: 55680-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55680-Dialogue.mod:0
+msgid "Just don't scream. "
+msgstr ""
+
+#. Id: 55681-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55680-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sadneil healing other
+#: 55681-Dialogue.mod:1
+msgid "I detest screamers."
+msgstr ""
+

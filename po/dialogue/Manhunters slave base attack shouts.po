@@ -1,0 +1,160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61791-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61791-Dialogue.mod:0
+msgid "Don't kill 'em!"
+msgstr ""
+
+#. Id: 61791-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61791-Dialogue.mod:1
+msgid "Knock 'em out, don't kill 'em!"
+msgstr ""
+
+#. Id: 61791-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61791-Dialogue.mod:2
+msgid "Go easy on 'em."
+msgstr ""
+
+#. Id: 61792-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61792-Dialogue.mod:0
+msgid "A dead slave ain't worth nothin'."
+msgstr ""
+
+#. Id: 61792-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61791-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61792-Dialogue.mod:1
+msgid "A dead 'un ain't worth shit to the slavers."
+msgstr ""
+
+#. Id: 61793-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#: 61793-Dialogue.mod:0
+msgid "We'll be rakin' in the money with this lot!"
+msgstr ""
+
+#. Id: 61793-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#: 61793-Dialogue.mod:1
+msgid "All these nameless drifters... we'll be rollin' in Cats!"
+msgstr ""
+
+#. Id: 61793-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
+#: 61793-Dialogue.mod:2
+msgid "Like lambs to the slaughter!"
+msgstr ""
+
+#. Id: 61795-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61793-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61795-Dialogue.mod:0
+msgid "The slavers'll reward us well, heh."
+msgstr ""
+
+#. Id: 61796-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61796-Dialogue.mod:0
+msgid "No one's gonna miss a couple 'o nameless outlanders..."
+msgstr ""
+
+#. Id: 61797-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61796-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61797-Dialogue.mod:0
+msgid "Easy pickin's!"
+msgstr ""
+
+#. Id: 61798-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61798-Dialogue.mod:0
+msgid "No broken limbs!"
+msgstr ""
+
+#. Id: 61798-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61798-Dialogue.mod:1
+msgid "Careful not to break anything!"
+msgstr ""
+
+#. Id: 61798-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61798-Dialogue.mod:2
+msgid "Knock 'em out fast and easy!"
+msgstr ""
+
+#. Id: 61799-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61799-Dialogue.mod:0
+msgid "A broken slave ain't worth nothin'."
+msgstr ""
+
+#. Id: 61799-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61798-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Manhunters slave base attack shouts
+#: 61799-Dialogue.mod:1
+msgid "A broken worker is useless to the slavers."
+msgstr ""
+

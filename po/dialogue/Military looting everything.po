@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:0
+msgid "Let's see what we've got here..."
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:1
+msgid "What a load of junk..."
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:2
+msgid "So, what have we got..."
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:3
+msgid "I need to confiscate all of your belongings... for evidence"
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:4
+msgid "I'm confiscating all of your things"
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:5
+msgid "I'll be taking all of this"
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:6
+msgid "I'm taking all of your stuff. I deserve it."
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:7
+msgid "I'll let you donate all of your stuff to me"
+msgstr ""
+
+#. Id: 15691-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15691-Dialogue.mod:8
+msgid "Let's see what you're hiding..."
+msgstr ""
+
+#. Id: 15692-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15692-Dialogue.mod:0
+msgid "I can have ALL of this?"
+msgstr ""
+
+#. Id: 15692-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15692-Dialogue.mod:1
+msgid "All of this, for me?"
+msgstr ""
+
+#. Id: 15692-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15692-Dialogue.mod:2
+msgid "What? You want to give me ALL of your stuff?"
+msgstr ""
+
+#. Id: 15693-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15692-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15693-Dialogue.mod:0
+msgid "Thanks for the donation! /MERCLAUGH/!"
+msgstr ""
+
+#. Id: 15693-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15692-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15693-Dialogue.mod:1
+msgid "How charitable of you!"
+msgstr ""
+
+#. Id: 15693-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15692-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Military looting everything
+#: 15693-Dialogue.mod:2
+msgid "What a lovely gift, /MERCLAUGH/!"
+msgstr ""
+

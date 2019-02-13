@@ -1,0 +1,163 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41401-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 41401-Dialogue.mod:0 15532-Dialogue.mod:7
+msgid "Agent of darkness!"
+msgstr ""
+
+#. Id: 41403-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 41405-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 41403-Dialogue.mod:0 41405-Dialogue.mod:0
+msgid "Not in MY /SACRED/ city! Be purged in the divine flame of Okran!"
+msgstr ""
+
+#. Id: 41403-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 41405-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 41403-Dialogue.mod:1 41405-Dialogue.mod:1
+msgid "You will not destroy this /SACRED/ city! Burn in the flame of Okran!"
+msgstr ""
+
+#. Id: 41403-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 41403-Dialogue.mod:2
+msgid "Your destruction ends here, dark one! Be purged of these lands!"
+msgstr ""
+
+#. Id: 41402-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 15544-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. Id: 40789-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41402-Dialogue.mod:0 41139-Dialogue.mod:10 15532-Dialogue.mod:2 15544-Dialogue.mod:0 40789-Dialogue.mod:0
+msgid "Agents of darkness!"
+msgstr ""
+
+#. Id: 41405-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41402-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 41405-Dialogue.mod:2
+msgid "Your destruction ends here! Be purged of these lands!"
+msgstr ""
+
+#. Id: 42905-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: WEARING_LOCKED_SHACKLES=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42905-Dialogue.mod:0
+msgid "No beast shall roam /SACRED/ Okranite soil!"
+msgstr ""
+
+#. Id: 42905-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: WEARING_LOCKED_SHACKLES=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 42905-Dialogue.mod:1
+msgid "An untamed beast of Narko!... Not in my /SACRED/ city!"
+msgstr ""
+
+#. Id: 42906-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42905-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#: 42906-Dialogue.mod:0
+msgid "They will be shackled and tamed in the name of Okran!"
+msgstr ""
+
+#. Id: 42906-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (42905-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix sees robot
+#: 42906-Dialogue.mod:1
+msgid "They will be rebirthed and educated in the scriptures of radiance!"
+msgstr ""
+

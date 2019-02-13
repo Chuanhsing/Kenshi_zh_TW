@@ -1,0 +1,1680 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15396-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15396-Dialogue.mod:0
+msgid "This is Shek /LAND/, /FLATSKIN/! You looking for war? I'll give you a war!"
+msgstr ""
+
+#. Id: 15396-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15396-Dialogue.mod:1
+msgid "This is Shek /LAND/, /FLATSKIN/! You must be looking for /WAR/! Then fight!"
+msgstr ""
+
+#. Id: 15396-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15396-Dialogue.mod:2
+msgid "/FLATSKIN/! This is Shek soil! You must be out for /WAR/ to tread here. Raise your sword!"
+msgstr ""
+
+#. Id: 15396-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15396-Dialogue.mod:3
+msgid "You tread on Shek soil, /FLATSKIN/! Is it /WAR/ that you're after?! Come to me!"
+msgstr ""
+
+#. Id: 15399-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15399-Dialogue.mod:0
+msgid "What? I don't want to fight!"
+msgstr ""
+
+#. Id: 15399-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15399-Dialogue.mod:1
+msgid "Wait! I don't want any trouble..."
+msgstr ""
+
+#. Id: 15399-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15399-Dialogue.mod:2
+msgid "No.. I don't want to fight!"
+msgstr ""
+
+#. Id: 15399-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15399-Dialogue.mod:3
+msgid "I don't want /WAR/..."
+msgstr ""
+
+#. Id: 15399-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15399-Dialogue.mod:4
+msgid "Let's not fight..."
+msgstr ""
+
+#. Id: 15402-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15402-Dialogue.mod:0
+msgid "So... you're a /CRAVEN/?"
+msgstr ""
+
+#. Id: 15413-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15413-Dialogue.mod:0
+msgid "... Yes, I am"
+msgstr ""
+
+#. Id: 15404-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15404-Dialogue.mod:0
+msgid "Just as I should have expected from a /FLATSKIN/. Then /BEND/ to the dirt, /MUTT/, a /CRAVEN/ doesn't deserve to stand tall"
+msgstr ""
+
+#. Id: 15404-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15404-Dialogue.mod:1
+msgid "As I'd expect from a spineless /FLATSKIN/. Then /BEND/ to the dirt! A /MUTT/ cannot stand without a /SPINE/..."
+msgstr ""
+
+#. Id: 15404-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15404-Dialogue.mod:2
+msgid "Such cowardice... something I should expect from a /FLATSKIN/. A /MUTT/ cannot stand if it has no /SPINE/. /BEND/ to the dirt, /CRAVEN/."
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:0 17898-Dialogue.mod:0
+msgid "(Bow to the ground)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:1 17898-Dialogue.mod:1
+msgid "(Bend to the ground)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:2 17898-Dialogue.mod:2
+msgid "(Kneel to the ground)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:3 17898-Dialogue.mod:3
+msgid "(Bow to the floor)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:4 17898-Dialogue.mod:4
+msgid "(Grovel)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:5 17898-Dialogue.mod:5
+msgid "(Kneel)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.6
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:6 17898-Dialogue.mod:6
+msgid "(Kowtow)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.7
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.7
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:7 17898-Dialogue.mod:7
+msgid "Yes... (Bow down)"
+msgstr ""
+
+#. Id: 15446-Dialogue.mod
+#. -- Index: 5.8
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 17898-Dialogue.mod
+#. -- Index: 6.8
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15446-Dialogue.mod:8 17898-Dialogue.mod:8
+msgid "... (Bend down)"
+msgstr ""
+
+#. Id: 15448-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15448-Dialogue.mod:0
+msgid "Lower! To the /DIRT/ like the begging /CRAVEN/ that you are (Their boot pushes your face into the /DIRT/)"
+msgstr ""
+
+#. Id: 15448-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15448-Dialogue.mod:1
+msgid "Further down! To the /DIRT/ like the shameful /CRAVEN/ that you are (Their boot pushes your nose into the /DIRT/)"
+msgstr ""
+
+#. Id: 15448-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15448-Dialogue.mod:2
+msgid "More! To the /DIRT/ like the /DIRTY/ /CRAVEN/ that you are (Their boot pushes your nose into the /DIRT/)"
+msgstr ""
+
+#. Id: 15448-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15448-Dialogue.mod:3
+msgid "Not low enough! Eat the /DIRT/, the food of /CRAVEN/s! (They push you down into the /DIRT/)"
+msgstr ""
+
+#. Id: 15448-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15448-Dialogue.mod:4
+msgid "No, lower, you must eat the /DIRT/ (Their foot kicks you to the ground),  the bread of /CRAVEN/ /MUTT/s..."
+msgstr ""
+
+#. Id: 15450-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (15449-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15450-Dialogue.mod:2
+msgid "Depressing..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:0
+msgid "Shameful..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:1
+msgid "Disgraceful..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:2
+msgid "Let's go. This place reeks of /TRASH/..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.3
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 15458-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:3 15458-Dialogue.mod:2
+msgid "/TRASH/..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.4
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:4
+msgid "Contemptible..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.5
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:5
+msgid "Embarrassing..."
+msgstr ""
+
+#. Id: 15454-Dialogue.mod
+#. -- Index: 9.6
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15454-Dialogue.mod:6
+msgid "Humiliating..."
+msgstr ""
+
+#. Id: 15456-Dialogue.mod
+#. -- Index: 9.2
+#. -- Parent line: 8 (15450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15456-Dialogue.mod:2
+msgid "Leave /HIM/ to the /DIRT/"
+msgstr ""
+
+#. Id: 15514-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15514-Dialogue.mod:0
+msgid "Do not fear death, frail /FLATSKIN/. Fear the dishonor of cowardice."
+msgstr ""
+
+#. Id: 15514-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15514-Dialogue.mod:1
+msgid "Your small life is like a drop in the ocean, /FLATSKIN/, it is nothing to be feared. Death has an end... dishonor does not."
+msgstr ""
+
+#. Id: 15514-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15514-Dialogue.mod:2
+msgid "Honor before death, /FLATSKIN/. Because death is nothing."
+msgstr ""
+
+#. Id: 15514-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15514-Dialogue.mod:3
+msgid "Honor before death, /FLATSKIN/. Because death is nothing... Your honor, however, is everything. I mourn for your loss of it."
+msgstr ""
+
+#. Id: 15514-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (15446-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15514-Dialogue.mod:4
+msgid "Death is nothing, /FLATSKIN/. But the dishonour of cowardice is real."
+msgstr ""
+
+#. Id: 15515-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15514-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15515-Dialogue.mod:0
+msgid "Live forever with your shame, /CRAVEN/."
+msgstr ""
+
+#. Id: 15515-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15514-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15515-Dialogue.mod:1
+msgid "Let your shame forever hang over your head, /CRAVEN/."
+msgstr ""
+
+#. Id: 15515-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15514-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15515-Dialogue.mod:2
+msgid "Your disgrace will forever loom over your head, /CRAVEN/."
+msgstr ""
+
+#. Id: 15447-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15447-Dialogue.mod:1
+msgid "(Punch them in the eyes)"
+msgstr ""
+
+#. Id: 15447-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15447-Dialogue.mod:2
+msgid "(Karate chop them in the neck)"
+msgstr ""
+
+#. Id: 15457-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15404-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15457-Dialogue.mod:1
+msgid "(Flee)"
+msgstr ""
+
+#. Id: 15458-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15457-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15458-Dialogue.mod:1
+msgid "Pitiful..."
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:0
+msgid "Peasants need to be put in their place"
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:1
+msgid "A /MUTT/ needs to be put in their place"
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 15502-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:2 15502-Dialogue.mod:0
+msgid "An insult to Kral!"
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:3
+msgid "A coward's choice..."
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:4
+msgid "Never back down..."
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:5
+msgid "There is nothing to fear in death"
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.6
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:6
+msgid "Honor before death!"
+msgstr ""
+
+#. Id: 15461-Dialogue.mod
+#. -- Index: 7.7
+#. -- Parent line: 6 (15458-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15461-Dialogue.mod:7
+msgid "I'll end this quickly"
+msgstr ""
+
+#. Id: 15403-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15403-Dialogue.mod:0
+msgid "Well, I'm no match for a Shek Warrior"
+msgstr ""
+
+#. Id: 15415-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15415-Dialogue.mod:0
+msgid "Truth. But death in /WAR/ is nothing to fear when compared to the shame in cowardice..."
+msgstr ""
+
+#. Id: 15415-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15415-Dialogue.mod:1
+msgid "Truth... But honor always comes before death. Whether we are matched or not, it doesn't matter."
+msgstr ""
+
+#. Id: 15415-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15415-Dialogue.mod:2
+msgid "Indeed. But you can still choose to live with shame or to die with honor. Regardless of your skills."
+msgstr ""
+
+#. Id: 15465-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15465-Dialogue.mod:0
+msgid "So /BEND/ to the dirt or fight, /MUTT/. A /CRAVEN/ doesn't deserve to stand tall"
+msgstr ""
+
+#. Id: 15465-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15465-Dialogue.mod:1
+msgid "So /BEND/ to the dirt or fight for your honor! A /CRAVEN/ cannot stand without a /SPINE/..."
+msgstr ""
+
+#. Id: 15465-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15465-Dialogue.mod:2
+msgid "So which will it be, /MUTT/? Will you fight, or will you /BEND/ to the dirt like a shameless /CRAVEN/?"
+msgstr ""
+
+#. Id: 15465-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15415-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15465-Dialogue.mod:3
+msgid "A /CRAVEN/ cannot stand if it has no /SPINE/. So /BEND/ to the /DIRT/ or fight me. Which will it be? "
+msgstr ""
+
+#. Id: 15466-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15466-Dialogue.mod:0
+msgid "Hyahhhh! (Attack)"
+msgstr ""
+
+#. Id: 15466-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15466-Dialogue.mod:1
+msgid "Rarrrrgh! (Attack)"
+msgstr ""
+
+#. Id: 15466-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15466-Dialogue.mod:2
+msgid "Hrarrrrgh! (Attack)"
+msgstr ""
+
+#. Id: 15468-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 15468-Dialogue.mod:2
+msgid "Pleasing"
+msgstr ""
+
+#. Id: 15468-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 15468-Dialogue.mod:4
+msgid "Excellent"
+msgstr ""
+
+#. Id: 15472-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15472-Dialogue.mod:2
+msgid "Good!"
+msgstr ""
+
+#. Id: 15472-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15472-Dialogue.mod:5
+msgid "Show me what you've got!"
+msgstr ""
+
+#. Id: 15472-Dialogue.mod
+#. -- Index: 7.6
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15472-Dialogue.mod:6
+msgid "Show me your skills!"
+msgstr ""
+
+#. Id: 15475-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 15433-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15475-Dialogue.mod:0 15433-Dialogue.mod:0
+msgid "I'll give you an honorable death"
+msgstr ""
+
+#. Id: 15475-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 15475-Dialogue.mod:2
+msgid "You'll die a courageous death"
+msgstr ""
+
+#. Id: 15470-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15470-Dialogue.mod:0
+msgid "Then let's do this! (Attack)"
+msgstr ""
+
+#. Id: 15470-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15470-Dialogue.mod:1
+msgid "I guess you leave me no choice (Attack)"
+msgstr ""
+
+#. Id: 15470-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15470-Dialogue.mod:2
+msgid "Fine. We'll do it your way. (Attack)"
+msgstr ""
+
+#. Id: 17899-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (17898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 17899-Dialogue.mod:2
+msgid "Your cowardice is disappointing..."
+msgstr ""
+
+#. Id: 17899-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (17898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 17899-Dialogue.mod:3
+msgid "So you choose the path of the /CRAVEN/..."
+msgstr ""
+
+#. Id: 17899-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (17898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 17899-Dialogue.mod:4
+msgid "So, like a lowly /MUTT/, you choose the /DIRT/ over your honor..."
+msgstr ""
+
+#. Id: 17899-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (17898-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 17899-Dialogue.mod:5
+msgid "Then hang your head low. Look to the /DIRT/..."
+msgstr ""
+
+#. Id: 15414-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15414-Dialogue.mod:0
+msgid "I'm a lover not a fighter"
+msgstr ""
+
+#. Id: 15414-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15414-Dialogue.mod:1
+msgid "I'm an advocate of peace, not war"
+msgstr ""
+
+#. Id: 15414-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. Id: 15417-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15414-Dialogue.mod:2 15417-Dialogue.mod:1
+msgid "I don't fight without good reason"
+msgstr ""
+
+#. Id: 15414-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15414-Dialogue.mod:3
+msgid "No, I simply hate war"
+msgstr ""
+
+#. Id: 15483-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15483-Dialogue.mod:0
+msgid "Sounds like the excuses of a /CRAVEN/. "
+msgstr ""
+
+#. Id: 15483-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15483-Dialogue.mod:1
+msgid "Life is /WAR/. There is nothing else."
+msgstr ""
+
+#. Id: 15483-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15483-Dialogue.mod:2
+msgid "/WAR/ is wisdom. To not fight is to not live."
+msgstr ""
+
+#. Id: 17902-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 17902-Dialogue.mod:0
+msgid "Of course not. I just have more important things to do than /BRAWL/..."
+msgstr ""
+
+#. Id: 17902-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 17902-Dialogue.mod:1
+msgid "What? No, I JUST have better things to do than /BRAWL/ in the /SANDS/"
+msgstr ""
+
+#. Id: 17902-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15402-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 17902-Dialogue.mod:2
+msgid "Of course not... Brawling is for animals. I'm better than that."
+msgstr ""
+
+#. Id: 15400-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15400-Dialogue.mod:0
+msgid "Don't push me, Shek."
+msgstr ""
+
+#. Id: 15400-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15400-Dialogue.mod:1
+msgid "Back off, Shek, I'm warning you."
+msgstr ""
+
+#. Id: 15400-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15400-Dialogue.mod:2
+msgid "Don't mess with me, Shek..."
+msgstr ""
+
+#. Id: 15400-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15400-Dialogue.mod:3
+msgid "You're pushing it, Shek, back off."
+msgstr ""
+
+#. Id: 15400-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15400-Dialogue.mod:4
+msgid "Don't push it, Shek, back off."
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:0
+msgid "Strong words. Then come to me! Show me your worth!"
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:1
+msgid "Big words. Then come to me! Show me your strength!"
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:2
+msgid "A /FLATSKIN/ with a /SPINE/! Then let's see what you've got, fight me!"
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:3
+msgid "Brave words for a /FLATSKIN/. So back them up, show me what you're made of!"
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:4
+msgid "What are you going to do, /FLATSKIN/? You want a fight? Let's fight!"
+msgstr ""
+
+#. Id: 15416-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (15400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15416-Dialogue.mod:5
+msgid "You're on my home /LAND/, /FLATSKIN/. The soil of warriors. Expect /WAR/!"
+msgstr ""
+
+#. Id: 15418-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15418-Dialogue.mod:0
+msgid "A /BRUTE/ like you isn't worth my time"
+msgstr ""
+
+#. Id: 15418-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15418-Dialogue.mod:1
+msgid "I don't /BRAWL/ with /BRUTE/s"
+msgstr ""
+
+#. Id: 15418-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15418-Dialogue.mod:2
+msgid "I'm not into /BRUTE/ /BRAWL/s"
+msgstr ""
+
+#. Id: 15426-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15426-Dialogue.mod:0
+msgid "/IDIOCY/! An insult to my brethren!"
+msgstr ""
+
+#. Id: 15426-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15426-Dialogue.mod:2
+msgid "What?! /IDIOCY/!"
+msgstr ""
+
+#. Id: 15429-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 15429-Dialogue.mod:1
+msgid "I fight for glory!"
+msgstr ""
+
+#. Id: 15429-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 15429-Dialogue.mod:2
+msgid "I fight for honor!"
+msgstr ""
+
+#. Id: 15429-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 15429-Dialogue.mod:4
+msgid "For my kin!"
+msgstr ""
+
+#. Id: 15429-Dialogue.mod
+#. -- Index: 5.7
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 15429-Dialogue.mod:7
+msgid "Draw your sword!"
+msgstr ""
+
+#. Id: 15437-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 15437-Dialogue.mod:2
+msgid "I'll crush your spine!"
+msgstr ""
+
+#. Id: 15430-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (15422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15430-Dialogue.mod:4
+msgid "Fear is for the weak!"
+msgstr ""
+
+#. Id: 15423-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15423-Dialogue.mod:0
+msgid "/FINE/. But be warned that I'm weak from fasting"
+msgstr ""
+
+#. Id: 15423-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15423-Dialogue.mod:1
+msgid "/FINE/. But I'm injured so I won't be my best"
+msgstr ""
+
+#. Id: 15423-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15423-Dialogue.mod:2
+msgid "I'm injured, but I guess I have no choice but to fight you"
+msgstr ""
+
+#. Id: 15423-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15423-Dialogue.mod:3
+msgid "/FINE/. But I'm dehydrated so it won't be a fair fight"
+msgstr ""
+
+#. Id: 15423-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15423-Dialogue.mod:4
+msgid "/FINE/. But it won't be fair fight. I'm wounded."
+msgstr ""
+
+#. Id: 15435-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15435-Dialogue.mod:0
+msgid "Excuses! A true warrior will always be ready for /WAR/!"
+msgstr ""
+
+#. Id: 15435-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15435-Dialogue.mod:1
+msgid "Deception! A true warrior does not hide behind excuses..."
+msgstr ""
+
+#. Id: 15435-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15435-Dialogue.mod:2
+msgid "Drivel! A true warrior speaks of pride, not excuses..."
+msgstr ""
+
+#. Id: 15436-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15436-Dialogue.mod:0
+msgid ".../FINE/. Then I won't fight you right now, /FLATSKIN/, you aren't in a worthy state."
+msgstr ""
+
+#. Id: 15436-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15436-Dialogue.mod:1
+msgid "... /FINE/. Then I won't fight you right now, /FLATSKIN/, I want no advantage..."
+msgstr ""
+
+#. Id: 15436-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15436-Dialogue.mod:2
+msgid "... I will have no advantage, /FLATSKIN/. We will battle another day. "
+msgstr ""
+
+#. Id: 15503-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15503-Dialogue.mod:0
+msgid "Tread lightly!"
+msgstr ""
+
+#. Id: 15503-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15503-Dialogue.mod:2
+msgid "Until next time..."
+msgstr ""
+
+#. Id: 15417-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15417-Dialogue.mod:0
+msgid "I only fight when I have to"
+msgstr ""
+
+#. Id: 15417-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15416-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15417-Dialogue.mod:2
+msgid "I only fight when it's for a good cause"
+msgstr ""
+
+#. Id: 15484-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15484-Dialogue.mod:0
+msgid "I am giving you good reason, /FLATSKIN/. The chance for a glorious battle!"
+msgstr ""
+
+#. Id: 15485-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15485-Dialogue.mod:0
+msgid "So, what DO you fight for, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 15486-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15486-Dialogue.mod:0
+msgid "Peace"
+msgstr ""
+
+#. Id: 15486-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15486-Dialogue.mod:1
+msgid "Love"
+msgstr ""
+
+#. Id: 15486-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15486-Dialogue.mod:2
+msgid "Happiness"
+msgstr ""
+
+#. Id: 15509-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15509-Dialogue.mod:0
+msgid "Nauseating..."
+msgstr ""
+
+#. Id: 15509-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15509-Dialogue.mod:1
+msgid "... Without /WAR/ life is nothing... there is no meaning."
+msgstr ""
+
+#. Id: 15509-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (15486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15509-Dialogue.mod:2
+msgid "Lunacy. Without /WAR/ there is no afterlife, no Gateway."
+msgstr ""
+
+#. Id: 15512-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15511-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15512-Dialogue.mod:0
+msgid "Then go. I won't force /WAR/ on a spiritless warrior."
+msgstr ""
+
+#. Id: 15512-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15511-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15512-Dialogue.mod:1
+msgid "Then leave. I won't push /WAR/ on a souless warrior."
+msgstr ""
+
+#. Id: 15512-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15511-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15512-Dialogue.mod:2
+msgid "Then go. I won't wage /WAR/ on a lost warrior."
+msgstr ""
+
+#. Id: 15487-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15487-Dialogue.mod:0
+msgid "To /PROTECT/ the weak"
+msgstr ""
+
+#. Id: 15487-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15487-Dialogue.mod:1
+msgid "Protection of the innocent"
+msgstr ""
+
+#. Id: 15487-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15487-Dialogue.mod:2
+msgid "To defend the innocent"
+msgstr ""
+
+#. Id: 15494-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15494-Dialogue.mod:0
+msgid "Honorable. But the weak should be taught to protect themselves, with pride. "
+msgstr ""
+
+#. Id: 15494-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15487-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15494-Dialogue.mod:1
+msgid "So you think yourself a hero, /FLATSKIN/? The weak need to learn to protect themselves, for their own souls."
+msgstr ""
+
+#. Id: 15495-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15495-Dialogue.mod:0
+msgid "Are you able to /PROTECT/ yourself, /FLATSKIN/? Or are you one of the weaklings that need protecting?"
+msgstr ""
+
+#. Id: 15495-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15495-Dialogue.mod:1
+msgid "Do you need protecting, /FLATSKIN/? Or are you worthy to /PROTECT/ yourself?"
+msgstr ""
+
+#. Id: 15495-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15495-Dialogue.mod:2
+msgid "You like to /PROTECT/ the weak, but can you protect yourself against a Shek, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 15497-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15497-Dialogue.mod:0
+msgid "I can /PROTECT/ myself"
+msgstr ""
+
+#. Id: 15501-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (15497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15501-Dialogue.mod:0
+msgid "Then show me! Test your skills to their max!"
+msgstr ""
+
+#. Id: 15498-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15498-Dialogue.mod:0
+msgid "I do whatever it takes to survive"
+msgstr ""
+
+#. Id: 15505-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (15498-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15505-Dialogue.mod:0
+msgid "Curious. Then show me what you've got."
+msgstr ""
+
+#. Id: 15499-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15495-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15499-Dialogue.mod:0
+msgid "Is that a challenge?"
+msgstr ""
+
+#. Id: 15519-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (15499-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15519-Dialogue.mod:0
+msgid "/OFCOURSE/. Fight me, 'protector of the weak'. Show me what you've got."
+msgstr ""
+
+#. Id: 15496-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15496-Dialogue.mod:0
+msgid "But /FINE/. I will not force /WAR/ upon an unwilling /MAN/."
+msgstr ""
+
+#. Id: 15496-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15496-Dialogue.mod:1
+msgid "But /FINE/. I will not force /WAR/ upon an unwanting warrior."
+msgstr ""
+
+#. Id: 15496-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15496-Dialogue.mod:2
+msgid "I will respect your values though, /FLATSKIN/. Until next time..."
+msgstr ""
+
+#. Id: 15496-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (15494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15496-Dialogue.mod:3
+msgid "I am no /BRUTE/ though, /FLATSKIN/. If you will not fight then I'll leave you to your roaming."
+msgstr ""
+
+#. Id: 15489-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15489-Dialogue.mod:0
+msgid "Fame and glory"
+msgstr ""
+
+#. Id: 15489-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15489-Dialogue.mod:1
+msgid "Fame and renown"
+msgstr ""
+
+#. Id: 15489-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15489-Dialogue.mod:2
+msgid "Fame and honor"
+msgstr ""
+
+#. Id: 15491-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15489-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15491-Dialogue.mod:0
+msgid "Then it is an insult that you refuse the mightiest of warriors!"
+msgstr ""
+
+#. Id: 15491-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15489-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15491-Dialogue.mod:1
+msgid "And you refuse to do battle with a Shek warrior, the mightiest of all fighters?! An insult!"
+msgstr ""
+
+#. Id: 15488-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15488-Dialogue.mod:0
+msgid "World domination"
+msgstr ""
+
+#. Id: 15492-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15488-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15492-Dialogue.mod:0
+msgid "And what about Shek Kingdom? You think you can dominate us? Prove yourself!"
+msgstr ""
+
+#. Id: 15490-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15485-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 15490-Dialogue.mod:0
+msgid "Loot and treasure"
+msgstr ""
+
+#. Id: 15508-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15508-Dialogue.mod:0
+msgid "To be expected from a /GREASY/ /FLATSKIN/... And it gives me all the more reason to break you."
+msgstr ""
+
+#. Id: 15508-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (15490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 15508-Dialogue.mod:1
+msgid "As I'd expect from a greedy /FLATSKIN/. And all the more reason to defend my /LAND/ against your kind"
+msgstr ""
+
+#. Id: 15401-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 15401-Dialogue.mod:0
+msgid "Bite me, bonehead!"
+msgstr ""
+
+#. Id: 15411-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 15411-Dialogue.mod:0
+msgid "Bring it on, /RUNT/!"
+msgstr ""
+
+#. Id: 15411-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 15411-Dialogue.mod:1
+msgid "Then come at me, /RUNT/!"
+msgstr ""
+
+#. Id: 16700-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 16700-Dialogue.mod:0
+msgid "Is it money that you want?"
+msgstr ""
+
+#. Id: 16700-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 16700-Dialogue.mod:1
+msgid "I can give you money? "
+msgstr ""
+
+#. Id: 16700-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15396-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek attack
+#: 16700-Dialogue.mod:2
+msgid "Maybe we can settle this with money?"
+msgstr ""
+
+#. Id: 16701-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 16701-Dialogue.mod:0
+msgid "An insult! You outsiders and your filthy Cats disgust me!"
+msgstr ""
+
+#. Id: 16701-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (16700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 16701-Dialogue.mod:1
+msgid "Typical /GREASY/ /FLATSKIN/... You bloated /MUTT/s and your Cats sicken me! Displeasing..."
+msgstr ""
+

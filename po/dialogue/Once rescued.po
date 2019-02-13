@@ -1,0 +1,517 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 6091-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6091-Dialogue.mod:0
+msgid "Hey, I know that face"
+msgstr ""
+
+#. Id: 6091-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6091-Dialogue.mod:1
+msgid "Hey, I recognize /HIM/"
+msgstr ""
+
+#. Id: 6091-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6091-Dialogue.mod:2
+msgid "I recognize /THISGUY/"
+msgstr ""
+
+#. Id: 6091-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6091-Dialogue.mod:3
+msgid "Hey, it's you!"
+msgstr ""
+
+#. Id: 6091-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 6092-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6091-Dialogue.mod:4 6092-Dialogue.mod:4
+msgid "Hey I know you"
+msgstr ""
+
+#. Id: 6093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6093-Dialogue.mod:0
+msgid "A while back /THISGUY/ SAVED my ass!"
+msgstr ""
+
+#. Id: 6093-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6093-Dialogue.mod:1
+msgid "/THISGUY/ SAVED my skin!"
+msgstr ""
+
+#. Id: 6093-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6093-Dialogue.mod:2
+msgid "I wouldn't be alive now if it wasn't for /THISGUY/"
+msgstr ""
+
+#. Id: 6093-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6093-Dialogue.mod:3
+msgid "I'd be dead if /THISGUY/ hadn't helped me out"
+msgstr ""
+
+#. Id: 6093-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (6091-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6093-Dialogue.mod:4
+msgid "I owe /THISGUY/ my life!"
+msgstr ""
+
+#. Id: 6095-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6095-Dialogue.mod:0
+msgid "Huh? /THISGUY/?"
+msgstr ""
+
+#. Id: 6095-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6095-Dialogue.mod:1
+msgid "Who? /THISGUY/?"
+msgstr ""
+
+#. Id: 6095-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. Id: 6101-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (6100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6095-Dialogue.mod:2 6101-Dialogue.mod:2
+msgid "What are you talkin' about?"
+msgstr ""
+
+#. Id: 6095-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (6094-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. Id: 6101-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (6100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. Id: 56169-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: barman generic
+#. Id: 44626-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 45024-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper trade
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 20228-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 2000
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<25, Tag: -1
+#. Id: 5465-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 1533040-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ally talk to Flotsam Ninja
+#. Id: 98453-__March 18.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal hunter talk to
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=0, Tag: -1
+#. Id: 3953-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk drifter
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 6095-Dialogue.mod:3 6101-Dialogue.mod:3 56169-rebirth.mod:2 44626-Dialogue.mod:3 45024-Dialogue.mod:3 20228-Dialogue.mod:3 5465-gamedata.base:1 1533040-Dialogue.mod:0 98453-__March?18.mod:0 3953-gamedata.base:2 18123-Recruits?Dialogue.mod:8
+msgid "Yeah?"
+msgstr ""
+
+#. Id: 6096-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6096-Dialogue.mod:0
+msgid "Anybody touch a hair on /THISGUY/'s head, and I /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 6096-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6096-Dialogue.mod:1
+msgid "Anybody tries messing with /THISGUY/, they answer to ME"
+msgstr ""
+
+#. Id: 6096-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6096-Dialogue.mod:2
+msgid "Fucking touch /THISGUY/ and I /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 6092-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6092-Dialogue.mod:0
+msgid "Hey, I know these guys"
+msgstr ""
+
+#. Id: 6092-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6092-Dialogue.mod:1
+msgid "Hey, I recognize them"
+msgstr ""
+
+#. Id: 6092-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6092-Dialogue.mod:2
+msgid "I recognize those guys"
+msgstr ""
+
+#. Id: 6092-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 6092-Dialogue.mod:3
+msgid "Hey, it's you guys!"
+msgstr ""
+
+#. Id: 6099-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (6092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6099-Dialogue.mod:0
+msgid "A while back these guys SAVED my ass!"
+msgstr ""
+
+#. Id: 6099-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (6092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6099-Dialogue.mod:1
+msgid "These guys SAVED my skin!"
+msgstr ""
+
+#. Id: 6099-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (6092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6099-Dialogue.mod:2
+msgid "I wouldn't be alive now if it wasn't for these guys"
+msgstr ""
+
+#. Id: 6099-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (6092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6099-Dialogue.mod:3
+msgid "I'd be dead if these guys hadn't helped me out"
+msgstr ""
+
+#. Id: 6099-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (6092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6099-Dialogue.mod:4
+msgid "I owe these guys my life!"
+msgstr ""
+
+#. Id: 6101-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6101-Dialogue.mod:0
+msgid "Huh? These guys?"
+msgstr ""
+
+#. Id: 6101-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6100-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6101-Dialogue.mod:1
+msgid "Who? Them?"
+msgstr ""
+
+#. Id: 6102-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (6101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6102-Dialogue.mod:0
+msgid "Anybody touch a hair on these guys' heads, and I /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 6102-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (6101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6102-Dialogue.mod:1
+msgid "Anybody tries messing with these guys, they answer to ME"
+msgstr ""
+
+#. Id: 6102-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (6101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6102-Dialogue.mod:2
+msgid "Fucking touch these guys and I /SLITYOURTHROAT/"
+msgstr ""
+
+#. Id: 6105-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6105-Dialogue.mod:0
+msgid "Hey, I recognize /THISGUY/..."
+msgstr ""
+
+#. Id: 6105-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6105-Dialogue.mod:1
+msgid "Hm, I think I know /THISGUY/"
+msgstr ""
+
+#. Id: 6108-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 6108-Dialogue.mod:0
+msgid "Huh? /THISGUY/? Looks like a /IDIOT/ to me"
+msgstr ""
+
+#. Id: 6108-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 6112-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6108-Dialogue.mod:1 6112-Dialogue.mod:1
+msgid "Uh-huh?"
+msgstr ""
+
+#. Id: 6108-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. Id: 6112-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6108-Dialogue.mod:2 6112-Dialogue.mod:2
+msgid "Yup?"
+msgstr ""
+
+#. Id: 6109-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6108-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6109-Dialogue.mod:0
+msgid "...Nah. This, this is a good /GUY/. Look after /EM/."
+msgstr ""
+
+#. Id: 6109-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (6108-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 6109-Dialogue.mod:1
+msgid "...Ah yeah, /HE/ kinda helped me out once"
+msgstr ""
+
+#. Id: 6111-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (6110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 6111-Dialogue.mod:0
+msgid "Well, whatever"
+msgstr ""
+
+#. Id: 6111-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (6110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 6111-Dialogue.mod:1
+msgid "Anyway whatever"
+msgstr ""
+
+#. Id: 6111-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (6110-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 6111-Dialogue.mod:2
+msgid "Shit happens"
+msgstr ""
+
+#. Id: 6112-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (6107-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Once rescued
+#: 6112-Dialogue.mod:0
+msgid "Huh? These guys? Look like a bunch of /IDIOT/s to me"
+msgstr ""
+
+#. Id: 58092-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (6112-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Once rescued
+#: 58092-Dialogue.mod:0
+msgid "...Nah. These, these are good guys. Look after /EM/."
+msgstr ""
+

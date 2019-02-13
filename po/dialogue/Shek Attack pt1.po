@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16374-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#: 16374-Dialogue.mod:0
+msgid "Stop! Outsider!"
+msgstr ""
+
+#. Id: 16377-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16374-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16377-Dialogue.mod:0
+msgid "I won't warn you twice"
+msgstr ""
+
+#. Id: 16395-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (16377-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Attack pt1
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 16395-Dialogue.mod:0
+msgid "/COWARD/..."
+msgstr ""
+

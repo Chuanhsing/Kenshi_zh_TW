@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12351-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 12351-Dialogue?(10).mod:0
+msgid "Well, /WHOTHEFUCK/ are you?"
+msgstr ""
+
+#. Id: 12351-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 12351-Dialogue?(10).mod:2
+msgid "And /WHOTHEFUCK/ are you?"
+msgstr ""
+
+#. Id: 12351-Dialogue (10).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 12351-Dialogue?(10).mod:3
+msgid "How the hell d' YOU get in?"
+msgstr ""
+
+#. Id: 12351-Dialogue (10).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 12351-Dialogue?(10).mod:4
+msgid "Who let the /INSULT/ in?"
+msgstr ""
+
+#. Id: 12350-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12351-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 12350-Dialogue?(10).mod:0
+msgid "Go on, /GETLOST/"
+msgstr ""
+
+#. Id: 42323-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42323-Dialogue.mod:0
+msgid "I said /GETLOST/!!"
+msgstr ""
+
+#. Id: 42323-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42323-Dialogue.mod:1
+msgid "You tryin' to steal from me?! Eh, /INSULT/!?"
+msgstr ""
+
+#. Id: 42323-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42323-Dialogue.mod:2
+msgid "I ain't tellin' you again, /INSULT/!"
+msgstr ""
+
+#. Id: 42323-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 42323-Dialogue.mod:3
+msgid "I ain't a patient /MEMAN/, /INSULT/! /GETLOST/!"
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:1
+msgid "Intruders get cut!"
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:2
+msgid "Then let me show you the door, /QUICKLAUGH/..."
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:3
+msgid "That's it! I'll take you out myself!"
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:4
+msgid "You ain't welcome here!"
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:5
+msgid "Annoyin' son of a bitch!"
+msgstr ""
+
+#. Id: 47442-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (42323-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#: 47442-Dialogue.mod:6
+msgid "No more waiting! Get out and stay out!"
+msgstr ""
+
+#. Id: 45415-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 45415-Dialogue.mod:0
+msgid "Good riddance..."
+msgstr ""
+
+#. Id: 45415-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 45415-Dialogue.mod:1
+msgid "Stay out..."
+msgstr ""
+
+#. Id: 45415-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 45415-Dialogue.mod:2
+msgid "Keep out and stay out..."
+msgstr ""
+
+#. Id: 45415-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (12350-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper shoo
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 45415-Dialogue.mod:3
+msgid "That's it, get movin'..."
+msgstr ""
+

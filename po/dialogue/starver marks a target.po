@@ -1,0 +1,552 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4857-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 4857-dialogue-02.mod:0
+msgid "That one/PRD/"
+msgstr ""
+
+#. Id: 4857-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 4857-dialogue-02.mod:1
+msgid "There/PRD/"
+msgstr ""
+
+#. Id: 4857-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 4857-dialogue-02.mod:2
+msgid "/HIM/. Come on."
+msgstr ""
+
+#. Id: 4857-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 4857-dialogue-02.mod:3
+msgid "/HIM/."
+msgstr ""
+
+#. Id: 4860-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4860-dialogue-02.mod:1
+msgid "You/PRD/"
+msgstr ""
+
+#. Id: 4860-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4860-dialogue-02.mod:2
+msgid "Listen up/PRD/"
+msgstr ""
+
+#. Id: 4871-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4871-dialogue-02.mod:0
+msgid "/IMWERE/ taking your food."
+msgstr ""
+
+#. Id: 4871-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4871-dialogue-02.mod:1
+msgid "Your food's /MINEOURS/ now."
+msgstr ""
+
+#. Id: 4871-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4871-dialogue-02.mod:2
+msgid "Hand over your food."
+msgstr ""
+
+#. Id: 4871-dialogue-02.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4871-dialogue-02.mod:3
+msgid "Food. Now!"
+msgstr ""
+
+#. Id: 4871-dialogue-02.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4871-dialogue-02.mod:4
+msgid "Give /MEUS/ your food."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:0
+msgid "Back off, /INSULT/."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:1
+msgid "You're not getting a damn thing."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:2
+msgid "You won't take shit."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:3
+msgid "This isn't yours, /INSULT/."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:4
+msgid "/FUCKVERB/ off."
+msgstr ""
+
+#. Id: 4872-dialogue-02.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (4871-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4872-dialogue-02.mod:5
+msgid "/FUCKING/ /STARVERS/."
+msgstr ""
+
+#. Id: 4877-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4877-dialogue-02.mod:0
+msgid "Wrong answer."
+msgstr ""
+
+#. Id: 4877-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4877-dialogue-02.mod:1
+msgid "Oh? Let's try that again!"
+msgstr ""
+
+#. Id: 4877-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4877-dialogue-02.mod:2
+msgid "I said, /IMWERE/ taking it!"
+msgstr ""
+
+#. Id: 4877-dialogue-02.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 4877-dialogue-02.mod:3
+msgid "You'll regret that."
+msgstr ""
+
+#. Id: 4893-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4893-dialogue-02.mod:0
+msgid "Hard way, it is/PRD/"
+msgstr ""
+
+#. Id: 4893-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4893-dialogue-02.mod:1
+msgid "Well, /IWE/ tried asking/PRD/"
+msgstr ""
+
+#. Id: 4893-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 4893-dialogue-02.mod:2
+msgid "Have it your way/PRD/"
+msgstr ""
+
+#. Id: 4894-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 4894-dialogue-02.mod:1
+msgid "Why's it always come to this."
+msgstr ""
+
+#. Id: 4894-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 4894-dialogue-02.mod:2
+msgid "No way around this, then."
+msgstr ""
+
+#. Id: 4894-dialogue-02.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 4894-dialogue-02.mod:3
+msgid "No other way."
+msgstr ""
+
+#. Id: 4894-dialogue-02.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (4872-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 4894-dialogue-02.mod:4
+msgid "Wish it hadn't come to this, but..."
+msgstr ""
+
+#. Id: 4879-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4879-dialogue-02.mod:0
+msgid "Hear /MEUS/ out."
+msgstr ""
+
+#. Id: 4879-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4879-dialogue-02.mod:1
+msgid "Let's make a deal."
+msgstr ""
+
+#. Id: 4879-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4879-dialogue-02.mod:2
+msgid "How about this:"
+msgstr ""
+
+#. Id: 4880-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4879-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4880-dialogue-02.mod:0
+msgid "You give us food..."
+msgstr ""
+
+#. Id: 4880-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4879-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4880-dialogue-02.mod:1
+msgid "Hand over your food..."
+msgstr ""
+
+#. Id: 4880-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4879-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4880-dialogue-02.mod:2
+msgid "We take everything we can eat..."
+msgstr ""
+
+#. Id: 4880-dialogue-02.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (4879-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4880-dialogue-02.mod:3
+msgid "Leave your food here..."
+msgstr ""
+
+#. Id: 4881-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4880-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4881-dialogue-02.mod:0
+msgid "...and we won't slaughter you."
+msgstr ""
+
+#. Id: 4881-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4880-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4881-dialogue-02.mod:1
+msgid "...and you might live."
+msgstr ""
+
+#. Id: 4881-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4880-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4881-dialogue-02.mod:2
+msgid "...and you won't die."
+msgstr ""
+
+#. Id: 4881-dialogue-02.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (4880-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4881-dialogue-02.mod:3
+msgid "...and we won't have to /THREAT_ACTION/ your /BODYPART/."
+msgstr ""
+
+#. Id: 98117-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98039-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 98117-Dialogue.mod:0
+msgid "... Not gonna share anything?"
+msgstr ""
+
+#. Id: 98118-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98117-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#: 98118-Dialogue.mod:0
+msgid "Fine. Have it your way..."
+msgstr ""
+
+#. Id: 4883-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4883-dialogue-02.mod:0
+msgid "/IWE/ don't want violence, friend."
+msgstr ""
+
+#. Id: 4883-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4883-dialogue-02.mod:1
+msgid "/IMWERE/ not out for blood, friend."
+msgstr ""
+
+#. Id: 4883-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4883-dialogue-02.mod:2
+msgid "Not looking for trouble, friend."
+msgstr ""
+
+#. Id: 4883-dialogue-02.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (4860-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4883-dialogue-02.mod:3
+msgid "/IMWERE/ not here for violence, friend."
+msgstr ""
+
+#. Id: 4888-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4883-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4888-dialogue-02.mod:0
+msgid "Just food."
+msgstr ""
+
+#. Id: 4888-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4883-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4888-dialogue-02.mod:1
+msgid "Only food."
+msgstr ""
+
+#. Id: 4889-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4888-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4889-dialogue-02.mod:0
+msgid "/IWE/'ll only take what /IWE/ need."
+msgstr ""
+
+#. Id: 4889-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4888-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4889-dialogue-02.mod:1
+msgid "/IWE/ won't take more than /IWE/ need."
+msgstr ""
+
+#. Id: 4889-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4888-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4889-dialogue-02.mod:2
+msgid "Enough for a day or two."
+msgstr ""
+
+#. Id: 4890-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4889-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4890-dialogue-02.mod:0
+msgid "And everyone gets to walk away."
+msgstr ""
+
+#. Id: 4890-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4889-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4890-dialogue-02.mod:1
+msgid "Then everyone's happy."
+msgstr ""
+
+#. Id: 4890-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (4889-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4890-dialogue-02.mod:2
+msgid "All swords stay undrawn."
+msgstr ""
+
+#. Id: 4890-dialogue-02.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (4889-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: starver marks a target
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 4890-dialogue-02.mod:3
+msgid "No one has to be a killer today."
+msgstr ""
+

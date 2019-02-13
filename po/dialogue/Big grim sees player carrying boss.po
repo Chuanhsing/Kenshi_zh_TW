@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 66393-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66393-Dialogue.mod:0
+msgid "/LAUGH/! /OI/, lil' Gray!"
+msgstr ""
+
+#. Id: 66397-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66393-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66417-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66394-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66397-Dialogue.mod:0 66417-Dialogue.mod:0
+msgid "Looks like my hounds are thirsty for blood... Let that be a warning to you, eh?"
+msgstr ""
+
+#. Id: 66398-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66397-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66418-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66417-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66398-Dialogue.mod:0 66418-Dialogue.mod:0
+msgid "Lucky I got 'em leashed. But they still like to play, see?"
+msgstr ""
+
+#. Id: 66399-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66398-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66419-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66399-Dialogue.mod:0 66419-Dialogue.mod:0
+msgid "Take him away, /YOURNAME/, will you?"
+msgstr ""
+
+#. Id: 66400-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66399-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66421-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66400-Dialogue.mod:0 66421-Dialogue.mod:0
+msgid "And cool off a bit for fuck sake. I ain't got no time for your shit..."
+msgstr ""
+
+#. Id: 66401-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66400-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66401-Dialogue.mod:0
+msgid "Bringing me bruised up swamp bosses like a dog with a chew toy..."
+msgstr ""
+
+#. Id: 66402-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66401-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66402-Dialogue.mod:0
+msgid "Fuckin' idiot..."
+msgstr ""
+
+#. Id: 66394-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66394-Dialogue.mod:0
+msgid "/LAUGH/! /OI/, lil' Fang!"
+msgstr ""
+
+#. Id: 66420-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (66421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66420-Dialogue.mod:0
+msgid "He ain't wronged us..."
+msgstr ""
+
+#. Id: 66422-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66420-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66422-Dialogue.mod:0
+msgid "Yet."
+msgstr ""
+
+#. Id: 66395-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66395-Dialogue.mod:0
+msgid "/LAUGH/! Al!"
+msgstr ""
+
+#. Id: 66396-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
+#: 66396-Dialogue.mod:0
+msgid "/LAUGH/! /OI/, lil' Darkbrow!"
+msgstr ""
+
+#. Id: 66424-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66423-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66424-Dialogue.mod:0
+msgid "Think you got one of my swampers on your shoulder there, numbnuts..."
+msgstr ""
+
+#. Id: 66425-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66424-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66425-Dialogue.mod:0
+msgid "Gonna put him down or what?"
+msgstr ""
+
+#. Id: 66426-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (66425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66426-Dialogue.mod:0
+msgid "Unless you want me to unleash the hounds..."
+msgstr ""
+
+#. Id: 66427-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (66426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66427-Dialogue.mod:0
+msgid "Fuckin' idiot."
+msgstr ""
+
+#. Id: 66436-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66440-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66441-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66442-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (66435-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66436-Dialogue.mod:0 66440-Dialogue.mod:0 66441-Dialogue.mod:0 66442-Dialogue.mod:0
+msgid "You takin' the piss? I said, put him down."
+msgstr ""
+
+#. Id: 66438-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66443-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66444-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66445-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (66437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66438-Dialogue.mod:0 66443-Dialogue.mod:0 66444-Dialogue.mod:0 66445-Dialogue.mod:0
+msgid "Alright, you asked for it, /INSULT/!"
+msgstr ""
+
+#. Id: 66478-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66479-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66480-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66481-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#. Id: 66483-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66478-Dialogue.mod:0 66479-Dialogue.mod:0 66480-Dialogue.mod:0 66481-Dialogue.mod:0 66483-Dialogue.mod:0
+msgid "The hell are you doin' carryin' that in here?!"
+msgstr ""
+
+#. Id: 66484-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (66478-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66484-Dialogue.mod:0
+msgid "We're tryin' to lay low for fuck sake!"
+msgstr ""
+
+#. Id: 66485-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (66484-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim sees player carrying boss
+#: 66485-Dialogue.mod:0
+msgid "Get it out of my swamp!"
+msgstr ""
+

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18619-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#. Id: 12458-Dialogue (10) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 40693-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted
+#: 18619-Dialogue.mod:1 12458-Dialogue?(10)?(2).mod:4 40693-Dialogue.mod:1
+msgid "Aghhh!"
+msgstr ""
+
+#. Id: 18620-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18619-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble interrupted by someone else
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#: 18620-Dialogue.mod:1
+msgid "Protect me, guards!"
+msgstr ""
+

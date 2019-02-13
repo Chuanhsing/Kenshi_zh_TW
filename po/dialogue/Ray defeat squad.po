@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53398-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ray defeat squad
+#. Id: 58898-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58897-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hound diplomat talk to
+#. Id: 57274-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Reactions to ally player shek
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>90, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 64299-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Pacifier sees player
+#: 53398-Dialogue.mod:0 58898-Dialogue.mod:0 57274-Dialogue.mod:5 64299-Dialogue.mod:0
+msgid "*Nod*"
+msgstr ""
+

@@ -1,0 +1,969 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 3945-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3945-dialogue-02.mod:0
+msgid "Meat?"
+msgstr ""
+
+#. Id: 3946-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 3946-dialogue-02.mod:0
+msgid "/CANNIBALTOUGH/ meat."
+msgstr ""
+
+#. Id: 3946-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 3946-dialogue-02.mod:1
+msgid "Meat look /CANNIBALTOUGH/."
+msgstr ""
+
+#. Id: 3946-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#: 3946-dialogue-02.mod:2
+msgid "/CANNIBALTOUGH/. Di'like /CANNIBALTOUGH/ meat."
+msgstr ""
+
+#. Id: 3958-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3958-dialogue-02.mod:0
+msgid "So /CANNIBALTOUGH/."
+msgstr ""
+
+#. Id: 3958-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3958-dialogue-02.mod:1
+msgid "Really, really /CANNIBALTOUGH/."
+msgstr ""
+
+#. Id: 3958-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3958-dialogue-02.mod:2
+msgid "More chew. Less eat."
+msgstr ""
+
+#. Id: 3962-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (3958-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3962-dialogue-02.mod:0
+msgid "Might be /CANNIBALTASTY/, dhough."
+msgstr ""
+
+#. Id: 3962-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (3958-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3962-dialogue-02.mod:1
+msgid "But maybe /CANNIBALTASTY/, too?"
+msgstr ""
+
+#. Id: 3962-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (3958-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3962-dialogue-02.mod:2
+msgid "/CANNIBALTOUGH/ but /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 3970-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3970-dialogue-02.mod:0
+msgid "Cut liddle pieces, den /CANNIBALCOOK/."
+msgstr ""
+
+#. Id: 3970-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3970-dialogue-02.mod:1
+msgid "Whole meat grea' to /CANNIBALCOOK/."
+msgstr ""
+
+#. Id: 3970-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3970-dialogue-02.mod:2
+msgid "Meat in srips. /CANNIBALCOOK/. Eat."
+msgstr ""
+
+#. Id: 4023-D-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4022-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4023-D-dialogue-02.mod:0
+msgid "Share."
+msgstr ""
+
+#. Id: 4023-D-dialogue-02.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (4022-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4023-D-dialogue-02.mod:1
+msgid "Hirst one kill, hirst one bite."
+msgstr ""
+
+#. Id: 4023-D-dialogue-02.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (4022-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4023-D-dialogue-02.mod:2
+msgid "Make me ungry."
+msgstr ""
+
+#. Id: 4023-D-dialogue-02.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (4022-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4023-D-dialogue-02.mod:3
+msgid "I like some."
+msgstr ""
+
+#. Id: 4023-D-dialogue-02.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (4022-D-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4023-D-dialogue-02.mod:4
+msgid "All us eat?"
+msgstr ""
+
+#. Id: 4023-dialogue-02.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (4023-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4023-dialogue-02.mod:0
+msgid "/CANNIBALYES/."
+msgstr ""
+
+#. Id: 4023-dialogue-02.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (4023-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4023-dialogue-02.mod:1
+msgid "Ess."
+msgstr ""
+
+#. Id: 4023-dialogue-02.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (4023-D-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. Id: 3239-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3228-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: dust bandit talk to
+#: 4023-dialogue-02.mod:2 3239-gamedata.base:0
+msgid "Okay."
+msgstr ""
+
+#. Id: 3984-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3984-dialogue-02.mod:0
+msgid "Billage heast need meat."
+msgstr ""
+
+#. Id: 3984-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3984-dialogue-02.mod:1
+msgid "Hull moon come. Must eat meat."
+msgstr ""
+
+#. Id: 3984-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (3969-D-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3984-dialogue-02.mod:2
+msgid "Bloodbatt soon. Take meat, sabe blood."
+msgstr ""
+
+#. Id: 4029-dialogue-02.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (4028-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4029-dialogue-02.mod:0
+msgid "Need lots."
+msgstr ""
+
+#. Id: 4029-dialogue-02.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (4028-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4029-dialogue-02.mod:1
+msgid "More. More."
+msgstr ""
+
+#. Id: 4029-dialogue-02.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (4028-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4029-dialogue-02.mod:2
+msgid "We bring, 'illage happy."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3797-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (3243-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: bandit fight picking new target in wilds
+#: 4016-dialogue-02.mod:1 3797-gamedata.base:0
+msgid "/FUCKOFF/."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 4016-dialogue-02.mod:2
+msgid "Try it. I dare you."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 4016-dialogue-02.mod:3
+msgid "/FUCKING/ /CANNIBALS/."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 4016-dialogue-02.mod:4
+msgid "You don't want to do that."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 4016-dialogue-02.mod:5
+msgid "Don't you /FUCKING/ dare."
+msgstr ""
+
+#. Id: 4016-dialogue-02.mod
+#. -- Index: 2.6
+#. -- Parent line: 1 (3946-dialogue-02.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 4016-dialogue-02.mod:6
+msgid "You're nothing."
+msgstr ""
+
+#. Id: 4017-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4016-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. Id: 1532507-__May 18 2.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532506-__May 18 2.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Yabuta defeats squad
+#: 4017-dialogue-02.mod:0 1532507-__May?18?2.mod:0
+msgid "/QUICKLAUGH/."
+msgstr ""
+
+#. Id: 4022-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (4017-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4022-dialogue-02.mod:0
+msgid "Noisy prey."
+msgstr ""
+
+#. Id: 4022-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (4017-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4022-dialogue-02.mod:1
+msgid "Dhis one hight back."
+msgstr ""
+
+#. Id: 4022-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (4017-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4022-dialogue-02.mod:2
+msgid "Shh."
+msgstr ""
+
+#. Id: 4022-dialogue-02.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (4017-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4022-dialogue-02.mod:3
+msgid "Heisty meat."
+msgstr ""
+
+#. Id: 4022-dialogue-02.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (4017-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4022-dialogue-02.mod:4
+msgid "Prey wan be predder."
+msgstr ""
+
+#. Id: 4125-D-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4022-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4125-D-dialogue-02.mod:0
+msgid "Is okay."
+msgstr ""
+
+#. Id: 4125-D-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4022-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4125-D-dialogue-02.mod:1
+msgid "Only kidding."
+msgstr ""
+
+#. Id: 4125-D-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4022-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4125-D-dialogue-02.mod:2
+msgid "Jus' habbing hun."
+msgstr ""
+
+#. Id: 4125-D-dialogue-02.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (4022-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4125-D-dialogue-02.mod:3
+msgid "Calm, calm."
+msgstr ""
+
+#. Id: 4125-D-dialogue-02.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (4022-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4125-D-dialogue-02.mod:4
+msgid "No highting today."
+msgstr ""
+
+#. Id: 3952-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3952-dialogue-02.mod:0
+msgid "Mmm. Look /CANNIBALSOFT/."
+msgstr ""
+
+#. Id: 3952-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3952-dialogue-02.mod:1
+msgid "A'ways like /CANNIBALSOFT/ meat."
+msgstr ""
+
+#. Id: 3952-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
+#: 3952-dialogue-02.mod:2
+msgid "/CANNIBALSOFT/. Good meat."
+msgstr ""
+
+#. Id: 3959-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3952-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3959-dialogue-02.mod:0
+msgid "/CANNIBALSOFT/. /CANNIBALSOFT/."
+msgstr ""
+
+#. Id: 3959-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3952-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3959-dialogue-02.mod:1
+msgid "I like /CANNIBALSOFT/. Bery like."
+msgstr ""
+
+#. Id: 3959-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (3952-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3959-dialogue-02.mod:2
+msgid "Like young one eat."
+msgstr ""
+
+#. Id: 3961-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (3959-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3961-dialogue-02.mod:0
+msgid "An' bery /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 3961-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (3959-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3961-dialogue-02.mod:1
+msgid "A'ways so /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 3961-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (3959-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3961-dialogue-02.mod:2
+msgid "Dhis /CANNIBALTASTY/. I know it."
+msgstr ""
+
+#. Id: 3963-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3963-dialogue-02.mod:0
+msgid "So ungry."
+msgstr ""
+
+#. Id: 3963-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3963-dialogue-02.mod:1
+msgid "Bery, bery ungry now."
+msgstr ""
+
+#. Id: 3963-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3963-dialogue-02.mod:2
+msgid "I ungry."
+msgstr ""
+
+#. Id: 3967-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3967-dialogue-02.mod:0
+msgid "Eat now."
+msgstr ""
+
+#. Id: 3967-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3967-dialogue-02.mod:1
+msgid "Get meat."
+msgstr ""
+
+#. Id: 3967-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3967-dialogue-02.mod:2
+msgid "Eat meat."
+msgstr ""
+
+#. Id: 3967-dialogue-02.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3967-dialogue-02.mod:3
+msgid "Catch meat."
+msgstr ""
+
+#. Id: 3967-dialogue-02.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. Id: 3988-dialogue-02.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (3986-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3967-dialogue-02.mod:4 3988-dialogue-02.mod:2
+msgid "Take meat."
+msgstr ""
+
+#. Id: 3988-dialogue-02.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (3986-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#. Id: 3723-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal attack
+#: 3988-dialogue-02.mod:0 3723-gamedata.base:0
+msgid "Meat."
+msgstr ""
+
+#. Id: 3988-dialogue-02.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (3986-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#. Id: 3723-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal attack
+#. Id: 57262-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57260-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Reactions to ally player shek
+#. Id: 60817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Anti slaver sees ally starving
+#: 3988-dialogue-02.mod:1 3723-gamedata.base:2 57262-Dialogue.mod:1 60817-Dialogue.mod:0
+msgid "Eat."
+msgstr ""
+
+#. Id: 3988-dialogue-02.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (3986-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#. Id: 56507-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56506-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Eyegore defeat enemy
+#. Id: 3693-dialogue-01.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3687-dialogue-01.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: gets up as enemy starts walking away
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 56498-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Free eyegore from cage
+#: 3988-dialogue-02.mod:3 56507-Dialogue.mod:0 3693-dialogue-01.mod:1 56498-Dialogue.mod:0
+msgid "Kill."
+msgstr ""
+
+#. Id: 3988-dialogue-02.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (3986-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 3988-dialogue-02.mod:4
+msgid "/CANNIBALBODYPART/, mine."
+msgstr ""
+
+#. Id: 4025-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4024-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4025-dialogue-02.mod:0
+msgid "/CANNIBALCOOK/."
+msgstr ""
+
+#. Id: 4025-dialogue-02.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (4024-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4025-dialogue-02.mod:1
+msgid "Dhen /CANNIBALCOOK/."
+msgstr ""
+
+#. Id: 4025-dialogue-02.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (4024-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4025-dialogue-02.mod:2
+msgid "I wan' /CANNIBALCOOK/ dhis meat."
+msgstr ""
+
+#. Id: 4025-dialogue-02.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (4024-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4025-dialogue-02.mod:3
+msgid "/CANNIBALCOOK/, /CANNIBALCOOK/, /CANNIBALCOOK/."
+msgstr ""
+
+#. Id: 4025-dialogue-02.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (4024-dialogue-02.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: cannibal appraises passerby
+#: 4025-dialogue-02.mod:4
+msgid "I take /CANNIBALBODYPART/."
+msgstr ""
+
+#. Id: 4027-dialogue-02.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (4026-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal appraises passerby
+#: 4027-dialogue-02.mod:1
+msgid "No more ungry."
+msgstr ""
+
+#. Id: 4027-dialogue-02.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (4026-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal appraises passerby
+#: 4027-dialogue-02.mod:2
+msgid "Bite bite bite."
+msgstr ""
+
+#. Id: 4027-dialogue-02.mod
+#. -- Index: 8.3
+#. -- Parent line: 7 (4026-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal appraises passerby
+#: 4027-dialogue-02.mod:3
+msgid "You prey. We predder."
+msgstr ""
+
+#. Id: 4027-dialogue-02.mod
+#. -- Index: 8.4
+#. -- Parent line: 7 (4026-dialogue-02.mod)
+#. -- Speaker: Extra 3 (4)
+#. -- Group title: cannibal appraises passerby
+#: 4027-dialogue-02.mod:4
+msgid "Shut up. I take /CANNIBALBODYPART/."
+msgstr ""
+
+#. Id: 3969-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3969-dialogue-02.mod:0
+msgid "Let meat curr. Bedder."
+msgstr ""
+
+#. Id: 3969-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3969-dialogue-02.mod:1
+msgid "Curr meat. Good meat."
+msgstr ""
+
+#. Id: 3969-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3969-dialogue-02.mod:2
+msgid "Later. Later."
+msgstr ""
+
+#. Id: 3969-dialogue-02.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3969-dialogue-02.mod:3
+msgid "Not now."
+msgstr ""
+
+#. Id: 3969-dialogue-02.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (3963-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3969-dialogue-02.mod:4
+msgid "I wait. Bedder meat come."
+msgstr ""
+
+#. Id: 4005-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 4005-dialogue-02.mod:0
+msgid "/YUCK/! Rotmeat."
+msgstr ""
+
+#. Id: 4005-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 4005-dialogue-02.mod:1
+msgid "Rotmeat! Rot rot rot!"
+msgstr ""
+
+#. Id: 4005-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3945-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 4005-dialogue-02.mod:2
+msgid "Rotten! All rotten!"
+msgstr ""
+
+#. Id: 4008-dialogue-02.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (4005-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4008-dialogue-02.mod:0
+msgid "Prey don' kill predder."
+msgstr ""
+
+#. Id: 4008-dialogue-02.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (4005-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4008-dialogue-02.mod:1
+msgid "You killed predder. You."
+msgstr ""
+
+#. Id: 4008-dialogue-02.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (4005-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4008-dialogue-02.mod:2
+msgid "Why you kill predder?"
+msgstr ""
+
+#. Id: 4011-dialogue-02.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (4008-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4011-dialogue-02.mod:0
+msgid "Kill prey."
+msgstr ""
+
+#. Id: 4011-dialogue-02.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (4008-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4011-dialogue-02.mod:1
+msgid "Rotmeat die."
+msgstr ""
+
+#. Id: 4011-dialogue-02.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (4008-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 4011-dialogue-02.mod:2
+msgid "Eat prey. Eat rotmeat."
+msgstr ""
+
+#. Id: 4013-dialogue-02.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (4012-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 4013-dialogue-02.mod:0
+msgid "But we don' /CANNIBALCOOK/ rotmeat."
+msgstr ""
+
+#. Id: 4013-dialogue-02.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (4012-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 4013-dialogue-02.mod:1
+msgid "But no Hyre. Hyre is sacred."
+msgstr ""
+
+#. Id: 4013-dialogue-02.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (4012-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 4013-dialogue-02.mod:2
+msgid "But we dis'race rotmeat."
+msgstr ""
+
+#. Id: 4014-dialogue-02.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (4013-dialogue-02.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: cannibal appraises passerby
+#: 4014-dialogue-02.mod:0
+msgid "We eat raw."
+msgstr ""
+
+#. Id: 3979-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3979-dialogue-02.mod:0
+msgid "Dhere. Meat."
+msgstr ""
+
+#. Id: 3979-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3979-dialogue-02.mod:1
+msgid "Prey run away."
+msgstr ""
+
+#. Id: 3979-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 3979-dialogue-02.mod:2
+msgid "Meat. Go."
+msgstr ""
+
+#. Id: 3981-dialogue-02.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (3979-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3981-dialogue-02.mod:0
+msgid "Running meat, /CANNIBALTASTY/ meat."
+msgstr ""
+
+#. Id: 3981-dialogue-02.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (3979-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3981-dialogue-02.mod:1
+msgid "Sweaty turn meat /CANNIBALTASTY/."
+msgstr ""
+
+#. Id: 3981-dialogue-02.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (3979-dialogue-02.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: cannibal appraises passerby
+#: 3981-dialogue-02.mod:2
+msgid "Run good. Trim blubber. /CANNIBALTASTY/."
+msgstr ""
+

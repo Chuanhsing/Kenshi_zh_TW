@@ -1,0 +1,433 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96224-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#: 96224-__Southern?hive.mod:0
+msgid "Welcome, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 96225-__Southern hive.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96224-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96225-__Southern?hive.mod:0
+msgid "Take a look at our robotics..."
+msgstr ""
+
+#. Id: 96225-__Southern hive.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (96224-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96225-__Southern?hive.mod:1
+msgid "Come see our robotics..."
+msgstr ""
+
+#. Id: 96225-__Southern hive.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (96224-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96225-__Southern?hive.mod:2
+msgid "You will love our robotics, come look..."
+msgstr ""
+
+#. Id: 96225-__Southern hive.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (96224-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96225-__Southern?hive.mod:3
+msgid "You can buy many robotics here..."
+msgstr ""
+
+#. Id: 96226-__Southern hive.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96225-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96226-__Southern?hive.mod:0
+msgid "Best in the land..."
+msgstr ""
+
+#. Id: 96226-__Southern hive.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (96225-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96226-__Southern?hive.mod:1
+msgid "We make the best!"
+msgstr ""
+
+#. Id: 96226-__Southern hive.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (96225-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96226-__Southern?hive.mod:2
+msgid "Listen, listen, /RACENAMEHIVE/, these are the best goods in the land."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:0
+msgid "Hand made by hive."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:1
+msgid "Special made by hive hands."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:2
+msgid "Such quality, we give hive guarantee... *cough* Conditions apply."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:3
+msgid "Built using the smallest hive hands... well made, well made..."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:4
+msgid "We make piece by piece with hive hands..."
+msgstr ""
+
+#. Id: 96227-__Southern hive.mod
+#. -- Index: 3.5
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96227-__Southern?hive.mod:5
+msgid "Won't break..."
+msgstr ""
+
+#. Id: 96228-__Southern hive.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96227-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96228-__Southern?hive.mod:0
+msgid "Not like the junks those Tech Hunters find in outdated ruins!"
+msgstr ""
+
+#. Id: 96228-__Southern hive.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (96227-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96228-__Southern?hive.mod:1
+msgid "Not like the scrap those Tech Hunters scavenge in junky ruins!"
+msgstr ""
+
+#. Id: 96229-__Southern hive.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96228-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96229-__Southern?hive.mod:0
+msgid "Scammers!"
+msgstr ""
+
+#. Id: 96229-__Southern hive.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (96228-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96229-__Southern?hive.mod:1
+msgid "Lazy!"
+msgstr ""
+
+#. Id: 96229-__Southern hive.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (96228-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96229-__Southern?hive.mod:2
+msgid "No good!"
+msgstr ""
+
+#. Id: 96229-__Southern hive.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (96228-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96229-__Southern?hive.mod:3
+msgid "Bad!"
+msgstr ""
+
+#. Id: 96229-__Southern hive.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (96228-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96229-__Southern?hive.mod:4
+msgid "Very bad!"
+msgstr ""
+
+#. Id: 96231-__Southern hive.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96230-__Southern hive.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Robotics hive i see neutral
+#: 96231-__Southern?hive.mod:0
+msgid "Junk hunters more like!"
+msgstr ""
+
+#. Id: 96231-__Southern hive.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (96230-__Southern hive.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Robotics hive i see neutral
+#: 96231-__Southern?hive.mod:1
+msgid "Why buy second hand when you can buy new?"
+msgstr ""
+
+#. Id: 96231-__Southern hive.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (96230-__Southern hive.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Robotics hive i see neutral
+#: 96231-__Southern?hive.mod:2
+msgid "Second hand junk!"
+msgstr ""
+
+#. Id: 96232-__Southern hive.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96231-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96232-__Southern?hive.mod:0
+msgid "We make our robotics from scratch with best hive technology..."
+msgstr ""
+
+#. Id: 96232-__Southern hive.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (96231-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96232-__Southern?hive.mod:1
+msgid "We use best hive technology to make our own robotics..."
+msgstr ""
+
+#. Id: 96232-__Southern hive.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (96231-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96232-__Southern?hive.mod:2
+msgid "Don't worry, /RACENAMEHIVE/, we have very good technology here, queen approved..."
+msgstr ""
+
+#. Id: 96233-__Southern hive.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96232-__Southern hive.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Robotics hive i see neutral
+#: 96233-__Southern?hive.mod:0
+msgid "Good price too."
+msgstr ""
+
+#. Id: 96234-__Southern hive.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96233-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96234-__Southern?hive.mod:0
+msgid "Even better price for you, /RACENAMEHIVE/."
+msgstr ""
+
+#. Id: 96235-__Southern hive.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (96234-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96235-__Southern?hive.mod:0
+msgid "Because we like you."
+msgstr ""
+
+#. Id: 96236-__Southern hive.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (96235-__Southern hive.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Robotics hive i see neutral
+#: 96236-__Southern?hive.mod:0
+msgid "You have good musks."
+msgstr ""
+
+#. Id: 96237-__Southern hive.mod
+#. -- Index: 13.1
+#. -- Parent line: 12 (96236-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96237-__Southern?hive.mod:1
+msgid "Yummy."
+msgstr ""
+
+#. Id: 96238-__Southern hive.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 96238-__Southern?hive.mod:0
+msgid "Where are you going, /RACENAMEHIVE/?"
+msgstr ""
+
+#. Id: 96238-__Southern hive.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (96226-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
+#: 96238-__Southern?hive.mod:1
+msgid "Wait, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 96239-__Southern hive.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (96238-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96239-__Southern?hive.mod:0
+msgid "Shop's this way!"
+msgstr ""
+
+#. Id: 96240-__Southern hive.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96239-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96240-__Southern?hive.mod:0
+msgid "You're going the wrong way, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 96241-__Southern hive.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96240-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96241-__Southern?hive.mod:0
+msgid "You're missing out on our fly tech!"
+msgstr ""
+
+#. Id: 96243-__Southern hive.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96242-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96243-__Southern?hive.mod:0
+msgid "You'll rue the day you didn't buy our goods, /RACENAMEHIVE/!"
+msgstr ""
+
+#. Id: 96244-__Southern hive.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96243-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96244-__Southern?hive.mod:0
+msgid "Rue the day!"
+msgstr ""
+
+#. Id: 96245-__Southern hive.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (96239-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 96245-__Southern?hive.mod:0
+msgid "Good choice, this is very smart, /RACENAMEHIVE/..."
+msgstr ""
+
+#. Id: 96246-__Southern hive.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96245-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96246-__Southern?hive.mod:0
+msgid "First step is to enter our shop."
+msgstr ""
+
+#. Id: 96247-__Southern hive.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (96246-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96247-__Southern?hive.mod:0
+msgid "The biggest step!"
+msgstr ""
+
+#. Id: 96248-__Southern hive.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96247-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96248-__Southern?hive.mod:0
+msgid "Now we just need to go into the pocket..."
+msgstr ""
+
+#. Id: 96249-__Southern hive.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96248-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96249-__Southern?hive.mod:0
+msgid "And grab the Cat sack..."
+msgstr ""
+
+#. Id: 96250-__Southern hive.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (96249-__Southern hive.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#: 96250-__Southern?hive.mod:0
+msgid "And receive great bargains!"
+msgstr ""
+
+#. Id: 96257-__Southern hive.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robotics hive i see neutral
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 96257-__Southern?hive.mod:0
+msgid "....You are Hive...?"
+msgstr ""
+

@@ -1,0 +1,472 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15524-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 41488-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest sees robot/ beast
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 15524-Dialogue.mod:1 41488-Dialogue.mod:3
+msgid "Darkness among us!"
+msgstr ""
+
+#. Id: 15524-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 15544-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 15524-Dialogue.mod:3 15544-Dialogue.mod:6
+msgid "Sent from the dark demoness!"
+msgstr ""
+
+#. Id: 15524-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15524-Dialogue.mod:4
+msgid "A darkened one!"
+msgstr ""
+
+#. Id: 15525-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15525-Dialogue.mod:0
+msgid "/TEMPTRESS/!"
+msgstr ""
+
+#. Id: 15525-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 15525-Dialogue.mod:2
+msgid "A /TEMPTRESS/ of darkness!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15532-Dialogue.mod:0
+msgid "/HEIS/ posessed by robots!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 15544-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 15532-Dialogue.mod:1 15544-Dialogue.mod:5
+msgid "/HEIS/ posessed by Skeletons!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15532-Dialogue.mod:3
+msgid "/HEIS/ a Skeleton!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15532-Dialogue.mod:4
+msgid "/HEIS/ a Skeleton in disguise!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15532-Dialogue.mod:5
+msgid "/HEIS/ a robot!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. Id: 15544-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#: 15532-Dialogue.mod:6 15544-Dialogue.mod:4
+msgid "/HEIS/ a robot in disguise!"
+msgstr ""
+
+#. Id: 15532-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 15532-Dialogue.mod:8
+msgid "The agents of darkness come for us!"
+msgstr ""
+
+#. Id: 15536-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 15548-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 15536-Dialogue.mod:1 15548-Dialogue.mod:2
+msgid "Darkness!"
+msgstr ""
+
+#. Id: 15537-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15546-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 15537-Dialogue.mod:0 15546-Dialogue.mod:0
+msgid "Heretic! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 15537-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15537-Dialogue.mod:1
+msgid "Ensnare the unholy heretic!"
+msgstr ""
+
+#. Id: 15537-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 15537-Dialogue.mod:2
+msgid "/SEIZE/ the unholy heretic!"
+msgstr ""
+
+#. Id: 15546-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 15546-Dialogue.mod:3
+msgid "/HE/ mustn't escape!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:0
+msgid "The /TEMPTRESS/ mustn't get away!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:2
+msgid "A /TEMPTRESS/ of the darkness!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:3
+msgid "The /TEMPTRESS/ will not evade the light of Okran!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:4
+msgid "The /TEMPTRESS/ will not escape the cleansing of Okran!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:5
+msgid "The /TEMPTRESS/ will not evade the fire of Okran!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:6
+msgid "Surrender to Okran's judgement, /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:7
+msgid "Submit, /TEMPTRESS/!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:8
+msgid "Wretched woman! Submit to Okran! "
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:9
+msgid "The behaviour of a /TEMPTRESS/! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:10
+msgid "Don't let her escape!"
+msgstr ""
+
+#. Id: 15550-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 15550-Dialogue.mod:11
+msgid "She must be purged!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:1
+msgid "/HE/ mustn't get away!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:2
+msgid "/HE/ will not escape us!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:3
+msgid "/HE/ will not escape the cleansing of Okran!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:4
+msgid "Light of Okran, bestow me the strength to purge this darkness!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:5
+msgid "Do not let the darkness corrupt our society, repel them!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:6
+msgid "We must purge our lands from all darkness!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:7
+msgid "Light of Okran, give us the strength to repel this darkness!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:8
+msgid "Darkness be purged by the light of Okran!"
+msgstr ""
+
+#. Id: 15598-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#: 15598-Dialogue.mod:10
+msgid "/HE/ will not evade the light of Okran!"
+msgstr ""
+
+#. Id: 45625-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45625-Dialogue.mod:1
+msgid "Destroy the robots! They must not win!"
+msgstr ""
+
+#. Id: 45625-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45625-Dialogue.mod:2
+msgid "Repel them! The robots will destroy us all!"
+msgstr ""
+
+#. Id: 45625-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45625-Dialogue.mod:3
+msgid "In Okran's name, you will not escape my sword, robot!"
+msgstr ""
+
+#. Id: 45625-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation guards witness crime
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 45625-Dialogue.mod:4
+msgid "Purge the robots! Burn them! Destroy them!"
+msgstr ""
+

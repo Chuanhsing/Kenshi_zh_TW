@@ -1,0 +1,62 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48492-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp leader shoo
+#: 48492-Dialogue.mod:0
+msgid "Who the hell are you? This is the Hound den..."
+msgstr ""
+
+#. Id: 48493-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp leader shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 48493-Dialogue.mod:0
+msgid "We run this town and we run you."
+msgstr ""
+
+#. Id: 48494-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (48493-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp leader shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 48494-Dialogue.mod:0
+msgid "Stay out of our way if you know what's good for you."
+msgstr ""
+
+#. Id: 48495-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (48494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp leader shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 48495-Dialogue.mod:0
+msgid "... You deaf or something? I ain't tellin' you again."
+msgstr ""
+
+#. Id: 48497-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (48496-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp leader shoo
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 48497-Dialogue.mod:0
+msgid "... Deal with /HIM/."
+msgstr ""
+

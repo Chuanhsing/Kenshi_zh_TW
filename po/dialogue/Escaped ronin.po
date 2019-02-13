@@ -1,0 +1,253 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 18048-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 18048-Dialogue.mod:0
+msgid "Hmm.. looks clear. We're finally free."
+msgstr ""
+
+#. Id: 18048-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 18048-Dialogue.mod:1
+msgid "We survived!..."
+msgstr ""
+
+#. Id: 18048-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 18048-Dialogue.mod:2
+msgid "We lost them... we survived."
+msgstr ""
+
+#. Id: 18049-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 18049-Dialogue.mod:0
+msgid "Come on, let's keep moving, it might not be safe here"
+msgstr ""
+
+#. Id: 18049-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 18049-Dialogue.mod:1
+msgid "Come on, we're wasting time. Let's keep moving"
+msgstr ""
+
+#. Id: 19845-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19845-Dialogue.mod:0
+msgid "I'll remember this, /OUTLANDER/. You have my gratitude"
+msgstr ""
+
+#. Id: 19845-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19845-Dialogue.mod:1
+msgid "I owe it all to you, /OUTLANDER/. Thank you."
+msgstr ""
+
+#. Id: 19845-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19845-Dialogue.mod:2
+msgid "Thank you, /OUTLANDER/. I owe you for this."
+msgstr ""
+
+#. Id: 19845-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19845-Dialogue.mod:3
+msgid "You're a hero, /OUTLANDER/. I couldn't have done it without you."
+msgstr ""
+
+#. Id: 19845-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19845-Dialogue.mod:4
+msgid "It's all thanks to you, /OUTLANDER/. You're a lifesaver."
+msgstr ""
+
+#. Id: 19846-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19846-Dialogue.mod:0
+msgid "So long. 'Til we meet again..."
+msgstr ""
+
+#. Id: 19846-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (19845-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19846-Dialogue.mod:1
+msgid "I hope we meet again. So long..."
+msgstr ""
+
+#. Id: 19847-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 19847-Dialogue.mod:0
+msgid "You... you're the kind of person I could stick around with"
+msgstr ""
+
+#. Id: 19847-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 19847-Dialogue.mod:1
+msgid "You... you're just the type of person I wanna stick around"
+msgstr ""
+
+#. Id: 19847-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 19847-Dialogue.mod:2
+msgid "Hero's like you are a rare find in this world"
+msgstr ""
+
+#. Id: 19847-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18048-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#: 19847-Dialogue.mod:3
+msgid "You're just the kind of leader I've been searching for"
+msgstr ""
+
+#. Id: 19849-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (19847-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19849-Dialogue.mod:0
+msgid "I'll follow you 'til the end, /BROTHER/"
+msgstr ""
+
+#. Id: 19842-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19842-Dialogue.mod:0
+msgid "I don't know if I'm lucky as hell or cursed..."
+msgstr ""
+
+#. Id: 19842-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19842-Dialogue.mod:1
+msgid "At least back at the Hive we weren't stuck in cages like goddamn animals..."
+msgstr ""
+
+#. Id: 19842-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19842-Dialogue.mod:2
+msgid "That hell hole makes the Hives look like goddamn paradise in comparison..."
+msgstr ""
+
+#. Id: 19842-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19842-Dialogue.mod:3
+msgid "So the nightmare is finally over... "
+msgstr ""
+
+#. Id: 19844-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19844-Dialogue.mod:0
+msgid "That smell of freedom will never grow old"
+msgstr ""
+
+#. Id: 19844-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19844-Dialogue.mod:1
+msgid "That feeling of freedom..."
+msgstr ""
+
+#. Id: 19844-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19844-Dialogue.mod:2
+msgid "You did it. Freedom has found us again."
+msgstr ""
+
+#. Id: 19844-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19844-Dialogue.mod:3
+msgid "You did it. Oh sweet freedom!"
+msgstr ""
+
+#. Id: 19844-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped ronin
+#: 19844-Dialogue.mod:4
+msgid "Free again from that miserable place"
+msgstr ""
+

@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55711-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#: 55711-Dialogue.mod:0
+msgid "Let me introduce you to my sword, Nail..."
+msgstr ""
+
+#. Id: 55712-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55711-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#: 55712-Dialogue.mod:0
+msgid "Nail will show you my point!"
+msgstr ""
+
+#. Id: 55713-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 55713-Dialogue.mod:0
+msgid "Strong women scare weak little men"
+msgstr ""
+
+#. Id: 55713-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 55713-Dialogue.mod:1
+msgid "Come closer so I can make you a eunuch..."
+msgstr ""
+
+#. Id: 55713-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 55713-Dialogue.mod:2
+msgid "Come closer and I'll castrate you"
+msgstr ""
+
+#. Id: 55714-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#: 55714-Dialogue.mod:0
+msgid "Life is tough... but so am I!"
+msgstr ""
+
+#. Id: 55716-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#: 55716-Dialogue.mod:0
+msgid "I'd rather die than become a slave again!"
+msgstr ""
+
+#. Id: 55717-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Harmothoe fighting
+#. -- Condition: Target Race(s): Skeleton
+#: 55717-Dialogue.mod:0
+msgid "I am your death, vile robot!"
+msgstr ""
+

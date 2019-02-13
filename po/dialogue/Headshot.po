@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53493-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53493-Dialogue.mod:0
+msgid "They call me Headshot. Wanna take a stab at why?"
+msgstr ""
+
+#. Id: 53503-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53494-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53503-Dialogue.mod:0
+msgid "Then I guess you're a squeamish one, eh... Well, I shot a lotta heads. Slave heads to be exact. "
+msgstr ""
+
+#. Id: 53495-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53493-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53495-Dialogue.mod:0
+msgid "Something to do with heads?"
+msgstr ""
+
+#. Id: 53498-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53495-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53498-Dialogue.mod:0
+msgid "That's right, shot a lotta heads. Slave heads to be exact. "
+msgstr ""
+
+#. Id: 53499-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53498-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53499-Dialogue.mod:0
+msgid "Do I lose sleep at night over it?... Nah."
+msgstr ""
+
+#. Id: 53500-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53500-Dialogue.mod:0
+msgid "You're a monster."
+msgstr ""
+
+#. Id: 53587-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53500-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53587-Dialogue.mod:0
+msgid "They're slaves! The world won't miss 'em and the world won't cry for 'em. Better them than us, eh?"
+msgstr ""
+
+#. Id: 53588-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53588-Dialogue.mod:0
+msgid "Is there a point to all this talk?"
+msgstr ""
+
+#. Id: 53591-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53588-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53591-Dialogue.mod:0
+msgid "Nope. Just a jobless gunner lookin' to entertain herself."
+msgstr ""
+
+#. Id: 53592-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (53591-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53592-Dialogue.mod:0
+msgid "You're looking for a job?"
+msgstr ""
+
+#. Id: 53593-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (53592-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53593-Dialogue.mod:0
+msgid "Why? You offering?... So long as you put me behind a turret, I'm listening. You want my skills though, you gotta pay the price tag. 7500 Cats."
+msgstr ""
+
+#. Id: 53589-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53589-Dialogue.mod:0
+msgid "Enough. I'm leaving."
+msgstr ""
+
+#. Id: 53590-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53589-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#. Id: 46785-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (46784-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 46793-Dialogue.mod
+#. -- Index: 11.2
+#. -- Parent line: 10 (46792-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 53590-Dialogue.mod:0 46785-Dialogue.mod:1 46793-Dialogue.mod:2
+msgid "Heh."
+msgstr ""
+
+#. Id: 53501-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53501-Dialogue.mod:0
+msgid "I could use somebody with those skills."
+msgstr ""
+
+#. Id: 53504-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53501-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53504-Dialogue.mod:0
+msgid "So long as you put me behind a turret, I'm listening. You want my skills though, you gotta pay the price tag. 7500 Cats."
+msgstr ""
+
+#. Id: 53506-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53505-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53506-Dialogue.mod:0
+msgid "Oh the sound of a harpoon slicing through skull, right on target. It's been too long..."
+msgstr ""
+
+#. Id: 53508-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53504-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53508-Dialogue.mod:0
+msgid "Forget it. I don't hire sociopaths."
+msgstr ""
+
+#. Id: 53594-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53508-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53594-Dialogue.mod:0
+msgid "Heh. Your loss."
+msgstr ""
+
+#. Id: 53510-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (53504-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<7500, Tag: -1
+#: 53510-Dialogue.mod:0
+msgid "I can't afford it right now..."
+msgstr ""
+
+#. Id: 53502-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53499-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Headshot
+#: 53502-Dialogue.mod:0
+msgid "You're bad. I like that."
+msgstr ""
+
+#. Id: 53595-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53502-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Headshot
+#: 53595-Dialogue.mod:0
+msgid "Well, hell, then how about hiring yourself a jobless gunner? So long as you put me behind a turret, I'm listening. You want my skills though, you gotta pay the price tag. 7500 Cats."
+msgstr ""
+

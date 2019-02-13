@@ -1,0 +1,150 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51839-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=0, Tag: -1
+#: 51839-Dialogue.mod:0
+msgid "So, you want in on the Shinobi, eh?  The guards try to lay the crackdown but they ain't fooling nobody, they're nothing. Nothing a few Cats can't handle."
+msgstr ""
+
+#. Id: 51840-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51840-Dialogue.mod:0
+msgid "I want to join the Shinobi Thieves."
+msgstr ""
+
+#. Id: 51842-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51840-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51842-Dialogue.mod:0
+msgid "You can join. For a fee."
+msgstr ""
+
+#. Id: 51843-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51842-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51843-Dialogue.mod:0
+msgid "... That's it? I don't have to complete a test or prove myself or something?"
+msgstr ""
+
+#. Id: 51844-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51844-Dialogue.mod:0
+msgid "Do I look like I've got time for handing out busy-work? No, this is a business wer're running, not a social club. Just a one-time membership fee, 10,000 Cats."
+msgstr ""
+
+#. Id: 51845-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51845-Dialogue.mod:0
+msgid "So, what will it be? Do you want to join the guild?"
+msgstr ""
+
+#. Id: 51846-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51846-Dialogue.mod:0
+msgid "10,000 Cats seems a little steep."
+msgstr ""
+
+#. Id: 51847-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51846-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51847-Dialogue.mod:0
+msgid "You wanna use our facilities, you gotta pay for them. If you can't afford it, you're obviously not a very good thief."
+msgstr ""
+
+#. Id: 51848-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51848-Dialogue.mod:0
+msgid "What do I get in return for all that money?"
+msgstr ""
+
+#. Id: 51849-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51849-Dialogue.mod:0
+msgid "You get yourself allies. We have hideouts like this one in lots of major towns. We watch eachother's backs, Shinobi Thieves stick together."
+msgstr ""
+
+#. Id: 51850-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51849-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51850-Dialogue.mod:0
+msgid "It's a safe haven for you to rest and recover. We have specialist training equipment to use, you can sell your stolen items to our fence and he also sells some hard to find specialist equipment at a huge discount."
+msgstr ""
+
+#. Id: 51851-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>10000, Tag: -1
+#: 51851-Dialogue.mod:0
+msgid "Okay, sign me up [c.10,000]"
+msgstr ""
+
+#. Id: 51852-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51851-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51852-Dialogue.mod:0
+msgid "*You clasp hands* Welcome /BROTHER/, to the Shinobi Thieves."
+msgstr ""
+
+#. Id: 51853-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51845-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51853-Dialogue.mod:0
+msgid "Maybe some other time."
+msgstr ""
+
+#. Id: 51841-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51839-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shinobi Thief Boss Membership
+#: 51841-Dialogue.mod:0
+msgid "I'm not interested right now, sorry."
+msgstr ""
+

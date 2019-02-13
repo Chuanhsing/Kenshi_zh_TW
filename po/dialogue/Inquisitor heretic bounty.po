@@ -1,0 +1,1364 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:0
+msgid "/HOLYGREET/, how can I help you?"
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:1
+msgid "/HOLYGREET/. Do you need something?"
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:2
+msgid "Yes, brother? "
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:3
+msgid "Okran's light shines brightly today! A good omen..."
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:4
+msgid "Welcome to the Inquisitorium, brother."
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:5
+msgid "What brings you to the Inquisitorium, brother?"
+msgstr ""
+
+#. Id: 49641-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49641-Dialogue.mod:6
+msgid "Welcome to the Inquisitorium. What do you need, brother?"
+msgstr ""
+
+#. Id: 49642-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49642-Dialogue.mod:0
+msgid "Do you have any work?"
+msgstr ""
+
+#. Id: 49646-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49642-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49646-Dialogue.mod:0
+msgid "The Holy Lord Phoenix Himself, blessed be his name, has marked for us the heretics of Okran. Look out for them and bring them to me for holy judgement."
+msgstr ""
+
+#. Id: 49646-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49642-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49646-Dialogue.mod:1
+msgid "The Holy Lord Phoenix Himself, blessed be his name, has marked for us the heretics of Okran. Look out for them and bring them to me for purging."
+msgstr ""
+
+#. Id: 49643-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 12823-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1827-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 59337-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59331-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek law bounty
+#: 49643-Dialogue.mod:0 12823-gamedata.base:0 59337-Dialogue.mod:0
+msgid "Do you have any confiscated goods to sell?"
+msgstr ""
+
+#. Id: 49674-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49643-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49674-Dialogue.mod:0
+msgid "All confiscated goods are subject to admin charges."
+msgstr ""
+
+#. Id: 49644-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49641-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 18908-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (1827-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: police chief bounty
+#. Id: 59340-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59331-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek law bounty
+#: 49644-Dialogue.mod:0 18908-gamedata.base:0 59340-Dialogue.mod:0
+msgid "I'm here to bail out a friend."
+msgstr ""
+
+#. Id: 49647-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49644-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49647-Dialogue.mod:0
+msgid "Ah, to pay for your friend's heathen sins! In the eye's of Okran, their time in incarceration has redeemed them of their evil ways. But to shorten their penitence, the price will be steep."
+msgstr ""
+
+#. Id: 49647-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49644-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49647-Dialogue.mod:1
+msgid "Ah, to redeem your friend of their wicked heresy! Under the eye's of the Lord Of Light, their time in incarceration has redeemed them of their unholy sins. But to shorten their penance, the price will be high."
+msgstr ""
+
+#. Id: 49676-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49676-Dialogue.mod:0
+msgid "Heed my warning, brother. One rotten fruit will eventually spoil the bunch."
+msgstr ""
+
+#. Id: 49676-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (49647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49676-Dialogue.mod:1
+msgid "Pay caution, brother. One rotten greenfruit will eventually spoil the batch."
+msgstr ""
+
+#. Id: 49676-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (49647-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49676-Dialogue.mod:2
+msgid "But if one seeks a wholesome living, it would be wise to abandon such rotten company."
+msgstr ""
+
+#. Id: 49648-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49648-Dialogue.mod:0
+msgid "Okran bless you, you've captured a heretic of Okran! Hand them over for deliverance, we'll take care of them from here."
+msgstr ""
+
+#. Id: 49648-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49648-Dialogue.mod:1
+msgid "Blessings from Okran, you've captured a darkened! Hand them over for redemption, we'll take care of them from here."
+msgstr ""
+
+#. Id: 49648-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49648-Dialogue.mod:2
+msgid "Lord Of Light bless you, you've captured an enemy of Okran! Hand them over for deliverance, we'll take care of them from here."
+msgstr ""
+
+#. Id: 49649-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49648-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49649-Dialogue.mod:0
+msgid "Take them, brother. It is my pleasure to serve Okran."
+msgstr ""
+
+#. Id: 49650-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 61558-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61556-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 1533440-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1533438-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49650-Dialogue.mod:0 61558-Dialogue.mod:0 1533440-Dialogue.mod:0
+msgid "You have served Okran's crusade well, brother."
+msgstr ""
+
+#. Id: 49650-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49650-Dialogue.mod:1
+msgid "To carry out Okran's Will, it is the highest of sacred purposes. The dark ones will be purged one by one by Okran's children, if you find more heretics in the future bring them to me. You have served the Holy Nation well. "
+msgstr ""
+
+#. Id: 49650-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49650-Dialogue.mod:2
+msgid "To carry out Okran's Will, it is the highest of sacred purposes. The dark ones will be purged one by one by Okran's children, if you find more heretics in the future bring them to me. You have served the Holy Lord Phoenix Himself, blessed be his name, well. "
+msgstr ""
+
+#. Id: 49650-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49650-Dialogue.mod:3
+msgid "To carry out Okran's Will, it is the highest of sacred purposes. The dark ones will be purged one by one by Okran's children, if you find more heretics in the future bring them to me. Your holy duty is done today. "
+msgstr ""
+
+#. Id: 49653-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49653-Dialogue.mod:0
+msgid "Yes, holy brother."
+msgstr ""
+
+#. Id: 49681-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 1533373-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533372-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Phoenix talk to ally tips
+#. Id: 1532348-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532344-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: HN assault woman interrupt
+#: 49681-Dialogue.mod:0 1533373-Dialogue.mod:0 1532348-Dialogue.mod:0
+msgid "/HOLYGREET/."
+msgstr ""
+
+#. Id: 49681-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (49653-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49681-Dialogue.mod:1
+msgid "Take care of yourself, holy brother."
+msgstr ""
+
+#. Id: 49654-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 58727-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58725-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49654-Dialogue.mod:0 58727-Dialogue.mod:0
+msgid "What about payment?"
+msgstr ""
+
+#. Id: 49655-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (49654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49655-Dialogue.mod:0
+msgid "What need is there for payment, when one has the wholesome duty of carrying out Okran's Will?... This greed is to be expected of outsiders though, you have served Okran well today so I will compensate you for your expenses nonetheless. I suggest you reflect upon the Scripture of Radiance Volume V, brother. Money, material goods, rewards... these earthly desires are nothing more than destructive, they will decieve you of your true holy path. Do not lose your way."
+msgstr ""
+
+#. Id: 49655-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (49654-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49655-Dialogue.mod:1
+msgid "*sigh*... To be expected from a godless foreigner. But I suppose we should be able to cover your expenses. I suggest you reflect upon the holy scriptures of radiance though, brother. Your duty to Okran should come above all else, it should not be driven by a lust for money."
+msgstr ""
+
+#. Id: 49678-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (49655-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 49678-Dialogue.mod:0
+msgid "Here, this will cover your expenses."
+msgstr ""
+
+#. Id: 59815-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 59816-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59815-Dialogue.mod:0 59816-Dialogue.mod:0
+msgid "What a shame for somebody to serve Okran's crusade so well, yet be sleeping with the godless enemy... Distance yourself from the dark ones, brother, you may still find your way yet. Reflect upon the Scriptures of Radiance. Money, material goods, rewards that these self proclaimed Kings and Queens may offer you... these earthly desires are nothing more than destructive, they will decieve you of your true holy path."
+msgstr ""
+
+#. Id: 49651-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49648-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 58721-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 59928-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49651-Dialogue.mod:0 58721-Dialogue.mod:0 59928-Dialogue.mod:0
+msgid "Sure. But we'll need to discuss payment."
+msgstr ""
+
+#. Id: 49652-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49648-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49652-Dialogue.mod:0
+msgid "Not yet, sorry, we still have business to settle"
+msgstr ""
+
+#. Id: 49656-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49656-Dialogue.mod:0
+msgid "Okran bless you, you've captured a heretic of Okran... Is he passed on? Deliverance should be left to the Holy Lord Phoenix Himself, blessed be his name! Take care not to destroy heretics before they have the chance to redeem themselves in future, brother. Hand them over, we'll take care of the body."
+msgstr ""
+
+#. Id: 49656-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 49656-Dialogue.mod:1
+msgid "A joyous occasion, you've captured a heretic of Okran!... Is he passed on? Judgement should be left only to the Holy Lord Phoenix Himself, blessed be his name. Take care not to destroy heretics before they have the chance to redeem themselves in future, brother. Hand them over, we'll take care of the body."
+msgstr ""
+
+#. Id: 49657-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49656-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49657-Dialogue.mod:0
+msgid "It won't happen again, brother. Please take him."
+msgstr ""
+
+#. Id: 49658-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49656-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49658-Dialogue.mod:0
+msgid "Sure, yeah. What about payment?"
+msgstr ""
+
+#. Id: 49659-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49656-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 49659-Dialogue.mod:0
+msgid "Sorry, I'm not ready to hand them over yet."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:0
+msgid "Do not speak to me, wretched woman"
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:1
+msgid "You do not approach a holy inquisitor, /TEMPTRESS/."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:2
+msgid "It is improper to approach your holy brother in this way, woman."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 51523-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek 3
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
+#. Id: 54892-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (54890-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble slave farm boss
+#: 49687-Dialogue.mod:3 51523-Dialogue.mod:2 54892-Dialogue.mod:0
+msgid "Leave me."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:4
+msgid "Do not speak to me."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:5
+msgid "Woman has no place in the Inquisitorium."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:6
+msgid "Running errands for your husband? He can speak with me himself."
+msgstr ""
+
+#. Id: 49687-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49687-Dialogue.mod:7
+msgid "Have you lost your husband, /TEMPTRESS/? Woman has no place here."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 41144-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots random beasts
+#: 49693-Dialogue.mod:0 41144-Dialogue.mod:1
+msgid "Unshackled beasts must be tamed..."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43409-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation spots skeleton
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 49693-Dialogue.mod:1 43409-Dialogue.mod:4
+msgid "Your kind aren't welcome here..."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43409-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation spots skeleton
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 49693-Dialogue.mod:2 43409-Dialogue.mod:7
+msgid "Rebirth is the only place for a monster like you..."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 43409-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy Nation spots skeleton
+#. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek
+#: 49693-Dialogue.mod:3 43409-Dialogue.mod:1
+msgid "Foul animal..."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49693-Dialogue.mod:5
+msgid "I'm watching you, beast."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49693-Dialogue.mod:6
+msgid "I've no business with you, dark one."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49693-Dialogue.mod:7
+msgid "Watch yourself, beast."
+msgstr ""
+
+#. Id: 49693-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 49693-Dialogue.mod:8
+msgid "Impure beast..."
+msgstr ""
+
+#. Id: 57196-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 57196-Dialogue.mod:0
+msgid "Most impressive! You've truly served the Lord Of Light well, my brother! Believe me, your hard work never goes unseen under the eyes of Okran. Please, hand them over for deliverance, we'll take care of it from here."
+msgstr ""
+
+#. Id: 58718-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. Id: 59841-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 59844-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 58718-Dialogue.mod:0 59841-Dialogue.mod:0 59844-Dialogue.mod:0
+msgid "... Moll...!"
+msgstr ""
+
+#. Id: 58719-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58718-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58719-Dialogue.mod:0
+msgid "... The most foul of Narko's servants, finally bound and shackled at last! Hand her over, brother, I'll take her from here."
+msgstr ""
+
+#. Id: 58720-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 1533436-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533429-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 58720-Dialogue.mod:0 1533436-Dialogue.mod:0
+msgid "(Hand her over)"
+msgstr ""
+
+#. Id: 58725-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58720-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58725-Dialogue.mod:0
+msgid "You have truly served Okran well, holy brother, our women are safe from Moll's corruption once again. Flotsam will be no more."
+msgstr ""
+
+#. Id: 58726-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58725-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 59924-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59921-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 58726-Dialogue.mod:0 59924-Dialogue.mod:0
+msgid "It was a pleasure, holy brother."
+msgstr ""
+
+#. Id: 58728-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58728-Dialogue.mod:0
+msgid "The Holy Lord Phoenix, blessed be his name, will surely want to reward you personally for this..."
+msgstr ""
+
+#. Id: 58729-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (58728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58729-Dialogue.mod:0
+msgid " Go, holy brother, see him."
+msgstr ""
+
+#. Id: 58730-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (58727-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58730-Dialogue.mod:0
+msgid "What need is there for payment, when one has the wholesome duty of carrying out Okran's Will?... But for Moll, I suppose payment is deserved. The Holy Lord Phoenix Himself, blessed be his name, will surely want to reward you personally as well..."
+msgstr ""
+
+#. Id: 59813-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58720-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59813-Dialogue.mod:0
+msgid "You have served Okran well, brother, despite your... unsavoury relationships with the desert Empire. At least our women are safe from Moll's corruption once again. Flotsam will be no more."
+msgstr ""
+
+#. Id: 59824-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59823-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59824-Dialogue.mod:0
+msgid "And I suppose you'll be wanting compensation...?"
+msgstr ""
+
+#. Id: 59831-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (59824-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59831-Dialogue.mod:0
+msgid "Lucky you have your use. Take your Cats."
+msgstr ""
+
+#. Id: 59814-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58720-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59814-Dialogue.mod:0
+msgid "It seems the beast lover has redeemed himself a little... despite his unsavoury relationships with the horned devils. At least our women are safe from Moll's corruption once again. Flotsam will be no more."
+msgstr ""
+
+#. Id: 59819-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59819-Dialogue.mod:0
+msgid "So typical of a UC desert crawler! Money before morals... But at least our women are safe from Moll's corruption once again. Flotsam will be no more."
+msgstr ""
+
+#. Id: 59820-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (58721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59820-Dialogue.mod:0
+msgid "So typical of a beast loving heretic! Money before morals... But at least our women are safe from Moll's corruption once again. Flotsam will be no more."
+msgstr ""
+
+#. Id: 58722-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58719-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 58722-Dialogue.mod:0
+msgid "Not yet, sorry, she and I still have business to settle."
+msgstr ""
+
+#. Id: 58724-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (58723-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58724-Dialogue.mod:0
+msgid "Then be quick about it, holy brother. Bring her back to me soon."
+msgstr ""
+
+#. Id: 58738-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 58738-Dialogue.mod:0
+msgid "... The mother of all horned devils... Is that the Golem?"
+msgstr ""
+
+#. Id: 58739-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58738-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 58749-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58748-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 61556-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61541-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 58739-Dialogue.mod:0 58749-Dialogue.mod:0 61556-Dialogue.mod:0
+msgid "Yes. Call it my donation to the Holy Nation..."
+msgstr ""
+
+#. Id: 58740-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58740-Dialogue.mod:0
+msgid "You were right to bring her here. Only Okran's light may purge the worst of evils... "
+msgstr ""
+
+#. Id: 59834-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59834-Dialogue.mod:0
+msgid "You have served Okran well, brother, despite your... unsavoury relationships with the desert Empire. At least our society is safe from the horned devils of the south..."
+msgstr ""
+
+#. Id: 59835-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59835-Dialogue.mod:0
+msgid "Why am I not surprised to see the beast loving heretic turn on his own queen? But you were right to bring her here, only Okran's light may purge the worst of evils...."
+msgstr ""
+
+#. Id: 59836-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59835-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59836-Dialogue.mod:0
+msgid "Here, payment as compensation for your efforts."
+msgstr ""
+
+#. Id: 58748-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 58748-Dialogue.mod:0
+msgid "... The desert emperor... Is that really Tengu, of the United Cities?"
+msgstr ""
+
+#. Id: 58750-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 58750-Dialogue.mod:0
+msgid "One of our biggest threats in all the land... and you've brought him right to us, bound and shackled. Only Okran's light may purge such a gluttonous and corrupted individual..."
+msgstr ""
+
+#. Id: 59838-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59838-Dialogue.mod:0
+msgid "Why am I not surprised to see the gluttonous desert crawler turn on his own emperor? But you were right to bring him here, only Okran's light may purge the worst of evils...."
+msgstr ""
+
+#. Id: 59839-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59839-Dialogue.mod:0
+msgid "It seems the beast lover has redeemed himself a little... despite his unsavoury relationships with the horned devils. But you were right to bring him here, only Okran's light may purge such a gluttonous and corrupted individual..."
+msgstr ""
+
+#. Id: 58741-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58748-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 58741-Dialogue.mod:0
+msgid "No, sorry I've changed my mind..."
+msgstr ""
+
+#. Id: 59827-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 59827-Dialogue.mod:0
+msgid "You! You've the nerve to approach a holy inquisitor on this sacred soil?!"
+msgstr ""
+
+#. Id: 59828-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59827-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59828-Dialogue.mod:0
+msgid "Narko woshipping whore of Flotsam!"
+msgstr ""
+
+#. Id: 59842-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59842-Dialogue.mod:0
+msgid "You'd have me believe that YOU captured Narko's foulest of servants, all alone, without the aid of your holy brothers? You've drifted far from holy soil, child, and rogue daughters of the demoness aren't to be trusted so blindly. You, minion of Moll, won't decieve the Holy Nation today!"
+msgstr ""
+
+#. Id: 59850-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59850-Dialogue.mod:0
+msgid "Arrest them both!"
+msgstr ""
+
+#. Id: 59876-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59844-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59876-Dialogue.mod:0
+msgid "You'd have me believe that YOU, beast, captured Narko's foulest of servants? You've drifted far from holy soil, child, and wild beasts aren't to be trusted so blindly. You, minion of Moll, won't decieve the Holy Nation today!"
+msgstr ""
+
+#. Id: 59846-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 59847-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 59846-Dialogue.mod:0 59847-Dialogue.mod:0
+msgid "... The desert emperor... Tengu, of the United Cities?"
+msgstr ""
+
+#. Id: 59848-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. Id: 59849-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 59848-Dialogue.mod:0 59849-Dialogue.mod:0
+msgid "... The mother of all horned devils... the Golem?"
+msgstr ""
+
+#. Id: 59874-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59848-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59874-Dialogue.mod:0
+msgid "Carried straight to the Holy Lord Phoenix, blessed be his name's, door by none other than her fellow daughter of Narko... Lord of Light, isn't that convenient!"
+msgstr ""
+
+#. Id: 59873-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59849-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59873-Dialogue.mod:0
+msgid "Carried straight to the Holy Lord Phoenix, blessed be his name's, door by none other than a fellow dark one... Lord of Light, isn't that convenient!"
+msgstr ""
+
+#. Id: 59916-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#: 59916-Dialogue.mod:0
+msgid "That's no ordinary skeleton... that's Tinfist! Quickly, hand him over. We can't let such a powerful agent of darkness loose on sacred soil..."
+msgstr ""
+
+#. Id: 59917-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59916-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 59917-Dialogue.mod:0
+msgid "(Hand him over)"
+msgstr ""
+
+#. Id: 59921-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59921-Dialogue.mod:0
+msgid "You have truly served Okran well, holy brother. Rebirth is finally safe and the the anti-slavers will be no more."
+msgstr ""
+
+#. Id: 60061-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: RELATIONS<80, Tag: -1
+#: 60061-Dialogue.mod:0
+msgid "Keep up the good deeds, you'll go far in the Holy Nation."
+msgstr ""
+
+#. Id: 59930-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59930-Dialogue.mod:0
+msgid "What need is there for payment, when one has the wholesome duty of carrying out Okran's Will?... But for Tinfist, I suppose payment is deserved. The Holy Lord Phoenix Himself, blessed be his name, will surely want to reward you personally as well..."
+msgstr ""
+
+#. Id: 59933-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59933-Dialogue.mod:0
+msgid "So typical of a UC desert crawler! Money before morals... But at least Rebirth is safe from Tinfist's terror once again. The anti-slavers will be no more."
+msgstr ""
+
+#. Id: 59934-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (59928-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59934-Dialogue.mod:0
+msgid "So typical of a beast loving heretic! Money before morals... But at least Rebirth is safe from Tinfist's terror once again. The anti-slavers will be no more."
+msgstr ""
+
+#. Id: 59925-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59925-Dialogue.mod:0
+msgid "It seems the beast lover has redeemed himself a little... despite his unsavoury relationships with the horned devils. At least Rebirth is safe from Tinfist's terror once again. The anti-slavers will be no more."
+msgstr ""
+
+#. Id: 59926-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59926-Dialogue.mod:0
+msgid "You have served Okran well, brother, despite your... unsavoury relationships with the desert Empire. At least Rebirth is safe from Tinfist's terror once again. The anti-slavers will be no more."
+msgstr ""
+
+#. Id: 59918-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59916-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 59918-Dialogue.mod:0
+msgid "Not yet, sorry, he and I still have business to settle."
+msgstr ""
+
+#. Id: 59919-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59918-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59919-Dialogue.mod:0
+msgid "It is our duty, not yours, to decide a heretic's fate. He's a danger to us all. I'll tell you once more only, hand him over."
+msgstr ""
+
+#. Id: 59920-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59919-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Inquisitor heretic bounty
+#: 59920-Dialogue.mod:0
+msgid "I told you already, I have business with him."
+msgstr ""
+
+#. Id: 59923-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 59923-Dialogue.mod:0
+msgid "Tinfist and the agents of darkness!"
+msgstr ""
+
+#. Id: 59950-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 59950-Dialogue.mod:0
+msgid "A lone female carrying the body of Tinfist? A rogue daughter of the demoness isn't to be trusted, you won't decieve the Holy Nation today, woman!"
+msgstr ""
+
+#. Id: 59951-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59951-Dialogue.mod:0
+msgid "A beast carrying nothing more than another beast is not to be trusted. You won't decieve the Holy Nation today, dark one!"
+msgstr ""
+
+#. Id: 59941-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
+#: 59941-Dialogue.mod:0
+msgid "You! The skeleton lover has the nerve to set foot on holy soil?"
+msgstr ""
+
+#. Id: 59954-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59941-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 59954-Dialogue.mod:0
+msgid "Possessed by Tinfist himself! Arrest /HIM/!"
+msgstr ""
+
+#. Id: 61541-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 61541-Dialogue.mod:0
+msgid "Okran bless you, you've caught Tengu's beast, Eyegore the monster! Hand him over for deliverance, we'll take care of it from here."
+msgstr ""
+
+#. Id: 1533429-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 1533429-Dialogue.mod:0
+msgid "Seto, the devil child... leave her to me, I shall put her to the flame and purify her wretched soul."
+msgstr ""
+
+#. Id: 1533438-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1533436-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#: 1533438-Dialogue.mod:0
+msgid "Seto is our key in defeating the horned devils..."
+msgstr ""
+

@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98181-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98171-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. Id: 98182-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98172-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. Id: 98183-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98173-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. Id: 98082-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98073-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98181-Dialogue.mod:0 98182-Dialogue.mod:0 98183-Dialogue.mod:0 98082-Dialogue.mod:0
+msgid "Thank you, friend..."
+msgstr ""
+
+#. Id: 98198-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#: 98198-Dialogue.mod:0
+msgid "Where are we going now?"
+msgstr ""
+
+#. Id: 98198-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (98181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#: 98198-Dialogue.mod:1
+msgid "Where are we going?"
+msgstr ""
+
+#. Id: 98200-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#: 98200-Dialogue.mod:0
+msgid "I'll just hang around here a bit..."
+msgstr ""
+
+#. Id: 98200-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (98181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#: 98200-Dialogue.mod:1
+msgid "I'll make myself comfortable..."
+msgstr ""
+
+#. Id: 98200-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (98181-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#: 98200-Dialogue.mod:2
+msgid "This place is starting to look nice and cosy..."
+msgstr ""
+
+#. Id: 98172-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
+#: 98172-Dialogue.mod:0
+msgid "Take this..."
+msgstr ""
+
+#. Id: 98173-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 3 ally
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
+#: 98173-Dialogue.mod:0
+msgid "This is all I have..."
+msgstr ""
+
+#. Id: 98174-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98170-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Starver interrupt 3 ally
+#: 98174-Dialogue.mod:0
+msgid "I can't help you right now..."
+msgstr ""
+
+#. Id: 98184-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98174-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 3 ally
+#: 98184-Dialogue.mod:0
+msgid "So hungry..."
+msgstr ""
+

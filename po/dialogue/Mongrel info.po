@@ -1,0 +1,333 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 46992-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 46992-Dialogue.mod:2
+msgid "A new /GUY/, eh? Must be tougher than you look, making it here to the city in one piece."
+msgstr ""
+
+#. Id: 46993-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (46992-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 46993-Dialogue.mod:0
+msgid "Any way I can earn some money around here?"
+msgstr ""
+
+#. Id: 46994-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (46993-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 46994-Dialogue.mod:0
+msgid "At the moment, no, job's are dry. Come back in a few months, eh?"
+msgstr ""
+
+#. Id: 46998-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46994-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 46998-Dialogue.mod:0
+msgid "Okay, nevermind then."
+msgstr ""
+
+#. Id: 46995-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (46992-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 46995-Dialogue.mod:0
+msgid "What can you tell me about this place?"
+msgstr ""
+
+#. Id: 46997-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (46995-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 46997-Dialogue.mod:0
+msgid "People don't make a habit of visiting here. If you're lucky enough to make it to Mongrel, you're stuck in Mongrel. The plus side? No one will find you in this town... if you got someone to hide from, that is. 'Round here you'll find mostly outlaws and ex-slaves."
+msgstr ""
+
+#. Id: 47012-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47012-Dialogue.mod:0
+msgid "Stuck here, huh... Any survival advice?"
+msgstr ""
+
+#. Id: 47013-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47012-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47013-Dialogue.mod:0
+msgid "If you're staying? Keep your head down. If you're heading out?... Well, you should avoid the Deathyards altogether. The mist tends to.. swallow travellers up, shall we say?"
+msgstr ""
+
+#. Id: 47014-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47013-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47014-Dialogue.mod:0
+msgid "Same goes for the floodlands up north. If you make it out of the mist, that is. People who go to the floodlands... they don't come back. "
+msgstr ""
+
+#. Id: 47015-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47015-Dialogue.mod:0
+msgid "What happens to people in the Deathyards?"
+msgstr ""
+
+#. Id: 47017-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47015-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47017-Dialogue.mod:0
+msgid "No one really knows. Some reckon it's to do with evil spirits, and then you got others who believe in the curse of the mist: people get lost, lose their sanity and starve to death..."
+msgstr ""
+
+#. Id: 47323-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47017-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47323-Dialogue.mod:0
+msgid "People here - the one's that haven't lost their minds, that is - they don't talk about the fog..."
+msgstr ""
+
+#. Id: 47018-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47323-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47018-Dialogue.mod:0
+msgid "What about the Floodlands?"
+msgstr ""
+
+#. Id: 47019-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (47018-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47019-Dialogue.mod:0
+msgid "A place where adventurers and treasure hunters go and never come back from, like always, the idiots. Some say the killer machines get to 'em..."
+msgstr ""
+
+#. Id: 47006-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (47019-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#. Id: 47021-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47020-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47006-Dialogue.mod:0 47021-Dialogue.mod:0
+msgid "But me?... I reckon all those missing people saw somethin' they weren't supposed to see..."
+msgstr ""
+
+#. Id: 47004-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (47006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47004-Dialogue.mod:0
+msgid "Sounds mysterious, I gotta check that out!"
+msgstr ""
+
+#. Id: 47004-Dialogue.mod
+#. -- Index: 12.1
+#. -- Parent line: 11 (47006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47004-Dialogue.mod:1
+msgid "Now I'm interested! I'm checking that out!"
+msgstr ""
+
+#. Id: 47010-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (47004-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47010-Dialogue.mod:0
+msgid "... Yeah, right..."
+msgstr ""
+
+#. Id: 47011-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (47010-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47011-Dialogue.mod:0
+msgid "Idiot adventurers."
+msgstr ""
+
+#. Id: 47007-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (47006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47007-Dialogue.mod:0
+msgid "Thanks for the warning, I'll be careful."
+msgstr ""
+
+#. Id: 47025-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (47007-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47025-Dialogue.mod:0
+msgid "No problem. Welcome to Mongrel, island of the outcast."
+msgstr ""
+
+#. Id: 47009-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (47006-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47009-Dialogue.mod:0
+msgid "Welp, looks like I'm stuck here for good then."
+msgstr ""
+
+#. Id: 47036-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (47009-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47036-Dialogue.mod:0
+msgid "Right. Once you're in Mongrel, you're stuck in Mongrel."
+msgstr ""
+
+#. Id: 47016-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47016-Dialogue.mod:0
+msgid "Can you tell me more about the Floodlands?"
+msgstr ""
+
+#. Id: 47020-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47016-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47020-Dialogue.mod:0
+msgid "A place where adventurers and treasure hunters go and never come back from like always, the idiots. Some say the killer machines get to 'em..."
+msgstr ""
+
+#. Id: 47022-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (47021-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47022-Dialogue.mod:0
+msgid "And what happens to people in the Deathyards?"
+msgstr ""
+
+#. Id: 47023-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (47022-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47023-Dialogue.mod:0
+msgid "No one really knows. Some reckon it's something to do with evil spirits, other's believe in the curse of the mist: people get lost, lose their sanity and starve to death..."
+msgstr ""
+
+#. Id: 47035-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47014-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47035-Dialogue.mod:0
+msgid "Thanks for the heads up."
+msgstr ""
+
+#. Id: 47027-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47027-Dialogue.mod:0
+msgid "What are you trying to say? I ain't got nothing to hide from!"
+msgstr ""
+
+#. Id: 47032-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47027-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47032-Dialogue.mod:0
+msgid "I don't give a damn who you are, or who you're hiding from. Ease up, I got bigger troubles to deal with..."
+msgstr ""
+
+#. Id: 47034-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47032-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47034-Dialogue.mod:0
+msgid "Alright, well, thanks for the info."
+msgstr ""
+
+#. Id: 47028-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47028-Dialogue.mod:0
+msgid "Sounds like my kind of place..."
+msgstr ""
+
+#. Id: 47030-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47028-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mongrel info
+#: 47030-Dialogue.mod:0
+msgid "Well, ain't that fortunate for you."
+msgstr ""
+
+#. Id: 47031-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47030-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47031-Dialogue.mod:0
+msgid "So, any survival tips for me?"
+msgstr ""
+
+#. Id: 47029-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (46997-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mongrel info
+#: 47029-Dialogue.mod:0
+msgid "Okay, thanks for the info"
+msgstr ""
+

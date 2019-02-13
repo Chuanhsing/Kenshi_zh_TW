@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 15916-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. Id: 15904-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 40833-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation witness lockpick
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 58742-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58741-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor heretic bounty
+#. Id: 8521-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Healed by enemy
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. Id: 53009-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Gate Guard Partner In Crime
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
+#. Id: 44505-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civ witness lockpicking outside
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#: 15916-Dialogue.mod:0 15904-Dialogue.mod:2 40833-Dialogue.mod:2 58742-Dialogue.mod:0 8521-Dialogue.mod:4 53009-Dialogue.mod:0 44505-Dialogue.mod:2
+msgid "...?"
+msgstr ""
+
+#. Id: 15916-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. Id: 46081-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton attacked by someone else
+#. -- Condition: My Race(s): Skeleton
+#. Id: 58534-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58532-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: esata acknowledges player 1
+#. Id: 45936-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military freed by captor
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
+#. Id: 46076-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Skeleton released by captor
+#. -- Condition: My Race(s): Skeleton
+#. Id: 45918-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: tough merc freed by captor
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 60989-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#. Id: 60991-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Esata sees player with enemy
+#. Id: 45843-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: noble released by captor
+#: 15916-Dialogue.mod:1 46081-Dialogue.mod:2 58534-Dialogue.mod:0 45936-Dialogue.mod:0 46076-Dialogue.mod:4 45918-Dialogue.mod:3 60989-Dialogue.mod:0 60991-Dialogue.mod:0 45843-Dialogue.mod:1
+msgid "...!"
+msgstr ""
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:0
+msgid "Hey, /THISGUY/... /HEIS/ got a bounty on /HIM/!"
+msgstr ""
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:1
+msgid "/THISGUY/... /HEIS/ got a bounty on /HIM/!"
+msgstr ""
+
+#. Id: 15917-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (15916-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15917-Dialogue.mod:2
+msgid "/THISGUY/... /HEIS/ a fugitive!"
+msgstr ""
+
+#. Id: 15918-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (15917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15918-Dialogue.mod:1
+msgid "Over here, guards!"
+msgstr ""
+
+#. Id: 15918-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (15917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#: 15918-Dialogue.mod:2
+msgid "Guards, this way!"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:0
+msgid "So... can I have a piece of the reward?"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:1
+msgid "I did good right? Do I get a reward?"
+msgstr ""
+
+#. Id: 15920-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Traitor spots bounty
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 15920-Dialogue.mod:2
+msgid "... Do I get some of the bounty?"
+msgstr ""
+

@@ -1,0 +1,442 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:0
+msgid "You look like death, holy brother!"
+msgstr ""
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:1
+msgid "Haven't you any food, holy one?"
+msgstr ""
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:3
+msgid "Okran have mercy... Are you okay, holy one?"
+msgstr ""
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:4
+msgid "You look unwell, holy brother..."
+msgstr ""
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:6
+msgid "Holy one!"
+msgstr ""
+
+#. Id: 57169-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57169-Dialogue.mod:7
+msgid "Lord, Okran!"
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:0
+msgid "Eat, be well..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:1 57179-Dialogue.mod:3
+msgid "We suffer together, as children, as brothers..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:2 57179-Dialogue.mod:2
+msgid "Your suffering is my suffering. Be well..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:3
+msgid "Eat well, regain your strength..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:4 57179-Dialogue.mod:4
+msgid "You will be strong again..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:5 57179-Dialogue.mod:5
+msgid "Have faith in the light..."
+msgstr ""
+
+#. Id: 57178-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (57169-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57178-Dialogue.mod:6
+msgid "Eat well. The Holy Nation needs you..."
+msgstr ""
+
+#. Id: 57170-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57171-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57172-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57173-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57170-Dialogue.mod:0 57171-Dialogue.mod:1 57172-Dialogue.mod:1 57173-Dialogue.mod:1
+msgid "Holy brother, you're hurt..."
+msgstr ""
+
+#. Id: 57170-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57171-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57172-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57173-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57170-Dialogue.mod:1 57171-Dialogue.mod:0 57172-Dialogue.mod:0 57173-Dialogue.mod:0
+msgid "Holy brother!"
+msgstr ""
+
+#. Id: 57170-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57171-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57172-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57173-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57170-Dialogue.mod:2 57171-Dialogue.mod:2 57172-Dialogue.mod:2 57173-Dialogue.mod:2
+msgid "What happened, holy one?"
+msgstr ""
+
+#. Id: 57170-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57171-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57172-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#. Id: 57173-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: RELATIONS>50, Tag: -1
+#: 57170-Dialogue.mod:3 57171-Dialogue.mod:3 57172-Dialogue.mod:3 57173-Dialogue.mod:3
+msgid "Okran have mercy... What happened, holy one?"
+msgstr ""
+
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57179-Dialogue.mod:0
+msgid "Look after yourself, /YOURNAME/..."
+msgstr ""
+
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57179-Dialogue.mod:1
+msgid "Be well, Okran bless you..."
+msgstr ""
+
+#. Id: 57179-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (57170-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 57179-Dialogue.mod:6
+msgid "Be well. We need you, Okran needs you..."
+msgstr ""
+
+#. Id: 60088-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60088-Dialogue.mod:0
+msgid "Moll will rot in the abyss for her crimes against Okran..."
+msgstr ""
+
+#. Id: 60089-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60089-Dialogue.mod:0
+msgid "And it is all thanks to you. Bless you, holy /YOURNAME/."
+msgstr ""
+
+#. Id: 60090-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60090-Dialogue.mod:0
+msgid "Tinfist was Narko's most powerful of agents, and yet you yourself delivered him to Okran's door for punishment..."
+msgstr ""
+
+#. Id: 60091-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60090-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60091-Dialogue.mod:0
+msgid "But the war of the dark demoness still goes on. Careful, holy /YOURNAME/."
+msgstr ""
+
+#. Id: 60092-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60092-Dialogue.mod:0
+msgid "Bless you, holy /YOURNAME/. How you managed to take down the golem I'll never know..."
+msgstr ""
+
+#. Id: 60093-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60092-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60093-Dialogue.mod:0
+msgid "Soon we'll purge the last of her beasts..."
+msgstr ""
+
+#. Id: 60094-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60093-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60094-Dialogue.mod:0
+msgid "Before the barbarians reach our gates for blood like the psychopaths they are."
+msgstr ""
+
+#. Id: 60095-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60095-Dialogue.mod:0
+msgid "Now that Tengu is gone, the Empire will finally see that good triumphs over evil..."
+msgstr ""
+
+#. Id: 60096-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60095-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Holy paladin sees ally
+#: 60096-Dialogue.mod:0
+msgid "Soon Okran's light will spread to the east, thanks to you, /YOURNAME/."
+msgstr ""
+

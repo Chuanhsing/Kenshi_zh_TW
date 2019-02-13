@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55101-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55101-Dialogue.mod:0
+msgid "/IWEWERE/ here first, /OUTLANDER/... And I can't let you beat me to MY treasure!"
+msgstr ""
+
+#. Id: 55101-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55101-Dialogue.mod:1
+msgid "There are only so many relics to go around, /OUTLANDER/... There ain't enough for both of us."
+msgstr ""
+
+#. Id: 55101-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55101-Dialogue.mod:2
+msgid "/IWEWERE/ here first, /OUTLANDER/... This is MY tech hunting spot!"
+msgstr ""
+
+#. Id: 55101-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55101-Dialogue.mod:3
+msgid "/IWE/ found this place first, adventurer... And /IWE/ don't share treasure!"
+msgstr ""
+
+#. Id: 55101-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55101-Dialogue.mod:4
+msgid "Find your own hunting ground, adventurer, /IWEWERE/ here first!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:1
+msgid "You get in the way of /MYOUR/ treasure hunting, you die!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:2
+msgid "You're goin' down, adventurer!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:3
+msgid "You get between /MEUS/ and /MYOUR/ treasure, you disappear!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:4
+msgid "Get in the way of /MYOUR/ treasure and you pay for it in blood!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:6
+msgid "Vamoose, newbie!"
+msgstr ""
+
+#. Id: 55111-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (55101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55111-Dialogue.mod:7
+msgid "Leave the tech hunting to the experts, eh, newbie!"
+msgstr ""
+
+#. Id: 55125-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55125-Dialogue.mod:0
+msgid "All the way out in these ruins and I found company, eh?"
+msgstr ""
+
+#. Id: 55125-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55125-Dialogue.mod:1
+msgid "Good to see another soul in these ruins..."
+msgstr ""
+
+#. Id: 55125-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55125-Dialogue.mod:2
+msgid "Haven't seen another living soul for miles... Good to see another face."
+msgstr ""
+
+#. Id: 55140-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55140-Dialogue.mod:0
+msgid "What's this? A tech hunter wannabe?"
+msgstr ""
+
+#. Id: 55140-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55140-Dialogue.mod:1
+msgid "How cute, the welp think he's an adventurer..."
+msgstr ""
+
+#. Id: 55140-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55140-Dialogue.mod:2
+msgid "Well, look at this, the rookie runt wants to play tech hunter, eh?"
+msgstr ""
+
+#. Id: 55140-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55140-Dialogue.mod:3
+msgid "/QUICKLAUGH/, what's this? Think yourself a tech hunter, eh?"
+msgstr ""
+
+#. Id: 55143-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55143-Dialogue.mod:0
+msgid "Well, you wanna play with the tech hunters, you got it!"
+msgstr ""
+
+#. Id: 55143-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (55140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55143-Dialogue.mod:1
+msgid "Then allow /MEUS/ to show you what happens to competition!"
+msgstr ""
+
+#. Id: 55143-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (55140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#: 55143-Dialogue.mod:2
+msgid "Well, I'll show you what happens when you start playin' tech hunter!"
+msgstr ""
+
+#. Id: 55141-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55141-Dialogue.mod:0
+msgid "What's this? Tech hunter wannabes?"
+msgstr ""
+
+#. Id: 55141-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55141-Dialogue.mod:1
+msgid "How cute, the welps think themselves adventurers..."
+msgstr ""
+
+#. Id: 55141-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55141-Dialogue.mod:2
+msgid "Well, look at this, the rookie runts want to play tech hunter, eh?"
+msgstr ""
+
+#. Id: 55141-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tech Hunter Rival
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Ancient Ruins or Floodland Ruins
+#: 55141-Dialogue.mod:3
+msgid "/QUICKLAUGH/, what's this? Think yourselves tech hunters, eh?"
+msgstr ""
+

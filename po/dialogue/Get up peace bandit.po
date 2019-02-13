@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13439-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#: 13439-Escapes.mod:0
+msgid "/FUCK/! My legs! I can't feel my /FUCKING/ legs!"
+msgstr ""
+
+#. Id: 13439-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
+#: 13439-Escapes.mod:1
+msgid "/FUCK/! My ARMS! I can't feel my /FUCKING/ arms!"
+msgstr ""
+
+#. Id: 13440-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13439-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#: 13440-Escapes.mod:0
+msgid "Oh I was just led on 'em funny... nevermind"
+msgstr ""
+
+#. Id: 13440-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13439-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#: 13440-Escapes.mod:1
+msgid "Oh, musta been led on 'em queer... false alarm"
+msgstr ""
+
+#. Id: 13441-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. Id: 17814-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (17813-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shriek attack 2
+#. Id: 1534096-__Fixes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Guard sees fish head
+#. Id: 1534099-__Fixes.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Guard sees fish head
+#: 13441-Escapes.mod:2 17814-Dialogue.mod:0 1534096-__Fixes.mod:6 1534099-__Fixes.mod:6
+msgid "*splutter*"
+msgstr ""
+
+#. Id: 13442-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13441-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#: 13442-Escapes.mod:0
+msgid "Did we do good?"
+msgstr ""
+
+#. Id: 13442-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13441-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#: 13442-Escapes.mod:1
+msgid "Did we get 'em?"
+msgstr ""
+
+#. Id: 13442-Escapes.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (13441-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#: 13442-Escapes.mod:2
+msgid "Did we kill 'em?"
+msgstr ""
+
+#. Id: 13443-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13443-Escapes.mod:0
+msgid "My guts a' hurtin'"
+msgstr ""
+
+#. Id: 13443-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13443-Escapes.mod:1
+msgid "Whut happened?"
+msgstr ""
+
+#. Id: 13443-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Get up peace bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 13443-Escapes.mod:3
+msgid "Urk..."
+msgstr ""
+

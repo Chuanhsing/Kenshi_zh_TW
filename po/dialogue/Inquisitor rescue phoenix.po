@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56488-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#. -- Condition: Who: ME, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 56488-Dialogue.mod:0
+msgid "You and your devils have commited the gravest of crimes against Okran, /YOURNAME/..."
+msgstr ""
+
+#. Id: 56490-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56488-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 56490-Dialogue.mod:0
+msgid "/YOURNAME/, spawn of Narko herself, I will vanquish you and restore peace in our /SACRED/ nation!"
+msgstr ""
+
+#. Id: 56491-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (56490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 56491-Dialogue.mod:0
+msgid "/BURNHIM/, /HIM/ sent from the /AGENTSOFDARKNESS/!"
+msgstr ""
+
+#. Id: 56492-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (56491-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 56492-Dialogue.mod:0
+msgid "/HE/ must be purged to ash for bringing harm to our beloved Holy Lord Phoenix!"
+msgstr ""
+
+#. Id: 56493-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (56492-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 56493-Dialogue.mod:0
+msgid "Blessed be his name!"
+msgstr ""
+
+#. Id: 56489-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 56489-Dialogue.mod:0
+msgid "You've commited the gravest of crimes against Okran, /YOURNAME/..."
+msgstr ""
+
+#. Id: 64447-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64447-Dialogue.mod:0
+msgid "You've commited the gravest of crimes against Okran..."
+msgstr ""
+
+#. Id: 64448-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64448-Dialogue.mod:0
+msgid "Spawn of Narko herself, I will vanquish you and restore peace in our /SACRED/ nation!"
+msgstr ""
+
+#. Id: 64451-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64451-Dialogue.mod:0
+msgid "Spawn of Narko herself!"
+msgstr ""
+
+#. Id: 64452-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64451-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64452-Dialogue.mod:0
+msgid "Return him to us! Return the Holy Lord Phoenix..."
+msgstr ""
+
+#. Id: 64453-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64453-Dialogue.mod:0
+msgid "Blessed... *sob*"
+msgstr ""
+
+#. Id: 64454-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (64453-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64454-Dialogue.mod:0
+msgid "Blessed be his... *heave*"
+msgstr ""
+
+#. Id: 64455-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (64454-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64455-Dialogue.mod:0
+msgid "GRAAAAAAHHHHH!"
+msgstr ""
+
+#. Id: 64456-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (64455-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor rescue phoenix
+#: 64456-Dialogue.mod:0
+msgid "*Inaudible choking sounds*"
+msgstr ""
+

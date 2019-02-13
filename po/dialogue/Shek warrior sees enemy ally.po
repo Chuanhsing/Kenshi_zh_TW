@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 64504-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64504-Dialogue.mod:0
+msgid "There's only one thing I hate more than begging cowards..."
+msgstr ""
+
+#. Id: 64505-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64504-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64505-Dialogue.mod:0
+msgid "Okranites!"
+msgstr ""
+
+#. Id: 64506-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64506-Dialogue.mod:0
+msgid "Came for a wander in Shek city, Okranite?"
+msgstr ""
+
+#. Id: 64507-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64506-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64507-Dialogue.mod:0
+msgid "Well if you were looking for trouble, you found it!"
+msgstr ""
+
+#. Id: 64510-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64508-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64510-Dialogue.mod:0
+msgid "Got spine walking Shek city, Okranite..."
+msgstr ""
+
+#. Id: 64511-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE<3, Tag: -1
+#: 64511-Dialogue.mod:0
+msgid "One thing I hate more than begging cowards..."
+msgstr ""
+
+#. Id: 64512-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64511-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64512-Dialogue.mod:0
+msgid "Okranites."
+msgstr ""
+
+#. Id: 64513-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE<3, Tag: -1
+#: 64513-Dialogue.mod:0
+msgid "Little far from home aren't we, Okranite?"
+msgstr ""
+
+#. Id: 64516-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64516-Dialogue.mod:0
+msgid "Beg for your lives, Okranite mutts!"
+msgstr ""
+
+#. Id: 64517-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64516-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek warrior sees enemy ally
+#: 64517-Dialogue.mod:0
+msgid "Kral rules the South!"
+msgstr ""
+

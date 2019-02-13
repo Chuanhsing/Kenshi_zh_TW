@@ -1,0 +1,562 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61130-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 61130-Dialogue.mod:0
+msgid "You there! You own this place?"
+msgstr ""
+
+#. Id: 61148-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61130-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61148-Dialogue.mod:0
+msgid "How about making your local Empire guards welcome, huh?"
+msgstr ""
+
+#. Id: 61149-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61148-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61149-Dialogue.mod:0
+msgid "It's thirsty work here, could use a break right now..."
+msgstr ""
+
+#. Id: 61149-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61148-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61149-Dialogue.mod:1
+msgid "It's hard work patrolling, could use a rest..."
+msgstr ""
+
+#. Id: 61150-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 61137-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61150-Dialogue.mod:0 61137-Dialogue.mod:0
+msgid "... You ignoring me?"
+msgstr ""
+
+#. Id: 61150-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61149-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61150-Dialogue.mod:1
+msgid "... You just gonna keep ignoring me?"
+msgstr ""
+
+#. Id: 61151-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 61138-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61151-Dialogue.mod:0 61138-Dialogue.mod:0
+msgid "That's unwise, you know..."
+msgstr ""
+
+#. Id: 61151-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (61150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 61138-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (61137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61151-Dialogue.mod:1 61138-Dialogue.mod:1
+msgid "You'll regret your insult, you know..."
+msgstr ""
+
+#. Id: 61151-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (61150-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 61138-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (61137-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61151-Dialogue.mod:2 61138-Dialogue.mod:2
+msgid "Keep ignoring me and you'll regret it..."
+msgstr ""
+
+#. Id: 61152-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61152-Dialogue.mod:0
+msgid "All /PEASANT/s know to respect their protectors."
+msgstr ""
+
+#. Id: 61154-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61153-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61154-Dialogue.mod:0
+msgid "Know what I say? /HEHAS/ got something to hide is what I say."
+msgstr ""
+
+#. Id: 96717-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61154-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 96693-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61142-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96717-Dialogue.mod:0 96693-Dialogue.mod:0
+msgid "Probably all of that ILLEGAL hemp over there..."
+msgstr ""
+
+#. Id: 96718-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96717-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96718-Dialogue.mod:0
+msgid "Think we're blind, /PEASANT/?"
+msgstr ""
+
+#. Id: 61168-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61167-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61168-Dialogue.mod:0
+msgid "Guess we found us a student that needs a lesson in respect."
+msgstr ""
+
+#. Id: 61169-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61168-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61169-Dialogue.mod:0
+msgid "Then we'll teach /HIM/ the hard way."
+msgstr ""
+
+#. Id: 96698-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61151-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE=1, Tag: -1
+#: 96698-Dialogue.mod:0
+msgid "Especially when you're growing HEMP under the Empire's nose."
+msgstr ""
+
+#. Id: 96700-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (96698-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96700-Dialogue.mod:0
+msgid "For the safety of all Empire citizens, I am hereby arresting you due to illegal activity!"
+msgstr ""
+
+#. Id: 96690-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 96690-Dialogue.mod:0
+msgid "Narcotics!"
+msgstr ""
+
+#. Id: 96691-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (96690-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96691-Dialogue.mod:0
+msgid "Hemp is illegal in the domain of the Empire, and all criminals will be punished. "
+msgstr ""
+
+#. Id: 96692-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96691-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 96892-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96691-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 60606-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60605-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC Extortion rogue base visit talk to
+#: 96692-Dialogue.mod:0 96892-Dialogue.mod:0 60606-Dialogue.mod:0
+msgid "/SEIZE/ /HIM/ for illegal activity!"
+msgstr ""
+
+#. Id: 96712-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (96691-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>8, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 96712-Dialogue.mod:0
+msgid "Scouts, report back."
+msgstr ""
+
+#. Id: 96712-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (96691-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>8, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
+#: 96712-Dialogue.mod:1
+msgid "They must be punished."
+msgstr ""
+
+#. Id: 97497-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97496-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97497-Dialogue.mod:0
+msgid "Drugs on Empire land... the nerve."
+msgstr ""
+
+#. Id: 97497-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (97496-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97497-Dialogue.mod:1
+msgid "Stop slacking, men! You can rest at base."
+msgstr ""
+
+#. Id: 97497-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (97496-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97497-Dialogue.mod:2
+msgid "Pick up the pace, this isn't paladin school."
+msgstr ""
+
+#. Id: 97498-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (97497-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97498-Dialogue.mod:1
+msgid "They'll pay for their crimes."
+msgstr ""
+
+#. Id: 97499-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97498-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97499-Dialogue.mod:0
+msgid "This will be reported."
+msgstr ""
+
+#. Id: 61140-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 61140-Dialogue.mod:0
+msgid "It's thirsty work out here, could use a rest stop right now..."
+msgstr ""
+
+#. Id: 61140-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 61140-Dialogue.mod:1
+msgid "It's hard work patrolling the outlands, could use a place to rest..."
+msgstr ""
+
+#. Id: 61134-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61134-Dialogue.mod:0
+msgid "How about a warm welcome for a tired Empire guard, huh?"
+msgstr ""
+
+#. Id: 61134-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61140-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61134-Dialogue.mod:1
+msgid "How about welcoming your local Empire guards into your gates, eh?"
+msgstr ""
+
+#. Id: 61137-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61134-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61137-Dialogue.mod:1
+msgid "... You just gonna leave me waiting here, or what?"
+msgstr ""
+
+#. Id: 61139-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61138-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61139-Dialogue.mod:0
+msgid "All /PEASANT/s know to respect their superiors."
+msgstr ""
+
+#. Id: 61142-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61141-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61142-Dialogue.mod:0
+msgid "Know what I say? They got something to hide is what I say."
+msgstr ""
+
+#. Id: 61143-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (96693-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61143-Dialogue.mod:0
+msgid "Time for a smash and search?"
+msgstr ""
+
+#. Id: 61144-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61143-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61144-Dialogue.mod:0
+msgid "Time for a smash and search."
+msgstr ""
+
+#. Id: 61145-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61144-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61145-Dialogue.mod:0
+msgid "Hear that, /PEASANT/s? Time for a smash and search!"
+msgstr ""
+
+#. Id: 61146-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (61145-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61146-Dialogue.mod:0
+msgid "For the safety of all Empire citizens, I am hereby seizing your property due to illegal activity!"
+msgstr ""
+
+#. Id: 61160-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (61146-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61160-Dialogue.mod:0
+msgid "Tear the place down!"
+msgstr ""
+
+#. Id: 61172-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61170-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#. Id: 95870-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (95869-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61172-Dialogue.mod:0 95870-Dialogue.mod:0
+msgid "Seems suspicious to me, you know..."
+msgstr ""
+
+#. Id: 61171-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61172-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61171-Dialogue.mod:0
+msgid "Not to mention the reports of anti slave sympathisers in the area..."
+msgstr ""
+
+#. Id: 96694-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61171-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96694-Dialogue.mod:0
+msgid "AND all that ILLEGAL hemp over there..."
+msgstr ""
+
+#. Id: 61173-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96694-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61173-Dialogue.mod:0
+msgid "Then I guess that settles it."
+msgstr ""
+
+#. Id: 61174-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61173-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61174-Dialogue.mod:0
+msgid "Must be slave loving drug smugglers hiding away like the bugs they are."
+msgstr ""
+
+#. Id: 61175-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (61174-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61175-Dialogue.mod:0
+msgid "And you know how we deal with bugs..."
+msgstr ""
+
+#. Id: 61176-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (61175-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61176-Dialogue.mod:0
+msgid "Squash them!"
+msgstr ""
+
+#. Id: 61162-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61161-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61162-Dialogue.mod:0
+msgid "Guess we found us some students that need a lesson in respect."
+msgstr ""
+
+#. Id: 61163-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61162-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61163-Dialogue.mod:0
+msgid "Then we'll teach 'em the hard way."
+msgstr ""
+
+#. Id: 61164-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61163-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61164-Dialogue.mod:0
+msgid "Nobody disrespects the samurai army."
+msgstr ""
+
+#. Id: 96695-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61164-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96695-Dialogue.mod:0
+msgid "And nobody grows HEMP on Empire land without paying the price..."
+msgstr ""
+
+#. Id: 61165-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (96695-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 61165-Dialogue.mod:0
+msgid "Damn right they don't."
+msgstr ""
+
+#. Id: 96696-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61165-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 96696-Dialogue.mod:0
+msgid "Think we're blind, /PEASANT/? Growing hemp is illegal."
+msgstr ""
+
+#. Id: 95868-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61138-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC extortion rogue sees illegal building
+#: 95868-Dialogue.mod:0
+msgid "... Unless you've got something to hide?"
+msgstr ""
+

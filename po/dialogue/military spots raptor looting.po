@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 44056-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44056-Dialogue.mod:0 44059-Dialogue.mod:0
+msgid "Vermin!"
+msgstr ""
+
+#. Id: 44056-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44056-Dialogue.mod:1
+msgid "Devil spawn!"
+msgstr ""
+
+#. Id: 44056-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44056-Dialogue.mod:2
+msgid "/GREASY/ beasts!"
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:0
+msgid "Protect the crops."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:1
+msgid "Destroy them."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:2
+msgid "Exterminate them."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:3
+msgid "Watch the farms."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:4
+msgid "Keep watch of the farms."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:5
+msgid "Watch over the crops."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:6
+msgid "Defend the farms. The pests will destroy everything."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:7
+msgid "Kill them. They'll strip the farms bare."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:8
+msgid "Destroy them all. They'll eat our entire food supply."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:9
+msgid "Secure the farms."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:10
+msgid "They'll devour everything!  Kill every last one of them..."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.11
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:11
+msgid "They'll scoff every last crop, wipe them out, all of them."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.12
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:12
+msgid "Safeguard the farms."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.13
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:13
+msgid "Fend them off. Protect our food supplies."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.14
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:14
+msgid "Cover the farms."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.15
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:15
+msgid "Guard the farms. The pests will eat our farms dry."
+msgstr ""
+
+#. Id: 44058-Dialogue.mod
+#. -- Index: 1.16
+#. -- Parent line: 0 (44056-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#. -- Condition: Who: ME, Condition: IS_LEADER=1, Tag: -1
+#: 44058-Dialogue.mod:16
+msgid "They'll eat everything! Wipe them out."
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:1
+msgid "/GODDAMN/ vermin!"
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:3
+msgid "/GODDAMN/ /ANIMALTYPE/s!"
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:4
+msgid "Goddammit!"
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:6
+msgid "/GODDAMN/ pests!"
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:7
+msgid "/YUCK/, I hate /GODDAMN/ /ANIMALTYPE/s..."
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:8
+msgid "Time for some sword practise!"
+msgstr ""
+
+#. Id: 44059-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: military spots raptor looting
+#: 44059-Dialogue.mod:9
+msgid "Urgh.. pest control..."
+msgstr ""
+

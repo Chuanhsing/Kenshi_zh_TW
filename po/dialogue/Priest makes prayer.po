@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98906-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98906-Dialogue.mod:0
+msgid "/HOLYGREET/. It is with great sadness that I see you do not have the good fortune of living within easy distance of one of our /HOLY/ churches... And so I have come to give prayers with you here, my beloved /BROTHER/."
+msgstr ""
+
+#. Id: 98907-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98907-Dialogue.mod:0
+msgid "Now, take out your Holy Flame and press it to your heart..."
+msgstr ""
+
+#. Id: 98980-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98907-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98980-Dialogue.mod:0
+msgid "(Show the Holy Flame)"
+msgstr ""
+
+#. Id: 98908-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98980-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98908-Dialogue.mod:0
+msgid "Now, hold onto my hand..."
+msgstr ""
+
+#. Id: 98911-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98908-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98911-Dialogue.mod:0
+msgid "Okay! I'll start: Oh Narko, Demoness of Shadow..."
+msgstr ""
+
+#. Id: 98939-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98911-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98939-Dialogue.mod:0
+msgid "[His eyes widen and horror spreads across his face]"
+msgstr ""
+
+#. Id: 98942-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98939-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98942-Dialogue.mod:0
+msgid "The darkened dwell here on this /HOLY/ land!"
+msgstr ""
+
+#. Id: 98935-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98908-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98935-Dialogue.mod:0
+msgid "Sorry, I don't do prayers..."
+msgstr ""
+
+#. Id: 98938-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98935-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98938-Dialogue.mod:0
+msgid "Don't do prayers? You do not believe in the Lord of Light? And yet you dwell on his /HOLY/ land?... 'Tis heinous!"
+msgstr ""
+
+#. Id: 98984-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98938-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98984-Dialogue.mod:0
+msgid "One undisciplined mind is no different to a rotten seed in a greenfruit barrel. It will corrupt the lot..."
+msgstr ""
+
+#. Id: 98996-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98984-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98996-Dialogue.mod:0
+msgid "This will be reported to the High Inquisitor."
+msgstr ""
+
+#. Id: 98936-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98908-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98936-Dialogue.mod:0
+msgid "Hold your hand? But I don't know where it's been!"
+msgstr ""
+
+#. Id: 98937-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98936-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98937-Dialogue.mod:0
+msgid "My... My hand... is one of the cleanest hands you will ever know!... How... How dare you question the cleanliness of one of the purest- a priest! A priest of the sacred order!"
+msgstr ""
+
+#. Id: 98973-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98908-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98973-Dialogue.mod:0
+msgid "[I have a bad feeling about this. I should do what this guy says] ..."
+msgstr ""
+
+#. Id: 98910-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98908-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98910-Dialogue.mod:0
+msgid "(Take his hand)"
+msgstr ""
+
+#. Id: 98912-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98910-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98912-Dialogue.mod:0
+msgid "And repeat after me: Oh Okran, Lord of Light..."
+msgstr ""
+
+#. Id: 98913-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98912-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98913-Dialogue.mod:0
+msgid "Oh Okran, Lord of Light."
+msgstr ""
+
+#. Id: 98914-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98913-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98914-Dialogue.mod:0
+msgid "Let thine flame burneth bright..."
+msgstr ""
+
+#. Id: 98915-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98914-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98915-Dialogue.mod:0
+msgid "Let thine flame burneth bright."
+msgstr ""
+
+#. Id: 98916-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98915-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98916-Dialogue.mod:0
+msgid "With this blessed body most pure..."
+msgstr ""
+
+#. Id: 98917-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98916-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98917-Dialogue.mod:0
+msgid "With this blessed body most pure."
+msgstr ""
+
+#. Id: 98918-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (98917-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98918-Dialogue.mod:0
+msgid "Let us not be tempted by the Shadow's lure"
+msgstr ""
+
+#. Id: 98919-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (98918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98919-Dialogue.mod:0
+msgid "Let us not be tempted by the Shadow's lure."
+msgstr ""
+
+#. Id: 98920-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (98919-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98920-Dialogue.mod:0
+msgid "Let us not yearn for fleshly pleasure..."
+msgstr ""
+
+#. Id: 98921-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (98920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98921-Dialogue.mod:0
+msgid "Let us not yearn for fleshly pleasure."
+msgstr ""
+
+#. Id: 98922-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (98921-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98922-Dialogue.mod:0
+msgid "But yearn only for love from the Creator..."
+msgstr ""
+
+#. Id: 98923-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (98922-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98923-Dialogue.mod:0
+msgid "But yearn only for love from the Creator."
+msgstr ""
+
+#. Id: 98924-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (98923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98924-Dialogue.mod:0
+msgid "Let us honour our sacred brothers..."
+msgstr ""
+
+#. Id: 98925-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (98924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98925-Dialogue.mod:0
+msgid "Let us honour our sacred brothers."
+msgstr ""
+
+#. Id: 98926-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (98925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98926-Dialogue.mod:0
+msgid "Let us abstain from intoxications..."
+msgstr ""
+
+#. Id: 98927-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (98926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98927-Dialogue.mod:0
+msgid "Let us abstain from intoxications."
+msgstr ""
+
+#. Id: 98928-Dialogue.mod
+#. -- Index: 21.0
+#. -- Parent line: 20 (98927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98928-Dialogue.mod:0
+msgid "For darkness preys on the idle mind..."
+msgstr ""
+
+#. Id: 98929-Dialogue.mod
+#. -- Index: 22.0
+#. -- Parent line: 21 (98928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98929-Dialogue.mod:0
+msgid "For darkness preys on the idle mind."
+msgstr ""
+
+#. Id: 98930-Dialogue.mod
+#. -- Index: 23.0
+#. -- Parent line: 22 (98929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. Id: 98931-Dialogue.mod
+#. -- Index: 24.0
+#. -- Parent line: 23 (98930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98930-Dialogue.mod:0 98931-Dialogue.mod:0
+msgid "Let us pray for the wellbeing of all mankind."
+msgstr ""
+
+#. Id: 98934-Dialogue.mod
+#. -- Index: 27.0
+#. -- Parent line: 26 (98933-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98934-Dialogue.mod:0
+msgid "Until next prayer day, /BROTHER/. It has been my pleasure."
+msgstr ""
+
+#. Id: 98943-Dialogue.mod
+#. -- Index: 28.0
+#. -- Parent line: 27 (98934-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98943-Dialogue.mod:0
+msgid "Blessings to you."
+msgstr ""
+
+#. Id: 98964-Dialogue.mod
+#. -- Index: 24.0
+#. -- Parent line: 23 (98930-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98964-Dialogue.mod:0
+msgid "[Will this ever end?] ..."
+msgstr ""
+
+#. Id: 98970-Dialogue.mod
+#. -- Index: 25.0
+#. -- Parent line: 24 (98964-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98970-Dialogue.mod:0
+msgid "*ahem* *cough*... LET US PRAY FOR THE WELLBEING OF MANKIND."
+msgstr ""
+
+#. Id: 98963-Dialogue.mod
+#. -- Index: 22.0
+#. -- Parent line: 21 (98928-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98963-Dialogue.mod:0
+msgid "[Must... resist... slapping... face] ...."
+msgstr ""
+
+#. Id: 98969-Dialogue.mod
+#. -- Index: 23.0
+#. -- Parent line: 22 (98963-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98969-Dialogue.mod:0
+msgid "*sigh*... FOR DARKNESS PREYS... UPON THE IDLE MIND..."
+msgstr ""
+
+#. Id: 98962-Dialogue.mod
+#. -- Index: 20.0
+#. -- Parent line: 19 (98926-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98962-Dialogue.mod:0
+msgid "[Yeah, right] ..."
+msgstr ""
+
+#. Id: 98968-Dialogue.mod
+#. -- Index: 21.0
+#. -- Parent line: 20 (98962-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98968-Dialogue.mod:0
+msgid "[He chokes emphatically]... LET US ABSTAIN... FROM INTOXICATIONS..."
+msgstr ""
+
+#. Id: 98961-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (98924-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98961-Dialogue.mod:0
+msgid "[It would be so satisfying to slap this guy] ..."
+msgstr ""
+
+#. Id: 98967-Dialogue.mod
+#. -- Index: 19.0
+#. -- Parent line: 18 (98961-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98967-Dialogue.mod:0
+msgid "I said... LET US HONOUR... OUR SACRED BROTHERS...."
+msgstr ""
+
+#. Id: 98960-Dialogue.mod
+#. -- Index: 16.0
+#. -- Parent line: 15 (98922-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98960-Dialogue.mod:0
+msgid "[Kill me now] ..."
+msgstr ""
+
+#. Id: 98966-Dialogue.mod
+#. -- Index: 17.0
+#. -- Parent line: 16 (98960-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98966-Dialogue.mod:0
+msgid "*Cough*... BUT YEARN ONLY... FOR LOVE FROM THE CREATOR..."
+msgstr ""
+
+#. Id: 98957-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (98920-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98957-Dialogue.mod:0
+msgid "[Narko's balls, this is going on forever] ..."
+msgstr ""
+
+#. Id: 98958-Dialogue.mod
+#. -- Index: 15.0
+#. -- Parent line: 14 (98957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98958-Dialogue.mod:0
+msgid "*Ahem*... LET US NOT YEARN... FOR FLESHLY PLEASURE..."
+msgstr ""
+
+#. Id: 98956-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98912-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98956-Dialogue.mod:0
+msgid "[Ugh, why did I agree to this?] ..."
+msgstr ""
+
+#. Id: 98947-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98947-Dialogue.mod:0
+msgid "*cough*... OH OKRAN... LORD OF LIGHT..."
+msgstr ""
+
+#. Id: 98950-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98950-Dialogue.mod:0
+msgid "Is there something amiss?"
+msgstr ""
+
+#. Id: 98950-Dialogue.mod
+#. -- Index: 9.1
+#. -- Parent line: 8 (98948-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98950-Dialogue.mod:1
+msgid "Narko stole your tongue?"
+msgstr ""
+
+#. Id: 98952-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (98951-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98952-Dialogue.mod:0
+msgid "You are peculiar, /BROTHER/. I do not like it one bit..."
+msgstr ""
+
+#. Id: 98949-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98947-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98949-Dialogue.mod:0
+msgid "(Slap him)"
+msgstr ""
+
+#. Id: 98959-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98949-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98959-Dialogue.mod:0
+msgid "[His eyes widen and horror spreads across his face, he dabs at his cheek and checks for blood]..."
+msgstr ""
+
+#. Id: 98974-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98959-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98974-Dialogue.mod:0
+msgid "'Tis heinous! /HE/... slapped me!"
+msgstr ""
+
+#. Id: 98981-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98907-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest makes prayer
+#: 98981-Dialogue.mod:0
+msgid "I don't have the Holy Flame."
+msgstr ""
+
+#. Id: 98909-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98909-Dialogue.mod:0
+msgid "You do not have the Holy Flame? 'Tis heinous! It is a crime to be without the Holy Flame on /HOLY/ /LAND/..."
+msgstr ""
+
+#. Id: 98977-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98981-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98977-Dialogue.mod:0
+msgid "... You are new. It is forgiven. But be warned, it is a crime to be without it."
+msgstr ""
+
+#. Id: 98978-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98977-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98978-Dialogue.mod:0
+msgid "Here, take this. Carry it on you at all times, never be without it. Now, hold onto my hand..."
+msgstr ""
+
+#. Id: 98975-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 98975-Dialogue.mod:0
+msgid "Woman, are there no men to speak with me?"
+msgstr ""
+
+#. Id: 98982-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. -- Condition: Who: TARGET, Condition: MIXED_GENDER_GROUP=1, Tag: -1
+#: 98982-Dialogue.mod:0
+msgid "Nevermind, you have more reason to pray than your brothers anyway. It is with great sadness that I see you do not have the good fortune of living within easy distance of one of our /HOLY/ churches... And so I have come to give prayers with you here..."
+msgstr ""
+
+#. Id: 98983-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98975-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98983-Dialogue.mod:0
+msgid "Wait... are there no men on this outpost? It is against /SACRED/ law to take up residence without brotherly guidance..."
+msgstr ""
+
+#. Id: 98987-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98983-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. Id: 1532000-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98976-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98987-Dialogue.mod:0 1532000-Dialogue.mod:0
+msgid "This will not do... This will not do at all. You are not welcome here... you will be removed."
+msgstr ""
+
+#. Id: 98990-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98987-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98990-Dialogue.mod:0
+msgid "Report to the High Inquisitor!"
+msgstr ""
+
+#. Id: 98976-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 98976-Dialogue.mod:0
+msgid "... Who comes to greet me but a heinous beast! This is /HOLY/ /LAND/, a safe place for pure humans to dwell, and humans alone! Not to be corrupted by your kind... Narko's kind..."
+msgstr ""
+
+#. Id: 98992-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton or Skeleton Log-Head MKII or Skeleton No-Head MkII  or Skeleton P4MkII
+#: 98992-Dialogue.mod:0
+msgid "Skeleton!??"
+msgstr ""
+
+#. Id: 98994-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest makes prayer
+#: 98994-Dialogue.mod:0
+msgid "Run! Run for your lives! The skeletons must be removed from our /HOLY/ /LAND/!"
+msgstr ""
+

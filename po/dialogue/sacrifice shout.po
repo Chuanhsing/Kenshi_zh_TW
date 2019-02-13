@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63818-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63824-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63823-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63818-Dialogue.mod:0 63824-Dialogue.mod:0
+msgid "Sacrifice! Sacrifice! Sacrifice!"
+msgstr ""
+
+#. Id: 63818-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63824-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63823-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63818-Dialogue.mod:1 63824-Dialogue.mod:2
+msgid "Sacrifice! Sacrifice!"
+msgstr ""
+
+#. Id: 63819-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63818-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63819-Dialogue.mod:0
+msgid "Open up the red!"
+msgstr ""
+
+#. Id: 63820-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63819-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63820-Dialogue.mod:0
+msgid "Burst the head!"
+msgstr ""
+
+#. Id: 63822-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63822-Dialogue.mod:0
+msgid "Greeeeeeee!"
+msgstr ""
+
+#. Id: 63822-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (63821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 98828-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: southern hiver takes over town
+#. -- Condition: Who: ME, Condition: IS_LEADER=0, Tag: -1
+#. Id: 56052-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hive get up
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#. Id: 56185-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Southern hiver generic assault
+#. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
+#: 63822-Dialogue.mod:1 98828-Dialogue.mod:1 56052-Dialogue.mod:7 56185-Dialogue.mod:7
+msgid "GREEEEE!"
+msgstr ""
+
+#. Id: 63822-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (63821-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63822-Dialogue.mod:3
+msgid "Fleshy fleshy fleshy fleshy!"
+msgstr ""
+
+#. Id: 63833-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63834-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#. Id: 63835-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63834-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63833-Dialogue.mod:0 63834-Dialogue.mod:0 63835-Dialogue.mod:0
+msgid "Flay!"
+msgstr ""
+
+#. Id: 63831-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63830-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: sacrifice shout
+#: 63831-Dialogue.mod:1
+msgid "Gree hee hee hee!"
+msgstr ""
+

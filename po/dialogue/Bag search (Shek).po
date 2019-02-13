@@ -1,0 +1,1122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 9554-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 9554-Dialogue.mod:0
+msgid "Smuggling checks. Open your bags, /FLATSKIN/."
+msgstr ""
+
+#. Id: 9559-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9559-Dialogue.mod:0
+msgid "(Show /HIM/ your gear)"
+msgstr ""
+
+#. Id: 9567-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9567-Dialogue.mod:0
+msgid "You may pass."
+msgstr ""
+
+#. Id: 9567-Dialogue.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9567-Dialogue.mod:4
+msgid "Acceptable. Go."
+msgstr ""
+
+#. Id: 9569-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9569-Dialogue.mod:0
+msgid "Wait... What's this..."
+msgstr ""
+
+#. Id: 9569-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9569-Dialogue.mod:1
+msgid "Hm. I found something..."
+msgstr ""
+
+#. Id: 9569-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (9559-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 9569-Dialogue.mod:2
+msgid "... Hm. What's this..."
+msgstr ""
+
+#. Id: 9570-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9570-Dialogue.mod:0
+msgid "It's a-"
+msgstr ""
+
+#. Id: 9570-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9570-Dialogue.mod:1
+msgid "It's jus-"
+msgstr ""
+
+#. Id: 9570-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9570-Dialogue.mod:2
+msgid "How did-"
+msgstr ""
+
+#. Id: 9570-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9570-Dialogue.mod:3
+msgid "Where did-"
+msgstr ""
+
+#. Id: 9570-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9570-Dialogue.mod:4
+msgid "You're mist-"
+msgstr ""
+
+#. Id: 9571-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9571-Dialogue.mod:0
+msgid "I can ex-"
+msgstr ""
+
+#. Id: 9571-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9571-Dialogue.mod:2
+msgid "Look, I can-"
+msgstr ""
+
+#. Id: 52309-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52309-Dialogue.mod:0
+msgid "Trickery."
+msgstr ""
+
+#. Id: 52309-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52309-Dialogue.mod:1
+msgid "Dishonor."
+msgstr ""
+
+#. Id: 52309-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (9571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52309-Dialogue.mod:2
+msgid "Deviousness."
+msgstr ""
+
+#. Id: 52309-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (9571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52309-Dialogue.mod:3
+msgid "Smuggling... Cowardice."
+msgstr ""
+
+#. Id: 52309-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (9571-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52309-Dialogue.mod:4
+msgid "Sly /FLATSKIN/."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:0
+msgid "Destroy /HIM/. Crossing the Shek Kingdom will be /HIS/ doom."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:1
+msgid "A dishonor on Kral's soil. Break /HIM/."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:2
+msgid "Bring the /CRAVEN/ doom."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:3
+msgid "Make /HIM/ pay the price. Blood for Kral!"
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:4
+msgid "Let the blood flow. No mercy for sneaking /CRAVEN/s."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.5
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:5
+msgid "Wrong move, /FLATSKIN/. No mercy for sneaking /CRAVEN/s."
+msgstr ""
+
+#. Id: 52310-Dialogue.mod
+#. -- Index: 5.6
+#. -- Parent line: 4 (52309-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52310-Dialogue.mod:6
+msgid "Your cowardice will be your doom, /FLATSKIN/."
+msgstr ""
+
+#. Id: 9572-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9572-Dialogue.mod:0
+msgid "Hold-"
+msgstr ""
+
+#. Id: 9572-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9569-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9572-Dialogue.mod:1
+msgid "Just a-"
+msgstr ""
+
+#. Id: 9561-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9561-Dialogue.mod:0
+msgid "Can I ask you a question first?"
+msgstr ""
+
+#. Id: 9561-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9561-Dialogue.mod:1
+msgid "Wait, can I ask you something?"
+msgstr ""
+
+#. Id: 9563-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9563-Dialogue.mod:0
+msgid "Somebody's in a bad mood..."
+msgstr ""
+
+#. Id: 9563-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9563-Dialogue.mod:1
+msgid "Somebody woke up on the wrong side of the bed..."
+msgstr ""
+
+#. Id: 9563-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9563-Dialogue.mod:2
+msgid "Somebody's feeling grouchy today..."
+msgstr ""
+
+#. Id: 9563-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9563-Dialogue.mod:3
+msgid "Looks like somebody's in a crabby mood..."
+msgstr ""
+
+#. Id: 9592-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9592-Dialogue.mod:1
+msgid "[Ominous snarls]"
+msgstr ""
+
+#. Id: 9592-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (9563-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9592-Dialogue.mod:2
+msgid "Bags."
+msgstr ""
+
+#. Id: 9594-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9592-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9594-Dialogue.mod:0
+msgid "... Yes sir, sorry sir (Show /HIM/ your gear)"
+msgstr ""
+
+#. Id: 52312-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9592-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52312-Dialogue.mod:0
+msgid "... Friends? (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 52314-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52314-Dialogue.mod:0
+msgid "/IDIOCY/. First you talk too much. Now this? The vilest of crimes."
+msgstr ""
+
+#. Id: 52314-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52312-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52314-Dialogue.mod:1
+msgid "/IDIOCY/. First with the bothersome chatter, now this? The most shameful of crimes."
+msgstr ""
+
+#. Id: 52313-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9592-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52313-Dialogue.mod:0
+msgid "You know I can't let you check my gear... (Grab sword)."
+msgstr ""
+
+#. Id: 52313-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9592-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52313-Dialogue.mod:1
+msgid "Well, I guess you leave me no choice... (Grab sword)"
+msgstr ""
+
+#. Id: 52313-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (9592-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52313-Dialogue.mod:2
+msgid "Won't back down, eh? Well, nosey gate guards get cut... (Grab sword)"
+msgstr ""
+
+#. Id: 9564-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9564-Dialogue.mod:0
+msgid "I thought that maybe we could come to an arrangement..."
+msgstr ""
+
+#. Id: 9564-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9564-Dialogue.mod:1
+msgid "I thought we might be able to work something out, a deal..."
+msgstr ""
+
+#. Id: 9587-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9587-Dialogue.mod:0
+msgid "We cannot. But if you ARE hiding anything in your gear, I'll be sure to punish you myself, just for being a deplorable /WORM/."
+msgstr ""
+
+#. Id: 9587-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9564-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9587-Dialogue.mod:1
+msgid "We cannot. But I'll be sure to check extra thoroughly now. Gratitude for the heads up, hm."
+msgstr ""
+
+#. Id: 52299-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52299-Dialogue.mod:0
+msgid "Then you leave me no choice (Attack)"
+msgstr ""
+
+#. Id: 52299-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52299-Dialogue.mod:1
+msgid "You should have taken the bribe (Attack)"
+msgstr ""
+
+#. Id: 52299-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (9587-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52299-Dialogue.mod:2
+msgid "Your stubbornness will be your end (Attack)"
+msgstr ""
+
+#. Id: 52301-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52299-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52301-Dialogue.mod:0
+msgid "Hm hm. And so /HE/ fight/S/. Unexpected."
+msgstr ""
+
+#. Id: 52301-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52299-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52301-Dialogue.mod:1
+msgid "This is more like it, a /FLATSKIN/ that fights..."
+msgstr ""
+
+#. Id: 52301-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (52299-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52301-Dialogue.mod:2
+msgid "Hm hm. Just as my day was starting to become stale..."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:0 53226-Dialogue.mod:0
+msgid "Leave this one to me."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:1 53226-Dialogue.mod:1
+msgid "This one must be looking to die."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:2 53226-Dialogue.mod:4
+msgid "Got spine."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:3 53226-Dialogue.mod:5
+msgid "Wrong move."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.4
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.6
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:4 53226-Dialogue.mod:6
+msgid "I'll make this quick."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.5
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.7
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:5 53226-Dialogue.mod:7
+msgid "Then show me what you've got."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.6
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.8
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:6 53226-Dialogue.mod:8
+msgid "Let's see what you've got."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.7
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.9
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:7 53226-Dialogue.mod:9
+msgid "Then fight me, /FLATSKIN/. Face your doom."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.9
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 52302-Dialogue.mod:9
+msgid "Then fight me, /FLATSKIN/."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.10
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.2
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:10 53226-Dialogue.mod:2
+msgid "This will be your doom, /FLATSKIN/."
+msgstr ""
+
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.11
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53226-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52302-Dialogue.mod:11 53226-Dialogue.mod:3
+msgid "Today will be your doom, /FLATSKIN/."
+msgstr ""
+
+#. Id: 9565-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9562-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9565-Dialogue.mod:0
+msgid "Oh... (Show /HIM/ your gear)"
+msgstr ""
+
+#. Id: 9560-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9560-Dialogue.mod:0
+msgid "You don't want to check my bags... (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 9560-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 9560-Dialogue.mod:1
+msgid "How about we forget the checks for today... (Bribe 2000 Cats)"
+msgstr ""
+
+#. Id: 9566-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9560-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9566-Dialogue.mod:0
+msgid "Bribery? The worst of crimes. You seem to mistake me for a materialistic human, /FLATSKIN/. The greedy don't survive in Shek land."
+msgstr ""
+
+#. Id: 9566-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9560-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 9566-Dialogue.mod:1
+msgid "Greed. The most cowardly of crimes. You seem to confuse me for a fickle human, /FLATSKIN/. We don't tolerate your kind in these lands."
+msgstr ""
+
+#. Id: 52300-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53218-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52300-Dialogue.mod:0 53218-Dialogue.mod:0
+msgid "Your Cats won't protect you on Kral's soil, /CRAVEN/."
+msgstr ""
+
+#. Id: 52300-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 53218-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52300-Dialogue.mod:1 53218-Dialogue.mod:1
+msgid "Punish /HIM/. See how /HIS/ money protects /HIM/ against the sword."
+msgstr ""
+
+#. Id: 52279-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 52279-Dialogue.mod:0
+msgid "Hmph. Insult. Why disrobe your fellow kin, /BROTHER/? "
+msgstr ""
+
+#. Id: 52279-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 52279-Dialogue.mod:1
+msgid "Think me, a Shek Warrior, a smuggler? Humility."
+msgstr ""
+
+#. Id: 52283-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52283-Dialogue.mod:0
+msgid "Hmph. You're an outsider, no Shek Warrior. Open them."
+msgstr ""
+
+#. Id: 52283-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52283-Dialogue.mod:1
+msgid "Hmph. An outsider is what you are. Nothing more. Open."
+msgstr ""
+
+#. Id: 52284-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52284-Dialogue.mod:0
+msgid "Hmph. You're an outsider, no Shek Warrior. Pockets. Open them."
+msgstr ""
+
+#. Id: 52284-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52279-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52284-Dialogue.mod:1
+msgid "An outsider is what you are. Nothing more. Disrobe."
+msgstr ""
+
+#. Id: 52290-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52290-Dialogue.mod:0
+msgid "It's an insult! How dare you accuse ME..."
+msgstr ""
+
+#. Id: 52290-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52290-Dialogue.mod:1
+msgid "Don't you even know who I am? It's an insult!"
+msgstr ""
+
+#. Id: 52290-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52290-Dialogue.mod:2
+msgid "Scowl all you want, I'm a big deal, you know. You don't want to cross me..."
+msgstr ""
+
+#. Id: 52289-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52289-Dialogue.mod:0
+msgid "Such trickery does not run in the mighty Shek blood."
+msgstr ""
+
+#. Id: 52289-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52289-Dialogue.mod:1
+msgid "I'll die at the sword than be stripped as a foreign smuggler!"
+msgstr ""
+
+#. Id: 52289-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52289-Dialogue.mod:2
+msgid "We should be united, as kin. Not accusing our own. "
+msgstr ""
+
+#. Id: 52293-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52293-Dialogue.mod:0
+msgid "Mmh. I won't treat a warrior a /CRAVEN/."
+msgstr ""
+
+#. Id: 52293-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52293-Dialogue.mod:1
+msgid "Mmh. I won't treat a warrior a sneak."
+msgstr ""
+
+#. Id: 52293-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (52289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52293-Dialogue.mod:2
+msgid "Agreed. I won't treat a warrior a cheater."
+msgstr ""
+
+#. Id: 52293-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (52289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52293-Dialogue.mod:3
+msgid "Granted. I won't treat a warrior a weasel."
+msgstr ""
+
+#. Id: 52291-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52291-Dialogue.mod:1
+msgid "I'm a proud swordsman, not a sneaking coward..."
+msgstr ""
+
+#. Id: 52291-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52291-Dialogue.mod:2
+msgid "A dishonor. You betray me, /BROTHER/."
+msgstr ""
+
+#. Id: 52292-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52292-Dialogue.mod:0
+msgid "Wipe that scowl off your face, my /BROTHER/. You know I'm innocent."
+msgstr ""
+
+#. Id: 52292-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52292-Dialogue.mod:1
+msgid "Why so moody, /BROTHER/? You know you're in the wrong here."
+msgstr ""
+
+#. Id: 52292-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (52285-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52292-Dialogue.mod:2
+msgid "Don't huff, /BROTHER/. Come on, let me through..."
+msgstr ""
+
+#. Id: 52295-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52295-Dialogue.mod:0
+msgid "Tongue flapper. You try to fool me. Open your bags. Now."
+msgstr ""
+
+#. Id: 52295-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52295-Dialogue.mod:1
+msgid "The tongue flapper tries to fool me. Open your bags. Now."
+msgstr ""
+
+#. Id: 52295-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52295-Dialogue.mod:2
+msgid "You talk too much, /FLATSKIN/. Open your bags, now."
+msgstr ""
+
+#. Id: 52295-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52295-Dialogue.mod:3
+msgid "Such senseless chatter. You bore me to tears, /FLATSKIN/. Hurry up and open your bags."
+msgstr ""
+
+#. Id: 53191-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (52298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 53191-Dialogue.mod:0
+msgid "/IDIOCY/... You refuse checks, you go to prison."
+msgstr ""
+
+#. Id: 53191-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (52298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 53191-Dialogue.mod:1
+msgid "Hmph. No?... Then you get sent to the cages."
+msgstr ""
+
+#. Id: 53191-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (52298-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 53191-Dialogue.mod:2
+msgid "No?... Then the stubborn /FLATSKIN/ will sleep in a prison cage tonight."
+msgstr ""
+
+#. Id: 53192-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53191-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 53193-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (53191-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#: 53192-Dialogue.mod:0 53193-Dialogue.mod:0
+msgid "No patience for criminals."
+msgstr ""
+
+#. Id: 52296-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52296-Dialogue.mod:0
+msgid "Tongue flapper. You try to fool me. Show your gear. Now."
+msgstr ""
+
+#. Id: 52296-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52296-Dialogue.mod:1
+msgid "The tongue flapper tries to fool me. Show your gear. Now."
+msgstr ""
+
+#. Id: 52296-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52296-Dialogue.mod:2
+msgid "You talk too much, /FLATSKIN/. Show your gear, now."
+msgstr ""
+
+#. Id: 52296-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (52292-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
+#: 52296-Dialogue.mod:3
+msgid "Such senseless chatter. You bore me to tears, /FLATSKIN/. Hurry up and empty your pockets."
+msgstr ""
+
+#. Id: 52281-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52281-Dialogue.mod:0
+msgid "Er, I have personal things on me. I'd rather not..."
+msgstr ""
+
+#. Id: 52281-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52281-Dialogue.mod:1
+msgid "Actually, I'll just leave instead..."
+msgstr ""
+
+#. Id: 52281-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52281-Dialogue.mod:2
+msgid "Today's not a good day, I don't have time for this..."
+msgstr ""
+
+#. Id: 52281-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (9554-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bag search (Shek)
+#: 52281-Dialogue.mod:3
+msgid "Actually I don't really have time..."
+msgstr ""
+
+#. Id: 52282-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
+#: 52282-Dialogue.mod:0
+msgid "Once more. Bags."
+msgstr ""
+
+#. Id: 52316-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52281-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52316-Dialogue.mod:0
+msgid "Once more. Your gear."
+msgstr ""
+
+#. Id: 52278-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52278-Dialogue.mod:0
+msgid "Smuggling checks. Shed your gear, /FLATSKIN/."
+msgstr ""
+
+#. Id: 52278-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52278-Dialogue.mod:1
+msgid "Smuggling checks. Remove your gear, /FLATSKIN/."
+msgstr ""
+
+#. Id: 52278-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#: 52278-Dialogue.mod:2
+msgid "Smuggling checks. Remove your effects, /FLATSKIN/."
+msgstr ""
+

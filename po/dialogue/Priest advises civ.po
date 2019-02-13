@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53816-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest advises civ
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
+#: 53816-Dialogue.mod:0
+msgid "What's on your mind, my /BROTHER/?"
+msgstr ""
+
+#. Id: 53817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest advises civ
+#: 53817-Dialogue.mod:0
+msgid "It's the wife's stew, holy priest. It really is something awful, I can't hack it anymore..."
+msgstr ""
+
+#. Id: 53820-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53817-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest advises civ
+#: 53820-Dialogue.mod:0
+msgid "I wouldn't inflict such rancid vegetables of misery on the darkened spawns of Narko themselves..."
+msgstr ""
+
+#. Id: 53818-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53820-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest advises civ
+#: 53818-Dialogue.mod:0
+msgid "Mm, my sympathies. She's failed you in her wifely duties, do not blame yourself, child. Send her to me."
+msgstr ""
+
+#. Id: 53819-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53818-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Priest advises civ
+#: 53819-Dialogue.mod:0
+msgid "You can really fix the woman? Lord of Light bless you, holy priest!"
+msgstr ""
+

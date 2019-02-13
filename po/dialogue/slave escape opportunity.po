@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42181-rebirth.mod:0
+msgid "That's it, I'm out of here!"
+msgstr ""
+
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42181-rebirth.mod:1
+msgid "Time to run."
+msgstr ""
+
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42181-rebirth.mod:2
+msgid "Good riddance."
+msgstr ""
+
+#. Id: 42181-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42181-rebirth.mod:3
+msgid "Run for it!"
+msgstr ""
+
+#. Id: 42314-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42314-rebirth.mod:0
+msgid "What's going on!? Where are the masters!?"
+msgstr ""
+
+#. Id: 42314-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42314-rebirth.mod:1
+msgid "I'm not leaving my cage!"
+msgstr ""
+
+#. Id: 42314-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42314-rebirth.mod:2
+msgid "Aaaaaaaaaaaaaaaaahhhhhhhhhhhhhh!"
+msgstr ""
+
+#. Id: 42314-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42314-rebirth.mod:3
+msgid "Aaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!"
+msgstr ""
+
+#. Id: 42314-rebirth.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 42314-rebirth.mod:4
+msgid "AAAAAAAAAAAAAAHHHHHHHHH!"
+msgstr ""
+
+#. Id: 42319-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (42317-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42319-rebirth.mod:0
+msgid "Let's go, random /GUY/!"
+msgstr ""
+
+#. Id: 42319-rebirth.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (42317-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#: 42319-rebirth.mod:2
+msgid "Where we going?"
+msgstr ""
+
+#. Id: 42319-rebirth.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (42317-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. Id: 46427-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (46396-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 42319-rebirth.mod:3 46427-Dialogue.mod:4
+msgid "*ahem*"
+msgstr ""
+
+#. Id: 42321-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 42321-rebirth.mod:0
+msgid "Wait for me!"
+msgstr ""
+
+#. Id: 42321-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 42321-rebirth.mod:1
+msgid "I'm with you."
+msgstr ""
+
+#. Id: 42321-rebirth.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 17017-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5938-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Caged bandit
+#: 42321-rebirth.mod:2 17017-Dialogue.mod:0
+msgid "We have to get out of here!"
+msgstr ""
+
+#. Id: 42321-rebirth.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: slave escape opportunity
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 42321-rebirth.mod:3
+msgid "Let's get out of here."
+msgstr ""
+

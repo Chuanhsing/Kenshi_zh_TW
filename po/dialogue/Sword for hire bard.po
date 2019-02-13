@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41302-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire bard
+#: 41302-Dialogue.mod:0
+msgid "And I say, \"Hey! Wiggle on over this way muffin!\" I tell you, ha, I tell you I've never seen someone so steamed so fast. So I took the- oh...glass is empty. Say pal, lend me some cash. I'll make it worth your while."
+msgstr ""
+
+#. Id: 41303-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41302-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41303-Dialogue.mod:0
+msgid "Will you now?"
+msgstr ""
+
+#. Id: 41304-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41303-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire bard
+#: 41304-Dialogue.mod:0
+msgid "Tell ya what, I'll sing ya a song. AHEM. MMMmmm- chmmmm...On second thought, pay my 3000 cat tab and I'll sing you tales till the sun stops setting. Know all the good ones and got a voice worth writing songs about! Ha!"
+msgstr ""
+
+#. Id: 41305-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41305-Dialogue.mod:0
+msgid "I know I'll regret this but...why not? Here."
+msgstr ""
+
+#. Id: 41307-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
+#: 41307-Dialogue.mod:0
+msgid "I can hardly even pay my own tab right now. Sorry pal."
+msgstr ""
+
+#. Id: 41308-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41304-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
+#: 41308-Dialogue.mod:0
+msgid "How about a demonstration before I go all in?"
+msgstr ""
+
+#. Id: 41309-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41308-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire bard
+#: 41309-Dialogue.mod:0
+msgid "Ahem...There once was a pixie above all the clouds. She soared with the zephers, gallant and proud! She went to the neh neh, neh neh neh neh crest, and swam with something something, something her breast! She went to...to...ah I don't remember but they make her queen at the end. So, pretty good, eh?"
+msgstr ""
+
+#. Id: 41310-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41310-Dialogue.mod:0
+msgid "...Surprisingly yeah. Worth the price."
+msgstr ""
+
+#. Id: 41311-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41311-Dialogue.mod:0
+msgid "...Get out of my face!"
+msgstr ""
+
+#. Id: 41312-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41309-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41312-Dialogue.mod:0
+msgid "... You can join /MEUS/ if you promise not to sing."
+msgstr ""
+
+#. Id: 41314-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41302-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41314-Dialogue.mod:0
+msgid "I'm looking for fighters, not drunks. You wouldn't happen to be a fighter would you?"
+msgstr ""
+
+#. Id: 41315-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41302-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire bard
+#: 41315-Dialogue.mod:0
+msgid "How about...no."
+msgstr ""
+

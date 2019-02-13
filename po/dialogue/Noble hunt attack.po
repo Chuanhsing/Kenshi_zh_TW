@@ -1,0 +1,428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63290-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63290-Dialogue.mod:0
+msgid "There!"
+msgstr ""
+
+#. Id: 63290-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63290-Dialogue.mod:1
+msgid "More /PEASANT/s to run down?"
+msgstr ""
+
+#. Id: 63290-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63290-Dialogue.mod:2
+msgid "Quiet!... Over there."
+msgstr ""
+
+#. Id: 63290-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63290-Dialogue.mod:3
+msgid "Shh! Over there!"
+msgstr ""
+
+#. Id: 63291-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. Id: 63310-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (63304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63291-Dialogue.mod:0 63310-Dialogue.mod:1
+msgid "Begin the hunt!"
+msgstr ""
+
+#. Id: 63291-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. Id: 63310-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63291-Dialogue.mod:1 63310-Dialogue.mod:0
+msgid "Start the hunt!"
+msgstr ""
+
+#. Id: 63291-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63291-Dialogue.mod:2
+msgid "Watch me shoot /THISONE/ down!"
+msgstr ""
+
+#. Id: 63291-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. Id: 63310-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (63304-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63291-Dialogue.mod:3 63310-Dialogue.mod:2
+msgid "Release the dregs!"
+msgstr ""
+
+#. Id: 63291-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63291-Dialogue.mod:4
+msgid "I do love /PEASANT/ hunting..."
+msgstr ""
+
+#. Id: 63308-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 63308-Dialogue.mod:0
+msgid "/NOBLELAUGH/! Run little /PEASANT//S/! Run, run, run!"
+msgstr ""
+
+#. Id: 63308-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 63308-Dialogue.mod:1
+msgid "Run little /PEASANT//S/! I love the challenge!"
+msgstr ""
+
+#. Id: 63308-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 63308-Dialogue.mod:2
+msgid "/NOBLELAUGH/, you can't outrun my blade, little /PEASANT/!"
+msgstr ""
+
+#. Id: 63309-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63309-Dialogue.mod:0
+msgid "/NOBLELAUGH/! Be a dear and die quietly for me."
+msgstr ""
+
+#. Id: 63309-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63309-Dialogue.mod:1
+msgid "/NOBLELAUGH/, this will be a messy one."
+msgstr ""
+
+#. Id: 63309-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63309-Dialogue.mod:2
+msgid "Down, /PEASANT/, /NOBLELAUGH/!"
+msgstr ""
+
+#. Id: 63309-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63309-Dialogue.mod:3
+msgid "Fall down!"
+msgstr ""
+
+#. Id: 63309-Dialogue.mod
+#. -- Index: 2.5
+#. -- Parent line: 1 (63291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63309-Dialogue.mod:5
+msgid "Don't worry, you'll live on eternal on my mantle."
+msgstr ""
+
+#. Id: 63296-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63296-Dialogue.mod:0
+msgid "Time to try out my new bow!"
+msgstr ""
+
+#. Id: 63296-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63296-Dialogue.mod:1
+msgid "Time to try out my new armour!"
+msgstr ""
+
+#. Id: 63296-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63296-Dialogue.mod:2
+msgid "Now's my chance to try my new bow!"
+msgstr ""
+
+#. Id: 63297-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63297-Dialogue.mod:0
+msgid "It's a Skeleton Smith, you know."
+msgstr ""
+
+#. Id: 63297-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (63296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63297-Dialogue.mod:1
+msgid "It's an Edgewalker, you know."
+msgstr ""
+
+#. Id: 63297-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (63296-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63297-Dialogue.mod:2
+msgid "This bad boy cost more than you could ever earn in a lifetime, you know."
+msgstr ""
+
+#. Id: 63299-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63298-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Noble hunt attack
+#: 63299-Dialogue.mod:0
+msgid "... That's /GREAT/, my lord."
+msgstr ""
+
+#. Id: 63299-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (63298-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Noble hunt attack
+#: 63299-Dialogue.mod:1
+msgid "... Yes, my lord. You tell me everyday..."
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:0
+msgid "Fetch my /PEASANT/ sword!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:1
+msgid "Fetch my running boots, servant!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:2
+msgid "Fetch me my /PEASANT/ sword, servant!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:3
+msgid "I'll need my five sword. Pass me my five, servant!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:4
+msgid "Sword!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:5
+msgid "Dab my forehead, servant!"
+msgstr ""
+
+#. Id: 63301-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63301-Dialogue.mod:6
+msgid "Servant! Forehead dabbing duties!"
+msgstr ""
+
+#. Id: 63304-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63302-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Noble hunt attack
+#. Id: 63334-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63333-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: noble manhunter defeated squad
+#: 63304-Dialogue.mod:0 63334-Dialogue.mod:0
+msgid "Yes, my lord."
+msgstr ""
+
+#. Id: 63306-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63290-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 63306-Dialogue.mod:0
+msgid "This one's a pretty thing..."
+msgstr ""
+
+#. Id: 63307-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63306-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63307-Dialogue.mod:0
+msgid "Her head will look lovely mounted on my wall."
+msgstr ""
+
+#. Id: 63314-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Target Race(s): Skeleton
+#: 63314-Dialogue.mod:0
+msgid "A Skeleton! This one's a rare one!"
+msgstr ""
+
+#. Id: 63314-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Target Race(s): Skeleton
+#: 63314-Dialogue.mod:1
+msgid "There! A Skeleton in all it's rarity..."
+msgstr ""
+
+#. Id: 63314-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Target Race(s): Skeleton
+#: 63314-Dialogue.mod:2
+msgid "An endangered Skeleton! Today must be my lucky day!"
+msgstr ""
+
+#. Id: 63314-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#. -- Condition: Target Race(s): Skeleton
+#: 63314-Dialogue.mod:3
+msgid "Such a magnificent sight... An endangered Skeleton!"
+msgstr ""
+
+#. Id: 63313-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63313-Dialogue.mod:0
+msgid "Can't let you escape my bolt now, can I, old chap?"
+msgstr ""
+
+#. Id: 63313-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63313-Dialogue.mod:1
+msgid "I want his head for my collection!"
+msgstr ""
+
+#. Id: 63313-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63313-Dialogue.mod:2
+msgid "Another treasure for my trophy collection!"
+msgstr ""
+
+#. Id: 63313-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (63314-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble hunt attack
+#: 63313-Dialogue.mod:3
+msgid "His head will look excellent on my mantel!"
+msgstr ""
+

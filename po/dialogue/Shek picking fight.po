@@ -1,0 +1,724 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 47516-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47516-Dialogue.mod:0
+msgid "Hm hm! Nice sword, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 47517-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47516-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47517-Dialogue.mod:0
+msgid "Did you make it yourself?"
+msgstr ""
+
+#. Id: 47518-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47517-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47518-Dialogue.mod:0
+msgid "How precious... The /FLATSKIN/ thinks /HE/ can fight..."
+msgstr ""
+
+#. Id: 47519-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 47519-Dialogue.mod:0
+msgid "Hm! That's it, run, /FLATSKIN/. It's what your kind does best..."
+msgstr ""
+
+#. Id: 47520-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (47518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47520-Dialogue.mod:0
+msgid "You don't run from me? Then use that sword and fight me! "
+msgstr ""
+
+#. Id: 47521-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47520-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
+#: 47521-Dialogue.mod:0
+msgid "Fight for your honour, the honour your ancestors lost for you long ago..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:0
+msgid "Look at the outsiders... Thinking they can wield a sword..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:1
+msgid "Amusing. The outsiders think they can wield a sword..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:2
+msgid "A /FLATSKIN/ cannot wield a sword..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:3
+msgid "Outsiders should not play with swords..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:5
+msgid "You should not play with swords, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 47522-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47522-Dialogue.mod:6
+msgid "That sword looks a little big for you, /FLATSKIN/..."
+msgstr ""
+
+#. Id: 47524-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47524-Dialogue.mod:0
+msgid "Only a real warrior deserves to wield a sword!"
+msgstr ""
+
+#. Id: 47524-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47524-Dialogue.mod:1
+msgid "Nobody but a real warrior should hold a sword!"
+msgstr ""
+
+#. Id: 47524-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47524-Dialogue.mod:2
+msgid "To hold a sword is an honour reserved only for true warriors!"
+msgstr ""
+
+#. Id: 47524-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47524-Dialogue.mod:3
+msgid "You wield a sword, you should be able to fight with it!"
+msgstr ""
+
+#. Id: 47525-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (47524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47525-Dialogue.mod:0
+msgid "So show me how you fight, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 47525-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (47524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47525-Dialogue.mod:1
+msgid "So do battle with me, /FLATSKIN/! Prove to me that you deserve to hold a sword!"
+msgstr ""
+
+#. Id: 47525-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (47524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47525-Dialogue.mod:2
+msgid "Let me show you how a REAL warrior uses one!"
+msgstr ""
+
+#. Id: 47526-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47526-Dialogue.mod:0
+msgid "How about we teach /HIM/ how to use it!"
+msgstr ""
+
+#. Id: 47526-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47526-Dialogue.mod:1
+msgid "Let's teach them how a REAL warrior uses one!"
+msgstr ""
+
+#. Id: 47526-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47522-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47526-Dialogue.mod:2
+msgid "Let's see how they handle one in a real fight!"
+msgstr ""
+
+#. Id: 47527-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47527-Dialogue.mod:0
+msgid "The /FLATSKIN/ comes armed... Time to test my new sword!"
+msgstr ""
+
+#. Id: 47527-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47527-Dialogue.mod:1
+msgid "These ones carry weapons... Looks like the outsiders want to play swordsman!"
+msgstr ""
+
+#. Id: 47527-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47527-Dialogue.mod:2
+msgid "Let us teach you how to use those swords, outsiders!"
+msgstr ""
+
+#. Id: 47527-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47527-Dialogue.mod:3
+msgid "Think yourselves, swordsmen, outsiders? Then try me! Raise your weapons!"
+msgstr ""
+
+#. Id: 47527-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47527-Dialogue.mod:4
+msgid "You tread with a sword, you should expect to use it, outsiders!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47530-Dialogue.mod:0
+msgid "Doom to the spineless! For Kral!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47530-Dialogue.mod:1
+msgid "Honour to Kral!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 56426-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (56425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek revenge mission, esata killed/ caged
+#: 47530-Dialogue.mod:2 56426-Dialogue.mod:2
+msgid "Blood for Kral!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 47530-Dialogue.mod:4 14729-Dialogue.mod:3
+msgid "Fear the might of the Shek!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14729-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. Id: 12067-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
+#: 47530-Dialogue.mod:5 14729-Dialogue.mod:4 12067-Dialogue?(10).mod:0
+msgid "Know your place, /FLATSKIN/"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.6
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10969-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 15433-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (15422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. Id: 14908-Dialogue.mod
+#. -- Index: 1.5
+#. -- Parent line: 0 (14925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek freed by captor
+#: 47530-Dialogue.mod:6 14738-Dialogue.mod:7 10969-Dialogue?(10).mod:0 15433-Dialogue.mod:5 14908-Dialogue.mod:5
+msgid "Don't try and run. You're already dead."
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.7
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 47530-Dialogue.mod:7 14738-Dialogue.mod:9 10970-Dialogue?(10).mod:9
+msgid "Death awaits you"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.8
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 47530-Dialogue.mod:8 14738-Dialogue.mod:8 10970-Dialogue?(10).mod:8
+msgid "I sentence you to death!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.9
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 51288-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Intruder shek
+#. Id: 99658-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 99659-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cry shek ally
+#. Id: 61405-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (61404-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Berserker tracks down player assault
+#. Id: 17567-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: defeats squad
+#. Id: 52302-Dialogue.mod
+#. -- Index: 7.8
+#. -- Parent line: 6 (52301-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
+#. Id: 15430-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (15422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 47530-Dialogue.mod:9 14738-Dialogue.mod:1 10970-Dialogue?(10).mod:10 51288-Dialogue.mod:4 99658-Dialogue.mod:1 99659-Dialogue.mod:2 61405-Dialogue.mod:4 17567-Dialogue.mod:2 52302-Dialogue.mod:8 15430-Dialogue.mod:2
+msgid "Doom!"
+msgstr ""
+
+#. Id: 47530-Dialogue.mod
+#. -- Index: 1.10
+#. -- Parent line: 0 (47527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 14726-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. Id: 14738-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hundred guardian spots enemy
+#. Id: 10971-Dialogue (10).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 15430-Dialogue.mod
+#. -- Index: 4.6
+#. -- Parent line: 3 (15422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 47530-Dialogue.mod:10 14726-Dialogue.mod:6 14738-Dialogue.mod:0 10971-Dialogue?(10).mod:2 15430-Dialogue.mod:6
+msgid "Today is a good day to die"
+msgstr ""
+
+#. Id: 47528-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 47528-Dialogue.mod:0
+msgid "/BATTLECRY/! CHARGE!"
+msgstr ""
+
+#. Id: 47529-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47528-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 47529-Dialogue.mod:0
+msgid "Flee, outsiders! It's what your kind does best afterall!"
+msgstr ""
+
+#. Id: 61383-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. Id: 61384-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. Id: 1532633-__world reactions.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61383-Dialogue.mod:0 61384-Dialogue.mod:0 1532633-__world?reactions.mod:0
+msgid "Hmph. If it isn't the slayer /HIM/self in the flesh..."
+msgstr ""
+
+#. Id: 61383-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. Id: 61384-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#. Id: 1532633-__world reactions.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61383-Dialogue.mod:1 61384-Dialogue.mod:1 1532633-__world?reactions.mod:1
+msgid "So, /IWE/ finally meet the so-called slayer..."
+msgstr ""
+
+#. Id: 61383-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 61383-Dialogue.mod:2
+msgid "So, it is you who claims the glory of the Bugmaster?"
+msgstr ""
+
+#. Id: 61385-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61383-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 61389-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61385-Dialogue.mod:0 61389-Dialogue.mod:0
+msgid "Maybe the gullible lackeys of the Stone Golem lap up your lies, but I don't buy it."
+msgstr ""
+
+#. Id: 61385-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61383-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 61389-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (61384-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61385-Dialogue.mod:1 61389-Dialogue.mod:1
+msgid "The /FLATSKIN/ is a born coward and liar, not a warrior."
+msgstr ""
+
+#. Id: 61386-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61386-Dialogue.mod:0
+msgid "A /FLATSKIN/ taking down the Bugmaster?"
+msgstr ""
+
+#. Id: 61386-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 61390-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (61389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 1532635-__world reactions.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532633-__world reactions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61386-Dialogue.mod:1 61390-Dialogue.mod:1 1532635-__world?reactions.mod:0
+msgid "Only through trickery could a /FLATSKIN/ ever win such a victory."
+msgstr ""
+
+#. Id: 61386-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61385-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 61390-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (61389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61386-Dialogue.mod:2 61390-Dialogue.mod:2
+msgid "Think /IWE/ bow to your fake reputation, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 61387-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61386-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. Id: 51288-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Intruder shek
+#: 61387-Dialogue.mod:0 51288-Dialogue.mod:10
+msgid "/IDIOCY/."
+msgstr ""
+
+#. Id: 61388-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61387-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61388-Dialogue.mod:0
+msgid "Prove your glory to me with your blade, /YOURNAME/!"
+msgstr ""
+
+#. Id: 61384-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Target Race(s): Greenlander or Hive Prince
+#: 61384-Dialogue.mod:2
+msgid "So, it is you who claims the glory of the Phoenix?"
+msgstr ""
+
+#. Id: 61390-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61389-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 61390-Dialogue.mod:0
+msgid "Hmph. A /FLATSKIN/ taking down the Phoenix?"
+msgstr ""
+
+#. Id: 1532633-__world reactions.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 1532633-__world?reactions.mod:2
+msgid "So, it is you who claims the glory of the Stone Golem?"
+msgstr ""
+
+#. Id: 1532635-__world reactions.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (1532633-__world reactions.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek picking fight
+#: 1532635-__world?reactions.mod:1
+msgid "Hmph. A /FLATSKIN/ taking down the Stone Golem?"
+msgstr ""
+

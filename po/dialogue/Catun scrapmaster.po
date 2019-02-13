@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 53081-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 53081-Dialogue.mod:0
+msgid "[She squints and looks you up and down]... Another dead beat with a rusty sword? Where'd you find that scrap of junk? Dead starver carcass? Junk-heap swamp ruin? You might want to try a more... budget friendly shop, /OUTLANDER/. The finest weapons need the fattest Cat sacks."
+msgstr ""
+
+#. Id: 53082-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53081-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53082-Dialogue.mod:0
+msgid "It gets the job done. Care for a demonstration?"
+msgstr ""
+
+#. Id: 53088-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53082-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53088-Dialogue.mod:0
+msgid "Such crass jokes... Now, are you here to buy or are you just here to threaten me with that rusty stick you call a sword?"
+msgstr ""
+
+#. Id: 53092-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53088-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#: 53092-Dialogue.mod:0
+msgid "(Flash 'em some Cats) Less talking, old lady. Show me your goods."
+msgstr ""
+
+#. Id: 53094-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53088-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53094-Dialogue.mod:0
+msgid "I'm here to buy. Let's trade."
+msgstr ""
+
+#. Id: 53095-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53088-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53095-Dialogue.mod:0
+msgid "Just here to threaten cocky old crones actually. I'm leaving."
+msgstr ""
+
+#. Id: 53084-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53081-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53084-Dialogue.mod:0
+msgid "... Just show me your stock already."
+msgstr ""
+
+#. Id: 53079-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53081-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>15000, Tag: -1
+#: 53079-Dialogue.mod:0
+msgid "(Flash 'em some Cats) You guessed wrong. "
+msgstr ""
+
+#. Id: 53089-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53079-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53089-Dialogue.mod:0
+msgid "Well! A perfect walking example of deceiving appearances. So, what are you looking to buy?"
+msgstr ""
+
+#. Id: 53090-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53089-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53090-Dialogue.mod:0
+msgid "Show me your gear."
+msgstr ""
+
+#. Id: 53091-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53089-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53091-Dialogue.mod:0
+msgid "First, tell me about the Catun Scrapmasters."
+msgstr ""
+
+#. Id: 53080-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53081-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53080-Dialogue.mod:0
+msgid "And what makes your weapons so special?"
+msgstr ""
+
+#. Id: 53087-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (53080-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53087-Dialogue.mod:0
+msgid "Why, the noble bodyguards themselves use only our swords! You settle for a cheap sword, prepare to fight like a cheap warrior. The Catun Scrapmasters have been around for generations, the oldest and highest quality smiths in all the land. "
+msgstr ""
+
+#. Id: 53097-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53097-Dialogue.mod:0
+msgid "Highest quality in the land? Bold statement."
+msgstr ""
+
+#. Id: 53101-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53097-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53101-Dialogue.mod:0
+msgid "The Catun Scrapmasters are renowned throughout the world for our swords, our reputation speaks for itself. If you don't know that, well, either you've had your head buried in the sand or you've taken too many knocks to the head with that rusty 'sword' of yours."
+msgstr ""
+
+#. Id: 53102-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (53101-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53102-Dialogue.mod:0
+msgid "Now, I'm a busy /MEMAN/, so are you buying or not? "
+msgstr ""
+
+#. Id: 53098-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53098-Dialogue.mod:0
+msgid "Eh, I've seen better quality blades."
+msgstr ""
+
+#. Id: 53099-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (53087-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53099-Dialogue.mod:0
+msgid "I'll be the judge of that. Show me your gear."
+msgstr ""
+
+#. Id: 53085-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (53081-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Catun scrapmaster
+#: 53085-Dialogue.mod:0
+msgid "Forget it, I'm leaving."
+msgstr ""
+
+#. Id: 53096-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53096-Dialogue.mod:0
+msgid "A fine blade will make you a fine warrior, I sell only the best quality weapons in my shop. "
+msgstr ""
+
+#. Id: 53096-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53096-Dialogue.mod:1
+msgid "A fine /MAN/ needs a fine blade! Not.. whatever that 'thing' is you have in your sheath... But if you're looking for quality, you've found it. What do you need, customer?"
+msgstr ""
+
+#. Id: 53096-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53096-Dialogue.mod:2
+msgid "[She squints at you]... So, you're here to buy? For the best quality weapons look no further."
+msgstr ""
+
+#. Id: 53096-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53096-Dialogue.mod:3
+msgid "Skeleton Smiths? Don't trust 'em. But you can always trust the Catun Scrapmasters, I only sell the best in my shop."
+msgstr ""
+
+#. Id: 53096-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Catun scrapmaster
+#: 53096-Dialogue.mod:4
+msgid "Settle for a cheap sword, prepare to fight like a cheap warrior."
+msgstr ""
+

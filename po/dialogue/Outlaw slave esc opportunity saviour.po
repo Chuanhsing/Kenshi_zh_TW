@@ -1,0 +1,257 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:0 48885-Dialogue.mod:0
+msgid "I'm free! Now's my chance!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#. Id: 48888-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:1 48885-Dialogue.mod:1 48888-Dialogue.mod:2
+msgid "They're dead! I'm free!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:2 48885-Dialogue.mod:2
+msgid "Now's my chance! Freedom!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:3 48885-Dialogue.mod:3
+msgid "I... I'm free!?... I'M FREE!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:4 48885-Dialogue.mod:4
+msgid "FREEEE! I'M FREE!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:5 48885-Dialogue.mod:5
+msgid "Free! I'm finally free!"
+msgstr ""
+
+#. Id: 48954-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. Id: 48885-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Tough merc esc opportunity
+#. -- Condition: My Race(s): Shek or Greenlander
+#: 48954-Dialogue.mod:6 48885-Dialogue.mod:6
+msgid "I'm free?!... Now's my chance!"
+msgstr ""
+
+#. Id: 48955-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48955-Dialogue.mod:0
+msgid "Rot in the /DIRT/, MASTER! "
+msgstr ""
+
+#. Id: 48955-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48955-Dialogue.mod:1
+msgid "Rot in hell, MASTER!"
+msgstr ""
+
+#. Id: 48955-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48955-Dialogue.mod:2
+msgid "Run like hell!"
+msgstr ""
+
+#. Id: 48955-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48955-Dialogue.mod:3
+msgid "I'm gettin' the hell outta here!"
+msgstr ""
+
+#. Id: 48955-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48955-Dialogue.mod:4
+msgid "Freedom never tasted so good!"
+msgstr ""
+
+#. Id: 48956-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. Id: 48879-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slave esc opp hiver ronin
+#. -- Condition: My Race(s): Hive Prince
+#: 48956-Dialogue.mod:0 48879-Dialogue.mod:4
+msgid "Don't kill me! I'm just a slave!"
+msgstr ""
+
+#. Id: 48956-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#: 48956-Dialogue.mod:1
+msgid "I'm not your enemy, I'm just a slave, don't kill me!"
+msgstr ""
+
+#. Id: 48958-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#. -- Condition: Who: ME, Condition: WEARING_LOCKED_SHACKLES=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 48958-Dialogue.mod:0
+msgid "Rrrgh, get these /GODDAMN/ shackles off'a me!"
+msgstr ""
+
+#. Id: 48973-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#: 48973-Dialogue.mod:0
+msgid "The masters are dead?!"
+msgstr ""
+
+#. Id: 48973-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#: 48973-Dialogue.mod:1
+msgid "They're... dead!"
+msgstr ""
+
+#. Id: 48974-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48973-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Outlaw slave esc opportunity saviour
+#: 48974-Dialogue.mod:0
+msgid "FREEDOM! "
+msgstr ""
+

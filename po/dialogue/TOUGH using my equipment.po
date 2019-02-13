@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 52952-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#: 52952-Dialogue.mod:0
+msgid "That's not for public use, /OUTLANDER/. Leave it alone."
+msgstr ""
+
+#. Id: 52952-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#: 52952-Dialogue.mod:1
+msgid "Hey, leave that alone, would you? That's for private use."
+msgstr ""
+
+#. Id: 52952-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#: 52952-Dialogue.mod:2
+msgid "Don't touch that."
+msgstr ""
+
+#. Id: 52954-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (52953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52954-Dialogue.mod:0
+msgid "I said you can't use that, /OUTLANDER/. /GETLOST/ already, would you?"
+msgstr ""
+
+#. Id: 52954-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (52953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52954-Dialogue.mod:1
+msgid "I said that's private property. Would you leave it alone already?"
+msgstr ""
+
+#. Id: 52954-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (52953-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52954-Dialogue.mod:2
+msgid "What's wrong with you? I said leave it alone."
+msgstr ""
+
+#. Id: 52955-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (52954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52955-Dialogue.mod:0
+msgid "I'm not asking you again. Either you /GETLOST/ or things get bloody. Your choice."
+msgstr ""
+
+#. Id: 52955-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (52954-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52955-Dialogue.mod:1
+msgid "I ain't asking you a third time, /GETLOST/ or face a /BEATING/."
+msgstr ""
+
+#. Id: 52956-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (52955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52956-Dialogue.mod:0
+msgid "So that's how it's gonna be, eh?"
+msgstr ""
+
+#. Id: 52956-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (52955-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52956-Dialogue.mod:1
+msgid "So you want a /BEATING/, eh?"
+msgstr ""
+
+#. Id: 52957-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (52956-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TOUGH using my equipment
+#. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
+#: 52957-Dialogue.mod:0
+msgid "You asked for it."
+msgstr ""
+

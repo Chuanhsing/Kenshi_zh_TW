@@ -1,0 +1,193 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 2331-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2331-gamedata.base:0
+msgid "Greetings, /SIR/. I see you have founded a little outpost here, without a permit I might add. The Traders Guild regulates all trade activity and all merchant fees must be paid forward. Surely you are aware that you have been building within Traders Guild territory?"
+msgstr ""
+
+#. Id: 2332-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2331-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2332-gamedata.base:0
+msgid "It's a free world."
+msgstr ""
+
+#. Id: 2333-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2331-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2333-gamedata.base:0
+msgid "Sorry, I was not aware of that."
+msgstr ""
+
+#. Id: 2334-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2333-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2334-gamedata.base:0
+msgid "If you're trading within Traders Guild territory I'm afraid you need to register for membership with the Territorial Division. Either you can speak to Yamdu at Lord Longen's headquarters in Heng for a permanent membership, or you can pay myself via a weekly fee of 4000 Cats. As a member of the Traders Guild this will entitle you to military protection, patrols will be sent out daily."
+msgstr ""
+
+#. Id: 2335-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2334-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2335-gamedata.base:0
+msgid "Okay, I guess I'll pay then."
+msgstr ""
+
+#. Id: 2354-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2335-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2354-gamedata.base:0
+msgid "Excellent, a collection agent will visit you periodically, please make sure you keep the funds available in order to keep up payments."
+msgstr ""
+
+#. Id: 2336-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2334-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2336-gamedata.base:0
+msgid "And if I don't pay?"
+msgstr ""
+
+#. Id: 2353-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2336-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2353-gamedata.base:0
+msgid "In the case of non payment you will be unable to benefit from our exclusive merchant bronze member protection service. A modest hub such as yours will be sure to attract much unwanted attention, it would be a shame to see such accidents befall your little party here."
+msgstr ""
+
+#. Id: 2359-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2353-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2359-gamedata.base:0
+msgid "I'm sorry, but we're not paying any of your \"fees\"."
+msgstr ""
+
+#. Id: 2360-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (2359-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2360-gamedata.base:0
+msgid "I'm sorry to hear that /SIR/. "
+msgstr ""
+
+#. Id: 61739-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (2360-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 61739-Dialogue.mod:0
+msgid "[He pauses and turns back to you with a hardened expression before walking away]... Terrible things happen in the outlands when people don't have protection. I sincerely hope you do not come to regret your decision."
+msgstr ""
+
+#. Id: 61740-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 61740-Dialogue.mod:0
+msgid "I bid you farewell, /SIR/!"
+msgstr ""
+
+#. Id: 2338-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2334-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2338-gamedata.base:0
+msgid "You can go fuck yourself sonny."
+msgstr ""
+
+#. Id: 2348-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2338-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 2348-gamedata.base:0
+msgid "[The agent seems taken aback for a moment, then his expression hardens] Do you understand that I represent the Traders Guild? Think very carefully about what you say next, /SIR/.  I suggest you learn your place and quietly pay your dues."
+msgstr ""
+
+#. Id: 2349-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2348-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2349-gamedata.base:0
+msgid "Erm, I guess I was maybe a little hasty there, I'll pay, I'll pay!"
+msgstr ""
+
+#. Id: 2350-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2348-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2350-gamedata.base:0
+msgid "Do you understand that I am about to stab you?  I suggest you learn your place and run like hell."
+msgstr ""
+
+#. Id: 97581-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (2355-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 97581-Dialogue.mod:0
+msgid "Your hostility towards an official of the highly respected Traders Guild will be reported!"
+msgstr ""
+
+#. Id: 2352-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2348-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 2352-gamedata.base:0
+msgid "Look, I appreciate what you are saying but this is free land, I don't owe the Traders Guild anything."
+msgstr ""
+
+#. Id: 61737-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (2331-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: TG taxman
+#: 61737-Dialogue.mod:0
+msgid "I'm not a merchant, this isn't a trading post."
+msgstr ""
+
+#. Id: 61738-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61737-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman
+#: 61738-Dialogue.mod:0
+msgid "Well, /SIR/, your outpost looks very much to me like a potential hub of trade activity, and so I can only assume pre-emptively that you will be trading basic supplies, consumables and such on your premises."
+msgstr ""
+

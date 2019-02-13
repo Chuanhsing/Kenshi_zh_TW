@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 61742-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61742-Dialogue.mod:0
+msgid "Greetings, sirs!"
+msgstr ""
+
+#. Id: 61743-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (61742-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61743-Dialogue.mod:0
+msgid "I come on behalf of the Traders Guild!"
+msgstr ""
+
+#. Id: 61744-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61744-Dialogue.mod:0
+msgid "Your membership payment is due!"
+msgstr ""
+
+#. Id: 61745-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (61744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61745-Dialogue.mod:0
+msgid "Please send a representative with the funds!"
+msgstr ""
+
+#. Id: 61746-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (61745-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61746-Dialogue.mod:0
+msgid "I'm waiting!"
+msgstr ""
+
+#. Id: 61747-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (61746-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61747-Dialogue.mod:0
+msgid "Waiting..."
+msgstr ""
+
+#. Id: 61748-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (61747-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61748-Dialogue.mod:0
+msgid "Still waiting...!"
+msgstr ""
+
+#. Id: 61749-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (61748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61749-Dialogue.mod:0
+msgid "Please send a representative to talk!"
+msgstr ""
+
+#. Id: 61750-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (61749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61750-Dialogue.mod:0
+msgid "Refusal to meet will result in the revoke of merchant protection!"
+msgstr ""
+
+#. Id: 61751-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (61750-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#. Id: 2387-gamedata.base
+#. -- Index: 9.0
+#. -- Parent line: 8 (2385-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce
+#: 61751-Dialogue.mod:0 2387-gamedata.base:0
+msgid "This is your final chance!"
+msgstr ""
+
+#. Id: 61752-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (61751-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: TG taxman announce 2nd
+#: 61752-Dialogue.mod:0
+msgid "Very well, your descision will be reported to headquarters!"
+msgstr ""
+

@@ -1,0 +1,323 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51463-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=0, Tag: -1
+#. -- Condition: My Race(s): Shek
+#: 51463-Dialogue.mod:0
+msgid "Sit. Celebrate with me, /FLATSKIN/. It's not often you'll be given the honor of keeping company with a Shek Warrior..."
+msgstr ""
+
+#. Id: 51464-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51464-Dialogue.mod:0
+msgid "Sure, so long as you're buying the drinks..."
+msgstr ""
+
+#. Id: 51465-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51464-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51465-Dialogue.mod:0
+msgid "Tomorrow will be a glorious day for me, /FLATSKIN/. Tomorrow I take my final battle with the bugmaster. Either I earn my victory on the battlefield, or I earn my grand passage to the otherside. This is the moment every true warrior bleeds for..."
+msgstr ""
+
+#. Id: 51466-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51466-Dialogue.mod:0
+msgid "Join me. We can fight the bugmaster together..."
+msgstr ""
+
+#. Id: 51467-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51467-Dialogue.mod:0
+msgid "You mistake me, /FLATSKIN/. I'm here to drink, not to find comrades... I fight alone, as a Kralian. I'll die as Kral did before me, outnumbered hundredfold as a lone warrior on the battlefield..."
+msgstr ""
+
+#. Id: 51475-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51475-Dialogue.mod:0
+msgid "Not if I kill the bugmaster first. You'll have to beat me to it..."
+msgstr ""
+
+#. Id: 51479-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51475-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51479-Dialogue.mod:0
+msgid "Amusing, /FLATSKIN/! Only a Shek Warrior has the skill to defeat the bugmaster..."
+msgstr ""
+
+#. Id: 51468-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51479-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51468-Dialogue.mod:0
+msgid "Humorous. But I'm finished sharing stories. Leave me to my thoughts now, /FLATSKIN/."
+msgstr ""
+
+#. Id: 51476-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51476-Dialogue.mod:0
+msgid "Care to explain your suicide mission to me?"
+msgstr ""
+
+#. Id: 51478-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51476-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51478-Dialogue.mod:0
+msgid "What is there to explain, /FLATSKIN/? My battle skills are my pride but they are also my curse... I'm undefeatable. And I grow old. No Shek Warrior wants to die a dull death of aging, we want to die a death of fearlessness and glory. I only hope that the bugmaster is worthy enough of my blade to give me my honourable death."
+msgstr ""
+
+#. Id: 51481-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51478-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51481-Dialogue.mod:0
+msgid "... So your aim is to be a loser?"
+msgstr ""
+
+#. Id: 51484-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (51481-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51484-Dialogue.mod:0
+msgid "My aim is to face death with courage and blade in hand. Of course I could never expect one like you to understand the wisdom of the warrior."
+msgstr ""
+
+#. Id: 51485-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51484-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51485-Dialogue.mod:0
+msgid "Sounds like loser talk to me..."
+msgstr ""
+
+#. Id: 51486-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51485-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51486-Dialogue.mod:0
+msgid "Raghh! I'm finished talking with you, /FLATSKIN/!"
+msgstr ""
+
+#. Id: 51487-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51486-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51487-Dialogue.mod:0
+msgid "Leave me, before I tear you a new mouth, since you enjoy flapping it so much..."
+msgstr ""
+
+#. Id: 51488-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51484-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51488-Dialogue.mod:0
+msgid "You're right, I'll never understand the Shek mindset. I've too much sanity."
+msgstr ""
+
+#. Id: 51490-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51488-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51490-Dialogue.mod:0
+msgid "Irritation... Now I remember why I do not drink with the hornless."
+msgstr ""
+
+#. Id: 51491-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (51490-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51491-Dialogue.mod:0
+msgid "I'm finished sharing stories. Leave me to my thoughts now, /FLATSKIN/."
+msgstr ""
+
+#. Id: 51489-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (51484-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51489-Dialogue.mod:0
+msgid "Well, I hope you find your honourable death. Good luck."
+msgstr ""
+
+#. Id: 51493-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (51489-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51493-Dialogue.mod:0
+msgid "Hrm. Gratitude, /FLATSKIN/."
+msgstr ""
+
+#. Id: 51482-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51478-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51482-Dialogue.mod:0
+msgid "Honourable death? How about you join me for victory instead?"
+msgstr ""
+
+#. Id: 51477-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51465-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51477-Dialogue.mod:0
+msgid "Sounds... fun. Good luck with that."
+msgstr ""
+
+#. Id: 51469-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51469-Dialogue.mod:0
+msgid "What's the occasion?"
+msgstr ""
+
+#. Id: 51470-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51470-Dialogue.mod:0
+msgid "Honor? Drinking with an arrogant old Shek sounds more like torture to me..."
+msgstr ""
+
+#. Id: 51471-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51470-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51471-Dialogue.mod:0
+msgid "Hrm hrm! I do like a /FLATSKIN/ with bite. I should put you in your place but a warrior must save their energy for battle, not waste it swatting flies..."
+msgstr ""
+
+#. Id: 51472-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51471-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51472-Dialogue.mod:0
+msgid "Hrm. Amusing /FLATSKIN/..."
+msgstr ""
+
+#. Id: 51473-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51463-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Bug master shek warrior 1
+#: 51473-Dialogue.mod:0
+msgid "I prefer my own company, thanks."
+msgstr ""
+
+#. Id: 51474-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51473-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 51474-Dialogue.mod:0
+msgid "Hmph. A simple /FLATSKIN/ cannot appreciate greatness when /HE/ sees it..."
+msgstr ""
+
+#. Id: 64045-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 64045-Dialogue.mod:0
+msgid "The Bugmaster!?"
+msgstr ""
+
+#. Id: 64058-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64045-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 64058-Dialogue.mod:0
+msgid "No! NO! The victory was to be mine, you stole it from me!"
+msgstr ""
+
+#. Id: 64046-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=0, Tag: -1
+#: 64046-Dialogue.mod:0
+msgid "With the Bugmaster gone, I must find a new enemy worthy of my passage to the other side..."
+msgstr ""
+
+#. Id: 64047-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64046-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 64047-Dialogue.mod:0
+msgid "[They glare at you with bloodthirsty eyes]"
+msgstr ""
+
+#. Id: 64048-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (64047-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bug master shek warrior 1
+#: 64048-Dialogue.mod:0
+msgid "The Bugmaster slayer perhaps..."
+msgstr ""
+

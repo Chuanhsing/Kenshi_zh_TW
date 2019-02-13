@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 40656-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest marked for death
+#. Id: 40799-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Holy nation civilian witness assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 50100-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Civilian witnesses generic crime
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 40656-Dialogue.mod:1 40799-Dialogue.mod:3 50100-Dialogue.mod:2
+msgid "Okran have mercy!"
+msgstr ""
+
+#. Id: 40656-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest marked for death
+#. Id: 43784-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (40700-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted by other
+#: 40656-Dialogue.mod:3 43784-Dialogue.mod:2
+msgid "Save me, Okran!"
+msgstr ""
+
+#. Id: 40656-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest marked for death
+#: 40656-Dialogue.mod:4
+msgid "Lord Okran have mercy on me!"
+msgstr ""
+
+#. Id: 40657-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest marked for death
+#: 40657-Dialogue.mod:1
+msgid "Th- they're coming for me! "
+msgstr ""
+

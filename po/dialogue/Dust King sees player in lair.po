@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 45223-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#: 45223-Dialogue.mod:0
+msgid "You ain't one of my men!? How the hell d'you find my tower!?"
+msgstr ""
+
+#. Id: 45224-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (45223-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45224-Dialogue.mod:0
+msgid "Wrong place to gate crash, meatbag! "
+msgstr ""
+
+#. Id: 45226-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (45224-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#: 45226-Dialogue.mod:0
+msgid "I'll kill you! I'll gut you like a stinkin' fish!"
+msgstr ""
+
+#. Id: 45225-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45226-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
+#: 45225-Dialogue.mod:0
+msgid "Add /HIM/ to the pile of other bounty huntin' meatbag carcasses, boys!"
+msgstr ""
+
+#. Id: 45234-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (45226-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#: 45234-Dialogue.mod:0
+msgid "I'll add you to the pile of other bounty huntin' meatbag carcasses!"
+msgstr ""
+
+#. Id: 45249-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust King sees player in lair
+#: 45249-Dialogue.mod:0
+msgid "You! How the hell d'you find my tower!?"
+msgstr ""
+

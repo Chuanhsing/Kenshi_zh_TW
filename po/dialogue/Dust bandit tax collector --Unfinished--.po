@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 2517-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2517-gamedata.base:0
+msgid "It's tax day motherfucker! Pay your dues, 2000 'cats.  Hurry up I'm busy. "
+msgstr ""
+
+#. Id: 2518-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2517-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>2000
+#: 2518-gamedata.base:0
+msgid "Here you go Sir"
+msgstr ""
+
+#. Id: 2779-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2518-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2779-gamedata.base:0
+msgid "Sucker!"
+msgstr ""
+
+#. Id: 2520-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2517-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2520-gamedata.base:0
+msgid "I'm not paying any more."
+msgstr ""
+
+#. Id: 2558-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2520-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2558-gamedata.base:0
+msgid "What did you say?  I don't think I heard you."
+msgstr ""
+
+#. Id: 2559-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2558-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>2000
+#: 2559-gamedata.base:0
+msgid "I said \"Here you are Sir\""
+msgstr ""
+
+#. Id: 2565-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2559-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2565-gamedata.base:0
+msgid "Damn fucking right you did."
+msgstr ""
+
+#. Id: 2560-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2558-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2560-gamedata.base:0
+msgid "Get lost. Now."
+msgstr ""
+
+#. Id: 2521-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2517-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: REPUTATION>10
+#: 2521-gamedata.base:0
+msgid "Fuck off"
+msgstr ""
+
+#. Id: 2562-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2521-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. Id: 17966-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (2454-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandits negotiate
+#: 2562-gamedata.base:0 17966-gamedata.base:0
+msgid "You'll regret this!"
+msgstr ""
+
+#. Id: 2566-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2517-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2566-gamedata.base:0
+msgid "[Break his jaw]"
+msgstr ""
+
+#. Id: 2568-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2566-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2568-gamedata.base:0
+msgid "AARRRGGLLLHHH!!!"
+msgstr ""
+
+#. Id: 2757-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (2517-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<2000
+#: 2757-gamedata.base:0
+msgid "We don't have that much money!"
+msgstr ""
+
+#. Id: 2758-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2757-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2758-gamedata.base:0
+msgid "Are you lying to me? Do you want to die?"
+msgstr ""
+
+#. Id: 2759-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2758-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY<100
+#: 2759-gamedata.base:0
+msgid "We don't have enough! Please let us go!"
+msgstr ""
+
+#. Id: 2761-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2759-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2761-gamedata.base:0
+msgid "Fine, kiss my feet and beg me to spare your lives then!"
+msgstr ""
+
+#. Id: 2762-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2761-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2762-gamedata.base:0
+msgid "[kneel and kiss his feet] I beg you!"
+msgstr ""
+
+#. Id: 2764-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (2762-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2764-gamedata.base:0
+msgid "BWAHAHAHAAA! Good doggy! Now bark! Bark for me dog!"
+msgstr ""
+
+#. Id: 2775-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (2764-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2775-gamedata.base:0
+msgid "*ARF!* *ARF!* *RRRARF!*"
+msgstr ""
+
+#. Id: 2778-gamedata.base
+#. -- Index: 8.0
+#. -- Parent line: 7 (2775-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2778-gamedata.base:0
+msgid "PPPFPFFHAAAAAHAAHAHAA!!! "
+msgstr ""
+
+#. Id: 2783-gamedata.base
+#. -- Index: 5.0
+#. -- Parent line: 4 (2761-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2783-gamedata.base:0
+msgid "No. "
+msgstr ""
+
+#. Id: 2784-gamedata.base
+#. -- Index: 6.0
+#. -- Parent line: 5 (2783-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2784-gamedata.base:0
+msgid "I'm really getting tired of your shit.  KNEEL. AND. BEG."
+msgstr ""
+
+#. Id: 2760-gamedata.base
+#. -- Index: 3.0
+#. -- Parent line: 2 (2758-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. -- Condition: Who: ME, Condition: PLAYERMONEY>100
+#: 2760-gamedata.base:0
+msgid "Please! Take everything we have and spare us please Sir!"
+msgstr ""
+
+#. Id: 2767-gamedata.base
+#. -- Index: 4.0
+#. -- Parent line: 3 (2760-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#: 2767-gamedata.base:0
+msgid "Fine, I'll take it but you'll be in trouble next time if you don't pay up!"
+msgstr ""
+

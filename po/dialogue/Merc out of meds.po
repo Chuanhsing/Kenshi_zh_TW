@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#. Id: 3304-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: medkit empty
+#. Id: 15685-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military out of meds
+#: 12825-Dialogue?(11)?(2).mod:0 3304-gamedata.base:0 15685-Dialogue.mod:0
+msgid "I'm out of med supplies"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#. Id: 3304-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: medkit empty
+#. Id: 3304-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: medkit empty
+#: 12825-Dialogue?(11)?(2).mod:1 3304-gamedata.base:1 3304-gamedata.base:2
+msgid "Need another aid kit"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#: 12825-Dialogue?(11)?(2).mod:2
+msgid "I've run out of meds"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#. Id: 3304-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: medkit empty
+#: 12825-Dialogue?(11)?(2).mod:3 3304-gamedata.base:3
+msgid "I need more meds"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#. Id: 14752-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: medkit shek
+#. Id: 15685-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Military out of meds
+#: 12825-Dialogue?(11)?(2).mod:5 14752-Dialogue.mod:0 15685-Dialogue.mod:3
+msgid "I'm out of meds"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#: 12825-Dialogue?(11)?(2).mod:6
+msgid "Run out of meds"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#: 12825-Dialogue?(11)?(2).mod:7
+msgid "That was my last aid kit"
+msgstr ""
+
+#. Id: 12825-Dialogue (11) (2).mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc out of meds
+#: 12825-Dialogue?(11)?(2).mod:8
+msgid "Need to restock on meds"
+msgstr ""
+

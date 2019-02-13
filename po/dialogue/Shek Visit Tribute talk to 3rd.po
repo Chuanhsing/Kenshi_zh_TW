@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63922-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63922-Dialogue.mod:0
+msgid "Learned to submit yet, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 63922-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63922-Dialogue.mod:1
+msgid "Humility, /FLATSKIN/! Hm hm hm..."
+msgstr ""
+
+#. Id: 63923-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63923-Dialogue.mod:0
+msgid "War is the way of the Shek. You, stick to baking bread and earning Cats; we will stick to taking bread and winning tribute. We've come for our next collection. Do you bend this time?"
+msgstr ""
+
+#. Id: 63924-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63924-Dialogue.mod:0
+msgid "... I bend. Take what you want."
+msgstr ""
+
+#. Id: 63970-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63970-Dialogue.mod:0
+msgid "Smart."
+msgstr ""
+
+#. Id: 64242-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#. -- Condition: Who: ME, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#. Id: 61294-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (61280-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt2 interrupt
+#. -- Condition: Who: TARGET, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#. Id: 59661-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59651-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#. -- Condition: Who: ME, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#: 64242-Dialogue.mod:0 61294-Dialogue.mod:0 59661-Dialogue.mod:0
+msgid "Open the gates!"
+msgstr ""
+
+#. Id: 64242-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63924-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#. -- Condition: Who: ME, Condition: TOWN_WALLS_LOCKED_UP=1, Tag: -1
+#: 64242-Dialogue.mod:1
+msgid "Raise the gate!"
+msgstr ""
+
+#. Id: 63925-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63925-Dialogue.mod:0
+msgid "Never! Go choke on a loaf!"
+msgstr ""
+
+#. Id: 63927-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63927-Dialogue.mod:0
+msgid "Hm hm hm! I like this one..."
+msgstr ""
+
+#. Id: 63927-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63925-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63927-Dialogue.mod:1
+msgid "Amusing. "
+msgstr ""
+
+#. Id: 63928-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63928-Dialogue.mod:0
+msgid "Shame /HIS/ bark is stronger than /HIS/ bite. "
+msgstr ""
+
+#. Id: 63928-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (63927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63928-Dialogue.mod:1
+msgid "Make it a clean fight for /HIM/."
+msgstr ""
+
+#. Id: 63928-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (63927-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63928-Dialogue.mod:2
+msgid "Sadness. To destroy such grace."
+msgstr ""
+
+#. Id: 63926-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63923-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63926-Dialogue.mod:0
+msgid "War? Tribute? You're no better than a common bandit."
+msgstr ""
+
+#. Id: 63929-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (63926-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63929-Dialogue.mod:1
+msgid "Cheap."
+msgstr ""
+
+#. Id: 63930-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63930-Dialogue.mod:0
+msgid "Will I see you talk so big when we return for blood?"
+msgstr ""
+
+#. Id: 63931-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (63930-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63931-Dialogue.mod:0
+msgid "Leave our land."
+msgstr ""
+
+#. Id: 63989-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63989-Dialogue.mod:0
+msgid "You are defeated. You will serve us, lowly /FLATSKIN/. I will be your overlord now. My people will be your masters. You will provide us with food and supplies when we need it. In return, we will spare your /PALTRY/ life."
+msgstr ""
+
+#. Id: 63989-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (63922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63989-Dialogue.mod:1
+msgid "I will be your new overlord now, I will bestow you purpose as my underling. You will gift us tribute, willingly. Do you finally bend, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 63989-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (63922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63989-Dialogue.mod:2
+msgid "The Shek live to fight for honour and glory. The weakly /FLATSKIN/ live to SERVE the honourable and glorious. You will pay us tribute when we need. Do you finally bend? Or must we give you another show of strength?"
+msgstr ""
+
+#. Id: 63990-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63989-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63990-Dialogue.mod:0
+msgid "I bend to no-one! Fight me!"
+msgstr ""
+
+#. Id: 63993-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63992-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Visit Tribute talk to 3rd
+#: 63993-Dialogue.mod:0
+msgid "There's no joy in weak battle."
+msgstr ""
+

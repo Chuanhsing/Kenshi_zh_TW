@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:0 16227-Dialogue.mod:0
+msgid "/OI/! What the hell are you doing?"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:1 16227-Dialogue.mod:1
+msgid "/OI/! I see you /SKULK/in' around there!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#: 16226-Dialogue.mod:2
+msgid "/OI/! /SKULK/er!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:3 16227-Dialogue.mod:5
+msgid "Looter! Get out of it!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:4 16227-Dialogue.mod:6
+msgid "Looter! Get away from there!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:5 16227-Dialogue.mod:7
+msgid "Get your hands off, /GODDAMN/ looter!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:6 16227-Dialogue.mod:8
+msgid "/OI/! Hands off!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:7 16227-Dialogue.mod:9
+msgid "/OI/, looter! Knock it off!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:8 16227-Dialogue.mod:10
+msgid "/OI/! Put your hands where I can see 'em!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:9 16227-Dialogue.mod:11
+msgid "Thief! Back up!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:10 16227-Dialogue.mod:2
+msgid "/OI/ Back off!"
+msgstr ""
+
+#. Id: 16226-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16226-Dialogue.mod:11 16227-Dialogue.mod:3
+msgid "Looter! Back away from there!"
+msgstr ""
+
+#. Id: 16227-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#: 16227-Dialogue.mod:4
+msgid "/OI/! /SKULK/er! No!"
+msgstr ""
+
+#. Id: 44615-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#: 44615-Dialogue.mod:0
+msgid "Thief! Get /HIM/!"
+msgstr ""
+
+#. Id: 44615-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#: 44615-Dialogue.mod:2
+msgid "Thieving scum!"
+msgstr ""
+
+#. Id: 44615-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Vigilante witness looting ally
+#: 44615-Dialogue.mod:5
+msgid "Looter! Get /HIM/!"
+msgstr ""
+

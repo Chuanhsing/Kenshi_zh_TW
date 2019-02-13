@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:0
+msgid "You did it, it's open..."
+msgstr ""
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:1
+msgid "Good, you got it..."
+msgstr ""
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:2
+msgid "Okay, you got it..."
+msgstr ""
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:3
+msgid "I'm out..."
+msgstr ""
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:4
+msgid "You got me..."
+msgstr ""
+
+#. Id: 43525-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: My Race(s): Skeleton
+#: 43525-Dialogue.mod:5
+msgid "That's it, you got it open..."
+msgstr ""
+
+#. Id: 43526-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43526-Dialogue.mod:0
+msgid "Next, we get to safety. Stick together..."
+msgstr ""
+
+#. Id: 43526-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43526-Dialogue.mod:1
+msgid "Now for the hard part, getting to safety. You lead, I'll guard your back..."
+msgstr ""
+
+#. Id: 43526-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43526-Dialogue.mod:2
+msgid "Now, don't let anyone see you. I'll watch your back..."
+msgstr ""
+
+#. Id: 43526-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43526-Dialogue.mod:3
+msgid "We should get going. I'll be right behind you..."
+msgstr ""
+
+#. Id: 43527-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43527-Dialogue.mod:0
+msgid "I'm going to make a run for it, don't let them catch you. Good luck..."
+msgstr ""
+
+#. Id: 43527-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43527-Dialogue.mod:1
+msgid "I can outrun them, I'll create a diversion. Get out while you can..."
+msgstr ""
+
+#. Id: 43527-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43527-Dialogue.mod:2
+msgid "I'll create a decoy, sneak out while you can... Stay safe..."
+msgstr ""
+
+#. Id: 43527-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43527-Dialogue.mod:3
+msgid "I'll make a run for it this way, we'll have more chance if we split. Don't get caught..."
+msgstr ""
+
+#. Id: 43527-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#. -- Condition: In town(s) of faction(s): Cannibals or Fogmen or Slave Traders
+#: 43527-Dialogue.mod:4
+msgid "If we split and run, we've got more of a chance... 'Til we meet again..."
+msgstr ""
+
+#. Id: 46144-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#: 46144-Dialogue.mod:0
+msgid "I appreciate this."
+msgstr ""
+
+#. Id: 46144-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#: 46144-Dialogue.mod:2
+msgid "I won't forget this."
+msgstr ""
+
+#. Id: 46144-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (43525-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Robot pick lock success
+#: 46144-Dialogue.mod:3
+msgid "I'm free again."
+msgstr ""
+

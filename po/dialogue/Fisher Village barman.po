@@ -1,0 +1,148 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50411-Dialogue.mod:1
+msgid "Greetings, /OUTLANDER/. Can I help you?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50411-Dialogue.mod:2
+msgid "Need something, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50411-Dialogue.mod:3
+msgid "Got something you're looking to buy?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50411-Dialogue.mod:4
+msgid "Lookin' to buy something, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#. Id: 1375-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 1375-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 700
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. Id: 12676-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 3953-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: talk drifter
+#: 50411-Dialogue.mod:5 1375-gamedata.base:1 1375-gamedata.base:3 12676-Dialogue?(11)?(2).mod:3 3953-gamedata.base:4
+msgid "Need something?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#. Id: 12675-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: mercenary shop
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. Id: 95664-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95666-__Mourn.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Koin sees player
+#: 50411-Dialogue.mod:6 12675-Dialogue?(11)?(2).mod:0 95664-__Mourn.mod:0
+msgid "Can I help you, /OUTLANDER/?"
+msgstr ""
+
+#. Id: 50411-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50411-Dialogue.mod:7
+msgid "Welcome, /OUTLANDER/. What can I get you?"
+msgstr ""
+
+#. Id: 50413-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50411-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher Village barman
+#: 50413-Dialogue.mod:0
+msgid "Any local tips?"
+msgstr ""
+
+#. Id: 50415-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50413-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50415-Dialogue.mod:0
+msgid "Careful of the painted tribe, they roam outside the village and pick off any unfortunate travellers that stray too far from town... The /GODDAMN/ monsters feed on their own kind, eat away at their victims piece by piece while keeping them prisoner in their lair. Be careful, if you see one, there'll be a hundred others following behind..."
+msgstr ""
+
+#. Id: 50419-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50415-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Fisher Village barman
+#: 50419-Dialogue.mod:0
+msgid "Cannibals, eh? Nothing /IWE/ can't handle."
+msgstr ""
+
+#. Id: 50421-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Fisher Village barman
+#: 50421-Dialogue.mod:0
+msgid "... Crazy adventurers..."
+msgstr ""
+

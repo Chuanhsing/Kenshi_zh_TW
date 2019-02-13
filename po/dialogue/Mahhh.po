@@ -1,0 +1,538 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 10650-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10650-Dialogue?(10).mod:0
+msgid "Mmaaaah! [The goat bleats excitedly at the sight of you]"
+msgstr ""
+
+#. Id: 58496-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (10650-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 58496-Dialogue.mod:0
+msgid "Well, looks like someone's taken a shine to ya, /OUTLANDER/... Or maybe you just got riceweed in ya pockets, /QUICKLAUGH/!"
+msgstr ""
+
+#. Id: 10651-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10651-Dialogue?(10).mod:0
+msgid "The goat, is it for sale?"
+msgstr ""
+
+#. Id: 10664-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10651-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10664-Dialogue?(10).mod:0
+msgid "Aye. But he's only for sale if you're willing to treat him right. He's a special one, is Cornelius."
+msgstr ""
+
+#. Id: 10667-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10664-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10667-Dialogue?(10).mod:0
+msgid "Special?"
+msgstr ""
+
+#. Id: 10669-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10667-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 1533182-__world reactions NE.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1533181-__world reactions NE.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: talk to ukon
+#. Id: 54970-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (54969-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Slave hunter recapture/ attack
+#. Id: 65038-october 17.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65037-october 17.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Dead cat villager sees player
+#: 10669-Dialogue?(10).mod:0 1533182-__world?reactions?NE.mod:0 54970-Dialogue.mod:0 65038-october?17.mod:0
+msgid "Aye."
+msgstr ""
+
+#. Id: 10670-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10669-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10670-Dialogue?(10).mod:0
+msgid "... Ok.. So can I buy him?"
+msgstr ""
+
+#. Id: 10676-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10670-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10676-Dialogue?(10).mod:0
+msgid "You gonna take good care of him?"
+msgstr ""
+
+#. Id: 10677-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10676-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10677-Dialogue?(10).mod:0
+msgid "Of course, he's special."
+msgstr ""
+
+#. Id: 10678-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10676-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10678-Dialogue?(10).mod:0
+msgid "Sure, I'll try my very best."
+msgstr ""
+
+#. Id: 10679-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10676-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10679-Dialogue?(10).mod:0
+msgid "As much as any other goat, yeah."
+msgstr ""
+
+#. Id: 10681-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (10679-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10681-Dialogue?(10).mod:0
+msgid "... As much as-?! No, sorry. Sale's off."
+msgstr ""
+
+#. Id: 10680-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (10676-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10680-Dialogue?(10).mod:0
+msgid "I may or may not eat him."
+msgstr ""
+
+#. Id: 10675-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10669-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10675-Dialogue?(10).mod:0
+msgid "... Nevermind"
+msgstr ""
+
+#. Id: 10668-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10664-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10668-Dialogue?(10).mod:0
+msgid "Well, I'll treat him right. I like him."
+msgstr ""
+
+#. Id: 10671-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10664-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10671-Dialogue?(10).mod:0
+msgid "It's just a goat... Is it for sale or not?"
+msgstr ""
+
+#. Id: 10672-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10671-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. Id: 5617-Recruits Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (5611-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 700
+#. Id: 2785-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (2784-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandit tax collector --Unfinished--
+#. Id: 3238-gamedata.base
+#. -- Index: 1.0
+#. -- Parent line: 0 (3228-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: dust bandit talk to
+#. Id: 1733-gamedata.base
+#. -- Index: 7.0
+#. -- Parent line: 6 (1725-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Wingwang
+#. Id: 9562-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9561-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Bag search (Shek)
+#. Id: 17970-gamedata.base
+#. -- Index: 7.1
+#. -- Parent line: 6 (2448-gamedata.base)
+#. -- Speaker: Target (1)
+#. -- Group title: Dust bandits negotiate
+#. Id: 63256-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (63254-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Savant talk to
+#. Id: 46421-Dialogue.mod
+#. -- Index: 24.0
+#. -- Parent line: 23 (46420-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 1534556-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (50945-rebirth.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: more bar thugs (dancing skeleton)
+#. Id: 2750-gamedata.base
+#. -- Index: 2.0
+#. -- Parent line: 1 (2738-gamedata.base)
+#. -- Speaker: Me (0)
+#. -- Group title: crumblejon
+#: 10672-Dialogue?(10).mod:0 5617-Recruits?Dialogue.mod:0 2785-gamedata.base:0 3238-gamedata.base:0 1733-gamedata.base:0 9562-Dialogue.mod:0 17970-gamedata.base:1 63256-Dialogue.mod:0 46421-Dialogue.mod:0 1534556-rebirth.mod:0 2750-gamedata.base:0
+msgid "No."
+msgstr ""
+
+#. Id: 49516-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10672-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49516-Dialogue.mod:0
+msgid "No sale."
+msgstr ""
+
+#. Id: 10673-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10664-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10673-Dialogue?(10).mod:0
+msgid "On second thought, nevermind"
+msgstr ""
+
+#. Id: 10652-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10652-Dialogue?(10).mod:0
+msgid "Nice goat. What's his name?"
+msgstr ""
+
+#. Id: 10655-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (10652-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10655-Dialogue?(10).mod:0
+msgid "He's called Cornelius. Bred him myself. Good as gold, he is."
+msgstr ""
+
+#. Id: 10656-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10655-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10656-Dialogue?(10).mod:0
+msgid "I think he wants to come with me."
+msgstr ""
+
+#. Id: 10662-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10656-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10662-Dialogue?(10).mod:0
+msgid "Aye, seems to have taken a liking to ya. He's a clever fella, deserves to go out into the world, spread his wings, not stay couped up in an old town like this. Wanna buy him? I'll sell him to ya for a special price."
+msgstr ""
+
+#. Id: 10693-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10662-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10693-Dialogue?(10).mod:0
+msgid "How much are we looking at?"
+msgstr ""
+
+#. Id: 49528-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (10693-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49528-Dialogue.mod:0
+msgid "A special price for a special goat, 14,000 Cats shou- "
+msgstr ""
+
+#. Id: 10694-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10662-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10694-Dialogue?(10).mod:0
+msgid "Sold!"
+msgstr ""
+
+#. Id: 10695-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10662-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#. Id: 53855-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (53850-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire good guard
+#. Id: 56284-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56283-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Longen talk to
+#: 10695-Dialogue?(10).mod:0 53855-Dialogue.mod:0 56284-Dialogue.mod:0
+msgid "Thanks, but no thanks."
+msgstr ""
+
+#. Id: 10657-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10655-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10657-Dialogue?(10).mod:0
+msgid "Can I buy him off you?"
+msgstr ""
+
+#. Id: 10663-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10657-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10663-Dialogue?(10).mod:0
+msgid " 'Course, you seem like a nice fella and Cornelius Junior sure approves. Tell you what, I'll give you a special price for a special goat! 14,000 Cats shou-"
+msgstr ""
+
+#. Id: 49518-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (10663-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49518-Dialogue.mod:0
+msgid "(Mahhhhh!) "
+msgstr ""
+
+#. Id: 49519-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (49518-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49519-Dialogue.mod:0
+msgid "... Okay, okay, calm down! Looks like Cornelius wants us to go ahead with a cheaper price. And what Cornelius says, goes. So, half price, just for you. You can thank Cornelius for the generous discount."
+msgstr ""
+
+#. Id: 10691-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49519-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10691-Dialogue?(10).mod:0
+msgid "Okay, let's take a look."
+msgstr ""
+
+#. Id: 49520-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49519-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 49520-Dialogue.mod:0
+msgid "I can't afford him, unfortunately."
+msgstr ""
+
+#. Id: 49521-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49520-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49521-Dialogue.mod:0
+msgid "(Maaah...) "
+msgstr ""
+
+#. Id: 49522-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49521-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49522-Dialogue.mod:0
+msgid "That's a shame, but I can't give a premium goat away to you for free. No matter how much Cornelius sulks about it."
+msgstr ""
+
+#. Id: 49523-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49519-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 49523-Dialogue.mod:0
+msgid "On second thoughts, I've changed my mind."
+msgstr ""
+
+#. Id: 49524-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49523-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49524-Dialogue.mod:0
+msgid "That's a shame, Cornelius Junior will be heart broken but it can't be helped. He needs to learn the feels of rejection, it will make him stronger in the long run."
+msgstr ""
+
+#. Id: 49525-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (49524-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49525-Dialogue.mod:0
+msgid "Safe travels, outlander."
+msgstr ""
+
+#. Id: 49526-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (49519-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 49526-Dialogue.mod:0
+msgid "Would you take 1000 Cats for him instead?"
+msgstr ""
+
+#. Id: 10692-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (49526-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 10692-Dialogue?(10).mod:0
+msgid "1000 Cats?! You've got to be kiddi- "
+msgstr ""
+
+#. Id: 49527-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (10692-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49527-Dialogue.mod:0
+msgid "(Maahhhh!)"
+msgstr ""
+
+#. Id: 49535-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (49527-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 49535-Dialogue.mod:0
+msgid ".. But Cornelius! You're worth more than that, I ain't gonna let you settle for less! No deal, outlander."
+msgstr ""
+
+#. Id: 10665-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10657-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 10665-Dialogue?(10).mod:0
+msgid " 'Course, you seem like a nice gal and  Cornelius Junior sure approves. Tell you what, I'll give you a special price for a special goat! 14,000 Cats shou-"
+msgstr ""
+
+#. Id: 10698-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10655-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10698-Dialogue?(10).mod:0
+msgid "Well, Cornelius looks truly delicious."
+msgstr ""
+
+#. Id: 58509-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (10698-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Mahhh
+#: 58509-Dialogue.mod:0
+msgid "Deli-?!"
+msgstr ""
+
+#. Id: 49530-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10655-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#. Id: 55739-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55745-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#. Id: 55747-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55746-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#: 49530-Dialogue.mod:0 55739-Dialogue.mod:0 55747-Dialogue.mod:0
+msgid "I'd like to trade."
+msgstr ""
+
+#. Id: 10653-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#. Id: 42992-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: trader holy nation
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 10653-Dialogue?(10).mod:0 42992-Dialogue.mod:2
+msgid "You trading?"
+msgstr ""
+
+#. Id: 10654-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (58496-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Mahhh
+#: 10654-Dialogue?(10).mod:0
+msgid "On second thoughts, nevermind..."
+msgstr ""
+

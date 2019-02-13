@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 56597-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56597-Dialogue.mod:0
+msgid "Think yourself superior because of those horns, warrior?"
+msgstr ""
+
+#. Id: 56597-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56597-Dialogue.mod:1
+msgid "Another exiled warrior? Or another challenger to beat to the /DIRT/?"
+msgstr ""
+
+#. Id: 56597-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56597-Dialogue.mod:2
+msgid "Hmph. Big horns mean big battle skills, correct, warrior?"
+msgstr ""
+
+#. Id: 56597-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56597-Dialogue.mod:3
+msgid "You may have the horns, but do you have the battle skills, warrior?"
+msgstr ""
+
+#. Id: 56599-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (56597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56599-Dialogue.mod:0
+msgid "Let's see what you can really do with that sword!"
+msgstr ""
+
+#. Id: 56599-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (56597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56599-Dialogue.mod:1
+msgid "Show me what you're really capable of... Fight me!"
+msgstr ""
+
+#. Id: 56599-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (56597-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56599-Dialogue.mod:2
+msgid "Then raise your sword! Show me what you're really made of!"
+msgstr ""
+
+#. Id: 56600-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56600-Dialogue.mod:0
+msgid "Think yourself worthy of that blade, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 56600-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56600-Dialogue.mod:1
+msgid "Travelling the outlands without escort, hm? Confidence."
+msgstr ""
+
+#. Id: 56600-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Band of Bones attack shout
+#: 56600-Dialogue.mod:2
+msgid "Hrm! A /FLATSKIN/ with a blade. Amusing."
+msgstr ""
+

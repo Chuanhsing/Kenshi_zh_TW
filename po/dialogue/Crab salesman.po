@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 65865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65865-Dialogue.mod:0
+msgid "So you wanna buy a crab, eh. Well, first up you gotta have a solid crab care routine, let me tell you all about it..."
+msgstr ""
+
+#. Id: 65866-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#: 65866-Dialogue.mod:0
+msgid "Skip the chat. Let me see your crabs."
+msgstr ""
+
+#. Id: 65869-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65869-Dialogue.mod:0
+msgid "Can't let you walk away with one of my crabs until you learn the basics of good crab care..."
+msgstr ""
+
+#. Id: 65867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#. Id: 7312-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Cmon unlock me
+#. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
+#. Id: 45439-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16088-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. Id: 63365-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63348-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tengu vault prisoner
+#: 65867-Dialogue.mod:0 7312-Dialogue.mod:2 45439-Dialogue.mod:0 63365-Dialogue.mod:0
+msgid "Okay..."
+msgstr ""
+
+#. Id: 65870-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65870-Dialogue.mod:0
+msgid "Now the crabs, see, they like fish, that's their favourite food. Otherwise they'll eat funghi, algae... you know, standard stuff. But you gotta make sure they eat five meals a day. And be warned, never feed them after sundown! NEVER!..."
+msgstr ""
+
+#. Id: 65871-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (65870-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65871-Dialogue.mod:0
+msgid "It gives them indigestion. You've also gotta give them a ninety minute salt bath once a month so that they can molt no trouble. Now, they don't sleep well and they need affection, so make sure you sing 'em a song every night before bed, you gotta gurgle from the back of your throat, stroke his back legs too, he'll like that..."
+msgstr ""
+
+#. Id: 65873-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (65871-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65873-Dialogue.mod:0
+msgid "And don't work 'em too hard. They don't like conflict... sensitive creatures they are, put too much stress on 'em and they'll get depressed. Nothin' sadder than a bummed out crab."
+msgstr ""
+
+#. Id: 65872-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (65873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Crab salesman
+#: 65872-Dialogue.mod:0
+msgid "... So, are you ready to become one with the crabs?"
+msgstr ""
+
+#. Id: 65878-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65872-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#. Id: 1534130-__Fixes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1534128-__Fixes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Trade unlock
+#. Id: 95564-Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95563-Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: trader mourn
+#. Id: 45027-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (44626-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Swamper trade
+#. Id: 95585-__Mourn.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (95584-__Mourn.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: shopkeep lagoon
+#. Id: 58502-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (58501-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Goat man standard trade
+#. Id: 56343-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (56342-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Stone camp trader
+#. Id: 182-gamedata.quack
+#. -- Index: 1.0
+#. -- Parent line: 0 (181-gamedata.quack)
+#. -- Speaker: Target (1)
+#. -- Group title: trader1
+#. Id: 65947-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (65946-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab barman
+#. Id: 65959-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (65958-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crabsmith
+#. Id: 55754-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55753-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Harmothoe trade
+#. Id: 48150-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (48149-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Wandering trader
+#. Id: 47214-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (47213-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Travelling hive merchant
+#. Id: 55804-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55802-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Skeleton barman
+#. Id: 95815-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (95813-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Robotics shop black desert
+#. Id: 55792-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (55791-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Junkyard skeleton talk to
+#: 65878-Dialogue.mod:0 1534130-__Fixes.mod:0 95564-Mourn.mod:0 45027-Dialogue.mod:0 95585-__Mourn.mod:0 58502-Dialogue.mod:0 56343-Dialogue.mod:0 182-gamedata.quack:0 65947-Dialogue.mod:0 65959-Dialogue.mod:1 55754-Dialogue.mod:0 48150-Dialogue.mod:0 47214-Dialogue.mod:0 55804-Dialogue.mod:0 95815-Dialogue.mod:0 55792-Dialogue.mod:0
+msgid "Show me what you've got."
+msgstr ""
+
+#. Id: 65879-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (65872-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#: 65879-Dialogue.mod:0
+msgid "Too much effort, forget it."
+msgstr ""
+
+#. Id: 65868-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (65865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Crab salesman
+#: 65868-Dialogue.mod:0
+msgid "Actually, I'm not interested. Bye."
+msgstr ""
+

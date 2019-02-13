@@ -1,0 +1,203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 12925-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12925-Dialogue?(11)?(2).mod:0
+msgid "Anyone need a new sword?"
+msgstr ""
+
+#. Id: 12925-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12925-Dialogue?(11)?(2).mod:1
+msgid "New sword. Anyone want it?"
+msgstr ""
+
+#. Id: 12928-Dialogue (11) (2).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (12927-Dialogue (11) (2).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Merc loot weapon
+#: 12928-Dialogue?(11)?(2).mod:0
+msgid "Nah, just trash it"
+msgstr ""
+
+#. Id: 12928-Dialogue (11) (2).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (12927-Dialogue (11) (2).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Merc loot weapon
+#: 12928-Dialogue?(11)?(2).mod:1
+msgid "Sure, chuck it here"
+msgstr ""
+
+#. Id: 12928-Dialogue (11) (2).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (12927-Dialogue (11) (2).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Merc loot weapon
+#: 12928-Dialogue?(11)?(2).mod:2
+msgid "Sure, wang it over here"
+msgstr ""
+
+#. Id: 12928-Dialogue (11) (2).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (12927-Dialogue (11) (2).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Merc loot weapon
+#: 12928-Dialogue?(11)?(2).mod:3
+msgid "Nah, just scrap it in"
+msgstr ""
+
+#. Id: 12928-Dialogue (11) (2).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (12927-Dialogue (11) (2).mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Merc loot weapon
+#: 12928-Dialogue?(11)?(2).mod:4
+msgid "Nah, could use a back scratcher though"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:0
+msgid "You won't be needing this where you're going"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:1
+msgid "Dead people don't need weapons"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:2
+msgid "Think it's safe to say you won't be needing this anymore"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:3
+msgid "The dead don't need weapons"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:4
+msgid "You won't be needing a sword anymore where you're going"
+msgstr ""
+
+#. Id: 12929-Dialogue (11) (2).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12929-Dialogue?(11)?(2).mod:5
+msgid "Guess you won't be needing a sword anymore"
+msgstr ""
+
+#. Id: 12931-Dialogue (11) (2).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#. Id: 8586-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Loot Sword (Bandit)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 12931-Dialogue?(11)?(2).mod:1 8586-Dialogue.mod:2
+msgid "I'll take this off your hands"
+msgstr ""
+
+#. Id: 12931-Dialogue (11) (2).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#. -- Condition: Who: TARGET, Condition: IS_DEAD=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 12931-Dialogue?(11)?(2).mod:2
+msgid "Your sword is mine now"
+msgstr ""
+
+#. Id: 12932-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12931-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#: 12932-Dialogue?(11)?(2).mod:0
+msgid "Let's hope you don't need it anytime soon, /MERCLAUGH/"
+msgstr ""
+
+#. Id: 12932-Dialogue (11) (2).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (12931-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#: 12932-Dialogue?(11)?(2).mod:1
+msgid "Good luck surviving without it, /MERCLAUGH/"
+msgstr ""
+
+#. Id: 12932-Dialogue (11) (2).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (12931-Dialogue (11) (2).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Merc loot weapon
+#: 12932-Dialogue?(11)?(2).mod:2
+msgid "Pretty screwed without it though, aren't you? /MERCLAUGH/"
+msgstr ""
+

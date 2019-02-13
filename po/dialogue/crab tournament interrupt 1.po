@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 1532684-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532684-rebirth.mod:0
+msgid "So! You dare to test your crabs against mine! Prepare yourself!"
+msgstr ""
+
+#. Id: 1532685-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532684-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532685-rebirth.mod:0
+msgid "Yes! Let us fight in manly combat!"
+msgstr ""
+
+#. Id: 1532687-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532685-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532687-rebirth.mod:0
+msgid "Go, Titus! Attack!"
+msgstr ""
+
+#. Id: 1532686-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1532684-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532686-rebirth.mod:0
+msgid "Wait!  /IWE/ don't want to fight you."
+msgstr ""
+
+#. Id: 1532689-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (1532686-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532689-rebirth.mod:0
+msgid "Ha! Scared already? One look at Titus and you lost your spirit!"
+msgstr ""
+
+#. Id: 1532690-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (1532689-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532690-rebirth.mod:0
+msgid "I don't have any crabs!"
+msgstr ""
+
+#. Id: 1532691-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (1532690-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532691-rebirth.mod:0
+msgid "[They look confused] ... What... what do you mean?  Are they sleeping? You mean your crabs are not ready? "
+msgstr ""
+
+#. Id: 1532700-rebirth.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (1532691-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532700-rebirth.mod:0
+msgid "*Gasp!*  Are they sick?  [They look genuinely worried]"
+msgstr ""
+
+#. Id: 1532692-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1532700-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532692-rebirth.mod:0
+msgid "No, I literally don't own any crabs"
+msgstr ""
+
+#. Id: 1532693-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1532692-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532693-rebirth.mod:0
+msgid "...But how do you do battle?"
+msgstr ""
+
+#. Id: 1532694-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1532693-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532694-rebirth.mod:0
+msgid "We just use, like, swords and stuff."
+msgstr ""
+
+#. Id: 1532695-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1532694-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#. Id: 1532805-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1532804-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournement victory announce
+#. Id: 1533821-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (1533819-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: beep see neutral
+#. Id: 63557-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (63556-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: nomad merchant announce
+#. Id: 57732-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57731-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: biome - stobes garden
+#. Id: 64890-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: racists win fight
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 57377-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57388-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep following
+#. Id: 57343-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (57339-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: beep talk to recruit
+#. Id: 48780-rebirth.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (48779-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: arrival- cannibal plains
+#: 1532695-rebirth.mod:0 1532805-rebirth.mod:0 1533821-rebirth.mod:0 63557-rebirth.mod:0 57732-rebirth.mod:0 64890-rebirth.mod:1 57377-rebirth.mod:0 57343-rebirth.mod:0 48780-rebirth.mod:0
+msgid "...."
+msgstr ""
+
+#. Id: 1532697-rebirth.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (1532696-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532697-rebirth.mod:0
+msgid "You can't fool the Crab Raiders! "
+msgstr ""
+
+#. Id: 1532699-rebirth.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (1532700-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532699-rebirth.mod:0
+msgid "Yes... They're all... sick"
+msgstr ""
+
+#. Id: 1532701-rebirth.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (1532699-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532701-rebirth.mod:0
+msgid "Those poor crabs! [You see tears starting to build up]"
+msgstr ""
+
+#. Id: 1532702-rebirth.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (1532701-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532702-rebirth.mod:0
+msgid "So be it... I hope your crabs feel better in 4 days time for the quarter finals"
+msgstr ""
+
+#. Id: 1532703-rebirth.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (1532702-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: crab tournament interrupt 1
+#: 1532703-rebirth.mod:0
+msgid "Wait, what?"
+msgstr ""
+
+#. Id: 1532704-rebirth.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (1532703-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: crab tournament interrupt 1
+#: 1532704-rebirth.mod:0
+msgid "Prepare your crabs well! Your next opponent shall be stronger than I!"
+msgstr ""
+

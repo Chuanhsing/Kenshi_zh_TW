@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 54855-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#: 54855-Dialogue.mod:0
+msgid "You may have paid my price tag, but I won't be broken."
+msgstr ""
+
+#. Id: 54855-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#: 54855-Dialogue.mod:1
+msgid "Try all you want to make me your servant. A Shek can't be broken."
+msgstr ""
+
+#. Id: 54855-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#: 54855-Dialogue.mod:2
+msgid "A Shek cannot be bought. I'll die before I bend to any man."
+msgstr ""
+
+#. Id: 55388-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 55388-Dialogue.mod:0
+msgid "I'll die before I join my captor!"
+msgstr ""
+
+#. Id: 55388-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 55388-Dialogue.mod:2
+msgid "I will never forgive the one who enslaved me"
+msgstr ""
+
+#. Id: 55388-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 55388-Dialogue.mod:3
+msgid "I won't be broken by the one who sold me, so cut me down"
+msgstr ""
+
+#. Id: 55388-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Bought shek from slavery
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
+#: 55388-Dialogue.mod:4
+msgid "By honor of Kral, I will not bow before the mutt that put me here"
+msgstr ""
+

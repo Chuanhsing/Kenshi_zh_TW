@@ -1,0 +1,859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13336-Escapes.mod:0
+msgid "Think you can bust me out of here?"
+msgstr ""
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13336-Escapes.mod:1
+msgid "Can you bust me out?"
+msgstr ""
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13336-Escapes.mod:2
+msgid "Can you get me out of here?"
+msgstr ""
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 5342-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Caged neighbour talk to pt 2
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13336-Escapes.mod:3 5342-Escapes.mod:3
+msgid "You any good with a lockpick?"
+msgstr ""
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 13336-Escapes.mod:4
+msgid "Think you can help me out?"
+msgstr ""
+
+#. Id: 13336-Escapes.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 13337-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#. Id: 13339-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#: 13336-Escapes.mod:5 13337-Escapes.mod:2 13339-Escapes.mod:3
+msgid "Can you help me out?"
+msgstr ""
+
+#. Id: 13337-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#: 13337-Escapes.mod:0
+msgid "Can you help a brother out?"
+msgstr ""
+
+#. Id: 13337-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#. Id: 13337-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#. Id: 13339-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#: 13337-Escapes.mod:1 13337-Escapes.mod:3 13339-Escapes.mod:2
+msgid "Can you lend a hand, /BROTHER/?"
+msgstr ""
+
+#. Id: 13388-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13337-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 13351-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13341-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 13363-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13342-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13388-Escapes.mod:1 13351-Escapes.mod:0 13363-Escapes.mod:0
+msgid "I'm on it"
+msgstr ""
+
+#. Id: 13389-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13337-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13389-Escapes.mod:0
+msgid "I can't help you"
+msgstr ""
+
+#. Id: 13391-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13337-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13391-Escapes.mod:0
+msgid "I'll do my best"
+msgstr ""
+
+#. Id: 13339-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#: 13339-Escapes.mod:0
+msgid "Can you help a sister out?"
+msgstr ""
+
+#. Id: 13339-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#. -- Condition: My Race(s): Greenlander
+#: 13339-Escapes.mod:1
+msgid "Can you give me a hand, /BROTHER/?"
+msgstr ""
+
+#. Id: 13341-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13341-Escapes.mod:0
+msgid "You! You've gotta get me out of here!"
+msgstr ""
+
+#. Id: 13341-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13341-Escapes.mod:1
+msgid "Y- you've gotta get me out of here!"
+msgstr ""
+
+#. Id: 13341-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13341-Escapes.mod:2
+msgid "Hey! You! You have to get me out of here!"
+msgstr ""
+
+#. Id: 13357-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13351-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 7067-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13357-Escapes.mod:0 7067-Dialogue.mod:1
+msgid "/FUCK/! Quickly!"
+msgstr ""
+
+#. Id: 13357-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13351-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13357-Escapes.mod:1
+msgid "/FUCK/! Hurry!"
+msgstr ""
+
+#. Id: 13358-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13351-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13358-Escapes.mod:0
+msgid "/FUCK/! Quick, before the masters notice!"
+msgstr ""
+
+#. Id: 13358-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13351-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13358-Escapes.mod:1
+msgid "/FUCK/! Quick, before the masters come!"
+msgstr ""
+
+#. Id: 13358-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13351-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13358-Escapes.mod:2
+msgid "/FUCK/! Quick, before the masters see!"
+msgstr ""
+
+#. Id: 13352-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13341-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13352-Escapes.mod:0
+msgid "Say please..."
+msgstr ""
+
+#. Id: 13356-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13352-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13356-Escapes.mod:0
+msgid "Please! Hurry!"
+msgstr ""
+
+#. Id: 13356-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13352-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13356-Escapes.mod:1
+msgid "Please! Please get me out!"
+msgstr ""
+
+#. Id: 13360-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13352-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13360-Escapes.mod:0
+msgid "Please! Before the masters notice!"
+msgstr ""
+
+#. Id: 13360-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13352-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13360-Escapes.mod:1
+msgid "Please! Before the masters come!"
+msgstr ""
+
+#. Id: 13360-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13352-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#: 13360-Escapes.mod:2
+msgid "Please! Before the masters see!"
+msgstr ""
+
+#. Id: 13353-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13341-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13353-Escapes.mod:0
+msgid "Nah, I'm busy"
+msgstr ""
+
+#. Id: 13354-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13353-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13354-Escapes.mod:0
+msgid "... You serious?"
+msgstr ""
+
+#. Id: 13354-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13353-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13354-Escapes.mod:2
+msgid "... ?!"
+msgstr ""
+
+#. Id: 13355-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13354-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13355-Escapes.mod:0
+msgid "You /BASTARD/! You /GODDAMN/ /BASTARD/!"
+msgstr ""
+
+#. Id: 13362-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13353-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 13491-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Steal from bandit (imprisoner)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#: 13362-Escapes.mod:0 13491-Escapes.mod:2
+msgid "/BASTARD/..."
+msgstr ""
+
+#. Id: 13342-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13342-Escapes.mod:0
+msgid "Hey! Hey! Help me! You've gotta get me out of here! "
+msgstr ""
+
+#. Id: 13342-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13342-Escapes.mod:1
+msgid "You! Who are you?? Are you here to help?!"
+msgstr ""
+
+#. Id: 13342-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13342-Escapes.mod:2
+msgid "Hey!? Help me! Can you get me out of here?"
+msgstr ""
+
+#. Id: 13342-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#. -- Condition: In town(s) of faction(s): Cannibals
+#: 13342-Escapes.mod:3
+msgid "Help!!! Are you here to get me out of here?"
+msgstr ""
+
+#. Id: 13364-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13342-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13364-Escapes.mod:0
+msgid "Pathetic. Get yourself out."
+msgstr ""
+
+#. Id: 13364-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13342-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13364-Escapes.mod:1
+msgid "Pitiful. Rescue yourself."
+msgstr ""
+
+#. Id: 13374-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13364-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13374-Escapes.mod:0
+msgid "Wh- what the hell?"
+msgstr ""
+
+#. Id: 13374-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13364-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13374-Escapes.mod:2
+msgid "H- hey?"
+msgstr ""
+
+#. Id: 13365-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13342-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13365-Escapes.mod:0
+msgid "Sorry, I can't"
+msgstr ""
+
+#. Id: 13375-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13365-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13375-Escapes.mod:0
+msgid "No! Don't go!"
+msgstr ""
+
+#. Id: 13375-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13365-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13375-Escapes.mod:1
+msgid "Wait! Don't leave me here!"
+msgstr ""
+
+#. Id: 13375-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13365-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13375-Escapes.mod:2
+msgid "No! Don't leave me like this!"
+msgstr ""
+
+#. Id: 13375-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13365-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13375-Escapes.mod:3
+msgid "Wait! No, don't go!"
+msgstr ""
+
+#. Id: 13375-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13365-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13375-Escapes.mod:4
+msgid "No! No!!!"
+msgstr ""
+
+#. Id: 13343-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 13343-Escapes.mod:0
+msgid "A visitor? You here to rescue me?"
+msgstr ""
+
+#. Id: 13343-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Shek
+#: 13343-Escapes.mod:1
+msgid "Who are you then? You come to get me out of here?"
+msgstr ""
+
+#. Id: 13376-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13343-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13376-Escapes.mod:0
+msgid "Yep, hold on"
+msgstr ""
+
+#. Id: 13376-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13343-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13376-Escapes.mod:1
+msgid "Yep, hang in there"
+msgstr ""
+
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13377-Escapes.mod:0
+msgid "Such a stud..."
+msgstr ""
+
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13377-Escapes.mod:1
+msgid "Such a champion"
+msgstr ""
+
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13377-Escapes.mod:2
+msgid "What a pro"
+msgstr ""
+
+#. Id: 13377-Escapes.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (13376-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13377-Escapes.mod:3
+msgid "So sweet of you"
+msgstr ""
+
+#. Id: 13378-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13343-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13378-Escapes.mod:0
+msgid "Can't you get out yourself?"
+msgstr ""
+
+#. Id: 13378-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13343-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13378-Escapes.mod:1
+msgid "Can't you break yourself out?"
+msgstr ""
+
+#. Id: 13380-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13378-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13380-Escapes.mod:0
+msgid "Oh sure! I'm just sitting here for funzies!"
+msgstr ""
+
+#. Id: 13380-Escapes.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (13378-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13380-Escapes.mod:1
+msgid "Oh no, I'm just sitting in here for fun!"
+msgstr ""
+
+#. Id: 13381-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13381-Escapes.mod:0
+msgid "Hang on, I'll get you out"
+msgstr ""
+
+#. Id: 13381-Escapes.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13381-Escapes.mod:1
+msgid "Hold on, I'll get you out"
+msgstr ""
+
+#. Id: 13382-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13382-Escapes.mod:0
+msgid "Sarcasm? At a time like this?"
+msgstr ""
+
+#. Id: 13382-Escapes.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13382-Escapes.mod:1
+msgid "Really? Sarcasm? Now?"
+msgstr ""
+
+#. Id: 13383-Escapes.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13383-Escapes.mod:0
+msgid "I'll leave you to it then"
+msgstr ""
+
+#. Id: 13383-Escapes.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13383-Escapes.mod:1
+msgid "I'll leave you alone then"
+msgstr ""
+
+#. Id: 13383-Escapes.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (13380-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13383-Escapes.mod:2
+msgid "Oh ok, enjoy!"
+msgstr ""
+
+#. Id: 13384-Escapes.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (13383-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13384-Escapes.mod:0
+msgid ".. Wait..."
+msgstr ""
+
+#. Id: 13384-Escapes.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (13383-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. Id: 46634-Dialogue.mod
+#. -- Index: 18.0
+#. -- Parent line: 17 (46633-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: shoo shop
+#. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#: 13384-Escapes.mod:1 46634-Dialogue.mod:0
+msgid "... Er..."
+msgstr ""
+
+#. Id: 13367-Escapes.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13367-Escapes.mod:0
+msgid "Help me... take me with you..."
+msgstr ""
+
+#. Id: 13367-Escapes.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13367-Escapes.mod:1
+msgid "Take me with you... help..."
+msgstr ""
+
+#. Id: 13367-Escapes.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13367-Escapes.mod:2
+msgid "A little help? ... Please... take me with you"
+msgstr ""
+
+#. Id: 13367-Escapes.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
+#: 13367-Escapes.mod:3
+msgid "Don't leave me like this... "
+msgstr ""
+
+#. Id: 13369-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13369-Escapes.mod:0
+msgid "I'm here to get you out"
+msgstr ""
+
+#. Id: 13369-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13369-Escapes.mod:1
+msgid "I'm getting you out of here"
+msgstr ""
+
+#. Id: 13369-Escapes.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13369-Escapes.mod:3
+msgid "I'll get you out"
+msgstr ""
+
+#. Id: 13373-Escapes.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (13369-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Imprisoned merc asking for help
+#: 13373-Escapes.mod:0
+msgid "Th- thank you..."
+msgstr ""
+
+#. Id: 13370-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13370-Escapes.mod:0
+msgid "Shut up, slave!"
+msgstr ""
+
+#. Id: 13370-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13370-Escapes.mod:1
+msgid "Silence, slave!"
+msgstr ""
+
+#. Id: 13372-Escapes.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (13367-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Imprisoned merc asking for help
+#: 13372-Escapes.mod:0
+msgid "I can't, I'm sorry"
+msgstr ""
+

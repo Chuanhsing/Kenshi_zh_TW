@@ -1,0 +1,689 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 7403-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 7403-Dialogue.mod:0
+msgid "There you are. I've been looking for you"
+msgstr ""
+
+#. Id: 7403-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 7403-Dialogue.mod:1
+msgid "I finally found you"
+msgstr ""
+
+#. Id: 7403-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 7403-Dialogue.mod:2
+msgid "Here you are. I've been searching for you"
+msgstr ""
+
+#. Id: 7403-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 7403-Dialogue.mod:3
+msgid "I finally managed to hunt you down"
+msgstr ""
+
+#. Id: 7403-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_CHARACTER_EXISTS=1, Tag: -1
+#: 7403-Dialogue.mod:4
+msgid "Looks like I finally found you, eh?"
+msgstr ""
+
+#. Id: 7414-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7414-Dialogue.mod:0
+msgid "Looks like you've been causing a bit of a stir lately, eh"
+msgstr ""
+
+#. Id: 7414-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7414-Dialogue.mod:1
+msgid "You've been quite the troublemaker lately, EH"
+msgstr ""
+
+#. Id: 7414-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7414-Dialogue.mod:2
+msgid "You've caused us a lot of trouble lately, aintcha?"
+msgstr ""
+
+#. Id: 7414-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7403-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7414-Dialogue.mod:3
+msgid "You've been a pain in the ass lately, haven't you?"
+msgstr ""
+
+#. Id: 7420-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7420-Dialogue.mod:0
+msgid "WELL YOU AIN'T GONNA GET AWAY WITH IT!"
+msgstr ""
+
+#. Id: 7420-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7420-Dialogue.mod:1
+msgid "WELL IT AIN'T GOOD ENOUGH! "
+msgstr ""
+
+#. Id: 7420-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7414-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7420-Dialogue.mod:2
+msgid "WELL I AIN'T GONNA LET YOU GET AWAY WITH IT!"
+msgstr ""
+
+#. Id: 7422-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7422-Dialogue.mod:0
+msgid "Time to pay for what you've done, /BASTARD/!"
+msgstr ""
+
+#. Id: 7422-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7422-Dialogue.mod:1
+msgid "You ain't gonna get away from US!"
+msgstr ""
+
+#. Id: 7422-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7422-Dialogue.mod:2
+msgid "You're gonna pay for what you've done, /INSULT/"
+msgstr ""
+
+#. Id: 7434-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 7435-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7434-Dialogue.mod:0 7435-Dialogue.mod:0
+msgid "/ARG/, die!!"
+msgstr ""
+
+#. Id: 7434-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 7435-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7434-Dialogue.mod:1 7435-Dialogue.mod:1
+msgid "Revenge! /ARG/!"
+msgstr ""
+
+#. Id: 7434-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (7422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 7435-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (7425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7434-Dialogue.mod:2 7435-Dialogue.mod:2
+msgid "I'll have my revenge!"
+msgstr ""
+
+#. Id: 7434-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (7422-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. Id: 7435-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (7425-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7434-Dialogue.mod:3 7435-Dialogue.mod:3
+msgid "Revenge is sweet!"
+msgstr ""
+
+#. Id: 7423-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7423-Dialogue.mod:0
+msgid "I'm gonna CUT you UP for what you've done!"
+msgstr ""
+
+#. Id: 7423-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7423-Dialogue.mod:1
+msgid "I'm gonna /SLITYOURTHROAT/ for what you've done to us!"
+msgstr ""
+
+#. Id: 7423-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7423-Dialogue.mod:2
+msgid "I'm gonna /SNAP/ your head off for what you've done to us!"
+msgstr ""
+
+#. Id: 7425-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7425-Dialogue.mod:0
+msgid "/QUICKLAUGH/! I'm gonna make your /BODYPART/ /SNAP/!"
+msgstr ""
+
+#. Id: 7428-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7421-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamper Leader hunts you down
+#: 7428-Dialogue.mod:0
+msgid "/CRAPPY/ /INSULT/! Die!"
+msgstr ""
+
+#. Id: 7406-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7406-Dialogue.mod:0
+msgid "You! I've got you now, /INSULT/!"
+msgstr ""
+
+#. Id: 7406-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7406-Dialogue.mod:1
+msgid "/BASTARD/! I've been looking for YOU for a long time!"
+msgstr ""
+
+#. Id: 7437-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7437-Dialogue.mod:0
+msgid "You messed with the wrong clan! /FUCKING/ nuisance!"
+msgstr ""
+
+#. Id: 7437-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7437-Dialogue.mod:1
+msgid "You fucked with the wrong gang!"
+msgstr ""
+
+#. Id: 7437-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7437-Dialogue.mod:2
+msgid "You've been a /FUCKING/ headache to /MYFACTION/ long enough!"
+msgstr ""
+
+#. Id: 7437-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7437-Dialogue.mod:3
+msgid "You messed with the wrong gang! /FUCKING/ pest!"
+msgstr ""
+
+#. Id: 7454-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7437-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7454-Dialogue.mod:3
+msgid "Beat /HIM/ to a bloody pulp!"
+msgstr ""
+
+#. Id: 41677-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41677-Dialogue.mod:0
+msgid "This time I ain't gonna let you beat me!"
+msgstr ""
+
+#. Id: 41677-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41677-Dialogue.mod:1
+msgid "I won't let you beat me again!"
+msgstr ""
+
+#. Id: 41677-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41677-Dialogue.mod:2
+msgid "You ain't gonna beat me this time!"
+msgstr ""
+
+#. Id: 41678-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41677-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 41678-Dialogue.mod:0
+msgid "I'll /DEFEAT/ you myself!"
+msgstr ""
+
+#. Id: 41678-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (41677-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 41678-Dialogue.mod:1
+msgid "I'll kick your puny ass to hell!"
+msgstr ""
+
+#. Id: 41681-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41681-Dialogue.mod:0
+msgid "I'm gonna enjoy /STABBIN/ you... again!"
+msgstr ""
+
+#. Id: 41681-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41681-Dialogue.mod:1
+msgid "Gonna enjoy thrashin' you again!"
+msgstr ""
+
+#. Id: 41681-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7406-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41681-Dialogue.mod:2
+msgid "Ohh I'm gonna enjoy kickin' your puny ass again!"
+msgstr ""
+
+#. Id: 7410-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7410-Dialogue.mod:0
+msgid "You. I found you"
+msgstr ""
+
+#. Id: 7410-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7410-Dialogue.mod:1
+msgid "Well, well, well... Look who it is"
+msgstr ""
+
+#. Id: 7410-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7410-Dialogue.mod:2
+msgid "/PLAYERNAME/. I found you"
+msgstr ""
+
+#. Id: 7410-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7410-Dialogue.mod:3
+msgid "If it isn't /PLAYERNAME/..."
+msgstr ""
+
+#. Id: 7410-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7410-Dialogue.mod:4
+msgid "Well, well, well... look what the wolves coughed up"
+msgstr ""
+
+#. Id: 7452-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7452-Dialogue.mod:0
+msgid "I've been sent to kill you. Slowly."
+msgstr ""
+
+#. Id: 7452-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (7410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7452-Dialogue.mod:1
+msgid "I've been sent to GUT you"
+msgstr ""
+
+#. Id: 7452-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7452-Dialogue.mod:2
+msgid "I've been looking forward to gutting you"
+msgstr ""
+
+#. Id: 7452-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (7410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7452-Dialogue.mod:3
+msgid "I've been searching for you for a long time"
+msgstr ""
+
+#. Id: 7452-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (7410-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7452-Dialogue.mod:4
+msgid "The hunt is finally over"
+msgstr ""
+
+#. Id: 7453-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7453-Dialogue.mod:0
+msgid "You shouldn't have fucked with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7453-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7453-Dialogue.mod:1
+msgid "You should never have messed with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7453-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7453-Dialogue.mod:2
+msgid "I'll teach you not to mess with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7453-Dialogue.mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (7452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7453-Dialogue.mod:3
+msgid "Maybe this'll teach you not to fuck with /MYFACTION/!"
+msgstr ""
+
+#. Id: 7412-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7412-Dialogue.mod:0
+msgid "Hey... You..."
+msgstr ""
+
+#. Id: 7412-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7412-Dialogue.mod:4
+msgid "Well hello there..."
+msgstr ""
+
+#. Id: 7419-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#: 7419-Dialogue.mod:0
+msgid "You've been a bad /MAN2/ haven't you?"
+msgstr ""
+
+#. Id: 7439-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7439-Dialogue.mod:0
+msgid "/QUICKLAUGH/. I like the bad ones."
+msgstr ""
+
+#. Id: 7442-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7442-Dialogue.mod:0
+msgid "And I like your eyes. I'm gonna cut 'em out and keep 'em"
+msgstr ""
+
+#. Id: 7442-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (7439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7442-Dialogue.mod:1
+msgid "And I like your face. I'm gonna skin it off and keep it"
+msgstr ""
+
+#. Id: 7442-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (7439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7442-Dialogue.mod:2
+msgid "And I like your skin. I'm gonna flay it off and wear it"
+msgstr ""
+
+#. Id: 7442-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (7439-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7442-Dialogue.mod:3
+msgid "And I like your lips. I'm gonna cut 'em off and wear 'em"
+msgstr ""
+
+#. Id: 7446-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (7445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7446-Dialogue.mod:0
+msgid "You tease!"
+msgstr ""
+
+#. Id: 7446-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (7445-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7446-Dialogue.mod:1
+msgid "You minx!"
+msgstr ""
+
+#. Id: 7441-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7441-Dialogue.mod:0
+msgid "Well, bad /MEN/ get their /BODYPART/ stabbed up"
+msgstr ""
+
+#. Id: 7441-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (7419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7441-Dialogue.mod:1
+msgid "Do you know what happens to BAD /MEN/?"
+msgstr ""
+
+#. Id: 7441-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (7419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7441-Dialogue.mod:2
+msgid "Bad /MEN/ need to be punished"
+msgstr ""
+
+#. Id: 7448-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (7447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7448-Dialogue.mod:0
+msgid "You should NEVER have messed with my brothers, /INSULT/!"
+msgstr ""
+
+#. Id: 7448-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (7447-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7448-Dialogue.mod:1
+msgid "You should NEVER have fucked with the /BANDITGANG/, /INSULT/!"
+msgstr ""
+
+#. Id: 7443-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (7412-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7443-Dialogue.mod:0
+msgid "You've been real bad haven't you?"
+msgstr ""
+
+#. Id: 7449-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (7443-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7449-Dialogue.mod:0
+msgid "I'm gonna rip you all inside out for messing with us"
+msgstr ""
+
+#. Id: 7450-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (7449-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamper Leader hunts you down
+#: 7450-Dialogue.mod:0
+msgid "One by one, nice 'n slow"
+msgstr ""
+

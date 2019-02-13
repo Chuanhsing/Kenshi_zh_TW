@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 19776-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. Id: 19747-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 96103-Dialogue.mod:2 99116-Dialogue.mod:6 19776-Dialogue.mod:2 19747-Dialogue.mod:2
+msgid "Save the Queen!"
+msgstr ""
+
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 96103-Dialogue.mod:3
+msgid "The Queen!"
+msgstr ""
+
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 40693-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Priest interrupted
+#: 96103-Dialogue.mod:4 40693-Dialogue.mod:4
+msgid "GAH!"
+msgstr ""
+
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 96103-Dialogue.mod:5 99116-Dialogue.mod:3
+msgid "Forgive us, Queen!"
+msgstr ""
+
+#. Id: 96103-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 96103-Dialogue.mod:6
+msgid "QUEEEEN!"
+msgstr ""
+
+#. Id: 99116-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hive queen crowd trigger
+#: 99116-Dialogue.mod:1
+msgid "GREE!"
+msgstr ""
+

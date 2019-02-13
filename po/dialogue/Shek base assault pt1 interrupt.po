@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 59650-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59650-Dialogue.mod:0
+msgid "The Shek Kingdom don't share, /FLATSKIN/, and you're on our land. Either you can pay us tribute from your stores, or we run this outpost to the ground. Your choice, /FLATSKIN/.  "
+msgstr ""
+
+#. Id: 59650-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59650-Dialogue.mod:1
+msgid "Take a look around, /FLATSKIN/... this is Shek /LAND/ and you don't belong here. Make yourself useful to us, show your respect with tribute from your food stores. Or, we run this outpost to the ground. Which will it be?"
+msgstr ""
+
+#. Id: 59651-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59651-Dialogue.mod:0
+msgid "Of course. This is your land, take whatever we owe from it."
+msgstr ""
+
+#. Id: 59666-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59651-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59666-Dialogue.mod:0
+msgid "Mmh. Smart choice..."
+msgstr ""
+
+#. Id: 59652-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59652-Dialogue.mod:0
+msgid "Okay, we'll settle on an amount. How much?"
+msgstr ""
+
+#. Id: 59658-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (59652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59658-Dialogue.mod:0
+msgid "It is we who set the terms, /FLATSKIN/. We take the food you sowed from OUR land, and you will stay out of our way while we take it."
+msgstr ""
+
+#. Id: 59658-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (59652-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59658-Dialogue.mod:1
+msgid "Our land, our terms, /FLATSKIN/. We take the food that we are owed... while you cower at the gates."
+msgstr ""
+
+#. Id: 59659-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (59658-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59659-Dialogue.mod:0
+msgid "Fine. Take what you want."
+msgstr ""
+
+#. Id: 59664-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (59663-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59664-Dialogue.mod:0
+msgid "I'll be back in twenty four hours."
+msgstr ""
+
+#. Id: 59653-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (59650-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek base assault pt1 interrupt
+#: 59653-Dialogue.mod:0
+msgid "Just try and run us out. You underestimate /MEUS/."
+msgstr ""
+

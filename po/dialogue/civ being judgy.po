@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 4824-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 4824-dialogue-02.mod:0
+msgid "Fight alone. Die alone."
+msgstr ""
+
+#. Id: 4824-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 4824-dialogue-02.mod:1
+msgid "Feel sorry for the loners."
+msgstr ""
+
+#. Id: 4824-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 4824-dialogue-02.mod:2
+msgid "No friends, huh?"
+msgstr ""
+
+#. Id: 4824-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 4824-dialogue-02.mod:3
+msgid "Look at /HIM/. All alone."
+msgstr ""
+
+#. Id: 4824-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#: 4824-dialogue-02.mod:4
+msgid "Must get lonely for /HIM/."
+msgstr ""
+
+#. Id: 4833-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 4833-dialogue-02.mod:0
+msgid "Strength in numbers. The coward's mantra."
+msgstr ""
+
+#. Id: 4833-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 4833-dialogue-02.mod:1
+msgid "Real 'ventureres don't need back-up."
+msgstr ""
+
+#. Id: 4833-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 4833-dialogue-02.mod:2
+msgid "Noisy packheads."
+msgstr ""
+
+#. Id: 4833-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 4833-dialogue-02.mod:3
+msgid "Bigger the mob. Smaller the brains."
+msgstr ""
+
+#. Id: 4833-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>3, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 4833-dialogue-02.mod:4
+msgid "Too scared to go it alone, huh?"
+msgstr ""
+
+#. Id: 4835-dialogue-02.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 4835-dialogue-02.mod:0
+msgid "Better not mess up my town."
+msgstr ""
+
+#. Id: 4835-dialogue-02.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 4835-dialogue-02.mod:1
+msgid "I'm watching you."
+msgstr ""
+
+#. Id: 4835-dialogue-02.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 4835-dialogue-02.mod:2
+msgid "Keeping an eye on you."
+msgstr ""
+
+#. Id: 4835-dialogue-02.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 4835-dialogue-02.mod:3
+msgid "Never a good thing, these outsiders."
+msgstr ""
+
+#. Id: 4835-dialogue-02.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: civ being judgy
+#. -- Condition: Who: ME, Condition: MET_TARGET_BEFORE=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
+#: 4835-dialogue-02.mod:4
+msgid "Who let this /INSULT/ in?"
+msgstr ""
+

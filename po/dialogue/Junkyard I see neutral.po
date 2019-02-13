@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 55780-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 55780-Dialogue.mod:0
+msgid "A human customer, how many years has it been? And just look at the state of this place..."
+msgstr ""
+
+#. Id: 55781-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (55780-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#: 55781-Dialogue.mod:0
+msgid "How many times have I told you to clear out this junk, Dack? You're a hoarder..."
+msgstr ""
+
+#. Id: 55783-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55782-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Junkyard I see neutral
+#: 55783-Dialogue.mod:0
+msgid "This again?... I already told you I'd handle it. You really are an incessant nag..."
+msgstr ""
+
+#. Id: 55784-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (55783-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#: 55784-Dialogue.mod:0
+msgid "N... nag? How dare you use the N word on me! It's become a rat's nest, you know that? I saw a rat the size of my head in there last week..."
+msgstr ""
+
+#. Id: 55786-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (55784-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#: 55786-Dialogue.mod:0
+msgid "But fine, I shall nag no more. I'll burn what doesn't sell, rats be damned."
+msgstr ""
+
+#. Id: 55787-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (55786-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Junkyard I see neutral
+#: 55787-Dialogue.mod:0
+msgid "*Gasp*... You would never do such a thing...."
+msgstr ""
+
+#. Id: 55788-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (55787-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#: 55788-Dialogue.mod:0
+msgid "Better to be a pyromaniac than to be a 'nag', wouldn't you say?"
+msgstr ""
+
+#. Id: 56011-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Junkyard I see neutral
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 56011-Dialogue.mod:0
+msgid "A new customer? And just look at the state of this place..."
+msgstr ""
+

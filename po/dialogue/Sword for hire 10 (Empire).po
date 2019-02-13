@@ -1,0 +1,212 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41200-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Empire)
+#: 41200-Dialogue.mod:0
+msgid "You looking at my scar? It's rude to stare, you know... But since I'm in a cheery mood, buy me a drink and I'll tell you how I got it..."
+msgstr ""
+
+#. Id: 41201-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41200-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 41184-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41182-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#: 41201-Dialogue.mod:0 41184-Dialogue.mod:0
+msgid "How?"
+msgstr ""
+
+#. Id: 41202-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41201-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Empire)
+#: 41202-Dialogue.mod:0
+msgid "Honestly? Opened a can with my sword...slipped and nearly took my eye out. Usually though, I tell people I fought a ninja lord or something. I mean, I do twilight as a hitman and all."
+msgstr ""
+
+#. Id: 41203-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 41186-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#: 41203-Dialogue.mod:0 41186-Dialogue.mod:0
+msgid "You still fight? Want to make some Cats?"
+msgstr ""
+
+#. Id: 41207-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41203-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 41187-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41186-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Swamper)
+#: 41207-Dialogue.mod:0 41187-Dialogue.mod:0
+msgid "Not...professionally. But I freelance, so to speak. And uh, well...for 6000 cats, I'll cut down who you want, when you want."
+msgstr ""
+
+#. Id: 41208-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41207-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 41188-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41187-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 41208-Dialogue.mod:0 41188-Dialogue.mod:0
+msgid "I like your style. Fall in."
+msgstr ""
+
+#. Id: 41209-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41207-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 41189-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41187-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#: 41209-Dialogue.mod:0 41189-Dialogue.mod:0
+msgid "Actually, forget we ever talked."
+msgstr ""
+
+#. Id: 41210-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41207-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#. Id: 41190-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41187-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
+#: 41210-Dialogue.mod:0 41190-Dialogue.mod:0
+msgid "I just...I just need to go grab some more money."
+msgstr ""
+
+#. Id: 41204-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41202-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 41191-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41185-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Swamper)
+#: 41204-Dialogue.mod:0 41191-Dialogue.mod:0
+msgid "Wow, that's messed up. I'm out."
+msgstr ""
+
+#. Id: 41205-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41200-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#: 41205-Dialogue.mod:0
+msgid "All I want to know is if you can fight and if you like Cats."
+msgstr ""
+
+#. Id: 41206-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41200-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#: 41206-Dialogue.mod:0
+msgid "I wasn't staring... /YUCK/, and I'm not interested either..."
+msgstr ""
+
+#. Id: 41215-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Empire)
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. Id: 18123-Recruits Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
+#: 41215-Dialogue.mod:0 18123-Recruits?Dialogue.mod:4
+msgid "So. You changed your mind."
+msgstr ""
+
+#. Id: 41218-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41215-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#. Id: 18125-Recruits Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
+#: 41218-Dialogue.mod:0 18125-Recruits?Dialogue.mod:3
+msgid "Had a change of heart. You're hired."
+msgstr ""
+
+#. Id: 41219-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41218-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 18129-Recruits Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (18125-Recruits Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: hire me 2500
+#: 41219-Dialogue.mod:0 18129-Recruits?Dialogue.mod:0
+msgid "Then let's get going"
+msgstr ""
+
+#. Id: 41220-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41215-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 10 (Empire)
+#. Id: 18126-Recruits Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18123-Recruits Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: hire me 2500
+#: 41220-Dialogue.mod:0 18126-Recruits?Dialogue.mod:2
+msgid "Forget it, sorry to bother you"
+msgstr ""
+

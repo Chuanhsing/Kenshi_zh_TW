@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 43448-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 60287-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43448-Dialogue.mod:0 60287-Dialogue.mod:0
+msgid "I've taken countless beatings from my so-called holy brothers..."
+msgstr ""
+
+#. Id: 43449-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60288-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60287-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43449-Dialogue.mod:0 60288-Dialogue.mod:0
+msgid "Now I'm returning the favour!"
+msgstr ""
+
+#. Id: 43449-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43448-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43449-Dialogue.mod:1
+msgid "Let's just call this retribution!"
+msgstr ""
+
+#. Id: 43450-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60289-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43450-Dialogue.mod:0 60289-Dialogue.mod:0
+msgid "The Flotsam Ninja will take back the country of Okran!"
+msgstr ""
+
+#. Id: 43451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43450-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60290-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60289-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43451-Dialogue.mod:0 60290-Dialogue.mod:0
+msgid "And we'll start by wiping out Phoenix' lackeys like you!"
+msgstr ""
+
+#. Id: 43452-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#. Id: 60291-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43452-Dialogue.mod:0 60291-Dialogue.mod:0
+msgid "The holy nation man oppresses us... but now you'll feel our fury! "
+msgstr ""
+
+#. Id: 43452-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 43452-Dialogue.mod:1
+msgid "The holy nation has oppressed women for long enough, now you'll feel our wrath! "
+msgstr ""
+
+#. Id: 43453-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60292-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43453-Dialogue.mod:0 60292-Dialogue.mod:0
+msgid "This is the age of the Flotsam Ninja! "
+msgstr ""
+
+#. Id: 43453-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (43452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60292-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (60291-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43453-Dialogue.mod:1 60292-Dialogue.mod:1
+msgid "This is the new age of Flotsam!"
+msgstr ""
+
+#. Id: 43453-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (43452-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43453-Dialogue.mod:2
+msgid "Your precious Phoenix will fall! That old geezer can eat my sword!"
+msgstr ""
+
+#. Id: 43456-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 43456-Dialogue.mod:0
+msgid "The Holy Nation will fall! And it will fall at the hands of woman!"
+msgstr ""
+
+#. Id: 43460-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43460-Dialogue.mod:0
+msgid "Suuuuure, burn the women, burn the Shek, burn the Skeletons in the name of Okran..."
+msgstr ""
+
+#. Id: 43461-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43460-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43461-Dialogue.mod:0
+msgid "Whatever the precious pure Phoenix says, goes, right?"
+msgstr ""
+
+#. Id: 43467-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (43461-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43467-Dialogue.mod:0
+msgid "Well let's see how you do outside of the safety of your city!"
+msgstr ""
+
+#. Id: 43462-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60293-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 43462-Dialogue.mod:0 60293-Dialogue.mod:0
+msgid "Blind faith and spilled blood... The Holy Nation's reign is coming to an end!"
+msgstr ""
+
+#. Id: 43463-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (43462-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#: 43463-Dialogue.mod:0
+msgid "In the name of all women and all the oppressed, I'm gonna kick your asses! "
+msgstr ""
+
+#. Id: 50019-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60267-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 50019-Dialogue.mod:0 60267-Dialogue.mod:9
+msgid "All things come to an end, and the Holy Nation's is now!"
+msgstr ""
+
+#. Id: 50019-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60267-Dialogue.mod
+#. -- Index: 0.10
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 50019-Dialogue.mod:1 60267-Dialogue.mod:10
+msgid "Down with the Phoenix! Down with the Holy Nation!"
+msgstr ""
+
+#. Id: 50019-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60267-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 50019-Dialogue.mod:2 60267-Dialogue.mod:11
+msgid "Death to the 'pure bloods' and the Phoenix' crusade!"
+msgstr ""
+
+#. Id: 50019-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60267-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 50019-Dialogue.mod:3 60267-Dialogue.mod:12
+msgid "Long live Flotsam! Death to the Phoenix!"
+msgstr ""
+
+#. Id: 50019-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam attack 1
+#. Id: 60267-Dialogue.mod
+#. -- Index: 0.13
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Flotsam sees player enemy
+#: 50019-Dialogue.mod:4 60267-Dialogue.mod:13
+msgid "The reign of the Phoenix is over! Now is the age of the Flotsam Ninja!"
+msgstr ""
+

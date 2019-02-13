@@ -1,0 +1,210 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98721-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98723-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98722-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98725-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98724-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98727-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98726-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98735-Dialogue.mod
+#. -- Index: 14.0
+#. -- Parent line: 13 (98734-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 57292-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Big grim Hounds cheer
+#: 98721-Dialogue.mod:0 98723-Dialogue.mod:0 98725-Dialogue.mod:0 98727-Dialogue.mod:0 98735-Dialogue.mod:0 57292-Dialogue.mod:2
+msgid "*Howl*"
+msgstr ""
+
+#. Id: 98722-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98721-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98728-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98727-Dialogue.mod)
+#. -- Speaker: Extra 2 (3)
+#. -- Group title: Swamp hound visits ally last time
+#: 98722-Dialogue.mod:0 98728-Dialogue.mod:0
+msgid "*Howwwwl*"
+msgstr ""
+
+#. Id: 98729-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98728-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98729-Dialogue.mod:0
+msgid "HOUNDS!"
+msgstr ""
+
+#. Id: 98730-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98729-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98730-Dialogue.mod:0
+msgid "Ain't you hearin' your brothers howlin'?"
+msgstr ""
+
+#. Id: 98731-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (98730-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98731-Dialogue.mod:0
+msgid "Come talk to us already!"
+msgstr ""
+
+#. Id: 98733-Dialogue.mod
+#. -- Index: 12.0
+#. -- Parent line: 11 (98732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98733-Dialogue.mod:0
+msgid "Guess you're busy, eh?"
+msgstr ""
+
+#. Id: 98734-Dialogue.mod
+#. -- Index: 13.0
+#. -- Parent line: 12 (98733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98734-Dialogue.mod:0
+msgid "Talk to us next time."
+msgstr ""
+
+#. Id: 98736-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#. Id: 98748-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98736-Dialogue.mod:0 98748-Dialogue.mod:0
+msgid "Hoy, hounds!"
+msgstr ""
+
+#. Id: 98739-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98738-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamp hound visits ally last time
+#: 98739-Dialogue.mod:0
+msgid "Tell 'em I'm bustin' for a smoke."
+msgstr ""
+
+#. Id: 98740-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98739-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98740-Dialogue.mod:0
+msgid "GOT ANY SMOKES AROUND HERE?"
+msgstr ""
+
+#. Id: 98743-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (98742-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Swamp hound visits ally last time
+#: 98743-Dialogue.mod:0
+msgid "An' fish, ask 'em if they got any fish."
+msgstr ""
+
+#. Id: 98744-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98743-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98744-Dialogue.mod:0
+msgid "AND FISH?"
+msgstr ""
+
+#. Id: 98745-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98745-Dialogue.mod:0
+msgid "My hounds are hungry!"
+msgstr ""
+
+#. Id: 98746-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (98745-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98746-Dialogue.mod:0
+msgid "Hoy, you gonna come talk to us?"
+msgstr ""
+
+#. Id: 98750-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98749-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98750-Dialogue.mod:0
+msgid "Grim needs her cut!"
+msgstr ""
+
+#. Id: 98752-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (98751-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98752-Dialogue.mod:0
+msgid "Come on already!"
+msgstr ""
+
+#. Id: 98754-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98753-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98754-Dialogue.mod:0
+msgid "Gonna keep me waitin' in this bog?"
+msgstr ""
+
+#. Id: 98755-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (98754-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Swamp hound visits ally last time
+#: 98755-Dialogue.mod:0
+msgid "Fine."
+msgstr ""
+

@@ -1,0 +1,322 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 5021-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5021-gamedata.base:0
+msgid "What!?! Attacking /MEUS/!?!?"
+msgstr ""
+
+#. Id: 5021-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5021-gamedata.base:1
+msgid "/ARG/!! I'LL GUT YOU!"
+msgstr ""
+
+#. Id: 5021-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
+#: 5021-gamedata.base:3
+msgid "/ARG/!  HOW DARE YOU!?"
+msgstr ""
+
+#. Id: 5031-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5031-gamedata.base:1
+msgid "WWHHYYYYY?!?!?"
+msgstr ""
+
+#. Id: 5031-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
+#: 5031-gamedata.base:2
+msgid "WHY!? Why do you attack me!?!?"
+msgstr ""
+
+#. Id: 5033-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5033-gamedata.base:0
+msgid "Betrayal!!"
+msgstr ""
+
+#. Id: 5033-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5033-gamedata.base:1
+msgid "Traitorous /BASTARD/!"
+msgstr ""
+
+#. Id: 5033-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5033-gamedata.base:3
+msgid "Slippery /BASTARD/!"
+msgstr ""
+
+#. Id: 5033-gamedata.base
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
+#: 5033-gamedata.base:4
+msgid "Greasy /BASTARD/!"
+msgstr ""
+
+#. Id: 5041-gamedata.base
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 5041-gamedata.base:0
+msgid "/IWEARE/ doomed!"
+msgstr ""
+
+#. Id: 5041-gamedata.base
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 5041-gamedata.base:1
+msgid "Uh oh, now /IWEARE/ screwed."
+msgstr ""
+
+#. Id: 5041-gamedata.base
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 5041-gamedata.base:2
+msgid "/IWEARE/ screwed!"
+msgstr ""
+
+#. Id: 5041-gamedata.base
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#: 5041-gamedata.base:3
+msgid "/IWEARE/ in trouble."
+msgstr ""
+
+#. Id: 8564-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8564-Dialogue.mod:0
+msgid "Hey!? You'll pay dearly for this!"
+msgstr ""
+
+#. Id: 8564-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8564-Dialogue.mod:2
+msgid "Tch!? I'll get you for this!"
+msgstr ""
+
+#. Id: 8564-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8564-Dialogue.mod:3
+msgid "Huh?! Sulky /BASTARD/!"
+msgstr ""
+
+#. Id: 8564-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8564-Dialogue.mod:4
+msgid "Uh?! Crabby /BASTARD/!"
+msgstr ""
+
+#. Id: 8564-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#: 8564-Dialogue.mod:5
+msgid "Tch! Cranky /BASTARD/!"
+msgstr ""
+
+#. Id: 8566-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8566-Dialogue.mod:0
+msgid "Oh, you want a fight?!"
+msgstr ""
+
+#. Id: 8566-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8566-Dialogue.mod:1
+msgid "The hell crawled up YOUR ass 'n died?!"
+msgstr ""
+
+#. Id: 8566-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8566-Dialogue.mod:2
+msgid "Hahh?! It's like THAT is it?!"
+msgstr ""
+
+#. Id: 8566-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8566-Dialogue.mod:3
+msgid "Overreacting much?!"
+msgstr ""
+
+#. Id: 8566-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#: 8566-Dialogue.mod:4
+msgid "The hell're you so pissy about?!"
+msgstr ""
+
+#. Id: 8567-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (8566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#: 8567-Dialogue.mod:0
+msgid "Come on then, I'll /SLITYOURTHROAT/!"
+msgstr ""
+
+#. Id: 8567-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (8566-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#: 8567-Dialogue.mod:1
+msgid "Bring it on then, I'll /SLITYOURTHROAT/!"
+msgstr ""
+
+#. Id: 8568-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 8568-Dialogue.mod:0
+msgid "Whoa, take it easy!"
+msgstr ""
+
+#. Id: 8568-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 8568-Dialogue.mod:2
+msgid "Wait, wait, wait!!"
+msgstr ""
+
+#. Id: 8568-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 8568-Dialogue.mod:3
+msgid "Hey, /WHATTHEFUCK/!"
+msgstr ""
+
+#. Id: 8572-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#: 8572-Dialogue.mod:0
+msgid "/AAH/! Damn you, /BASTARD/!"
+msgstr ""
+
+#. Id: 8572-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#: 8572-Dialogue.mod:2
+msgid "/AAH/! Goddamn /INSULT/!"
+msgstr ""
+
+#. Id: 8572-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: combat interrupt by target SWAMPER
+#: 8572-Dialogue.mod:3
+msgid "/OI/! /WTF/!"
+msgstr ""
+

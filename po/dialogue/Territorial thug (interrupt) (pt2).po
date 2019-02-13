@@ -1,0 +1,923 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 9865-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9865-Dialogue.mod:0
+msgid "You're in Stone Rat /TURF/, /RUNT/, an' if you wanna stick around, you're gonna need to know who's in charge! I run this patch and I run... you!"
+msgstr ""
+
+#. Id: 9866-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9866-Dialogue.mod:0
+msgid "I didn't mean to trespass"
+msgstr ""
+
+#. Id: 9870-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9866-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9870-Dialogue.mod:0
+msgid "I'm famous 'round these parts and everyone knows to show me respect. You'd be wise to do so too, unless you want a /SAVAGE/ /BEATING/ from me and my clan..."
+msgstr ""
+
+#. Id: 9872-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9870-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 10092-Dialogue (7).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9913-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9872-Dialogue.mod:0 10092-Dialogue?(7).mod:0
+msgid "So... what do you want from me exactly?"
+msgstr ""
+
+#. Id: 9873-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9870-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
+#: 9873-Dialogue.mod:0
+msgid "Here, a gift... Please don't beat me"
+msgstr ""
+
+#. Id: 9874-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9873-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9874-Dialogue.mod:0
+msgid "That's a start. Looks like you're a smart learnin' /RUNT/. Alright, keep your head down and don't get in my /FUCKING/ way..."
+msgstr ""
+
+#. Id: 9875-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9884-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (9883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9875-Dialogue.mod:0 9884-Dialogue.mod:1
+msgid "Of course..."
+msgstr ""
+
+#. Id: 9877-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9877-Dialogue.mod:0
+msgid "I'll stay out of your way, I promise."
+msgstr ""
+
+#. Id: 9877-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9874-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9877-Dialogue.mod:1
+msgid "I won't step on your toes, I promise."
+msgstr ""
+
+#. Id: 18186-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9870-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18186-Dialogue.mod:0
+msgid "Right, I understand..."
+msgstr ""
+
+#. Id: 18187-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9870-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18187-Dialogue.mod:0
+msgid "Okay, note to self: Respect Meat Head"
+msgstr ""
+
+#. Id: 18188-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18187-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18188-Dialogue.mod:0
+msgid "'Meat Head'?! The hell! You havin' a laugh, huh, /BOY/? You makin' fun of me?!"
+msgstr ""
+
+#. Id: 48798-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18188-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 48798-Dialogue.mod:0
+msgid "You disrespect me, you disrespect the Stone Rats!"
+msgstr ""
+
+#. Id: 9867-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9867-Dialogue.mod:0
+msgid "Haha, cute"
+msgstr ""
+
+#. Id: 9867-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9867-Dialogue.mod:1
+msgid "/QUICKLAUGH/, precious"
+msgstr ""
+
+#. Id: 9867-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9867-Dialogue.mod:3
+msgid "I don't care, go pester somebody else"
+msgstr ""
+
+#. Id: 9867-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9867-Dialogue.mod:4
+msgid "Go bother someone who cares"
+msgstr ""
+
+#. Id: 9913-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9867-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9913-Dialogue.mod:0
+msgid ".../RUNT/, you better show me some respsect, else I'm gonna give you a /SAVAGE/ /BEATING/ right here. Everyone 'round these parts knows to keep their traps shut and RESPECT the Stone Rats!"
+msgstr ""
+
+#. Id: 9914-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9913-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9914-Dialogue.mod:0
+msgid "Ummm.... Nah"
+msgstr ""
+
+#. Id: 48800-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (9914-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 48800-Dialogue.mod:0
+msgid "You're as dumb as you look!"
+msgstr ""
+
+#. Id: 9878-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (10092-Dialogue (7).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9878-Dialogue.mod:0
+msgid "Show me your respect. Bow to me. Dance for me. Surprise me"
+msgstr ""
+
+#. Id: 9879-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9879-Dialogue.mod:0
+msgid "Er... ok (Attempt to dance)"
+msgstr ""
+
+#. Id: 9883-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9883-Dialogue.mod:0
+msgid "/LAUGH/! Okay, okay, stop already! You're killin' me! You can go, come back and give me another dance again though, yeah? /LAUGH/"
+msgstr ""
+
+#. Id: 9883-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (9879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9883-Dialogue.mod:1
+msgid "/LAUGH/! Nice effort, you pass! /LAUGH/, whew this is too much, I can't breath"
+msgstr ""
+
+#. Id: 9883-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (9879-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9883-Dialogue.mod:2
+msgid "/LAUGH/, mercy! Ahh... /LAUGH/! Just brilliant, I like you. Go on then, run along"
+msgstr ""
+
+#. Id: 9886-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (9883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9886-Dialogue.mod:1
+msgid "You're too generous."
+msgstr ""
+
+#. Id: 9887-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9883-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9887-Dialogue.mod:0
+msgid "Glad you liked it."
+msgstr ""
+
+#. Id: 9880-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9880-Dialogue.mod:0
+msgid "Erm... (Do a sexy dance)"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:0
+msgid "Urrgh! Stop, stop, stop! I ain't into /BROADS/, fuck... go on, get outta here, /PERVERT/"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:1
+msgid "Whoooa! No, stop that, I ain't into that! Shit, what's wrong with you? Go on, I'll let you go, just get outta here you're embarrassing me"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:2
+msgid "Whaaat! Whoa, stop, I ain't into that shit! Goddammit, what's wrong with you? How creepy... Go on, I'll let you off, just get outta here"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.3
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:3
+msgid "Augh, goddamn. I don't wanna see that, go on, get outta here"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.4
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:4
+msgid "What are ya doing? /WTF/ is that?... Look, just go. You pass, now get outta here, this is just wierd"
+msgstr ""
+
+#. Id: 9888-Dialogue.mod
+#. -- Index: 6.5
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9888-Dialogue.mod:5
+msgid "... You know I ain't into /BROADS/, right?... Just stop, you're creepin' me out. Go on, you're free to go, get outta here. "
+msgstr ""
+
+#. Id: 9893-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9893-Dialogue.mod:0
+msgid "/DANG/! Alright! Whew, 10 out of 10..."
+msgstr ""
+
+#. Id: 9893-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9893-Dialogue.mod:1
+msgid "Alriggght! Yeah! Whooo! Nice, nice, nice..."
+msgstr ""
+
+#. Id: 9893-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (9880-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9893-Dialogue.mod:2
+msgid "Oh /DANG/! Shake it, shake it! Oh good show..."
+msgstr ""
+
+#. Id: 9894-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9894-Dialogue.mod:0
+msgid "Glad you enjoyed it."
+msgstr ""
+
+#. Id: 9895-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9894-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9895-Dialogue.mod:0
+msgid "Mmhm. Make sure you come back again, /SWEETCHEEKS/"
+msgstr ""
+
+#. Id: 9898-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9893-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9898-Dialogue.mod:0
+msgid "You're too kind..."
+msgstr ""
+
+#. Id: 9900-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9899-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9900-Dialogue.mod:0
+msgid "Mmm mm! Come back again now, /SWEETCHEEKS/"
+msgstr ""
+
+#. Id: 9881-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9881-Dialogue.mod:0
+msgid "Right (/GROVEL/)"
+msgstr ""
+
+#. Id: 9901-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9881-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9901-Dialogue.mod:0
+msgid "Good. Know you place. I run this turf... Now get outta here"
+msgstr ""
+
+#. Id: 9882-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9882-Dialogue.mod:0
+msgid "I won't dishonour myself just to feed your ego"
+msgstr ""
+
+#. Id: 9882-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9882-Dialogue.mod:1
+msgid "I won't disgrace myself for the sake of your ego"
+msgstr ""
+
+#. Id: 9882-Dialogue.mod
+#. -- Index: 5.2
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9882-Dialogue.mod:2
+msgid "I will not degrade myself for you"
+msgstr ""
+
+#. Id: 9902-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9902-Dialogue.mod:0
+msgid "... You'd choose a /BEATING/ over a quick little bow? You'd choose to make enemies of the Stone Rats? You really are a dumbass"
+msgstr ""
+
+#. Id: 9902-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (9882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9902-Dialogue.mod:1
+msgid "... You'd prefer a pair of broken legs over an simple little bow? You're messin' with the Stone Rats when you mess with me, /BOY/... You really are stupider than you look..."
+msgstr ""
+
+#. Id: 9902-Dialogue.mod
+#. -- Index: 6.2
+#. -- Parent line: 5 (9882-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9902-Dialogue.mod:2
+msgid "... /WTF/, are you really that dumb?... I'm one of the STONE RATS. I eat /RUNT/s like you for breakfast, you don't wanna cross me and my clan!"
+msgstr ""
+
+#. Id: 9903-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9903-Dialogue.mod:0
+msgid "... Fine (Kneel down to the floor)"
+msgstr ""
+
+#. Id: 9904-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (9902-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9904-Dialogue.mod:0
+msgid "... Fine (Bow your head)"
+msgstr ""
+
+#. Id: 9905-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9905-Dialogue.mod:0
+msgid "More!"
+msgstr ""
+
+#. Id: 9905-Dialogue.mod
+#. -- Index: 8.1
+#. -- Parent line: 7 (9904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9905-Dialogue.mod:1
+msgid "That ain't gonna cut it. Lower!"
+msgstr ""
+
+#. Id: 9905-Dialogue.mod
+#. -- Index: 8.2
+#. -- Parent line: 7 (9904-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9905-Dialogue.mod:2
+msgid "Not enough. More."
+msgstr ""
+
+#. Id: 9907-Dialogue.mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (9905-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9907-Dialogue.mod:0
+msgid "(Kneel down to the floor)"
+msgstr ""
+
+#. Id: 9909-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9909-Dialogue.mod:0
+msgid "Why, you!!! I'll get you! Outside town, just you wait!"
+msgstr ""
+
+#. Id: 9910-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (9909-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9910-Dialogue.mod:0
+msgid "You're DEAD! Just you wait..."
+msgstr ""
+
+#. Id: 48805-Dialogue.mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (9908-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 48805-Dialogue.mod:0
+msgid "Why you!!!"
+msgstr ""
+
+#. Id: 48806-Dialogue.mod
+#. -- Index: 11.0
+#. -- Parent line: 10 (48805-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 48806-Dialogue.mod:0
+msgid "You've made yourself a powerful enemy in the Stone Rats!"
+msgstr ""
+
+#. Id: 9912-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (9906-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9961-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (9957-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9912-Dialogue.mod:0 9961-Dialogue.mod:0
+msgid "Fine. I'll get you, just you wait"
+msgstr ""
+
+#. Id: 18191-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (9878-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18191-Dialogue.mod:0
+msgid "No way, screw that!"
+msgstr ""
+
+#. Id: 18212-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9913-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18212-Dialogue.mod:0
+msgid "Then fight me. Bullies like you need putting in their place"
+msgstr ""
+
+#. Id: 18213-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (18212-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18213-Dialogue.mod:0
+msgid "... Fine! /STUPID/ /RUNT/, bad choice! I'll show you not to mess with me!"
+msgstr ""
+
+#. Id: 18214-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (18213-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 18214-Dialogue.mod:0
+msgid "Outside! I'll be waitin, for you, /BOY/!"
+msgstr ""
+
+#. Id: 9868-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9868-Dialogue.mod:0
+msgid "I was just passing through..."
+msgstr ""
+
+#. Id: 9868-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (9865-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9868-Dialogue.mod:1
+msgid "I'm just travelling through..."
+msgstr ""
+
+#. Id: 9918-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. Id: 9965-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 9918-Dialogue.mod:0 9965-Dialogue.mod:0
+msgid "Augh!!! What the-"
+msgstr ""
+
+#. Id: 9918-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. Id: 9965-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (9945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 9918-Dialogue.mod:1 9965-Dialogue.mod:1
+msgid "Aurgh!... Why???"
+msgstr ""
+
+#. Id: 9918-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (9869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
+#. Id: 9965-Dialogue.mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (9945-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=0, Tag: -1
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#: 9918-Dialogue.mod:2 9965-Dialogue.mod:2
+msgid "Rrrgh! .. Wh- wh-"
+msgstr ""
+
+#. Id: 9922-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 9922-Dialogue.mod:0
+msgid "I run this town now boy, watch your mouth!"
+msgstr ""
+
+#. Id: 9922-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
+#: 9922-Dialogue.mod:1
+msgid "I'M in town now, boy. Get used to it."
+msgstr ""
+
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9936-Dialogue.mod:1
+msgid "R-right..."
+msgstr ""
+
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9936-Dialogue.mod:2
+msgid "I-I'm sorry..."
+msgstr ""
+
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9936-Dialogue.mod:3
+msgid "O-okay..."
+msgstr ""
+
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9936-Dialogue.mod:4
+msgid "S-sorry..."
+msgstr ""
+
+#. Id: 9936-Dialogue.mod
+#. -- Index: 4.5
+#. -- Parent line: 3 (9922-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9936-Dialogue.mod:5
+msgid "Uh, uhuh!"
+msgstr ""
+
+#. Id: 9924-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 9924-Dialogue.mod:0
+msgid "I run this town now woman, watch your mouth!"
+msgstr ""
+
+#. Id: 9924-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. -- Condition: Who: ME, Condition: IS_FEMALE=1, Tag: -1
+#: 9924-Dialogue.mod:1
+msgid "I'M in town now, woman. Get used to it."
+msgstr ""
+
+#. Id: 9926-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9926-Dialogue.mod:1
+msgid "You dare talk to me like that, /WORM/..."
+msgstr ""
+
+#. Id: 9927-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9927-Dialogue.mod:0
+msgid "Calm yourself."
+msgstr ""
+
+#. Id: 9927-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9927-Dialogue.mod:3
+msgid "Hit the road."
+msgstr ""
+
+#. Id: 9927-Dialogue.mod
+#. -- Index: 3.4
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9927-Dialogue.mod:4
+msgid "Simmer down."
+msgstr ""
+
+#. Id: 9927-Dialogue.mod
+#. -- Index: 3.6
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9927-Dialogue.mod:6
+msgid "Settle down."
+msgstr ""
+
+#. Id: 9927-Dialogue.mod
+#. -- Index: 3.7
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9927-Dialogue.mod:7
+msgid "Be quiet."
+msgstr ""
+
+#. Id: 9928-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9971-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9965-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9928-Dialogue.mod:0 9971-Dialogue.mod:0
+msgid "I'm not in the mood for your crap!"
+msgstr ""
+
+#. Id: 9928-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9928-Dialogue.mod:1
+msgid "I'm not in the mood for games!"
+msgstr ""
+
+#. Id: 9928-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9918-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9928-Dialogue.mod:2
+msgid "Go find someone else to play with!"
+msgstr ""
+
+#. Id: 9929-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (9869-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#: 9929-Dialogue.mod:0
+msgid "... You just slapped me... /WTF/, YOU JUST SLAPPED ME! "
+msgstr ""
+
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 15130-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (15129-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me Outlaw 3000
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9932-Dialogue.mod:0 15130-Dialogue.mod:0 9973-Dialogue.mod:0
+msgid "You're goin' down!"
+msgstr ""
+
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9962-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (48810-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9932-Dialogue.mod:1 9962-Dialogue.mod:0 9973-Dialogue.mod:1
+msgid "You're a dead /MAN2/!"
+msgstr ""
+
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9932-Dialogue.mod:2 9973-Dialogue.mod:2
+msgid "Oh that's IT! Right here, right now!"
+msgstr ""
+
+#. Id: 9932-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9929-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (interrupt) (pt2)
+#. Id: 9973-Dialogue.mod
+#. -- Index: 3.3
+#. -- Parent line: 2 (9972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Territorial thug (Dancemonkey pt4)
+#: 9932-Dialogue.mod:3 9973-Dialogue.mod:3
+msgid "I'll kill you! Right here, I'll kill you!"
+msgstr ""
+

@@ -1,0 +1,252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 17923-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17923-Dialogue.mod:0
+msgid "Survival is a drag. Yet we still cling to it."
+msgstr ""
+
+#. Id: 17923-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17923-Dialogue.mod:1
+msgid "Built and born to survive. It's what we do."
+msgstr ""
+
+#. Id: 17923-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17923-Dialogue.mod:2 18000-Dialogue.mod:5
+msgid "Still standing..."
+msgstr ""
+
+#. Id: 17999-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (17923-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#: 17999-Dialogue.mod:0
+msgid "Okay, I'm ready to go"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:0
+msgid "Why do we keep on fighting?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:1
+msgid "We keep struggling on... but why?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:2
+msgid "I'm... alive?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 12951-Dialogue (11) (2).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Merc get up peace
+#. -- Condition: My Sub-Race(s): Greenlander or Shek
+#: 17926-Dialogue.mod:3 12951-Dialogue?(11)?(2).mod:0
+msgid "Is it over?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:4 18000-Dialogue.mod:4
+msgid "Peace..."
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:5
+msgid "Why do I still struggle on to survive?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:6
+msgid "I'm alive... but why?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:7
+msgid "I... made it...?"
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:8
+msgid "Is this death? I wouldn't know..."
+msgstr ""
+
+#. Id: 17926-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: My Race(s): Hive Prince
+#: 17926-Dialogue.mod:9
+msgid "Guess I survived"
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:0
+msgid "Still alive"
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:1
+msgid "Never give up, I must survive. Why? Hell if I know"
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:2
+msgid "We live to survive..."
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:3
+msgid "And so the hunger to survive keeps on fueling me..."
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:6
+msgid "I'm alive, that's all that matters... "
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:7
+msgid "I survived, that's all that matters... I think"
+msgstr ""
+
+#. Id: 18000-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Ronin get up peace
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: My Race(s): Hive Prince
+#: 18000-Dialogue.mod:8
+msgid "Alive to see another day... now what?"
+msgstr ""
+

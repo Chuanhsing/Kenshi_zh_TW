@@ -1,0 +1,463 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11574-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: COLD_CRUEL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#: 11574-Dialogue?(10).mod:0
+msgid "Fight me, /PLAYERNAME/. I want to see your skills with my own two eyes."
+msgstr ""
+
+#. Id: 11575-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 10970-Dialogue (10).mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Battle cries shek
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. Id: 13777-Escapes.mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (13771-Escapes.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Escaped thug
+#: 11575-Dialogue?(10).mod:0 10970-Dialogue?(10).mod:11 13777-Escapes.mod:4
+msgid "Let's do this"
+msgstr ""
+
+#. Id: 11575-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11575-Dialogue?(10).mod:1
+msgid "Let's fight"
+msgstr ""
+
+#. Id: 11580-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15468-Dialogue.mod
+#. -- Index: 7.1
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 11580-Dialogue?(10).mod:0 15468-Dialogue.mod:1
+msgid "Admirable"
+msgstr ""
+
+#. Id: 11580-Dialogue (10).mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (11575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 11752-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11751-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack Player low rel
+#: 11580-Dialogue?(10).mod:1 11752-Dialogue?(10).mod:0
+msgid "Rarrrrgh!"
+msgstr ""
+
+#. Id: 11580-Dialogue (10).mod
+#. -- Index: 2.2
+#. -- Parent line: 1 (11575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#: 11580-Dialogue?(10).mod:2
+msgid "Hyahhhh!"
+msgstr ""
+
+#. Id: 11580-Dialogue (10).mod
+#. -- Index: 2.3
+#. -- Parent line: 1 (11575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#: 11580-Dialogue?(10).mod:3
+msgid "Hrarrrrgh!"
+msgstr ""
+
+#. Id: 11580-Dialogue (10).mod
+#. -- Index: 2.4
+#. -- Parent line: 1 (11575-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15468-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
+#: 11580-Dialogue?(10).mod:4 15468-Dialogue.mod:0
+msgid "Commendable"
+msgstr ""
+
+#. Id: 11576-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11576-Dialogue?(10).mod:0
+msgid "You aren't worth my time"
+msgstr ""
+
+#. Id: 11576-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11576-Dialogue?(10).mod:1
+msgid "You aren't worthy of fighting"
+msgstr ""
+
+#. Id: 11576-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11576-Dialogue?(10).mod:2
+msgid "You're not worth it"
+msgstr ""
+
+#. Id: 11583-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11576-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 11597-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11595-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 5843-D-Dialogue.mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (5842-D-Dialogue.mod)
+#. -- Speaker: Extra 1 (2)
+#. -- Group title: Bandit Revenge I hate this guy
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 51595-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Admag
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. Id: 14764-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Sees someone stealing
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. Id: 19405-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 43745-Dialogue.mod
+#. -- Index: 0.9
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek shopkeeper
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 17622-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek sees player lockpicking
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#. Id: 51526-Dialogue.mod
+#. -- Index: 0.14
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek barman Last Stand
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
+#: 11583-Dialogue?(10).mod:0 11597-Dialogue?(10).mod:0 5843-D-Dialogue.mod:4 51595-Dialogue.mod:1 51595-Dialogue.mod:6 14764-Dialogue.mod:1 19405-Dialogue.mod:1 43745-Dialogue.mod:1 43745-Dialogue.mod:9 17622-Dialogue.mod:3 51526-Dialogue.mod:1 51526-Dialogue.mod:14
+msgid "Hrm?"
+msgstr ""
+
+#. Id: 11584-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11583-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#: 11584-Dialogue?(10).mod:0
+msgid "I'll prove you wrong, I'll make you bleed!"
+msgstr ""
+
+#. Id: 11577-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11574-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 11596-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15072-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (15057-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 19242-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (19238-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 700 Holy Nation Female
+#. Id: 19416-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19412-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom trait
+#. Id: 13299-Escapes.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (13283-Escapes.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me empire 700
+#. Id: 12700-Dialogue (11) (2).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (12691-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 12685-Dialogue (11) (2).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (12682-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 15044-Dialogue.mod
+#. -- Index: 3.2
+#. -- Parent line: 2 (15035-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 800
+#: 11577-Dialogue?(10).mod:0 11596-Dialogue?(10).mod:2 15072-Dialogue.mod:1 19242-Dialogue.mod:2 19416-Dialogue.mod:0 13299-Escapes.mod:1 12700-Dialogue?(11)?(2).mod:0 12685-Dialogue?(11)?(2).mod:0 15044-Dialogue.mod:2
+msgid "I'm not interested"
+msgstr ""
+
+#. Id: 11578-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11577-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15450-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (15449-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 11578-Dialogue?(10).mod:0 15450-Dialogue.mod:0
+msgid "Such cowardice"
+msgstr ""
+
+#. Id: 11579-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11578-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 11568-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11567-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high reputation
+#. Id: 19707-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (19705-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hire me shek engineer
+#: 11579-Dialogue?(10).mod:0 11568-Dialogue?(10).mod:0 19707-Dialogue.mod:0
+msgid "Disappointing"
+msgstr ""
+
+#. Id: 11588-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 11588-Dialogue?(10).mod:0
+msgid "Think yourself a hero, /PLAYERNAME/? I'll give you a REAL fight, Shek warrior style... Unless you're scared."
+msgstr ""
+
+#. Id: 11589-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 12173-Dialogue (10).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior still got fight
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
+#. Id: 15472-Dialogue.mod
+#. -- Index: 7.3
+#. -- Parent line: 6 (15466-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 11589-Dialogue?(10).mod:1 12173-Dialogue?(10).mod:6 15472-Dialogue.mod:3
+msgid "Hit me!"
+msgstr ""
+
+#. Id: 11595-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11595-Dialogue?(10).mod:0
+msgid "I'm not interested in brawling with thugs"
+msgstr ""
+
+#. Id: 11595-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11595-Dialogue?(10).mod:1
+msgid "I don't brawl with ruffians"
+msgstr ""
+
+#. Id: 11595-Dialogue (10).mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11595-Dialogue?(10).mod:2
+msgid "I'm not into thugster scraps"
+msgstr ""
+
+#. Id: 11598-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11597-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15426-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (15418-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#: 11598-Dialogue?(10).mod:0 15426-Dialogue.mod:1
+msgid "You dare to insult a Shek warrior!"
+msgstr ""
+
+#. Id: 11599-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11598-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15437-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 11599-Dialogue?(10).mod:0 15437-Dialogue.mod:0
+msgid "I'll tear out your spine!"
+msgstr ""
+
+#. Id: 11599-Dialogue (10).mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (11598-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15437-Dialogue.mod
+#. -- Index: 5.4
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 11599-Dialogue?(10).mod:1 15437-Dialogue.mod:4
+msgid "I'll rip off your head!"
+msgstr ""
+
+#. Id: 11599-Dialogue (10).mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (11598-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 11599-Dialogue (10).mod
+#. -- Index: 4.4
+#. -- Parent line: 3 (11598-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15437-Dialogue.mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 11599-Dialogue?(10).mod:2 11599-Dialogue?(10).mod:4 15437-Dialogue.mod:1
+msgid "I'll bleed you dry!"
+msgstr ""
+
+#. Id: 11599-Dialogue (10).mod
+#. -- Index: 4.3
+#. -- Parent line: 3 (11598-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek rogue high rep talk to
+#. Id: 15437-Dialogue.mod
+#. -- Index: 5.3
+#. -- Parent line: 4 (15426-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek attack
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#: 11599-Dialogue?(10).mod:3 15437-Dialogue.mod:3
+msgid "I'll smash your bones!"
+msgstr ""
+
+#. Id: 11596-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11596-Dialogue?(10).mod:0
+msgid "Not for me, thanks"
+msgstr ""
+
+#. Id: 11596-Dialogue (10).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (11588-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek rogue high rep talk to
+#: 11596-Dialogue?(10).mod:1
+msgid "No thanks, I'm no fighter"
+msgstr ""
+

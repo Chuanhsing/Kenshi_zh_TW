@@ -1,0 +1,124 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 98055-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 98056-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 98055-Dialogue.mod:0 98056-Dialogue.mod:0
+msgid "I heard you help the hungry..."
+msgstr ""
+
+#. Id: 98057-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (98055-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 98071-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver interrupt 2
+#: 98057-Dialogue.mod:0 98071-Dialogue.mod:0
+msgid "Can you spare any Cats?"
+msgstr ""
+
+#. Id: 98058-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (98057-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. Id: 64687-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (64686-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Noble prisoner
+#. Id: 6004-Dialogue.mod
+#. -- Index: 0.19
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: In cannibal cage
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 50064-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (50063-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shoo civilian
+#. Id: 7071-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (7069-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. Id: 14060-Dialogue (12).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt cannibal
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
+#. -- Condition: In town(s) of faction(s): Cannibals
+#. Id: 14079-Dialogue (12).mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Picking attempt slave
+#: 98058-Dialogue.mod:0 64687-Dialogue.mod:0 6004-Dialogue.mod:19 50064-Dialogue.mod:1 7071-Dialogue.mod:2 14060-Dialogue?(12).mod:0 14079-Dialogue?(12).mod:4
+msgid "Please..."
+msgstr ""
+
+#. Id: 98059-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (98058-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#: 98059-Dialogue.mod:0
+msgid "Help /MEUS/..."
+msgstr ""
+
+#. Id: 98061-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (98136-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#: 98061-Dialogue.mod:0
+msgid "Well I guess I heard wrong."
+msgstr ""
+
+#. Id: 98067-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (98066-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#: 98067-Dialogue.mod:0
+msgid "Take everything they've got!"
+msgstr ""
+
+#. Id: 98056-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Starver begs for food
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
+#: 98056-Dialogue.mod:1
+msgid "Friend..."
+msgstr ""
+

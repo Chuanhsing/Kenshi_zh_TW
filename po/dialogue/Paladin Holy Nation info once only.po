@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 49731-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin Holy Nation info once only
+#. -- Condition: In town(s) of faction(s): The Holy Nation
+#: 49731-Dialogue.mod:0
+msgid "/HOLYGREET/. Okran's light shines brightly today. A good omen."
+msgstr ""
+
+#. Id: 49732-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49731-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49732-Dialogue.mod:0
+msgid "Any travel advice you can give me?"
+msgstr ""
+
+#. Id: 49735-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49732-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49735-Dialogue.mod:0
+msgid "Venturing on a pilgrimage, brother? Well, it's best to stick to holy territory, the outer lands are infested with Narko's heretics that will try to decieve and tempt you into the darkness with them..."
+msgstr ""
+
+#. Id: 49746-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (49735-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49746-Dialogue.mod:0
+msgid "But if you must venture further, above all else you must avoid travelling north west. Only the most devilish monstrosities prowl there, a hundred times the size of a man, with the hunger of a rabid demon. The foolish treasure hunters are the only travellers to delve there, never to return. But, how tragic it is, there is nothing there worth searching for. There is no place for riches if Okran is already in your heart. "
+msgstr ""
+
+#. Id: 49733-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49731-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49733-Dialogue.mod:0
+msgid "Any tips on how to live more wholesomely for an Okranite newbie?"
+msgstr ""
+
+#. Id: 49747-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49733-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49747-Dialogue.mod:0
+msgid "Study the Scriptures of Light, meditate on them, pray to Okran and respect his holy servants with an open heart, brother. This is the way to a pious existence, for darkness preys on an undisciplined mind. As for duty, if you are blessed with the skills for it, you may carry out Okran's retribution directly by bringing marked heretics to the inquisitorium."
+msgstr ""
+
+#. Id: 49748-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49731-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49748-Dialogue.mod:0
+msgid "Greetings! Are you free to discuss the word of Narko? "
+msgstr ""
+
+#. Id: 49750-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (49748-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49750-Dialogue.mod:0
+msgid "The word of Narko?! Narko's minions have no place in our holy society!"
+msgstr ""
+
+#. Id: 49734-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (49731-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Paladin Holy Nation info once only
+#: 49734-Dialogue.mod:0
+msgid "Sorry, I have to go."
+msgstr ""
+

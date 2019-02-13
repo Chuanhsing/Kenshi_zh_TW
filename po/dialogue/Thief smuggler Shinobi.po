@@ -1,0 +1,250 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 51810-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=0, Tag: -1
+#: 51810-Dialogue.mod:0
+msgid "Talk to the boss if you wanna talk business."
+msgstr ""
+
+#. Id: 51810-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=0, Tag: -1
+#: 51810-Dialogue.mod:1
+msgid "Wanna do business? Then talk to the boss first."
+msgstr ""
+
+#. Id: 51810-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=0, Tag: -1
+#: 51810-Dialogue.mod:2
+msgid "Members only. If you want in, talk to the boss."
+msgstr ""
+
+#. Id: 51810-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=0, Tag: -1
+#: 51810-Dialogue.mod:3
+msgid "Talk to the boss."
+msgstr ""
+
+#. Id: 51811-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51811-Dialogue.mod:0
+msgid "New member, eh?... Well, unless you actually enjoy the inside of a jail cell knock that shifty look off your face, I can spot you a mile off. Anyway, down to business, whadd'ya got for me?"
+msgstr ""
+
+#. Id: 51815-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Target Race(s): Skeleton
+#: 51815-Dialogue.mod:0
+msgid "I'm a skeleton. This is my normal face..."
+msgstr ""
+
+#. Id: 51816-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51815-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#: 51816-Dialogue.mod:0
+msgid "Well ain't that unfortunate. "
+msgstr ""
+
+#. Id: 51829-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51816-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51829-Dialogue.mod:0
+msgid "I've nothing to trade, I'm leaving."
+msgstr ""
+
+#. Id: 51818-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51818-Dialogue.mod:0
+msgid "I didn't ask for advice."
+msgstr ""
+
+#. Id: 51830-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51818-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#: 51830-Dialogue.mod:0
+msgid "Then I hope you got some contraband for me. What have you got?"
+msgstr ""
+
+#. Id: 51817-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51817-Dialogue.mod:0
+msgid "What do you buy?"
+msgstr ""
+
+#. Id: 51821-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (51817-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#: 51821-Dialogue.mod:0
+msgid "Illegal goods that you can smuggle into the city, drugs, that kind of thing. But if you've got stolen loot you wanna fence talk to my friend here, that's his territory."
+msgstr ""
+
+#. Id: 51822-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51821-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51822-Dialogue.mod:0
+msgid "Where can I source these illegal goods?"
+msgstr ""
+
+#. Id: 51823-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (51822-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#: 51823-Dialogue.mod:0
+msgid "Well, that's your job, not mine..."
+msgstr ""
+
+#. Id: 51824-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51823-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#: 51824-Dialogue.mod:0
+msgid "*Sigh*... Alright newbie, if you're really that clueless try the swamps. You'll have a lot of competition there though."
+msgstr ""
+
+#. Id: 51825-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (51821-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51825-Dialogue.mod:0
+msgid "I think I have something to trade."
+msgstr ""
+
+#. Id: 51820-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51820-Dialogue.mod:0
+msgid "I'll show you, let's trade."
+msgstr ""
+
+#. Id: 51819-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51811-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51819-Dialogue.mod:0
+msgid "Nothing today."
+msgstr ""
+
+#. Id: 51812-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51812-Dialogue.mod:0
+msgid "Let's see what you got for me today..."
+msgstr ""
+
+#. Id: 51812-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51812-Dialogue.mod:1
+msgid "Whadd'ya got for me, /BROTHER/?"
+msgstr ""
+
+#. Id: 51812-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51812-Dialogue.mod:2
+msgid "Let's get down to business shall we?"
+msgstr ""
+
+#. Id: 51812-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51812-Dialogue.mod:3
+msgid "Bought in anything good?"
+msgstr ""
+
+#. Id: 51812-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Thief smuggler Shinobi
+#. -- Condition: Who: TARGET, Condition: FACTION_RANK=1, Tag: -1
+#: 51812-Dialogue.mod:4
+msgid "Got any smuggled goods to sell on?"
+msgstr ""
+
+#. Id: 51831-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (51812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51831-Dialogue.mod:0
+msgid "Take a look."
+msgstr ""
+
+#. Id: 51831-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (51812-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thief smuggler Shinobi
+#: 51831-Dialogue.mod:1
+msgid "I have something to trade."
+msgstr ""
+

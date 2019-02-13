@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 16799-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Prison break bandit
+#. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
+#. -- Condition: In town(s) of faction(s): The Holy Nation or Traders Guild or United Cities
+#: 16799-Dialogue.mod:0
+msgid "Alright! Got it..."
+msgstr ""
+
+#. Id: 16801-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (16799-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Prison break bandit
+#: 16801-Dialogue.mod:0
+msgid "Let's bust the hell out of here"
+msgstr ""
+

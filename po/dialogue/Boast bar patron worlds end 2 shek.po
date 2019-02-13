@@ -1,0 +1,201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 50827-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 50827-Dialogue.mod:0
+msgid "A new arrival I see? Come take a seat, have a drink, exchange stories. Me, I've crossed every border in the world and seen every city, you know? But the holy land folk, they're a tough crowd, that's for sure. Just about got to World's End in one piece last week..."
+msgstr ""
+
+#. Id: 50829-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50828-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50829-Dialogue.mod:0
+msgid "I'd been beaten and stripped right down to the kacks by bandits, right? And I'm starting to starve half to death, I'm not going to make it any longer so I've got no choice but to crawl up to the door of the holiest of holy towns themselves, Bad Teeth..."
+msgstr ""
+
+#. Id: 50830-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50831-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50830-Dialogue.mod:0
+msgid "Imagine that, a bare naked shek butt, blue as the day it was born, in a foreigner-hating holy nation town. They threw me in prison to rot. But hey, I finally got my fill of bread that night... Managed to make my escape during a commotion, who knows what the looneys would've done to me if I hadn't."
+msgstr ""
+
+#. Id: 50843-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50841-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 50850-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (50842-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50843-Dialogue.mod:0 50850-Dialogue.mod:0
+msgid "Yep, I've visited death's door more times than I can count, but it's all worth it in the end..."
+msgstr ""
+
+#. Id: 50844-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (50843-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50844-Dialogue.mod:0
+msgid "What doesn't kill you only makes you stronger... Safe travels, /OUTLANDER/."
+msgstr ""
+
+#. Id: 50842-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50830-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50842-Dialogue.mod:0
+msgid "Lucky escape. I'll drink to that."
+msgstr ""
+
+#. Id: 50858-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50830-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50858-Dialogue.mod:0
+msgid "Are you done yakking yet?"
+msgstr ""
+
+#. Id: 50832-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50829-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 41290-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41283-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire amateur
+#. Id: 18997-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (16535-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Empire terrorist hunt
+#. Id: 41362-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41352-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire wall man
+#. Id: 55160-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (55158-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Tech Hunter talk to
+#: 50832-Dialogue.mod:0 41290-Dialogue.mod:0 18997-Dialogue.mod:0 41362-Dialogue.mod:0 55160-Dialogue.mod:0
+msgid "(Walk away)"
+msgstr ""
+
+#. Id: 50857-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50832-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50857-Dialogue.mod:0
+msgid "Imagine that, a bare naked shek butt, blue as the day it was born, in a foreigner hating holy nation town..."
+msgstr ""
+
+#. Id: 50833-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50827-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50833-Dialogue.mod:0
+msgid "Yeah, great. Say, are you looking for work?"
+msgstr ""
+
+#. Id: 50836-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (50833-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50836-Dialogue.mod:0
+msgid "I'd been beaten and stripped right down to the kacks by bandits, right? And I'm starting to die of hunger, I'm not going to make it any longer so I've got no choice but to crawl up to the door of the one and only town, Bad Teeth..."
+msgstr ""
+
+#. Id: 50838-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50836-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50838-Dialogue.mod:0
+msgid "Uhh, that's not what I asked..."
+msgstr ""
+
+#. Id: 50840-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (50838-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50840-Dialogue.mod:0
+msgid "Imagine that, a bare naked shek butt, blue as the day it was born, in a holy nation town. They threw me in prison to rot. But hey, I finally got my fill of bread that night... Managed to make my escape during a commotion, who knows what the looneys would've done to me if I hadn't."
+msgstr ""
+
+#. Id: 50848-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50840-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50848-Dialogue.mod:0
+msgid "Are you finished?"
+msgstr ""
+
+#. Id: 50849-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (50840-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50849-Dialogue.mod:0
+msgid "Tell somebody who cares maybe..."
+msgstr ""
+
+#. Id: 50839-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (50836-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#: 50839-Dialogue.mod:0
+msgid "... I don't care. "
+msgstr ""
+
+#. Id: 50834-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (50827-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Boast bar patron worlds end 2 shek
+#. Id: 45045-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (45044-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Thug4
+#: 50834-Dialogue.mod:0 45045-Dialogue.mod:0
+msgid "What happened?"
+msgstr ""
+

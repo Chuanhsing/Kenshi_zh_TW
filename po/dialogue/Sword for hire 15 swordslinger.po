@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41327-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41327-Dialogue.mod:0
+msgid "All that work, the training, the toil, and master says to lay down my sword. These hands were made for killing. He means to waste my time!"
+msgstr ""
+
+#. Id: 41328-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41327-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41328-Dialogue.mod:0
+msgid "Why did your master say to put away the blade?"
+msgstr ""
+
+#. Id: 41329-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (41328-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41329-Dialogue.mod:0
+msgid "Peace! Train never to use one's skill, what a sham! There is no peace in this world, and if there is, it's forged, expelled of impurities. Master let those theives take our food, and when I got it back, he expelled me! What a fool."
+msgstr ""
+
+#. Id: 41330-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41329-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41330-Dialogue.mod:0
+msgid "Perhaps there was reason for his actions. Maybe it was his vision of peace."
+msgstr ""
+
+#. Id: 41331-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41330-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41331-Dialogue.mod:0
+msgid "Sure. But mine is different."
+msgstr ""
+
+#. Id: 41332-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (41331-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41332-Dialogue.mod:0
+msgid "I could use someone like you. Why don't you join up?"
+msgstr ""
+
+#. Id: 41333-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (41332-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41333-Dialogue.mod:0
+msgid "You don't strike me as someone afraid to make scars. You got the coin, you got the guy. 7500 Cats."
+msgstr ""
+
+#. Id: 41335-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41333-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41335-Dialogue.mod:0
+msgid "Heed your masters words. Leave the game behind."
+msgstr ""
+
+#. Id: 41336-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (41333-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#. -- Condition: Who: TARGET, Condition: PLAYERMONEY<7500, Tag: -1
+#: 41336-Dialogue.mod:0
+msgid "I don't have the funds."
+msgstr ""
+
+#. Id: 41340-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41329-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41340-Dialogue.mod:0
+msgid "You did the right thing. Thieves will never learn if you don't teach them."
+msgstr ""
+
+#. Id: 41342-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (41340-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41342-Dialogue.mod:0
+msgid "I was trained in combat. In war, you fight until you bring peace to your people, and your enemies."
+msgstr ""
+
+#. Id: 41341-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (41329-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41341-Dialogue.mod:0
+msgid "I honestly couldn't care less."
+msgstr ""
+
+#. Id: 41338-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41327-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41338-Dialogue.mod:0
+msgid "You're a swordsman? Want to join up?"
+msgstr ""
+
+#. Id: 41339-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41327-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Sword for hire 15 swordslinger
+#: 41339-Dialogue.mod:0
+msgid "Your whining is wasting my time."
+msgstr ""
+

@@ -1,0 +1,181 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 60594-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#. Id: 97432-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 60594-Dialogue.mod:1 97432-Dialogue.mod:0
+msgid "All slaves are owned and legally bound to the United Cities..."
+msgstr ""
+
+#. Id: 60594-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
+#. Id: 97432-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
+#: 60594-Dialogue.mod:2 97432-Dialogue.mod:1
+msgid "All slaves are property of the United Cities..."
+msgstr ""
+
+#. Id: 60648-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (60594-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 60648-Dialogue.mod:0
+msgid "And any slave sympathiser found to be hiding any workers..."
+msgstr ""
+
+#. Id: 60648-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (60594-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 60648-Dialogue.mod:1
+msgid "And any rebel found to be hiding any slaves..."
+msgstr ""
+
+#. Id: 60649-Dialogue.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (60648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 60649-Dialogue.mod:0
+msgid "Will be arrested for multiple crimes of theft and terrorism!"
+msgstr ""
+
+#. Id: 60649-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (60648-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 60649-Dialogue.mod:1
+msgid "Will be treated as an anti slave terrorist!"
+msgstr ""
+
+#. Id: 60650-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=0, Tag: -1
+#: 60650-Dialogue.mod:0
+msgid "Men: /SEIZE/ the terrorist/S/!"
+msgstr ""
+
+#. Id: 97419-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (60649-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97419-Dialogue.mod:0
+msgid "Let's go. The recovery division will deal with this."
+msgstr ""
+
+#. Id: 97420-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (97419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97420-Dialogue.mod:0
+msgid "Bloody anti-slavers..."
+msgstr ""
+
+#. Id: 97420-Dialogue.mod
+#. -- Index: 4.1
+#. -- Parent line: 3 (97419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97420-Dialogue.mod:1
+msgid "/GODDAMN/ anti-slavers..."
+msgstr ""
+
+#. Id: 97420-Dialogue.mod
+#. -- Index: 4.2
+#. -- Parent line: 3 (97419-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97420-Dialogue.mod:2
+msgid "/DIRTY/ slaver lovin' terrorists..."
+msgstr ""
+
+#. Id: 97421-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (97420-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97421-Dialogue.mod:0
+msgid "Stealing from the Empire..."
+msgstr ""
+
+#. Id: 97422-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97422-Dialogue.mod:0
+msgid "They'll get what's coming..."
+msgstr ""
+
+#. Id: 97422-Dialogue.mod
+#. -- Index: 6.1
+#. -- Parent line: 5 (97421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 97422-Dialogue.mod:1
+msgid "They won't get away with their thievery..."
+msgstr ""
+
+#. Id: 97423-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (97421-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: UC slave base visit announce --Unfinished--
+#: 97423-Dialogue.mod:0
+msgid "We will retake what is ours."
+msgstr ""
+

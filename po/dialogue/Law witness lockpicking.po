@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 14226-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 14226-Dialogue?(4).mod:1
+msgid "What are you doing there?!"
+msgstr ""
+
+#. Id: 14226-Dialogue (4).mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#: 14226-Dialogue?(4).mod:2
+msgid "You! What are you up to!?"
+msgstr ""
+
+#. Id: 14229-Dialogue (4).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 14229-Dialogue?(4).mod:0
+msgid "What are you sneaking around for?!"
+msgstr ""
+
+#. Id: 14229-Dialogue (4).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
+#. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
+#: 14229-Dialogue?(4).mod:1
+msgid "You sneak, what are you doing?!"
+msgstr ""
+
+#. Id: 14230-Dialogue (4).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14229-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#: 14230-Dialogue?(4).mod:0
+msgid "/HELLION/! Arrest /HIM/!"
+msgstr ""
+
+#. Id: 14230-Dialogue (4).mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (14229-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#: 14230-Dialogue?(4).mod:1
+msgid "Arrest that /HELLION/!"
+msgstr ""
+
+#. Id: 15595-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (14229-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#: 15595-Dialogue.mod:0
+msgid "A /TERRORIST/ from the outlands! /SEIZE/ /HIM/!"
+msgstr ""
+
+#. Id: 15595-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (14229-Dialogue (4).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#: 15595-Dialogue.mod:2
+msgid "A barbarian /TERRORIST/! Don't let /HIM/ get away!"
+msgstr ""
+
+#. Id: 14451-Dialogue (4).mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14451-Dialogue?(4).mod:5
+msgid "/HE/ won't escape! Get /HIM/!"
+msgstr ""
+
+#. Id: 14451-Dialogue (4).mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Law witness lockpicking
+#. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
+#: 14451-Dialogue?(4).mod:6
+msgid "Don't let /HIM/ get away! /SEIZE/ /HIM/!"
+msgstr ""
+

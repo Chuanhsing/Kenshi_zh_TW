@@ -1,0 +1,601 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 11256-Dialogue (10).mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11256-Dialogue?(10).mod:0
+msgid "An outsider. How... exotic. I'm curious, outsider, do you know much of the Shek custom?"
+msgstr ""
+
+#. Id: 11256-Dialogue (10).mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#. -- Condition: In town(s) of faction(s): Shek Kingdom
+#: 11256-Dialogue?(10).mod:1
+msgid "An outsider... how curious. Tell me, outsider, do you know much of the Shek society?"
+msgstr ""
+
+#. Id: 11257-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11256-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11257-Dialogue?(10).mod:0
+msgid "Not really, no"
+msgstr ""
+
+#. Id: 11264-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11257-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11264-Dialogue?(10).mod:0
+msgid "Around here, a Shek's standing is measured in bravery and battle skill, as in the same footsteps of Kral. Foreigners are only tolerated in this town for their trade, under the Stone Golem's orders. Every Shek in this city is itching for a fight since she came to power, especially against an honourless foreigner like you. I suggest you keep your head down if you want to leave the city in one piece."
+msgstr ""
+
+#. Id: 11265-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11264-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11265-Dialogue?(10).mod:0
+msgid "I have more honour in my pinky than most Shek have in their whole body."
+msgstr ""
+
+#. Id: 11270-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11265-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11270-Dialogue?(10).mod:0
+msgid "Admirable. It takes guts to speak the mind. But words are empty unless you have the skills to back it up. How about you start by showing me what you're made of hm, /FLATSKIN/?"
+msgstr ""
+
+#. Id: 11267-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11270-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11267-Dialogue?(10).mod:0
+msgid "Knowing when not to fight carries more honour than needless brawling."
+msgstr ""
+
+#. Id: 11271-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11270-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11271-Dialogue?(10).mod:0
+msgid "Okay! Let's dance!"
+msgstr ""
+
+#. Id: 11629-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11271-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11629-Dialogue?(10).mod:0
+msgid "Admirable. The /FLATSKIN/ has bite."
+msgstr ""
+
+#. Id: 11630-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11629-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11630-Dialogue?(10).mod:0
+msgid "Sword up. I'll be waiting at the gates."
+msgstr ""
+
+#. Id: 11272-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11270-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11272-Dialogue?(10).mod:0
+msgid "I'm not interested in fighting."
+msgstr ""
+
+#. Id: 11632-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11272-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11632-Dialogue?(10).mod:0
+msgid "Disappointing. But expected. A /FLATSKIN/ is all mouth."
+msgstr ""
+
+#. Id: 11266-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11264-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11266-Dialogue?(10).mod:0
+msgid "What a barbaric culture..."
+msgstr ""
+
+#. Id: 11273-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11266-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11273-Dialogue?(10).mod:0
+msgid "Hrm. Barbaric...?"
+msgstr ""
+
+#. Id: 11274-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11273-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11274-Dialogue?(10).mod:0
+msgid "What's wrong? Ain't it in your bonehead vocabulary?"
+msgstr ""
+
+#. Id: 47965-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11274-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47965-Dialogue.mod:0
+msgid "A /FLATSKIN/ with bite, I see."
+msgstr ""
+
+#. Id: 11651-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47965-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11651-Dialogue?(10).mod:0
+msgid "I'll tear you limb from limb, foreigner!"
+msgstr ""
+
+#. Id: 64175-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (11651-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 64175-Dialogue.mod:0
+msgid "Meet me at the gates!"
+msgstr ""
+
+#. Id: 11275-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11273-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11275-Dialogue?(10).mod:0
+msgid "You've got to admit, picking fights is pretty barbaric..."
+msgstr ""
+
+#. Id: 11275-Dialogue (10).mod
+#. -- Index: 5.1
+#. -- Parent line: 4 (11273-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11275-Dialogue?(10).mod:1
+msgid "Well, your society's based on brawling..."
+msgstr ""
+
+#. Id: 11640-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11275-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11640-Dialogue?(10).mod:0
+msgid "We live and breath battle in the Shek Kingdom. Only through honorable battle can we gain passage to Gateway. I wouldn't expect a money-grubbing foreigner to understand our ways though. Go. You're not worthy of my sword."
+msgstr ""
+
+#. Id: 11641-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11640-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11641-Dialogue?(10).mod:0
+msgid "I meant no offence..."
+msgstr ""
+
+#. Id: 11654-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (11641-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11654-Dialogue?(10).mod:0
+msgid "Forgiven. It takes guts to speak the mind."
+msgstr ""
+
+#. Id: 11655-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (11654-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11655-Dialogue?(10).mod:0
+msgid "Now, keep your head down, /FLATSKIN/."
+msgstr ""
+
+#. Id: 11643-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11640-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11643-Dialogue?(10).mod:0
+msgid "Fine, I'm gone"
+msgstr ""
+
+#. Id: 11658-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (11643-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#. Id: 11661-Dialogue (10).mod
+#. -- Index: 10.0
+#. -- Parent line: 9 (11660-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11658-Dialogue?(10).mod:0 11661-Dialogue?(10).mod:0
+msgid "Outsiders..."
+msgstr ""
+
+#. Id: 11644-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11640-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11644-Dialogue?(10).mod:0
+msgid "Who the hell are you calling 'money grubbing'?!"
+msgstr ""
+
+#. Id: 11648-Dialogue (10).mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (11644-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11648-Dialogue?(10).mod:0
+msgid "If you will act the stereotype... I have yet to meet a foreigner who does not feed your greedy, slimey reputation"
+msgstr ""
+
+#. Id: 11649-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (11648-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11649-Dialogue?(10).mod:0
+msgid "Okay, that's it! Get ready to fight!"
+msgstr ""
+
+#. Id: 11650-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (11648-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11650-Dialogue?(10).mod:0
+msgid "Well it's better than being a bone headed ruffian!"
+msgstr ""
+
+#. Id: 11660-Dialogue (10).mod
+#. -- Index: 9.0
+#. -- Parent line: 8 (11648-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11660-Dialogue?(10).mod:0
+msgid "/TCH/, I'm out of here..."
+msgstr ""
+
+#. Id: 11276-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11273-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11276-Dialogue?(10).mod:0
+msgid "Er.. that was a bad choice of wording..."
+msgstr ""
+
+#. Id: 11659-Dialogue (10).mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (11276-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11659-Dialogue?(10).mod:0
+msgid "We live and breath battle in the Shek Kingdom. Only through honorable battle can we gain passage to the holy lands, Gateway. I wouldn't expect a money-grubbing foreigner to understand our ways though..."
+msgstr ""
+
+#. Id: 11664-Dialogue (10).mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (11659-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11664-Dialogue?(10).mod:0
+msgid "Right, of course. Apologies"
+msgstr ""
+
+#. Id: 11268-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11264-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11268-Dialogue?(10).mod:0
+msgid "Sounds like a fun city."
+msgstr ""
+
+#. Id: 11277-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11268-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11277-Dialogue?(10).mod:0
+msgid "Then you'll fit in well around here. We live and breath battle in the Shek Kingdom. Only through honorable battle can we gain passage to the Holy Lands. You'd do well to know our customs if you are to survive in this town."
+msgstr ""
+
+#. Id: 11278-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11277-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11278-Dialogue?(10).mod:0
+msgid "Huh. Well, thanks for the advice."
+msgstr ""
+
+#. Id: 47967-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11277-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47967-Dialogue.mod:0
+msgid "I need no help surviving, thanks."
+msgstr ""
+
+#. Id: 47969-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47968-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47969-Dialogue.mod:0
+msgid "I like this /FLATSKIN/."
+msgstr ""
+
+#. Id: 11269-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11264-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11269-Dialogue?(10).mod:0
+msgid "The Stone Golem?"
+msgstr ""
+
+#. Id: 47971-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11269-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47971-Dialogue.mod:0
+msgid "You really know nothing, do you? The Stone Golem is our queen, she has a more passive take on dealing with our enemies than most people would like. People are on edge and pent up ready to fight."
+msgstr ""
+
+#. Id: 47972-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47971-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47972-Dialogue.mod:0
+msgid "Passive?"
+msgstr ""
+
+#. Id: 47973-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (47972-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47973-Dialogue.mod:0
+msgid "We Shek love nothing more than running, all swords blazing, into uncertain battle. We live for that challenge... But it weakens our numbers. The queen knows this and she plans for it. But not everybody around here is a fan of this approach..."
+msgstr ""
+
+#. Id: 47984-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47973-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47984-Dialogue.mod:0
+msgid "I agree with her. Foolish suicide missions achieve nothing in the end."
+msgstr ""
+
+#. Id: 47987-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47984-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47987-Dialogue.mod:0
+msgid "Hrm. Well, opinion's like that are best kept to yourself if you want to avoid trouble."
+msgstr ""
+
+#. Id: 47985-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47973-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47985-Dialogue.mod:0
+msgid "Let the people fight, I say. They can choose their own fate."
+msgstr ""
+
+#. Id: 47988-Dialogue.mod
+#. -- Index: 8.0
+#. -- Parent line: 7 (47985-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47988-Dialogue.mod:0
+msgid "The Stone Golem is the most powerful warrior in all the lands. I for one am loyal to her judgement."
+msgstr ""
+
+#. Id: 47990-Dialogue.mod
+#. -- Index: 7.0
+#. -- Parent line: 6 (47973-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47990-Dialogue.mod:0
+msgid "I see. You also mentioned 'Kral' before?"
+msgstr ""
+
+#. Id: 47981-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47971-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47981-Dialogue.mod:0
+msgid "Sounds messy."
+msgstr ""
+
+#. Id: 47982-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47971-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47982-Dialogue.mod:0
+msgid "Interesting. Thanks for the info."
+msgstr ""
+
+#. Id: 47989-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11264-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#. Id: 51547-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (51545-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek barman Last Stand
+#: 47989-Dialogue.mod:0 51547-Dialogue.mod:0
+msgid "Kral?"
+msgstr ""
+
+#. Id: 47991-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (47989-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47991-Dialogue.mod:0
+msgid "The one great hero of the Shek, he united the Shek Kingdom and led us to glory through the toughest battle in all of history. He taught us the way to an honourable path and a hero's afterlife. Honour to Kral."
+msgstr ""
+
+#. Id: 47992-Dialogue.mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (47991-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47992-Dialogue.mod:0
+msgid "I see. You also mentioned 'The Stone Golem'?"
+msgstr ""
+
+#. Id: 11258-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11256-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11258-Dialogue?(10).mod:0
+msgid "I hear Shek are pretty rowdy, but that's about it"
+msgstr ""
+
+#. Id: 11281-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11258-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11281-Dialogue?(10).mod:0
+msgid "... Rowdy?.. Rowdy? The Shek is the most honorable of kingdoms. We are warriors, WARRIORS, not ruffians. Here we earn respect through bravery and battle... not rowdiness, as you call it"
+msgstr ""
+
+#. Id: 11633-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11281-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11633-Dialogue?(10).mod:0
+msgid "I mean't no offence, I'm sorry"
+msgstr ""
+
+#. Id: 11636-Dialogue (10).mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11633-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11636-Dialogue?(10).mod:0
+msgid "Hrm. You are forgiven"
+msgstr ""
+
+#. Id: 11637-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11636-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11637-Dialogue?(10).mod:0
+msgid "I'll be leaving now"
+msgstr ""
+
+#. Id: 11291-Dialogue (10).mod
+#. -- Index: 5.0
+#. -- Parent line: 4 (11636-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11291-Dialogue?(10).mod:0
+msgid "Can you tell me about your customs?"
+msgstr ""
+
+#. Id: 11634-Dialogue (10).mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (11281-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11634-Dialogue?(10).mod:0
+msgid "There's no respect in picking fights with one another. It's just rowdiness."
+msgstr ""
+
+#. Id: 47970-Dialogue.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (11635-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 47970-Dialogue.mod:0
+msgid "Foreigners are only tolerated in this town for their trade, under the Stone Golem's orders. Every Shek in this city is itching for a fight since she came to power, especially against an honourless foreigner like you. I suggest you keep your head down if you want to leave the city in one piece."
+msgstr ""
+
+#. Id: 11261-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11256-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11261-Dialogue?(10).mod:0
+msgid "I know that Shek believe in honor through battle"
+msgstr ""
+
+#. Id: 11282-Dialogue (10).mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (11261-Dialogue (10).mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11282-Dialogue?(10).mod:0
+msgid "Correct. Around here, a Shek's standing is measured in bravery and battle skill, as in the same footseps of Kral. Foreigners are only tolerated in this town for their trade, under the Stone Golem's orders. Every Shek in this city is itching for a fight since she came to power, especially against an honourless foreigner like you. I suggest you keep your head down if you want to leave the city in one piece."
+msgstr ""
+
+#. Id: 11673-Dialogue (10).mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (11256-Dialogue (10).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Shek Warrior Talk to Info
+#: 11673-Dialogue?(10).mod:0
+msgid "Sorry, I don't have time for this"
+msgstr ""
+

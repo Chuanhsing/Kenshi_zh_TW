@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 63540-rebirth.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63540-rebirth.mod:0
+msgid "Ho there Townie, I have animals for sale.  Carry your stuff for you, fight alongside you, make a good meal they do."
+msgstr ""
+
+#. Id: 63540-rebirth.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63540-rebirth.mod:1
+msgid "Ho Townie, I have animals for sale."
+msgstr ""
+
+#. Id: 63543-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63540-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal trader
+#: 63543-rebirth.mod:0
+msgid "Do I need to feed them?"
+msgstr ""
+
+#. Id: 63544-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63543-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63544-rebirth.mod:0
+msgid "Of course you need to feed them you /IDIOT/.  They'll eat anything you do and more.  Eat right out of your backpacks they will."
+msgstr ""
+
+#. Id: 63546-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63544-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal trader
+#: 63546-rebirth.mod:0
+msgid "Do they eat a lot?  I don't know if I can afford to feed them"
+msgstr ""
+
+#. Id: 63547-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63546-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63547-rebirth.mod:0
+msgid "The young ones ain't so bad.  They'll eat more as they grow up, but if they're carryin' a bag on their backs you can carry more food around can't ya'?  Can't live without 'em on a long journey."
+msgstr ""
+
+#. Id: 63548-rebirth.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (63544-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal trader
+#: 63548-rebirth.mod:0
+msgid "Do they... do they fight?"
+msgstr ""
+
+#. Id: 63549-rebirth.mod
+#. -- Index: 4.0
+#. -- Parent line: 3 (63548-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63549-rebirth.mod:0
+msgid "Well I wouldn't want to tussle wit' one, but the babies won't be much use."
+msgstr ""
+
+#. Id: 63545-rebirth.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (63540-rebirth.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: nomad animal trader
+#. Id: 15090-Dialogue.mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (15086-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 700 - non robot
+#. Id: 15082-Dialogue.mod
+#. -- Index: 6.0
+#. -- Parent line: 5 (15063-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Outlaw 2000
+#. Id: 19451-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (19422-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 2500 Shek Kingdom crazy
+#. Id: 12690-Dialogue (11) (2).mod
+#. -- Index: 3.1
+#. -- Parent line: 2 (12687-Dialogue (11) (2).mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me Empire 2700
+#. Id: 19394-Dialogue.mod
+#. -- Index: 3.0
+#. -- Parent line: 2 (19674-Dialogue.mod)
+#. -- Speaker: Target (1)
+#. -- Group title: Hire me 5000 Shek Kingdom br
+#: 63545-rebirth.mod:0 15090-Dialogue.mod:1 15082-Dialogue.mod:0 19451-Dialogue.mod:0 12690-Dialogue?(11)?(2).mod:1 19394-Dialogue.mod:0
+msgid "Not interested"
+msgstr ""
+
+#. Id: 63746-rebirth.mod
+#. -- Index: 2.0
+#. -- Parent line: 1 (63545-rebirth.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: nomad animal trader
+#: 63746-rebirth.mod:0
+msgid "Farewell then"
+msgstr ""
+

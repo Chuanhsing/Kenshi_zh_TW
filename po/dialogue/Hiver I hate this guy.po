@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 19773-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. Id: 19754-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (19744-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver witness generic assault
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19773-Dialogue.mod:1 19754-Dialogue.mod:1
+msgid "Erase the no-hives!"
+msgstr ""
+
+#. Id: 19773-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (18139-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Hiver I hate this guy
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 19773-Dialogue.mod:2
+msgid "Death to the hiveless!"
+msgstr ""
+

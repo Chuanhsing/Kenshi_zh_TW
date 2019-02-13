@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kenshi\n"
+"POT-Creation-Date: 2019-02-13 19:27+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Lo-Fi Games\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 41160-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#: 41137-Dialogue.mod:0 41160-Dialogue.mod:0
+msgid "Enemy be purged!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:1
+msgid "Enemy be smited!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#. Id: 41160-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#: 41137-Dialogue.mod:2 41160-Dialogue.mod:1
+msgid "Dark ones be purged!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:3
+msgid "Enemies... Okran guide my sword!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:4
+msgid "Enemies of Okran must be purged"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:5
+msgid "Taste the judgement of Okran, unholy one!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:6
+msgid "Darkened!... Okran's judgement will be cast!"
+msgstr ""
+
+#. Id: 41137-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
+#: 41137-Dialogue.mod:7
+msgid "Okran will cleanse the lands of the darkened, enemy be purged!"
+msgstr ""
+
+#. Id: 41138-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 41138-Dialogue.mod:0
+msgid "Beast be purged!"
+msgstr ""
+
+#. Id: 41138-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 41138-Dialogue.mod:1
+msgid "Beasts be purified!"
+msgstr ""
+
+#. Id: 41138-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#: 41138-Dialogue.mod:2
+msgid "A beast needs taming!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:0
+msgid "Agents of darkness..."
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:1
+msgid "The darkness comes..."
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:2
+msgid "Skeleton! You will not slip by me!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:3
+msgid "Agent of darkness! Over my dead body will you run free on holy /LAND/!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:4
+msgid "Okran grant me strength, agents of darkness are upon us!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:6
+msgid "Robot! /BURNHIM/! /BURNHIM/ with fire!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:7
+msgid "Agent of darkness! /BURNHIM/! /BURNHIM/ in flame!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.8
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:8
+msgid "Skeleton! /BURNHIM/! /BURNHIM/ in flame!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.11
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:11
+msgid "Okran bestow me power, Skeletons are upon us!"
+msgstr ""
+
+#. Id: 41139-Dialogue.mod
+#. -- Index: 0.12
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41139-Dialogue.mod:12
+msgid "Agent of darkness, I will not let you pass!"
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:0
+msgid "You escaped your fate once. But you won't escape it twice."
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:1
+msgid "This time you won't survive my sword."
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:2
+msgid "This time you won't survive. It is Okran's will that you be purged."
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:3
+msgid "I won't let you survive this time, heretic..."
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:4
+msgid "Still alive? The darkness is persistent, but this time I'll end you for good!"
+msgstr ""
+
+#. Id: 41156-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
+#: 41156-Dialogue.mod:5
+msgid "Your sins won't escape the judgement of my sword this time, heretic!"
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:0
+msgid "You again! I won't be beaten this time!"
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:1
+msgid "Luck was on your side last time. But I won't fail again!"
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:2
+msgid "Last time you got lucky. But you won't defeat me again."
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:3
+msgid "With Okran as my witness, I won't let you beat me twice!"
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:4
+msgid "Defeating a holy inquisitor? Your heresy will be punished!"
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:5
+msgid "One who harms a holy inquisitor will not escape Okran's retribution."
+msgstr ""
+
+#. Id: 41158-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
+#: 41158-Dialogue.mod:6
+msgid "To harm a holy apostle of Okran.. it is one of the greatest sins. But you won't beat me this time!"
+msgstr ""
+
+#. Id: 41160-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#: 41160-Dialogue.mod:3
+msgid "Heretics be purged!"
+msgstr ""
+
+#. Id: 41374-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 43332-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Slaver paladin witness assault
+#. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
+#: 41374-Dialogue.mod:0 43332-Dialogue.mod:2
+msgid "Agents of darkness be purged!"
+msgstr ""
+
+#. Id: 41374-Dialogue.mod
+#. -- Index: 1.1
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41374-Dialogue.mod:1
+msgid "/BURNHIM/! Burn the Skeletons!"
+msgstr ""
+
+#. Id: 41374-Dialogue.mod
+#. -- Index: 1.2
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41374-Dialogue.mod:2
+msgid "/BURNHIM/! Burn the robots!"
+msgstr ""
+
+#. Id: 41374-Dialogue.mod
+#. -- Index: 1.3
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#: 41374-Dialogue.mod:3
+msgid "/BURNHIM/! Destroy the agents of darkness!"
+msgstr ""
+
+#. Id: 41374-Dialogue.mod
+#. -- Index: 1.4
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
+#. -- Condition: Target Race(s): Skeleton
+#. Id: 40791-Dialogue.mod
+#. -- Index: 2.1
+#. -- Parent line: 1 (40790-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor spots skeleton
+#: 41374-Dialogue.mod:4 40791-Dialogue.mod:1
+msgid "The agents of darkness must be destroyed!"
+msgstr ""
+
+#. Id: 41376-Dialogue.mod
+#. -- Index: 1.0
+#. -- Parent line: 0 (41158-Dialogue.mod)
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
+#: 41376-Dialogue.mod:0
+msgid "/TAINT/ed woman be purged!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:0
+msgid "For the murder of an Okranite apostle!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:1
+msgid "To slaughter an apostle of Okran, it is the ultimate sin."
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:2
+msgid "One of Okran's apostles, slaughtered in cold blood! The ultimate heresy!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.3
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:3
+msgid "For the slaughter of a holy Okranite, you will be judged and purged!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.4
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:4
+msgid "Murderer! You will be judged and purged of your sins, heretic!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.5
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:5
+msgid "With god as my witness, I will not let you kill another Okranite, butcher!"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.6
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:6
+msgid "For the murder of his children, Okran will have his retribution"
+msgstr ""
+
+#. Id: 41371-Dialogue.mod
+#. -- Index: 0.7
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
+#: 41371-Dialogue.mod:7
+msgid "For the slaugher of Okran's children, god's retribution will be served"
+msgstr ""
+
+#. Id: 41580-Dialogue.mod
+#. -- Index: 0.0
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#: 41580-Dialogue.mod:0
+msgid "You again?! No, you won't slip past me!"
+msgstr ""
+
+#. Id: 41580-Dialogue.mod
+#. -- Index: 0.1
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#: 41580-Dialogue.mod:1
+msgid "You, back again?! You won't slip by me this time!"
+msgstr ""
+
+#. Id: 41580-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
+#: 41580-Dialogue.mod:2
+msgid "You again?! You won't get away from me!"
+msgstr ""
+
+#. Id: 61822-Dialogue.mod
+#. -- Index: 0.2
+#. -- Parent line: -
+#. -- Speaker: Me (0)
+#. -- Group title: Inquisitor sees enemy (enemy mild)
+#. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
+#: 61822-Dialogue.mod:2
+msgid "Vile abomination /YOURNAME/!"
+msgstr ""
+
