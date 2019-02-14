@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5303-gamedata.base:0
 msgid "Got some slaves for you"
-msgstr ""
+msgstr "有一些奴隸給你"
 
 #. Id: 5304-gamedata.base
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5304-gamedata.base:0
 msgid "All right, hand 'em over"
-msgstr ""
+msgstr "好吧，親自動手吧"
 
 #. Id: 5304-gamedata.base
 #. -- Index: 1.1
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 5304-gamedata.base:1 16674-Dialogue.mod:1 11483-Dialogue?(10).mod:1 15742-Dialogue.mod:1
 msgid "Nice work"
-msgstr ""
+msgstr "幹得好"
 
 #. Id: 5304-gamedata.base
 #. -- Index: 1.2
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5304-gamedata.base:2
 msgid "Nice catch"
-msgstr ""
+msgstr "抓住好"
 
 #. Id: 5304-gamedata.base
 #. -- Index: 1.3
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5304-gamedata.base:3 15662-Dialogue.mod:1 8548-Dialogue.mod:0
 msgid "Good work"
-msgstr ""
+msgstr "幹得好"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:0
 msgid "Here take 'em. Good riddance!"
-msgstr ""
+msgstr "拿這些吧。甩掉包袱！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.1
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:2
 msgid "Don't forget to feed 'em!"
-msgstr ""
+msgstr "別忘了餵他們！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.3
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:3
 msgid "Try to make these ones last a little longer, eh?"
-msgstr ""
+msgstr "試著讓這些持續一段時間，是嗎？"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.4
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:4
 msgid "Don't forget to feed 'em this time!"
-msgstr ""
+msgstr "別忘了這次餵他們！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.5
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:5
 msgid "Look after 'em!"
-msgstr ""
+msgstr "照顧他們！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.6
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:6
 msgid "Have fun, Slaves! /QUICKLAUGH/!"
-msgstr ""
+msgstr "玩得開心，奴隸！/QUICKLAUGH/！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.7
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5305-gamedata.base:7
 msgid "Make 'em last!"
-msgstr ""
+msgstr "讓它們持久！"
 
 #. Id: 5305-gamedata.base
 #. -- Index: 2.8
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Group title: Dead cat villager sees player
 #: 5305-gamedata.base:8 1532682-__June?18.mod:0 17960-gamedata.base:0 47763-Dialogue.mod:0 65070-october?17.mod:1
 msgid "Here."
-msgstr ""
+msgstr "這裡。"
 
 #. Id: 5312-gamedata.base
 #. -- Index: 3.0
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Group title: crab announce 0 remedial
 #: 5312-gamedata.base:0 5120-gamedata.base:3 64729-__september20.mod:0 7447-Dialogue.mod:0 64899-rebirth.mod:1 64372-Dialogue.mod:0 44976-Dialogue.mod:1 64890-rebirth.mod:3 64889-rebirth.mod:1 49233-Dialogue.mod:0 9948-Dialogue.mod:0 45208-Dialogue.mod:1 50955-rebirth.mod:0 50956-rebirth.mod:0 50958-rebirth.mod:0 50959-rebirth.mod:0 50960-rebirth.mod:0 14071-Dialogue?(12).mod:1 13437-Escapes.mod:1 1532729-rebirth.mod:0
 msgid "/QUICKLAUGH/!"
-msgstr ""
+msgstr "/QUICKLAUGH/！"
 
 #. Id: 5307-gamedata.base
 #. -- Index: 1.0
@@ -303,7 +303,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5307-gamedata.base:0
 msgid "*sigh* Fine, give 'em here"
-msgstr ""
+msgstr "*嘆氣*很好，在這裡給他們"
 
 #. Id: 5307-gamedata.base
 #. -- Index: 1.2
@@ -312,7 +312,7 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5307-gamedata.base:2
 msgid "*sigh* All right."
-msgstr ""
+msgstr "*嘆氣*好吧。"
 
 #. Id: 5307-gamedata.base
 #. -- Index: 1.3
@@ -321,5 +321,4 @@ msgstr ""
 #. -- Group title: slave delivery
 #: 5307-gamedata.base:3
 msgid "*sigh* Okay."
-msgstr ""
-
+msgstr "*嘆氣*好的。"

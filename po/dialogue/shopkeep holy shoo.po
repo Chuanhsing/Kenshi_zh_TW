@@ -22,7 +22,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43004-Dialogue.mod:0
 msgid "Okran bless you, brother. Come back again."
-msgstr ""
+msgstr "兄弟，奧克蘭祝福你。再回來。"
 
 #. Id: 43004-Dialogue.mod
 #. -- Index: 0.1
@@ -35,7 +35,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43004-Dialogue.mod:1
 msgid "Bless you, brother. Come again."
-msgstr ""
+msgstr "兄弟，祝福你。再來。"
 
 #. Id: 43004-Dialogue.mod
 #. -- Index: 0.2
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43004-Dialogue.mod:2
 msgid "Come back again soon, brother. Love and devotion to you."
-msgstr ""
+msgstr "兄弟，快回來吧。對你的愛和奉獻。"
 
 #. Id: 43004-Dialogue.mod
 #. -- Index: 0.3
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43004-Dialogue.mod:3
 msgid "It's getting dark out, tread carefully, brother. "
-msgstr ""
+msgstr "哥們，它正在變暗，小心翼翼。"
 
 #. Id: 43004-Dialogue.mod
 #. -- Index: 0.4
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43004-Dialogue.mod:4
 msgid "Thanks for visiting! May the light protect you, brother. "
-msgstr ""
+msgstr "感謝造訪！兄弟，願光保護你。"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.0
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:0
 msgid "Shop's closing now..."
-msgstr ""
+msgstr "商店現在關閉......"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.1
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:1
 msgid "I'm closing up now so..."
-msgstr ""
+msgstr "我現在正在關門......"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.2
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:2
 msgid "Shop's just about to close up now, customer..."
-msgstr ""
+msgstr "商店即將關閉，客戶......"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.3
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:3
 msgid "It's getting late, time to close up shop..."
-msgstr ""
+msgstr "現在已經很晚了，關閉商店的時間......"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.4
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:4
 msgid "It's getting dark out. Time to close up."
-msgstr ""
+msgstr "天已經黑了。是時候關門了。"
 
 #. Id: 43005-Dialogue.mod
 #. -- Index: 1.5
@@ -134,7 +134,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43005-Dialogue.mod:5
 msgid "It's closing time now. Thank you for your custom..."
-msgstr ""
+msgstr "現在正在關門。謝謝你的定制......"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.0
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:0
 msgid "I need to lock up, brother."
-msgstr ""
+msgstr "我需要鎖定，兄弟。"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.1
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:1
 msgid "I need to lock up for the night, brother."
-msgstr ""
+msgstr "兄弟，我需要鎖定一夜。"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.2
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:2
 msgid "I need to lock up. You can come back tomorrow, brother."
-msgstr ""
+msgstr "我需要鎖定。兄弟，你明天可以回來。"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.3
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:3
 msgid "We'll be open for business in the morning, brother."
-msgstr ""
+msgstr "兄弟，我們將在早上開門營業。"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.4
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:4
 msgid "Come back tomorrow morning if you need anything, brother."
-msgstr ""
+msgstr "如果你需要什麼，明天早上回來吧，兄弟。"
 
 #. Id: 43006-Dialogue.mod
 #. -- Index: 2.5
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43006-Dialogue.mod:5
 msgid "Open as usual tomorrow morning, brother."
-msgstr ""
+msgstr "兄弟明天早上照常開放。"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.0
@@ -204,7 +204,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:0
 msgid "... Why aren't you leaving? We're closed..."
-msgstr ""
+msgstr "你為什麼不離開？我們關門了......"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.1
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:1
 msgid "... You're not leaving...?"
-msgstr ""
+msgstr "......你不會離開......？"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.2
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:2
 msgid "... Did you hear me? I said we're closed."
-msgstr ""
+msgstr "你聽到了嗎？我說我們已經關門了。"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.3
@@ -234,7 +234,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:3
 msgid "... You need to leave already."
-msgstr ""
+msgstr "......你需要離開。"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.4
@@ -244,7 +244,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:4
 msgid "... I need you to leave now."
-msgstr ""
+msgstr "......我現在需要你離開。"
 
 #. Id: 43007-Dialogue.mod
 #. -- Index: 3.5
@@ -254,7 +254,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43007-Dialogue.mod:5
 msgid "... I said we're closed... why are you still here?"
-msgstr ""
+msgstr "......我說我們已經關閉了......你為什麼還在這裡？"
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.1
@@ -264,7 +264,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:1
 msgid "No, don't worry about me, I have no life outside of work or anything..."
-msgstr ""
+msgstr "不，不要擔心我，我沒有工作或任何事情......"
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.2
@@ -274,7 +274,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:2
 msgid "I don't want any ugliness now. Come on..."
-msgstr ""
+msgstr "我現在不想要任何醜陋。來吧..."
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.3
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:4
 msgid "... Or just take your time, sure, I LOVE working overtime..."
-msgstr ""
+msgstr "...或者只是慢慢來，當然，我喜歡加班..."
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.5
@@ -304,7 +304,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:5
 msgid "... Tch..."
-msgstr ""
+msgstr "...... Tch ......"
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.6
@@ -314,7 +314,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:6
 msgid "... Tch, foreigners..."
-msgstr ""
+msgstr "......外國人......"
 
 #. Id: 43008-Dialogue.mod
 #. -- Index: 4.7
@@ -324,7 +324,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43008-Dialogue.mod:7
 msgid "... Hmph!"
-msgstr ""
+msgstr "......哼！"
 
 #. Id: 46884-Dialogue.mod
 #. -- Index: 5.0
@@ -334,7 +334,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46884-Dialogue.mod:0
 msgid "Is there a problem here, brother?"
-msgstr ""
+msgstr "兄弟，這裡有問題嗎？"
 
 #. Id: 46885-Dialogue.mod
 #. -- Index: 6.0
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46885-Dialogue.mod:0
 msgid "I'm not sure..."
-msgstr ""
+msgstr "我不確定..."
 
 #. Id: 46886-Dialogue.mod
 #. -- Index: 7.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46886-Dialogue.mod:0
 msgid "You there. You need to leave. "
-msgstr ""
+msgstr "你在那裡。你需要離開。"
 
 #. Id: 46888-Dialogue.mod
 #. -- Index: 8.0
@@ -361,7 +361,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46888-Dialogue.mod:0
 msgid "This is odd... Hey... Do you... do you think they're a... a r-o-b-o-t?"
-msgstr ""
+msgstr "這很奇怪...嘿......你......你認為他們是...... 機-器-人？"
 
 #. Id: 46888-Dialogue.mod
 #. -- Index: 8.1
@@ -370,7 +370,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46888-Dialogue.mod:1
 msgid "Do you... do you think they could be a... a s-k-e-l-e-t-o-n?"
-msgstr ""
+msgstr "你......你認為他們可能是...... 骷-髏-人？"
 
 #. Id: 46888-Dialogue.mod
 #. -- Index: 8.2
@@ -379,7 +379,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46888-Dialogue.mod:2
 msgid "How odd... maybe... maybe they're a robot, a robot in disguise!"
-msgstr ""
+msgstr "有多奇怪......也許......也許他們是一個機器人，一個偽裝的機器人！"
 
 #. Id: 46889-Dialogue.mod
 #. -- Index: 9.0
@@ -388,7 +388,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46889-Dialogue.mod:0
 msgid ".... Or being controlled by one..."
-msgstr ""
+msgstr "....或被一個人控制......"
 
 #. Id: 46889-Dialogue.mod
 #. -- Index: 9.1
@@ -397,7 +397,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46889-Dialogue.mod:1
 msgid "... Or... possessed by one..."
-msgstr ""
+msgstr "......或......一個人擁有......"
 
 #. Id: 46889-Dialogue.mod
 #. -- Index: 9.2
@@ -406,7 +406,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46889-Dialogue.mod:2
 msgid "Don't. Just don't. You're giving me the heebie jeebies."
-msgstr ""
+msgstr "別。只是不要。你給了我heebie jeebies。"
 
 #. Id: 46890-Dialogue.mod
 #. -- Index: 10.0
@@ -425,7 +425,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46891-Dialogue.mod:0
 msgid "You. Do as he says, you need to leave."
-msgstr ""
+msgstr "您。如他所說，你需要離開。"
 
 #. Id: 46891-Dialogue.mod
 #. -- Index: 5.1
@@ -435,7 +435,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46891-Dialogue.mod:1
 msgid "Be quick. We got places to be."
-msgstr ""
+msgstr "快點。我們得到了一席之地。"
 
 #. Id: 46891-Dialogue.mod
 #. -- Index: 5.2
@@ -445,7 +445,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46891-Dialogue.mod:2
 msgid "Make it quick, customer. I ain't paid overtime."
-msgstr ""
+msgstr "快速，客戶。我沒有加班費。"
 
 #. Id: 46893-Dialogue.mod
 #. -- Index: 7.0
@@ -454,7 +454,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46893-Dialogue.mod:0
 msgid "Don't make this unpleasant for yourself..."
-msgstr ""
+msgstr "不要讓自己感到不快......"
 
 #. Id: 46894-Dialogue.mod
 #. -- Index: 8.0
@@ -463,7 +463,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46894-Dialogue.mod:0
 msgid "... He's still here..."
-msgstr ""
+msgstr "......他還在這裡......"
 
 #. Id: 46896-Dialogue.mod
 #. -- Index: 9.0
@@ -472,7 +472,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46896-Dialogue.mod:0
 msgid "Only a darkened one would ignore their holy brothers like this!"
-msgstr ""
+msgstr "只有一個黑暗的人會像這樣忽視他們的聖兄弟！"
 
 #. Id: 46897-Dialogue.mod
 #. -- Index: 10.0
@@ -481,7 +481,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46897-Dialogue.mod:0
 msgid "It's okay, it's okay... I'm sure it's fine..."
-msgstr ""
+msgstr "沒關係，沒關係......我確定它很好......"
 
 #. Id: 46898-Dialogue.mod
 #. -- Index: 11.0
@@ -490,7 +490,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46898-Dialogue.mod:0
 msgid "I won't let him out of my sight, you can count on me."
-msgstr ""
+msgstr "我不會讓他離開我的視線，你可以指望我。"
 
 #. Id: 46899-Dialogue.mod
 #. -- Index: 12.0
@@ -499,7 +499,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46899-Dialogue.mod:0
 msgid "I'm sure he's just shopping... it's fine. No need to get the paladins in here smashing the place up."
-msgstr ""
+msgstr "我確定他只是在購物......沒關係。沒有必要讓這裡的聖騎士粉碎這個地方。"
 
 #. Id: 46902-Dialogue.mod
 #. -- Index: 5.0
@@ -528,7 +528,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46904-Dialogue.mod:0
 msgid "Makes me think this one's been darkened or something..."
-msgstr ""
+msgstr "讓我覺得這個已經黑了或者什麼......"
 
 #. Id: 46904-Dialogue.mod
 #. -- Index: 7.1
@@ -537,7 +537,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46904-Dialogue.mod:1
 msgid "... A darkened one maybe?"
-msgstr ""
+msgstr "......可能是一個黑暗的人？"
 
 #. Id: 46905-Dialogue.mod
 #. -- Index: 8.0
@@ -546,7 +546,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46905-Dialogue.mod:0
 msgid "Don't even go there. Last thing I need is the paladins pulling my shop apart on a robot hunt."
-msgstr ""
+msgstr "甚至不去那裡。我需要的最後一件事是聖騎士在機器人狩獵時拉開我的店鋪。"
 
 #. Id: 46950-Dialogue.mod
 #. -- Index: 10.0
@@ -610,7 +610,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:0
 msgid "Shop's closing now. Please, make your way out"
-msgstr ""
+msgstr "商店現在關門了。請你走出去"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.1
@@ -622,7 +622,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:1
 msgid "Shop's closing now. I need to lock up."
-msgstr ""
+msgstr "商店現在關門了。我需要鎖定。"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.2
@@ -634,7 +634,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:2
 msgid "Closing time, I'm locking up now..."
-msgstr ""
+msgstr "關閉時間，我現在鎖定了......"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.3
@@ -646,7 +646,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:3
 msgid "It's closing time. Time to go home."
-msgstr ""
+msgstr "這是關閉時間。該回家了。"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.4
@@ -658,7 +658,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:4
 msgid "Time to go, we're closing up now."
-msgstr ""
+msgstr "時間到了，我們現在關門了。"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.5
@@ -670,7 +670,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:5
 msgid "It's getting late, time to close up."
-msgstr ""
+msgstr "現在已經很晚了，是時候關門了。"
 
 #. Id: 43015-Dialogue.mod
 #. -- Index: 0.6
@@ -682,7 +682,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43015-Dialogue.mod:6
 msgid "Shutting up shop now. Please finish up and make your way out."
-msgstr ""
+msgstr "現在關店。請完成並走出去。"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.0
@@ -692,7 +692,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:0
 msgid "I said we're closing..."
-msgstr ""
+msgstr "我說我們要結束了......"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.1
@@ -707,7 +707,7 @@ msgstr ""
 #. -- Group title: Longen shoo
 #: 43016-Dialogue.mod:1 56379-Dialogue.mod:0
 msgid "You need to leave..."
-msgstr ""
+msgstr "你需要離開......"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.2
@@ -717,7 +717,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:2
 msgid "I said we're shutting now..."
-msgstr ""
+msgstr "我說我們現在關門了......"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.3
@@ -727,7 +727,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:3
 msgid "You. Shop's shut..."
-msgstr ""
+msgstr "您。商店關門......"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.4
@@ -737,7 +737,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:4
 msgid "I'm talking to you. Shop's closed now..."
-msgstr ""
+msgstr "我在跟你說話。商店現在關門了......"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.5
@@ -747,7 +747,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:5
 msgid "Hear what I said? We're closed."
-msgstr ""
+msgstr "聽到我說的話？我們關門了。"
 
 #. Id: 43016-Dialogue.mod
 #. -- Index: 2.6
@@ -757,7 +757,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43016-Dialogue.mod:6
 msgid "Right, doors that way..."
-msgstr ""
+msgstr "對，門那樣......"
 
 #. Id: 46922-Dialogue.mod
 #. -- Index: 3.0
@@ -766,7 +766,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46922-Dialogue.mod:0
 msgid "Come back in the morning."
-msgstr ""
+msgstr "早上回來吧。"
 
 #. Id: 46922-Dialogue.mod
 #. -- Index: 3.1
@@ -775,7 +775,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46922-Dialogue.mod:1
 msgid "Open as usual tomorrow."
-msgstr ""
+msgstr "明天打開。"
 
 #. Id: 46922-Dialogue.mod
 #. -- Index: 3.2
@@ -784,7 +784,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46922-Dialogue.mod:2
 msgid "Unless you want to get locked in here?"
-msgstr ""
+msgstr "除非你想被鎖在這裡？"
 
 #. Id: 46922-Dialogue.mod
 #. -- Index: 3.3
@@ -793,7 +793,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46922-Dialogue.mod:3
 msgid "Move it."
-msgstr ""
+msgstr "移動它。"
 
 #. Id: 46922-Dialogue.mod
 #. -- Index: 3.4
@@ -802,7 +802,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46922-Dialogue.mod:4
 msgid "Make your way out."
-msgstr ""
+msgstr "走出去。"
 
 #. Id: 43017-Dialogue.mod
 #. -- Index: 4.0
@@ -812,7 +812,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43017-Dialogue.mod:0
 msgid "Having trouble hearing me, woman?"
-msgstr ""
+msgstr "女人，聽到我的聲音有困難嗎？"
 
 #. Id: 43017-Dialogue.mod
 #. -- Index: 4.1
@@ -822,7 +822,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43017-Dialogue.mod:1
 msgid "Problems with your hearing, woman? We're closed."
-msgstr ""
+msgstr "你的聽力問題，女人？我們關門了。"
 
 #. Id: 43017-Dialogue.mod
 #. -- Index: 4.2
@@ -832,7 +832,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43017-Dialogue.mod:2
 msgid "Is there a problem, woman? Why aren't you leaving?"
-msgstr ""
+msgstr "女人，有問題嗎？你為什麼不離開？"
 
 #. Id: 43017-Dialogue.mod
 #. -- Index: 4.3
@@ -842,7 +842,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43017-Dialogue.mod:3
 msgid "What's wrong with you? Got a problem, woman?"
-msgstr ""
+msgstr "你這人怎麼回事？有問題，女人？"
 
 #. Id: 43018-Dialogue.mod
 #. -- Index: 5.0
@@ -852,7 +852,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43018-Dialogue.mod:0
 msgid "Perhaps the dark demoness has clouded your senses?!"
-msgstr ""
+msgstr "也許黑暗的惡魔已經讓你的感官蒙上了陰影？！"
 
 #. Id: 43018-Dialogue.mod
 #. -- Index: 5.1
@@ -881,7 +881,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46913-Dialogue.mod:0
 msgid "You think she's tainted? Keep away from her!"
-msgstr ""
+msgstr "你認為她被污染了嗎？遠離她！"
 
 #. Id: 46914-Dialogue.mod
 #. -- Index: 8.0
@@ -890,7 +890,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46914-Dialogue.mod:0
 msgid "Stay away woman! Get out! Go!"
-msgstr ""
+msgstr "遠離女人！出去！走！"
 
 #. Id: 46915-Dialogue.mod
 #. -- Index: 9.0
@@ -917,7 +917,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 46915-Dialogue.mod:0 15536-Dialogue.mod:0 15548-Dialogue.mod:0 46346-Dialogue.mod:4
 msgid "Evil!"
-msgstr ""
+msgstr "邪惡！"
 
 #. Id: 43023-Dialogue.mod
 #. -- Index: 10.0
@@ -946,7 +946,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46955-Dialogue.mod:0
 msgid "Move!"
-msgstr ""
+msgstr "移動！"
 
 #. Id: 46919-Dialogue.mod
 #. -- Index: 6.0
@@ -955,7 +955,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46919-Dialogue.mod:0
 msgid "Why in Okran's name aren't you leaving!?"
-msgstr ""
+msgstr "你為什麼不以奧克蘭的名義離開！？"
 
 #. Id: 46916-Dialogue.mod
 #. -- Index: 7.0
@@ -964,7 +964,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46916-Dialogue.mod:0
 msgid "You need to learn some respect!"
-msgstr ""
+msgstr "你需要學習一些尊重！"
 
 #. Id: 46917-Dialogue.mod
 #. -- Index: 8.0
@@ -993,7 +993,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43024-Dialogue.mod:1
 msgid "Wretched woman! Guards!"
-msgstr ""
+msgstr "猥瑣的女人！逆天！"
 
 #. Id: 43024-Dialogue.mod
 #. -- Index: 9.2
@@ -1003,7 +1003,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43024-Dialogue.mod:2
 msgid "Guards! This woman is harassing me!"
-msgstr ""
+msgstr "逆天！這個女人在騷擾我！"
 
 #. Id: 46920-Dialogue.mod
 #. -- Index: 5.0
@@ -1013,7 +1013,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46920-Dialogue.mod:0
 msgid "You're something else, aren't you? You need to learn to LISTEN."
-msgstr ""
+msgstr "你不是別的，不是嗎？你需要學習聽。"
 
 #. Id: 46921-Dialogue.mod
 #. -- Index: 6.0
@@ -1022,7 +1022,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46921-Dialogue.mod:0
 msgid "I've no patience for troublesome women!"
-msgstr ""
+msgstr "對麻煩的女人我沒有耐心！"
 
 #. Id: 43022-Dialogue.mod
 #. -- Index: 7.0
@@ -1042,7 +1042,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43022-Dialogue.mod:1
 msgid "Why are you still here? You try to seduce me in my own home?!"
-msgstr ""
+msgstr "你為什麼還在這兒？你試著在我家裡引誘我？！"
 
 #. Id: 43022-Dialogue.mod
 #. -- Index: 7.2
@@ -1052,7 +1052,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43022-Dialogue.mod:2
 msgid "Why are you still here, woman?! We're closed!"
-msgstr ""
+msgstr "為什麼你還在這裡，女人？！我們關門了！"
 
 #. Id: 43022-Dialogue.mod
 #. -- Index: 7.3
@@ -1062,7 +1062,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43022-Dialogue.mod:3
 msgid "Why are you harassing me, woman!? Leave!"
-msgstr ""
+msgstr "你為什麼要騷擾我，女人！？離開！"
 
 #. Id: 43022-Dialogue.mod
 #. -- Index: 7.4
@@ -1143,7 +1143,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43025-Dialogue.mod:0
 msgid "We're closing. Leave already."
-msgstr ""
+msgstr "我們要結束了。離開了。"
 
 #. Id: 43025-Dialogue.mod
 #. -- Index: 0.1
@@ -1154,7 +1154,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43025-Dialogue.mod:1
 msgid "I'm closing up now. Leave."
-msgstr ""
+msgstr "我現在正在關門。離開。"
 
 #. Id: 43025-Dialogue.mod
 #. -- Index: 0.2
@@ -1165,7 +1165,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43025-Dialogue.mod:2
 msgid "Shop's closing up now. Leave."
-msgstr ""
+msgstr "商店現在關門了。離開。"
 
 #. Id: 43026-Dialogue.mod
 #. -- Index: 1.4
@@ -1175,7 +1175,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43026-Dialogue.mod:4
 msgid "Leave my shop!"
-msgstr ""
+msgstr "離開我的店鋪！"
 
 #. Id: 43026-Dialogue.mod
 #. -- Index: 1.5
@@ -1185,7 +1185,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43026-Dialogue.mod:5
 msgid "I don't want you here!"
-msgstr ""
+msgstr "我不要你在這裡！"
 
 #. Id: 43026-Dialogue.mod
 #. -- Index: 1.6
@@ -1195,7 +1195,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43026-Dialogue.mod:6
 msgid "You're not wanted here!"
-msgstr ""
+msgstr "你不想在這裡！"
 
 #. Id: 43027-Dialogue.mod
 #. -- Index: 2.0
@@ -1205,7 +1205,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43027-Dialogue.mod:0
 msgid "Get out of my shop, beast! Paladins!"
-msgstr ""
+msgstr "走出我的店鋪，野獸！聖騎士！"
 
 #. Id: 43027-Dialogue.mod
 #. -- Index: 2.1
@@ -1215,7 +1215,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43027-Dialogue.mod:1
 msgid "Paladins! The dark one, won't leave!"
-msgstr ""
+msgstr "聖騎士！黑暗的一個，不會離開！"
 
 #. Id: 43027-Dialogue.mod
 #. -- Index: 2.3
@@ -1243,7 +1243,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 43009-Dialogue.mod:1
 msgid "Intruder! Paladins!"
-msgstr ""
+msgstr "入侵者！聖騎士！"
 
 #. Id: 43009-Dialogue.mod
 #. -- Index: 2.2
@@ -1252,7 +1252,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 43009-Dialogue.mod:2
 msgid "Trespasser! Paladins, help!"
-msgstr ""
+msgstr "侵入者！聖騎士，求助！"
 
 #. Id: 43009-Dialogue.mod
 #. -- Index: 2.3
@@ -1261,7 +1261,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 43009-Dialogue.mod:3
 msgid "Assistance, paladins! Intruder!"
-msgstr ""
+msgstr "援助，聖騎士！入侵者！"
 
 #. Id: 43009-Dialogue.mod
 #. -- Index: 2.4
@@ -1270,7 +1270,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 43009-Dialogue.mod:4
 msgid "Intruder! Intruder, paladins!"
-msgstr ""
+msgstr "入侵者！入侵者，聖騎士！"
 
 #. Id: 43009-Dialogue.mod
 #. -- Index: 2.5
@@ -1279,7 +1279,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 43009-Dialogue.mod:5
 msgid "Help, paladins! Intruder!"
-msgstr ""
+msgstr "救命，聖騎士！入侵者！"
 
 #. Id: 43009-Dialogue.mod
 #. -- Index: 2.6
@@ -1328,7 +1328,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43233-Dialogue.mod:1
 msgid "But, er, I can wait for you. Take your time."
-msgstr ""
+msgstr "但是，呃，我可以等你。慢慢來。"
 
 #. Id: 46925-Dialogue.mod
 #. -- Index: 3.0
@@ -1338,7 +1338,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 46925-Dialogue.mod:0
 msgid "You need to leave. The shop's closing."
-msgstr ""
+msgstr "你需要離開。這家商店正在關閉。"
 
 #. Id: 46931-Dialogue.mod
 #. -- Index: 7.0
@@ -1347,7 +1347,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46931-Dialogue.mod:0
 msgid "Ugh... I give up. He's all yours."
-msgstr ""
+msgstr "呃......我放棄了。他是你的全部。"
 
 #. Id: 46932-Dialogue.mod
 #. -- Index: 8.0
@@ -1356,7 +1356,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46932-Dialogue.mod:0
 msgid "... o..okay..."
-msgstr ""
+msgstr "...... 好..好的 ......"
 
 #. Id: 43232-Dialogue.mod
 #. -- Index: 0.0
@@ -1368,7 +1368,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43232-Dialogue.mod:0
 msgid "I'm closing up soon, sister. Please come back again soon."
-msgstr ""
+msgstr "姐妹，我很快就收了。請盡快回來。"
 
 #. Id: 43232-Dialogue.mod
 #. -- Index: 0.1
@@ -1380,7 +1380,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43232-Dialogue.mod:1
 msgid "Thanks for visiting! May the light protect you, sister."
-msgstr ""
+msgstr "感謝造訪！可是光保護你，姐妹。"
 
 #. Id: 43232-Dialogue.mod
 #. -- Index: 0.2
@@ -1392,7 +1392,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 43232-Dialogue.mod:2
 msgid "It's getting dark out, tread carefully, sister."
-msgstr ""
+msgstr "它變得黑暗，小心翼翼地踩著妹妹。"
 
 #. Id: 43237-Dialogue.mod
 #. -- Index: 1.0
@@ -1402,7 +1402,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43237-Dialogue.mod:0
 msgid "I need to lock up now..."
-msgstr ""
+msgstr "我現在需要鎖定......"
 
 #. Id: 43237-Dialogue.mod
 #. -- Index: 1.1
@@ -1412,7 +1412,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43237-Dialogue.mod:1
 msgid "I need to lock up the shop..."
-msgstr ""
+msgstr "我需要鎖定商店......"
 
 #. Id: 43237-Dialogue.mod
 #. -- Index: 1.2
@@ -1422,7 +1422,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43237-Dialogue.mod:2
 msgid "I'll be locking the doors now..."
-msgstr ""
+msgstr "我現在要把門鎖上......"
 
 #. Id: 43238-Dialogue.mod
 #. -- Index: 2.0
@@ -1432,7 +1432,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43238-Dialogue.mod:0
 msgid "Please leave..."
-msgstr ""
+msgstr "請離開..."
 
 #. Id: 43238-Dialogue.mod
 #. -- Index: 2.1
@@ -1442,7 +1442,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43238-Dialogue.mod:1
 msgid "Please leave now. You can come back in the morning."
-msgstr ""
+msgstr "請馬上離開。你可以早上回來。"
 
 #. Id: 43238-Dialogue.mod
 #. -- Index: 2.2
@@ -1452,7 +1452,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43238-Dialogue.mod:2
 msgid "I'll be open as usual in the morning. Please leave now."
-msgstr ""
+msgstr "我會像往常一樣在早上開放。請馬上離開。"
 
 #. Id: 46938-Dialogue.mod
 #. -- Index: 6.0
@@ -1461,7 +1461,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46938-Dialogue.mod:0
 msgid "Wretched woman!"
-msgstr ""
+msgstr "猥瑣的女人！"
 
 #. Id: 46939-Dialogue.mod
 #. -- Index: 7.0
@@ -1470,7 +1470,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46939-Dialogue.mod:0
 msgid "If you're not out soon, I'll throw you out myself!"
-msgstr ""
+msgstr "如果你不趕快出去，我會把你自己扔出去！"
 
 #. Id: 46940-Dialogue.mod
 #. -- Index: 8.0
@@ -1493,7 +1493,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46940-Dialogue.mod:0 3115-gamedata.base:0 46446-Dialogue.mod:0
 msgid "Be off with you!"
-msgstr ""
+msgstr "跟你一起去吧！"
 
 #. Id: 46941-Dialogue.mod
 #. -- Index: 9.0
@@ -1502,7 +1502,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 46941-Dialogue.mod:0
 msgid "Intruder! I warned you!"
-msgstr ""
+msgstr "入侵者！我警告過你！"
 
 #. Id: 49921-Dialogue.mod
 #. -- Index: 0.0
@@ -1513,7 +1513,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 49921-Dialogue.mod:0
 msgid "Paladins! Skeleton! Sk- skeletons are here!"
-msgstr ""
+msgstr "聖騎士！骨架！ 骷髏人在這裡！"
 
 #. Id: 49925-Dialogue.mod
 #. -- Index: 1.0
@@ -1522,7 +1522,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 49925-Dialogue.mod:0
 msgid "It's taken over my shop!"
-msgstr ""
+msgstr "這是我的店鋪！"
 
 #. Id: 49925-Dialogue.mod
 #. -- Index: 1.1
@@ -1531,5 +1531,4 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 49925-Dialogue.mod:1
 msgid "My shop! My shop is infested! I'm plagued by the darkness!"
-msgstr ""
-
+msgstr "我的店鋪！我的商店出沒了！我被黑暗所困擾！"

@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
 #: 14013-Escapes.mod:0
 msgid "Take it! (Give 500 Cats)"
-msgstr ""
+msgstr "接受！ （給500隻貓）"
 
 #. Id: 14013-Escapes.mod
 #. -- Index: 1.1
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
 #: 14013-Escapes.mod:1
 msgid "Okay, okay! (Give 500 Cats)"
-msgstr ""
+msgstr "好吧好吧！ （給500隻貓）"
 
 #. Id: 14013-Escapes.mod
 #. -- Index: 1.2
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
 #: 14013-Escapes.mod:2
 msgid "/FINE/... (Give 500 Cats)"
-msgstr ""
+msgstr "/FINE/... （給500隻貓）"
 
 #. Id: 14018-Escapes.mod
 #. -- Index: 2.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14018-Escapes.mod:1
 msgid "Smart choice, /BOY/"
-msgstr ""
+msgstr "聰明的選擇，/BOY/"
 
 #. Id: 14018-Escapes.mod
 #. -- Index: 2.2
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14017-Escapes.mod:0
 msgid "Just don't try comin' after us!"
-msgstr ""
+msgstr "只是不要在我們之後嘗試！"
 
 #. Id: 14017-Escapes.mod
 #. -- Index: 3.1
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14017-Escapes.mod:1
 msgid "Don't even think about comin' after us!"
-msgstr ""
+msgstr "甚至不要想到我們之後！"
 
 #. Id: 14017-Escapes.mod
 #. -- Index: 3.2
@@ -216,7 +216,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14017-Escapes.mod:2
 msgid "I'll let you live another day!"
-msgstr ""
+msgstr "我會讓你活到另一天！"
 
 #. Id: 14017-Escapes.mod
 #. -- Index: 3.3
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14017-Escapes.mod:3
 msgid "You get to live another day!"
-msgstr ""
+msgstr "你可以活到另一天！"
 
 #. Id: 14017-Escapes.mod
 #. -- Index: 3.4
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Group title: Territorial thug (Dancemonkey pt4)
 #: 14017-Escapes.mod:5 9980-Dialogue.mod:0
 msgid "Now get outta my face!"
-msgstr ""
+msgstr "現在離開我的臉！"
 
 #. Id: 14014-Escapes.mod
 #. -- Index: 1.0
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>300, Tag: -1
 #: 14014-Escapes.mod:0
 msgid "Here (Give 300 Cats)"
-msgstr ""
+msgstr "在這裡（給300隻貓）"
 
 #. Id: 14014-Escapes.mod
 #. -- Index: 1.1
@@ -297,7 +297,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14578-Dialogue?(4).mod:0
 msgid "It's all I've got, I swear"
-msgstr ""
+msgstr "我發誓，這就是我所擁有的一切"
 
 #. Id: 14578-Dialogue (4).mod
 #. -- Index: 3.1
@@ -306,7 +306,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14578-Dialogue?(4).mod:1
 msgid "It's all I have, honestly"
-msgstr ""
+msgstr "老實說，這就是我的全部"
 
 #. Id: 14578-Dialogue (4).mod
 #. -- Index: 3.2
@@ -315,7 +315,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14578-Dialogue?(4).mod:2
 msgid "I swear, I don't have any more money"
-msgstr ""
+msgstr "我發誓，我沒有更多的錢"
 
 #. Id: 14580-Dialogue (4).mod
 #. -- Index: 4.0
@@ -333,7 +333,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14581-Dialogue?(4).mod:0
 msgid "Now get the hell outta my face before I change my mind"
-msgstr ""
+msgstr "在我改變主意之前，現在讓我失去理智"
 
 #. Id: 14581-Dialogue (4).mod
 #. -- Index: 5.1
@@ -388,7 +388,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 14589-Dialogue?(4).mod:0 12462-Dialogue?(10)?(2).mod:4 8434-Dialogue.mod:1 8438-Dialogue.mod:1
 msgid "Go for the eyes!"
-msgstr ""
+msgstr "去尋找眼睛！"
 
 #. Id: 14589-Dialogue (4).mod
 #. -- Index: 5.1
@@ -483,7 +483,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Greenlander or Scorchlander or Shek
 #: 15332-Dialogue.mod:1 96137-__Southern?hive.mod:1 56052-Dialogue.mod:4 56185-Dialogue.mod:4
 msgid "Blood, blood, blood!"
-msgstr ""
+msgstr "血，血，血！"
 
 #. Id: 15332-Dialogue.mod
 #. -- Index: 5.2
@@ -546,7 +546,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 15332-Dialogue.mod:2 61025-Dialogue.mod:2 64182-Dialogue.mod:0 64183-Dialogue.mod:0 1532680-rebirth.mod:0 17995-Dialogue.mod:1 43836-Dialogue.mod:0 17599-Dialogue.mod:7 14820-Dialogue.mod:0 14821-Dialogue.mod:4
 msgid "Fight!"
-msgstr ""
+msgstr "戰鬥！"
 
 #. Id: 15332-Dialogue.mod
 #. -- Index: 5.4
@@ -555,7 +555,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15332-Dialogue.mod:4
 msgid "Get over 'ere!"
-msgstr ""
+msgstr "到那邊去！"
 
 #. Id: 15334-Dialogue.mod
 #. -- Index: 5.0
@@ -566,7 +566,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 15334-Dialogue.mod:0
 msgid "Come to daddy"
-msgstr ""
+msgstr "來爸爸吧"
 
 #. Id: 15334-Dialogue.mod
 #. -- Index: 5.1
@@ -577,7 +577,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 15334-Dialogue.mod:1
 msgid "Come to papa"
-msgstr ""
+msgstr "來爸爸吧"
 
 #. Id: 15336-Dialogue.mod
 #. -- Index: 5.0
@@ -586,7 +586,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15336-Dialogue.mod:0
 msgid "I'll sort 'em out!"
-msgstr ""
+msgstr "我會把它們排除在外！"
 
 #. Id: 15336-Dialogue.mod
 #. -- Index: 5.1
@@ -613,7 +613,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15336-Dialogue.mod:3
 msgid "Chase 'em down!"
-msgstr ""
+msgstr "追逐他們！"
 
 #. Id: 14579-Dialogue (4).mod
 #. -- Index: 3.0
@@ -649,7 +649,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14579-Dialogue?(4).mod:3
 msgid "Hey back off! Don't touch my stuff!"
-msgstr ""
+msgstr "嘿退了！別碰我的東西！"
 
 #. Id: 14591-Dialogue (4).mod
 #. -- Index: 4.0
@@ -683,7 +683,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15317-Dialogue.mod:0
 msgid "Go ahead, check my belongings"
-msgstr ""
+msgstr "來吧，檢查我的財物"
 
 #. Id: 15318-Dialogue.mod
 #. -- Index: 4.0
@@ -692,7 +692,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15318-Dialogue.mod:0
 msgid "Don't mind if I do..."
-msgstr ""
+msgstr "不介意我做..."
 
 #. Id: 15318-Dialogue.mod
 #. -- Index: 4.1
@@ -701,7 +701,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15318-Dialogue.mod:1
 msgid "Alright, I will..."
-msgstr ""
+msgstr "好吧，我會......"
 
 #. Id: 15318-Dialogue.mod
 #. -- Index: 4.2
@@ -720,7 +720,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 700 - non robot
 #: 15318-Dialogue.mod:2 5592-Escapes.mod:2 15096-Dialogue.mod:0
 msgid "Alright..."
-msgstr ""
+msgstr "好的..."
 
 #. Id: 15318-Dialogue.mod
 #. -- Index: 4.3
@@ -729,7 +729,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15318-Dialogue.mod:3
 msgid "I will!..."
-msgstr ""
+msgstr "我會！..."
 
 #. Id: 15319-Dialogue.mod
 #. -- Index: 5.0
@@ -809,7 +809,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS=0, Tag: -1
 #: 15329-Dialogue.mod:0
 msgid "Go ahead, check my stuff"
-msgstr ""
+msgstr "來吧，檢查我的東西"
 
 #. Id: 14020-Escapes.mod
 #. -- Index: 2.0
@@ -839,7 +839,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
 #: 14592-Dialogue?(4).mod:0
 msgid "You'd rather fight us all, would you?"
-msgstr ""
+msgstr "你寧願和我們打架，是嗎？"
 
 #. Id: 14592-Dialogue (4).mod
 #. -- Index: 3.1
@@ -849,7 +849,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
 #: 14592-Dialogue?(4).mod:1
 msgid "So you'd rather fight ALL of us?"
-msgstr ""
+msgstr "所以你寧願和我們所有人打架？"
 
 #. Id: 14593-Dialogue (4).mod
 #. -- Index: 4.0
@@ -918,7 +918,7 @@ msgstr ""
 #. -- Group title: Bo attacked
 #: 14597-Dialogue?(4).mod:0 8691-Dialogue.mod:0
 msgid "Bring it on then!"
-msgstr ""
+msgstr "然後把它帶上！"
 
 #. Id: 14597-Dialogue (4).mod
 #. -- Index: 5.1
@@ -927,7 +927,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14597-Dialogue?(4).mod:1
 msgid "Come on then, hit me!"
-msgstr ""
+msgstr "來吧，打我！"
 
 #. Id: 14597-Dialogue (4).mod
 #. -- Index: 5.2
@@ -946,7 +946,7 @@ msgstr ""
 #. -- Group title: Shek attack
 #: 14597-Dialogue?(4).mod:2 44974-Dialogue.mod:1 15422-Dialogue.mod:2
 msgid "Then let's fight!"
-msgstr ""
+msgstr "然後讓我們戰鬥吧！"
 
 #. Id: 14597-Dialogue (4).mod
 #. -- Index: 5.3
@@ -955,7 +955,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14597-Dialogue?(4).mod:3
 msgid "Show me what you got then!"
-msgstr ""
+msgstr "告訴我你有什麼！"
 
 #. Id: 15344-Dialogue.mod
 #. -- Index: 3.0
@@ -964,7 +964,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15344-Dialogue.mod:0
 msgid "Just take the 300, bandit. Don't push me."
-msgstr ""
+msgstr "只需要300，土匪。不要逼我。"
 
 #. Id: 15344-Dialogue.mod
 #. -- Index: 3.1
@@ -973,7 +973,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15344-Dialogue.mod:1
 msgid "Don't push it bandit, just take the 300"
-msgstr ""
+msgstr "不要把它推到強盜，只需要300"
 
 #. Id: 15344-Dialogue.mod
 #. -- Index: 3.2
@@ -982,7 +982,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15344-Dialogue.mod:2
 msgid "You don't want to push me, bandit..."
-msgstr ""
+msgstr "你不想逼我，土匪......"
 
 #. Id: 15345-Dialogue.mod
 #. -- Index: 4.0
@@ -1009,7 +1009,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15348-Dialogue.mod:0
 msgid "I use bandits like you for target practise"
-msgstr ""
+msgstr "我像你一樣使用土匪進行目標訓練"
 
 #. Id: 15348-Dialogue.mod
 #. -- Index: 5.1
@@ -1018,7 +1018,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15348-Dialogue.mod:1
 msgid "I've killed hundreds of bandits like you"
-msgstr ""
+msgstr "我殺死了數百名像你一樣的匪徒"
 
 #. Id: 15348-Dialogue.mod
 #. -- Index: 5.2
@@ -1027,7 +1027,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15348-Dialogue.mod:2
 msgid "I eat bandits like you for breakfast"
-msgstr ""
+msgstr "我早餐吃像你這樣的土匪"
 
 #. Id: 15353-Dialogue.mod
 #. -- Index: 6.0
@@ -1036,7 +1036,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15353-Dialogue.mod:0
 msgid "Oh yeah? We'll see how well you do against ME!"
-msgstr ""
+msgstr "哦耶？我們會看到你對我有多好！"
 
 #. Id: 15353-Dialogue.mod
 #. -- Index: 6.1
@@ -1045,7 +1045,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15353-Dialogue.mod:1
 msgid "Is that right? Then let's see how you do against ME!"
-msgstr ""
+msgstr "是對的嗎？然後讓我們看看你如何反對我！"
 
 #. Id: 15349-Dialogue.mod
 #. -- Index: 5.0
@@ -1054,7 +1054,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15349-Dialogue.mod:0
 msgid "Because I don't like getting my hands dirty"
-msgstr ""
+msgstr "因為我不喜歡弄髒手"
 
 #. Id: 15349-Dialogue.mod
 #. -- Index: 5.1
@@ -1063,7 +1063,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15349-Dialogue.mod:1
 msgid "Because you won't like me when I'm angry"
-msgstr ""
+msgstr "因為我生氣的時候你不會喜歡我"
 
 #. Id: 15349-Dialogue.mod
 #. -- Index: 5.2
@@ -1072,7 +1072,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15349-Dialogue.mod:2
 msgid "Because I'm a lover, not a fighter"
-msgstr ""
+msgstr "因為我是情人，不是戰士"
 
 #. Id: 15352-Dialogue.mod
 #. -- Index: 6.0
@@ -1099,7 +1099,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15351-Dialogue.mod:0
 msgid "Keep pushing me and you'll find out soon"
-msgstr ""
+msgstr "繼續推我，你很快就會發現"
 
 #. Id: 15351-Dialogue.mod
 #. -- Index: 5.1
@@ -1108,7 +1108,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 15351-Dialogue.mod:1
 msgid "Keep pushing, maybe you'll find out"
-msgstr ""
+msgstr "繼續推，也許你會發現"
 
 #. Id: 14023-Escapes.mod
 #. -- Index: 2.0
@@ -1119,7 +1119,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
 #: 14023-Escapes.mod:0
 msgid "MORE!"
-msgstr ""
+msgstr "更多！"
 
 #. Id: 14023-Escapes.mod
 #. -- Index: 2.1
@@ -1130,7 +1130,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
 #: 14023-Escapes.mod:1
 msgid ".... Higher."
-msgstr ""
+msgstr "......更高。"
 
 #. Id: 14642-Dialogue (4).mod
 #. -- Index: 3.0
@@ -1144,7 +1144,7 @@ msgstr ""
 #. -- Group title: Crab town recruit
 #: 14642-Dialogue?(4).mod:0 65930-Dialogue.mod:0
 msgid "... No!"
-msgstr ""
+msgstr "......不！"
 
 #. Id: 14026-Escapes.mod
 #. -- Index: 2.0
@@ -1153,7 +1153,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14026-Escapes.mod:0
 msgid "Alright, hand it over then"
-msgstr ""
+msgstr "好吧，把它遞過來"
 
 #. Id: 14026-Escapes.mod
 #. -- Index: 2.1
@@ -1219,7 +1219,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 14030-Escapes.mod:2 16136-Dialogue.mod:2 18303-Dialogue.mod:5
 msgid "I'll chop you up!"
-msgstr ""
+msgstr "我會砍你的！"
 
 #. Id: 14030-Escapes.mod
 #. -- Index: 2.3
@@ -1258,7 +1258,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 14030-Escapes.mod:5 12837-Dialogue?(11)?(2).mod:3 17600-Dialogue.mod:0
 msgid "You'll die!"
-msgstr ""
+msgstr "你會死的！"
 
 #. Id: 14030-Escapes.mod
 #. -- Index: 2.6
@@ -1267,7 +1267,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14030-Escapes.mod:6
 msgid "I'll cut you open!"
-msgstr ""
+msgstr "我會把你打開！"
 
 #. Id: 14030-Escapes.mod
 #. -- Index: 2.7
@@ -1276,7 +1276,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14030-Escapes.mod:7
 msgid "I'll rip your face off!"
-msgstr ""
+msgstr "我會撕掉你的臉！"
 
 #. Id: 14016-Escapes.mod
 #. -- Index: 1.0
@@ -1285,7 +1285,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14016-Escapes.mod:0
 msgid "You want Cats? Take them from me, I dare you"
-msgstr ""
+msgstr "你想要貓嗎？帶他們離開我，我敢"
 
 #. Id: 14016-Escapes.mod
 #. -- Index: 1.1
@@ -1294,7 +1294,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14016-Escapes.mod:1
 msgid "You want my money? Just try taking it from me!"
-msgstr ""
+msgstr "你想要我的錢？試著從我這裡拿走吧！"
 
 #. Id: 14016-Escapes.mod
 #. -- Index: 1.2
@@ -1303,7 +1303,7 @@ msgstr ""
 #. -- Group title: Bandit hold up
 #: 14016-Escapes.mod:2
 msgid "Bring it on, bandit dogs! I've been itching for a fight!"
-msgstr ""
+msgstr "帶上它，強盜狗！我一直渴望戰鬥！"
 
 #. Id: 14016-Escapes.mod
 #. -- Index: 1.3
@@ -1411,4 +1411,3 @@ msgstr ""
 #: 14031-Escapes.mod:4
 msgid "I'll punch that smirk off your face, /BASTARD/!"
 msgstr ""
-

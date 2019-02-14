@@ -27,7 +27,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 3115-gamedata.base:1 46446-Dialogue.mod:1
 msgid "Shop's closing!"
-msgstr ""
+msgstr "商店關閉！"
 
 #. Id: 3115-gamedata.base
 #. -- Index: 0.2
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 3115-gamedata.base:2 46446-Dialogue.mod:2
 msgid "Time to get out!"
-msgstr ""
+msgstr "是時候出去了！"
 
 #. Id: 3115-gamedata.base
 #. -- Index: 0.3
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
 #: 3115-gamedata.base:3
 msgid "It's closing time!"
-msgstr ""
+msgstr "這是關閉時間！"
 
 #. Id: 3115-gamedata.base
 #. -- Index: 0.4
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 3115-gamedata.base:4 46396-Dialogue.mod:2
 msgid "C'mon, closing time."
-msgstr ""
+msgstr "來吧，關閉時間。"
 
 #. Id: 3115-gamedata.base
 #. -- Index: 0.5
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: NUM_DIALOG_EVENT_REPEATS>10, Tag: -1
 #: 3115-gamedata.base:5
 msgid "I really want to go to bed."
-msgstr ""
+msgstr "我真的很想去睡覺。"
 
 #. Id: 3119-gamedata.base
 #. -- Index: 0.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 3119-gamedata.base:0
 msgid "Please come back tomorrow!"
-msgstr ""
+msgstr "請明天再來！"
 
 #. Id: 3119-gamedata.base
 #. -- Index: 0.1
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 3119-gamedata.base:1
 msgid "Thank you for your custom."
-msgstr ""
+msgstr "謝謝你的定制。"
 
 #. Id: 3119-gamedata.base
 #. -- Index: 0.2
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 3119-gamedata.base:2
 msgid "Goodbye!"
-msgstr ""
+msgstr "再見！"
 
 #. Id: 3119-gamedata.base
 #. -- Index: 0.3
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 3119-gamedata.base:3
 msgid "Thanks for visiting!"
-msgstr ""
+msgstr "感謝造訪！"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.1
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:1
 msgid "The shop is closing now."
-msgstr ""
+msgstr "這家商店現在正在關閉。"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.2
@@ -143,7 +143,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:2
 msgid "Thankyou come again!"
-msgstr ""
+msgstr "歡迎再次光臨！"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.3
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:3
 msgid "Shop's closing, thanks for your custom!"
-msgstr ""
+msgstr "商店關閉，感謝您的定制！"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.4
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:4
 msgid "Please make your way out, shop's closing up now."
-msgstr ""
+msgstr "請你走出去，現在商店關門了。"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.5
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:5
 msgid "Shutting up shop, please come back tomorrow!"
-msgstr ""
+msgstr "關店，請明天再來！"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.6
@@ -191,7 +191,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:6
 msgid "Shop's closing. Thankyou for your custom."
-msgstr ""
+msgstr "商店關閉。謝謝您的定制。"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.7
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:7
 msgid "Closing time. Thanks for visiting!"
-msgstr ""
+msgstr "關閉時間。感謝造訪！"
 
 #. Id: 3122-gamedata.base
 #. -- Index: 0.8
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3122-gamedata.base:8
 msgid "Closing time. Thank you, come again!"
-msgstr ""
+msgstr "關閉時間。歡迎再次光臨！"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.0
@@ -227,7 +227,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:0
 msgid "C'mon, you can come back in the morning..."
-msgstr ""
+msgstr "來吧，你可以早上回來......"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.1
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:1
 msgid "You can carry on shopping in the morning..."
-msgstr ""
+msgstr "你可以在早上繼續購物......"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.2
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:2
 msgid "We'll be open again first thing in the morning..."
-msgstr ""
+msgstr "我們早上第一件事就是開放......"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.3
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:3
 msgid "You can come back again tomorrow..."
-msgstr ""
+msgstr "你明天可以再回來......"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.4
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:4
 msgid "If you want to buy something, come back tomorrow..."
-msgstr ""
+msgstr "如果你想買東西，明天再回來......"
 
 #. Id: 46395-Dialogue.mod
 #. -- Index: 1.6
@@ -287,7 +287,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46395-Dialogue.mod:6
 msgid "Please leave, the shop is closing."
-msgstr ""
+msgstr "請離開，商店正在關閉。"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.0
@@ -299,7 +299,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:0
 msgid "I need my beauty sleep, it's time for bed. Go."
-msgstr ""
+msgstr "我需要睡美容，是時候睡覺了。走。"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.1
@@ -311,7 +311,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:1
 msgid "Gotta close up so..."
-msgstr ""
+msgstr "得結束了......"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.3
@@ -323,7 +323,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:3
 msgid "I've got business to attend to, you need to leave."
-msgstr ""
+msgstr "我有生意要照顧，你需要離開。"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.4
@@ -335,7 +335,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:4
 msgid "I'm tired, I need to go to bed. Please leave."
-msgstr ""
+msgstr "我累了，我需要去睡覺。請離開。"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.5
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:5
 msgid "Wrap it up and make your way out please."
-msgstr ""
+msgstr "把它包起來，請你走出去。"
 
 #. Id: 46396-Dialogue.mod
 #. -- Index: 2.6
@@ -359,7 +359,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46396-Dialogue.mod:6
 msgid "Finish up and leave please."
-msgstr ""
+msgstr "結束，請離開。"
 
 #. Id: 46427-Dialogue.mod
 #. -- Index: 3.0
@@ -371,7 +371,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46427-Dialogue.mod:0
 msgid "Open as usual tomorrow..."
-msgstr ""
+msgstr "明天打開......"
 
 #. Id: 46427-Dialogue.mod
 #. -- Index: 3.1
@@ -383,7 +383,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46427-Dialogue.mod:1
 msgid "We'll be open as usual in the morning..."
-msgstr ""
+msgstr "我們將在早上照常開放......"
 
 #. Id: 46427-Dialogue.mod
 #. -- Index: 3.5
@@ -395,7 +395,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46427-Dialogue.mod:5
 msgid "It's been a long day, don't make me have to stay open longer..."
-msgstr ""
+msgstr "這是漫長的一天，不要讓我長時間保持開放..."
 
 #. Id: 46428-Dialogue.mod
 #. -- Index: 4.0
@@ -407,7 +407,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46428-Dialogue.mod:0
 msgid "Please leave now."
-msgstr ""
+msgstr "請馬上離開。"
 
 #. Id: 46428-Dialogue.mod
 #. -- Index: 4.1
@@ -419,7 +419,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46428-Dialogue.mod:1
 msgid "Please get out."
-msgstr ""
+msgstr "請出去"
 
 #. Id: 46428-Dialogue.mod
 #. -- Index: 4.4
@@ -431,7 +431,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46428-Dialogue.mod:4
 msgid "C'mon!"
-msgstr ""
+msgstr "來吧！"
 
 #. Id: 46428-Dialogue.mod
 #. -- Index: 4.5
@@ -443,7 +443,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46428-Dialogue.mod:5
 msgid "I've asked you enough times now! Please go."
-msgstr ""
+msgstr "我已經問過你足夠多次了！請離開。"
 
 #. Id: 46428-Dialogue.mod
 #. -- Index: 4.6
@@ -455,7 +455,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46428-Dialogue.mod:6
 msgid "How many times are you going to make me ask? Please leave."
-msgstr ""
+msgstr "你要問我多少次？請離開。"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.0
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:0
 msgid "Are you even listening to me? You need to leave!"
-msgstr ""
+msgstr "你甚至在聽我說話嗎？你需要離開！"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.1
@@ -481,7 +481,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:1
 msgid "Why aren't you listening to me? I can't serve you, leave!"
-msgstr ""
+msgstr "你為什麼不聽我說話？我不能為你服務，離開！"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.2
@@ -494,7 +494,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:2
 msgid "Are you just going to keep ignoring me? You need to go!"
-msgstr ""
+msgstr "你只是要一直無視我嗎？你需要去！"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.3
@@ -507,7 +507,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:3
 msgid "You need to go! Don't make this ugly for us all."
-msgstr ""
+msgstr "你需要走！不要讓我們所有人都難過。"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.4
@@ -520,7 +520,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:4
 msgid "I don't want any trouble. Please just leave."
-msgstr ""
+msgstr "我不想要任何麻煩。請離開。"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.5
@@ -533,7 +533,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:5
 msgid "You can't buy anything, we're closed. Why are you still hanging around?"
-msgstr ""
+msgstr "你不能買任何東西，我們關閉了。你為什麼還在閒逛？"
 
 #. Id: 46397-Dialogue.mod
 #. -- Index: 5.6
@@ -546,7 +546,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46397-Dialogue.mod:6
 msgid "Why are you still loitering around? We're closed!"
-msgstr ""
+msgstr "你為什麼還在遊蕩？我們關門了！"
 
 #. Id: 46399-Dialogue.mod
 #. -- Index: 6.0
@@ -559,7 +559,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46399-Dialogue.mod:0
 msgid "Why.. why are you just standing there? Why aren't you leaving?"
-msgstr ""
+msgstr "為什麼......你為什麼只是站在那裡？你為什麼不離開？"
 
 #. Id: 46399-Dialogue.mod
 #. -- Index: 6.2
@@ -572,7 +572,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46399-Dialogue.mod:2
 msgid "What are you doing there? You're not even doing anything!"
-msgstr ""
+msgstr "你在那裡做什麼？你什麼都沒做！"
 
 #. Id: 46399-Dialogue.mod
 #. -- Index: 6.3
@@ -585,7 +585,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46399-Dialogue.mod:3
 msgid "Why are you just standing there like that?"
-msgstr ""
+msgstr "你為什麼這樣站在那裡？"
 
 #. Id: 46458-Dialogue.mod
 #. -- Index: 7.0
@@ -597,7 +597,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46458-Dialogue.mod:0
 msgid "You're creeping me out dammit!"
-msgstr ""
+msgstr "你在詛咒我！"
 
 #. Id: 46458-Dialogue.mod
 #. -- Index: 7.1
@@ -609,7 +609,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46458-Dialogue.mod:1
 msgid "You're wierding me out!"
-msgstr ""
+msgstr "你真是太棒了！"
 
 #. Id: 46458-Dialogue.mod
 #. -- Index: 7.2
@@ -621,7 +621,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46458-Dialogue.mod:2
 msgid "This is just getting wierd now..."
-msgstr ""
+msgstr "這現在變得越來越奇怪......"
 
 #. Id: 46458-Dialogue.mod
 #. -- Index: 7.3
@@ -633,7 +633,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46458-Dialogue.mod:3
 msgid "Now I'm just starting to think you're a creep..."
-msgstr ""
+msgstr "現在我才開始認為你是一個蠕蟲......"
 
 #. Id: 46460-Dialogue.mod
 #. -- Index: 9.0
@@ -645,7 +645,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46460-Dialogue.mod:0
 msgid "Need a hand?"
-msgstr ""
+msgstr "需要幫忙？"
 
 #. Id: 46460-Dialogue.mod
 #. -- Index: 9.1
@@ -657,7 +657,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46460-Dialogue.mod:1
 msgid "Need some help?"
-msgstr ""
+msgstr "需要一些幫助？"
 
 #. Id: 46460-Dialogue.mod
 #. -- Index: 9.2
@@ -669,7 +669,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46460-Dialogue.mod:2
 msgid "Maybe I can help?"
-msgstr ""
+msgstr "也許我可以幫忙？"
 
 #. Id: 46460-Dialogue.mod
 #. -- Index: 9.3
@@ -693,7 +693,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46460-Dialogue.mod:4
 msgid "Well this is a first..."
-msgstr ""
+msgstr "那是第一個......"
 
 #. Id: 46461-Dialogue.mod
 #. -- Index: 10.0
@@ -707,7 +707,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46461-Dialogue.mod:0
 msgid "What're they doing there... just stood there like that..."
-msgstr ""
+msgstr "他們在那裡做什麼......就這樣站在那裡......"
 
 #. Id: 46461-Dialogue.mod
 #. -- Index: 10.1
@@ -735,7 +735,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46462-Dialogue.mod:0
 msgid "Must be one hell of a day dream..."
-msgstr ""
+msgstr "一定是一天白日夢的地獄......"
 
 #. Id: 46462-Dialogue.mod
 #. -- Index: 11.1
@@ -763,7 +763,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46462-Dialogue.mod:2
 msgid "This one ain't right, looks dumber than a bag of rocks..."
-msgstr ""
+msgstr "這個不對，看起來比一袋石頭笨重......"
 
 #. Id: 46462-Dialogue.mod
 #. -- Index: 11.3
@@ -777,7 +777,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46462-Dialogue.mod:3
 msgid "Like trying to talk to a brick wall..."
-msgstr ""
+msgstr "就像試圖與磚牆交談一樣......"
 
 #. Id: 46462-Dialogue.mod
 #. -- Index: 11.5
@@ -791,7 +791,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46462-Dialogue.mod:5
 msgid "Looks a few whiskers short of a garru..."
-msgstr ""
+msgstr "看起來有點鬍鬚......"
 
 #. Id: 46462-Dialogue.mod
 #. -- Index: 11.6
@@ -805,7 +805,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SNEAKING=0, Tag: -1
 #: 46462-Dialogue.mod:6
 msgid "Looks about as sharp as a mashed cactus, this one..."
-msgstr ""
+msgstr "看起來像搗碎的仙人掌一樣鋒利，這個......"
 
 #. Id: 46462-Dialogue.mod
 #. -- Index: 11.7
@@ -827,7 +827,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46462-Dialogue.mod:7 46597-Dialogue.mod:2
 msgid "Looks about as sharp as a bag of wet rats, this one..."
-msgstr ""
+msgstr "看起來像一袋濕老鼠一樣鋒利，這一個......"
 
 #. Id: 46463-Dialogue.mod
 #. -- Index: 12.0
@@ -892,7 +892,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46463-Dialogue.mod:4
 msgid "I think something's wrong with 'em, you know..."
-msgstr ""
+msgstr "我覺得他們有問題，你知道......"
 
 #. Id: 46464-Dialogue.mod
 #. -- Index: 13.0
@@ -905,7 +905,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46464-Dialogue.mod:0
 msgid "HEY, ARE YOU OKAY?"
-msgstr ""
+msgstr "嘿，你還好嗎？"
 
 #. Id: 46464-Dialogue.mod
 #. -- Index: 13.1
@@ -918,7 +918,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46464-Dialogue.mod:1
 msgid "ARE... YOU... OKAY... ?"
-msgstr ""
+msgstr "你還好嗎... ？"
 
 #. Id: 46464-Dialogue.mod
 #. -- Index: 13.2
@@ -931,7 +931,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46464-Dialogue.mod:2
 msgid "DO YOU NEED HELP?"
-msgstr ""
+msgstr "你需要幫助嗎？"
 
 #. Id: 46464-Dialogue.mod
 #. -- Index: 13.3
@@ -944,7 +944,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46464-Dialogue.mod:3
 msgid "BLINK TWICE IF YOU NEED HELP..."
-msgstr ""
+msgstr "如果您需要幫助，請盡快眨眼..."
 
 #. Id: 46464-Dialogue.mod
 #. -- Index: 13.4
@@ -1048,7 +1048,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46467-Dialogue.mod:0
 msgid "*thump*"
-msgstr ""
+msgstr "*撲通*"
 
 #. Id: 46467-Dialogue.mod
 #. -- Index: 16.2
@@ -1061,7 +1061,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46467-Dialogue.mod:2
 msgid "*thwack*"
-msgstr ""
+msgstr "*釘入*"
 
 #. Id: 46467-Dialogue.mod
 #. -- Index: 16.3
@@ -1074,7 +1074,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46467-Dialogue.mod:3
 msgid "*whack*"
-msgstr ""
+msgstr "*重擊*"
 
 #. Id: 46467-Dialogue.mod
 #. -- Index: 16.4
@@ -1087,7 +1087,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46467-Dialogue.mod:4
 msgid "*whop*"
-msgstr ""
+msgstr "* whop *"
 
 #. Id: 46468-Dialogue.mod
 #. -- Index: 17.0
@@ -1111,7 +1111,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46468-Dialogue.mod:1
 msgid "How about we don't chuck any more rocks at the demented customer, eh?"
-msgstr ""
+msgstr "我們不再向瘋狂的客戶扔石頭了，嗯？"
 
 #. Id: 46469-Dialogue.mod
 #. -- Index: 18.0
@@ -1123,7 +1123,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46469-Dialogue.mod:0
 msgid "Geez, this is wierd, ain't it? Never seen anything quite like it..."
-msgstr ""
+msgstr "Geez，這很奇怪，不是嗎？從來沒有見過這樣的東西......"
 
 #. Id: 46469-Dialogue.mod
 #. -- Index: 18.1
@@ -1135,7 +1135,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46469-Dialogue.mod:1
 msgid "Well, I'm stumped."
-msgstr ""
+msgstr "好吧，我很難過。"
 
 #. Id: 46469-Dialogue.mod
 #. -- Index: 18.2
@@ -1147,7 +1147,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46469-Dialogue.mod:2
 msgid "Well, I'm all out of ideas."
-msgstr ""
+msgstr "好吧，我完全沒有想法。"
 
 #. Id: 46470-Dialogue.mod
 #. -- Index: 19.0
@@ -1159,7 +1159,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46470-Dialogue.mod:0
 msgid "Just leave the door open and maybe they'll go eventually. Works with flies."
-msgstr ""
+msgstr "只要把門打開，也許他們最終會走。適用於蒼蠅。"
 
 #. Id: 46470-Dialogue.mod
 #. -- Index: 19.1
@@ -1221,7 +1221,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 46473-Dialogue.mod:1
 msgid "Wait! Are they leaving?"
-msgstr ""
+msgstr "等等！他們要離開了嗎？"
 
 #. Id: 46473-Dialogue.mod
 #. -- Index: 10.2
@@ -1319,7 +1319,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46586-Dialogue.mod:2
 msgid "Foreigners..."
-msgstr ""
+msgstr "外國人..."
 
 #. Id: 46586-Dialogue.mod
 #. -- Index: 12.3
@@ -1331,7 +1331,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46586-Dialogue.mod:3
 msgid "When are they gonna leave already?"
-msgstr ""
+msgstr "他們什麼時候會離開？"
 
 #. Id: 46590-Dialogue.mod
 #. -- Index: 11.0
@@ -1342,7 +1342,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46590-Dialogue.mod:0
 msgid "Finally!"
-msgstr ""
+msgstr "最後！"
 
 #. Id: 46590-Dialogue.mod
 #. -- Index: 11.1
@@ -1364,7 +1364,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46590-Dialogue.mod:2
 msgid "Quick, lock the door before they come back!"
-msgstr ""
+msgstr "快，在他們回來之前鎖上門！"
 
 #. Id: 46590-Dialogue.mod
 #. -- Index: 11.3
@@ -1386,7 +1386,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46590-Dialogue.mod:4
 msgid "And don't come back! Freak!"
-msgstr ""
+msgstr "不要回來！怪物！"
 
 #. Id: 46590-Dialogue.mod
 #. -- Index: 11.5
@@ -1397,7 +1397,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46590-Dialogue.mod:5
 msgid "Bed time! Quick, close them out!"
-msgstr ""
+msgstr "睡覺時間！快點，關閉它們！"
 
 #. Id: 46590-Dialogue.mod
 #. -- Index: 11.6
@@ -1408,7 +1408,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46590-Dialogue.mod:6
 msgid "What was that all about..."
-msgstr ""
+msgstr "剛才那是什麼啊..."
 
 #. Id: 46593-Dialogue.mod
 #. -- Index: 10.1
@@ -1426,7 +1426,7 @@ msgstr ""
 #. -- Group title: Dead cat villager sees player
 #: 46593-Dialogue.mod:1 65088-__october?17.mod:1
 msgid "Uhhh..."
-msgstr ""
+msgstr "唔..."
 
 #. Id: 46595-Dialogue.mod
 #. -- Index: 11.0
@@ -1474,7 +1474,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46596-Dialogue.mod:1
 msgid "*face palm*"
-msgstr ""
+msgstr "*面掌*"
 
 #. Id: 46597-Dialogue.mod
 #. -- Index: 13.0
@@ -1486,7 +1486,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46597-Dialogue.mod:0
 msgid "This one really is dumber than a bag of rocks..."
-msgstr ""
+msgstr "這個真的比一袋石頭笨重......"
 
 #. Id: 46597-Dialogue.mod
 #. -- Index: 13.1
@@ -1498,7 +1498,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46597-Dialogue.mod:1
 msgid "This one's about as sharp as a mashed cactus..."
-msgstr ""
+msgstr "這個像搗碎的仙人掌一樣尖銳......"
 
 #. Id: 46597-Dialogue.mod
 #. -- Index: 13.3
@@ -1510,7 +1510,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46597-Dialogue.mod:3
 msgid "About as smart as a bag of rocks..."
-msgstr ""
+msgstr "就像一袋石頭一樣聰明......"
 
 #. Id: 46597-Dialogue.mod
 #. -- Index: 13.4
@@ -1522,7 +1522,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46597-Dialogue.mod:4
 msgid "About as smart as a stick, you are, eh?"
-msgstr ""
+msgstr "關於像棒一樣聰明，你是，嗯？"
 
 #. Id: 46597-Dialogue.mod
 #. -- Index: 13.5
@@ -1534,7 +1534,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46597-Dialogue.mod:5
 msgid ".... I have no words."
-msgstr ""
+msgstr "......我無話可說。"
 
 #. Id: 46598-Dialogue.mod
 #. -- Index: 14.0
@@ -1545,7 +1545,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46598-Dialogue.mod:0
 msgid "Let's just watch and see how this pans out..."
-msgstr ""
+msgstr "讓我們看看，看看這是怎麼回事......"
 
 #. Id: 46598-Dialogue.mod
 #. -- Index: 14.1
@@ -1577,7 +1577,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46401-Dialogue.mod:1
 msgid "Tch... late night shoppers..."
-msgstr ""
+msgstr "Tch ...深夜購物者......"
 
 #. Id: 46402-Dialogue.mod
 #. -- Index: 8.0
@@ -1607,7 +1607,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46404-Dialogue.mod:0
 msgid "Try explaining that to the town guards... no thank you!"
-msgstr ""
+msgstr "試著向鎮衛隊解釋一下......不，謝謝！"
 
 #. Id: 46404-Dialogue.mod
 #. -- Index: 10.1
@@ -1617,7 +1617,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46404-Dialogue.mod:1
 msgid "You can't just go around killing customers! "
-msgstr ""
+msgstr "你不能只是四處殺戮客戶！"
 
 #. Id: 46404-Dialogue.mod
 #. -- Index: 10.2
@@ -1627,7 +1627,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46404-Dialogue.mod:2
 msgid "Oh don't be so dramatic! Always with the killing and the stabbing..."
-msgstr ""
+msgstr "哦，不要那麼戲劇化！總是帶著殺戮和刺傷......"
 
 #. Id: 46404-Dialogue.mod
 #. -- Index: 10.3
@@ -1637,7 +1637,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46404-Dialogue.mod:3
 msgid "Seems a bit excessive... And besides, I just had my floors cleaned last week..."
-msgstr ""
+msgstr "看起來有點過分......而且，我上周剛洗過地板......"
 
 #. Id: 46405-Dialogue.mod
 #. -- Index: 11.0
@@ -1681,7 +1681,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46410-Dialogue.mod:0
 msgid "Ugh, all you care about is overtime! You've got a bad attitude, you know that?"
-msgstr ""
+msgstr "呃，你關心的只是加班！你的態度很糟糕，你知道嗎？"
 
 #. Id: 46411-Dialogue.mod
 #. -- Index: 14.0
@@ -1691,7 +1691,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46411-Dialogue.mod:0
 msgid "I do have a life, you know. Guarding this shithole pays the bills. That's it."
-msgstr ""
+msgstr "你知道，我確實有生命。守護這個屎缺支付賬單。而已。"
 
 #. Id: 46412-Dialogue.mod
 #. -- Index: 15.0
@@ -1701,7 +1701,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46412-Dialogue.mod:0
 msgid "Then quit if you hate it so much! I'm fed up of your negativity and violence!"
-msgstr ""
+msgstr "如果你討厭這麼多就退出吧！我厭倦了你的消極和暴力！"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.0
@@ -1711,7 +1711,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:0
 msgid "... And I'M fed up with your bad body odour. Do you even shower?..."
-msgstr ""
+msgstr "......我厭倦了你的體味。你甚至淋浴嗎？..."
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.1
@@ -1721,7 +1721,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:1
 msgid "... And I'M fed up of your squeaky goddamn nose..."
-msgstr ""
+msgstr "......我已經厭倦了你那吱吱作響的該死的鼻子......"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.2
@@ -1731,7 +1731,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:2
 msgid "... And I'M fed up of seeing your piggy face everyday..."
-msgstr ""
+msgstr "......而我每天都看到你的小豬臉，我已經厭倦了......"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.3
@@ -1741,7 +1741,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:3
 msgid "And I'M fed up of having to peel your hungover butt off the floor every morning..."
-msgstr ""
+msgstr "我每天早上都不得不把你的宿醉屁股從地板上剝下來......"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.4
@@ -1751,7 +1751,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:4
 msgid "And I'M fed up of being kept awake by your pathetic sobbing every night..."
-msgstr ""
+msgstr "我每天晚上都被你可憐的抽泣保持清醒......"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.5
@@ -1761,7 +1761,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:5
 msgid "And I'M fed up of your nasty cooking, I'd be better off eating a bag of rocks for lunch..."
-msgstr ""
+msgstr "而且我厭倦了你討厭的烹飪，我最好還是吃午飯吃一袋石頭......"
 
 #. Id: 46413-Dialogue.mod
 #. -- Index: 16.6
@@ -1771,7 +1771,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46413-Dialogue.mod:6
 msgid "And I'M fed up of your spineless whineing 'ohhh don't murder the customers, it's wrong, wahhh'..."
-msgstr ""
+msgstr "而且我厭倦了你沒有骨氣的嗚咽聲'哦，不要謀殺顧客，這是錯的，哇哇'......"
 
 #. Id: 46414-Dialogue.mod
 #. -- Index: 17.0
@@ -1781,7 +1781,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46414-Dialogue.mod:0
 msgid "That was a low blow! You lookin' to get fired?! Huh?!"
-msgstr ""
+msgstr "那是一個很小的打擊！你好像被解雇了？！咦？"
 
 #. Id: 46415-Dialogue.mod
 #. -- Index: 18.0
@@ -1791,7 +1791,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46415-Dialogue.mod:0
 msgid "Damn you, customer! Look what you've done now!"
-msgstr ""
+msgstr "該死的，客戶！看看你現在做了什麼！"
 
 #. Id: 46415-Dialogue.mod
 #. -- Index: 18.1
@@ -1801,7 +1801,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46415-Dialogue.mod:1
 msgid "Look what you've started now, customer! This is all your fault!"
-msgstr ""
+msgstr "看看你現在開始做什麼，客戶！這都是你的錯！"
 
 #. Id: 46416-Dialogue.mod
 #. -- Index: 19.0
@@ -1811,7 +1811,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46416-Dialogue.mod:0
 msgid "Would you get out already!? You're making us all cranky!"
-msgstr ""
+msgstr "你能早點出去嗎？？你讓我們都胡思亂想！"
 
 #. Id: 46417-Dialogue.mod
 #. -- Index: 20.0
@@ -1831,7 +1831,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46418-Dialogue.mod:0
 msgid "Oh for cryin' out loud! NO!"
-msgstr ""
+msgstr "哦，大聲喊叫！沒有！"
 
 #. Id: 46419-Dialogue.mod
 #. -- Index: 22.0
@@ -1841,7 +1841,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46419-Dialogue.mod:0
 msgid "... Got any better ideas?"
-msgstr ""
+msgstr "......有更好的想法嗎？"
 
 #. Id: 46422-Dialogue.mod
 #. -- Index: 25.0
@@ -1851,7 +1851,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46422-Dialogue.mod:0
 msgid "... Then you can just pay me the overtime instead."
-msgstr ""
+msgstr "...那你就可以給我加班了。"
 
 #. Id: 46409-Dialogue.mod
 #. -- Index: 12.0
@@ -1875,7 +1875,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46426-Dialogue.mod:0
 msgid "I'm thinking."
-msgstr ""
+msgstr "我在想。"
 
 #. Id: 46630-Dialogue.mod
 #. -- Index: 14.0
@@ -1899,7 +1899,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46631-Dialogue.mod:0
 msgid "It will be my pleasure."
-msgstr ""
+msgstr "這將是我的榮幸。"
 
 #. Id: 46633-Dialogue.mod
 #. -- Index: 17.0
@@ -1911,7 +1911,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46633-Dialogue.mod:0
 msgid "Can I do it now?"
-msgstr ""
+msgstr "我現在可以做嗎？"
 
 #. Id: 46635-Dialogue.mod
 #. -- Index: 19.0
@@ -1935,7 +1935,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46637-Dialogue.mod:0
 msgid "I won't make a mess."
-msgstr ""
+msgstr "我不會弄得一團糟。"
 
 #. Id: 46638-Dialogue.mod
 #. -- Index: 22.0
@@ -1947,7 +1947,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46638-Dialogue.mod:0
 msgid "... Just... hang on..."
-msgstr ""
+msgstr "......只是......堅持......"
 
 #. Id: 46639-Dialogue.mod
 #. -- Index: 23.0
@@ -1971,7 +1971,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46641-Dialogue.mod:0
 msgid "I knew it! You didn't mean it! You liar! Why can't you just let me have my fun?"
-msgstr ""
+msgstr "我就知道！你不是故意的！你這個騙子！為什麼你不能讓我玩得開心？"
 
 #. Id: 46642-Dialogue.mod
 #. -- Index: 26.0
@@ -1995,7 +1995,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46643-Dialogue.mod:0
 msgid "Being nice isn't how you survive in this world. You gotta break some legs."
-msgstr ""
+msgstr "善良並不是你在這個世界上生存的方式。你必須打破一些腿。"
 
 #. Id: 46645-Dialogue.mod
 #. -- Index: 28.0
@@ -2007,7 +2007,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46645-Dialogue.mod:0
 msgid "People like you are dogs, dogs that need chaining. Calm yourself."
-msgstr ""
+msgstr "像你這樣的人是狗，狗需要鏈接。你冷靜一下。"
 
 #. Id: 46646-Dialogue.mod
 #. -- Index: 29.0
@@ -2019,7 +2019,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46646-Dialogue.mod:0
 msgid "Well, I'm out. You can handle it yourself. Wait here all night for all I care."
-msgstr ""
+msgstr "好吧，我出去了。你可以自己處理。在這裡等我整晚都在乎。"
 
 #. Id: 46647-Dialogue.mod
 #. -- Index: 30.0
@@ -2052,7 +2052,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46430-Dialogue.mod:0
 msgid "... Why aren't they leaving? Is there something wrong with them?"
-msgstr ""
+msgstr "......他們為什麼不離開？他們有什麼問題嗎？"
 
 #. Id: 46431-Dialogue.mod
 #. -- Index: 9.0
@@ -2064,7 +2064,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46431-Dialogue.mod:0
 msgid "Probably had their brains eaten by cannibals or somethin'. I hear of these things."
-msgstr ""
+msgstr "可能是他們的大腦被食人族或某些東西吃掉了。我聽說過這些事情。"
 
 #. Id: 46431-Dialogue.mod
 #. -- Index: 9.1
@@ -2112,7 +2112,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46433-Dialogue.mod:0
 msgid "Could just try and nudge 'em out the door I guess..."
-msgstr ""
+msgstr "可能只是試著把它推到門外我猜..."
 
 #. Id: 46433-Dialogue.mod
 #. -- Index: 11.1
@@ -2124,7 +2124,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46433-Dialogue.mod:1
 msgid "Poke 'em out the door?"
-msgstr ""
+msgstr "戳出門？"
 
 #. Id: 46434-Dialogue.mod
 #. -- Index: 12.0
@@ -2137,7 +2137,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IM_UNARMED=0, Tag: -1
 #: 46434-Dialogue.mod:0
 msgid "I dunno... look at those swords. Last thing I need is half the town piling in here for a brawl."
-msgstr ""
+msgstr "我不知道......看看那些劍。我需要的最後一件事是在這裡打樁的一半城鎮。"
 
 #. Id: 46436-Dialogue.mod
 #. -- Index: 13.0
@@ -2149,7 +2149,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46436-Dialogue.mod:0
 msgid "FIRE! FIIIIIIRE!"
-msgstr ""
+msgstr "開火！ 開火！"
 
 #. Id: 46437-Dialogue.mod
 #. -- Index: 14.0
@@ -2160,7 +2160,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46437-Dialogue.mod:0
 msgid "What!? Where?!"
-msgstr ""
+msgstr "什麼！？哪裡？！"
 
 #. Id: 46438-Dialogue.mod
 #. -- Index: 15.0
@@ -2171,7 +2171,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46438-Dialogue.mod:0
 msgid "I was trying to trick 'em into leaving."
-msgstr ""
+msgstr "我試圖欺騙他們離開。"
 
 #. Id: 46439-Dialogue.mod
 #. -- Index: 16.0
@@ -2182,7 +2182,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46439-Dialogue.mod:0
 msgid "Well that was a dumb idea."
-msgstr ""
+msgstr "那是一個愚蠢的想法。"
 
 #. Id: 46442-Dialogue.mod
 #. -- Index: 19.0
@@ -2194,7 +2194,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46442-Dialogue.mod:0
 msgid "... I wanna go to bed..."
-msgstr ""
+msgstr "......我想上床睡覺"
 
 #. Id: 46723-Dialogue.mod
 #. -- Index: 13.0
@@ -2216,7 +2216,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46722-Dialogue.mod:0
 msgid "I guess that's an idea..."
-msgstr ""
+msgstr "我猜這是個主意......"
 
 #. Id: 46768-Dialogue.mod
 #. -- Index: 7.0
@@ -2226,7 +2226,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46768-Dialogue.mod:0
 msgid "I'm still waiting..."
-msgstr ""
+msgstr "我還在等待..."
 
 #. Id: 46768-Dialogue.mod
 #. -- Index: 7.1
@@ -2236,7 +2236,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46768-Dialogue.mod:1
 msgid "Oh sure, I'll just wait here ALL night for you..."
-msgstr ""
+msgstr "哦，當然，我會在這裡等你..."
 
 #. Id: 46768-Dialogue.mod
 #. -- Index: 7.2
@@ -2246,7 +2246,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46768-Dialogue.mod:2
 msgid "Take your time why don't you. Make yourself at home why don't you."
-msgstr ""
+msgstr "慢慢來，為什麼不是你。讓自己在家為什麼不是你。"
 
 #. Id: 46768-Dialogue.mod
 #. -- Index: 7.3
@@ -2256,7 +2256,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46768-Dialogue.mod:3
 msgid "Suuuure, make yourself comfortable, eh. It's not like I have to SLEEP or anything."
-msgstr ""
+msgstr "Suuuure，讓自己舒服，呃。這不像我必須睡覺或任何事情。"
 
 #. Id: 46768-Dialogue.mod
 #. -- Index: 7.4
@@ -2266,7 +2266,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46768-Dialogue.mod:4
 msgid "Keeping us open and I bet you ain't even buying anything. Timewasters!"
-msgstr ""
+msgstr "讓我們保持開放，我打賭你甚至不買任何東西。浪費時間的人！"
 
 #. Id: 46534-Dialogue.mod
 #. -- Index: 5.0
@@ -2279,7 +2279,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46534-Dialogue.mod:0
 msgid "... You're sneaking around now? I'm looking right at you!"
-msgstr ""
+msgstr "你現在偷偷溜走了？我正看著你！"
 
 #. Id: 46534-Dialogue.mod
 #. -- Index: 5.1
@@ -2292,7 +2292,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46534-Dialogue.mod:1
 msgid "Why are you sneaking about? I can see you, idiot!"
-msgstr ""
+msgstr "你為什麼偷偷摸摸？我能看見你，白痴！"
 
 #. Id: 46534-Dialogue.mod
 #. -- Index: 5.2
@@ -2305,7 +2305,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46534-Dialogue.mod:2
 msgid "What are you even doing? Why are you walking around like that?"
-msgstr ""
+msgstr "你甚至在做什麼？你為什麼這樣走來走去？"
 
 #. Id: 46624-Dialogue.mod
 #. -- Index: 6.0
@@ -2315,7 +2315,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46624-Dialogue.mod:0
 msgid "Just leave already. Stop clowning around."
-msgstr ""
+msgstr "離開，停止小丑舉動。"
 
 #. Id: 46624-Dialogue.mod
 #. -- Index: 6.1
@@ -2325,7 +2325,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46624-Dialogue.mod:1
 msgid "Just leave.. please just leave..."
-msgstr ""
+msgstr "離開..請離開......"
 
 #. Id: 46624-Dialogue.mod
 #. -- Index: 6.2
@@ -2335,7 +2335,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46624-Dialogue.mod:2
 msgid "You're not fooling anyone. Stop wasting everyone's time and get out."
-msgstr ""
+msgstr "你不是在愚弄任何人。不要浪費每個人的時間然後離開。"
 
 #. Id: 46624-Dialogue.mod
 #. -- Index: 6.3
@@ -2345,7 +2345,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46624-Dialogue.mod:3
 msgid "Hit the road already, timewaster!"
-msgstr ""
+msgstr "已經上路，浪費時間！"
 
 #. Id: 46627-Dialogue.mod
 #. -- Index: 7.0
@@ -2354,7 +2354,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46627-Dialogue.mod:0
 msgid "*sigh* I hate my life."
-msgstr ""
+msgstr "*嘆氣*我討厭我的生活。"
 
 #. Id: 46443-Dialogue.mod
 #. -- Index: 0.0
@@ -2366,7 +2366,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 46443-Dialogue.mod:0
 msgid "Closing time, thank you, come again..."
-msgstr ""
+msgstr "關閉時間，謝謝，再來......"
 
 #. Id: 46443-Dialogue.mod
 #. -- Index: 0.1
@@ -2378,7 +2378,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 46443-Dialogue.mod:1
 msgid "Shop's closing up, come again tomorrow..."
-msgstr ""
+msgstr "商店關門了，明天再來......"
 
 #. Id: 46443-Dialogue.mod
 #. -- Index: 0.2
@@ -2390,7 +2390,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 46443-Dialogue.mod:2
 msgid "Closing up now, open as usual tomorrow..."
-msgstr ""
+msgstr "現在關閉，明天照常打開......"
 
 #. Id: 46443-Dialogue.mod
 #. -- Index: 0.3
@@ -2402,7 +2402,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 46443-Dialogue.mod:3
 msgid "Locking up now, it's closing time..."
-msgstr ""
+msgstr "現在鎖定，關閉時間......"
 
 #. Id: 46443-Dialogue.mod
 #. -- Index: 0.4
@@ -2414,7 +2414,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 46443-Dialogue.mod:4
 msgid "Okay, make your way out now, it's closing time..."
-msgstr ""
+msgstr "好的，現在就出去吧，關閉時間......"
 
 #. Id: 46444-Dialogue.mod
 #. -- Index: 1.0
@@ -2424,7 +2424,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46444-Dialogue.mod:0
 msgid "Thank you for your custom, yada yada, you get the idea."
-msgstr ""
+msgstr "謝謝你的定制，yada yada，你明白了。"
 
 #. Id: 46444-Dialogue.mod
 #. -- Index: 1.1
@@ -2434,7 +2434,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46444-Dialogue.mod:1
 msgid "Thank you for shopping with us, blah blah blah..."
-msgstr ""
+msgstr "謝謝你和我們一起購物，等等等等......"
 
 #. Id: 46444-Dialogue.mod
 #. -- Index: 1.2
@@ -2444,7 +2444,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46444-Dialogue.mod:2
 msgid "You can come chuck the rest of your Cats at me in the morning."
-msgstr ""
+msgstr "你可以在早上把剩下的貓扔給我。"
 
 #. Id: 46444-Dialogue.mod
 #. -- Index: 1.3
@@ -2454,7 +2454,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 46444-Dialogue.mod:3
 msgid "But don't go to our competitor. Their stuff's shoddy. Make sure to come back here."
-msgstr ""
+msgstr "但不要去我們的競爭對手。他們的東西粗製濫造。一定要回到這裡。"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.0
@@ -2466,7 +2466,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:0
 msgid "Got places to be, chop chop, leave."
-msgstr ""
+msgstr "有地方，chop chop，離開。"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.1
@@ -2478,7 +2478,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:1
 msgid "Alright, c'mon, move along, hurry it up."
-msgstr ""
+msgstr "好吧，來吧，繼續前進，快點吧。"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.2
@@ -2490,7 +2490,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:2
 msgid "Hurry it up now, I'm tired."
-msgstr ""
+msgstr "快點吧，我累了。"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.3
@@ -2502,7 +2502,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:3
 msgid "C'mon, hurry it up, move it."
-msgstr ""
+msgstr "來吧，快點，移動它。"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.4
@@ -2514,7 +2514,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:4
 msgid "Move move move!"
-msgstr ""
+msgstr "移動動作！"
 
 #. Id: 46445-Dialogue.mod
 #. -- Index: 3.5
@@ -2526,7 +2526,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46445-Dialogue.mod:5
 msgid "C'mon, scoot!"
-msgstr ""
+msgstr "來吧，scoot！"
 
 #. Id: 46446-Dialogue.mod
 #. -- Index: 4.4
@@ -2538,7 +2538,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46446-Dialogue.mod:4
 msgid "You deaf? I said hit the road!"
-msgstr ""
+msgstr "你聾了嗎？我說上路了！"
 
 #. Id: 46446-Dialogue.mod
 #. -- Index: 4.5
@@ -2550,7 +2550,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46446-Dialogue.mod:5
 msgid "You slow or something? I said get lost!"
-msgstr ""
+msgstr "你慢了還是什麼？我說迷路了！"
 
 #. Id: 46446-Dialogue.mod
 #. -- Index: 4.6
@@ -2562,7 +2562,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46446-Dialogue.mod:6
 msgid "Clear off already!"
-msgstr ""
+msgstr "已經清除了！"
 
 #. Id: 46457-Dialogue.mod
 #. -- Index: 5.0
@@ -2574,7 +2574,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46457-Dialogue.mod:0
 msgid "Get out already, will you! I need to lock up!"
-msgstr ""
+msgstr "出去了，好嗎？我需要鎖定！"
 
 #. Id: 46457-Dialogue.mod
 #. -- Index: 5.1
@@ -2586,7 +2586,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46457-Dialogue.mod:1
 msgid "Scram already, will ya?! I wanna lock up!"
-msgstr ""
+msgstr "Scram已經，你會嗎？！我想要鎖定！"
 
 #. Id: 46457-Dialogue.mod
 #. -- Index: 5.2
@@ -2598,7 +2598,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46457-Dialogue.mod:2
 msgid "Hello?! Get out!"
-msgstr ""
+msgstr "你好？！出去！"
 
 #. Id: 46457-Dialogue.mod
 #. -- Index: 5.3
@@ -2610,7 +2610,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46457-Dialogue.mod:3
 msgid "Hello, anybody home?! Get out, I'm closing!"
-msgstr ""
+msgstr "你好，有人回家嗎？！滾出去，我結束了！"
 
 #. Id: 46457-Dialogue.mod
 #. -- Index: 5.4
@@ -2622,7 +2622,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46457-Dialogue.mod:4
 msgid "We're closed! Leave!"
-msgstr ""
+msgstr "我們關門了！離開！"
 
 #. Id: 46447-Dialogue.mod
 #. -- Index: 6.3
@@ -2634,7 +2634,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46447-Dialogue.mod:3
 msgid "Grr!"
-msgstr ""
+msgstr "兒！"
 
 #. Id: 46448-Dialogue.mod
 #. -- Index: 7.1
@@ -2654,7 +2654,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46448-Dialogue.mod:1 46453-Dialogue.mod:3
 msgid "Auuugh!"
-msgstr ""
+msgstr "Auuugh！"
 
 #. Id: 46448-Dialogue.mod
 #. -- Index: 7.2
@@ -2666,7 +2666,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46448-Dialogue.mod:2
 msgid "Rrrrrgh!"
-msgstr ""
+msgstr "Rrrrrgh！"
 
 #. Id: 46449-Dialogue.mod
 #. -- Index: 8.0
@@ -2678,7 +2678,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46449-Dialogue.mod:0
 msgid "C'mon, c'mon!"
-msgstr ""
+msgstr "來吧來吧！"
 
 #. Id: 46449-Dialogue.mod
 #. -- Index: 8.1
@@ -2690,7 +2690,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46449-Dialogue.mod:1
 msgid "Move, move!"
-msgstr ""
+msgstr "移動，移動！"
 
 #. Id: 46449-Dialogue.mod
 #. -- Index: 8.2
@@ -2702,7 +2702,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46449-Dialogue.mod:2
 msgid "Hurry up, hurry up!"
-msgstr ""
+msgstr "快點，快點！"
 
 #. Id: 46450-Dialogue.mod
 #. -- Index: 10.0
@@ -2798,7 +2798,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46452-Dialogue.mod:3
 msgid "That wouldn't be a good idea. Just wait it out a while."
-msgstr ""
+msgstr "那不是一個好主意。等一會兒再等一下。"
 
 #. Id: 46453-Dialogue.mod
 #. -- Index: 12.1
@@ -2810,7 +2810,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46453-Dialogue.mod:1
 msgid "Ugggh!"
-msgstr ""
+msgstr "Ugggh！"
 
 #. Id: 46453-Dialogue.mod
 #. -- Index: 12.4
@@ -2822,7 +2822,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46453-Dialogue.mod:4
 msgid "Nyaaaah!"
-msgstr ""
+msgstr "Nyaaaah！"
 
 #. Id: 46453-Dialogue.mod
 #. -- Index: 12.5
@@ -2834,7 +2834,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46453-Dialogue.mod:5
 msgid "Tch! Ugh!"
-msgstr ""
+msgstr "阿！啊!"
 
 #. Id: 46454-Dialogue.mod
 #. -- Index: 13.0
@@ -2846,7 +2846,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46454-Dialogue.mod:0
 msgid "Unless you want your shop messed up. It's up to you."
-msgstr ""
+msgstr "除非你想讓你的商店搞砸了。由你決定。"
 
 #. Id: 46454-Dialogue.mod
 #. -- Index: 13.1
@@ -2858,7 +2858,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46454-Dialogue.mod:1
 msgid "Remember last time? You said 'Nggh! Don't mess up my shop again!'. But, hey, it's your choice."
-msgstr ""
+msgstr "還記得上次嗎？你說'Nggh！不要再弄亂我的店了！'但是，嘿，這是你的選擇。"
 
 #. Id: 46454-Dialogue.mod
 #. -- Index: 13.2
@@ -2870,7 +2870,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46454-Dialogue.mod:2
 msgid "I'm warning you. It will get real messy in here."
-msgstr ""
+msgstr "我警告你。這裡會變得非常混亂。"
 
 #. Id: 46455-Dialogue.mod
 #. -- Index: 14.0
@@ -2882,7 +2882,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46455-Dialogue.mod:0
 msgid "Auuuugh! Fine!"
-msgstr ""
+msgstr "Auuuugh！好的！"
 
 #. Id: 46455-Dialogue.mod
 #. -- Index: 14.1
@@ -2894,7 +2894,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46455-Dialogue.mod:1
 msgid "Uuuuuurgh! FINE!"
-msgstr ""
+msgstr "Uuuuuurgh！好的！"
 
 #. Id: 46455-Dialogue.mod
 #. -- Index: 14.2
@@ -2906,7 +2906,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46455-Dialogue.mod:2
 msgid "Nnnngh! Whatever then!"
-msgstr ""
+msgstr "Nnnngh！無論如何！"
 
 #. Id: 46455-Dialogue.mod
 #. -- Index: 14.3
@@ -2918,7 +2918,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46455-Dialogue.mod:3
 msgid "Fine! But you're not getting any overtime out of me!"
-msgstr ""
+msgstr "好的！但是你沒有加班加點我！"
 
 #. Id: 46779-Dialogue.mod
 #. -- Index: 6.0
@@ -2930,7 +2930,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46779-Dialogue.mod:0
 msgid "You must be havin' a laugh! I've got things to do, you know!"
-msgstr ""
+msgstr "你一定是笑了！你知道，我有事可做！"
 
 #. Id: 46779-Dialogue.mod
 #. -- Index: 6.1
@@ -2942,7 +2942,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46779-Dialogue.mod:1
 msgid "C'mon! I've got stuff to do!"
-msgstr ""
+msgstr "來吧！我有事可做！"
 
 #. Id: 46779-Dialogue.mod
 #. -- Index: 6.2
@@ -2954,7 +2954,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46779-Dialogue.mod:2
 msgid "I've got things to take care of, you know. Hurry up and leave!"
-msgstr ""
+msgstr "你知道，我有事需要照顧。快點離開！"
 
 #. Id: 46779-Dialogue.mod
 #. -- Index: 6.3
@@ -2966,7 +2966,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46779-Dialogue.mod:3
 msgid "I do have a life you know, I've got things to do! Go!"
-msgstr ""
+msgstr "我確實有一個你知道的生活，我有事可做！走！"
 
 #. Id: 46781-Dialogue.mod
 #. -- Index: 8.0
@@ -2978,7 +2978,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46781-Dialogue.mod:0
 msgid "Like what?"
-msgstr ""
+msgstr "像什麼？"
 
 #. Id: 46782-Dialogue.mod
 #. -- Index: 9.0
@@ -2990,7 +2990,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46782-Dialogue.mod:0
 msgid "You know... important things. Business stuff, brains stuff..."
-msgstr ""
+msgstr "你知道......重要的事情。商業的東西，大腦的東西......"
 
 #. Id: 46782-Dialogue.mod
 #. -- Index: 9.1
@@ -3002,7 +3002,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46782-Dialogue.mod:1
 msgid "Business stuff! And it's none of YOUR concern!"
-msgstr ""
+msgstr "生意的東西！這不關你的事！"
 
 #. Id: 46782-Dialogue.mod
 #. -- Index: 9.2
@@ -3014,7 +3014,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46782-Dialogue.mod:2
 msgid "Like loads of improtant stuff! You know, business things... "
-msgstr ""
+msgstr "像負載的重要東西！你知道，商業事物......"
 
 #. Id: 46783-Dialogue.mod
 #. -- Index: 10.0
@@ -3026,7 +3026,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46783-Dialogue.mod:0
 msgid "Oh?  Picking your nose and spying on the neighbour counts as business stuff?"
-msgstr ""
+msgstr "哦？挑選你的鼻子並監視鄰居是一件很重要的事嗎？"
 
 #. Id: 46783-Dialogue.mod
 #. -- Index: 10.1
@@ -3038,7 +3038,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46783-Dialogue.mod:1
 msgid "Is that right? Getting drunk and harrassing people from the roof counts as business stuff?"
-msgstr ""
+msgstr "是對的嗎？從屋頂上喝醉和騷擾人算作商業用途？"
 
 #. Id: 46783-Dialogue.mod
 #. -- Index: 10.2
@@ -3050,7 +3050,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46783-Dialogue.mod:2
 msgid "Really? Never would have thought sulking and throwing rum bottles at your employees would count as business stuff..."
-msgstr ""
+msgstr "真？從來沒有想過在你的員工生氣和扔朗姆酒瓶會算作商業的東西......"
 
 #. Id: 46784-Dialogue.mod
 #. -- Index: 11.0
@@ -3062,7 +3062,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46784-Dialogue.mod:0
 msgid "Don't get lippy with me, guard! You know nothing!"
-msgstr ""
+msgstr "守衛，不要跟我說謊！你什麼都不知道！"
 
 #. Id: 46784-Dialogue.mod
 #. -- Index: 11.1
@@ -3074,7 +3074,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46784-Dialogue.mod:1
 msgid "Don't be a smart ass, guard! Unless you wanna get fired!"
-msgstr ""
+msgstr "不要自作聰明，守衛！除非你想被解僱！"
 
 #. Id: 46784-Dialogue.mod
 #. -- Index: 11.2
@@ -3086,7 +3086,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46784-Dialogue.mod:2
 msgid "Careful how you talk to your boss, guard!"
-msgstr ""
+msgstr "小心你如何與老闆交談，守衛！"
 
 #. Id: 46784-Dialogue.mod
 #. -- Index: 11.3
@@ -3098,7 +3098,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46784-Dialogue.mod:3
 msgid "Watch your tongue, guard!"
-msgstr ""
+msgstr "看著你的舌頭，守衛！"
 
 #. Id: 46786-Dialogue.mod
 #. -- Index: 13.0
@@ -3110,7 +3110,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46786-Dialogue.mod:0
 msgid "And YOU! Would you get out already, customer!?"
-msgstr ""
+msgstr "你呢！你能早點離開嗎，客戶！？"
 
 #. Id: 46787-Dialogue.mod
 #. -- Index: 14.0
@@ -3122,7 +3122,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46787-Dialogue.mod:0
 msgid "Hoy... I give up! I need a drink..."
-msgstr ""
+msgstr "好的......我放棄了！我需要喝一杯......"
 
 #. Id: 46787-Dialogue.mod
 #. -- Index: 14.1
@@ -3146,7 +3146,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46788-Dialogue.mod:0
 msgid "Oh I just LOVE waiting for ARROGANT customers to finish swaggering out of my shop!"
-msgstr ""
+msgstr "哦，我只是喜歡等待ARROGANT客戶完成我的商店大搖大擺！"
 
 #. Id: 46788-Dialogue.mod
 #. -- Index: 6.1
@@ -3158,7 +3158,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46788-Dialogue.mod:1
 msgid "Oh goodie! I love nothing more than waiting around for ignorant customers to dawdle out of my shop!"
-msgstr ""
+msgstr "哦，好吧！我只喜歡等待無知的顧客從我的商店裡走出來！"
 
 #. Id: 46788-Dialogue.mod
 #. -- Index: 6.2
@@ -3170,7 +3170,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46788-Dialogue.mod:2
 msgid "Oh lucky me! I get to wait for my customer to mooch around my shop after hours! Yay!"
-msgstr ""
+msgstr "哦，幸運的我！下班後，我等待我的顧客在我的商店裡走來走去！好極了！"
 
 #. Id: 46789-Dialogue.mod
 #. -- Index: 7.0
@@ -3182,7 +3182,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46789-Dialogue.mod:0
 msgid "Take your time! Please! "
-msgstr ""
+msgstr "慢慢來！請！"
 
 #. Id: 46789-Dialogue.mod
 #. -- Index: 7.1
@@ -3194,7 +3194,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46789-Dialogue.mod:1
 msgid "Go ahead, take all the time in the world!"
-msgstr ""
+msgstr "來吧，一直在世界上！"
 
 #. Id: 46789-Dialogue.mod
 #. -- Index: 7.2
@@ -3206,7 +3206,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46789-Dialogue.mod:2
 msgid "Go ahead, stay the night, why don't you?!"
-msgstr ""
+msgstr "來吧，過夜，你為什麼不呢？！"
 
 #. Id: 46790-Dialogue.mod
 #. -- Index: 8.0
@@ -3218,7 +3218,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46790-Dialogue.mod:0
 msgid "The whole world revolves around you, customer!"
-msgstr ""
+msgstr "全世界圍繞著您，客戶！"
 
 #. Id: 46790-Dialogue.mod
 #. -- Index: 8.1
@@ -3230,7 +3230,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46790-Dialogue.mod:1
 msgid "You're the most IMPORTANT person in the world, dear customer!"
-msgstr ""
+msgstr "親愛的顧客，您是世界上最重要的人！"
 
 #. Id: 46790-Dialogue.mod
 #. -- Index: 8.2
@@ -3242,7 +3242,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46790-Dialogue.mod:2
 msgid "You're the only thing that matters to me, customer!"
-msgstr ""
+msgstr "客戶，你是唯一對我而言至關重要的事情！"
 
 #. Id: 46791-Dialogue.mod
 #. -- Index: 9.0
@@ -3254,7 +3254,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46791-Dialogue.mod:0
 msgid "I have no life, I live to serve your lordship apparently..."
-msgstr ""
+msgstr "我沒有生命，我活著為你的主權服務顯然......"
 
 #. Id: 46791-Dialogue.mod
 #. -- Index: 9.1
@@ -3266,7 +3266,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46791-Dialogue.mod:1
 msgid "No, I have no life outside this shop. I'm just a shopkeeper pawn anyway..."
-msgstr ""
+msgstr "不，我在這家商店外面沒有生命。無論如何，我只是一個店主典當......"
 
 #. Id: 46791-Dialogue.mod
 #. -- Index: 9.2
@@ -3278,7 +3278,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46791-Dialogue.mod:2
 msgid "I live to serve you..."
-msgstr ""
+msgstr "我活著為你服務......"
 
 #. Id: 46794-Dialogue.mod
 #. -- Index: 12.0
@@ -3290,7 +3290,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46794-Dialogue.mod:0
 msgid "What? You got a problem?"
-msgstr ""
+msgstr "什麼？你有問題嗎？"
 
 #. Id: 46796-Dialogue.mod
 #. -- Index: 14.0
@@ -3302,7 +3302,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46796-Dialogue.mod:0
 msgid "Then keep quiet!"
-msgstr ""
+msgstr "然後保持安靜！"
 
 #. Id: 46796-Dialogue.mod
 #. -- Index: 14.1
@@ -3314,7 +3314,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 46796-Dialogue.mod:1
 msgid "Then I don't wanna hear a peep outta you!"
-msgstr ""
+msgstr "然後我不想听到你偷看的聲音！"
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.1
@@ -3328,7 +3328,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:1 46823-Dialogue.mod:2
 msgid "What a jerk..."
-msgstr ""
+msgstr "真是個混蛋..."
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.2
@@ -3337,7 +3337,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:2
 msgid "What an asshat..."
-msgstr ""
+msgstr "真是個蠢貨......"
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.3
@@ -3346,7 +3346,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:3
 msgid "What a jackass..."
-msgstr ""
+msgstr "真是個傻瓜......"
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.4
@@ -3355,7 +3355,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:4
 msgid "What a tool..."
-msgstr ""
+msgstr "什麼工具......"
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.5
@@ -3364,7 +3364,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:5
 msgid "What an ass..."
-msgstr ""
+msgstr "多麼蠢..."
 
 #. Id: 46826-Dialogue.mod
 #. -- Index: 10.6
@@ -3373,7 +3373,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46826-Dialogue.mod:6
 msgid "The nerve..."
-msgstr ""
+msgstr "神經......"
 
 #. Id: 46821-Dialogue.mod
 #. -- Index: 5.0
@@ -3386,7 +3386,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46821-Dialogue.mod:0
 msgid "And why the hell are you walking like that? You look like a dork!"
-msgstr ""
+msgstr "為什麼你這樣走路呢？你看起來像個笨蛋！"
 
 #. Id: 46821-Dialogue.mod
 #. -- Index: 5.1
@@ -3399,7 +3399,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46821-Dialogue.mod:1
 msgid "And why in the world are you walking like that? You look like an idiot!"
-msgstr ""
+msgstr "為什麼世界上你這樣走？你看起來像個白痴！"
 
 #. Id: 46821-Dialogue.mod
 #. -- Index: 5.2
@@ -3412,7 +3412,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 46821-Dialogue.mod:2
 msgid "And why the hell are you sneaking around like that? Moron!"
-msgstr ""
+msgstr "你為什麼要這樣偷偷溜走？白痴！"
 
 #. Id: 46823-Dialogue.mod
 #. -- Index: 6.0
@@ -3421,7 +3421,7 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46823-Dialogue.mod:0
 msgid "Hoy, what a clown..."
-msgstr ""
+msgstr "好，小丑......"
 
 #. Id: 46823-Dialogue.mod
 #. -- Index: 6.1
@@ -3430,5 +3430,4 @@ msgstr ""
 #. -- Group title: shoo shop
 #: 46823-Dialogue.mod:1
 msgid "I'm surrounded by nitwits..."
-msgstr ""
-
+msgstr "我被傻瓜包圍了......"
