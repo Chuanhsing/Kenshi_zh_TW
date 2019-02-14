@@ -1,20 +1,19 @@
 <?php
 
 $msg = new Msg;
-$pos = [
-    "po/gamedata.po" => "Kenshi/__translations/zh_TW/gamedata.pot",
-    "po/LC_MESSAGES/main.po" => "Kenshi/locale/en_GB/LC_MESSAGES/main.pot",
-];
-foreach($pos as $po => $pot) {
-    $msg->merge($po, $pot);
-}
 
 $pod = [
+    "po/gamedata.po" => "Kenshi/__translations/zh_TW/gamedata.pot",
+    "po/LC_MESSAGES/main.po" => "Kenshi/locale/en_GB/LC_MESSAGES/main.pot",
     'po/dialogue/' => 'Kenshi/__translations/zh_TW/dialogue/',
 ];
-foreach($pod as $po_dialogue => $pot_dialogue) {
-    $res = $msg->pod($po_dialogue, $pot_dialogue);
-    print_r($res);
+foreach($pod as $po => $pot) {
+    if (is_file($po) && is_file($pot)) {
+        $msg->merge($po, $pot);
+    } elseif (is_dir($po) && is_dir($pot)) {
+        $res = $msg->pod($po, $pot);
+        print_r($res);
+    }
 }
 
 class Msg
