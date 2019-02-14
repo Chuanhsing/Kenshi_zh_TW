@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 9359-Dialogue.mod:0
 msgid "There. That should stop the bleeding"
-msgstr ""
+msgstr "那裡。這應該可以阻止流血"
 
 #. Id: 9359-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 9359-Dialogue.mod:1
 msgid "That should hold you over for a while"
-msgstr ""
+msgstr "這應該讓你暫停一段時間"
 
 #. Id: 9359-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 9359-Dialogue.mod:2
 msgid "That will stop the bleeding for now"
-msgstr ""
+msgstr "那將暫停止血"
 
 #. Id: 9360-Dialogue.mod
 #. -- Index: 0.0
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
 #: 9360-Dialogue.mod:0
 msgid "There. How's that feel?"
-msgstr ""
+msgstr "那裡。感覺怎麼樣？"
 
 #. Id: 9360-Dialogue.mod
 #. -- Index: 0.1
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
 #: 9360-Dialogue.mod:1
 msgid "Ok, done. Feeling better?"
-msgstr ""
+msgstr "OK完成。感覺更好？"
 
 #. Id: 9360-Dialogue.mod
 #. -- Index: 0.2
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
 #: 9360-Dialogue.mod:2
 msgid "All finished. Be careful next time"
-msgstr ""
+msgstr "全部完成。下次要小心"
 
 #. Id: 9360-Dialogue.mod
 #. -- Index: 0.3
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
 #: 9360-Dialogue.mod:3
 msgid "Okay, all bandaged up. Now go get some rest"
-msgstr ""
+msgstr "好吧，所有人都包紮了。現在去休息吧"
 
 #. Id: 9362-Dialogue.mod
 #. -- Index: 0.0
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Group title: Healed other
 #: 9362-Dialogue.mod:0
 msgid "There. That will do"
-msgstr ""
+msgstr "那裡。那樣做"
 
 #. Id: 9362-Dialogue.mod
 #. -- Index: 0.1
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Group title: Healed other
 #: 9362-Dialogue.mod:1
 msgid "That should do"
-msgstr ""
+msgstr "那應該做"
 
 #. Id: 9362-Dialogue.mod
 #. -- Index: 0.2
@@ -106,5 +106,4 @@ msgstr ""
 #. -- Group title: Healed other
 #: 9362-Dialogue.mod:2
 msgid "This should do the trick"
-msgstr ""
-
+msgstr "這應該可以解決問題"

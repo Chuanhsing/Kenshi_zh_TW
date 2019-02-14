@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: using my equipment skeleton
 #: 55257-Dialogue.mod:0
 msgid "Stay away from that. You'll break it."
-msgstr ""
+msgstr "遠離那個。你會打破它。"
 
 #. Id: 55257-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: using my equipment skeleton
 #: 55257-Dialogue.mod:1
 msgid "Don't touch that. You'll break it."
-msgstr ""
+msgstr "別碰那個。你會打破它。"
 
 #. Id: 55257-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: using my equipment skeleton
 #: 55257-Dialogue.mod:2
 msgid "Stay away from my machines. You'll break something."
-msgstr ""
+msgstr "遠離我的機器。你會打破一些東西。"
 
 #. Id: 55257-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: using my equipment skeleton
 #: 55257-Dialogue.mod:3
 msgid "That's not yours to touch. Leave, before you break something."
-msgstr ""
+msgstr "那不是你的觸摸。在你打破之前離開。"
 
 #. Id: 55257-Dialogue.mod
 #. -- Index: 0.4
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: using my equipment skeleton
 #: 55257-Dialogue.mod:4
 msgid "My machines... what are you doing?"
-msgstr ""
+msgstr "我的機器......你在做什麼？"
 
 #. Id: 55265-Dialogue.mod
 #. -- Index: 2.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 55265-Dialogue.mod:0
 msgid "Last time. Leave it."
-msgstr ""
+msgstr "上次。別管它。"
 
 #. Id: 55272-Dialogue.mod
 #. -- Index: 3.0
@@ -80,7 +80,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 55272-Dialogue.mod:0 45750-Dialogue.mod:0
 msgid "You leave me no choice."
-msgstr ""
+msgstr "你別無選擇。"
 
 #. Id: 55258-Dialogue.mod
 #. -- Index: 0.0
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 55258-Dialogue.mod:0 17618-Dialogue.mod:3
 msgid "Don't do that."
-msgstr ""
+msgstr "不要那樣做。"
 
 #. Id: 55260-Dialogue.mod
 #. -- Index: 2.0
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 55260-Dialogue.mod:0
 msgid "You'll ruin my equipment. "
-msgstr ""
+msgstr "你會毀了我的裝備。"
 
 #. Id: 55262-Dialogue.mod
 #. -- Index: 3.0
@@ -115,5 +115,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 55262-Dialogue.mod:0
 msgid "I asked you once, I won't ask again."
-msgstr ""
-
+msgstr "我問過你一次，我不會再問了。"

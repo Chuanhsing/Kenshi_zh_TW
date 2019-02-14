@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Shek witness assault
 #: 17627-Dialogue.mod:0
 msgid "... Hmph. No chance..."
-msgstr ""
+msgstr "...... Hmph。沒有機會..."
 
 #. Id: 17627-Dialogue.mod
 #. -- Index: 0.2
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Shek witness assault
 #: 17627-Dialogue.mod:2
 msgid "Mmh..."
-msgstr ""
+msgstr "Mmh的..."
 
 #. Id: 17627-Dialogue.mod
 #. -- Index: 0.3
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
 #: 17627-Dialogue.mod:3 17540-Dialogue.mod:3
 msgid "Hrm.."
-msgstr ""
+msgstr "人力資源管理.."
 
 #. Id: 17627-Dialogue.mod
 #. -- Index: 0.7
@@ -52,7 +52,7 @@ msgstr ""
 #. -- Group title: Shek witness assault
 #: 17627-Dialogue.mod:7
 msgid "This one's either brave or plain stupid..."
-msgstr ""
+msgstr "這個人要么是勇敢的要么是愚蠢的......"
 
 #. Id: 17628-Dialogue.mod
 #. -- Index: 0.0
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17628-Dialogue.mod:0
 msgid "This won't last long..."
-msgstr ""
+msgstr "這不會持續很長時間......"
 
 #. Id: 17628-Dialogue.mod
 #. -- Index: 0.1
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17628-Dialogue.mod:1
 msgid "This should be interesting..."
-msgstr ""
+msgstr "這應該很有趣......"
 
 #. Id: 17628-Dialogue.mod
 #. -- Index: 0.2
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17628-Dialogue.mod:2
 msgid "This one's fate is already sealed."
-msgstr ""
+msgstr "這個人的命運已經封存了。"
 
 #. Id: 17628-Dialogue.mod
 #. -- Index: 0.3
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17628-Dialogue.mod:4
 msgid "This one must have a death wish..."
-msgstr ""
+msgstr "這個人必須有一個死亡願望......"
 
 #. Id: 17628-Dialogue.mod
 #. -- Index: 0.5
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:0
 msgid "Need a hand, kin?"
-msgstr ""
+msgstr "需要一隻手，親戚？"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.1
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:1
 msgid "Let me help, kin"
-msgstr ""
+msgstr "親，讓我幫忙"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.2
@@ -226,7 +226,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:2
 msgid "You look like you could use some help..."
-msgstr ""
+msgstr "你看起來可以使用一些幫助......"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.3
@@ -238,7 +238,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:3
 msgid "Some action!"
-msgstr ""
+msgstr "一些動作！"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.4
@@ -250,7 +250,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:4
 msgid "At last, some action!"
-msgstr ""
+msgstr "最後，一些動作！"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.5
@@ -262,7 +262,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:5
 msgid "Let me fight with you, kin"
-msgstr ""
+msgstr "讓我和你一起戰鬥，親屬"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.6
@@ -274,7 +274,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:6
 msgid "Let's get this over with."
-msgstr ""
+msgstr "讓我們結束吧。"
 
 #. Id: 44652-Dialogue.mod
 #. -- Index: 0.7
@@ -286,5 +286,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 44652-Dialogue.mod:7
 msgid "Let's end this quickly."
-msgstr ""
-
+msgstr "讓我們快點結束吧。"

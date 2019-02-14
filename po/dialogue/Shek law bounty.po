@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59334-Dialogue.mod:0
 msgid "Hmph, then hunt for it, hunter. Check the wanted posters, search the outlands for criminals in hiding. Then bring them to me for your reward."
-msgstr ""
+msgstr "哼，然後追捕它，獵人。檢查通緝的海報，搜索外圍的罪犯隱藏。然後把它們帶給我以獲得獎勵。"
 
 #. Id: 59336-Dialogue.mod
 #. -- Index: 2.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59336-Dialogue.mod:0
 msgid "Find any bounties, bring them to me."
-msgstr ""
+msgstr "找到任何賞金，帶給我。"
 
 #. Id: 59338-Dialogue.mod
 #. -- Index: 2.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59338-Dialogue.mod:0
 msgid "See for yourself..."
-msgstr ""
+msgstr "你自己看..."
 
 #. Id: 59342-Dialogue.mod
 #. -- Index: 0.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 59342-Dialogue.mod:0
 msgid "[They eye the body on your shoulders]... Here for your reward?"
-msgstr ""
+msgstr "[他們盯著你肩上的身體] ......這是為了你的獎賞？"
 
 #. Id: 59346-Dialogue.mod
 #. -- Index: 1.0
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59346-Dialogue.mod:0 99130-Dialogue.mod:0
 msgid "Yeah... (Hand over bounty)"
-msgstr ""
+msgstr "是啊......（交出賞金）"
 
 #. Id: 59347-Dialogue.mod
 #. -- Index: 1.0
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59347-Dialogue.mod:0
 msgid "No, I was just showing off."
-msgstr ""
+msgstr "不，我只是炫耀。"
 
 #. Id: 59348-Dialogue.mod
 #. -- Index: 2.0
@@ -106,7 +106,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59344-Dialogue.mod:0
 msgid "[They prod at the body on your shoulders]... They're dead."
-msgstr ""
+msgstr "[他們刺痛你肩膀上的身體] ......他們已經死了。"
 
 #. Id: 59344-Dialogue.mod
 #. -- Index: 0.1
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59344-Dialogue.mod:1
 msgid "[They prod the dead body on your shoulder]..."
-msgstr ""
+msgstr "[他們將屍體刺在你的肩膀上] ......"
 
 #. Id: 59344-Dialogue.mod
 #. -- Index: 0.2
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59344-Dialogue.mod:2
 msgid "[They prod the dead body on your shoulder]... Hmph."
-msgstr ""
+msgstr "[他們把你身上的屍體刺了出來] ......哼。"
 
 #. Id: 59351-Dialogue.mod
 #. -- Index: 1.0
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59351-Dialogue.mod:0
 msgid "Accidents happen (Hand over bounty)"
-msgstr ""
+msgstr "事故發生（交出賞金）"
 
 #. Id: 59351-Dialogue.mod
 #. -- Index: 1.1
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59351-Dialogue.mod:1
 msgid "What am I, their babysitter? (Hand over bounty)"
-msgstr ""
+msgstr "我是什麼人，他們的保姆？ （交出賞金）"
 
 #. Id: 59351-Dialogue.mod
 #. -- Index: 1.2
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59351-Dialogue.mod:2
 msgid "You're lucky they're still in one piece (Hand over bounty)"
-msgstr ""
+msgstr "你很幸運他們仍然是一塊（交出賞金）"
 
 #. Id: 59352-Dialogue.mod
 #. -- Index: 1.0
@@ -162,7 +162,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59352-Dialogue.mod:0
 msgid "I was just showing them off."
-msgstr ""
+msgstr "我只是把它們展示出來了。"
 
 #. Id: 59355-Dialogue.mod
 #. -- Index: 0.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 59355-Dialogue.mod:0 59369-Dialogue.mod:0
 msgid "What is this?..."
-msgstr ""
+msgstr "這是什麼？..."
 
 #. Id: 59359-Dialogue.mod
 #. -- Index: 1.0
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59359-Dialogue.mod:0
 msgid "[They nudge at the Bugmaster's limp body and look at you, bemused]... "
-msgstr ""
+msgstr "[他們捏著Bugmaster的跛腳身體，看著你，困惑] ......"
 
 #. Id: 59360-Dialogue.mod
 #. -- Index: 2.0
@@ -196,7 +196,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59360-Dialogue.mod:0
 msgid "... (Hand over bounty)"
-msgstr ""
+msgstr "......（交出賞金）"
 
 #. Id: 59363-Dialogue.mod
 #. -- Index: 3.0
@@ -205,7 +205,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59363-Dialogue.mod:0
 msgid "[Their eyes widen as they give you a stern nod]"
-msgstr ""
+msgstr "[他們睜大眼睛，因為他們給你一個嚴厲的點頭]"
 
 #. Id: 59364-Dialogue.mod
 #. -- Index: 4.0
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59364-Dialogue.mod:0
 msgid "Honour, kin. Take him to Bayan at HQ."
-msgstr ""
+msgstr "榮譽，親屬。帶他到總部的巴彥。"
 
 #. Id: 59361-Dialogue.mod
 #. -- Index: 2.0
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59361-Dialogue.mod:0
 msgid "Don't know what all the fuss was about (Hand over bounty)"
-msgstr ""
+msgstr "不知道所有的大驚小怪（交出賞金）"
 
 #. Id: 59362-Dialogue.mod
 #. -- Index: 2.0
@@ -232,7 +232,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 59362-Dialogue.mod:0
 msgid "I was just showing him off."
-msgstr ""
+msgstr "我只是在炫耀他。"
 
 #. Id: 99125-Dialogue.mod
 #. -- Index: 0.0
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 99125-Dialogue.mod:0
 msgid "Hrm!?... Phoenix..."
-msgstr ""
+msgstr "嗯！？......鳳凰......"
 
 #. Id: 99128-Dialogue.mod
 #. -- Index: 1.0
@@ -250,7 +250,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 99128-Dialogue.mod:0
 msgid "Take him to Bayan."
-msgstr ""
+msgstr "把他帶到巴楊。"
 
 #. Id: 99129-Dialogue.mod
 #. -- Index: 2.0
@@ -259,7 +259,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 99129-Dialogue.mod:0
 msgid "Honour, kin... Honour."
-msgstr ""
+msgstr "榮譽，親屬......榮譽。"
 
 #. Id: 99126-Dialogue.mod
 #. -- Index: 0.0
@@ -273,5 +273,4 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 99126-Dialogue.mod:0 99127-Dialogue.mod:0
 msgid "Hm hm hm... You've brought me an Okranite...?"
-msgstr ""
-
+msgstr "嗯嗯......你帶給我一個Okranite ......？"

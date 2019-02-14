@@ -24,7 +24,7 @@ msgstr ""
 #. -- Group title: slave escape
 #: 5316-gamedata.base:0 5252-gamedata.base:0
 msgid "Escaped slave!!!"
-msgstr ""
+msgstr "逃脫奴隸!!!"
 
 #. Id: 5316-gamedata.base
 #. -- Index: 0.1
@@ -44,7 +44,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_IS_SLAVE_OF_MY_FACTION=1, Tag: -1
 #: 5316-gamedata.base:2
 msgid "I know a slave when I see one!"
-msgstr ""
+msgstr "當我看到一個時，我認識一個奴隸！"
 
 #. Id: 5316-gamedata.base
 #. -- Index: 0.3
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: slaver uniform imposter
 #: 5320-gamedata.base:0
 msgid "Imposter!"
-msgstr ""
+msgstr "騙子！"
 
 #. Id: 5323-gamedata.base
 #. -- Index: 0.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5323-gamedata.base:0
 msgid "I know you! "
-msgstr ""
+msgstr "我認識你！"
 
 #. Id: 5323-gamedata.base
 #. -- Index: 0.1
@@ -83,5 +83,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5323-gamedata.base:1
 msgid "I recognise that stupid face!"
-msgstr ""
-
+msgstr "我認出那個愚蠢的臉！"

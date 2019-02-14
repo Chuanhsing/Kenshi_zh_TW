@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5147-D-Dialogue.mod:4
 msgid "Gimme a nice gift and I might spare you. Cats, hand 'em over."
-msgstr ""
+msgstr "給我一個很好的禮物，我可能會饒你。貓，他們的手。"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.5
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5147-D-Dialogue.mod:5
 msgid "Alright cough it up, fat-cats. MONEY!"
-msgstr ""
+msgstr "好吧，咳嗽起來，胖貓。錢！"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.6
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5147-D-Dialogue.mod:8
 msgid "Gimme your Cats! This will all go much more smoothly if you play along and pay up."
-msgstr ""
+msgstr "給我的貓咪！如果你一起玩並付錢，這一切都會順利進行。"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.9
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5147-D-Dialogue.mod:9
 msgid "Gimme some Catans, moneybags! Pay up!"
-msgstr ""
+msgstr "給我一些Catans，錢包！付清！"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.10
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5147-D-Dialogue.mod:10
 msgid "I want some of that money! Hand it over!"
-msgstr ""
+msgstr "我想要一些錢！交給我！"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.11
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Group title: Mugger
 #: 5147-D-Dialogue.mod:11 13979-Escapes.mod:0
 msgid "MONEY!"
-msgstr ""
+msgstr "錢！"
 
 #. Id: 5147-D-Dialogue.mod
 #. -- Index: 0.13
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5154-Dialogue.mod:0
 msgid "Okay, okay. Here (200 Cats)"
-msgstr ""
+msgstr "好吧好吧。這裡（200貓）"
 
 #. Id: 5154-Dialogue.mod
 #. -- Index: 1.1
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5154-Dialogue.mod:1 5172-Dialogue.mod:0
 msgid "Just take it (200 Cats)"
-msgstr ""
+msgstr "拿它（200貓）"
 
 #. Id: 5154-Dialogue.mod
 #. -- Index: 1.2
@@ -170,7 +170,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5154-Dialogue.mod:2
 msgid "... This is all I have, take it (200 Cats)"
-msgstr ""
+msgstr "......這就是我所擁有的，拿走它（200隻貓）"
 
 #. Id: 5154-Dialogue.mod
 #. -- Index: 1.3
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5154-Dialogue.mod:5
 msgid "I can only afford 200 Cats"
-msgstr ""
+msgstr "我只能負擔200貓"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.3
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:3 5448-Dialogue.mod:5
 msgid "Ooh! Money!"
-msgstr ""
+msgstr "哦！錢！"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.4
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:4
 msgid "Okay that'll do"
-msgstr ""
+msgstr "好的，那樣做"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.5
@@ -232,7 +232,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:5
 msgid "I suppose that will do"
-msgstr ""
+msgstr "我想那樣做"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.6
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander
 #: 5201-Dialogue.mod:6 42691-Dialogue.mod:3
 msgid "That'll do the trick"
-msgstr ""
+msgstr "那就行了"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.7
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 5201-Dialogue.mod:7 3302-gamedata.base:4
 msgid "That hit the spot"
-msgstr ""
+msgstr "那就是當場"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.8
@@ -272,7 +272,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:8
 msgid "Good enough"
-msgstr ""
+msgstr "夠好了"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.9
@@ -290,7 +290,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:10
 msgid "Stingy. But okay whatever, I don't like fighting anyway"
-msgstr ""
+msgstr "小氣。但不管怎樣，我不喜歡打架"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.11
@@ -299,7 +299,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:11
 msgid "Meh I guess that's okay. Can't be bothered to beat you up"
-msgstr ""
+msgstr "嗯，我想這沒關係。不能打擾你"
 
 #. Id: 5201-Dialogue.mod
 #. -- Index: 2.12
@@ -308,7 +308,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5201-Dialogue.mod:12
 msgid "Meh I suppose that'll do. Can't be assed to kick you in"
-msgstr ""
+msgstr "嗯，我想，那樣做。不能惹你生氣"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.0
@@ -318,7 +318,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:0
 msgid "With that fat bounty I think you can afford more than 200 Cats"
-msgstr ""
+msgstr "憑藉這種豐厚的賞金，我認為你可以負擔超過200隻貓"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.1
@@ -328,7 +328,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:1
 msgid "And what about the nice big bounty on your back? 200 Cats displeases me"
-msgstr ""
+msgstr "那背上漂亮的大賞金怎麼樣？ 200隻貓讓我不高興"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.2
@@ -338,7 +338,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:2
 msgid "No deal. I want a piece of that bounty."
-msgstr ""
+msgstr "沒有成交。我想要一塊賞金。"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.3
@@ -348,7 +348,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:3
 msgid "Don't be stingy. You can afford more with that fat bounty on your back"
-msgstr ""
+msgstr "不要小氣。你可以在背上付出更多的錢"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.4
@@ -358,7 +358,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:4
 msgid "That's a hefty bounty you got there... 400 Cats!"
-msgstr ""
+msgstr "那是你在那裡獲得的巨額獎金...... 400隻貓！"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.5
@@ -368,7 +368,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:5
 msgid "No. More. Let me have some of that bounty..."
-msgstr ""
+msgstr "不再。讓我有一些賞金......"
 
 #. Id: 5203-Dialogue.mod
 #. -- Index: 2.6
@@ -378,7 +378,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 5203-Dialogue.mod:6
 msgid "You're gonna be rich with that bounty. I want more."
-msgstr ""
+msgstr "你將獲得豐厚的賞金。我想要更多。"
 
 #. Id: 5206-Dialogue.mod
 #. -- Index: 3.0
@@ -388,7 +388,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
 #: 5206-Dialogue.mod:0
 msgid "Fine (400 Cats)"
-msgstr ""
+msgstr "很好（400貓）"
 
 #. Id: 5206-Dialogue.mod
 #. -- Index: 3.1
@@ -408,7 +408,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>400, Tag: -1
 #: 5206-Dialogue.mod:2
 msgid "Alright, alright. Here, just take it (400 Cats)"
-msgstr ""
+msgstr "好吧好吧。在這裡，只需要它（400貓）"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.0
@@ -433,7 +433,7 @@ msgstr ""
 #. -- Group title: Pickles healed
 #: 5448-Dialogue.mod:0 5404-Escapes.mod:2 52886-rebirth.mod:2 8749-Dialogue.mod:0
 msgid "Thanks!"
-msgstr ""
+msgstr "謝謝！"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.1
@@ -471,7 +471,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:2 5437-Dialogue.mod:1
 msgid "Meh I guess that's okay. Can't be bothered to beat you up anyway!"
-msgstr ""
+msgstr "嗯，我想這沒關係。無論如何都不能打擾你！"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.3
@@ -480,7 +480,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:3
 msgid "Meh I suppose that'll do. Can't be assed to kick you in anyway!"
-msgstr ""
+msgstr "嗯，我想，那樣做。無論如何都不能惹你生氣！"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.4
@@ -513,7 +513,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:6
 msgid "Okay that'll do."
-msgstr ""
+msgstr "好的，那樣做。"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.7
@@ -522,7 +522,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:7
 msgid "I suppose that will do."
-msgstr ""
+msgstr "我想那樣做。"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.8
@@ -531,7 +531,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:8
 msgid "That'll do the trick..."
-msgstr ""
+msgstr "那就行了......"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.9
@@ -540,7 +540,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:9
 msgid "That hit the spot."
-msgstr ""
+msgstr "那就是當場。"
 
 #. Id: 5448-Dialogue.mod
 #. -- Index: 4.10
@@ -549,7 +549,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5448-Dialogue.mod:10
 msgid "Good enough!"
-msgstr ""
+msgstr "夠好了！"
 
 #. Id: 5208-Dialogue.mod
 #. -- Index: 3.0
@@ -579,7 +579,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 5208-Dialogue.mod:2
 msgid "Just take it. We outnumber you"
-msgstr ""
+msgstr "拿著吧。我們超過你"
 
 #. Id: 5208-Dialogue.mod
 #. -- Index: 3.3
@@ -589,7 +589,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 5208-Dialogue.mod:3
 msgid "You really want to fight all of us over 200 Cats?"
-msgstr ""
+msgstr "你真的想和我們所有人打200多隻貓嗎？"
 
 #. Id: 5208-Dialogue.mod
 #. -- Index: 3.4
@@ -657,7 +657,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<4000, Tag: -1
 #: 18247-Dialogue.mod:0 53614-Dialogue.mod:0 52507-Dialogue.mod:0
 msgid "I don't have that much..."
-msgstr ""
+msgstr "我沒那麼多......"
 
 #. Id: 18249-Dialogue.mod
 #. -- Index: 4.0
@@ -666,7 +666,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 18249-Dialogue.mod:0
 msgid "That's too bad. I'll just have to take your clothes to make up for it!"
-msgstr ""
+msgstr "這太糟糕了。我只需要拿你的衣服來彌補它！"
 
 #. Id: 18250-Dialogue.mod
 #. -- Index: 5.0
@@ -675,7 +675,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 18250-Dialogue.mod:0
 msgid "As soon as you're all alone..."
-msgstr ""
+msgstr "只要你一個人......"
 
 #. Id: 5155-Dialogue.mod
 #. -- Index: 1.0
@@ -684,7 +684,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5155-Dialogue.mod:0
 msgid "Never! I'm not giving you anything."
-msgstr ""
+msgstr "決不！我沒有給你任何東西。"
 
 #. Id: 5155-Dialogue.mod
 #. -- Index: 1.1
@@ -693,7 +693,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5155-Dialogue.mod:1
 msgid "Not gonna happen!"
-msgstr ""
+msgstr "不會發生！"
 
 #. Id: 5155-Dialogue.mod
 #. -- Index: 1.2
@@ -702,7 +702,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5155-Dialogue.mod:2
 msgid "No, you're not taking my money."
-msgstr ""
+msgstr "不，你沒有拿我的錢。"
 
 #. Id: 5164-Dialogue.mod
 #. -- Index: 2.0
@@ -752,7 +752,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 5164-Dialogue.mod:4
 msgid "With those wounds, this is gonna be too easy... Last chance!"
-msgstr ""
+msgstr "有了這些傷口，這太容易了......最後的機會！"
 
 #. Id: 5164-Dialogue.mod
 #. -- Index: 2.5
@@ -762,7 +762,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 5164-Dialogue.mod:5
 msgid "You look pretty fucked up, I think you should just hand it over."
-msgstr ""
+msgstr "你看起來很亂，我想你應該把它交給我。"
 
 #. Id: 5164-Dialogue.mod
 #. -- Index: 2.6
@@ -772,7 +772,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 5164-Dialogue.mod:6
 msgid "You look pretty messed up, I think you should just give it up."
-msgstr ""
+msgstr "你看起來很亂，我想你應該放棄它。"
 
 #. Id: 5164-Dialogue.mod
 #. -- Index: 2.7
@@ -791,7 +791,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5169-Dialogue.mod:0
 msgid "Again, not gonna happen"
-msgstr ""
+msgstr "再一次，不會發生"
 
 #. Id: 5169-Dialogue.mod
 #. -- Index: 3.1
@@ -805,7 +805,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5169-Dialogue.mod:1 5775-Recruits?Dialogue.mod:0
 msgid "Nope!"
-msgstr ""
+msgstr "不！"
 
 #. Id: 5169-Dialogue.mod
 #. -- Index: 3.2
@@ -814,7 +814,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5169-Dialogue.mod:2
 msgid "I said no"
-msgstr ""
+msgstr "我說不"
 
 #. Id: 5169-Dialogue.mod
 #. -- Index: 3.3
@@ -823,7 +823,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5169-Dialogue.mod:3
 msgid "No means no"
-msgstr ""
+msgstr "不就是不"
 
 #. Id: 5169-Dialogue.mod
 #. -- Index: 3.4
@@ -832,7 +832,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5169-Dialogue.mod:4
 msgid "You deaf? "
-msgstr ""
+msgstr "你聾了嗎？"
 
 #. Id: 48339-Dialogue.mod
 #. -- Index: 2.0
@@ -841,7 +841,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48339-Dialogue.mod:0
 msgid "Well I ain't one for reasonin'. So I'll just pummel it outta you later instead!"
-msgstr ""
+msgstr "好吧，我不是一個理由。所以我稍後會把它撞倒在你身上！"
 
 #. Id: 48339-Dialogue.mod
 #. -- Index: 2.1
@@ -850,7 +850,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48339-Dialogue.mod:1
 msgid "You shoulda just paid up when I told you to..."
-msgstr ""
+msgstr "當我告訴你時，你應該付錢給我......"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.0
@@ -859,7 +859,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:0
 msgid "Hmph. You'll regret this..."
-msgstr ""
+msgstr "哼。你會後悔的......"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.1
@@ -868,7 +868,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:1
 msgid "You're gonna regret this..."
-msgstr ""
+msgstr "你會後悔的......"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.2
@@ -877,7 +877,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:2
 msgid "I'm gonna get you later..."
-msgstr ""
+msgstr "我以後會幫你的..."
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.3
@@ -886,7 +886,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:3
 msgid "Oh just you wait..."
-msgstr ""
+msgstr "哦，等你......"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.4
@@ -904,7 +904,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:5
 msgid "Then I'll take it!"
-msgstr ""
+msgstr "然後我會接受它！"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.6
@@ -913,7 +913,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:6
 msgid "Wrong answer..."
-msgstr ""
+msgstr "錯誤的答案..."
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.7
@@ -922,7 +922,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:7
 msgid "When you're all alone..."
-msgstr ""
+msgstr "當你一個人的時候......"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.8
@@ -949,7 +949,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:10
 msgid "Then I'll TAKE it!"
-msgstr ""
+msgstr "然後我會接受它！"
 
 #. Id: 5156-Dialogue.mod
 #. -- Index: 3.11
@@ -958,7 +958,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5156-Dialogue.mod:11
 msgid "Then I'll beat it out of you!"
-msgstr ""
+msgstr "然後我會打敗你！"
 
 #. Id: 48584-Dialogue.mod
 #. -- Index: 2.0
@@ -976,7 +976,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48584-Dialogue.mod:1
 msgid "As soon as you leave the city - BAM! Hand over the money or else."
-msgstr ""
+msgstr "一離開這個城市 -  BAM！交錢還是別的。"
 
 #. Id: 48584-Dialogue.mod
 #. -- Index: 2.2
@@ -1012,7 +1012,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48591-Dialogue.mod:2
 msgid "Final answer, eh? Shoulda just played along and handed over your Cats..."
-msgstr ""
+msgstr "最後的答案，嗯？應該只是玩並交出你的貓..."
 
 #. Id: 5434-Dialogue.mod
 #. -- Index: 1.0
@@ -1023,7 +1023,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
 #: 5434-Dialogue.mod:0
 msgid "Okay, okay. Here (75 Cats)"
-msgstr ""
+msgstr "好吧好吧。在這裡（75貓）"
 
 #. Id: 5434-Dialogue.mod
 #. -- Index: 1.1
@@ -1041,7 +1041,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
 #: 5434-Dialogue.mod:1 5843-Dialogue.mod:0
 msgid "Just take it (75 Cats)"
-msgstr ""
+msgstr "拿它（75貓）"
 
 #. Id: 5434-Dialogue.mod
 #. -- Index: 1.2
@@ -1052,7 +1052,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
 #: 5434-Dialogue.mod:2
 msgid "... This is all I have, take it (75 Cats)"
-msgstr ""
+msgstr "......這就是我所擁有的，拿走它（75隻貓）"
 
 #. Id: 5434-Dialogue.mod
 #. -- Index: 1.3
@@ -1085,7 +1085,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>80, Tag: -1
 #: 5434-Dialogue.mod:5
 msgid "I can only afford 75 Cats"
-msgstr ""
+msgstr "我只能買75隻貓"
 
 #. Id: 5437-Dialogue.mod
 #. -- Index: 2.3
@@ -1094,7 +1094,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5437-Dialogue.mod:3
 msgid "Okay that'll do..."
-msgstr ""
+msgstr "好的，那樣做......"
 
 #. Id: 5437-Dialogue.mod
 #. -- Index: 2.4
@@ -1103,7 +1103,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5437-Dialogue.mod:4
 msgid "I suppose that will do..."
-msgstr ""
+msgstr "我想那會......"
 
 #. Id: 5437-Dialogue.mod
 #. -- Index: 2.5
@@ -1121,7 +1121,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5437-Dialogue.mod:6
 msgid "Better than a poke in the eye I guess!"
-msgstr ""
+msgstr "我覺得比眼睛捅更好！"
 
 #. Id: 5437-Dialogue.mod
 #. -- Index: 2.7
@@ -1130,7 +1130,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5437-Dialogue.mod:7
 msgid "Good enough..."
-msgstr ""
+msgstr "夠好了..."
 
 #. Id: 5437-Dialogue.mod
 #. -- Index: 2.9
@@ -1139,7 +1139,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5437-Dialogue.mod:9
 msgid "Stingy. But okay whatever, I don't like fighting anyway!"
-msgstr ""
+msgstr "小氣。但不管怎樣，我還是不喜歡打架！"
 
 #. Id: 10571-Dialogue (10).mod
 #. -- Index: 1.0
@@ -1148,7 +1148,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10571-Dialogue?(10).mod:0
 msgid "... You what?"
-msgstr ""
+msgstr "... 你什麼？"
 
 #. Id: 10571-Dialogue (10).mod
 #. -- Index: 1.1
@@ -1157,7 +1157,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10571-Dialogue?(10).mod:1
 msgid "Wait, what...?"
-msgstr ""
+msgstr "等等，什麼......？"
 
 #. Id: 10571-Dialogue (10).mod
 #. -- Index: 1.2
@@ -1166,7 +1166,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10571-Dialogue?(10).mod:2
 msgid "Sorry...? I don't understand..."
-msgstr ""
+msgstr "抱歉...？我不明白......"
 
 #. Id: 10572-Dialogue (10).mod
 #. -- Index: 2.0
@@ -1211,7 +1211,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10573-Dialogue?(10).mod:0
 msgid "Can't we talk about this?"
-msgstr ""
+msgstr "我們不能談論這個嗎？"
 
 #. Id: 10574-Dialogue (10).mod
 #. -- Index: 4.0
@@ -1220,7 +1220,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10574-Dialogue?(10).mod:0
 msgid "... Do I look like the talkin' type to you? Stop wasting my time and.. PAY UP!"
-msgstr ""
+msgstr "......我看起來像你說話的類型嗎？不要再浪費我的時間了......付出！"
 
 #. Id: 10575-Dialogue (10).mod
 #. -- Index: 5.0
@@ -1229,7 +1229,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10575-Dialogue?(10).mod:0
 msgid "(Kick them in the groin)"
-msgstr ""
+msgstr "（在腹股溝踢他們）"
 
 #. Id: 10575-Dialogue (10).mod
 #. -- Index: 5.2
@@ -1238,7 +1238,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10575-Dialogue?(10).mod:2
 msgid "(Punch them in the nose)"
-msgstr ""
+msgstr "（把它們塞進鼻子裡）"
 
 #. Id: 10575-Dialogue (10).mod
 #. -- Index: 5.4
@@ -1252,7 +1252,7 @@ msgstr ""
 #. -- Group title: Shek attack
 #: 10575-Dialogue?(10).mod:4 15447-Dialogue.mod:3
 msgid "(Kick them in the shin)"
-msgstr ""
+msgstr "（踢他們的脛骨）"
 
 #. Id: 10580-Dialogue (10).mod
 #. -- Index: 6.0
@@ -1261,7 +1261,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10580-Dialogue?(10).mod:0
 msgid "Why you! You're gonna regret this!"
-msgstr ""
+msgstr "為什麼你！你會後悔的！"
 
 #. Id: 10580-Dialogue (10).mod
 #. -- Index: 6.1
@@ -1270,7 +1270,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10580-Dialogue?(10).mod:1
 msgid "DUMB MOVE!"
-msgstr ""
+msgstr "DUMB MOVE！"
 
 #. Id: 10580-Dialogue (10).mod
 #. -- Index: 6.2
@@ -1279,7 +1279,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10580-Dialogue?(10).mod:2
 msgid "You dumbass!"
-msgstr ""
+msgstr "你這個笨蛋！"
 
 #. Id: 10581-Dialogue (10).mod
 #. -- Index: 7.0
@@ -1288,7 +1288,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10581-Dialogue?(10).mod:0
 msgid "I'll get you! Later on, outside them gates! Just you wait!"
-msgstr ""
+msgstr "我會去接你！後來，在他們門外！等你吧！"
 
 #. Id: 10581-Dialogue (10).mod
 #. -- Index: 7.1
@@ -1297,7 +1297,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10581-Dialogue?(10).mod:1
 msgid "I'll get you for this!"
-msgstr ""
+msgstr "我會幫你的！"
 
 #. Id: 48585-Dialogue.mod
 #. -- Index: 6.0
@@ -1306,7 +1306,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48585-Dialogue.mod:0
 msgid "Urk...!"
-msgstr ""
+msgstr "烏爾克...！"
 
 #. Id: 48585-Dialogue.mod
 #. -- Index: 6.1
@@ -1315,7 +1315,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48585-Dialogue.mod:1
 msgid "Agh...!"
-msgstr ""
+msgstr "哎......！"
 
 #. Id: 48585-Dialogue.mod
 #. -- Index: 6.2
@@ -1334,7 +1334,7 @@ msgstr ""
 #. -- Group title: Acid rain tough reaction
 #: 48585-Dialogue.mod:2 47737-Dialogue.mod:4 57696-Dialogue.mod:10
 msgid "Ouch!"
-msgstr ""
+msgstr "哎喲!"
 
 #. Id: 48586-Dialogue.mod
 #. -- Index: 7.0
@@ -1343,7 +1343,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48586-Dialogue.mod:0
 msgid "*cough* cheap shot! *hack*"
-msgstr ""
+msgstr "*咳嗽*便宜的射擊！ *破解*"
 
 #. Id: 48586-Dialogue.mod
 #. -- Index: 7.1
@@ -1352,7 +1352,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48586-Dialogue.mod:1
 msgid "Augh... cheap.. shot..."
-msgstr ""
+msgstr "Augh ...便宜..拍..."
 
 #. Id: 48587-Dialogue.mod
 #. -- Index: 7.0
@@ -1361,7 +1361,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48587-Dialogue.mod:0
 msgid "I'll kill you for that!"
-msgstr ""
+msgstr "我會殺了你的！"
 
 #. Id: 10579-Dialogue (10).mod
 #. -- Index: 1.0
@@ -1379,7 +1379,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10579-Dialogue?(10).mod:1
 msgid "Nope! Beat it, goon!"
-msgstr ""
+msgstr "不！打敗它，goon！"
 
 #. Id: 10579-Dialogue (10).mod
 #. -- Index: 1.2
@@ -1388,7 +1388,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 10579-Dialogue?(10).mod:2
 msgid "No! Get out of my face, punk!"
-msgstr ""
+msgstr "沒有！離開我的臉，朋克！"
 
 #. Id: 48332-Dialogue.mod
 #. -- Index: 2.0
@@ -1397,7 +1397,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48332-Dialogue.mod:0
 msgid "Givin' me attitude, eh? Well I got no time for it. I'll get you later, when no one can save you..."
-msgstr ""
+msgstr "Givin'我的態度，嗯？好吧，我沒有時間。我以後會告訴你的，沒有人可以拯救你......"
 
 #. Id: 48332-Dialogue.mod
 #. -- Index: 2.1
@@ -1416,7 +1416,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:0
 msgid "You owe me money!"
-msgstr ""
+msgstr "你欠我錢！"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.1
@@ -1426,7 +1426,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:1
 msgid "Where's my money?!"
-msgstr ""
+msgstr "我的錢在哪裡？！"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.2
@@ -1436,7 +1436,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:2
 msgid "I want my money!"
-msgstr ""
+msgstr "我想要我的錢！"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.3
@@ -1456,7 +1456,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:4
 msgid "Can I have my money now?"
-msgstr ""
+msgstr "我現在可以拿到錢嗎？"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.5
@@ -1466,7 +1466,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:5
 msgid "My money?"
-msgstr ""
+msgstr "我的錢？"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.6
@@ -1476,7 +1476,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:6
 msgid "That's MY money."
-msgstr ""
+msgstr "那是我的錢。"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.7
@@ -1486,7 +1486,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:7
 msgid "You owe me money..."
-msgstr ""
+msgstr "你欠我的錢......"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.8
@@ -1496,7 +1496,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5151-Dialogue.mod:8
 msgid "I'm here to collect my debt!"
-msgstr ""
+msgstr "我在這裡收債！"
 
 #. Id: 5151-Dialogue.mod
 #. -- Index: 0.9
@@ -1515,7 +1515,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5152-Dialogue.mod:0
 msgid "What money?"
-msgstr ""
+msgstr "什麼錢？"
 
 #. Id: 5152-Dialogue.mod
 #. -- Index: 1.1
@@ -1524,7 +1524,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5152-Dialogue.mod:1
 msgid "I don't owe you any money..."
-msgstr ""
+msgstr "我不欠你任何錢......"
 
 #. Id: 5152-Dialogue.mod
 #. -- Index: 1.2
@@ -1538,7 +1538,7 @@ msgstr ""
 #. -- Group title: stone rat base extortion negotiate
 #: 5152-Dialogue.mod:2 61883-Dialogue.mod:0
 msgid "What are you talking about?"
-msgstr ""
+msgstr "你在說什麼？"
 
 #. Id: 5152-Dialogue.mod
 #. -- Index: 1.3
@@ -1547,7 +1547,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5152-Dialogue.mod:3
 msgid "I don't know what you're talking about..."
-msgstr ""
+msgstr "我不知道你在談論什麼......"
 
 #. Id: 5153-Dialogue.mod
 #. -- Index: 2.0
@@ -1601,7 +1601,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5451-Dialogue.mod:0
 msgid "I'll tell the guards!"
-msgstr ""
+msgstr "我會告訴警衛！"
 
 #. Id: 5451-Dialogue.mod
 #. -- Index: 3.1
@@ -1610,7 +1610,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5451-Dialogue.mod:1
 msgid "The guards will protect me."
-msgstr ""
+msgstr "守衛會保護我。"
 
 #. Id: 5451-Dialogue.mod
 #. -- Index: 3.2
@@ -1619,7 +1619,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5451-Dialogue.mod:2
 msgid "I'll get the guards!"
-msgstr ""
+msgstr "我會得到警衛！"
 
 #. Id: 5452-Dialogue.mod
 #. -- Index: 4.0
@@ -1655,7 +1655,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5452-Dialogue.mod:3
 msgid "Tell the guards and I swear I'll goddamn kill you..."
-msgstr ""
+msgstr "告訴警衛我發誓我該死的殺了你......"
 
 #. Id: 5452-Dialogue.mod
 #. -- Index: 4.4
@@ -1673,7 +1673,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5453-Dialogue.mod:0
 msgid "Leave me alone, or I'll tell!"
-msgstr ""
+msgstr "別管我，或者我會告訴你！"
 
 #. Id: 5453-Dialogue.mod
 #. -- Index: 5.1
@@ -1682,7 +1682,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5453-Dialogue.mod:1
 msgid "The law will be on my side!"
-msgstr ""
+msgstr "法律將在我身邊！"
 
 #. Id: 5454-Dialogue.mod
 #. -- Index: 6.0
@@ -1691,7 +1691,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5454-Dialogue.mod:0
 msgid "The cops ain't gonna protect you. Bad decision."
-msgstr ""
+msgstr "警察不會保護你。糟糕的決定。"
 
 #. Id: 5454-Dialogue.mod
 #. -- Index: 6.1
@@ -1738,7 +1738,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48576-Dialogue.mod:0
 msgid "Cry babies like you need some sense beaten into your brains!"
-msgstr ""
+msgstr "哭泣的寶寶喜歡你需要一些感覺毆打你的大腦！"
 
 #. Id: 48576-Dialogue.mod
 #. -- Index: 5.1
@@ -1747,7 +1747,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48576-Dialogue.mod:1
 msgid "Now I GOTTA beat you up for bein' such a wet leaf!"
-msgstr ""
+msgstr "現在我GOTTA打敗了你，因為這樣的濕葉子！"
 
 #. Id: 48577-Dialogue.mod
 #. -- Index: 6.0
@@ -1782,7 +1782,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5172-Dialogue.mod:2 5177-Dialogue.mod:1
 msgid "Here you go (200 Cats)"
-msgstr ""
+msgstr "你去（200貓）"
 
 #. Id: 5172-Dialogue.mod
 #. -- Index: 1.3
@@ -1792,7 +1792,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>200, Tag: -1
 #: 5172-Dialogue.mod:3
 msgid "Take it (200 Cats)"
-msgstr ""
+msgstr "拿它（200貓）"
 
 #. Id: 5182-Dialogue.mod
 #. -- Index: 1.0
@@ -1810,7 +1810,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5182-Dialogue.mod:1
 msgid "You lost your money? Apologies, I don't understand trash-speak."
-msgstr ""
+msgstr "你輸了錢？道歉，我不明白垃圾話。"
 
 #. Id: 5182-Dialogue.mod
 #. -- Index: 1.2
@@ -1837,7 +1837,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48579-Dialogue.mod:2
 msgid "Wrong answer, smart ass..."
-msgstr ""
+msgstr "錯誤的回答，自作聰明......"
 
 #. Id: 48580-Dialogue.mod
 #. -- Index: 3.0
@@ -1846,7 +1846,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48580-Dialogue.mod:0
 msgid "Guess I'll just TAKE your Cats instead if you ain't gonna play!"
-msgstr ""
+msgstr "如果你不打球的話，我猜你只會拿走你的貓！"
 
 #. Id: 48580-Dialogue.mod
 #. -- Index: 3.1
@@ -1855,7 +1855,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48580-Dialogue.mod:1
 msgid "Then I'll beat it out of you instead! Shoulda co-operated!"
-msgstr ""
+msgstr "然後我會打敗你而不是！應該合作！"
 
 #. Id: 48580-Dialogue.mod
 #. -- Index: 3.2
@@ -1864,7 +1864,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48580-Dialogue.mod:2
 msgid "Hmph. You'll regret this!"
-msgstr ""
+msgstr "哼。你會後悔的！"
 
 #. Id: 5843-Dialogue.mod
 #. -- Index: 1.1
@@ -1886,7 +1886,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
 #: 5843-Dialogue.mod:2
 msgid "Here you go (75 Cats)"
-msgstr ""
+msgstr "你去（75貓）"
 
 #. Id: 5843-Dialogue.mod
 #. -- Index: 1.3
@@ -1897,7 +1897,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<1000, Tag: -1
 #: 5843-Dialogue.mod:3
 msgid "Take it (75 Cats)"
-msgstr ""
+msgstr "拿它（75貓）"
 
 #. Id: 5170-Dialogue.mod
 #. -- Index: 0.0
@@ -1967,7 +1967,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5170-Dialogue.mod:7
 msgid "I got people to feed and YOU'RE gonna help. Pay up."
-msgstr ""
+msgstr "我讓人們吃飯，你會幫忙的。付清。"
 
 #. Id: 5177-Dialogue.mod
 #. -- Index: 1.0
@@ -2006,7 +2006,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5226-Dialogue.mod:0
 msgid "Not bad. I'll remember this"
-msgstr ""
+msgstr "不錯。我會記住這個"
 
 #. Id: 5226-Dialogue.mod
 #. -- Index: 2.1
@@ -2015,7 +2015,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5226-Dialogue.mod:1
 msgid "I'll remember this"
-msgstr ""
+msgstr "我會記住這個"
 
 #. Id: 5226-Dialogue.mod
 #. -- Index: 2.2
@@ -2024,7 +2024,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5226-Dialogue.mod:2
 msgid "You're alright I s'pose"
-msgstr ""
+msgstr "你沒關係我"
 
 #. Id: 5226-Dialogue.mod
 #. -- Index: 2.3
@@ -2039,7 +2039,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5226-Dialogue.mod:3 8548-Dialogue.mod:2
 msgid "Not bad"
-msgstr ""
+msgstr "不錯"
 
 #. Id: 5181-Dialogue.mod
 #. -- Index: 1.0
@@ -2048,7 +2048,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5181-Dialogue.mod:0
 msgid "Oh boohoo, cry me a river..."
-msgstr ""
+msgstr "哦boohoo，哭我一條河..."
 
 #. Id: 5181-Dialogue.mod
 #. -- Index: 1.1
@@ -2057,7 +2057,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 5181-Dialogue.mod:1
 msgid "Oh boohoo, cry me a freakin' river..."
-msgstr ""
+msgstr "哦，boohoo，叫我一條怪異的河......"
 
 #. Id: 5844-Dialogue.mod
 #. -- Index: 1.0
@@ -2095,7 +2095,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 13738-Escapes.mod:0
 msgid "I can't give you any more..."
-msgstr ""
+msgstr "我不能再給你了......"
 
 #. Id: 13739-Escapes.mod
 #. -- Index: 1.0
@@ -2105,7 +2105,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<75, Tag: -1
 #: 13739-Escapes.mod:0
 msgid "I don't have any money..."
-msgstr ""
+msgstr "我沒有錢......"
 
 #. Id: 13742-Escapes.mod
 #. -- Index: 2.0
@@ -2114,7 +2114,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 13742-Escapes.mod:0
 msgid "Too bad, I'll just have to take your pants instead..."
-msgstr ""
+msgstr "太糟糕了，我只需要穿上你的褲子......"
 
 #. Id: 13742-Escapes.mod
 #. -- Index: 2.1
@@ -2123,7 +2123,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 13742-Escapes.mod:1
 msgid "Too bad, I'll just have to steal your pants from you instead..."
-msgstr ""
+msgstr "太糟糕了，我只需要從你那裡偷你的褲子......"
 
 #. Id: 13742-Escapes.mod
 #. -- Index: 2.2
@@ -2137,7 +2137,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 13742-Escapes.mod:2 48573-Dialogue.mod:2
 msgid "Then I guess I'll just take the clothes from your back..."
-msgstr ""
+msgstr "然後我想我會把你背上的衣服拿走......"
 
 #. Id: 48572-Dialogue.mod
 #. -- Index: 3.0
@@ -2146,7 +2146,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48572-Dialogue.mod:0
 msgid "Now we'll have to do this the hard way!"
-msgstr ""
+msgstr "現在我們必須以艱難的方式做到這一點！"
 
 #. Id: 48572-Dialogue.mod
 #. -- Index: 3.1
@@ -2155,7 +2155,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48572-Dialogue.mod:1
 msgid "I guess we'll just have to do this the painful way!"
-msgstr ""
+msgstr "我想我們只需要以痛苦的方式做到這一點！"
 
 #. Id: 48572-Dialogue.mod
 #. -- Index: 3.2
@@ -2173,7 +2173,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48572-Dialogue.mod:3
 msgid "I'm just gonna have to beat your Cats out of you!"
-msgstr ""
+msgstr "我只是要打敗你的貓！"
 
 #. Id: 48573-Dialogue.mod
 #. -- Index: 2.0
@@ -2182,7 +2182,7 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48573-Dialogue.mod:0
 msgid "Too bad, I'll just have to take your pants later instead..."
-msgstr ""
+msgstr "太糟糕了，我只需要稍後穿上你的褲子......"
 
 #. Id: 48573-Dialogue.mod
 #. -- Index: 2.1
@@ -2191,5 +2191,4 @@ msgstr ""
 #. -- Group title: Give me your money (interrupt)
 #: 48573-Dialogue.mod:1
 msgid "Too bad, I'll just have to steal your pants from you later..."
-msgstr ""
-
+msgstr "太糟糕了，我以後只能偷你的褲子......"

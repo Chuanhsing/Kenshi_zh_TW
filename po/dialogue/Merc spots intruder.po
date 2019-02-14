@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:0
 msgid "How'd you get in here?!"
-msgstr ""
+msgstr "你怎麼進來的？！"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:1
 msgid "You shouldn't be in here!"
-msgstr ""
+msgstr "你不應該在這裡！"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:2
 msgid "How the-!"
-msgstr ""
+msgstr "怎麼 - ！"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.3
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 45363-Dialogue.mod:3 40653-Dialogue.mod:8
 msgid "What are you doing in here?!"
-msgstr ""
+msgstr "你在這做什麼？！"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.4
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:4
 msgid "How did you get in?"
-msgstr ""
+msgstr "你是怎麼進來的？"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.6
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:6
 msgid "What the-?!"
-msgstr ""
+msgstr "什麼 - ？！"
 
 #. Id: 45363-Dialogue.mod
 #. -- Index: 0.7
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Hive Prince or Shek
 #: 45363-Dialogue.mod:7
 msgid "Uh?!"
-msgstr ""
+msgstr "呃？"
 
 #. Id: 45364-Dialogue.mod
 #. -- Index: 1.3
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Group title: Merc spots intruder
 #: 45364-Dialogue.mod:4
 msgid "Stinkin' thief! What are you doing here!?"
-msgstr ""
+msgstr "Stinkin'小偷！你在這裡做什麼！？"
 
 #. Id: 45364-Dialogue.mod
 #. -- Index: 1.5
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Group title: Merc spots intruder
 #: 45364-Dialogue.mod:5
 msgid "Trying to steal from me or something? Not on my watch!"
-msgstr ""
+msgstr "試圖從我這裡偷東西？不在我的手錶上！"
 
 #. Id: 45364-Dialogue.mod
 #. -- Index: 1.6
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Group title: Merc spots intruder
 #: 45364-Dialogue.mod:9
 msgid "Tresspasser!"
-msgstr ""
+msgstr "Tresspasser！"
 
 #. Id: 45368-Dialogue.mod
 #. -- Index: 2.0
@@ -166,7 +166,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45368-Dialogue.mod:2
 msgid "Get back here! You won't get away with this! "
-msgstr ""
+msgstr "回到這裡！你不會僥倖逃脫！"
 
 #. Id: 45371-Dialogue.mod
 #. -- Index: 2.0
@@ -203,4 +203,3 @@ msgstr ""
 #: 45371-Dialogue.mod:2
 msgid "/HEIS/ trying to get away! /GUARD/s! "
 msgstr ""
-

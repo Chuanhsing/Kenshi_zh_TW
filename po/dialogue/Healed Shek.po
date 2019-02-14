@@ -30,7 +30,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 10995-Dialogue?(10).mod:0 11467-Dialogue?(10).mod:2 11473-Dialogue?(10).mod:0
 msgid "My gratitude"
-msgstr ""
+msgstr "我的感激之情"
 
 #. Id: 10995-Dialogue (10).mod
 #. -- Index: 0.1
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 10995-Dialogue?(10).mod:1 11467-Dialogue?(10).mod:1 11473-Dialogue?(10).mod:1 11483-Dialogue?(10).mod:0
 msgid "Gratitude"
-msgstr ""
+msgstr "感謝"
 
 #. Id: 11017-Dialogue (10).mod
 #. -- Index: 0.0
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 11017-Dialogue?(10).mod:0 11019-Dialogue?(10).mod:0 11433-Dialogue?(10).mod:7 11485-Dialogue?(10).mod:3
 msgid "Hrm"
-msgstr ""
+msgstr "人力資源管理"
 
 #. Id: 11017-Dialogue (10).mod
 #. -- Index: 0.1
@@ -123,5 +123,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 11017-Dialogue?(10).mod:1 11019-Dialogue?(10).mod:1 11433-Dialogue?(10).mod:3 11485-Dialogue?(10).mod:2 11665-Dialogue?(10).mod:0 42335-Dialogue.mod:1
 msgid "Mmh"
-msgstr ""
-
+msgstr "MMH"

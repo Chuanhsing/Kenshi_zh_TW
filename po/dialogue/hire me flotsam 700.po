@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 50291-Dialogue.mod:0
 msgid "Welcome to our village, outsider, may light and dark both bless you. Are you here for recruits? "
-msgstr ""
+msgstr "歡迎來到我們的村莊，局外人，可光明和黑暗都祝福你。你在這裡招募新人嗎？"
 
 #. Id: 50291-Dialogue.mod
 #. -- Index: 0.1
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Group title: Hire me 700 Tough
 #: 50315-Dialogue.mod:0 19431-Dialogue.mod:0 18678-Dialogue.mod:1
 msgid "I am. How much are you charging?"
-msgstr ""
+msgstr "我是。你收費多少錢？"
 
 #. Id: 50315-Dialogue.mod
 #. -- Index: 1.1
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50315-Dialogue.mod:1
 msgid "Yes. How much?"
-msgstr ""
+msgstr "是。多少？"
 
 #. Id: 50315-Dialogue.mod
 #. -- Index: 1.2
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Group title: Hire me 700 Holy Nation Female
 #: 50315-Dialogue.mod:2 19240-Dialogue.mod:5
 msgid "I am. What's your fee?"
-msgstr ""
+msgstr "我是。你的費用是多少？"
 
 #. Id: 50315-Dialogue.mod
 #. -- Index: 1.3
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50315-Dialogue.mod:3
 msgid "Yeah. What's your price?"
-msgstr ""
+msgstr "是啊。你的價格是多少？"
 
 #. Id: 50315-Dialogue.mod
 #. -- Index: 1.4
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50315-Dialogue.mod:4
 msgid "I am. How much will it cost me?"
-msgstr ""
+msgstr "我是。我需要多少錢？"
 
 #. Id: 50317-Dialogue.mod
 #. -- Index: 2.0
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50317-Dialogue.mod:0
 msgid "3000 Cats plus my food and board, that's all I ask."
-msgstr ""
+msgstr "3000貓加我的食物和食物，這就是我所要求的。"
 
 #. Id: 50317-Dialogue.mod
 #. -- Index: 2.1
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50317-Dialogue.mod:1
 msgid "I've no skills to offer so just the bare minimum to cover my guild fees, 3000 Cats."
-msgstr ""
+msgstr "我沒有技能可以提供，只需支付我的公會費，3000貓。"
 
 #. Id: 50317-Dialogue.mod
 #. -- Index: 2.2
@@ -156,7 +156,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50317-Dialogue.mod:2
 msgid "3000 Cats is all I'm charging. I've no skills but I can learn whatever you can teach."
-msgstr ""
+msgstr "3000隻貓我正在充電。我沒有技能，但我可以學到任何你可以教的東西。"
 
 #. Id: 50317-Dialogue.mod
 #. -- Index: 2.3
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50317-Dialogue.mod:3
 msgid "Just 3000 Cats. I've not got much to offer for it but what I do have is loyalty and determination."
-msgstr ""
+msgstr "只需3000隻貓。我沒有多少可以提供它，但我所擁有的是忠誠和決心。"
 
 #. Id: 50318-Dialogue.mod
 #. -- Index: 3.1
@@ -216,7 +216,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 50318-Dialogue.mod:1 1381-gamedata.base:0 52538-Dialogue.mod:0 15104-Dialogue.mod:1 40526-gamedata.base:1 53435-Dialogue.mod:0 51765-Dialogue.mod:0 64118-Dialogue.mod:0
 msgid "Deal."
-msgstr ""
+msgstr "應對。"
 
 #. Id: 50318-Dialogue.mod
 #. -- Index: 3.3
@@ -226,7 +226,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 50318-Dialogue.mod:3
 msgid "Come with me."
-msgstr ""
+msgstr "跟我來。"
 
 #. Id: 50319-Dialogue.mod
 #. -- Index: 3.0
@@ -242,7 +242,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
 #: 50319-Dialogue.mod:0 48660-Dialogue.mod:0
 msgid "I can't afford that."
-msgstr ""
+msgstr "我買不起。"
 
 #. Id: 50307-Dialogue.mod
 #. -- Index: 1.0
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50307-Dialogue.mod:0
 msgid "I'm not interested, sorry."
-msgstr ""
+msgstr "抱歉，我不感興趣。"
 
 #. Id: 50307-Dialogue.mod
 #. -- Index: 1.1
@@ -260,7 +260,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50307-Dialogue.mod:1
 msgid "Sorry, I'm not interested."
-msgstr ""
+msgstr "對不起，我不感興趣。"
 
 #. Id: 50292-Dialogue.mod
 #. -- Index: 0.0
@@ -314,7 +314,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 2000
 #: 50322-Dialogue.mod:1 19009-Dialogue.mod:0
 msgid "What's your fee?"
-msgstr ""
+msgstr "你的費用是多少？"
 
 #. Id: 50323-Dialogue.mod
 #. -- Index: 1.0
@@ -323,7 +323,7 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50323-Dialogue.mod:0
 msgid "Depends, have you got any skills?"
-msgstr ""
+msgstr "取決於，你有任何技能嗎？"
 
 #. Id: 50297-Dialogue.mod
 #. -- Index: 2.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 50293-Dialogue.mod:1
 msgid "I failed my trial to join the Flotsam Ninjas, can you believe that? But now I've tasted how it feels to fight for a cause, and I want it. Interested in hiring a newbie, outsider?"
-msgstr ""
+msgstr "我沒有通過試驗加入Flotsam Ninjas，你能相信嗎？但是現在我已經嚐到了為一個事業而戰的感覺，我想要它。有興趣僱用新手，局外人？"
 
 #. Id: 50293-Dialogue.mod
 #. -- Index: 0.2
@@ -362,7 +362,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 50293-Dialogue.mod:2
 msgid "Now that I finally have my freedom, I want to fight, to prove my worth. But the Flotsam Ninjas won't take me, so here I am in search of a new clan. Are you looking for recruits, outsider?"
-msgstr ""
+msgstr "現在我終於有了自由，我想要戰鬥，證明自己的價值。但是Flotsam Ninjas不會帶我，所以我在這裡尋找一個新的戰隊。你在尋找新人，外人嗎？"
 
 #. Id: 50293-Dialogue.mod
 #. -- Index: 0.3
@@ -372,7 +372,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 50293-Dialogue.mod:3
 msgid "Failed the Ninja trials so there's nothing left for me to do here now. How about you, are you looking for fresh recruits?"
-msgstr ""
+msgstr "Ninja試驗失敗，所以我現在沒有什麼可以做的了。你呢，你在找新人嗎？"
 
 #. Id: 50293-Dialogue.mod
 #. -- Index: 0.4
@@ -454,7 +454,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 50324-Dialogue.mod:0 1740-gamedata.base:2 50251-Dialogue.mod:0
 msgid "Sounds good. You're hired."
-msgstr ""
+msgstr "聽起來不錯。你被錄取了。"
 
 #. Id: 50324-Dialogue.mod
 #. -- Index: 1.1
@@ -470,7 +470,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 50324-Dialogue.mod:1 50224-Dialogue.mod:0
 msgid "Sounds fair. Let's go."
-msgstr ""
+msgstr "聽起來很公平。我們走吧。"
 
 #. Id: 50324-Dialogue.mod
 #. -- Index: 1.2
@@ -480,7 +480,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 50324-Dialogue.mod:2
 msgid "Deal. Come with me."
-msgstr ""
+msgstr "應對。跟我來。"
 
 #. Id: 50326-Dialogue.mod
 #. -- Index: 1.0
@@ -496,7 +496,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
 #: 50326-Dialogue.mod:0 49974-Dialogue.mod:0
 msgid "I don't have that much money, sorry."
-msgstr ""
+msgstr "抱歉，我沒有那麼多錢。"
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.0
@@ -506,7 +506,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:0
 msgid "So long Holy Nation, so long Flotsam, I'm outta here. 3000 Cats if you're hiring, stranger. "
-msgstr ""
+msgstr "如此漫長的神聖國度，這麼長的漂浮物，我離開了這裡。如果你招聘3000隻貓，陌生人。"
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.1
@@ -526,7 +526,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:2
 msgid "I'm hungry, I'm pissed off and I'm getting out of this village. Hire me and it'll only cost you 3000 Cats. You can train me up to do whatever you want, I don't care."
-msgstr ""
+msgstr "我很餓，我很生氣，我要離開這個村莊了。僱用我，它只會花費你3000貓。你可以訓練我做你想做的事，我不在乎。"
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.3
@@ -536,7 +536,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:3
 msgid "An outsider! Take me away to the land of the godless! I'm free to sin and no god can tell me what to do. How about it, my fee is 3000 Cats."
-msgstr ""
+msgstr "一個局外人！把我帶到無神的土地！我可以自由地犯罪，沒有上帝可以告訴我該怎麼做。怎麼樣，我的費用是3000貓。"
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.4
@@ -546,7 +546,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:4
 msgid "An outsider from the godless lands, right? Maybe you're my ticket out of here. My fee is only 3000 Cats if you're hiring... "
-msgstr ""
+msgstr "來自無神之地的局外人吧？也許你是我離開這裡的門票。如果你正在招聘我的費用只有3000貓..."
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.5
@@ -556,7 +556,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:5
 msgid "A godless outsider... how exotic. How bad. I like it, too much clinging to a devil in a god's disguise around here for my liking. You hiring? I charge 3000 Cats."
-msgstr ""
+msgstr "一個無神的局外人......多麼異國情調。多麼糟糕。我喜歡它，太依賴於一個神的偽裝在我周圍的神的偽裝。你在招人嗎？我給3000隻貓充電。"
 
 #. Id: 50304-Dialogue.mod
 #. -- Index: 0.6
@@ -566,7 +566,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 50304-Dialogue.mod:6
 msgid "I'm finally free from the Phoenix' rule and I've got a lot of travelling, shouting and pent up anger to unload. My fee is 3000 Cats if you're hiring, stranger."
-msgstr ""
+msgstr "我終於擺脫了菲尼克斯的統治，我有很多旅行，大喊大叫和壓抑憤怒來卸載。如果你招聘我的費用是3000貓，陌生人。"
 
 #. Id: 50313-Dialogue.mod
 #. -- Index: 0.0
@@ -584,7 +584,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
 #: 50313-Dialogue.mod:0 18216-Recruits?Dialogue.mod:7
 msgid "Did you change your mind?"
-msgstr ""
+msgstr "你改變了主意嗎？"
 
 #. Id: 50313-Dialogue.mod
 #. -- Index: 0.1
@@ -609,7 +609,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<12, Tag: -1
 #: 50313-Dialogue.mod:1 18216-Recruits?Dialogue.mod:2 50547-Dialogue.mod:0
 msgid "You're back?"
-msgstr ""
+msgstr "你回來了？"
 
 #. Id: 50313-Dialogue.mod
 #. -- Index: 0.2
@@ -620,7 +620,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<24, Tag: -1
 #: 50313-Dialogue.mod:2
 msgid "It's you again?"
-msgstr ""
+msgstr "你又來了嗎？"
 
 #. Id: 50313-Dialogue.mod
 #. -- Index: 0.3
@@ -636,7 +636,7 @@ msgstr ""
 #. -- Group title: Fisher Village barman
 #: 50313-Dialogue.mod:3 50411-Dialogue.mod:0
 msgid "What can I do for you?"
-msgstr ""
+msgstr "我能為你做什麼？"
 
 #. Id: 50337-Dialogue.mod
 #. -- Index: 1.0
@@ -657,7 +657,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 50337-Dialogue.mod:0 18217-Recruits?Dialogue.mod:0 19268-Dialogue.mod:0
 msgid "I changed my mind, you're hired."
-msgstr ""
+msgstr "我改變了主意，你被錄用了。"
 
 #. Id: 50337-Dialogue.mod
 #. -- Index: 1.1
@@ -667,7 +667,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 50337-Dialogue.mod:1
 msgid "I came back to hire you, let's go."
-msgstr ""
+msgstr "我回來僱你，讓我們走吧。"
 
 #. Id: 50337-Dialogue.mod
 #. -- Index: 1.2
@@ -683,7 +683,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 50337-Dialogue.mod:2 18125-Recruits?Dialogue.mod:2
 msgid "I want to hire you after all."
-msgstr ""
+msgstr "畢竟我想僱用你。"
 
 #. Id: 50338-Dialogue.mod
 #. -- Index: 1.0
@@ -692,5 +692,4 @@ msgstr ""
 #. -- Group title: hire me flotsam 700
 #: 50338-Dialogue.mod:0
 msgid "It's nothing, sorry to bother you."
-msgstr ""
-
+msgstr "沒什麼，抱歉打擾你。"

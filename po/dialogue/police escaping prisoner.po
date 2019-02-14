@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: police escaping prisoner
 #: 12600-gamedata.base:0
 msgid "Prisoner escape!"
-msgstr ""
+msgstr "囚犯逃脫！"
 
 #. Id: 12603-gamedata.base
 #. -- Index: 0.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 12603-gamedata.base:0 56667-Dialogue.mod:0 44128-Dialogue.mod:7 17995-Dialogue.mod:2 19808-Dialogue.mod:3
 msgid "Dammit!"
-msgstr ""
+msgstr "該死！"
 
 #. Id: 12603-gamedata.base
 #. -- Index: 0.1
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
 #: 12603-gamedata.base:2
 msgid "We will find you!"
-msgstr ""
+msgstr "我們會找到你的！"
 
 #. Id: 12603-gamedata.base
 #. -- Index: 0.3
@@ -87,5 +87,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
 #: 12603-gamedata.base:3
 msgid "You can't run from the law!"
-msgstr ""
-
+msgstr "你不能逃避法律！"

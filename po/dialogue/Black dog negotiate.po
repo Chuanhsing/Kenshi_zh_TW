@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20174-Dialogue.mod:0
 msgid "Now that you're benefitting from our presence, we kindly ask that you chip in like everyone else. For a small fee we'll guard your base and take care of all your vermin problems."
-msgstr ""
+msgstr "既然您從我們的存在中獲益，我們懇請您像其他人一樣進行籌碼。只需很少的費用，我們將保護您的基地，並照顧您的所有害蟲問題。"
 
 #. Id: 20173-Dialogue.mod
 #. -- Index: 2.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20173-Dialogue.mod:0
 msgid "Sure, I guess that's only fair."
-msgstr ""
+msgstr "當然，我猜這是公平的。"
 
 #. Id: 20173-Dialogue.mod
 #. -- Index: 2.1
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20173-Dialogue.mod:1
 msgid "That sounds fair I suppose."
-msgstr ""
+msgstr "我覺得這聽起來很公平。"
 
 #. Id: 20182-Dialogue.mod
 #. -- Index: 3.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20182-Dialogue.mod:0
 msgid "Glad we have an understanding. 4000 Cats will cover two days of our labour. We earn our living, you stay safe, everyone's happy..."
-msgstr ""
+msgstr "很高興我們有了解。 4000貓將承擔我們的兩天勞動。我們謀生，保持安全，每個人都快樂..."
 
 #. Id: 20183-Dialogue.mod
 #. -- Index: 4.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20190-Dialogue.mod:0
 msgid "Tight on Cats, eh? Sure, we can work something out. We're not heartless afterall, we just wanna help out our neighbours. How much are you thinkin'?"
-msgstr ""
+msgstr "貓很緊，嗯？當然，我們可以解決一些問題。我們不是無情的，我們只是想幫助我們的鄰居。你覺得多少錢？"
 
 #. Id: 20190-Dialogue.mod
 #. -- Index: 5.1
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 20195-Dialogue.mod:0
 msgid "3000 Cats"
-msgstr ""
+msgstr "3000隻貓"
 
 #. Id: 20201-Dialogue.mod
 #. -- Index: 7.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20201-Dialogue.mod:0
 msgid "... If that's all you got, then that's all you got. I'll give you your discount."
-msgstr ""
+msgstr "......如果這就是你所擁有的，那就是你所擁有的一切。我會給你折扣。"
 
 #. Id: 20202-Dialogue.mod
 #. -- Index: 8.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20202-Dialogue.mod:0
 msgid "And that's a BIG discount I just gave you, neighbour. Hope you appreciate it."
-msgstr ""
+msgstr "這是我給你的一個大折扣，鄰居。希望你欣賞它。"
 
 #. Id: 61929-Dialogue.mod
 #. -- Index: 7.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 61929-Dialogue.mod:0
 msgid "That's a little insulting don't you think, neighbour? But if you're not willing to pay us fairly, we've no choice but to be unfair back to you..."
-msgstr ""
+msgstr "鄰居，你覺得這有點侮辱嗎？但如果你不願意公平支付我們，我們別無選擇，只能對你不公平......"
 
 #. Id: 64149-Dialogue.mod
 #. -- Index: 8.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 64149-Dialogue.mod:0
 msgid "Take it or leave it. I can't pay more."
-msgstr ""
+msgstr "要么接受，要么離開它。我不能支付更多。"
 
 #. Id: 20193-Dialogue.mod
 #. -- Index: 6.0
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3500, Tag: -1
 #: 20193-Dialogue.mod:0
 msgid "3500 Cats"
-msgstr ""
+msgstr "3500貓"
 
 #. Id: 20204-Dialogue.mod
 #. -- Index: 7.0
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20204-Dialogue.mod:0
 msgid "... Alright. I can work with that."
-msgstr ""
+msgstr "... 好的。我可以解決這個問題。"
 
 #. Id: 20194-Dialogue.mod
 #. -- Index: 6.0
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
 #: 20194-Dialogue.mod:0
 msgid "On second thoughts, I'll pay the 4000 Cats."
-msgstr ""
+msgstr "再想一想，我會支付4000貓。"
 
 #. Id: 20205-Dialogue.mod
 #. -- Index: 7.0
@@ -166,7 +166,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20205-Dialogue.mod:0
 msgid "... Deal!"
-msgstr ""
+msgstr "......交易！"
 
 #. Id: 20184-Dialogue.mod
 #. -- Index: 4.0
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
 #: 20184-Dialogue.mod:0
 msgid "Sure. Here."
-msgstr ""
+msgstr "當然。這裡。"
 
 #. Id: 20191-Dialogue.mod
 #. -- Index: 5.0
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20191-Dialogue.mod:0
 msgid "Appreciate the donation, neighbour..."
-msgstr ""
+msgstr "感謝捐贈，鄰居......"
 
 #. Id: 20192-Dialogue.mod
 #. -- Index: 6.0
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20192-Dialogue.mod:0
 msgid "Stay safe now!"
-msgstr ""
+msgstr "現在保持安全！"
 
 #. Id: 20185-Dialogue.mod
 #. -- Index: 4.0
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20185-Dialogue.mod:0
 msgid "That's way too much. Forget it."
-msgstr ""
+msgstr "這太過分了。算了吧。"
 
 #. Id: 20186-Dialogue.mod
 #. -- Index: 5.0
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20186-Dialogue.mod:0
 msgid "Ok, whatever you want, but I can't protect you from my hungry, sober men if I don't got any rum money... "
-msgstr ""
+msgstr "好的，無論你想要什麼，但如果我沒有任何朗姆酒金錢，我無法保護你免受我飢餓，清醒的人的傷害......"
 
 #. Id: 20187-Dialogue.mod
 #. -- Index: 6.0
@@ -221,7 +221,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20187-Dialogue.mod:0
 msgid "You deaf? I said forget it."
-msgstr ""
+msgstr "你聾了嗎？我說忘記了。"
 
 #. Id: 20189-Dialogue.mod
 #. -- Index: 7.0
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20189-Dialogue.mod:0
 msgid "That's your final answer, eh?"
-msgstr ""
+msgstr "那是你的最終答案，是嗎？"
 
 #. Id: 20188-Dialogue.mod
 #. -- Index: 8.0
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20188-Dialogue.mod:1
 msgid "You haven't seen the last of us."
-msgstr ""
+msgstr "你還沒見過我們最後一個人。"
 
 #. Id: 20188-Dialogue.mod
 #. -- Index: 8.2
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20188-Dialogue.mod:2
 msgid "Be seeing you real soon, settler."
-msgstr ""
+msgstr "定居者，很快就能看到你。"
 
 #. Id: 20208-Dialogue.mod
 #. -- Index: 6.0
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
 #: 20208-Dialogue.mod:0
 msgid "... Fine"
-msgstr ""
+msgstr "好的"
 
 #. Id: 20211-Dialogue.mod
 #. -- Index: 6.0
@@ -285,7 +285,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 62170-__additions.mod:0
 msgid "Well that's a shame, but I can't protect you from my hungry, sober men if I don't got any rum money for them... "
-msgstr ""
+msgstr "嗯，這是一種恥辱，但如果我沒有任何朗姆酒資金，我無法保護你免受飢餓，清醒的人的傷害......"
 
 #. Id: 62168-__additions.mod
 #. -- Index: 4.0
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 62168-__additions.mod:0
 msgid "I've don't have enough money for that."
-msgstr ""
+msgstr "我沒有足夠的錢。"
 
 #. Id: 20175-Dialogue.mod
 #. -- Index: 2.0
@@ -304,7 +304,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 20175-Dialogue.mod:0
 msgid "We don't need your help. We can take care of ourselves."
-msgstr ""
+msgstr "我們不需要你的幫助。我們可以照顧好自己。"
 
 #. Id: 20177-Dialogue.mod
 #. -- Index: 2.0
@@ -314,7 +314,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 20177-Dialogue.mod:0
 msgid "I don't need your help. I can take care of myself."
-msgstr ""
+msgstr "我不需要你的幫助。我可以照顧好自己。"
 
 #. Id: 20179-Dialogue.mod
 #. -- Index: 2.0
@@ -341,7 +341,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20181-Dialogue.mod:0
 msgid "Not interested. Now get the hell off my land."
-msgstr ""
+msgstr "沒興趣。現在離開我的土地了。"
 
 #. Id: 20212-Dialogue.mod
 #. -- Index: 5.0
@@ -350,7 +350,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20212-Dialogue.mod:0
 msgid "Ouch! How rude!"
-msgstr ""
+msgstr "哎喲!太粗魯了！"
 
 #. Id: 20212-Dialogue.mod
 #. -- Index: 5.1
@@ -359,7 +359,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20212-Dialogue.mod:1
 msgid "What's with all the hostility?"
-msgstr ""
+msgstr "所有的敵意是什麼？"
 
 #. Id: 20212-Dialogue.mod
 #. -- Index: 5.2
@@ -368,7 +368,7 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20212-Dialogue.mod:2
 msgid "I find your tone very inhospitable, neighbour..."
-msgstr ""
+msgstr "我發現你的語氣非常惡劣，鄰居......"
 
 #. Id: 20212-Dialogue.mod
 #. -- Index: 5.3
@@ -377,5 +377,4 @@ msgstr ""
 #. -- Group title: Black dog negotiate
 #: 20212-Dialogue.mod:3
 msgid "How unwelcoming!"
-msgstr ""
-
+msgstr "多麼不受歡迎！"

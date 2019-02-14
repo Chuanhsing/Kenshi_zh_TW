@@ -24,7 +24,7 @@ msgstr ""
 #. -- Group title: Inquisitor sees enemy (enemy mild)
 #: 41137-Dialogue.mod:0 41160-Dialogue.mod:0
 msgid "Enemy be purged!"
-msgstr ""
+msgstr "敵人被清除！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.1
@@ -34,7 +34,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:1
 msgid "Enemy be smited!"
-msgstr ""
+msgstr "敵人被打擊了！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.2
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Group title: Inquisitor sees enemy (enemy mild)
 #: 41137-Dialogue.mod:2 41160-Dialogue.mod:1
 msgid "Dark ones be purged!"
-msgstr ""
+msgstr "黑暗的被清除！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.3
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:3
 msgid "Enemies... Okran guide my sword!"
-msgstr ""
+msgstr "敵人......奧克蘭指導我的劍！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.4
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:4
 msgid "Enemies of Okran must be purged"
-msgstr ""
+msgstr "必須清除奧克蘭的敵人"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.5
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:5
 msgid "Taste the judgement of Okran, unholy one!"
-msgstr ""
+msgstr "品嚐奧克蘭的判斷，不聖潔！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.6
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:6
 msgid "Darkened!... Okran's judgement will be cast!"
-msgstr ""
+msgstr "變暗了！......奧克蘭的判斷將被施展！"
 
 #. Id: 41137-Dialogue.mod
 #. -- Index: 0.7
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 41137-Dialogue.mod:7
 msgid "Okran will cleanse the lands of the darkened, enemy be purged!"
-msgstr ""
+msgstr "奧克蘭將淨化黑暗的土地，敵人被清除！"
 
 #. Id: 41138-Dialogue.mod
 #. -- Index: 0.0
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 41138-Dialogue.mod:0
 msgid "Beast be purged!"
-msgstr ""
+msgstr "野獸被清除！"
 
 #. Id: 41138-Dialogue.mod
 #. -- Index: 0.1
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 41138-Dialogue.mod:1
 msgid "Beasts be purified!"
-msgstr ""
+msgstr "野獸被淨化了！"
 
 #. Id: 41138-Dialogue.mod
 #. -- Index: 0.2
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 41138-Dialogue.mod:2
 msgid "A beast needs taming!"
-msgstr ""
+msgstr "野獸需要馴服！"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.0
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:0
 msgid "Agents of darkness..."
-msgstr ""
+msgstr "黑暗的代理人......"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.1
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:1
 msgid "The darkness comes..."
-msgstr ""
+msgstr "黑暗來了......"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.2
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:2
 msgid "Skeleton! You will not slip by me!"
-msgstr ""
+msgstr "骨架！你不會溜我的！"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.3
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:4
 msgid "Okran grant me strength, agents of darkness are upon us!"
-msgstr ""
+msgstr "奧克蘭賜予我力量，黑暗的代理人在我們身上！"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.6
@@ -219,7 +219,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:11
 msgid "Okran bestow me power, Skeletons are upon us!"
-msgstr ""
+msgstr "Okran賦予我力量，骷髏在我們身上！"
 
 #. Id: 41139-Dialogue.mod
 #. -- Index: 0.12
@@ -229,7 +229,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41139-Dialogue.mod:12
 msgid "Agent of darkness, I will not let you pass!"
-msgstr ""
+msgstr "黑暗的代理人，我不會讓你通過！"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.0
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:0
 msgid "You escaped your fate once. But you won't escape it twice."
-msgstr ""
+msgstr "你逃脫了一次命運。但你不會逃避它兩次。"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.1
@@ -249,7 +249,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:1
 msgid "This time you won't survive my sword."
-msgstr ""
+msgstr "這一次你將無法生存我的劍。"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.2
@@ -259,7 +259,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:2
 msgid "This time you won't survive. It is Okran's will that you be purged."
-msgstr ""
+msgstr "這次你將無法生存。你被清除是奧克蘭的遺囑。"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.3
@@ -269,7 +269,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:3
 msgid "I won't let you survive this time, heretic..."
-msgstr ""
+msgstr "這一次，我不會讓你活下來，異教徒......"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.4
@@ -279,7 +279,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:4
 msgid "Still alive? The darkness is persistent, but this time I'll end you for good!"
-msgstr ""
+msgstr "還活著？黑暗是持久的，但這次我會永遠結束你！"
 
 #. Id: 41156-Dialogue.mod
 #. -- Index: 0.5
@@ -289,7 +289,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41156-Dialogue.mod:5
 msgid "Your sins won't escape the judgement of my sword this time, heretic!"
-msgstr ""
+msgstr "這次，你的罪孽不會逃脫我的劍的判斷，異教徒！"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.0
@@ -299,7 +299,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:0
 msgid "You again! I won't be beaten this time!"
-msgstr ""
+msgstr "又是你！這次我不會被打敗！"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.1
@@ -309,7 +309,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:1
 msgid "Luck was on your side last time. But I won't fail again!"
-msgstr ""
+msgstr "運氣最後一次在你身邊。但我不會再失敗了！"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.2
@@ -319,7 +319,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:2
 msgid "Last time you got lucky. But you won't defeat me again."
-msgstr ""
+msgstr "上次你很幸運。但你不會再打敗我了。"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.3
@@ -329,7 +329,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:3
 msgid "With Okran as my witness, I won't let you beat me twice!"
-msgstr ""
+msgstr "以奧克蘭為我的見證人，我不會讓你打敗我兩次！"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.4
@@ -339,7 +339,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:4
 msgid "Defeating a holy inquisitor? Your heresy will be punished!"
-msgstr ""
+msgstr "擊敗一位神聖的審判者？你的異端會受到懲罰！"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.5
@@ -349,7 +349,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:5
 msgid "One who harms a holy inquisitor will not escape Okran's retribution."
-msgstr ""
+msgstr "傷害神聖審判者的人不會逃避奧克蘭的報應。"
 
 #. Id: 41158-Dialogue.mod
 #. -- Index: 0.6
@@ -359,7 +359,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41158-Dialogue.mod:6
 msgid "To harm a holy apostle of Okran.. it is one of the greatest sins. But you won't beat me this time!"
-msgstr ""
+msgstr "要傷害奧克蘭的聖使......這是最大的罪惡之一。但是這次你不會打敗我！"
 
 #. Id: 41160-Dialogue.mod
 #. -- Index: 1.3
@@ -368,7 +368,7 @@ msgstr ""
 #. -- Group title: Inquisitor sees enemy (enemy mild)
 #: 41160-Dialogue.mod:3
 msgid "Heretics be purged!"
-msgstr ""
+msgstr "異教徒被清除！"
 
 #. Id: 41374-Dialogue.mod
 #. -- Index: 1.0
@@ -385,7 +385,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41374-Dialogue.mod:0 43332-Dialogue.mod:2
 msgid "Agents of darkness be purged!"
-msgstr ""
+msgstr "黑暗的代理人被清除！"
 
 #. Id: 41374-Dialogue.mod
 #. -- Index: 1.1
@@ -434,7 +434,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 41374-Dialogue.mod:4 40791-Dialogue.mod:1
 msgid "The agents of darkness must be destroyed!"
-msgstr ""
+msgstr "必須摧毀黑暗的代理人！"
 
 #. Id: 41376-Dialogue.mod
 #. -- Index: 1.0
@@ -454,7 +454,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:0
 msgid "For the murder of an Okranite apostle!"
-msgstr ""
+msgstr "謀殺一個奧克拉特使徒！"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.1
@@ -464,7 +464,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:1
 msgid "To slaughter an apostle of Okran, it is the ultimate sin."
-msgstr ""
+msgstr "為了屠殺奧克蘭的使徒，這是最終的罪。"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.2
@@ -474,7 +474,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:2
 msgid "One of Okran's apostles, slaughtered in cold blood! The ultimate heresy!"
-msgstr ""
+msgstr "奧克蘭的一位使徒，被冷血屠殺！最終的異端邪說！"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.3
@@ -484,7 +484,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:3
 msgid "For the slaughter of a holy Okranite, you will be judged and purged!"
-msgstr ""
+msgstr "為了屠殺一個神聖的奧克蘭人，你將受到審判和清除！"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.4
@@ -494,7 +494,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:4
 msgid "Murderer! You will be judged and purged of your sins, heretic!"
-msgstr ""
+msgstr "兇手！你將被審判並清除你的罪惡，異教徒！"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.5
@@ -504,7 +504,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:5
 msgid "With god as my witness, I will not let you kill another Okranite, butcher!"
-msgstr ""
+msgstr "以上帝為我的見證，我不會讓你殺死另一個Okranite，屠夫！"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.6
@@ -514,7 +514,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:6
 msgid "For the murder of his children, Okran will have his retribution"
-msgstr ""
+msgstr "對於謀殺他的孩子，奧克蘭將得到他的報應"
 
 #. Id: 41371-Dialogue.mod
 #. -- Index: 0.7
@@ -524,7 +524,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41371-Dialogue.mod:7
 msgid "For the slaugher of Okran's children, god's retribution will be served"
-msgstr ""
+msgstr "對於奧克蘭的孩子們來說，上帝的報應將會得到滿足"
 
 #. Id: 41580-Dialogue.mod
 #. -- Index: 0.0
@@ -534,7 +534,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 41580-Dialogue.mod:0
 msgid "You again?! No, you won't slip past me!"
-msgstr ""
+msgstr "又是你？！不，你不會溜過我的！"
 
 #. Id: 41580-Dialogue.mod
 #. -- Index: 0.1
@@ -544,7 +544,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 41580-Dialogue.mod:1
 msgid "You, back again?! You won't slip by me this time!"
-msgstr ""
+msgstr "你，又回來了？！這次你不會跟我說話！"
 
 #. Id: 41580-Dialogue.mod
 #. -- Index: 0.2
@@ -554,7 +554,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 41580-Dialogue.mod:2
 msgid "You again?! You won't get away from me!"
-msgstr ""
+msgstr "又是你？！你不會離我而去！"
 
 #. Id: 61822-Dialogue.mod
 #. -- Index: 0.2
@@ -565,4 +565,3 @@ msgstr ""
 #: 61822-Dialogue.mod:2
 msgid "Vile abomination /YOURNAME/!"
 msgstr ""
-

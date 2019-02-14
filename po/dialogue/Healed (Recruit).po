@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 8951-Dialogue.mod:0
 msgid "It's rare to meet good folks like you. Where are you headed? Mind if I tag along? I've been having some seriously bad luck these past few days, could use a change of scenery..."
-msgstr ""
+msgstr "很難見到像你這樣的好人。你要去哪兒？介意我是否標記？這幾天我一直運氣不好，可以改變風景......"
 
 #. Id: 8951-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 8951-Dialogue.mod:1
 msgid "It's rare to find good people like you around here. Where are you off to? Mind if I follow? I could use some allies out here, I've had way too many close calls these past few weeks"
-msgstr ""
+msgstr "在這裡找到像你這樣的優秀人才是很少見的。你要去哪裡？介意我跟著？我可以在這裡使用一些盟友，過去幾週我接到太多的近距離通話"
 
 #. Id: 8952-Dialogue.mod
 #. -- Index: 1.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8952-Dialogue.mod:0
 msgid "Of course, come along!"
-msgstr ""
+msgstr "當然，過來！"
 
 #. Id: 8954-Dialogue.mod
 #. -- Index: 2.2
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8954-Dialogue.mod:2
 msgid "Let's head off then"
-msgstr ""
+msgstr "那我們先走吧"
 
 #. Id: 8954-Dialogue.mod
 #. -- Index: 2.3
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8954-Dialogue.mod:3 8967-Dialogue.mod:0
 msgid "Great!"
-msgstr ""
+msgstr "大！"
 
 #. Id: 8956-Dialogue.mod
 #. -- Index: 0.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 8956-Dialogue.mod:0
 msgid "I owe you, thank you"
-msgstr ""
+msgstr "我欠你的，謝謝"
 
 #. Id: 8956-Dialogue.mod
 #. -- Index: 0.1
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: Escaping Cannibals (Recruit)
 #: 8956-Dialogue.mod:1 9015-Dialogue.mod:0
 msgid "Thank you, I owe you big time"
-msgstr ""
+msgstr "謝謝，我欠你很大的時間"
 
 #. Id: 8957-Dialogue.mod
 #. -- Index: 1.0
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: _
 #: 8960-Dialogue.mod:0
 msgid "I'd like that actually, but it depends. Where are you headed?"
-msgstr ""
+msgstr "我實際上喜歡它，但這取決於。你要去哪兒？"
 
 #. Id: 8962-Dialogue.mod
 #. -- Index: 3.0
@@ -142,7 +142,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8965-Dialogue.mod:0 8972-Dialogue.mod:0
 msgid "Sounds tempting. Yeah, I like the sound of that. I'll join you"
-msgstr ""
+msgstr "聽起來很誘人。是的，我喜歡那種聲音。我會加入你的"
 
 #. Id: 8965-Dialogue.mod
 #. -- Index: 4.1
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8965-Dialogue.mod:1 8972-Dialogue.mod:1
 msgid "I'm more a wanderer type myself... But I'm curious. Perhaps I'll follow you a while"
-msgstr ""
+msgstr "我自己更像是一個流浪者......但我很好奇。也許我會跟著你一會兒"
 
 #. Id: 8966-Dialogue.mod
 #. -- Index: 4.0
@@ -172,7 +172,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 8966-Dialogue.mod:0 8970-Dialogue.mod:0
 msgid "I'm sorry. I'm a drifter, an explorer, born and bred. I don't think that would work for me, but good luck"
-msgstr ""
+msgstr "對不起。我是一個漂泊者，一個探險家，出生和繁殖。我不認為這對我有用，但祝你好運"
 
 #. Id: 8963-Dialogue.mod
 #. -- Index: 3.0
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8976-Dialogue.mod:0
 msgid "Excellent. I live to explore. Count me in"
-msgstr ""
+msgstr "優秀。我活著去探索。算我一個"
 
 #. Id: 8976-Dialogue.mod
 #. -- Index: 4.1
@@ -199,7 +199,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8976-Dialogue.mod:1
 msgid "Perfect. I was born to explore! Yeah, I'll join you"
-msgstr ""
+msgstr "完善。我天生就是為了探索！是的，我會加入你的"
 
 #. Id: 8964-Dialogue.mod
 #. -- Index: 3.0
@@ -227,7 +227,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 8970-Dialogue.mod:1
 msgid "That sounds a little too... bloody for me. I think I'll sit this one out, sorry "
-msgstr ""
+msgstr "這聽起來有點......對我來說很血腥。我想我會把這個放在一邊，抱歉"
 
 #. Id: 8973-Dialogue.mod
 #. -- Index: 4.0
@@ -237,7 +237,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 8973-Dialogue.mod:0
 msgid "Sounds a little twisted.... I like it."
-msgstr ""
+msgstr "聽起來有點扭曲......我喜歡它。"
 
 #. Id: 8973-Dialogue.mod
 #. -- Index: 4.1
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 8973-Dialogue.mod:1
 msgid "Sounds fun actually. Yeah, I like the sound of that. I'll join you."
-msgstr ""
+msgstr "聽起來很有趣。是的，我喜歡那種聲音。我會加入你的"
 
 #. Id: 8958-Dialogue.mod
 #. -- Index: 1.0
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8958-Dialogue.mod:0
 msgid "Perhaps you can repay me for the medkit I used on you?"
-msgstr ""
+msgstr "也許你可以報答我用於你的medkit嗎？"
 
 #. Id: 8986-Dialogue.mod
 #. -- Index: 2.0
@@ -265,7 +265,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8986-Dialogue.mod:0
 msgid "Here (50 Cats)"
-msgstr ""
+msgstr "這裡（50隻貓）"
 
 #. Id: 8989-Dialogue.mod
 #. -- Index: 3.0
@@ -274,7 +274,7 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8989-Dialogue.mod:0
 msgid "Really? That's all you can spare?"
-msgstr ""
+msgstr "真？這就是你可以用的所有東西嗎？"
 
 #. Id: 8959-Dialogue.mod
 #. -- Index: 1.0
@@ -283,5 +283,4 @@ msgstr ""
 #. -- Group title: Healed (Recruit)
 #: 8959-Dialogue.mod:0
 msgid "Don't worry about it"
-msgstr ""
-
+msgstr "別擔心"

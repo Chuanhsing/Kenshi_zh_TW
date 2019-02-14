@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41259-Dialogue.mod:0
 msgid "My family taught me everything, lessons those bastards could never take away. But they left me alive, and that was their mistake. You fight bandits, yeah? Kill 'em dead? They tried to ruin me with fear, but I'll show them what fear really is."
-msgstr ""
+msgstr "我的家人教會了我一切，那些混蛋永遠無法帶走的教訓。但是他們讓我活著，這就是他們的錯誤。你打匪，是嗎？殺死他們？他們試圖用恐懼來毀了我，但我會告訴他們真正的恐懼。"
 
 #. Id: 41260-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41260-Dialogue.mod:0
 msgid "So you want to be a killer? Your family, do you think they'd want that life for you?"
-msgstr ""
+msgstr "所以你想成為殺手？你的家人，你認為他們想要你的生活嗎？"
 
 #. Id: 41261-Dialogue.mod
 #. -- Index: 2.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41261-Dialogue.mod:0
 msgid "They told me never to back down. My dad fought them to his last, my mother never looked away when they put her to the blade. I won't run, not anymore. I'll break every one of them. It's the right thing to do."
-msgstr ""
+msgstr "他們告訴我永遠不要退縮。我父親把他們打到最後，我母親把她放到刀刃上時從未移開視線。我不會跑，不再了。我會打破他們每一個人。這是正確的做法。"
 
 #. Id: 41263-Dialogue.mod
 #. -- Index: 3.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41263-Dialogue.mod:0
 msgid "Maybe, but talking with you is the wrong thing to do. Bye."
-msgstr ""
+msgstr "也許，但與你交談是不對的。再見。"
 
 #. Id: 41264-Dialogue.mod
 #. -- Index: 3.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41264-Dialogue.mod:0
 msgid "Revenge is an ugly thing. Move on, friend"
-msgstr ""
+msgstr "復仇是一件醜陋的事。繼續，朋友"
 
 #. Id: 41265-Dialogue.mod
 #. -- Index: 4.0
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41265-Dialogue.mod:0
 msgid "Revenge isn't much different to justice. Is justice an ugly thing?"
-msgstr ""
+msgstr "復仇與正義並無太大差別。正義是一件醜陋的事嗎？"
 
 #. Id: 41266-Dialogue.mod
 #. -- Index: 5.0
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41266-Dialogue.mod:0
 msgid "Forget it, someone like you will never understand."
-msgstr ""
+msgstr "算了吧，像你這樣的人永遠不懂。"
 
 #. Id: 41262-Dialogue.mod
 #. -- Index: 1.0
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41267-Dialogue.mod:0
 msgid "Yeah, I'm ready. Ready and eager. It's only...I need some cash to pay for my bed at the Flophouse. 3000 will clear the bill, then I can ship out."
-msgstr ""
+msgstr "是的，我已經準備好了。準備好並渴望。這只是......我需要一些現金支付我在Flophouse的床位。 3000將清除賬單，然後我可以發貨。"
 
 #. Id: 41268-Dialogue.mod
 #. -- Index: 3.0
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 41268-Dialogue.mod:0
 msgid "Done. Just don't lose your humanity in all that bloodlust."
-msgstr ""
+msgstr "完成。只是不要在所有嗜血中失去你的人性。"
 
 #. Id: 41269-Dialogue.mod
 #. -- Index: 3.0
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41269-Dialogue.mod:0
 msgid "On second thought, I don't think you're right for us."
-msgstr ""
+msgstr "再想一想，我認為你不適合我們。"
 
 #. Id: 41274-Dialogue.mod
 #. -- Index: 3.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 41274-Dialogue.mod:0
 msgid "Done. Now let's kill us some bandits."
-msgstr ""
+msgstr "完成。現在讓我們殺死一些土匪。"
 
 #. Id: 41270-Dialogue.mod
 #. -- Index: 3.0
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 41270-Dialogue.mod:0
 msgid "I really can't spare the money. Another time."
-msgstr ""
+msgstr "我真的不能省錢。下一次。"
 
 #. Id: 41271-Dialogue.mod
 #. -- Index: 1.0
@@ -138,5 +138,4 @@ msgstr ""
 #. -- Group title: Sword for hire revenge
 #: 41271-Dialogue.mod:0
 msgid "Uh, alright. Bye."
-msgstr ""
-
+msgstr "呃，好吧。再見。"

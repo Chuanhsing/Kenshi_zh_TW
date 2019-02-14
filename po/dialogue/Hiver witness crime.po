@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 20048-Dialogue.mod:1
 msgid "What's going on?!"
-msgstr ""
+msgstr "這是怎麼回事？！"
 
 #. Id: 20048-Dialogue.mod
 #. -- Index: 0.3
@@ -35,7 +35,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 20048-Dialogue.mod:3 13858-Escapes.mod:3
 msgid "Stop this!"
-msgstr ""
+msgstr "停止這個！"
 
 #. Id: 20048-Dialogue.mod
 #. -- Index: 0.4
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 20048-Dialogue.mod:4 15897-Dialogue.mod:5
 msgid "What's going on here?!"
-msgstr ""
+msgstr "這裡發生了什麼？！"
 
 #. Id: 20049-Dialogue.mod
 #. -- Index: 0.0
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 20049-Dialogue.mod:0 14077-Dialogue?(12).mod:2
 msgid "Wh- what are you doing?"
-msgstr ""
+msgstr "你做什麼的？"
 
 #. Id: 20049-Dialogue.mod
 #. -- Index: 0.1
@@ -80,7 +80,7 @@ msgstr ""
 #. -- Group title: Hiver witness crime
 #: 20049-Dialogue.mod:1
 msgid "Wh- what's going on?"
-msgstr ""
+msgstr "什麼發生了什麼？"
 
 #. Id: 20049-Dialogue.mod
 #. -- Index: 0.2
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Group title: Hiver witness crime
 #: 20049-Dialogue.mod:2
 msgid "Wh- what's happening?"
-msgstr ""
+msgstr "什麼發生了什麼？"
 
 #. Id: 20049-Dialogue.mod
 #. -- Index: 0.3
@@ -98,5 +98,4 @@ msgstr ""
 #. -- Group title: Hiver witness crime
 #: 20049-Dialogue.mod:3
 msgid "Wh- what is this?"
-msgstr ""
-
+msgstr "什麼是這個？"

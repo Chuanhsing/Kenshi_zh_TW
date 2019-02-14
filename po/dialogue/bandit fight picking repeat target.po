@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 3829-gamedata.base:0
 msgid "You again!"
-msgstr ""
+msgstr "又是你！"
 
 #. Id: 3829-gamedata.base
 #. -- Index: 0.1
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3839-gamedata.base:2
 msgid "Look who it is!"
-msgstr ""
+msgstr "看看它是誰！"
 
 #. Id: 3846-gamedata.base
 #. -- Index: 2.0
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3846-gamedata.base:0
 msgid "What are we going to do with you, chumbo?"
-msgstr ""
+msgstr "我們要和你做什麼，chumbo？"
 
 #. Id: 3891-gamedata.base
 #. -- Index: 3.0
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3891-gamedata.base:1
 msgid "I think you have too much blood inside you!"
-msgstr ""
+msgstr "我覺得你裡面有太多的血！"
 
 #. Id: 3899-gamedata.base
 #. -- Index: 4.1
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3901-gamedata.base:0 3903-gamedata.base:0
 msgid "What you gonna do?"
-msgstr ""
+msgstr "你要做什麼？"
 
 #. Id: 3901-gamedata.base
 #. -- Index: 5.1
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3901-gamedata.base:1
 msgid "What you gonna do about it?"
-msgstr ""
+msgstr "你要做什麼呢？"
 
 #. Id: 3901-gamedata.base
 #. -- Index: 5.2
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3901-gamedata.base:2
 msgid "You gonna fight us?"
-msgstr ""
+msgstr "你會打我們的？"
 
 #. Id: 3902-gamedata.base
 #. -- Index: 6.0
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3902-gamedata.base:0
 msgid "Shit didn't go so well for you last time, did it?"
-msgstr ""
+msgstr "你最後一次對你不太好，是嗎？"
 
 #. Id: 3902-gamedata.base
 #. -- Index: 6.1
@@ -177,7 +177,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3902-gamedata.base:1
 msgid "Things went badly for you last time, eh?"
-msgstr ""
+msgstr "上次事情很糟糕，是嗎？"
 
 #. Id: 3905-gamedata.base
 #. -- Index: 3.0
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 3905-gamedata.base:0
 msgid "We're gonna get you later!"
-msgstr ""
+msgstr "我們以後會幫你的！"
 
 #. Id: 3905-gamedata.base
 #. -- Index: 3.1
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Group title: Shek attack
 #: 3905-gamedata.base:1 15503-Dialogue.mod:1
 msgid "Watch yourself!"
-msgstr ""
+msgstr "看看自己！"
 
 #. Id: 3883-gamedata.base
 #. -- Index: 3.0
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3883-gamedata.base:1
 msgid "Lets get 'em!"
-msgstr ""
+msgstr "讓我們來吧！"
 
 #. Id: 3884-gamedata.base
 #. -- Index: 4.0
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 3832-gamedata.base:2
 msgid "Back for more?"
-msgstr ""
+msgstr "回來更多？"
 
 #. Id: 3832-gamedata.base
 #. -- Index: 0.3
@@ -334,7 +334,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3918-gamedata.base:1
 msgid "Ah! What do we do?"
-msgstr ""
+msgstr "啊!我們做什麼？"
 
 #. Id: 3920-gamedata.base
 #. -- Index: 3.0
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3920-gamedata.base:0
 msgid "Sshh! Sshh!"
-msgstr ""
+msgstr "Sshh！ Sshh！"
 
 #. Id: 3921-gamedata.base
 #. -- Index: 4.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3921-gamedata.base:0
 msgid "Just act natural."
-msgstr ""
+msgstr "行動自然。"
 
 #. Id: 3921-gamedata.base
 #. -- Index: 4.1
@@ -361,7 +361,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3921-gamedata.base:1
 msgid "Don't draw attention."
-msgstr ""
+msgstr "不要引起注意。"
 
 #. Id: 3921-gamedata.base
 #. -- Index: 4.2
@@ -370,7 +370,7 @@ msgstr ""
 #. -- Group title: bandit fight picking repeat target
 #: 3921-gamedata.base:2
 msgid "Be quiet! Act normal!"
-msgstr ""
+msgstr "安靜！表現正常！"
 
 #. Id: 3892-gamedata.base
 #. -- Index: 0.0
@@ -381,4 +381,3 @@ msgstr ""
 #: 3892-gamedata.base:0
 msgid "You again! /ATTACK/!"
 msgstr ""
-

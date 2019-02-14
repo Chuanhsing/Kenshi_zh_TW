@@ -24,7 +24,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:0
 msgid "H-hey! It's you! I'll never forget that face! "
-msgstr ""
+msgstr "H-哎！是你！我永遠不會忘記那張臉！"
 
 #. Id: 6863-Dialogue.mod
 #. -- Index: 0.1
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:1 6866-Dialogue.mod:1
 msgid "W-wait a sec! I know you!"
-msgstr ""
+msgstr "等一下！我認識你！"
 
 #. Id: 6863-Dialogue.mod
 #. -- Index: 0.2
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:2 6866-Dialogue.mod:2
 msgid "Hey! Hey, hello! How are you doing?"
-msgstr ""
+msgstr "嘿!嘿，你好！你好嗎？"
 
 #. Id: 6863-Dialogue.mod
 #. -- Index: 0.3
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:3 6866-Dialogue.mod:3
 msgid "It's you! Hi!"
-msgstr ""
+msgstr "是你！嗨！"
 
 #. Id: 6863-Dialogue.mod
 #. -- Index: 0.4
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:4 6866-Dialogue.mod:4
 msgid "Hi again, how are you?"
-msgstr ""
+msgstr "嗨，你好嗎？"
 
 #. Id: 6863-Dialogue.mod
 #. -- Index: 0.5
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6863-Dialogue.mod:5 6866-Dialogue.mod:5
 msgid "You!? I remember you!"
-msgstr ""
+msgstr "您！？我記得你！"
 
 #. Id: 6864-Dialogue.mod
 #. -- Index: 1.0
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6864-Dialogue.mod:0
 msgid "Remember me? You saved my life"
-msgstr ""
+msgstr "記住賬號？你救了我的命"
 
 #. Id: 6864-Dialogue.mod
 #. -- Index: 1.1
@@ -162,7 +162,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6864-Dialogue.mod:1
 msgid "I don't know if you remember me but... you saved my life"
-msgstr ""
+msgstr "我不知道你是否記得我，但是......你救了我的命"
 
 #. Id: 6864-Dialogue.mod
 #. -- Index: 1.2
@@ -171,7 +171,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6864-Dialogue.mod:2
 msgid "Do you remember me? You saved me!"
-msgstr ""
+msgstr "你還記得我嗎？你救了我！"
 
 #. Id: 6864-Dialogue.mod
 #. -- Index: 1.3
@@ -180,7 +180,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6864-Dialogue.mod:3
 msgid "Recognize me? You saved my life..."
-msgstr ""
+msgstr "認出我？你救了我的命..."
 
 #. Id: 6865-Dialogue.mod
 #. -- Index: 2.0
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
 #: 6865-Dialogue.mod:0
 msgid "Look, if you ever need anything, ANYTHING, I'm right here!"
-msgstr ""
+msgstr "看，如果你需要什麼，有什麼，我就在這裡！"
 
 #. Id: 6865-Dialogue.mod
 #. -- Index: 2.1
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
 #: 6865-Dialogue.mod:1
 msgid "Just give me a shout if you ever need anything. I owe you"
-msgstr ""
+msgstr "如果你需要任何東西，請給我一個喊叫。我欠你"
 
 #. Id: 6865-Dialogue.mod
 #. -- Index: 2.2
@@ -210,7 +210,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
 #: 6865-Dialogue.mod:2
 msgid "I'm right here if you ever need anything. Just say the word"
-msgstr ""
+msgstr "如果你需要什麼，我就在這裡。只說出這個詞"
 
 #. Id: 6865-Dialogue.mod
 #. -- Index: 2.3
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=0
 #: 6865-Dialogue.mod:3
 msgid "If you ever need ANYTHING, just ask. I got your back"
-msgstr ""
+msgstr "如果您需要任何東西，請詢問。我掩護你"
 
 #. Id: 6881-Dialogue.mod
 #. -- Index: 2.0
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 6881-Dialogue.mod:0
 msgid "I just want to say thank you..."
-msgstr ""
+msgstr "我只是想說謝謝......"
 
 #. Id: 6881-Dialogue.mod
 #. -- Index: 2.1
@@ -251,7 +251,7 @@ msgstr "你會沒事的"
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 6881-Dialogue.mod:2
 msgid "Well, I just want to say.. thanks"
-msgstr ""
+msgstr "好吧，我只是想說..謝謝"
 
 #. Id: 6881-Dialogue.mod
 #. -- Index: 2.3
@@ -261,7 +261,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 6881-Dialogue.mod:3
 msgid "You're my saviour"
-msgstr ""
+msgstr "你是我的救世主"
 
 #. Id: 6881-Dialogue.mod
 #. -- Index: 2.4
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 6881-Dialogue.mod:4
 msgid "Thank you, thank you..."
-msgstr ""
+msgstr "謝謝謝謝..."
 
 #. Id: 6883-Dialogue.mod
 #. -- Index: 2.0
@@ -281,7 +281,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
 #: 6883-Dialogue.mod:0
 msgid "If it wasn't for you, I'd be dead right now"
-msgstr ""
+msgstr "如果它不適合你，我現在就死了"
 
 #. Id: 6883-Dialogue.mod
 #. -- Index: 2.1
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
 #: 6883-Dialogue.mod:1
 msgid "I hate to think where I'd be right now if it wasn't for you"
-msgstr ""
+msgstr "如果不適合你，我討厭想想我現在在哪裡"
 
 #. Id: 6883-Dialogue.mod
 #. -- Index: 2.2
@@ -301,7 +301,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
 #: 6883-Dialogue.mod:2
 msgid "If you hadn't come along when you did..."
-msgstr ""
+msgstr "如果你做的時候還沒來過......"
 
 #. Id: 6883-Dialogue.mod
 #. -- Index: 2.3
@@ -311,7 +311,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: _
 #: 6883-Dialogue.mod:3
 msgid "I'd be dead right now if you hadn't helped me"
-msgstr ""
+msgstr "如果你沒有幫助我，我現在就死了"
 
 #. Id: 7111-Dialogue.mod
 #. -- Index: 2.0
@@ -321,7 +321,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: WARM_KIND
 #: 7111-Dialogue.mod:0
 msgid "You know, I made some good trades after you rescued me"
-msgstr ""
+msgstr "你知道，在你救了我之後，我做了一些很好的交易"
 
 #. Id: 7114-Dialogue.mod
 #. -- Index: 3.0
@@ -330,7 +330,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 7114-Dialogue.mod:0
 msgid "Here, have a cut. You deserve it"
-msgstr ""
+msgstr "在這裡，有一個削減。你應得的"
 
 #. Id: 7114-Dialogue.mod
 #. -- Index: 3.1
@@ -339,7 +339,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 7114-Dialogue.mod:1
 msgid "Here, have a share. I owe it to you"
-msgstr ""
+msgstr "在這裡，分享一下。我欠你的"
 
 #. Id: 6866-Dialogue.mod
 #. -- Index: 0.0
@@ -353,7 +353,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 6866-Dialogue.mod:0
 msgid "H-hey! It's you! I'll never forget that face!"
-msgstr ""
+msgstr "H-哎！是你！我永遠不會忘記那張臉！"
 
 #. Id: 6867-Dialogue.mod
 #. -- Index: 1.0
@@ -362,7 +362,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6867-Dialogue.mod:0
 msgid "You're the one that freed me! Remember me?"
-msgstr ""
+msgstr "你就是那個解救我的人！記住賬號？"
 
 #. Id: 6867-Dialogue.mod
 #. -- Index: 1.1
@@ -371,7 +371,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6867-Dialogue.mod:1
 msgid "I don't know if you remember me but... you freed me from that cage"
-msgstr ""
+msgstr "我不知道你是否記得我，但是......你把我從那個籠子裡解救出來"
 
 #. Id: 6867-Dialogue.mod
 #. -- Index: 1.2
@@ -380,7 +380,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6867-Dialogue.mod:2
 msgid "Do you remember me? You set me free!"
-msgstr ""
+msgstr "你還記得我嗎？你讓我自由了！"
 
 #. Id: 6867-Dialogue.mod
 #. -- Index: 1.3
@@ -389,7 +389,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6867-Dialogue.mod:3
 msgid "Recognize me? You helped me escape!"
-msgstr ""
+msgstr "認出我？你幫助我逃脫了！"
 
 #. Id: 6868-Dialogue.mod
 #. -- Index: 0.0
@@ -402,7 +402,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
 #: 6868-Dialogue.mod:0
 msgid "He-hey, it's you! You okay? Let me help!"
-msgstr ""
+msgstr "嘿，是你！你還好嗎？讓我來幫忙！"
 
 #. Id: 6868-Dialogue.mod
 #. -- Index: 0.1
@@ -415,7 +415,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
 #: 6868-Dialogue.mod:1
 msgid "You! I'll help you!"
-msgstr ""
+msgstr "您！我會幫你！"
 
 #. Id: 6868-Dialogue.mod
 #. -- Index: 0.2
@@ -428,7 +428,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_LIFESAVER
 #: 6868-Dialogue.mod:2
 msgid "You? Hang in there, I'll help!"
-msgstr ""
+msgstr "您？在那裡，我會幫忙！"
 
 #. Id: 6868-Dialogue.mod
 #. -- Index: 0.3
@@ -450,7 +450,7 @@ msgstr ""
 #. -- Group title: You saved my life!
 #: 6873-Dialogue.mod:0
 msgid "You saved my ass once. Time for me to save your's"
-msgstr ""
+msgstr "你救了我的屁股一次。是時候保存你了"
 
 #. Id: 6873-Dialogue.mod
 #. -- Index: 1.1
@@ -469,7 +469,7 @@ msgstr "你以前救過我. 我不能讓你死, 我欠你的"
 #. -- Group title: You saved my life!
 #: 6873-Dialogue.mod:2
 msgid "I'd be dead anyway if it wasn't for you"
-msgstr ""
+msgstr "如果它不適合你，我會死的"
 
 #~ msgid "You'll make it"
 #~ msgstr "你做到了"

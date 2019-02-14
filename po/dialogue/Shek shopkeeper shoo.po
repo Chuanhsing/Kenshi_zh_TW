@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 45956-Dialogue.mod:0
 msgid "Shop's closed."
-msgstr ""
+msgstr "商店關門了。"
 
 #. Id: 45956-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 45956-Dialogue.mod:1
 msgid "Shop's shutting."
-msgstr ""
+msgstr "商店正在關閉。"
 
 #. Id: 45956-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 45956-Dialogue.mod:2
 msgid "Shop's closing up."
-msgstr ""
+msgstr "商店關門了。"
 
 #. Id: 45956-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 45956-Dialogue.mod:3
 msgid "Closing time."
-msgstr ""
+msgstr "關閉時間。"
 
 #. Id: 45957-Dialogue.mod
 #. -- Index: 1.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 45957-Dialogue.mod:0
 msgid "Take exit."
-msgstr ""
+msgstr "走出去。"
 
 #. Id: 45957-Dialogue.mod
 #. -- Index: 1.1
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 45957-Dialogue.mod:1 58931-Dialogue.mod:0 17590-Dialogue.mod:4
 msgid "Out."
-msgstr ""
+msgstr "出。"
 
 #. Id: 45957-Dialogue.mod
 #. -- Index: 1.2
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 45957-Dialogue.mod:2
 msgid "Remove yourself."
-msgstr ""
+msgstr "刪除自己。"
 
 #. Id: 45957-Dialogue.mod
 #. -- Index: 1.4
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 45957-Dialogue.mod:4
 msgid "Move."
-msgstr ""
+msgstr "移動。"
 
 #. Id: 51562-Dialogue.mod
 #. -- Index: 2.2
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 51562-Dialogue.mod:2 51595-Dialogue.mod:0 19405-Dialogue.mod:0 43745-Dialogue.mod:0 17622-Dialogue.mod:4 61282-Dialogue.mod:0 51526-Dialogue.mod:0
 msgid "Mmh?"
-msgstr ""
+msgstr "Mmh的？"
 
 #. Id: 51563-Dialogue.mod
 #. -- Index: 3.0
@@ -199,7 +199,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51561-Dialogue.mod:0
 msgid "Ignorance! The whelp is surely looking for a fight!"
-msgstr ""
+msgstr "無知！小孩肯定在尋找一場戰鬥！"
 
 #. Id: 51561-Dialogue.mod
 #. -- Index: 5.1
@@ -229,7 +229,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51567-Dialogue.mod:0
 msgid "Patience, kin. Remember the Stone Golem's orders. Go easy on the foreigners."
-msgstr ""
+msgstr "忍耐，親。記住Stone Golem的命令。對外國人輕鬆一點。"
 
 #. Id: 51567-Dialogue.mod
 #. -- Index: 6.1
@@ -249,7 +249,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51567-Dialogue.mod:2
 msgid "Toleration. Remember the Stone Golem's words, kin, we cannot harm the outsiders."
-msgstr ""
+msgstr "容忍。記住Stone Golem的話，親，我們不能傷害外人。"
 
 #. Id: 51568-Dialogue.mod
 #. -- Index: 7.0
@@ -259,7 +259,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Greenlander or Hive Worker Drone or Scorchlander
 #: 51568-Dialogue.mod:0
 msgid "Their feeble bodies cannot withstand the power of a Shek Warrior. And we need their supplies."
-msgstr ""
+msgstr "他們虛弱的身體無法承受石戰士的力量。我們需要他們的用品。"
 
 #. Id: 51568-Dialogue.mod
 #. -- Index: 7.1
@@ -269,7 +269,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Greenlander or Hive Worker Drone or Scorchlander
 #: 51568-Dialogue.mod:1
 msgid "Their fragile bones cannot take it. And if we want their supplies, we need them alive."
-msgstr ""
+msgstr "他們脆弱的骨頭無法接受它。如果我們想要他們的供應品，我們需要他們活著。"
 
 #. Id: 51570-Dialogue.mod
 #. -- Index: 8.0
@@ -279,7 +279,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51570-Dialogue.mod:0
 msgid "Hmph. The Stone Golem will have us be a laughing stock."
-msgstr ""
+msgstr "哼。 Stone Golem讓我們成為笑柄。"
 
 #. Id: 51570-Dialogue.mod
 #. -- Index: 8.1
@@ -289,7 +289,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51570-Dialogue.mod:1
 msgid "Hmph. The Stone Golem is soft, she'll make our nation a mockery of the lands."
-msgstr ""
+msgstr "哼。 Stone Golem很軟，她會讓我們的國家成為這片土地的嘲弄者。"
 
 #. Id: 51571-Dialogue.mod
 #. -- Index: 9.0
@@ -308,7 +308,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51572-Dialogue.mod:0
 msgid "Patience."
-msgstr ""
+msgstr "忍耐。"
 
 #. Id: 51569-Dialogue.mod
 #. -- Index: 7.0
@@ -318,7 +318,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51569-Dialogue.mod:0
 msgid "Slaughtering the foreign traders will brings us no new supplies."
-msgstr ""
+msgstr "屠殺外國商人將不會給我們帶來新的供應。"
 
 #. Id: 51569-Dialogue.mod
 #. -- Index: 7.1
@@ -328,7 +328,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51569-Dialogue.mod:1
 msgid "Crushing our foreign customers will surely be bad for business."
-msgstr ""
+msgstr "粉碎我們的外國客戶肯定會對企業造成不利影響。"
 
 #. Id: 51564-Dialogue.mod
 #. -- Index: 6.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Greenlander or Hive Worker Drone
 #: 51564-Dialogue.mod:1
 msgid "Calm. Crushing our foreign customers will surely be bad for business."
-msgstr ""
+msgstr "冷靜。粉碎我們的外國客戶肯定會對企業造成不利影響。"
 
 #. Id: 51574-Dialogue.mod
 #. -- Index: 7.0
@@ -381,7 +381,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51565-Dialogue.mod:1
 msgid "Hmph. Think you can ignore me because of my horns?"
-msgstr ""
+msgstr "哼。認為你可以因為我的角而無視我？"
 
 #. Id: 51566-Dialogue.mod
 #. -- Index: 5.0
@@ -390,7 +390,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 51566-Dialogue.mod:0
 msgid "I'll peel your flesh from your bones. Keep testing me."
-msgstr ""
+msgstr "我會把你的肉從你的骨頭上剝下來。繼續測試我。"
 
 #. Id: 51566-Dialogue.mod
 #. -- Index: 5.1
@@ -408,7 +408,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 51566-Dialogue.mod:2
 msgid "Horns or no horns, I'll rip your spine from neck. Try me."
-msgstr ""
+msgstr "角或沒有角，我會從脖子上撕下你的脊椎。試試我"
 
 #. Id: 51577-Dialogue.mod
 #. -- Index: 7.0
@@ -418,7 +418,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 51577-Dialogue.mod:0
 msgid "Mourn your lost horns all you want, kin. It still will not make you a Shek Warrior again."
-msgstr ""
+msgstr "親愛的，你想要丟失的角，親戚。它仍然不會讓你再次成為石戰士。"
 
 #. Id: 51578-Dialogue.mod
 #. -- Index: 8.0
@@ -427,7 +427,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 51578-Dialogue.mod:0
 msgid "Insult. I need no horns to take on a foreign weakling."
-msgstr ""
+msgstr "侮辱。我不需要任何角來承擔外國的弱勢。"
 
 #. Id: 51578-Dialogue.mod
 #. -- Index: 8.1
@@ -436,7 +436,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 51578-Dialogue.mod:1
 msgid "Mockery. I need no horns to crush a foreign whelp."
-msgstr ""
+msgstr "嘲弄。我不需要用角來粉碎外國小崽子。"
 
 #. Id: 51578-Dialogue.mod
 #. -- Index: 8.2
@@ -445,7 +445,7 @@ msgstr ""
 #. -- Group title: Shek shopkeeper shoo
 #: 51578-Dialogue.mod:2
 msgid "Slander. I need no horns to destroy a feeble outsider."
-msgstr ""
+msgstr "誹謗。我不需要任何角來摧毀一個虛弱的局外人。"
 
 #. Id: 51579-Dialogue.mod
 #. -- Index: 9.0
@@ -480,5 +480,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 51580-Dialogue.mod:0 51506-Dialogue.mod:0 47979-Dialogue.mod:0 44139-Dialogue.mod:1
 msgid "... Hmph."
-msgstr ""
-
+msgstr "...... Hmph。"

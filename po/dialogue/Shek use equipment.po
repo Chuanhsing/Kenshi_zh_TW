@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52978-Dialogue.mod:0
 msgid "It's for private use. Leave it."
-msgstr ""
+msgstr "它是供私人使用的。別管它。"
 
 #. Id: 52978-Dialogue.mod
 #. -- Index: 1.1
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52978-Dialogue.mod:1
 msgid "It's not for public use. Leave it."
-msgstr ""
+msgstr "它不適合公眾使用。別管它。"
 
 #. Id: 52974-Dialogue.mod
 #. -- Index: 2.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52974-Dialogue.mod:0
 msgid "Hmph. Ignoring me."
-msgstr ""
+msgstr "哼。不理我。"
 
 #. Id: 52974-Dialogue.mod
 #. -- Index: 2.1
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52974-Dialogue.mod:1
 msgid "Insult. Ignore my words and you'll regret it."
-msgstr ""
+msgstr "侮辱。忽略我的話，你會後悔的。"
 
 #. Id: 52975-Dialogue.mod
 #. -- Index: 3.0
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52975-Dialogue.mod:0
 msgid "Last chance. Leave it, or die."
-msgstr ""
+msgstr "最後的機會。離開，或死。"
 
 #. Id: 52977-Dialogue.mod
 #. -- Index: 4.0
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52977-Dialogue.mod:0
 msgid "Then it's decided. Raise your sword, intruder!"
-msgstr ""
+msgstr "然後就決定了。提高你的劍，入侵者！"
 
 #. Id: 52977-Dialogue.mod
 #. -- Index: 4.1
@@ -107,4 +107,3 @@ msgstr ""
 #: 52977-Dialogue.mod:1
 msgid "You offend me, /FLATSKIN/! Raise your sword and let's settle this."
 msgstr ""
-

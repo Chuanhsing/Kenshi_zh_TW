@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Hiver freaks out protecting queen shoo
 #: 96304-Dialogue.mod:1
 msgid "Aah?!"
-msgstr ""
+msgstr "啊哈？"
 
 #. Id: 96304-Dialogue.mod
 #. -- Index: 0.3
@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: Hive queen crowd trigger
 #: 96304-Dialogue.mod:3 96103-Dialogue.mod:0
 msgid "GAAAH!"
-msgstr ""
+msgstr "GAAAH！"
 
 #. Id: 96304-Dialogue.mod
 #. -- Index: 0.5
@@ -50,7 +50,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 96304-Dialogue.mod:5 96305-Dialogue.mod:8
 msgid "Ngaaah!"
-msgstr ""
+msgstr "Ngaaah！"
 
 #. Id: 96304-Dialogue.mod
 #. -- Index: 0.7
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 96305-Dialogue.mod:4
 msgid "Leave the queen!"
-msgstr ""
+msgstr "離開女王！"
 
 #. Id: 96305-Dialogue.mod
 #. -- Index: 1.5
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 96305-Dialogue.mod:5
 msgid "The queen!"
-msgstr ""
+msgstr "皇后！"
 
 #. Id: 96305-Dialogue.mod
 #. -- Index: 1.6
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 96305-Dialogue.mod:6
 msgid "Protect the queen!"
-msgstr ""
+msgstr "保護女王！"
 
 #. Id: 96306-Dialogue.mod
 #. -- Index: 2.0
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96306-Dialogue.mod:0
 msgid "Leave us!"
-msgstr ""
+msgstr "離開我們！"
 
 #. Id: 96306-Dialogue.mod
 #. -- Index: 2.1
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96306-Dialogue.mod:1
 msgid "What's happeninnnng?"
-msgstr ""
+msgstr "發生了什麼事？"
 
 #. Id: 96306-Dialogue.mod
 #. -- Index: 2.2
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96306-Dialogue.mod:2
 msgid "This can't be happening!"
-msgstr ""
+msgstr "這不可能發生！"
 
 #. Id: 96306-Dialogue.mod
 #. -- Index: 2.3
@@ -163,7 +163,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96306-Dialogue.mod:3
 msgid "We're sorry, queen!"
-msgstr ""
+msgstr "我們很抱歉，女王！"
 
 #. Id: 96306-Dialogue.mod
 #. -- Index: 2.4
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96306-Dialogue.mod:4
 msgid "Forgive us, queen!"
-msgstr ""
+msgstr "請原諒我們，女王！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.0
@@ -189,7 +189,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96310-Dialogue.mod:0
 msgid "So confused!"
-msgstr ""
+msgstr "如此迷茫！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.1
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96310-Dialogue.mod:1
 msgid "Why won't it leave?!"
-msgstr ""
+msgstr "為什麼不離開？！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.2
@@ -227,7 +227,7 @@ msgstr ""
 #. -- Group title: Hiver witness generic assault
 #: 96310-Dialogue.mod:2 47719-Dialogue.mod:4 19743-Dialogue.mod:4
 msgid "GAAAAH!"
-msgstr ""
+msgstr "GAAAAH！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.3
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Group title: Hiver witness generic assault
 #: 96310-Dialogue.mod:3 18144-Dialogue.mod:3 18147-Dialogue.mod:4 19743-Dialogue.mod:5
 msgid "NGAHHH!"
-msgstr ""
+msgstr "NGAHHH！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.4
@@ -270,7 +270,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96310-Dialogue.mod:4
 msgid "GAHAHAAAA!"
-msgstr ""
+msgstr "GAHAHAAAA！"
 
 #. Id: 96310-Dialogue.mod
 #. -- Index: 3.5
@@ -283,5 +283,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 96310-Dialogue.mod:5
 msgid "GO NOW!"
-msgstr ""
-
+msgstr "現在出發！"

@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19915-Dialogue.mod:0
 msgid "Hey, you there! I need employment. I can fix you up, but really I need someone to sponsor my research."
-msgstr ""
+msgstr "你在嗎！我需要就業。我可以解決你的問題，但我真的需要有人讚助我的研究。"
 
 #. Id: 19916-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19916-Dialogue.mod:0
 msgid "Sponsor? But you're just a kid!"
-msgstr ""
+msgstr "贊助？但你還是個孩子！"
 
 #. Id: 19920-Dialogue.mod
 #. -- Index: 2.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19920-Dialogue.mod:0
 msgid "And you're an adult, a stupid one at that. What could you know about deciphering generator core wiring, salt distilation, wound purifiers, even building designs? I figured that stuff out at ten, what did you do when you were ten? Don't answer that, just promise to keep me safe and you'll get all the benefits of my work. And my stellar interpersonal skills."
-msgstr ""
+msgstr "而你是一個成年人，那是一個愚蠢的人。您對解密發電機核心接線，鹽蒸餾，傷口淨化器，甚至建築設計有什麼了解？我認為十點鐘的東西，十點鐘你做了什麼？不要回答這個問題，只是保證讓我安全，你會得到我工作的所有好處。和我出色的人際交往能力。"
 
 #. Id: 19921-Dialogue.mod
 #. -- Index: 3.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19921-Dialogue.mod:0
 msgid "So you want to do research? I can appreciate a good brain. How about you come with us?"
-msgstr ""
+msgstr "所以你想做研究？我可以欣賞一個好大腦。你和我們一起來嗎？"
 
 #. Id: 19924-Dialogue.mod
 #. -- Index: 4.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19924-Dialogue.mod:0
 msgid "Need some funds first. Kinda broke some stuff in a shop here...2500 Cats covers it."
-msgstr ""
+msgstr "首先需要一些資金。 Kinda在這裡的一家商店打破了一些東西...... 2500隻貓蓋住它。"
 
 #. Id: 19926-Dialogue.mod
 #. -- Index: 5.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 19926-Dialogue.mod:0
 msgid "Here you go. Let's get to work."
-msgstr ""
+msgstr "幹得好。讓我們開始工作吧。"
 
 #. Id: 19927-Dialogue.mod
 #. -- Index: 5.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19927-Dialogue.mod:0
 msgid "Yeah, nice try. Beat it kid."
-msgstr ""
+msgstr "是的，很好的嘗試。打敗它的孩子。"
 
 #. Id: 19928-Dialogue.mod
 #. -- Index: 5.0
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
 #: 19928-Dialogue.mod:0
 msgid "Can't help you out kid. Sorry."
-msgstr ""
+msgstr "無法幫助你解決孩子問題。抱歉。"
 
 #. Id: 19917-Dialogue.mod
 #. -- Index: 3.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19917-Dialogue.mod:0
 msgid "Okay... and how much 'sponsorship' am I gonna have to pay you?"
-msgstr ""
+msgstr "好的...我需要付多少“贊助”？"
 
 #. Id: 19925-Dialogue.mod
 #. -- Index: 4.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19925-Dialogue.mod:0
 msgid "Well, see, I kinda broke some stuff in a shop here...2500 Cats covers it."
-msgstr ""
+msgstr "嗯，看，我在這裡的商店裡打破了一些東西...... 2500隻貓蓋了它。"
 
 #. Id: 19930-Dialogue.mod
 #. -- Index: 4.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19930-Dialogue.mod:0
 msgid "I fix black eyes and hemorages, not make them."
-msgstr ""
+msgstr "我修復黑眼睛和翻邊，而不是製作它們。"
 
 #. Id: 19936-Dialogue.mod
 #. -- Index: 5.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19936-Dialogue.mod:0
 msgid "Forget it, I'm not interested, kid"
-msgstr ""
+msgstr "算了，我不感興趣，孩子"
 
 #. Id: 19919-Dialogue.mod
 #. -- Index: 3.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19919-Dialogue.mod:0
 msgid "Na, I don't deal with kids."
-msgstr ""
+msgstr "娜，我不和孩子打交道。"
 
 #. Id: 19922-Dialogue.mod
 #. -- Index: 1.0
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Group title: Junior doctor
 #: 19922-Dialogue.mod:0
 msgid "Get lost, kid."
-msgstr ""
+msgstr "迷路了，孩子。"
 
 #. Id: 19937-Dialogue.mod
 #. -- Index: 0.0
@@ -147,5 +147,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
 #: 19937-Dialogue.mod:0
 msgid "I knew you'd be back... So, needed my genius after all, huh?"
-msgstr ""
-
+msgstr "我知道你會回來......所以，畢竟需要我的天才，是吧？"

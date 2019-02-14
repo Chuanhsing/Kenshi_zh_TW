@@ -26,7 +26,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 13897-Escapes.mod:0 13908-Escapes.mod:6
 msgid "Slave!"
-msgstr ""
+msgstr "奴隸！"
 
 #. Id: 13897-Escapes.mod
 #. -- Index: 0.1
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 13897-Escapes.mod:1
 msgid "A runaway!"
-msgstr ""
+msgstr "失控！"
 
 #. Id: 13898-Escapes.mod
 #. -- Index: 1.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 13899-Escapes.mod:0
 msgid "Guards, guards!"
-msgstr ""
+msgstr "衛兵，守衛！"
 
 #. Id: 13899-Escapes.mod
 #. -- Index: 0.2
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 13899-Escapes.mod:2 13912-Escapes.mod:1
 msgid "Guards! Help!"
-msgstr ""
+msgstr "逆天！救命！"
 
 #. Id: 13899-Escapes.mod
 #. -- Index: 0.3
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 13899-Escapes.mod:3
 msgid "Help, Guards!"
-msgstr ""
+msgstr "幫助，衛兵！"
 
 #. Id: 13900-Escapes.mod
 #. -- Index: 1.0
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13900-Escapes.mod:0
 msgid "Over here, a slave has escaped!"
-msgstr ""
+msgstr "在這裡，一個奴隸逃脫了！"
 
 #. Id: 13900-Escapes.mod
 #. -- Index: 1.1
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13900-Escapes.mod:1
 msgid "This way, a loose slave! "
-msgstr ""
+msgstr "這樣，一個鬆散的奴隸！"
 
 #. Id: 13900-Escapes.mod
 #. -- Index: 1.2
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13900-Escapes.mod:2
 msgid "This way, an escaped slave! "
-msgstr ""
+msgstr "這樣，一個逃脫的奴隸！"
 
 #. Id: 13900-Escapes.mod
 #. -- Index: 1.3
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13900-Escapes.mod:3
 msgid "This way, an runaway slave! "
-msgstr ""
+msgstr "這樣，一個失控的奴隸！"
 
 #. Id: 13902-Escapes.mod
 #. -- Index: 0.0
@@ -148,7 +148,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 13902-Escapes.mod:0
 msgid "... what are you doing, slave?"
-msgstr ""
+msgstr "你做什麼，奴隸？"
 
 #. Id: 13902-Escapes.mod
 #. -- Index: 0.1
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 13902-Escapes.mod:1
 msgid "... slave, you fool..."
-msgstr ""
+msgstr "......奴隸，你這個笨蛋......"
 
 #. Id: 13903-Escapes.mod
 #. -- Index: 1.0
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13903-Escapes.mod:0
 msgid "They'll punish you if they catch you..."
-msgstr ""
+msgstr "如果他們抓住你，他們會懲罰你......"
 
 #. Id: 13903-Escapes.mod
 #. -- Index: 1.1
@@ -176,5 +176,4 @@ msgstr ""
 #. -- Group title: Civilian spots escaped slave
 #: 13903-Escapes.mod:1
 msgid "You'll be in big trouble if the guards see you here..."
-msgstr ""
-
+msgstr "如果守衛在這裡見到你，你會遇到大麻煩......"

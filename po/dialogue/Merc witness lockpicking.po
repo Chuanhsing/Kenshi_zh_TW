@@ -24,7 +24,7 @@ msgstr ""
 #. -- Group title: Priest witness lockpicking
 #: 12808-Dialogue?(11)?(2).mod:0 40728-Dialogue.mod:3
 msgid "What is this?"
-msgstr ""
+msgstr "這是什麼？"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 12808-Dialogue?(11)?(2).mod:1 40728-Dialogue.mod:2 3866-gamedata.base:1 51662-rebirth.mod:2 14075-Dialogue?(12).mod:6
 msgid "What are you doing?"
-msgstr ""
+msgstr "你在做什麼？"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.2
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:2
 msgid "Hm?... Hey..."
-msgstr ""
+msgstr "嗯？......嘿......"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.3
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:3
 msgid "Huh?... Hey..."
-msgstr ""
+msgstr "嗯？......嘿......"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.5
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:5
 msgid "What's going on here?"
-msgstr ""
+msgstr "這裡發生了什麼？"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.6
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:6 43824-Dialogue.mod:1
 msgid "What the?"
-msgstr ""
+msgstr "什麼？"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.7
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Group title: merc interrupted by bandit
 #: 12808-Dialogue?(11)?(2).mod:7 12853-Dialogue?(11)?(2).mod:1
 msgid "Ah?!"
-msgstr ""
+msgstr "啊？！"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.9
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:9
 msgid "The hell...?!"
-msgstr ""
+msgstr "地獄...？！"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.10
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:10
 msgid "Huh? What the?!"
-msgstr ""
+msgstr "咦？什麼？！"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.11
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:11
 msgid "The hell's going on?!"
-msgstr ""
+msgstr "到底是怎麼回事？！"
 
 #. Id: 12808-Dialogue (11) (2).mod
 #. -- Index: 0.14
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12808-Dialogue?(11)?(2).mod:14 43827-Dialogue.mod:4
 msgid "Hey?!"
-msgstr ""
+msgstr "嘿？！"
 
 #. Id: 44464-Dialogue.mod
 #. -- Index: 1.1
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44464-Dialogue.mod:1
 msgid "Cut that out!"
-msgstr ""
+msgstr "切出來！"
 
 #. Id: 44464-Dialogue.mod
 #. -- Index: 1.2
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44464-Dialogue.mod:2
 msgid "I see what you're doing!"
-msgstr ""
+msgstr "我明白你在做什麼！"
 
 #. Id: 44464-Dialogue.mod
 #. -- Index: 1.4
@@ -219,7 +219,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44464-Dialogue.mod:6
 msgid "Keep out of there, thief!"
-msgstr ""
+msgstr "小偷，遠離那裡！"
 
 #. Id: 44464-Dialogue.mod
 #. -- Index: 1.7
@@ -235,7 +235,7 @@ msgstr ""
 #. -- Group title: Looting ally holy nation resident
 #: 44464-Dialogue.mod:7 40808-Dialogue.mod:3
 msgid "Stay away from there!"
-msgstr ""
+msgstr "遠離那裡！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.0
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:0
 msgid "Get out and stay out, thief!"
-msgstr ""
+msgstr "走出去，小伙子！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.1
@@ -259,7 +259,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:1
 msgid "That's it, run! And don't come back, thief!"
-msgstr ""
+msgstr "就是這樣，跑！不要回來，小偷！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.2
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:2
 msgid "Run away, scumbag! And don't come back!"
-msgstr ""
+msgstr "逃跑，scumbag！不要回來！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.3
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:3
 msgid "That's it, run away if you know what's good for you! No good thief..."
-msgstr ""
+msgstr "就是這樣，如果你知道什麼對你有好處就逃跑吧！沒有好小偷......"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.4
@@ -295,7 +295,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:4
 msgid "You BETTER run! Thievin' coward!"
-msgstr ""
+msgstr "你最好快跑！ Thievin'懦夫！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.5
@@ -307,7 +307,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:5
 msgid "Get out of here and stay out of here!"
-msgstr ""
+msgstr "離開這裡，離開這裡！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.6
@@ -319,7 +319,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 44467-Dialogue.mod:6
 msgid "Go on, get out!"
-msgstr ""
+msgstr "繼續，滾出去！"
 
 #. Id: 44467-Dialogue.mod
 #. -- Index: 1.7
@@ -377,7 +377,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 44472-Dialogue.mod:0 42110-Dialogue.mod:1 8361-Dialogue.mod:0 17505-Dialogue.mod:2 41343-Dialogue.mod:0 10873-Dialogue?(10).mod:0 8574-Dialogue.mod:0
 msgid "Tch!"
-msgstr ""
+msgstr "TCH！"
 
 #. Id: 44472-Dialogue.mod
 #. -- Index: 2.2
@@ -395,7 +395,7 @@ msgstr ""
 #. -- Group title: shopkeep holy shoo
 #: 44472-Dialogue.mod:2 46940-Dialogue.mod:1
 msgid "Hit the road!"
-msgstr ""
+msgstr "上路了！"
 
 #. Id: 44472-Dialogue.mod
 #. -- Index: 2.3
@@ -413,7 +413,7 @@ msgstr ""
 #. -- Group title: holy merc shoo shop
 #: 44472-Dialogue.mod:3 49915-Dialogue.mod:2
 msgid "Get lost!"
-msgstr ""
+msgstr "走開！"
 
 #. Id: 44483-Dialogue.mod
 #. -- Index: 1.0
@@ -422,7 +422,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 44483-Dialogue.mod:0
 msgid "Damn thieves..."
-msgstr ""
+msgstr "該死的小偷......"
 
 #. Id: 44483-Dialogue.mod
 #. -- Index: 1.1
@@ -440,7 +440,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 44483-Dialogue.mod:2
 msgid "Scumbag thieves..."
-msgstr ""
+msgstr "Scumbag小偷......"
 
 #. Id: 44483-Dialogue.mod
 #. -- Index: 1.3
@@ -449,7 +449,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 44483-Dialogue.mod:3
 msgid "Thievin' scumbags..."
-msgstr ""
+msgstr "蒂文'笨蛋......"
 
 #. Id: 44483-Dialogue.mod
 #. -- Index: 1.4
@@ -458,7 +458,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 44483-Dialogue.mod:4
 msgid "I hate thieves..."
-msgstr ""
+msgstr "我討厭小偷......"
 
 #. Id: 44483-Dialogue.mod
 #. -- Index: 1.5
@@ -476,7 +476,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 44483-Dialogue.mod:6
 msgid "And stay out!"
-msgstr ""
+msgstr "並且待在外面！"
 
 #. Id: 12809-Dialogue (11) (2).mod
 #. -- Index: 0.0
@@ -531,7 +531,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43824-Dialogue.mod:2
 msgid "Hey?"
-msgstr ""
+msgstr "嘿？"
 
 #. Id: 43825-Dialogue.mod
 #. -- Index: 1.2
@@ -540,7 +540,7 @@ msgstr ""
 #. -- Group title: Merc witness lockpicking
 #: 43825-Dialogue.mod:2
 msgid "Hey! Over here!"
-msgstr ""
+msgstr "嘿!在這裡！"
 
 #. Id: 43827-Dialogue.mod
 #. -- Index: 0.0
@@ -566,7 +566,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43827-Dialogue.mod:0 43831-Dialogue.mod:9 13213-Escapes.mod:1
 msgid "Hey, what are you doing?!"
-msgstr ""
+msgstr "嘿，你在做什麼？！"
 
 #. Id: 43827-Dialogue.mod
 #. -- Index: 0.1
@@ -584,7 +584,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43827-Dialogue.mod:1 43831-Dialogue.mod:7
 msgid "Hey, what is this?!"
-msgstr ""
+msgstr "嘿，這是什麼？！"
 
 #. Id: 43827-Dialogue.mod
 #. -- Index: 0.2
@@ -605,7 +605,7 @@ msgstr ""
 #. -- Group title: Noble witness lockpicking
 #: 43827-Dialogue.mod:2 12853-Dialogue?(11)?(2).mod:0 18652-Dialogue.mod:3
 msgid "Hm?!"
-msgstr ""
+msgstr "嗯？"
 
 #. Id: 43827-Dialogue.mod
 #. -- Index: 0.6
@@ -616,7 +616,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43827-Dialogue.mod:6
 msgid "Hey! What's going on here?!"
-msgstr ""
+msgstr "嘿!這裡發生了什麼？！"
 
 #. Id: 43827-Dialogue.mod
 #. -- Index: 0.7
@@ -633,7 +633,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 43827-Dialogue.mod:7 17938-Dialogue.mod:2
 msgid "Hey! What are you doing?!"
-msgstr ""
+msgstr "嘿!你在做什麼？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.2
@@ -644,7 +644,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:2
 msgid "Hm?! What's going on?!"
-msgstr ""
+msgstr "嗯？這是怎麼回事？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.3
@@ -655,7 +655,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:3
 msgid "Huh? What's this?!"
-msgstr ""
+msgstr "咦？這是什麼？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.4
@@ -666,7 +666,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:4
 msgid "Hm? What is this?!"
-msgstr ""
+msgstr "嗯？這是什麼？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.5
@@ -677,7 +677,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:5
 msgid "Huh? What are you doing?!"
-msgstr ""
+msgstr "咦？你在做什麼？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.6
@@ -688,7 +688,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:6
 msgid "Hm? What are you doing?!"
-msgstr ""
+msgstr "嗯？你在做什麼？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.8
@@ -699,7 +699,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:8
 msgid "Hey, what's going on?!"
-msgstr ""
+msgstr "嘿，這是怎麼回事？！"
 
 #. Id: 43831-Dialogue.mod
 #. -- Index: 0.10
@@ -710,5 +710,4 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 43831-Dialogue.mod:10
 msgid "Huh?! What's going on?!"
-msgstr ""
-
+msgstr "咦？這是怎麼回事？！"

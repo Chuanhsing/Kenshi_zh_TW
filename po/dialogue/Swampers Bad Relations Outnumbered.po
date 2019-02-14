@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7968-Dialogue.mod:0
 msgid "Oh god! THERE ARE SO MANY OF THEM!"
-msgstr ""
+msgstr "天啊！他們中有很多人！"
 
 #. Id: 7968-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7968-Dialogue.mod:1
 msgid "We're outnumbered!"
-msgstr ""
+msgstr "我們的人數超過了！"
 
 #. Id: 7968-Dialogue.mod
 #. -- Index: 0.2
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7968-Dialogue.mod:3
 msgid "We need backup, there are too many of 'em!"
-msgstr ""
+msgstr "我們需要備份，有太多的'他們！"
 
 #. Id: 49542-Dialogue.mod
 #. -- Index: 2.0
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7978-Dialogue.mod:0
 msgid "...We're all gonna die, aren't we"
-msgstr ""
+msgstr "......我們都會死，不是我們"
 
 #. Id: 7978-Dialogue.mod
 #. -- Index: 0.1
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7978-Dialogue.mod:1
 msgid "We're all screwed"
-msgstr ""
+msgstr "我們都搞砸了"
 
 #. Id: 7978-Dialogue.mod
 #. -- Index: 0.3
@@ -221,7 +221,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7978-Dialogue.mod:3
 msgid "We're never gonna make it out alive!"
-msgstr ""
+msgstr "我們永遠不會活著！"
 
 #. Id: 7978-Dialogue.mod
 #. -- Index: 0.4
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Group title: Swampers Bad Relations Outnumbered
 #: 7978-Dialogue.mod:4
 msgid "We can't possibly survive!"
-msgstr ""
+msgstr "我們不可能活下來！"
 
 #. Id: 7979-Dialogue.mod
 #. -- Index: 0.0
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
 #: 7979-Dialogue.mod:0
 msgid "...I'm gonna die, aren't I"
-msgstr ""
+msgstr "......我要死了，不是我"
 
 #. Id: 7979-Dialogue.mod
 #. -- Index: 0.1
@@ -252,7 +252,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
 #: 7979-Dialogue.mod:1
 msgid "Oh god, I'm going to die"
-msgstr ""
+msgstr "天哪，我快死了"
 
 #. Id: 7979-Dialogue.mod
 #. -- Index: 0.2
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
 #: 7979-Dialogue.mod:2
 msgid "... This is it. I'm dead meat"
-msgstr ""
+msgstr "... 就是這個。我死了"
 
 #. Id: 7979-Dialogue.mod
 #. -- Index: 0.3
@@ -274,5 +274,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>6, Tag: -1
 #: 7979-Dialogue.mod:3
 msgid "... I'm going to die..."
-msgstr ""
-
+msgstr "... 我就要死了..."

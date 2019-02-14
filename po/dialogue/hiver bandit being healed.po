@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 1531890-__May?18.mod:0
 msgid "No, don't touch us... don't touch me..."
-msgstr ""
+msgstr "不，不要碰我們......別碰我..."
 
 #. Id: 1531890-__May 18.mod
 #. -- Index: 0.1
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 1531890-__May?18.mod:1 17932-Dialogue.mod:1
 msgid "No, don't touch that..."
-msgstr ""
+msgstr "不，不要碰那個......"
 
 #. Id: 1531890-__May 18.mod
 #. -- Index: 0.2
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 1531890-__May?18.mod:2 17932-Dialogue.mod:4
 msgid "H-hey! Don't touch that..."
-msgstr ""
+msgstr "H-哎！不要碰那個......"
 
 #. Id: 1531890-__May 18.mod
 #. -- Index: 0.3
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 1531890-__May?18.mod:3
 msgid "We don't... I don't need any help..."
-msgstr ""
+msgstr "我們不......我不需要任何幫助......"
 
 #. Id: 1531893-__May 18.mod
 #. -- Index: 0.0
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 1531893-__May?18.mod:0 17934-Dialogue.mod:0
 msgid "A broken hiver... is a bad.. hiver"
-msgstr ""
+msgstr "一個破碎的hiver ......是一個糟糕的... hiver"
 
 #. Id: 1531893-__May 18.mod
 #. -- Index: 0.1
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: hiver bandit being healed
 #: 1531893-__May?18.mod:1
 msgid "... Broken hivers go in the furnace."
-msgstr ""
+msgstr "......破碎的箱子進入熔爐。"
 
 #. Id: 1531893-__May 18.mod
 #. -- Index: 0.2
@@ -105,5 +105,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 1531893-__May?18.mod:2 18122-Dialogue.mod:0
 msgid "We must be fixed"
-msgstr ""
-
+msgstr "我們必須得到解決"

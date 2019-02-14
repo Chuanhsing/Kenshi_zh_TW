@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: Healed finished desparate
 #: 3597-dialogue-01.mod:0 3474-dialogue-01.mod:2 48026-Dialogue.mod:6
 msgid "Thank you."
-msgstr ""
+msgstr "謝謝。"
 
 #. Id: 3597-dialogue-01.mod
 #. -- Index: 0.1
@@ -50,7 +50,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3597-dialogue-01.mod:1 3474-dialogue-01.mod:0
 msgid "Thanks."
-msgstr ""
+msgstr "謝謝。"
 
 #. Id: 3597-dialogue-01.mod
 #. -- Index: 0.2
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=0, Tag: -1
 #: 3597-dialogue-01.mod:2
 msgid "Owe you one."
-msgstr ""
+msgstr "你是一個人。"
 
 #. Id: 3597-dialogue-01.mod
 #. -- Index: 0.3
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=0, Tag: -1
 #: 3597-dialogue-01.mod:3
 msgid "Won't forget what you've done."
-msgstr ""
+msgstr "不會忘記你做過的事情。"
 
 #. Id: 3597-dialogue-01.mod
 #. -- Index: 0.4
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3597-dialogue-01.mod:4 3590-dialogue-01.mod:3 15851-Dialogue.mod:6
 msgid "I'll make good on this."
-msgstr ""
+msgstr "我會擅長這個。"
 
 #. Id: 3597-dialogue-01.mod
 #. -- Index: 0.5
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Group title: Territorial thug (interrupt) (pt2)
 #: 3597-dialogue-01.mod:5 9886-Dialogue.mod:0
 msgid "You're too kind."
-msgstr ""
+msgstr "你太客氣了。"
 
 #. Id: 3599-dialogue-01.mod
 #. -- Index: 0.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 3599-dialogue-01.mod:0
 msgid "Don't owe you a thing."
-msgstr ""
+msgstr "不要欠你一件事。"
 
 #. Id: 3599-dialogue-01.mod
 #. -- Index: 0.1
@@ -140,7 +140,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 3599-dialogue-01.mod:1
 msgid "Your choice. Not my debt."
-msgstr ""
+msgstr "你的選擇。不是我的債務。"
 
 #. Id: 3599-dialogue-01.mod
 #. -- Index: 0.2
@@ -152,7 +152,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 3599-dialogue-01.mod:2
 msgid "You're a lousy medic."
-msgstr ""
+msgstr "你是一個糟糕的醫生。"
 
 #. Id: 3599-dialogue-01.mod
 #. -- Index: 0.3
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 3599-dialogue-01.mod:3
 msgid "Made that hurt on purpose, didn't you."
-msgstr ""
+msgstr "故意傷害了，不是嗎。"
 
 #. Id: 3599-dialogue-01.mod
 #. -- Index: 0.4
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 3599-dialogue-01.mod:4
 msgid "Well. That'll definitely scar."
-msgstr ""
+msgstr "好。那絕對是傷疤。"
 
 #. Id: 3601-dialogue-01.mod
 #. -- Index: 0.0
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3601-dialogue-01.mod:0
 msgid "Guess I owe you now."
-msgstr ""
+msgstr "我猜我現在欠你的。"
 
 #. Id: 3601-dialogue-01.mod
 #. -- Index: 0.1
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3601-dialogue-01.mod:1
 msgid "I'll be careful next time."
-msgstr ""
+msgstr "我下次會小心的。"
 
 #. Id: 3601-dialogue-01.mod
 #. -- Index: 0.2
@@ -209,7 +209,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3601-dialogue-01.mod:2
 msgid "I'll pay you back someday."
-msgstr ""
+msgstr "總有一天我會還你的。"
 
 #. Id: 3601-dialogue-01.mod
 #. -- Index: 0.3
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3601-dialogue-01.mod:3
 msgid "You shouldn't have."
-msgstr ""
+msgstr "你不應該。"
 
 #. Id: 3601-dialogue-01.mod
 #. -- Index: 0.4
@@ -231,5 +231,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 3601-dialogue-01.mod:4
 msgid "Much better."
-msgstr ""
-
+msgstr "好多了。"

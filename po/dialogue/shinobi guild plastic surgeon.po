@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: FACTION_RANK=0, Tag: -1
 #: 51752-rebirth.mod:0
 msgid "I don't know you."
-msgstr ""
+msgstr "我不認識你。"
 
 #. Id: 51754-rebirth.mod
 #. -- Index: 0.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: FACTION_RANK>0, Tag: -1
 #: 51754-rebirth.mod:0
 msgid "Looking to change your face? Fix up your hair?"
-msgstr ""
+msgstr "想改變你的臉？修好你的頭髮？"
 
 #. Id: 51754-rebirth.mod
 #. -- Index: 0.1
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: FACTION_RANK>0, Tag: -1
 #: 51754-rebirth.mod:1
 msgid "Need your face changed?"
-msgstr ""
+msgstr "需要換臉嗎？"
 
 #. Id: 51756-rebirth.mod
 #. -- Index: 1.0
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Group title: shinobi guild plastic surgeon
 #: 51756-rebirth.mod:0
 msgid "Yes, help me out"
-msgstr ""
+msgstr "是的，幫幫我"
 
 #. Id: 51756-rebirth.mod
 #. -- Index: 1.1
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Group title: shinobi guild plastic surgeon
 #: 51756-rebirth.mod:1
 msgid "Aye, give it a go"
-msgstr ""
+msgstr "是的，試一試"
 
 #. Id: 51756-rebirth.mod
 #. -- Index: 1.2
@@ -66,5 +66,4 @@ msgstr ""
 #. -- Group title: shinobi guild plastic surgeon
 #: 51756-rebirth.mod:2
 msgid "Do it."
-msgstr ""
-
+msgstr "做吧。"

@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66255-Dialogue.mod:0
 msgid "... A sword to the face!"
-msgstr ""
+msgstr "......一把劍！"
 
 #. Id: 66256-Dialogue.mod
 #. -- Index: 2.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66256-Dialogue.mod:0
 msgid "Nobody knocks me out cold and gets away with it!"
-msgstr ""
+msgstr "沒有人把我冷落，然後逃脫它！"
 
 #. Id: 66256-Dialogue.mod
 #. -- Index: 2.1
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66256-Dialogue.mod:1
 msgid "Taste steel!"
-msgstr ""
+msgstr "品嚐鋼鐵！"
 
 #. Id: 66256-Dialogue.mod
 #. -- Index: 2.2
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 66257-Dialogue.mod:0
 msgid "Thought you could leave me bloody last time, eh?"
-msgstr ""
+msgstr "以為你上次可以留下我的血腥，是嗎？"
 
 #. Id: 66257-Dialogue.mod
 #. -- Index: 0.1
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66258-Dialogue.mod:0
 msgid "Time to return the favour!"
-msgstr ""
+msgstr "是時候回報了！"
 
 #. Id: 66259-Dialogue.mod
 #. -- Index: 0.0
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 66259-Dialogue.mod:0
 msgid "Come back for more, eh?"
-msgstr ""
+msgstr "回來更多，是嗎？"
 
 #. Id: 66259-Dialogue.mod
 #. -- Index: 0.2
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66260-Dialogue.mod:1
 msgid "You oughtta no better than to pick a fight with ME!"
-msgstr ""
+msgstr "你不應該和我挑戰！"
 
 #. Id: 66261-Dialogue.mod
 #. -- Index: 0.0
@@ -150,5 +150,4 @@ msgstr ""
 #. -- Group title: Thug sees player after defeat
 #: 66262-Dialogue.mod:0
 msgid "Or maybe you'd recognize me without the BROKEN NOSE!?"
-msgstr ""
-
+msgstr "或者也許你沒有BROKEN NOSE認出我！？"

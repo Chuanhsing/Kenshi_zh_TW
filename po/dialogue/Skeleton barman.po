@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 55802-Dialogue.mod:0
 msgid "Sorry, we don't sell human food, I hope you brought your own... Need anything else?"
-msgstr ""
+msgstr "對不起，我們不賣人類食物，我希望你帶來自己的...需要什麼？"
 
 #. Id: 55805-Dialogue.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 55805-Dialogue.mod:0
 msgid "Tell me about this place."
-msgstr ""
+msgstr "告訴我這個地方。"
 
 #. Id: 55807-Dialogue.mod
 #. -- Index: 2.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Group title: Skeleton barman
 #: 55807-Dialogue.mod:0
 msgid "There's not a lot to say... We settled here after life grew chaotic on the outside. But those times were so long ago, no-one here has a clear memory of our days before the city. What we do know is that we're safer here, across acidic ground and hidden away from any warzones."
-msgstr ""
+msgstr "沒有太多可說的......在外面的生活變得混亂之後，我們在這里安頓下來。但那些時代是很久以前的事了，這裡沒有人能清楚地記得我們在這座城市前的日子。我們所知道的是，我們在這裡更安全，穿越酸性地面並遠離任何戰區。"
 
 #. Id: 55808-Dialogue.mod
 #. -- Index: 3.0
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: Skeleton barman
 #: 55808-Dialogue.mod:0
 msgid "The only downside of our isolation is lack of occupation. Inactivity can be terribly unhealthy to some, both for the mind and the body."
-msgstr ""
+msgstr "我們孤立的唯一缺點是缺乏職業。對於一些人來說，不活動對於頭腦和身體來說都是非常不健康的。"
 
 #. Id: 55811-Dialogue.mod
 #. -- Index: 0.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Group title: Skeleton barman
 #: 55811-Dialogue.mod:0
 msgid "Finally gave up on life outside, did you? I don't blame you. Days are dull here but it beats trying to reason with the humans... and our disgruntled ones. Let them fix their own mess."
-msgstr ""
+msgstr "終於放棄了外面的生活，是嗎？我不怪你。這裡的日子很乏味，但是它試圖與人類推理......以及我們不滿的人。讓他們解決自己的爛攤子。"
 
 #. Id: 55812-Dialogue.mod
 #. -- Index: 1.0
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Group title: Skeleton barman
 #: 55812-Dialogue.mod:0
 msgid "But, down to business. Here to trade?"
-msgstr ""
+msgstr "但是，歸功於商業。交易？"
 
 #. Id: 55813-Dialogue.mod
 #. -- Index: 0.0
@@ -75,5 +75,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<100, Tag: -1
 #: 55813-Dialogue.mod:0
 msgid "Back already? What can I get you?"
-msgstr ""
-
+msgstr "回來了嗎？我能得到什麼？"

@@ -22,7 +22,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 17539-Dialogue.mod:0
 msgid "I do not need your help"
-msgstr ""
+msgstr "我不需要你的幫助"
 
 #. Id: 17539-Dialogue.mod
 #. -- Index: 0.1
@@ -35,7 +35,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 17539-Dialogue.mod:1
 msgid "I need no help from you"
-msgstr ""
+msgstr "我不需要你的幫助"
 
 #. Id: 17539-Dialogue.mod
 #. -- Index: 0.2
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 17539-Dialogue.mod:2
 msgid "Leave me, I need no help"
-msgstr ""
+msgstr "離開我，我不需要幫助"
 
 #. Id: 17539-Dialogue.mod
 #. -- Index: 0.3
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 17539-Dialogue.mod:3
 msgid "I can handle it myself"
-msgstr ""
+msgstr "我可以自己處理"
 
 #. Id: 17540-Dialogue.mod
 #. -- Index: 0.1
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
 #: 17540-Dialogue.mod:1
 msgid "Nothing but a scratch"
-msgstr ""
+msgstr "只有划痕"
 
 #. Id: 17540-Dialogue.mod
 #. -- Index: 0.2
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
 #: 17540-Dialogue.mod:2
 msgid "I've suffered worse"
-msgstr ""
+msgstr "我的情況更糟"
 
 #. Id: 17540-Dialogue.mod
 #. -- Index: 0.4
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=0, Tag: -1
 #: 17540-Dialogue.mod:4
 msgid "I've had worse injuries"
-msgstr ""
+msgstr "我受傷更嚴重了"
 
 #. Id: 17546-Dialogue.mod
 #. -- Index: 0.0
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
 #: 17546-Dialogue.mod:0
 msgid "This little scratch? They got lucky, that is all"
-msgstr ""
+msgstr "這個小划痕？他們很幸運，就是這樣"
 
 #. Id: 17546-Dialogue.mod
 #. -- Index: 0.1
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
 #: 17546-Dialogue.mod:1
 msgid "It's just a scratch. I got careless, that's all"
-msgstr ""
+msgstr "這只是一個划痕。我粗心大意，就是這樣"
 
 #. Id: 17546-Dialogue.mod
 #. -- Index: 0.2
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_LOVE_THIS_GUY=1, Tag: -1
 #: 17546-Dialogue.mod:2
 msgid "I won't be broken, I'll only grow back stronger"
-msgstr ""
+msgstr "我不會被打破，我只會變得更強壯"
 
 #. Id: 17548-Dialogue.mod
 #. -- Index: 0.0
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17548-Dialogue.mod:0
 msgid "Ah..."
-msgstr ""
+msgstr "啊..."
 
 #. Id: 17548-Dialogue.mod
 #. -- Index: 0.1
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17548-Dialogue.mod:1
 msgid "Much better..."
-msgstr ""
+msgstr "好多了..."
 
 #. Id: 17548-Dialogue.mod
 #. -- Index: 0.2
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17548-Dialogue.mod:2
 msgid "That's good..."
-msgstr ""
+msgstr "非常好..."
 
 #. Id: 17550-Dialogue.mod
 #. -- Index: 0.0
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
 #: 17550-Dialogue.mod:0
 msgid "It will take more than a broken leg to keep ME down"
-msgstr ""
+msgstr "讓我失望，需要的不僅僅是斷腿"
 
 #. Id: 17550-Dialogue.mod
 #. -- Index: 0.1
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
 #: 17550-Dialogue.mod:1
 msgid "I'll be walking again in no time"
-msgstr ""
+msgstr "我馬上就會再次走路"
 
 #. Id: 17550-Dialogue.mod
 #. -- Index: 0.2
@@ -197,7 +197,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 17550-Dialogue.mod:2 17552-Dialogue.mod:2
 msgid "They can break my bones all they want, but they'll never break my spirit"
-msgstr ""
+msgstr "他們可以隨心所欲地打破我的骨頭，但他們永遠不會打破我的精神"
 
 #. Id: 17550-Dialogue.mod
 #. -- Index: 0.3
@@ -208,7 +208,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
 #: 17550-Dialogue.mod:3
 msgid "Just a couple of broken bones, that's all"
-msgstr ""
+msgstr "只是幾塊破碎的骨頭，就是這樣"
 
 #. Id: 17550-Dialogue.mod
 #. -- Index: 0.4
@@ -219,7 +219,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=1, Tag: -1
 #: 17550-Dialogue.mod:4
 msgid "Break my bones and they'll only grow back stronger"
-msgstr ""
+msgstr "打破我的骨頭，他們只會變得更強壯"
 
 #. Id: 17552-Dialogue.mod
 #. -- Index: 0.0
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 17552-Dialogue.mod:0
 msgid "It will take more than a cracked skull to keep ME down"
-msgstr ""
+msgstr "讓我失望的不僅僅是破裂的頭骨"
 
 #. Id: 17552-Dialogue.mod
 #. -- Index: 0.1
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 17552-Dialogue.mod:1
 msgid "My skull is sturdy. I'll be fit again in no time"
-msgstr ""
+msgstr "我的頭骨很堅固。我很快就會適應"
 
 #. Id: 17552-Dialogue.mod
 #. -- Index: 0.3
@@ -252,5 +252,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 17552-Dialogue.mod:3
 msgid "Just a cracked skull, that's all"
-msgstr ""
-
+msgstr "只是一個破裂的頭骨，就是這樣"

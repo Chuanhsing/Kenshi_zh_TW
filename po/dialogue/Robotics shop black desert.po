@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 95814-Dialogue.mod:0
 msgid "A human?... It's not everyday I get a human customer... but, sure, I've got plenty of parts that should fit you fine indeed... Did you travel all the way here just for my expertise?... Gosh... I'm flattered... I don't blame you though, human, flesh is good for nothing but rotting... Where was I going with this?"
-msgstr ""
+msgstr "一個人？...我不是每天都會得到一個人類客戶......但是，當然，我有很多適合你的部分......你為了我的專長而一直在這裡旅行嗎？天啊......我很受寵若驚......但是我不怪你，人類，肉體只有腐爛才有好處......我在這裡走的是什麼？"
 
 #. Id: 95813-Dialogue.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Group title: Robotics shop black desert
 #: 95813-Dialogue.mod:0
 msgid "... Right that was it, guess you're looking to buy some parts? Or maybe you're looking for some repairs? I can fix anything, trust me, years of experience. Everybody thinks they're a robotics expert these days I bet, but they've got nothing on the robotics capital of the land, believe you me... You were right to pilgrimage hundreds of miles just to seek me out, I really am good at this stuff... Where was I going with this?"
-msgstr ""
+msgstr "......就是這樣，你猜你想買一些零件嗎？或者也許你正在尋找一些維修？我可以解決任何問題，相信我，多年的經驗。我敢打賭，現在每個人都認為他們是機器人技術專家，但是他們對這片土地上的機器人資本一無所知，相信你我......你是朝向數百英里朝聖的對象，只是為了尋找我，我真的是擅長這個東西......我在哪裡這個？"
 
 #. Id: 95816-Dialogue.mod
 #. -- Index: 2.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Group title: Robotics shop black desert
 #: 95816-Dialogue.mod:0
 msgid "I need repair."
-msgstr ""
+msgstr "我需要修理。"
 
 #. Id: 95819-Dialogue.mod
 #. -- Index: 3.0
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: Robotics shop black desert
 #: 95819-Dialogue.mod:0
 msgid "That will be 1000 Cats..."
-msgstr ""
+msgstr "這將是1000貓......"
 
 #. Id: 95820-Dialogue.mod
 #. -- Index: 4.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Group title: Robotics shop black desert
 #: 95820-Dialogue.mod:0
 msgid "Lie on the repair bed when you're ready."
-msgstr ""
+msgstr "準備好時躺在修理床上。"
 
 #. Id: 97582-__March 18.mod
 #. -- Index: 3.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
 #: 97582-__March?18.mod:0
 msgid "But... You have nothing to repair."
-msgstr ""
+msgstr "但是......你無需修理。"
 
 #. Id: 97584-__March 18.mod
 #. -- Index: 3.0
@@ -77,7 +77,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
 #: 97584-__March?18.mod:0
 msgid "You have nothing to repair... I might have something to fit your... er... missing arm though. Take a look."
-msgstr ""
+msgstr "你沒有什麼可以修復的......我可能有適合你的東西......呃......雖然缺少了手臂。看一看。"
 
 #. Id: 97585-__March 18.mod
 #. -- Index: 3.0
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 97585-__March?18.mod:0
 msgid "You have nothing to repair... I might have something to fit your... er... missing leg though. Take a look."
-msgstr ""
+msgstr "你沒有什麼可以修復的......我可能有適合你的東西......呃......雖然缺少一條腿。看一看。"
 
 #. Id: 95818-Dialogue.mod
 #. -- Index: 0.0
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 95818-Dialogue.mod:0
 msgid "New guy in town, I see... Well, got plenty of parts for sale, no shortage in the Black Desert City..."
-msgstr ""
+msgstr "在鎮上的新人，我看到......好吧，有很多零件待售，黑色沙漠城市不缺......"
 
 #. Id: 95827-Dialogue.mod
 #. -- Index: 0.0
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: Robotics shop black desert
 #: 95827-Dialogue.mod:0
 msgid "What can I get you today?"
-msgstr ""
+msgstr "我今天能得到什麼？"
 
 #. Id: 95837-__december17.mod
 #. -- Index: 0.1
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95837-__december17.mod:1
 msgid "Leave, thief."
-msgstr ""
+msgstr "離開，小偷。"
 
 #. Id: 95837-__december17.mod
 #. -- Index: 0.2
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95837-__december17.mod:2
 msgid "Think I don't remember a thief? Leave."
-msgstr ""
+msgstr "想想我不記得小偷？離開。"
 
 #. Id: 95837-__december17.mod
 #. -- Index: 0.3
@@ -138,5 +138,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95837-__december17.mod:3
 msgid "I never forget the face of a thief."
-msgstr ""
-
+msgstr "我永遠不會忘記小偷的臉。"

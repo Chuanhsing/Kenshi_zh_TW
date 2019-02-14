@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 40950-Dialogue.mod:0
 msgid "Unlock me! The Holy Nation needs me!"
-msgstr ""
+msgstr "解鎖我！神聖的國度需要我！"
 
 #. Id: 40950-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 40950-Dialogue.mod:1
 msgid "There's no time to waste! Unlock me!"
-msgstr ""
+msgstr "沒有時間浪費！解鎖我！"
 
 #. Id: 40956-Dialogue.mod
 #. -- Index: 1.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Group title: Phoenix unlock attempt
 #: 40956-Dialogue.mod:0
 msgid "Okran's retribution will find you, dark one!"
-msgstr ""
+msgstr "奧克蘭的報應會找到你，黑暗的！"
 
 #. Id: 40956-Dialogue.mod
 #. -- Index: 1.1
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: Phoenix unlock attempt
 #: 40956-Dialogue.mod:1
 msgid "Your fate has already been sealed by Okran"
-msgstr ""
+msgstr "你的命運已被奧克蘭封印"
 
 #. Id: 40954-Dialogue.mod
 #. -- Index: 0.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 40954-Dialogue.mod:0
 msgid "... What's your game, Skeleton?"
-msgstr ""
+msgstr "......你的遊戲是什麼，骷髏？"
 
 #. Id: 40954-Dialogue.mod
 #. -- Index: 0.1
@@ -69,5 +69,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 40954-Dialogue.mod:1
 msgid "... I don't need your help! You won't fool me, Skeleton..."
-msgstr ""
-
+msgstr "......我不需要你的幫助！你不會欺騙我，骷髏......"

@@ -57,7 +57,7 @@ msgstr ""
 #. -- Group title: Vigilante spots imposter
 #: 12828-Dialogue?(11)?(2).mod:0 16668-Dialogue.mod:7 20048-Dialogue.mod:0 20048-Dialogue.mod:5 13858-Escapes.mod:0 15897-Dialogue.mod:0 16232-Dialogue.mod:7
 msgid "What is this?!"
-msgstr ""
+msgstr "這是什麼？！"
 
 #. Id: 12828-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Group title: Vigilante spots imposter
 #: 12828-Dialogue?(11)?(2).mod:1 16668-Dialogue.mod:8 12808-Dialogue?(11)?(2).mod:12 17967-Dialogue.mod:3 16232-Dialogue.mod:8
 msgid "The hell is this?!"
-msgstr ""
+msgstr "這到底是什麼？！"
 
 #. Id: 12828-Dialogue (11) (2).mod
 #. -- Index: 0.2
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SLAVE=0, Tag: -1
 #: 12828-Dialogue?(11)?(2).mod:2 59491-Dialogue.mod:2
 msgid "Who the hell are you?!"
-msgstr ""
+msgstr "你到底是誰？！"
 
 #. Id: 12828-Dialogue (11) (2).mod
 #. -- Index: 0.3
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Mean betrayed
 #: 12828-Dialogue?(11)?(2).mod:3 16668-Dialogue.mod:3
 msgid "Ngh! Did someone send you?!"
-msgstr ""
+msgstr "NGH！有人送你了嗎？！"
 
 #. Id: 12828-Dialogue (11) (2).mod
 #. -- Index: 0.4
@@ -134,7 +134,7 @@ msgstr ""
 #. -- Group title: Mean betrayed
 #: 12828-Dialogue?(11)?(2).mod:4 16668-Dialogue.mod:2
 msgid "The hell's wrong with you?!"
-msgstr ""
+msgstr "你到底怎麼了？！"
 
 #. Id: 12828-Dialogue (11) (2).mod
 #. -- Index: 0.5
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12828-Dialogue?(11)?(2).mod:6 12830-Dialogue?(11)?(2).mod:4 16668-Dialogue.mod:5 12808-Dialogue?(11)?(2).mod:13
 msgid "The hell are you doing?!"
-msgstr ""
+msgstr "你到底在幹嘛？！"
 
 #. Id: 12829-Dialogue (11) (2).mod
 #. -- Index: 0.0
@@ -201,7 +201,7 @@ msgstr ""
 #. -- Group title: Civilian betrayed
 #: 12829-Dialogue?(11)?(2).mod:0 16668-Dialogue.mod:0 14134-Dialogue?(4).mod:0 14138-Dialogue?(4).mod:1
 msgid "You traitor!"
-msgstr ""
+msgstr "你是叛徒！"
 
 #. Id: 12829-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 12829-Dialogue?(11)?(2).mod:4
 msgid "You snake!"
-msgstr ""
+msgstr "你蛇！"
 
 #. Id: 12830-Dialogue (11) (2).mod
 #. -- Index: 0.0
@@ -357,7 +357,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 12836-Dialogue?(11)?(2).mod:1
 msgid "Snake!"
-msgstr ""
+msgstr "蛇！"
 
 #. Id: 12836-Dialogue (11) (2).mod
 #. -- Index: 0.2
@@ -367,7 +367,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 12836-Dialogue?(11)?(2).mod:2
 msgid "Backstabber!"
-msgstr ""
+msgstr "背後捅刀子！"
 
 #. Id: 12837-Dialogue (11) (2).mod
 #. -- Index: 1.0
@@ -381,7 +381,7 @@ msgstr ""
 #. -- Group title: assassination failed
 #: 12837-Dialogue?(11)?(2).mod:0 47697-Dialogue.mod:0
 msgid "I'll kill you for this!"
-msgstr ""
+msgstr "我會為此殺了你！"
 
 #. Id: 12837-Dialogue (11) (2).mod
 #. -- Index: 1.1
@@ -390,7 +390,7 @@ msgstr ""
 #. -- Group title: Merc betrayed
 #: 12837-Dialogue?(11)?(2).mod:1
 msgid "I'll beat you to a pulp for this!"
-msgstr ""
+msgstr "為了這個，我會打敗你！"
 
 #. Id: 12837-Dialogue (11) (2).mod
 #. -- Index: 1.2
@@ -399,7 +399,7 @@ msgstr ""
 #. -- Group title: Merc betrayed
 #: 12837-Dialogue?(11)?(2).mod:2
 msgid "I'll kill you slowly for this!"
-msgstr ""
+msgstr "我會慢慢殺了你！"
 
 #. Id: 12837-Dialogue (11) (2).mod
 #. -- Index: 1.4
@@ -419,5 +419,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 12837-Dialogue?(11)?(2).mod:4 7928-Dialogue.mod:4 13428-Escapes.mod:3
 msgid "You die!"
-msgstr ""
-
+msgstr "你完蛋了！"

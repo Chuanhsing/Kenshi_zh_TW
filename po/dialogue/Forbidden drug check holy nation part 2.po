@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 52723-Dialogue.mod:0
 msgid "Hand over your belongings, I need to check them for items of sacrilege."
-msgstr ""
+msgstr "交出你的財物，我需要檢查他們的褻瀆物品。"
 
 #. Id: 52723-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 52723-Dialogue.mod:1
 msgid "Submit your belongings for investigation. I can't grant you passage until you're proven clean."
-msgstr ""
+msgstr "提交您的物品進行調查。在你被證明是乾淨的之前，我不能讓你通過。"
 
 #. Id: 52723-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 52723-Dialogue.mod:2
 msgid "Submit for searches. I need to check your body for items of sacrilege."
-msgstr ""
+msgstr "提交搜索。我需要檢查你的身體是否有褻瀆物品。"
 
 #. Id: 52723-Dialogue.mod
 #. -- Index: 0.3
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 52723-Dialogue.mod:3
 msgid "Open your bags for checks. I can't allow you entry to the city until you're proven clean."
-msgstr ""
+msgstr "打開行李進行檢查。在你被證明是乾淨的之前，我不允許你進入這個城市。"
 
 #. Id: 52724-Dialogue.mod
 #. -- Index: 1.0
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52724-Dialogue.mod:0 52729-Dialogue.mod:0
 msgid "What for?"
-msgstr ""
+msgstr "做什麼的？"
 
 #. Id: 52823-Dialogue.mod
 #. -- Index: 2.0
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52823-Dialogue.mod:0
 msgid "Do not question your holy brother, woman. I ask, you do."
-msgstr ""
+msgstr "不要質問你的聖潔兄弟，女人。我問，你這樣做。"
 
 #. Id: 52828-Dialogue.mod
 #. -- Index: 3.0
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52828-Dialogue.mod:0
 msgid "Nobody tells me what to do... (Square up)"
-msgstr ""
+msgstr "沒有人告訴我該怎麼做......（正方形）"
 
 #. Id: 52828-Dialogue.mod
 #. -- Index: 3.1
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52828-Dialogue.mod:1
 msgid "The last person that told me what to do is eating through a straw..."
-msgstr ""
+msgstr "告訴我該做什麼的最後一個人是用吸管吃飯......"
 
 #. Id: 52828-Dialogue.mod
 #. -- Index: 3.2
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52828-Dialogue.mod:2
 msgid "How about you try asking me nicely, eh? (Square up)"
-msgstr ""
+msgstr "你怎麼樣試著問我，嗯？ （正方形）"
 
 #. Id: 52848-Dialogue.mod
 #. -- Index: 4.0
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52824-Dialogue.mod:0 52704-Dialogue.mod:0
 msgid "Yes, I understand (Show him your gear)"
-msgstr ""
+msgstr "是的，我明白了（給他看你的裝備）"
 
 #. Id: 52832-Dialogue.mod
 #. -- Index: 2.0
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52832-Dialogue.mod:0
 msgid "[He checks your belongings in silence]"
-msgstr ""
+msgstr "[他默默地檢查你的財物]"
 
 #. Id: 52832-Dialogue.mod
 #. -- Index: 2.1
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52832-Dialogue.mod:1
 msgid "[He checks your stuff in silence]"
-msgstr ""
+msgstr "[他默默地檢查你的東西]"
 
 #. Id: 52832-Dialogue.mod
 #. -- Index: 2.2
@@ -177,7 +177,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52832-Dialogue.mod:2
 msgid "[He looks through your gear without a word]"
-msgstr ""
+msgstr "[他一言不發地看著你的裝備]"
 
 #. Id: 52829-Dialogue.mod
 #. -- Index: 3.0
@@ -237,7 +237,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52831-Dialogue.mod:1
 msgid "The spawn of Narko tries to smuggle Narcotics?... Why am I not surpised. This is unforgiveable. Only the Holy Lord Phoenix Himself, blessed be his name, can decide your fate now. "
-msgstr ""
+msgstr "Narko的產卵試圖走私毒品？...為什麼我不被人鄙視。這是不可原諒的。只有聖靈鳳凰本人，祝福他的名字，才能決定你的命運。"
 
 #. Id: 52831-Dialogue.mod
 #. -- Index: 3.2
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52830-Dialogue.mod:0
 msgid "You're clear. Go."
-msgstr ""
+msgstr "你很清楚。走。"
 
 #. Id: 52826-Dialogue.mod
 #. -- Index: 1.0
@@ -270,7 +270,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52826-Dialogue.mod:0 52733-Dialogue.mod:0
 msgid "How about you forget the checks and take a donation? (Bribe 2000 Cats)"
-msgstr ""
+msgstr "你怎麼忘記支票並捐款？ （賄賂2000隻貓）"
 
 #. Id: 52826-Dialogue.mod
 #. -- Index: 1.1
@@ -284,7 +284,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52826-Dialogue.mod:1 52733-Dialogue.mod:1
 msgid "I've not time for this. How about a donation instead? (Bribe 2000 Cats)"
-msgstr ""
+msgstr "我沒有時間這個。捐款怎麼樣呢？ （賄賂2000隻貓）"
 
 #. Id: 52845-Dialogue.mod
 #. -- Index: 2.0
@@ -311,7 +311,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52827-Dialogue.mod:0
 msgid "Nope. (Blow him a kiss)"
-msgstr ""
+msgstr "不。 （吹他一個吻）"
 
 #. Id: 52827-Dialogue.mod
 #. -- Index: 1.1
@@ -329,7 +329,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52827-Dialogue.mod:2
 msgid "... (Lick your lips at him)"
-msgstr ""
+msgstr "......（舔你的嘴唇）"
 
 #. Id: 52827-Dialogue.mod
 #. -- Index: 1.3
@@ -338,7 +338,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52827-Dialogue.mod:3
 msgid "... (Stroke his face)"
-msgstr ""
+msgstr "......（撫摸他的臉）"
 
 #. Id: 52827-Dialogue.mod
 #. -- Index: 1.4
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52827-Dialogue.mod:4
 msgid "Nope! (Poke his nose)"
-msgstr ""
+msgstr "不！ （戳他的鼻子）"
 
 #. Id: 52841-Dialogue.mod
 #. -- Index: 2.0
@@ -356,7 +356,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52841-Dialogue.mod:0
 msgid "*Gasp!*"
-msgstr ""
+msgstr "*喘氣！*"
 
 #. Id: 52841-Dialogue.mod
 #. -- Index: 2.1
@@ -365,7 +365,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52841-Dialogue.mod:1
 msgid "Wh- what are you doing? Why are you looking at me like that?!"
-msgstr ""
+msgstr "你做什麼的？你為什麼這樣看著我？！"
 
 #. Id: 52842-Dialogue.mod
 #. -- Index: 3.0
@@ -383,7 +383,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 53149-Dialogue.mod:0
 msgid "Is it so necessary to check your sister of pure blood?"
-msgstr ""
+msgstr "是否有必要檢查你的妹妹純血？"
 
 #. Id: 53149-Dialogue.mod
 #. -- Index: 1.1
@@ -392,7 +392,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 53149-Dialogue.mod:1
 msgid "But I'm a pure blood, surely there's no need to check me?"
-msgstr ""
+msgstr "但我是純血，當然沒有必要檢查我？"
 
 #. Id: 53150-Dialogue.mod
 #. -- Index: 2.0
@@ -401,7 +401,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 53150-Dialogue.mod:0
 msgid "It is your 'impure' blood of the demoness that makes you all the more in need of checking. Now, do not question me again, surrender for checks."
-msgstr ""
+msgstr "這是你的'不純'的血液，讓你更需要檢查。現在，不要再問我一次，投降支票。"
 
 #. Id: 53150-Dialogue.mod
 #. -- Index: 2.1
@@ -410,7 +410,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 53150-Dialogue.mod:1
 msgid "It is your very blood that gives me all the more reason to check you, tainted sister. Pure it is not... No more questions, show me your belongings."
-msgstr ""
+msgstr "這是你的血液讓我更有理由去檢查你，被污染的妹妹。純粹不是......沒有其他問題，請告訴我你的隨身物品。"
 
 #. Id: 53150-Dialogue.mod
 #. -- Index: 2.2
@@ -419,7 +419,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 53150-Dialogue.mod:2
 msgid "Pure? Your blood is many things, tainted woman, but pure is not one of them. Now, enough with your devil tongue... your belongings."
-msgstr ""
+msgstr "純？你的血是很多東西，被污染的女人，但純潔不是其中之一。現在，用你的魔鬼舌頭......你的財物就夠了。"
 
 #. Id: 52728-Dialogue.mod
 #. -- Index: 0.0
@@ -459,7 +459,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52730-Dialogue.mod:1
 msgid "The holy cities will not tolerate passage of forbidden literatures of Narko, or the passage of harmful stimulants... Any items that might corrupt our society."
-msgstr ""
+msgstr "聖城不會容忍Narko禁止的文獻，或有害興奮劑的通過......任何可能破壞我們社會的物品。"
 
 #. Id: 52730-Dialogue.mod
 #. -- Index: 2.2
@@ -477,7 +477,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52730-Dialogue.mod:3
 msgid "The holy cities will not tolerate passage of forbidden literatures, harmful substances... Any items of heresy, of the demoness' influence."
-msgstr ""
+msgstr "聖城不會容忍禁止的文學作品，有害物質的通過......任何異端邪說，對女神的影響。"
 
 #. Id: 52857-Dialogue.mod
 #. -- Index: 3.0
@@ -486,7 +486,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52857-Dialogue.mod:0
 msgid "Well, screw Narko, your city's gonna need protecting from ME! (Draw sword)"
-msgstr ""
+msgstr "好吧，擰Narko，你的城市需要保護我！ （畫劍）"
 
 #. Id: 52705-Dialogue.mod
 #. -- Index: 2.0
@@ -506,7 +506,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52706-Dialogue.mod:0
 msgid "Such heinousness! Why do you have this book?! You try to harm Okran's children with books of the demoness?!"
-msgstr ""
+msgstr "這種令人髮指的！你為什麼有這本書？！你試圖用惡魔的書來傷害奧克蘭的孩子？！"
 
 #. Id: 52709-Dialogue.mod
 #. -- Index: 4.0
@@ -515,7 +515,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52709-Dialogue.mod:0
 msgid "Hush now, you are mistaken, my brother (Bribe 2000 Cats)"
-msgstr ""
+msgstr "噓，現在，你錯了，我的兄弟（Bribe 2000 Cats）"
 
 #. Id: 52709-Dialogue.mod
 #. -- Index: 4.1
@@ -524,7 +524,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52709-Dialogue.mod:1
 msgid "Please, brother. I believe that you're mistaken (Bribe 2000 Cats)"
-msgstr ""
+msgstr "拜託，兄弟。我相信你錯了（Bribe 2000 Cats）"
 
 #. Id: 52712-Dialogue.mod
 #. -- Index: 5.0
@@ -533,7 +533,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52712-Dialogue.mod:0
 msgid "As if your blasphemy wasn't depraved enough, now you try to tempt me into the darkness along with you!"
-msgstr ""
+msgstr "好像你的褻瀆行為不夠墮落，現在你試著誘惑我和你一起進入黑暗中！"
 
 #. Id: 52716-Dialogue.mod
 #. -- Index: 6.0
@@ -551,7 +551,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52708-Dialogue.mod:0
 msgid "How did that get there?! Narko planted it there!"
-msgstr ""
+msgstr "那是怎麼到達的？！納科在那裡種植了它！"
 
 #. Id: 52747-Dialogue.mod
 #. -- Index: 5.0
@@ -569,7 +569,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52710-Dialogue.mod:0
 msgid "What do you mean? What's wrong with it?"
-msgstr ""
+msgstr "你什麼意思？它出什麼問題了？"
 
 #. Id: 52710-Dialogue.mod
 #. -- Index: 4.1
@@ -578,7 +578,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52710-Dialogue.mod:1
 msgid "It's just a book I was given, what's the problem?"
-msgstr ""
+msgstr "這只是我給的一本書，問題是什麼？"
 
 #. Id: 52713-Dialogue.mod
 #. -- Index: 5.0
@@ -587,7 +587,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52713-Dialogue.mod:0
 msgid "This book is written against the word of Okran! How could you not know this? That you would try to smuggle this into our holy nation is unforgiveable, you'll pay for your blasphemy, heretic!"
-msgstr ""
+msgstr "這本書是針對奧克蘭的話寫的！你怎麼不知道這個？如果你試圖將它走私到我們的聖潔國度是不可原諒的，你將為你的褻瀆神靈付出代價！"
 
 #. Id: 52714-Dialogue.mod
 #. -- Index: 6.0
@@ -610,7 +610,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52749-Dialogue.mod:0
 msgid "This book is written against the word of Okran! How could you not know this?... To see a lost pure-blood is tragic, but I see you have the Holy Flame..."
-msgstr ""
+msgstr "這本書是針對奧克蘭的話寫的！你怎麼能不知道這個？...看到失去的純血是悲慘的，但我看到你有聖火......"
 
 #. Id: 52751-Dialogue.mod
 #. -- Index: 6.0
@@ -619,7 +619,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52751-Dialogue.mod:0
 msgid "I won't give up on you yet, you're not a completely lost cause. I will destroy the book and we will not speak of it again. Go to the church, pray, repent and break away your ignorance..."
-msgstr ""
+msgstr "我不會放棄你，你不是一個完全失敗的原因。我會破壞這本書，我們不會再說了。去教堂，祈禱，懺悔，打破你的無知......"
 
 #. Id: 52750-Dialogue.mod
 #. -- Index: 5.0
@@ -629,7 +629,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Shek
 #: 52750-Dialogue.mod:0
 msgid "This book is written against the word of Okran! Obviously you are influenced by the dark company that you keep, the dark ones are the most skilled of decievers. That you would try to smuggle this into our holy nation is unforgiveable, you'll pay for your blasphemy, heretic!"
-msgstr ""
+msgstr "這本書是針對奧克蘭的話寫的！顯然，你受到了你所保留的黑暗公司的影響，黑暗的公司是最熟練的經紀人。如果你試圖將它走私到我們的聖潔國度是不可原諒的，你將為你的褻瀆神靈付出代價！"
 
 #. Id: 52711-Dialogue.mod
 #. -- Index: 4.0
@@ -639,7 +639,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52711-Dialogue.mod:0
 msgid "I intended to report it to the priest..."
-msgstr ""
+msgstr "我打算向牧師報告......"
 
 #. Id: 52736-Dialogue.mod
 #. -- Index: 5.0
@@ -657,7 +657,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52737-Dialogue.mod:0
 msgid "But I practise compassion as the Lord Of Light has taught me. You possess the Holy Flame, I believe in your innocence. I will destroy the book and we will not speak of it again. Next time, I will not be so forgiving."
-msgstr ""
+msgstr "但是，當光之王教導我時，我實踐同情。你擁有聖火，我相信你的清白。我會破壞這本書，我們不會再說了。下一次，我不會那麼原諒。"
 
 #. Id: 52741-Dialogue.mod
 #. -- Index: 7.0
@@ -666,7 +666,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52741-Dialogue.mod:0
 msgid "Thank you, brother."
-msgstr ""
+msgstr "謝謝兄弟。"
 
 #. Id: 52743-Dialogue.mod
 #. -- Index: 8.0
@@ -675,7 +675,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52743-Dialogue.mod:0
 msgid "To my brothers, I am merciful. Don't make the same mistake again."
-msgstr ""
+msgstr "對我的兄弟們來說，我很仁慈。不要再犯同樣的錯誤。"
 
 #. Id: 52738-Dialogue.mod
 #. -- Index: 6.0
@@ -713,7 +713,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52735-Dialogue.mod:0
 msgid "The word of Okran is bull! This book holds the truth!"
-msgstr ""
+msgstr "奧克蘭的話是公牛！這本書掌握了真相！"
 
 #. Id: 52746-Dialogue.mod
 #. -- Index: 5.0
@@ -742,7 +742,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52707-Dialogue.mod:0
 msgid "What is this?... You try to smuggle such wicked, such destructive goods into the nation?!"
-msgstr ""
+msgstr "這是什麼？......你試圖將這種邪惡的，如此具有破壞性的物品走私到這個國家？！"
 
 #. Id: 52707-Dialogue.mod
 #. -- Index: 3.1
@@ -766,7 +766,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52721-Dialogue.mod:0 52794-Dialogue.mod:0
 msgid "Okran have mercy, I have an addiction!"
-msgstr ""
+msgstr "奧克蘭有憐憫，我有一個上癮！"
 
 #. Id: 52755-Dialogue.mod
 #. -- Index: 5.0
@@ -775,7 +775,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52755-Dialogue.mod:0
 msgid "*Sigh*... You are my holy brother, both in spirit and blood. Have faith in Okran, do not resort to this wickedness to survive... Go, brother.  This time you are forgiven, in the spirit of the merciful Lord Of Light."
-msgstr ""
+msgstr "*嘆氣...... ......你是我的聖潔兄弟，無論是精神還是血液。對奧克蘭有信心，不要訴諸於這種邪惡的生存......去吧，兄弟。這一次，你是在仁慈的光之主的精神下被寬恕的。"
 
 #. Id: 52756-Dialogue.mod
 #. -- Index: 6.0
@@ -784,7 +784,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52756-Dialogue.mod:0
 msgid "Have faith, pray, repent. Do not let me see you sin again."
-msgstr ""
+msgstr "有信心，祈禱，悔改。不要讓我再次看到你的罪。"
 
 #. Id: 52758-Dialogue.mod
 #. -- Index: 5.0
@@ -794,7 +794,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Shek
 #: 52758-Dialogue.mod:0
 msgid "What do you expect when you keep such beasts in your company? Addiction or not, possessing stimulants is a crime in the holy lands. Perhaps time spent reflecting in prison away from such dark influences will help improve your devotion to the Holy Flame."
-msgstr ""
+msgstr "當你在公司飼養這種野獸時，你有什麼期望？成癮與否，擁有興奮劑是聖地的罪行。也許在監獄中反映這種黑暗影響的時間將有助於提高你對聖火的奉獻精神。"
 
 #. Id: 52759-Dialogue.mod
 #. -- Index: 5.0
@@ -803,7 +803,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52759-Dialogue.mod:0
 msgid "*Sigh*... It pains me to see my pure-blood brother like this. Time spent reflecting on the Holy Lord Phoenix Himself's word, blessed be his name, in prison is the only cure for a lost being. It's for your own good, my brother."
-msgstr ""
+msgstr "*嘆氣......我很難看到這樣的純血兄弟。花時間反思聖靈鳳凰自己的話，祝福他的名字，在監獄中是唯一能治愈失喪的人。這是為了你自己的利益，我的兄弟。"
 
 #. Id: 52722-Dialogue.mod
 #. -- Index: 4.0
@@ -817,7 +817,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52722-Dialogue.mod:0 52795-Dialogue.mod:0
 msgid "Forgive me, brother, I needed to buy food. So... hungry..."
-msgstr ""
+msgstr "原諒我，兄弟，我需要買食物。所以......飢餓......"
 
 #. Id: 52760-Dialogue.mod
 #. -- Index: 5.0
@@ -826,7 +826,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52760-Dialogue.mod:0
 msgid "*Sigh*... Okran would not let his faithful children go hungry. Have you drifted from the righteous path?"
-msgstr ""
+msgstr "*嘆氣* ......奧克蘭不會讓他忠實的孩子們感到飢餓。你是否偏離了正義的道路？"
 
 #. Id: 52761-Dialogue.mod
 #. -- Index: 6.0
@@ -835,7 +835,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52761-Dialogue.mod:0
 msgid "(Pull out the Holy Flame) My faith in Okran will never waver."
-msgstr ""
+msgstr "（拉出聖火）我對奧克蘭的信仰永遠不會動搖。"
 
 #. Id: 52766-Dialogue.mod
 #. -- Index: 7.0
@@ -844,7 +844,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52766-Dialogue.mod:0
 msgid "I see desperation in your crime, but I believe you can come back from this. To my brothers, I am merciful. Just this once, I will turn a blind eye. One chance."
-msgstr ""
+msgstr "我看到你的罪行絕望，但我相信你可以從這裡回來。對我的兄弟們來說，我很仁慈。就這一次，我會視而不見。一次機會。"
 
 #. Id: 52765-Dialogue.mod
 #. -- Index: 8.0
@@ -853,7 +853,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52765-Dialogue.mod:0
 msgid "Charity will find it's way to you, brother. Have faith, and stick to the holy path."
-msgstr ""
+msgstr "兄弟，慈善會找到你的方式。有信心，堅持神聖的道路。"
 
 #. Id: 52763-Dialogue.mod
 #. -- Index: 5.0
@@ -862,7 +862,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52763-Dialogue.mod:0
 msgid "So you would harm your brothers and sisters for the sake of filling your own belly? The Holy Lord Phoenix Himself, blessed be his name, does not teach such selfishness! Your crime will not be forgiven, whatever your reasons."
-msgstr ""
+msgstr "那麼你為了填飽肚子會傷害你的兄弟姐妹嗎？聖靈鳳凰本人，祝福他的名字，不教這種自私！無論你的理由如何，你的罪行都不會被寬恕。"
 
 #. Id: 52767-Dialogue.mod
 #. -- Index: 5.0
@@ -881,7 +881,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52754-Dialogue.mod:0
 msgid "So I smuggled. And what of it?"
-msgstr ""
+msgstr "所以我走私了。什麼呢？"
 
 #. Id: 52769-Dialogue.mod
 #. -- Index: 5.0
@@ -890,7 +890,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52769-Dialogue.mod:0
 msgid "You'll pay for your sins, heretic! I only hope that time spent in prison will help cure your wicked ways..."
-msgstr ""
+msgstr "你會付出你的罪孽，異教徒！我只希望在監獄度過的時間能幫助治愈你邪惡的方式......"
 
 #. Id: 52720-Dialogue.mod
 #. -- Index: 3.0
@@ -899,7 +899,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52720-Dialogue.mod:0
 msgid "Everything is in order. You may pass."
-msgstr ""
+msgstr "一切都秩序井然。你可以通過。"
 
 #. Id: 52776-Dialogue.mod
 #. -- Index: 2.0
@@ -908,7 +908,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52776-Dialogue.mod:0
 msgid "Let's see what you've got here..."
-msgstr ""
+msgstr "讓我們看看你在這裡有什麼......"
 
 #. Id: 52780-Dialogue.mod
 #. -- Index: 3.0
@@ -918,7 +918,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52780-Dialogue.mod:0
 msgid "What is this blasphemy?! Forbidden literature! The dark one endangers us all with such writings of evil! What is your final plea, heretic? May the high priest have mercy on your being."
-msgstr ""
+msgstr "這是什麼褻瀆？！禁止的文學！黑暗的一個人用這樣的邪惡著作危及我們所有人！你最後的請求是什麼，異教徒？願大祭司憐憫你的存在。"
 
 #. Id: 52781-Dialogue.mod
 #. -- Index: 4.0
@@ -927,7 +927,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52781-Dialogue.mod:0
 msgid "I was to report it to the high priest, I'm innocent."
-msgstr ""
+msgstr "我要向大祭司報告，我是無辜的。"
 
 #. Id: 52789-Dialogue.mod
 #. -- Index: 5.0
@@ -936,7 +936,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52789-Dialogue.mod:0
 msgid "All forbidden literature against the teachings of the Holy Lord Phoenix Himself, blessed be his name, is to be destroyed upon finding. To carry such a thing on your body is blasphemy. No excuses."
-msgstr ""
+msgstr "所有禁止的文學都反對聖主鳳凰本人的教導，祝福是他的名字，將在被發現時被摧毀。把這樣的東西帶到你身上就是褻瀆神靈。沒有理由。"
 
 #. Id: 52785-Dialogue.mod
 #. -- Index: 4.0
@@ -945,7 +945,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52785-Dialogue.mod:0
 msgid "Okran have mercy on my soul... (Pull out the Holy Flame)"
-msgstr ""
+msgstr "奧克蘭憐憫我的靈魂......（拔出聖火）"
 
 #. Id: 52790-Dialogue.mod
 #. -- Index: 5.0
@@ -977,7 +977,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52786-Dialogue.mod:0
 msgid "Forgive me Okran, I have sinned!"
-msgstr ""
+msgstr "原諒我奧克蘭，我犯了罪！"
 
 #. Id: 52787-Dialogue.mod
 #. -- Index: 4.0
@@ -986,7 +986,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52787-Dialogue.mod:0
 msgid "I plea baloney! The word of Okran is bull!"
-msgstr ""
+msgstr "我請求胡扯！奧克蘭的話是公牛！"
 
 #. Id: 52782-Dialogue.mod
 #. -- Index: 3.0
@@ -996,7 +996,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52782-Dialogue.mod:0
 msgid "Narcotics! Stimulants are forbidden in this nation. This is a sacred nation of pure minds, those who put the children of Okran at risk must be punished. Will you make your final plea to the Lord Of Light for a merciful sentence?"
-msgstr ""
+msgstr "毒品！在這個國家禁止興奮劑。這是一個純潔思想的神聖國度，那些把奧克蘭的孩子置於危險境地的人必須受到懲罰。你是否會因為仁慈的判決而向光明之王提出最後的請求？"
 
 #. Id: 52796-Dialogue.mod
 #. -- Index: 5.0
@@ -1024,7 +1024,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52812-Dialogue.mod:0
 msgid "All looks clean. You may pass."
-msgstr ""
+msgstr "一切看起來乾淨。你可以通過。"
 
 #. Id: 52813-Dialogue.mod
 #. -- Index: 3.0
@@ -1082,7 +1082,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Shek
 #: 52810-Dialogue.mod:0 52818-Dialogue.mod:0
 msgid "Good, let's see..."
-msgstr ""
+msgstr "好，讓我們看看..."
 
 #. Id: 52731-Dialogue.mod
 #. -- Index: 1.0
@@ -1091,7 +1091,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52731-Dialogue.mod:0
 msgid "Is it so necessary to check your brother of pure blood?"
-msgstr ""
+msgstr "是否有必要檢查你的兄弟純血？"
 
 #. Id: 52734-Dialogue.mod
 #. -- Index: 2.0
@@ -1131,7 +1131,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 52773-Dialogue.mod:0
 msgid "...This is for the good of the nation. Please."
-msgstr ""
+msgstr "......這是為了國家的利益。請。"
 
 #. Id: 52773-Dialogue.mod
 #. -- Index: 2.1
@@ -1141,7 +1141,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 52773-Dialogue.mod:1
 msgid "... I must carry out my duty. For Okran."
-msgstr ""
+msgstr "......我必須履行自己的職責。對於奧克蘭。"
 
 #. Id: 52799-Dialogue.mod
 #. -- Index: 3.0
@@ -1150,7 +1150,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52799-Dialogue.mod:0
 msgid "Trust in Okran. (Pull out Holy Flame)"
-msgstr ""
+msgstr "信任奧克蘭。 （拔出聖火）"
 
 #. Id: 52799-Dialogue.mod
 #. -- Index: 3.1
@@ -1159,7 +1159,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52799-Dialogue.mod:1
 msgid "Okran knows. (Pull out Holy Flame)"
-msgstr ""
+msgstr "奧克蘭知道。 （拔出聖火）"
 
 #. Id: 52801-Dialogue.mod
 #. -- Index: 4.0
@@ -1168,7 +1168,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52801-Dialogue.mod:0
 msgid "... Of course, brother. You party looks clean, and you carry the Holy Flame. I will not burden you with checks..."
-msgstr ""
+msgstr "......當然，兄弟。你們聚會看起來很乾淨，你帶著聖火。我不會給你帶來支票......"
 
 #. Id: 52803-Dialogue.mod
 #. -- Index: 4.0
@@ -1187,7 +1187,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52804-Dialogue.mod:0
 msgid "Call my companion 'beast' one more time, Okranite scum."
-msgstr ""
+msgstr "再一次打電話給我的同伴'野獸'，Okranite敗類。"
 
 #. Id: 52805-Dialogue.mod
 #. -- Index: 6.0
@@ -1205,7 +1205,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52800-Dialogue.mod:0
 msgid "Touch my stuff and I'll gut you."
-msgstr ""
+msgstr "觸摸我的東西，我會把你弄死。"
 
 #. Id: 52800-Dialogue.mod
 #. -- Index: 3.1
@@ -1214,7 +1214,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52800-Dialogue.mod:1
 msgid "Touch my gear and I'll cut you."
-msgstr ""
+msgstr "觸摸我的裝備，我會切斷你。"
 
 #. Id: 52800-Dialogue.mod
 #. -- Index: 3.2
@@ -1223,7 +1223,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52800-Dialogue.mod:2
 msgid "Touch my stuff and you die."
-msgstr ""
+msgstr "觸摸我的東西，你死了。"
 
 #. Id: 52800-Dialogue.mod
 #. -- Index: 3.3
@@ -1232,7 +1232,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52800-Dialogue.mod:3
 msgid "Keep asking. See what happens. (Hold weapon)"
-msgstr ""
+msgstr "繼續問。走著瞧吧。 （持有武器）"
 
 #. Id: 52774-Dialogue.mod
 #. -- Index: 2.0
@@ -1241,7 +1241,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52774-Dialogue.mod:0
 msgid "Evil manifests itself in all forms. To rely and be fooled by the senses over Okran's judgement is the most ignorant of blunders. Submit yourself, only then can you prove your innocence in the eyes of the Lord Of Light."
-msgstr ""
+msgstr "邪惡以各種形式表現出來。依靠奧克蘭的判斷依賴並被愚弄，這是最無知的錯誤。提交自己，只有這樣你才能在光之主的眼中證明自己的清白。"
 
 #. Id: 52806-Dialogue.mod
 #. -- Index: 2.0
@@ -1251,7 +1251,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 52806-Dialogue.mod:0
 msgid "The High Paladin has ordered stricter checks recently, holy brother. Please, adhere, lest I suffer Okran's wrath for negligence..."
-msgstr ""
+msgstr "最近聖騎士已經下令更嚴格的檢查，聖兄弟。請堅持，以免因疏忽而遭受奧克蘭的憤怒......"
 
 #. Id: 52806-Dialogue.mod
 #. -- Index: 2.1
@@ -1261,7 +1261,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 52806-Dialogue.mod:1
 msgid "I cannot make any exceptions, holy brother. This is the High Paladin's orders, it is for the good of Okran."
-msgstr ""
+msgstr "聖兄弟，我不能做任何例外。這是高聖騎士的命令，它是為了奧克蘭的利益。"
 
 #. Id: 52732-Dialogue.mod
 #. -- Index: 1.0
@@ -1279,7 +1279,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52732-Dialogue.mod:1
 msgid "Think again. Touch my stuff and you die."
-msgstr ""
+msgstr "再想想。觸摸我的東西，你死了。"
 
 #. Id: 52732-Dialogue.mod
 #. -- Index: 1.2
@@ -1288,7 +1288,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52732-Dialogue.mod:2
 msgid "You ain't laying a finger on my gear. (Hold your weapon)"
-msgstr ""
+msgstr "你沒有把手指放在我的裝備上。 （拿著你的武器）"
 
 #. Id: 52732-Dialogue.mod
 #. -- Index: 1.3
@@ -1297,7 +1297,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52732-Dialogue.mod:3
 msgid "Touch my stuff and you'll die regretting it."
-msgstr ""
+msgstr "觸摸我的東西，你會後悔的。"
 
 #. Id: 52878-Dialogue.mod
 #. -- Index: 2.0
@@ -1306,7 +1306,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52878-Dialogue.mod:0
 msgid "Tongue of a devil! Refusal to co-operate AND threatening a holy sentinel!"
-msgstr ""
+msgstr "魔鬼的舌頭！拒絕合作並威脅聖潔的哨兵！"
 
 #. Id: 52879-Dialogue.mod
 #. -- Index: 2.0
@@ -1315,7 +1315,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52879-Dialogue.mod:0
 msgid "A truly faithful man cannot be tempted into the darkness by mere Cats! Your attempt at bribery won't be forgiven."
-msgstr ""
+msgstr "一個真正忠誠的人不能僅靠貓來誘惑黑暗！您的賄賂行為不會被原諒。"
 
 #. Id: 52879-Dialogue.mod
 #. -- Index: 2.1
@@ -1324,7 +1324,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 52879-Dialogue.mod:1
 msgid "A man of true faith cannot be tempted into the darkness by worldy riches! Bribery is an unforgiveable sin that must be punished."
-msgstr ""
+msgstr "一個真正信仰的人不能被世俗的財富誘惑到黑暗中！賄賂是一種不可饒恕的罪，必須受到懲罰。"
 
 #. Id: 52770-Dialogue.mod
 #. -- Index: 0.0
@@ -1334,7 +1334,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
 #: 52770-Dialogue.mod:0
 msgid "In order to uphold the purity and sanctity of our holy nation, you must submit yourself for inquest, brother. The holy cities will not tolerate the passage of items of heresy."
-msgstr ""
+msgstr "為了維護我們聖潔國度的純潔和神聖，你必須自己接受調查，兄弟。聖城不會容忍異端邪說的通過。"
 
 #. Id: 52770-Dialogue.mod
 #. -- Index: 0.1
@@ -1377,4 +1377,3 @@ msgstr ""
 #: 52797-Dialogue.mod:1
 msgid "/HOLYGREET/. Darkness must be repelled from our /SACRED/ gates, any items of blasphemy must be destroyed. Allow me to to check your possessions, holy brother, for the good of all things pure."
 msgstr ""
-

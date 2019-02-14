@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Bought shek from slavery
 #: 54855-Dialogue.mod:0
 msgid "You may have paid my price tag, but I won't be broken."
-msgstr ""
+msgstr "你可能已付我的價格標籤，但我不會被打破。"
 
 #. Id: 54855-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Bought shek from slavery
 #: 54855-Dialogue.mod:1
 msgid "Try all you want to make me your servant. A Shek can't be broken."
-msgstr ""
+msgstr "嘗試所有你想讓我成為你的僕人。石不能破。"
 
 #. Id: 54855-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Bought shek from slavery
 #: 54855-Dialogue.mod:2
 msgid "A Shek cannot be bought. I'll die before I bend to any man."
-msgstr ""
+msgstr "石豬不能買。在我屈服於任何男人之前我會死的。"
 
 #. Id: 55388-Dialogue.mod
 #. -- Index: 0.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 55388-Dialogue.mod:0
 msgid "I'll die before I join my captor!"
-msgstr ""
+msgstr "在加入我的俘虜之前我會死的！"
 
 #. Id: 55388-Dialogue.mod
 #. -- Index: 0.2
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 55388-Dialogue.mod:2
 msgid "I will never forgive the one who enslaved me"
-msgstr ""
+msgstr "我永遠不會原諒那個奴役我的人"
 
 #. Id: 55388-Dialogue.mod
 #. -- Index: 0.3
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 55388-Dialogue.mod:3
 msgid "I won't be broken by the one who sold me, so cut me down"
-msgstr ""
+msgstr "我不會被賣掉我的那個人打破，所以讓我失望"
 
 #. Id: 55388-Dialogue.mod
 #. -- Index: 0.4
@@ -76,5 +76,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 55388-Dialogue.mod:4
 msgid "By honor of Kral, I will not bow before the mutt that put me here"
-msgstr ""
-
+msgstr "為了紀念克拉爾，我不會在把我放在這裡的笨蛋前鞠躬"

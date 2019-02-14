@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Priest interrupted by other
 #: 40700-Dialogue.mod:0
 msgid "Ahhh!"
-msgstr ""
+msgstr "唉唉！"
 
 #. Id: 40700-Dialogue.mod
 #. -- Index: 0.2
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Priest interrupted by other
 #: 40700-Dialogue.mod:2
 msgid "Gragh!"
-msgstr ""
+msgstr "圖冊！"
 
 #. Id: 40700-Dialogue.mod
 #. -- Index: 0.3
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Priest interrupted by other
 #: 40700-Dialogue.mod:3
 msgid "Gggh!"
-msgstr ""
+msgstr "Gggh！"
 
 #. Id: 40700-Dialogue.mod
 #. -- Index: 0.4
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Priest interrupted by other
 #: 40700-Dialogue.mod:4
 msgid "Rrrk!"
-msgstr ""
+msgstr "Rrrk！"
 
 #. Id: 40701-Dialogue.mod
 #. -- Index: 1.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 40701-Dialogue.mod:0
 msgid "The darkened are upon me! Help, paladins!"
-msgstr ""
+msgstr "黑暗在我身上！救命，聖騎士！"
 
 #. Id: 40701-Dialogue.mod
 #. -- Index: 1.1
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 40701-Dialogue.mod:1
 msgid "Help! I'm under attack! Unholy ones!"
-msgstr ""
+msgstr "救命！我受到了攻擊！不聖潔的人！"
 
 #. Id: 40701-Dialogue.mod
 #. -- Index: 1.2
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 40701-Dialogue.mod:2
 msgid "Okran protect me! Help, paladins!"
-msgstr ""
+msgstr "奧克蘭保護我！救命，聖騎士！"
 
 #. Id: 40702-Dialogue.mod
 #. -- Index: 1.0
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Group title: Priest interrupted by other
 #: 43784-Dialogue.mod:0
 msgid "Help! Okran save me!"
-msgstr ""
+msgstr "救命！奧克蘭救了我！"
 
 #. Id: 43784-Dialogue.mod
 #. -- Index: 1.1
@@ -148,5 +148,4 @@ msgstr ""
 #. -- Group title: Priest interrupted
 #: 43784-Dialogue.mod:1 41022-Dialogue.mod:0 41114-Dialogue.mod:3 43766-Dialogue.mod:0
 msgid "Okran protect me!"
-msgstr ""
-
+msgstr "奧克蘭保護我！"

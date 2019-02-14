@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 15667-Dialogue.mod:0
 msgid "You'll pay for what you've done!"
-msgstr ""
+msgstr "你將為你所做的付出代價！"
 
 #. Id: 15667-Dialogue.mod
 #. -- Index: 0.1
@@ -34,7 +34,7 @@ msgstr ""
 #. -- Group title: Law spotting a generic crime
 #: 15667-Dialogue.mod:1 13649-Escapes.mod:3
 msgid "You'll be punished for this!"
-msgstr ""
+msgstr "你會受到懲罰！"
 
 #. Id: 15667-Dialogue.mod
 #. -- Index: 0.2
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 15667-Dialogue.mod:2 64680-Dialogue.mod:0 12803-Dialogue?(11)?(2).mod:4 44620-Dialogue.mod:0 13649-Escapes.mod:1 15630-Dialogue.mod:2 14209-Dialogue?(4).mod:2
 msgid "You won't get away with this!"
-msgstr ""
+msgstr "你不會僥倖逃脫！"
 
 #. Id: 15669-Dialogue.mod
 #. -- Index: 1.0
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Group title: Military freed by captor
 #: 15669-Dialogue.mod:0
 msgid "Mark my words!"
-msgstr ""
+msgstr "記住我的話！"
 
 #. Id: 15671-Dialogue.mod
 #. -- Index: 0.1
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Group title: assassination failed
 #: 15671-Dialogue.mod:1 47697-Dialogue.mod:1
 msgid "You'll die for this!"
-msgstr ""
+msgstr "你會死的！"
 
 #. Id: 15671-Dialogue.mod
 #. -- Index: 0.2
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 15671-Dialogue.mod:2
 msgid "You'll bleed for this!"
-msgstr ""
+msgstr "你會為此流血！"
 
 #. Id: 15671-Dialogue.mod
 #. -- Index: 0.3
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 15671-Dialogue.mod:3
 msgid "I'll make you bleed!"
-msgstr ""
+msgstr "我會讓你流血！"
 
 #. Id: 15671-Dialogue.mod
 #. -- Index: 0.4
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 15671-Dialogue.mod:4
 msgid "You're going to die!"
-msgstr ""
+msgstr "你快死了！"
 
 #. Id: 45936-Dialogue.mod
 #. -- Index: 0.2
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45936-Dialogue.mod:2
 msgid "Now's my chance!"
-msgstr ""
+msgstr "現在是我的機會！"
 
 #. Id: 45936-Dialogue.mod
 #. -- Index: 0.3
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Cannibals
 #: 45936-Dialogue.mod:3 17969-Dialogue.mod:3
 msgid "I need to get out of here!"
-msgstr ""
+msgstr "我需要離開這裡！"
 
 #. Id: 45936-Dialogue.mod
 #. -- Index: 0.4
@@ -177,5 +177,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 45936-Dialogue.mod:4 15629-Dialogue.mod:3
 msgid "Let me go!"
-msgstr ""
-
+msgstr "讓我走！"

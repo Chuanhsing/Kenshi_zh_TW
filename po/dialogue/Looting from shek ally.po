@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Looting from shek ally
 #: 17644-Dialogue.mod:0
 msgid "You really are a fool"
-msgstr ""
+msgstr "你真的是個傻瓜"
 
 #. Id: 17644-Dialogue.mod
 #. -- Index: 0.2
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Group title: Looting from shek ally
 #: 17644-Dialogue.mod:6
 msgid "Raise your sword, looter"
-msgstr ""
+msgstr "舉起你的劍，掠奪者"
 
 #. Id: 17645-Dialogue.mod
 #. -- Index: 0.0
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17645-Dialogue.mod:0
 msgid "Stop that"
-msgstr ""
+msgstr "不要那麼做"
 
 #. Id: 17645-Dialogue.mod
 #. -- Index: 0.1
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17645-Dialogue.mod:1
 msgid "Don't do that"
-msgstr ""
+msgstr "不要那樣做"
 
 #. Id: 17645-Dialogue.mod
 #. -- Index: 0.3
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17645-Dialogue.mod:3
 msgid "You shouldn't have touched that"
-msgstr ""
+msgstr "你不應該觸及那個"
 
 #. Id: 17645-Dialogue.mod
 #. -- Index: 0.4
@@ -105,5 +105,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 17645-Dialogue.mod:4 15022-Dialogue.mod:0
 msgid "Thief..."
-msgstr ""
-
+msgstr "賊..."

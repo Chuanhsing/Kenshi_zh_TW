@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 5422-Escapes.mod:0
 msgid "Can you see them?"
-msgstr ""
+msgstr "你看得到他們嗎？"
 
 #. Id: 5423-Escapes.mod
 #. -- Index: 1.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Cannibal neighbour safe pt6
 #: 5423-Escapes.mod:0
 msgid "We made it?"
-msgstr ""
+msgstr "我們成功了嗎？"
 
 #. Id: 17074-Dialogue.mod
 #. -- Index: 0.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 17074-Dialogue.mod:0
 msgid "Hey, wait up..."
-msgstr ""
+msgstr "嘿，等等......"
 
 #. Id: 17074-Dialogue.mod
 #. -- Index: 0.1
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 17074-Dialogue.mod:1
 msgid "Hold up a sec..."
-msgstr ""
+msgstr "等一下......"
 
 #. Id: 17074-Dialogue.mod
 #. -- Index: 0.2
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 17074-Dialogue.mod:2
 msgid "Wait for me..."
-msgstr ""
+msgstr "等等我..."
 
 #. Id: 17074-Dialogue.mod
 #. -- Index: 0.3
@@ -68,7 +68,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 17074-Dialogue.mod:3
 msgid "Wait up..."
-msgstr ""
+msgstr "等等......"
 
 #. Id: 62670-Dialogue.mod
 #. -- Index: 0.0
@@ -100,5 +100,4 @@ msgstr ""
 #. -- Group title: event skeleton escaped
 #: 62671-Dialogue.mod:0 46141-Dialogue.mod:3
 msgid "Stay safe."
-msgstr ""
-
+msgstr "注意安全。"

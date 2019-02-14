@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Skeleton for hire 700
 #: 47632-Dialogue.mod:0
 msgid "Here for recruits? I'm available for hire. 3000 Cats."
-msgstr ""
+msgstr "招聘人員？我可以租用。 3000隻貓。"
 
 #. Id: 47632-Dialogue.mod
 #. -- Index: 0.1
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Skeleton for hire 700
 #: 47632-Dialogue.mod:4
 msgid "Are you recruiting? If so, I'm available for 3000 Cats."
-msgstr ""
+msgstr "你在招聘嗎？如果是這樣，我可以買3000貓。"
 
 #. Id: 47633-Dialogue.mod
 #. -- Index: 1.1
@@ -74,5 +74,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 47635-Dialogue.mod:0
 msgid "I don't have that much money."
-msgstr ""
-
+msgstr "我沒有那麼多錢。"

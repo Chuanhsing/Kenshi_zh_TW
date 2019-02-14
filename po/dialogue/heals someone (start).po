@@ -25,7 +25,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:0 15839-Dialogue.mod:1
 msgid "Don't worry. I can remedy this."
-msgstr ""
+msgstr "別擔心。我可以解決這個問題。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.1
@@ -41,7 +41,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:1 15839-Dialogue.mod:2
 msgid "Should I mend that for you?"
-msgstr ""
+msgstr "我應該為你修補嗎？"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.2
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:2 15839-Dialogue.mod:3
 msgid "Trust me. I've healed worse wounds."
-msgstr ""
+msgstr "相信我。我已經治癒了更嚴重的傷口。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.3
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:3 15839-Dialogue.mod:4
 msgid "You're going to be fine."
-msgstr ""
+msgstr "你會沒事的。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.4
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:4 15839-Dialogue.mod:5
 msgid "Sorry if this stings."
-msgstr ""
+msgstr "對不起，如果這個叮咬。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.5
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:5 15839-Dialogue.mod:6
 msgid "Leave this to me."
-msgstr ""
+msgstr "留給我吧。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.6
@@ -121,7 +121,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:6 15839-Dialogue.mod:7
 msgid "This might hurt a little."
-msgstr ""
+msgstr "這可能會有點傷害。"
 
 #. Id: 3565-dialogue-01.mod
 #. -- Index: 0.7
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Group title: Civ healing start
 #: 3565-dialogue-01.mod:7 15839-Dialogue.mod:0
 msgid "Let's patch you up"
-msgstr ""
+msgstr "讓我們打補你"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.0
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:0 15840-Dialogue.mod:0
 msgid "Hold still."
-msgstr ""
+msgstr "靜止不動。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.1
@@ -169,7 +169,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:1 15840-Dialogue.mod:1
 msgid "Stop squirming."
-msgstr ""
+msgstr "停止蠕動。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.2
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:2 15840-Dialogue.mod:2
 msgid "Shut up for a minute."
-msgstr ""
+msgstr "閉嘴一會兒。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.3
@@ -201,7 +201,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:3 15840-Dialogue.mod:3
 msgid "This'll hurt."
-msgstr ""
+msgstr "這會傷害你。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.4
@@ -217,7 +217,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:4 15840-Dialogue.mod:4
 msgid "Don't scream in my ear while I fix you."
-msgstr ""
+msgstr "我修理你的時候不要在我耳邊尖叫。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.5
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:5 15840-Dialogue.mod:5 15840-Dialogue.mod:6
 msgid "Great. Here go my supplies."
-msgstr ""
+msgstr "大。這裡去我的用品。"
 
 #. Id: 3567-dialogue-01.mod
 #. -- Index: 0.6
@@ -255,7 +255,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3567-dialogue-01.mod:6 15840-Dialogue.mod:7
 msgid "Draining my kits, you know that?"
-msgstr ""
+msgstr "排出我的工具包，你知道嗎？"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.0
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:0 15841-Dialogue.mod:0
 msgid "I'll patch you up."
-msgstr ""
+msgstr "我會給你補丁。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.1
@@ -287,7 +287,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:1 15841-Dialogue.mod:1
 msgid "Clean. Pressure. Bandage."
-msgstr ""
+msgstr "清潔。壓力。繃帶。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.2
@@ -303,7 +303,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:2 15841-Dialogue.mod:2
 msgid "Bite down on the pain. Leave the wounds with me."
-msgstr ""
+msgstr "咬下痛苦。把傷口留給我。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.3
@@ -319,7 +319,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:3 15841-Dialogue.mod:3
 msgid "Sit tight while I tend to this."
-msgstr ""
+msgstr "坐下來，我傾向於這個。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.4
@@ -335,7 +335,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:4 15841-Dialogue.mod:4
 msgid "Let me take a look."
-msgstr ""
+msgstr "讓我看一看。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.5
@@ -351,7 +351,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:5 15841-Dialogue.mod:5
 msgid "Should be able to handle this."
-msgstr ""
+msgstr "應該能夠處理這個。"
 
 #. Id: 3569-dialogue-01.mod
 #. -- Index: 0.6
@@ -367,7 +367,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 3569-dialogue-01.mod:6 15841-Dialogue.mod:6
 msgid "I'll mend what I can."
-msgstr ""
+msgstr "我會修補我能做的。"
 
 #. Id: 50088-Dialogue.mod
 #. -- Index: 0.0
@@ -379,7 +379,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 50088-Dialogue.mod:0
 msgid "Okran lend me your healing light..."
-msgstr ""
+msgstr "奧克蘭把你的治療之光借給我了......"
 
 #. Id: 50088-Dialogue.mod
 #. -- Index: 0.1
@@ -391,7 +391,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 50088-Dialogue.mod:1
 msgid "Okran grant us your healing warmth..."
-msgstr ""
+msgstr "Okran給予我們你的治療溫暖......"
 
 #. Id: 50088-Dialogue.mod
 #. -- Index: 0.2
@@ -403,7 +403,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 50088-Dialogue.mod:2
 msgid "You'll live. Okran has a purpose for you yet."
-msgstr ""
+msgstr "你會活下去的Okran還有一個目的。"
 
 #. Id: 50088-Dialogue.mod
 #. -- Index: 0.3
@@ -415,5 +415,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 50088-Dialogue.mod:3
 msgid "Have faith in Okran and his light will heal all."
-msgstr ""
-
+msgstr "相信奧克蘭和他的光會治愈一切。"

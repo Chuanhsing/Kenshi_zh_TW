@@ -33,7 +33,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 40796-Dialogue.mod:0 50394-Dialogue.mod:0 13858-Escapes.mod:1
 msgid "Somebody do something!"
-msgstr ""
+msgstr "有人做點什麼！"
 
 #. Id: 40796-Dialogue.mod
 #. -- Index: 0.1
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 40796-Dialogue.mod:2
 msgid "Stop the violence!"
-msgstr ""
+msgstr "停止暴力！"
 
 #. Id: 40796-Dialogue.mod
 #. -- Index: 0.3
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 40796-Dialogue.mod:3
 msgid "Make the violence stop!"
-msgstr ""
+msgstr "讓暴力停止！"
 
 #. Id: 40796-Dialogue.mod
 #. -- Index: 0.4
@@ -77,7 +77,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 40796-Dialogue.mod:4
 msgid "Make it stop!"
-msgstr ""
+msgstr "讓它停下來！"
 
 #. Id: 40799-Dialogue.mod
 #. -- Index: 0.1
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 40799-Dialogue.mod:1
 msgid "Protect me Okran!"
-msgstr ""
+msgstr "保護我Okran！"
 
 #. Id: 40800-Dialogue.mod
 #. -- Index: 0.0
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 40800-Dialogue.mod:0
 msgid "Shameful!"
-msgstr ""
+msgstr "可恥！"
 
 #. Id: 40800-Dialogue.mod
 #. -- Index: 0.1
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 40800-Dialogue.mod:1
 msgid "Sinful!"
-msgstr ""
+msgstr "有罪的！"
 
 #. Id: 40800-Dialogue.mod
 #. -- Index: 0.2
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: Holy nation civilian witness assault
 #: 40805-Dialogue.mod:2
 msgid "Somebody stop them!"
-msgstr ""
+msgstr "有人阻止他們！"
 
 #. Id: 40805-Dialogue.mod
 #. -- Index: 0.3
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: Holy nation civilian witness assault
 #: 40805-Dialogue.mod:3
 msgid "Paladins, stop them!"
-msgstr ""
+msgstr "聖騎士，阻止他們！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.0
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43334-Dialogue.mod:0
 msgid "Skeletons!... SKELETONS!!!"
-msgstr ""
+msgstr "骷髏！... SKELETONS !!!"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.1
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43334-Dialogue.mod:1
 msgid "No! NOOOOOO! S-SKELETONS!!!"
-msgstr ""
+msgstr "沒有！ NOOOOOO！ S-SKELETONS！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.2
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 43334-Dialogue.mod:2 50101-Dialogue.mod:0
 msgid "Skeletons! We're all gonna die! "
-msgstr ""
+msgstr "骷髏！我們都會死！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.3
@@ -205,7 +205,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 43334-Dialogue.mod:3 50101-Dialogue.mod:1
 msgid "Skeletons! Oh, lord, skeletons!"
-msgstr ""
+msgstr "骷髏！哦，主，骷髏！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.4
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 43334-Dialogue.mod:4 50101-Dialogue.mod:2
 msgid "Oh god, the skeletons will kill us all! "
-msgstr ""
+msgstr "天啊，骷髏會殺了我們所有人！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.5
@@ -245,7 +245,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 43334-Dialogue.mod:5 50101-Dialogue.mod:5
 msgid "Okran save us from the darkness!"
-msgstr ""
+msgstr "Okran將我們從黑暗中拯救出來！"
 
 #. Id: 43334-Dialogue.mod
 #. -- Index: 0.6
@@ -255,7 +255,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43334-Dialogue.mod:6
 msgid "Skeletons! Don't stare them in the eye! They'll possess us all!"
-msgstr ""
+msgstr "骷髏！不要盯著他們看！他們將擁有我們所有人！"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.0
@@ -266,7 +266,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:0
 msgid "The robots have come..."
-msgstr ""
+msgstr "機器人來了......"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.1
@@ -277,7 +277,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:1
 msgid "Skeletons... darkness is upon us..."
-msgstr ""
+msgstr "骷髏......黑暗在我們身上......"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.2
@@ -288,7 +288,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:2
 msgid "Skeletons breach the holy border? Dark times are upon us..."
-msgstr ""
+msgstr "骷髏突破神聖的邊界？黑暗時代在我們身上......"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.3
@@ -299,7 +299,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:3
 msgid "Skeletons?!"
-msgstr ""
+msgstr "骷髏？"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.4
@@ -310,7 +310,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:4
 msgid "Robots?!"
-msgstr ""
+msgstr "機器人？"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.5
@@ -321,7 +321,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:5
 msgid "What?!.. A robot?"
-msgstr ""
+msgstr "什麼？！一個機器人？"
 
 #. Id: 43336-Dialogue.mod
 #. -- Index: 0.6
@@ -332,7 +332,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43336-Dialogue.mod:6
 msgid "Robots? In this city?!"
-msgstr ""
+msgstr "機器人？在這個城市？！"
 
 #. Id: 40798-Dialogue.mod
 #. -- Index: 0.0
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 40798-Dialogue.mod:0
 msgid "Is... is it the darkened?!"
-msgstr ""
+msgstr "是......它是黑暗的嗎？！"
 
 #. Id: 40798-Dialogue.mod
 #. -- Index: 0.1
@@ -364,7 +364,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 40798-Dialogue.mod:1 50101-Dialogue.mod:3
 msgid "Are... are they the darkened?!"
-msgstr ""
+msgstr "是......他們變暗了嗎？！"
 
 #. Id: 40798-Dialogue.mod
 #. -- Index: 0.2
@@ -375,7 +375,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 40798-Dialogue.mod:2
 msgid "Is... is it the darkness?!"
-msgstr ""
+msgstr "是......是黑暗嗎？！"
 
 #. Id: 40798-Dialogue.mod
 #. -- Index: 0.3
@@ -408,5 +408,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 40798-Dialogue.mod:7
 msgid "Why is this happening?!"
-msgstr ""
-
+msgstr "為什麼會這樣？！"

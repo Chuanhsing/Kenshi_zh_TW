@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:0
 msgid "I knew it, you're a convict!..."
-msgstr ""
+msgstr "我知道了，你是個囚犯！......"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.1
@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:1 96209-Dialogue.mod:2
 msgid "A convict!"
-msgstr ""
+msgstr "一個罪犯！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.2
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:2 96209-Dialogue.mod:3
 msgid "A fugitive!"
-msgstr ""
+msgstr "一個逃犯！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.3
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:3 96209-Dialogue.mod:4
 msgid "You... fugitive!"
-msgstr ""
+msgstr "你......逃亡！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.4
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Group title: Law enforcement spots prisoner escaping
 #: 44348-Dialogue.mod:4 96209-Dialogue.mod:0 54975-Dialogue.mod:2 13819-Escapes.mod:1
 msgid "Fugitive!"
-msgstr ""
+msgstr "逃犯！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.5
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:5
 msgid "I know your face!"
-msgstr ""
+msgstr "我知道你的臉！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.7
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:7 96209-Dialogue.mod:1
 msgid "Felon!"
-msgstr ""
+msgstr "重罪犯！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.8
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44348-Dialogue.mod:8
 msgid "I know you!"
-msgstr ""
+msgstr "我認識你！"
 
 #. Id: 44348-Dialogue.mod
 #. -- Index: 0.9
@@ -151,7 +151,7 @@ msgstr ""
 #. -- Group title: Tough bounty hunter small fry
 #: 44349-Dialogue.mod:1 16193-Dialogue.mod:1 13645-Escapes.mod:1 18439-Dialogue.mod:4
 msgid "Give yourself up!"
-msgstr ""
+msgstr "放棄自己吧！"
 
 #. Id: 44349-Dialogue.mod
 #. -- Index: 1.2
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44349-Dialogue.mod:2
 msgid "I can't let you walk away."
-msgstr ""
+msgstr "我不能讓你走開。"
 
 #. Id: 44349-Dialogue.mod
 #. -- Index: 1.3
@@ -169,7 +169,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44349-Dialogue.mod:3
 msgid "There's no escape now, surrender yourself or be taken by force!"
-msgstr ""
+msgstr "現在沒有逃脫，投降自己或被武力奪走！"
 
 #. Id: 44350-Dialogue.mod
 #. -- Index: 2.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44350-Dialogue.mod:0
 msgid "Settle your charges, your crimes won't go unpaid for..."
-msgstr ""
+msgstr "解決你的指控，你的罪行將不會被取消..."
 
 #. Id: 44350-Dialogue.mod
 #. -- Index: 2.1
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44350-Dialogue.mod:1
 msgid "Pay for your crimes, clear your name..."
-msgstr ""
+msgstr "支付你的罪行，清楚你的名字......"
 
 #. Id: 44350-Dialogue.mod
 #. -- Index: 2.2
@@ -196,7 +196,7 @@ msgstr ""
 #. -- Group title: Small bounty
 #: 44350-Dialogue.mod:2
 msgid "You need to pay for your crimes..."
-msgstr ""
+msgstr "你需要支付你的罪行......"
 
 #. Id: 44148-Dialogue.mod
 #. -- Index: 1.0
@@ -211,7 +211,7 @@ msgstr ""
 #. -- Group title: Shek law spots bounty
 #: 44148-Dialogue.mod:0 15018-Dialogue.mod:0
 msgid "You, stop!"
-msgstr ""
+msgstr "你，停！"
 
 #. Id: 44148-Dialogue.mod
 #. -- Index: 1.1
@@ -238,7 +238,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
 #: 44148-Dialogue.mod:1 15155-Dialogue.mod:5 54002-Dialogue.mod:5
 msgid "Stop right where you are!"
-msgstr ""
+msgstr "停在你身邊！"
 
 #. Id: 44148-Dialogue.mod
 #. -- Index: 1.2
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44148-Dialogue.mod:2
 msgid "Come back! You can't run from the law!"
-msgstr ""
+msgstr "回來！你不能逃避法律！"
 
 #. Id: 44148-Dialogue.mod
 #. -- Index: 1.3
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44148-Dialogue.mod:3
 msgid "You can't run from us! Come back here!"
-msgstr ""
+msgstr "你不能逃避我們！回到這來！"
 
 #. Id: 44150-Dialogue.mod
 #. -- Index: 2.0
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44150-Dialogue.mod:0
 msgid "Keep running and I'll have you arrested!"
-msgstr ""
+msgstr "繼續跑，我會讓你被捕！"
 
 #. Id: 44150-Dialogue.mod
 #. -- Index: 2.1
@@ -278,7 +278,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44150-Dialogue.mod:1
 msgid "Running will only land you in more trouble!"
-msgstr ""
+msgstr "跑步只會給你帶來更多麻煩！"
 
 #. Id: 44150-Dialogue.mod
 #. -- Index: 2.2
@@ -288,7 +288,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44150-Dialogue.mod:2
 msgid "I'm warning you, don't run from me!"
-msgstr ""
+msgstr "我警告你，不要逃避我！"
 
 #. Id: 44150-Dialogue.mod
 #. -- Index: 2.3
@@ -298,7 +298,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44150-Dialogue.mod:3
 msgid "Last warning, don't move!"
-msgstr ""
+msgstr "最後警告，不要動！"
 
 #. Id: 44151-Dialogue.mod
 #. -- Index: 3.0
@@ -349,4 +349,3 @@ msgstr ""
 #: 44151-Dialogue.mod:4
 msgid "You can run, but you can't hide, fugitive! /SEIZE/ /HIM/!"
 msgstr ""
-

@@ -22,7 +22,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=0, Tag: -1
 #: 95872-Dialogue.mod:0
 msgid "... Well, everything looks in order..."
-msgstr ""
+msgstr "......好吧，一切都看起來有序......"
 
 #. Id: 95974-Dialogue.mod
 #. -- Index: 1.0
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95974-Dialogue.mod:0
 msgid "No fugitives... no illegal activity... "
-msgstr ""
+msgstr "沒有逃犯......沒有非法活動......"
 
 #. Id: 95951-Dialogue.mod
 #. -- Index: 2.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95951-Dialogue.mod:0
 msgid "That's a start."
-msgstr ""
+msgstr "那是一個開始。"
 
 #. Id: 96040-Dialogue.mod
 #. -- Index: 3.0
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 96040-Dialogue.mod:0
 msgid "Now how about a warm welcome?"
-msgstr ""
+msgstr "現在熱烈歡迎怎麼樣？"
 
 #. Id: 95969-Dialogue.mod
 #. -- Index: 4.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95969-Dialogue.mod:0
 msgid "... Somebody gonna come greet us or what?"
-msgstr ""
+msgstr "......有人會來迎接我們或者是什麼？"
 
 #. Id: 95975-Dialogue.mod
 #. -- Index: 5.0
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95975-Dialogue.mod:0
 msgid "Most of the other farmers give us snacks and grog..."
-msgstr ""
+msgstr "大多數其他農民給我們點心和熟食......"
 
 #. Id: 95976-Dialogue.mod
 #. -- Index: 6.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: Hamut spots slavers
 #: 95976-Dialogue.mod:0 48911-Dialogue.mod:0 48905-Dialogue.mod:0 17627-Dialogue.mod:8 55183-Dialogue.mod:0 57684-Dialogue.mod:0
 msgid "Kch..."
-msgstr ""
+msgstr "KCH ..."
 
 #. Id: 95971-Dialogue.mod
 #. -- Index: 8.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95971-Dialogue.mod:0
 msgid "Dregs these days... no respect."
-msgstr ""
+msgstr "這些天渣滓......沒有尊重。"
 
 #. Id: 95877-Dialogue.mod
 #. -- Index: 1.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95877-Dialogue.mod:0
 msgid "That one over there..."
-msgstr ""
+msgstr "那邊那個......"
 
 #. Id: 95878-Dialogue.mod
 #. -- Index: 2.0
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 95878-Dialogue.mod:0
 msgid "They look like a slave."
-msgstr ""
+msgstr "他們看起來像個奴隸。"
 
 #. Id: 95879-Dialogue.mod
 #. -- Index: 3.0
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 95879-Dialogue.mod:0
 msgid "Harbouring escaped slaves is a serious crime..."
-msgstr ""
+msgstr "庇護逃脫的奴隸是一種嚴重的罪行......"
 
 #. Id: 95880-Dialogue.mod
 #. -- Index: 4.0
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 95880-Dialogue.mod:0
 msgid "... Who's in charge here?"
-msgstr ""
+msgstr "......誰在這裡負責？"
 
 #. Id: 95882-Dialogue.mod
 #. -- Index: 6.0
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 95882-Dialogue.mod:0
 msgid "No-one's gonna step forward, uh?"
-msgstr ""
+msgstr "沒有人會前進，呃？"
 
 #. Id: 95883-Dialogue.mod
 #. -- Index: 7.0
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: Searching player base
 #: 95883-Dialogue.mod:0
 msgid "Then I'm arresting this party for anti-slavery activity!"
-msgstr ""
+msgstr "然後，我為反奴隸活動逮捕了這個派對！"
 
 #. Id: 96933-Dialogue.mod
 #. -- Index: 7.0
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>8, Tag: -1
 #: 96933-Dialogue.mod:0
 msgid "Then I'll be reporting this to the Slave Traders."
-msgstr ""
+msgstr "然後我會向Slave Traders報告。"
 
 #. Id: 97476-Dialogue.mod
 #. -- Index: 8.1
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
 #: 97476-Dialogue.mod:1
 msgid "Move on."
-msgstr ""
+msgstr "繼續。"
 
 #. Id: 97478-Dialogue.mod
 #. -- Index: 10.0
@@ -201,5 +201,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
 #: 97478-Dialogue.mod:0
 msgid "Those anti-slavers will be punished."
-msgstr ""
-
+msgstr "那些反奴隸將受到懲罰。"

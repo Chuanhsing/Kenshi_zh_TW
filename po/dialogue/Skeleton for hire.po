@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Skeleton for hire
 #: 47622-Dialogue.mod:0
 msgid "Here for recruits? I'm available for hire. 6000 Cats."
-msgstr ""
+msgstr "招聘人員？我可以租用。 6000隻貓。"
 
 #. Id: 47622-Dialogue.mod
 #. -- Index: 0.1
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Skeleton for hire
 #: 47622-Dialogue.mod:4
 msgid "Are you recruiting? If so, I'm available for 6000 Cats."
-msgstr ""
+msgstr "你在招聘嗎？如果是這樣，我可以使用6000隻貓。"
 
 #. Id: 47623-Dialogue.mod
 #. -- Index: 1.1
@@ -70,7 +70,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 47623-Dialogue.mod:1 1740-gamedata.base:1
 msgid "Deal, you're hired."
-msgstr ""
+msgstr "交易，你被錄用了。"
 
 #. Id: 47624-Dialogue.mod
 #. -- Index: 1.0
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Group title: Skeleton for hire
 #: 47624-Dialogue.mod:0
 msgid "I'm not interested, thanks."
-msgstr ""
+msgstr "我不感興趣，謝謝。"
 
 #. Id: 47624-Dialogue.mod
 #. -- Index: 1.1
@@ -88,5 +88,4 @@ msgstr ""
 #. -- Group title: Skeleton for hire
 #: 47624-Dialogue.mod:1
 msgid "Sorry not interested."
-msgstr ""
-
+msgstr "抱歉沒有興趣。"

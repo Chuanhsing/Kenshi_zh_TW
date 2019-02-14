@@ -25,7 +25,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
 #: 60594-Dialogue.mod:1 97432-Dialogue.mod:0
 msgid "All slaves are owned and legally bound to the United Cities..."
-msgstr ""
+msgstr "所有奴隸都歸聯合城市所有並受法律約束......"
 
 #. Id: 60594-Dialogue.mod
 #. -- Index: 0.2
@@ -41,7 +41,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SLAVE=1, Tag: -1
 #: 60594-Dialogue.mod:2 97432-Dialogue.mod:1
 msgid "All slaves are property of the United Cities..."
-msgstr ""
+msgstr "所有奴隸都是聯合城市的財產......"
 
 #. Id: 60648-Dialogue.mod
 #. -- Index: 1.0
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 60648-Dialogue.mod:0
 msgid "And any slave sympathiser found to be hiding any workers..."
-msgstr ""
+msgstr "任何奴隸同情者都發現隱藏了任何工人......"
 
 #. Id: 60648-Dialogue.mod
 #. -- Index: 1.1
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 60648-Dialogue.mod:1
 msgid "And any rebel found to be hiding any slaves..."
-msgstr ""
+msgstr "任何反叛者都發現隱藏了任何奴隸......"
 
 #. Id: 60649-Dialogue.mod
 #. -- Index: 2.0
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 60649-Dialogue.mod:0
 msgid "Will be arrested for multiple crimes of theft and terrorism!"
-msgstr ""
+msgstr "將因多項盜竊和恐怖主義罪被捕！"
 
 #. Id: 60649-Dialogue.mod
 #. -- Index: 2.1
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 60649-Dialogue.mod:1
 msgid "Will be treated as an anti slave terrorist!"
-msgstr ""
+msgstr "將被視為反奴隸恐怖分子！"
 
 #. Id: 60650-Dialogue.mod
 #. -- Index: 3.0
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 97419-Dialogue.mod:0
 msgid "Let's go. The recovery division will deal with this."
-msgstr ""
+msgstr "我們走吧。恢復部門將處理這個問題。"
 
 #. Id: 97420-Dialogue.mod
 #. -- Index: 4.0
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 97420-Dialogue.mod:0
 msgid "Bloody anti-slavers..."
-msgstr ""
+msgstr "血腥的反奴隸......"
 
 #. Id: 97420-Dialogue.mod
 #. -- Index: 4.1
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 97421-Dialogue.mod:0
 msgid "Stealing from the Empire..."
-msgstr ""
+msgstr "從帝國偷竊......"
 
 #. Id: 97422-Dialogue.mod
 #. -- Index: 6.0
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 97422-Dialogue.mod:0
 msgid "They'll get what's coming..."
-msgstr ""
+msgstr "他們會得到即將到來的......"
 
 #. Id: 97422-Dialogue.mod
 #. -- Index: 6.1
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 97422-Dialogue.mod:1
 msgid "They won't get away with their thievery..."
-msgstr ""
+msgstr "他們不會逃脫他們的偷竊......"
 
 #. Id: 97423-Dialogue.mod
 #. -- Index: 6.0
@@ -177,5 +177,4 @@ msgstr ""
 #. -- Group title: UC slave base visit announce --Unfinished--
 #: 97423-Dialogue.mod:0
 msgid "We will retake what is ours."
-msgstr ""
-
+msgstr "我們將重新奪回我們的產品。"

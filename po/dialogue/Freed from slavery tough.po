@@ -21,7 +21,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54744-Dialogue.mod:0
 msgid "So, you're my new 'master'...?"
-msgstr ""
+msgstr "所以，你是我的新“主人”......？"
 
 #. Id: 54744-Dialogue.mod
 #. -- Index: 0.1
@@ -33,7 +33,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54744-Dialogue.mod:1
 msgid "Nice meetin' you... boss"
-msgstr ""
+msgstr "很高興見到你......老闆"
 
 #. Id: 54744-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54744-Dialogue.mod:3
 msgid "... Surely can't be as bad as the masters..."
-msgstr ""
+msgstr "......當然不能像大師一樣糟糕......"
 
 #. Id: 54747-Dialogue.mod
 #. -- Index: 0.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54747-Dialogue.mod:0
 msgid "You freein' me? Or you enslavin' me?"
-msgstr ""
+msgstr "你釋放了我嗎？或者你奴役我？"
 
 #. Id: 54747-Dialogue.mod
 #. -- Index: 0.1
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54747-Dialogue.mod:1
 msgid "Better not be plannin' on keeping me a slave, stranger..."
-msgstr ""
+msgstr "最好不要計劃讓我成為奴隸，陌生人......"
 
 #. Id: 54747-Dialogue.mod
 #. -- Index: 0.2
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54747-Dialogue.mod:2
 msgid "You buying my freedom? Or you buying ME?"
-msgstr ""
+msgstr "你買我的自由？或者你買我？"
 
 #. Id: 54748-Dialogue.mod
 #. -- Index: 1.0
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Group title: Freed from slavery tough
 #: 54748-Dialogue.mod:0
 msgid "'Cause I'll let you in on a secret: I ain't no victim"
-msgstr ""
+msgstr "因為我會告訴你一個秘密：我不是沒有受害者"
 
 #. Id: 54748-Dialogue.mod
 #. -- Index: 1.1
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Group title: Freed from slavery tough
 #: 54748-Dialogue.mod:1
 msgid "'Cause I don't like slavers and I don't like playin' nice"
-msgstr ""
+msgstr "因為我不喜歡奴隸，我不喜歡玩耍"
 
 #. Id: 54748-Dialogue.mod
 #. -- Index: 1.2
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Group title: Freed from slavery tough
 #: 54748-Dialogue.mod:2
 msgid "'Cause you try keeping me in shackles and I'll strangle you in your sleep"
-msgstr ""
+msgstr "因為你試著讓我戴上鐐銬，我會在睡夢中扼殺你"
 
 #. Id: 54749-Dialogue.mod
 #. -- Index: 0.0
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54749-Dialogue.mod:0 54831-Dialogue.mod:0
 msgid "Freedom at last..."
-msgstr ""
+msgstr "自由終於......"
 
 #. Id: 54749-Dialogue.mod
 #. -- Index: 0.1
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54749-Dialogue.mod:1 54831-Dialogue.mod:1
 msgid "Finally free from this cage..."
-msgstr ""
+msgstr "終於擺脫了這個籠子......"
 
 #. Id: 54749-Dialogue.mod
 #. -- Index: 0.2
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54749-Dialogue.mod:2 54831-Dialogue.mod:2
 msgid "You freed me..."
-msgstr ""
+msgstr "你釋放了我......"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.0
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Group title: DIALOGUE3297
 #: 54803-Dialogue.mod:0 3298-gamedata.base:5
 msgid "Guess I owe you."
-msgstr ""
+msgstr "猜猜我欠你的。"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.1
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:1
 msgid "Feeling charitable, are we? I'll believe that when I see it."
-msgstr ""
+msgstr "感覺慈善，是嗎？當我看到它時，我會相信。"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.2
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:2
 msgid "Everything comes at a price, even freedom. So what's your price in this?"
-msgstr ""
+msgstr "一切都是有代價的，甚至是自由。那你的價格是多少？"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.3
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:3
 msgid "Been waiting too long for freedom."
-msgstr ""
+msgstr "等待太久的自由。"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.4
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:4
 msgid "Looks like I'm following you now."
-msgstr ""
+msgstr "看起來我現在跟著你。"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.5
@@ -236,7 +236,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:5
 msgid "Looks like I got myself a new master."
-msgstr ""
+msgstr "看起來我得到了一個新的主人。"
 
 #. Id: 54803-Dialogue.mod
 #. -- Index: 0.6
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 54803-Dialogue.mod:6
 msgid "You don't look like a slaver. You look different."
-msgstr ""
+msgstr "你看起來不像一個奴隸。你看起來不一樣。"
 
 #. Id: 54805-Dialogue.mod
 #. -- Index: 0.0
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54805-Dialogue.mod:0
 msgid "I'm free?"
-msgstr ""
+msgstr "我自由了？"
 
 #. Id: 54805-Dialogue.mod
 #. -- Index: 0.1
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54805-Dialogue.mod:1
 msgid "Is this it? I'm finally free?"
-msgstr ""
+msgstr "是這個嗎？我終於自由了嗎？"
 
 #. Id: 54805-Dialogue.mod
 #. -- Index: 0.2
@@ -278,7 +278,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54805-Dialogue.mod:2
 msgid "You're freeing me?"
-msgstr ""
+msgstr "你釋放了我嗎？"
 
 #. Id: 54805-Dialogue.mod
 #. -- Index: 0.3
@@ -288,7 +288,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: MY_CAPTOR
 #: 54805-Dialogue.mod:3
 msgid "Am I really free again?"
-msgstr ""
+msgstr "我真的再次自由了嗎？"
 
 #. Id: 54750-Dialogue.mod
 #. -- Index: 1.0
@@ -331,7 +331,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 55391-Dialogue.mod:1
 msgid "First you sell me off like a piece of meat..."
-msgstr ""
+msgstr "首先，你像一塊肉一樣把我賣掉......"
 
 #. Id: 55391-Dialogue.mod
 #. -- Index: 0.2
@@ -357,7 +357,7 @@ msgstr ""
 #. -- Group title: Freed from slavery tough
 #: 55399-Dialogue.mod:0
 msgid "And now you want me to follow you?... Rot in the dirt!"
-msgstr ""
+msgstr "現在你想讓我跟著你？......在泥土中腐爛！"
 
 #. Id: 55422-Dialogue.mod
 #. -- Index: 0.1
@@ -367,5 +367,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 55422-Dialogue.mod:1
 msgid "First you knock me out and put me in this cage..."
-msgstr ""
-
+msgstr "首先，你把我打倒，把我放在籠子裡......"

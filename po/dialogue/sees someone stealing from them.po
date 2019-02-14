@@ -21,7 +21,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
 #: 3434-dialogue-01.mod:0
 msgid "You thieving little shit! I'll cut your hands off!"
-msgstr ""
+msgstr "你偷小東西！我會砍你的手！"
 
 #. Id: 3434-dialogue-01.mod
 #. -- Index: 0.3
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 13919-Escapes.mod:5
 msgid "No good thief!"
-msgstr ""
+msgstr "沒有好小偷！"
 
 #. Id: 13921-Escapes.mod
 #. -- Index: 1.2
@@ -52,7 +52,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 13921-Escapes.mod:2
 msgid "Guards, help!"
-msgstr ""
+msgstr "衛兵，救命啊！"
 
 #. Id: 50075-Dialogue.mod
 #. -- Index: 0.0
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 50075-Dialogue.mod:0
 msgid "Skeleton! It's stealing from me!"
-msgstr ""
+msgstr "骨架！這是偷我的！"
 
 #. Id: 50075-Dialogue.mod
 #. -- Index: 0.1
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 50075-Dialogue.mod:2
 msgid "Thieving spawn of Narko!"
-msgstr ""
+msgstr "Narko的盜賊產卵！"
 
 #. Id: 50075-Dialogue.mod
 #. -- Index: 0.3
@@ -104,5 +104,4 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 50075-Dialogue.mod:3
 msgid "Darkened thief!"
-msgstr ""
-
+msgstr "變暗的小偷！"

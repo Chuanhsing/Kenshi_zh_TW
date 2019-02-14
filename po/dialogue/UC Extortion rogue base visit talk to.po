@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 60590-Dialogue.mod:0
 msgid "Then here's a gift, for your hard work [c. 2000]"
-msgstr ""
+msgstr "那麼這是一份禮物，為你的辛勤工作[c。 2000]"
 
 #. Id: 60595-Dialogue.mod
 #. -- Index: 2.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60595-Dialogue.mod:0
 msgid "[They smirk]... But, you know, I'm gonna need an even bigger gift to unsee those hemp farms of yours. Make it 3000 Cats and I won't bust you for growing illegal narcotics..."
-msgstr ""
+msgstr "[他們傻笑] ......但是，你知道，我需要一個更大的禮物才能看到你的那些大麻農場。讓它成為3000隻貓，我不會因為種植非法麻醉品而讓你失望......"
 
 #. Id: 60597-Dialogue.mod
 #. -- Index: 3.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 60597-Dialogue.mod:0
 msgid "... You saw nothing."
-msgstr ""
+msgstr "你沒有看到任何東西。"
 
 #. Id: 60608-Dialogue.mod
 #. -- Index: 4.0
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60608-Dialogue.mod:0
 msgid "I saw nothing."
-msgstr ""
+msgstr "我什麼也沒看到。"
 
 #. Id: 60609-Dialogue.mod
 #. -- Index: 3.0
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 60609-Dialogue.mod:0
 msgid "I've no more money to give..."
-msgstr ""
+msgstr "我沒有錢給......"
 
 #. Id: 61183-Dialogue.mod
 #. -- Index: 4.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61183-Dialogue.mod:0
 msgid "You're growing hemp yet you don't have a spare 1000 Cats?... Whatever, I'll just take the 2000 Cats and we'll forget all about the farms."
-msgstr ""
+msgstr "你還在增長麻，但是你沒有備用的1000隻貓......無論如何，我只會拿走2000隻貓，我們會忘記所有關於農場的事情。"
 
 #. Id: 61191-Dialogue.mod
 #. -- Index: 4.0
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61191-Dialogue.mod:0
 msgid "Setting up on Empire land and you can't afford a simple contribution? Pathetic. Should have 3000 Cats worth of goods lying around though, eh?"
-msgstr ""
+msgstr "在帝國土地上建立你無法承擔簡單的貢獻？青衫。應該有3000貓的商品，但是？"
 
 #. Id: 96790-Dialogue.mod
 #. -- Index: 5.0
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>7, Tag: -1
 #: 96790-Dialogue.mod:0
 msgid "I'll be reporting back to headquarters about your... activities."
-msgstr ""
+msgstr "我將向總部報告你的......活動。"
 
 #. Id: 61185-Dialogue.mod
 #. -- Index: 3.0
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61185-Dialogue.mod:0
 msgid "I made my offer already, take it or leave it."
-msgstr ""
+msgstr "我已經提出要約，接受或離開。"
 
 #. Id: 61186-Dialogue.mod
 #. -- Index: 4.0
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61186-Dialogue.mod:0
 msgid "Oho! Giving me lip? Then I'll leave it, how about that? But, see now, if you ain't paying me then I gotta go back to doing my normal day job..."
-msgstr ""
+msgstr "啊哈！給我一個嘴唇？然後我會離開它，怎麼樣？但是，現在看，如果你不付錢給我，那我就得回去做正常的日常工作......"
 
 #. Id: 61189-Dialogue.mod
 #. -- Index: 5.0
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61189-Dialogue.mod:0
 msgid "Taking down drug growers!"
-msgstr ""
+msgstr "取下毒販！"
 
 #. Id: 61187-Dialogue.mod
 #. -- Index: 4.0
@@ -121,7 +121,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61187-Dialogue.mod:0
 msgid "... Tch, then pay up. I'm not in the mood for reporting your activities to the superiors today anyway, count yourself lucky."
-msgstr ""
+msgstr "...然後付錢。我無論如何都不想向今天的上級報告你的活動，算一算自己很幸運。"
 
 #. Id: 61194-Dialogue.mod
 #. -- Index: 3.0
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61194-Dialogue.mod:0
 msgid "In that case, it's cheaper for me to destroy my witnesses instead..."
-msgstr ""
+msgstr "在那種情況下，我摧毀我的證人會更便宜......"
 
 #. Id: 61195-Dialogue.mod
 #. -- Index: 4.0
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 96731-Dialogue.mod:0
 msgid "[They smirk]... But, you know, I'm gonna need an even bigger gift to unsee those hemp machines of yours. Make it 3000 Cats and I won't bust you for growing illegal narcotics..."
-msgstr ""
+msgstr "[他們假笑] ......但是，你知道，我需要一個更大的禮物才能看到你的麻機。讓它成為3000隻貓，我不會因為種植非法麻醉品而讓你失望......"
 
 #. Id: 60614-Dialogue.mod
 #. -- Index: 2.0
@@ -157,9 +157,9 @@ msgstr ""
 #. -- Speaker: Me (0)
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60614-Dialogue.mod:0
-msgid "Well? Got any gifts of appreciation for your local Empire guard, dreg? Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
-Play nice. And I'll play nice."
-msgstr ""
+msgid "Well? Got any gifts of appreciation for your local Empire guard, dreg? Must have a lot of expendable Cats from growing all that illegal hemp, eh?.."
+"Play nice. And I'll play nice.\""
+msgstr "好？對你當地的帝國後衛，dreg有什麼禮物讚賞？必須有很多可消耗的貓從種植非法大麻，嗯？...玩得好。而且我會玩得很好。“"
 
 #. Id: 60614-Dialogue.mod
 #. -- Index: 2.1
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60614-Dialogue.mod:1
 msgid "Silence? Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, dreg. Especially so when you have an outpost full of illegal hemp farms, hmm?... Tread lightly here, dreg. I expect a worthwhile gift to unsee this."
-msgstr ""
+msgstr "安靜？這是我得到的謝意嗎？作為精英帝國的保護者？你應該知道，不要不尊重我們的權威，dreg。特別是如果你有一個非法大麻農場的前哨，嗯？......在這裡輕輕地踩，渣滓。我希望有一個值得的禮物來解決這個問題。"
 
 #. Id: 60605-Dialogue.mod
 #. -- Index: 2.0
@@ -185,8 +185,8 @@ msgstr ""
 #. -- Speaker: Me (0)
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60612-Dialogue.mod:0
-msgid "Some appreciation... But more importantly, some respect, /WORM/. How about you try being a little more polite to your protectors? A donation perhaps... Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
-Play nice. And I'll play nice."
+msgid "Some appreciation... But more importantly, some respect, /WORM/. How about you try being a little more polite to your protectors? A donation perhaps... Must have a lot of expendable Cats from growing all that illegal hemp, eh?.."
+"Play nice. And I'll play nice.\""
 msgstr ""
 
 #. Id: 60612-Dialogue.mod
@@ -195,9 +195,9 @@ msgstr ""
 #. -- Speaker: Me (0)
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60612-Dialogue.mod:1
-msgid "A bit of appreciation for your protectors sweating in the outlands. A donation. Must have a lot of expendable Cats from growing all that illegal hemp, eh?...
-Play nice. And I'll play nice."
-msgstr ""
+msgid "A bit of appreciation for your protectors sweating in the outlands. A donation. Must have a lot of expendable Cats from growing all that illegal hemp, eh?.."
+"Play nice. And I'll play nice.\""
+msgstr "對你的保護者在外地出汗感到有點讚賞。捐款。必須有很多可消耗的貓從種植非法大麻，嗯？...玩得好。而且我會玩得很好。“"
 
 #. Id: 60613-Dialogue.mod
 #. -- Index: 3.1
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 60613-Dialogue.mod:1
 msgid "I've no money to give..."
-msgstr ""
+msgstr "我沒有錢給..."
 
 #. Id: 61201-Dialogue.mod
 #. -- Index: 4.0
@@ -216,7 +216,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61201-Dialogue.mod:0
 msgid "*sigh* Well ain't that disappointing. Now I've gotta sweat doing my job, and you, you've gotta pay out your punishment in blood... Didn't plan this well at all, did you, farmer?"
-msgstr ""
+msgstr "*嘆氣*嗯，這並不令人失望。現在我已經厭倦了我的工作，而你，你必須用血來支付你的懲罰......沒有計劃好這一點，你，農夫？"
 
 #. Id: 61209-Dialogue.mod
 #. -- Index: 3.0
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61209-Dialogue.mod:0
 msgid "I'm not giving you shit. Beat it or bleed."
-msgstr ""
+msgstr "我不是在騙你。打它或流血。"
 
 #. Id: 61207-Dialogue.mod
 #. -- Index: 4.0
@@ -234,7 +234,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61207-Dialogue.mod:0
 msgid "No? Nothing?... Then I guess there's nothing left for me to do but go back to my job: hunting down hemp farmers... Did you think me blind? Your farms are illegal on UC territory, fool..."
-msgstr ""
+msgstr "沒有？什麼都沒有？...然後我想我沒有什麼可以做但是回到我的工作：追捕大麻農民......你認為我失明了嗎？你的農場在加州大學的領土上是非法的，傻瓜......"
 
 #. Id: 61207-Dialogue.mod
 #. -- Index: 4.2
@@ -243,7 +243,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 61207-Dialogue.mod:2
 msgid "Well. Guess that's my entertainment over from you... Now back to my job: Taking down illegal farmers. Did you really think you could get away with growing hemp on United Cities territory without sweetening the local guards? Fool."
-msgstr ""
+msgstr "好。猜猜這是我的娛樂活動......現在回到我的工作：打倒非法農民。你是否真的認為你可以逃離曼聯領土上的大麻而不會讓當地警衛變甜？傻子。"
 
 #. Id: 96729-Dialogue.mod
 #. -- Index: 0.0
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 96729-Dialogue.mod:0
 msgid "Hoy, hope you got a gift ready for your local samurai. It's a hungry job guarding these streets, you know?"
-msgstr ""
+msgstr "Hoy，希望你能為當地的武士準備好禮物。你知道，這是一條守護這些街道的飢腸轆轆的工作嗎？"
 
 #. Id: 96729-Dialogue.mod
 #. -- Index: 0.1
@@ -272,5 +272,4 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 60588-Dialogue.mod:0
 msgid "[They catch their breath and lean on their sword over-dramatically]..."
-msgstr ""
-
+msgstr "[他們喘不過氣來，大大地靠近他們的劍] ......"

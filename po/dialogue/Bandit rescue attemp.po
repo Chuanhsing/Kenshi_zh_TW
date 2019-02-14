@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6034-Dialogue.mod:0
 msgid "C'mon, faster"
-msgstr ""
+msgstr "來吧，更快"
 
 #. Id: 6034-Dialogue.mod
 #. -- Index: 0.1
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6034-Dialogue.mod:2
 msgid "Come on, come on!"
-msgstr ""
+msgstr "好啦好啦！"
 
 #. Id: 6034-Dialogue.mod
 #. -- Index: 0.3
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6034-Dialogue.mod:4
 msgid "Damn it, hurry!"
-msgstr ""
+msgstr "該死的，快點！"
 
 #. Id: 6034-Dialogue.mod
 #. -- Index: 0.5
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 6036-Dialogue.mod:0
 msgid "You gotta unlock me!"
-msgstr ""
+msgstr "你必須解鎖我！"
 
 #. Id: 6036-Dialogue.mod
 #. -- Index: 0.1
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 6036-Dialogue.mod:1
 msgid "Please! Get me outta here!"
-msgstr ""
+msgstr "請！讓我離開這裡！"
 
 #. Id: 6036-Dialogue.mod
 #. -- Index: 0.2
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 6036-Dialogue.mod:2
 msgid "Smash it! Smash the lock!"
-msgstr ""
+msgstr "粉碎它！粉碎鎖！"
 
 #. Id: 6036-Dialogue.mod
 #. -- Index: 0.3
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 6036-Dialogue.mod:3
 msgid "Yes! Help me! I'll pay you.. anything! Get me out!"
-msgstr ""
+msgstr "是!幫我！我會付你的......什麼都行！讓我出去！"
 
 #. Id: 6041-Dialogue.mod
 #. -- Index: 0.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 6041-Dialogue.mod:2
 msgid "If you don't unlock me, I'll cut your face"
-msgstr ""
+msgstr "如果你不解鎖我，我會削減你的臉"
 
 #. Id: 6041-Dialogue.mod
 #. -- Index: 0.3
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 6041-Dialogue.mod:4
 msgid "ARGHH YOU'RE SO SLOW!"
-msgstr ""
+msgstr "阿格，你這麼慢！"
 
 #. Id: 6056-Dialogue.mod
 #. -- Index: 0.0
@@ -169,7 +169,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 6056-Dialogue.mod:0
 msgid "Why are YOU helping me?"
-msgstr ""
+msgstr "你為什麼幫助我？"
 
 #. Id: 6056-Dialogue.mod
 #. -- Index: 0.1
@@ -180,7 +180,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 6056-Dialogue.mod:1
 msgid "You're letting me out?"
-msgstr ""
+msgstr "你讓我出去？"
 
 #. Id: 6054-Dialogue.mod
 #. -- Index: 1.0
@@ -189,7 +189,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6054-Dialogue.mod:0
 msgid "Why the fuck are YOU helping me"
-msgstr ""
+msgstr "為什麼他媽的是你幫助我"
 
 #. Id: 6054-Dialogue.mod
 #. -- Index: 1.1
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6054-Dialogue.mod:1
 msgid "Don't need help from a piece of shit like YOU"
-msgstr ""
+msgstr "不要像你那樣需要幫助"
 
 #. Id: 6054-Dialogue.mod
 #. -- Index: 1.2
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6054-Dialogue.mod:2
 msgid "I'm gonna kill you when I get out of here"
-msgstr ""
+msgstr "當我離開這裡時，我會殺了你"
 
 #. Id: 6054-Dialogue.mod
 #. -- Index: 1.3
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 6054-Dialogue.mod:4
 msgid "Sick son of a bitch, why are YOU helping me"
-msgstr ""
+msgstr "生病的兒子，你為什麼幫助我"
 
 #. Id: 17037-Dialogue.mod
 #. -- Index: 0.0
@@ -235,7 +235,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_IMPRISONED=0, Tag: -1
 #: 17037-Dialogue.mod:0
 msgid "Do it! I'll pay you gold! Lots of gold..."
-msgstr ""
+msgstr "做吧！我付你金！很多金子......"
 
 #. Id: 17037-Dialogue.mod
 #. -- Index: 0.1
@@ -246,4 +246,3 @@ msgstr ""
 #: 17037-Dialogue.mod:1
 msgid "I'll reward you for this, /MAN2/. Keep tryin'"
 msgstr ""
-

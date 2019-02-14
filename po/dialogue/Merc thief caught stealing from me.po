@@ -47,7 +47,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12802-Dialogue?(11)?(2).mod:5
 msgid "Stealing from me? Big mistake!"
-msgstr ""
+msgstr "偷我？大錯！"
 
 #. Id: 12802-Dialogue (11) (2).mod
 #. -- Index: 0.6
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12802-Dialogue?(11)?(2).mod:6
 msgid "I don't like thieves!"
-msgstr ""
+msgstr "我不喜歡小偷！"
 
 #. Id: 12803-Dialogue (11) (2).mod
 #. -- Index: 1.0
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44620-Dialogue.mod:1
 msgid "I won't let you get away with this! Come back here!"
-msgstr ""
+msgstr "我不會讓你逃脫這個！回到這來！"
 
 #. Id: 44620-Dialogue.mod
 #. -- Index: 1.2
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Group title: gets up as enemy starts walking away
 #: 44620-Dialogue.mod:2 3688-dialogue-01.mod:3
 msgid "Come back here!"
-msgstr ""
+msgstr "回到這來！"
 
 #. Id: 44620-Dialogue.mod
 #. -- Index: 1.3
@@ -156,7 +156,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44620-Dialogue.mod:3
 msgid "Come back here! Face your punishment!"
-msgstr ""
+msgstr "回到這來！面對你的懲罰！"
 
 #. Id: 44620-Dialogue.mod
 #. -- Index: 1.5
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44620-Dialogue.mod:6
 msgid "I'll catch you, I'll make you pay!"
-msgstr ""
+msgstr "我會抓住你的，我會讓你付錢！"
 
 #. Id: 44620-Dialogue.mod
 #. -- Index: 1.7
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 44620-Dialogue.mod:7
 msgid "Coward! Get back here!"
-msgstr ""
+msgstr "懦夫！回到這裡！"
 
 #. Id: 13215-Escapes.mod
 #. -- Index: 1.0
@@ -214,4 +214,3 @@ msgstr ""
 #: 13215-Escapes.mod:2
 msgid "Thieving /RAT/! You're lucky I'm stuck in this /GODDAMN/ cage!"
 msgstr ""
-

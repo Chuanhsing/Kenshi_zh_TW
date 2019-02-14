@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8009-Dialogue.mod:0
 msgid "I'm hungry! Got any food?"
-msgstr ""
+msgstr "我餓了！有什麼食物嗎？"
 
 #. Id: 8710-Dialogue.mod
 #. -- Index: 1.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
 #: 8710-Dialogue.mod:0
 msgid "Sure. Here, buy yourself something nice."
-msgstr ""
+msgstr "當然。在這裡，給自己買點好事。"
 
 #. Id: 8711-Dialogue.mod
 #. -- Index: 2.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8711-Dialogue.mod:0
 msgid "Ahh, Ells thanks you kindly!"
-msgstr ""
+msgstr "啊，Ells非常感謝你！"
 
 #. Id: 8712-Dialogue.mod
 #. -- Index: 3.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8712-Dialogue.mod:0
 msgid "Wait, you're Ells? The infamous rum thief? Ha, you don't look very... thief-like"
-msgstr ""
+msgstr "等等，你是Ells？臭名昭著的朗姆酒小偷？哈，你看起來不太......小偷一樣"
 
 #. Id: 8713-Dialogue.mod
 #. -- Index: 4.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8713-Dialogue.mod:0
 msgid "Ells isn't a thief! Ells just get's thirsty sometimes... But the bar guards beat Ells for drinking the rum. So Ells gotta go drink rum from the distillery when no one's looking... No-one else shares with Ells like you do."
-msgstr ""
+msgstr "Ells不是小偷！ Ells有時會感到口渴......但是酒吧衛士因喝朗姆酒而擊敗了Ells。因此，當沒人看時，Ells必須從釀酒廠喝朗姆酒......沒有人像你一樣與Ells分享。"
 
 #. Id: 8715-Dialogue.mod
 #. -- Index: 5.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8715-Dialogue.mod:0
 msgid "Thief or no thief, there's a bounty on your head, Ells. I want it."
-msgstr ""
+msgstr "小偷或沒有小偷，你的頭上有賞金，Ells。我要它。"
 
 #. Id: 8724-Dialogue.mod
 #. -- Index: 6.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8724-Dialogue.mod:0
 msgid "That's not fair!! I hate you!"
-msgstr ""
+msgstr "這不公平！！我恨你！"
 
 #. Id: 49364-Dialogue.mod
 #. -- Index: 5.0
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49364-Dialogue.mod:0
 msgid "Relax, I'm not judging. You gotta do what you gotta do."
-msgstr ""
+msgstr "放鬆，我不是在評判。做你該做的事。"
 
 #. Id: 49386-Dialogue.mod
 #. -- Index: 6.0
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49386-Dialogue.mod:0
 msgid "Ells can't catch a break..."
-msgstr ""
+msgstr "Ells無法休息......"
 
 #. Id: 49388-Dialogue.mod
 #. -- Index: 7.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 49388-Dialogue.mod:0
 msgid "You have bigger potential than being a rum thief. Team up with me."
-msgstr ""
+msgstr "你比朗姆酒賊更有潛力。和我合作。"
 
 #. Id: 49387-Dialogue.mod
 #. -- Index: 7.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49387-Dialogue.mod:0
 msgid "Chin up, Ells, it'll get better. Take care."
-msgstr ""
+msgstr "下巴，Ells，它會好起來的。照顧自己。"
 
 #. Id: 49380-Dialogue.mod
 #. -- Index: 5.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49380-Dialogue.mod:0
 msgid "Drinking other people's rum when no-one's looking. You just sound like a thief with an alcohol problem to me."
-msgstr ""
+msgstr "沒有人看的時候喝別人的朗姆酒。你只是聽起來像一個酒精問題的小偷。"
 
 #. Id: 49381-Dialogue.mod
 #. -- Index: 6.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49381-Dialogue.mod:0
 msgid "Ells isn't a thief!"
-msgstr ""
+msgstr "Ells不是小偷！"
 
 #. Id: 49384-Dialogue.mod
 #. -- Index: 7.0
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49384-Dialogue.mod:0
 msgid "Ma always told Ells he was better than that..."
-msgstr ""
+msgstr "馬總是告訴Ells他比那更好......"
 
 #. Id: 49382-Dialogue.mod
 #. -- Index: 5.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49382-Dialogue.mod:0
 msgid "You're right. We gotta look after each other, Ells. Not hog precious booze from each other."
-msgstr ""
+msgstr "你是對的。我們得相互照顧，Ells。彼此不要吃寶貴的酒。"
 
 #. Id: 8714-Dialogue.mod
 #. -- Index: 7.0
@@ -156,7 +156,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 8714-Dialogue.mod:0
 msgid "Come work for me and I'll give you all the food and rum you could ever want, Ells."
-msgstr ""
+msgstr "來為我工作，我會給你所有你想要的食物和朗姆酒，Ells。"
 
 #. Id: 8726-Dialogue.mod
 #. -- Index: 8.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8726-Dialogue.mod:0
 msgid "Ah!? Really?!... Wait just a minute, you're trying to trick Ells. You want Ells' bounty!"
-msgstr ""
+msgstr "啊！？真的嗎？！......等一下，你試圖欺騙Ells。你想要Ells的賞金！"
 
 #. Id: 8727-Dialogue.mod
 #. -- Index: 9.0
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8729-Dialogue.mod:0
 msgid "Nobody's ever asked Ells to work for them before... I'd like that!"
-msgstr ""
+msgstr "沒有人曾經要求Ells為他們工作......我喜歡這樣！"
 
 #. Id: 8730-Dialogue.mod
 #. -- Index: 9.0
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49366-Dialogue.mod:0
 msgid "I could sell my shoes for more money than your poxy bounty. You really think I care?"
-msgstr ""
+msgstr "我可以賣掉我的鞋子，比你的傻錢還要多。你真的覺得我在乎嗎？"
 
 #. Id: 49391-Dialogue.mod
 #. -- Index: 10.0
@@ -211,7 +211,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49391-Dialogue.mod:0
 msgid "Ells don't wanna work for you after all!"
-msgstr ""
+msgstr "Ells畢竟不想為你工作！"
 
 #. Id: 49392-Dialogue.mod
 #. -- Index: 11.0
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49392-Dialogue.mod:0
 msgid "Ma always told Ells he was worth more than a pair of shoes..."
-msgstr ""
+msgstr "馬總是告訴Ells他比一雙鞋更值錢......"
 
 #. Id: 49367-Dialogue.mod
 #. -- Index: 9.0
@@ -229,7 +229,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49367-Dialogue.mod:0
 msgid "You know what, just forget it."
-msgstr ""
+msgstr "你知道嗎，忘了它。"
 
 #. Id: 49395-Dialogue.mod
 #. -- Index: 7.0
@@ -238,7 +238,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49395-Dialogue.mod:0
 msgid "Keep on doing what you're doing, Ells."
-msgstr ""
+msgstr "繼續做你正在做的事情，Ells。"
 
 #. Id: 49389-Dialogue.mod
 #. -- Index: 3.0
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49389-Dialogue.mod:0
 msgid "Ells, huh? Ells, the wanted thief, by any chance?"
-msgstr ""
+msgstr "恩，嗯？ Ells，通緝犯，任何機會？"
 
 #. Id: 8720-Dialogue.mod
 #. -- Index: 3.0
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8720-Dialogue.mod:0
 msgid "No problem, Ells. See you around."
-msgstr ""
+msgstr "沒問題，Ells。再見。"
 
 #. Id: 8716-Dialogue.mod
 #. -- Index: 1.0
@@ -265,7 +265,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8716-Dialogue.mod:0
 msgid "Not for you! Get a job!"
-msgstr ""
+msgstr "不適合你！找個工作！"
 
 #. Id: 8718-Dialogue.mod
 #. -- Index: 2.0
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 8717-Dialogue.mod:0
 msgid "No I don't, sorry"
-msgstr ""
+msgstr "不，我沒有，抱歉"
 
 #. Id: 49370-Dialogue.mod
 #. -- Index: 0.0
@@ -293,7 +293,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
 #: 49370-Dialogue.mod:0
 msgid "Mmmmmh! You're back!"
-msgstr ""
+msgstr "Mmmmmh！你回來了！"
 
 #. Id: 49372-Dialogue.mod
 #. -- Index: 1.0
@@ -302,7 +302,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49372-Dialogue.mod:0
 msgid "Indeed. Still hungry?"
-msgstr ""
+msgstr "確實。還是餓著？"
 
 #. Id: 49377-Dialogue.mod
 #. -- Index: 3.0
@@ -312,7 +312,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
 #: 49377-Dialogue.mod:0
 msgid "Here, this should get you a chewstick..."
-msgstr ""
+msgstr "在這裡，這應該給你一個嚼子......"
 
 #. Id: 49402-Dialogue.mod
 #. -- Index: 3.0
@@ -321,7 +321,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49402-Dialogue.mod:0
 msgid "Then go get a job and buy your own food!"
-msgstr ""
+msgstr "然後去找工作買自己的食物！"
 
 #. Id: 49403-Dialogue.mod
 #. -- Index: 3.0
@@ -330,7 +330,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49403-Dialogue.mod:0
 msgid "That's a shame."
-msgstr ""
+msgstr "真是太遺憾了。"
 
 #. Id: 49374-Dialogue.mod
 #. -- Index: 1.0
@@ -339,7 +339,7 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49374-Dialogue.mod:0
 msgid "I am. But not for long. See you."
-msgstr ""
+msgstr "我是。但不長久。再見。"
 
 #. Id: 49394-Dialogue.mod
 #. -- Index: 1.0
@@ -348,5 +348,4 @@ msgstr ""
 #. -- Group title: Pickles (Recruit)
 #: 49394-Dialogue.mod:0
 msgid "There's a bounty on your head. I want it."
-msgstr ""
-
+msgstr "你頭上有賞金。我要它。"

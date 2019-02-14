@@ -24,7 +24,7 @@ msgstr ""
 #. -- Group title: Skeleton spots intruder
 #: 46037-Dialogue.mod:0 46044-Dialogue.mod:2
 msgid "Intruder."
-msgstr ""
+msgstr "入侵者。"
 
 #. Id: 46037-Dialogue.mod
 #. -- Index: 0.1
@@ -34,7 +34,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 46037-Dialogue.mod:1
 msgid "Trespasser."
-msgstr ""
+msgstr "侵入者。"
 
 #. Id: 46037-Dialogue.mod
 #. -- Index: 0.2
@@ -44,7 +44,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 46037-Dialogue.mod:2
 msgid "Intruding."
-msgstr ""
+msgstr "侵入。"
 
 #. Id: 46038-Dialogue.mod
 #. -- Index: 1.1
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Group title: Skeleton spots intruder
 #: 46038-Dialogue.mod:1
 msgid "You'll see no mercy from me."
-msgstr ""
+msgstr "你不會看到我的憐憫。"
 
 #. Id: 46049-Dialogue.mod
 #. -- Index: 1.0
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 46049-Dialogue.mod:0
 msgid "Don't try and run. You won't escape me, intruder."
-msgstr ""
+msgstr "不要試著跑。入侵者，你不會逃避我。"
 
 #. Id: 46049-Dialogue.mod
 #. -- Index: 1.1
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 46049-Dialogue.mod:1
 msgid "It's pointless to run, intruder. I'll deal with you eventually."
-msgstr ""
+msgstr "入侵者跑步毫無意義。我最終會和你打交道。"
 
 #. Id: 46049-Dialogue.mod
 #. -- Index: 1.2
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 46049-Dialogue.mod:3
 msgid "I'll catch you, and I'll deal with you myself, intruder."
-msgstr ""
+msgstr "我會抓住你的，我會自己處理你，入侵者。"
 
 #. Id: 46049-Dialogue.mod
 #. -- Index: 1.4
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 46049-Dialogue.mod:4
 msgid "You won't escape me, intruder. No mercy."
-msgstr ""
+msgstr "入侵者，你不會逃避我。沒有憐憫。"
 
 #. Id: 46040-Dialogue.mod
 #. -- Index: 0.0
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 46040-Dialogue.mod:0
 msgid "You're not supposed to be here."
-msgstr ""
+msgstr "你不應該在這裡。"
 
 #. Id: 46040-Dialogue.mod
 #. -- Index: 0.1
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 46040-Dialogue.mod:1
 msgid "You shouldn't be here."
-msgstr ""
+msgstr "你不應該在這裡。"
 
 #. Id: 46044-Dialogue.mod
 #. -- Index: 1.1
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Group title: Skeleton spots intruder
 #: 46044-Dialogue.mod:1
 msgid "Intruders don't deserve mercy."
-msgstr ""
+msgstr "入侵者不值得憐憫。"
 
 #. Id: 46044-Dialogue.mod
 #. -- Index: 1.3
@@ -141,5 +141,4 @@ msgstr ""
 #. -- Group title: Skeleton spots intruder
 #: 46044-Dialogue.mod:3
 msgid "Trespassing."
-msgstr ""
-
+msgstr "非法侵入。"

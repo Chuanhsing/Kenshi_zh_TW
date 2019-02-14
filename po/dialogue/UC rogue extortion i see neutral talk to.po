@@ -24,7 +24,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
 #: 95902-Dialogue.mod:0 60589-Dialogue.mod:0
 msgid "Hoy, hope you got enough food here for the rest of us. It's a hungry job guarding these lands from bandits, you know?"
-msgstr ""
+msgstr "嗨，希望你們能為我們其他人提供足夠的食物。你知道，從土匪那裡守衛這些土地是一項飢腸轆轆的工作嗎？"
 
 #. Id: 95902-Dialogue.mod
 #. -- Index: 0.1
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
 #: 95902-Dialogue.mod:1 60589-Dialogue.mod:1
 msgid "It's a tiring job, guarding these lands, you know... Rogue slaves, hungry wolves, they all breed like rats... But somebody's got to do it. We don't want the outlands littered with devoured outposts, eh?"
-msgstr ""
+msgstr "這是一項令人厭倦的工作，守護這些土地，你知道......流氓奴隸，飢餓的狼，他們都像老鼠一樣繁殖......但有人必須這樣做。我們不希望外圍散落著被吞噬的前哨，是嗎？"
 
 #. Id: 95902-Dialogue.mod
 #. -- Index: 0.2
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95902-Dialogue.mod:2
 msgid "It's hungry work patrolling the outlands, keeping outposts like your's safe, you know?"
-msgstr ""
+msgstr "在外地巡邏是飢腸轆轆的工作，保持前哨就像你的安全，你知道嗎？"
 
 #. Id: 95903-Dialogue.mod
 #. -- Index: 1.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1000, Tag: -1
 #: 95903-Dialogue.mod:0
 msgid "Then here's a gift, for your hard work."
-msgstr ""
+msgstr "那麼這是給你辛勤工作的禮物。"
 
 #. Id: 95904-Dialogue.mod
 #. -- Index: 2.0
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95905-Dialogue.mod:0 60596-Dialogue.mod:0
 msgid "Respect the army."
-msgstr ""
+msgstr "尊重軍隊。"
 
 #. Id: 95905-Dialogue.mod
 #. -- Index: 3.1
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95905-Dialogue.mod:1 60596-Dialogue.mod:1
 msgid "Respect the Empire."
-msgstr ""
+msgstr "尊重帝國。"
 
 #. Id: 95905-Dialogue.mod
 #. -- Index: 3.2
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95905-Dialogue.mod:2 60608-Dialogue.mod:1 60596-Dialogue.mod:2
 msgid "*Wink*"
-msgstr ""
+msgstr "*眨眼*"
 
 #. Id: 95907-Dialogue.mod
 #. -- Index: 2.0
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95907-Dialogue.mod:0
 msgid "Well? Got any gifts of appreciation for your local Empire guard, dreg?"
-msgstr ""
+msgstr "好？對你當地的帝國後衛，dreg有什麼禮物讚賞？"
 
 #. Id: 95907-Dialogue.mod
 #. -- Index: 2.1
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95907-Dialogue.mod:1
 msgid "Silence? Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, dreg. Gonna show me some appreciation, a donation? Or do I need to teach you fear?"
-msgstr ""
+msgstr "安靜？這是我得到的謝意嗎？作為精英帝國的保護者？你應該知道，不要不尊重我們的權威，dreg。要給我一些讚賞，捐款嗎？或者我需要教你恐懼嗎？"
 
 #. Id: 95908-Dialogue.mod
 #. -- Index: 3.0
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95908-Dialogue.mod:0
 msgid "Me, respect you? No. You show ME some respect."
-msgstr ""
+msgstr "我，尊重你？不，你告訴我一些尊重。"
 
 #. Id: 95946-Dialogue.mod
 #. -- Index: 4.0
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95946-Dialogue.mod:0 61210-Dialogue.mod:0
 msgid "Who the-... Then if that's how you wanna play, that's how we'll play."
-msgstr ""
+msgstr "誰... -...那麼如果你想玩的話，那就是我們玩的方式。"
 
 #. Id: 95909-Dialogue.mod
 #. -- Index: 3.0
@@ -169,7 +169,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95909-Dialogue.mod:0 61212-Dialogue.mod:0
 msgid "Dreg?.. Do you even know who I am!?"
-msgstr ""
+msgstr "Dreg？..你甚至不知道我是誰！？"
 
 #. Id: 95910-Dialogue.mod
 #. -- Index: 4.0
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Group title: Longen talk to
 #: 95910-Dialogue.mod:0 65918-Dialogue.mod:0 61213-Dialogue.mod:0 56291-Dialogue.mod:0
 msgid "Enlighten me."
-msgstr ""
+msgstr "開導我。"
 
 #. Id: 95911-Dialogue.mod
 #. -- Index: 5.0
@@ -209,7 +209,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=0, Tag: -1
 #: 95911-Dialogue.mod:0 61214-Dialogue.mod:0
 msgid "I'm a noble lord of the Empire!"
-msgstr ""
+msgstr "我是帝國的貴族領主！"
 
 #. Id: 95912-Dialogue.mod
 #. -- Index: 6.0
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION>2, Tag: -1
 #: 95915-Dialogue.mod:0 61223-Dialogue.mod:0
 msgid "I serve the nobles, I know the face of every last one of 'em... and you're not one of 'em. So, just for lying to me, I'm gonna have to teach you a lesson..."
-msgstr ""
+msgstr "我為貴族服務，我知道他們每一個人的面孔...而且你不是他們中的一個。所以，只是為了騙我，我要教你一課......"
 
 #. Id: 95919-Dialogue.mod
 #. -- Index: 7.0
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 95920-Dialogue.mod:0 61215-Dialogue.mod:0
 msgid "I'm a noble lady of the Empire!"
-msgstr ""
+msgstr "我是帝國的貴族女士！"
 
 #. Id: 95923-Dialogue.mod
 #. -- Index: 5.0
@@ -297,7 +297,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95923-Dialogue.mod:0 61217-Dialogue.mod:0
 msgid "I'm the Bugmaster slayer!"
-msgstr ""
+msgstr "我是Bugmaster殺手！"
 
 #. Id: 95924-Dialogue.mod
 #. -- Index: 6.0
@@ -341,7 +341,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95924-Dialogue.mod:0 95934-Dialogue.mod:0 95935-Dialogue.mod:0 95936-Dialogue.mod:0 61237-Dialogue.mod:0 61252-Dialogue.mod:0 61244-Dialogue.mod:0 95898-Dialogue.mod:0
 msgid "[They look to their comrade. They exchange worried nods]..."
-msgstr ""
+msgstr "[他們期待他們的同志。他們交換擔心的點頭] ......"
 
 #. Id: 95925-Dialogue.mod
 #. -- Index: 7.0
@@ -355,7 +355,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95925-Dialogue.mod:0 61239-Dialogue.mod:0
 msgid "Well, uh... Bugmaster slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
-msgstr ""
+msgstr "好吧，呃...... Bugmaster殺手，呵呵......我，呃......永遠不應該叫你一個dreg，我錯了，看......"
 
 #. Id: 95926-Dialogue.mod
 #. -- Index: 8.0
@@ -397,7 +397,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95928-Dialogue.mod:0 61242-Dialogue.mod:0
 msgid "Show the has-been who's champion these days!"
-msgstr ""
+msgstr "這些天展示誰曾經是冠軍！"
 
 #. Id: 95929-Dialogue.mod
 #. -- Index: 5.0
@@ -425,7 +425,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95937-Dialogue.mod:0 61253-Dialogue.mod:0
 msgid "Well, uh... Phoenix slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
-msgstr ""
+msgstr "好吧，呃......鳳凰殺手，嗯......我，呃......永遠不應該叫你一個dreg，我錯了，看......"
 
 #. Id: 95938-Dialogue.mod
 #. -- Index: 6.0
@@ -467,7 +467,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95939-Dialogue.mod:0 61245-Dialogue.mod:0
 msgid "Well, uh... Queen slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
-msgstr ""
+msgstr "好吧，呃......女王殺手，嗯......我，呃......永遠不應該叫你一個dreg，我錯了，看......"
 
 #. Id: 95940-Dialogue.mod
 #. -- Index: 6.0
@@ -495,7 +495,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95931-Dialogue.mod:0 61220-Dialogue.mod:0
 msgid "I'm your worst nightmare."
-msgstr ""
+msgstr "我是你最糟糕的噩夢。"
 
 #. Id: 95941-Dialogue.mod
 #. -- Index: 6.0
@@ -523,7 +523,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95941-Dialogue.mod:1 61248-Dialogue.mod:1
 msgid "... Cocky for a dreg, aren't you?"
-msgstr ""
+msgstr "......對於一個dreg來說很自豪，不是嗎？"
 
 #. Id: 95942-Dialogue.mod
 #. -- Index: 7.0
@@ -551,7 +551,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95932-Dialogue.mod:0 61221-Dialogue.mod:0
 msgid "Draw your sword and I'll show you..."
-msgstr ""
+msgstr "畫你的劍，我會告訴你......"
 
 #. Id: 95943-Dialogue.mod
 #. -- Index: 6.0
@@ -565,7 +565,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95943-Dialogue.mod:0 61250-Dialogue.mod:0
 msgid "A fool's move... Then show me what you've got!"
-msgstr ""
+msgstr "傻瓜的舉動...然後告訴我你有什麼！"
 
 #. Id: 95933-Dialogue.mod
 #. -- Index: 5.0
@@ -593,7 +593,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95944-Dialogue.mod:0 95900-Dialogue.mod:0
 msgid "Well, uh... Tinfist slayer, huh... I, uh... Should never have called you a dreg, I was mistaken, see..."
-msgstr ""
+msgstr "好吧，呃...... Tinfist殺手，呵呵......我，呃......永遠不應該叫你一個dreg，我錯了，看......"
 
 #. Id: 95945-Dialogue.mod
 #. -- Index: 6.0
@@ -621,7 +621,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95947-Dialogue.mod:0 60602-Dialogue.mod:0
 msgid "Get to the point. What do you want?"
-msgstr ""
+msgstr "達到目的。你想要什麼？"
 
 #. Id: 95950-Dialogue.mod
 #. -- Index: 2.0
@@ -639,7 +639,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95950-Dialogue.mod:1
 msgid "A bit of appreciation for your protectors sweating in the outlands. A donation."
-msgstr ""
+msgstr "對你的保護者在外地出汗感到有點讚賞。捐款。"
 
 #. Id: 95952-Dialogue.mod
 #. -- Index: 3.0
@@ -655,7 +655,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 95952-Dialogue.mod:0 60613-Dialogue.mod:0
 msgid "I can't afford a donation..."
-msgstr ""
+msgstr "我付不起捐款......"
 
 #. Id: 95953-Dialogue.mod
 #. -- Index: 4.0
@@ -697,7 +697,7 @@ msgstr ""
 #. -- Group title: Territorial thug (Dancemonkey pt4)
 #: 95959-Dialogue.mod:0 9908-Dialogue.mod:0 15447-Dialogue.mod:0 9946-Dialogue.mod:0
 msgid "(Spit in their face)"
-msgstr ""
+msgstr "（吐在臉上）"
 
 #. Id: 95960-Dialogue.mod
 #. -- Index: 6.0
@@ -706,7 +706,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95960-Dialogue.mod:0
 msgid "You little-..."
-msgstr ""
+msgstr "你小..."
 
 #. Id: 95960-Dialogue.mod
 #. -- Index: 6.1
@@ -715,7 +715,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95960-Dialogue.mod:1
 msgid "And now I'm pissed."
-msgstr ""
+msgstr "而現在我很生氣。"
 
 #. Id: 95961-Dialogue.mod
 #. -- Index: 7.0
@@ -729,7 +729,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95961-Dialogue.mod:0 61196-Dialogue.mod:0
 msgid "Allow me to teach you some respect!"
-msgstr ""
+msgstr "請允許我教你一些尊重！"
 
 #. Id: 95963-Dialogue.mod
 #. -- Index: 6.0
@@ -738,7 +738,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95963-Dialogue.mod:0
 msgid "No? Nothing?..."
-msgstr ""
+msgstr "沒有？沒有？..."
 
 #. Id: 95963-Dialogue.mod
 #. -- Index: 6.1
@@ -747,7 +747,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95963-Dialogue.mod:1
 msgid "... Not gonna bite, eh?"
-msgstr ""
+msgstr "......不會咬人，是嗎？"
 
 #. Id: 95963-Dialogue.mod
 #. -- Index: 6.2
@@ -756,7 +756,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95963-Dialogue.mod:2
 msgid "Well. Guess that's my entertainment over from you..."
-msgstr ""
+msgstr "好。猜猜這是我的娛樂..."
 
 #. Id: 95957-Dialogue.mod
 #. -- Index: 4.0
@@ -774,7 +774,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 95958-Dialogue.mod:0
 msgid "If you can't look after your local guards... well, I can't promise we'll look after you."
-msgstr ""
+msgstr "如果你不能照顧當地的警衛......好吧，我不能保證我們會照顧你。"
 
 #. Id: 96044-Dialogue.mod
 #. -- Index: 6.0
@@ -783,7 +783,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 96044-Dialogue.mod:0
 msgid "Useless dreg."
-msgstr ""
+msgstr "無用的渣滓。"
 
 #. Id: 96042-Dialogue.mod
 #. -- Index: 5.0
@@ -792,7 +792,7 @@ msgstr ""
 #. -- Group title: UC rogue extortion i see neutral talk to
 #: 96042-Dialogue.mod:0
 msgid "Looks like we'll have to search for a donation ourselves..."
-msgstr ""
+msgstr "看起來我們必須自己尋找捐款......"
 
 #. Id: 95964-Dialogue.mod
 #. -- Index: 1.0
@@ -806,7 +806,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95964-Dialogue.mod:0 62164-__additions.mod:0
 msgid "And thank you for the hard work."
-msgstr ""
+msgstr "謝謝你的辛勤工作。"
 
 #. Id: 95965-Dialogue.mod
 #. -- Index: 2.0
@@ -853,7 +853,7 @@ msgstr ""
 #. -- Group title: stone rat base extortion negotiate
 #: 95966-Dialogue.mod:0 62166-__additions.mod:0 61905-Dialogue.mod:0
 msgid "I'm not paying you anything."
-msgstr ""
+msgstr "我不付你什麼。"
 
 #. Id: 95967-Dialogue.mod
 #. -- Index: 1.0
@@ -867,7 +867,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95967-Dialogue.mod:0 60603-Dialogue.mod:0
 msgid "(Roll your eyes)"
-msgstr ""
+msgstr "（翻白眼）"
 
 #. Id: 95967-Dialogue.mod
 #. -- Index: 1.1
@@ -881,7 +881,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95967-Dialogue.mod:1 60603-Dialogue.mod:1
 msgid "So what. What do you want, a medal?"
-msgstr ""
+msgstr "所以呢。你想要什麼，一枚獎牌？"
 
 #. Id: 95967-Dialogue.mod
 #. -- Index: 1.2
@@ -900,7 +900,7 @@ msgstr ""
 #. -- Group title: UC Extortion rogue base visit talk to
 #: 95967-Dialogue.mod:2 9867-Dialogue.mod:2 60603-Dialogue.mod:2
 msgid "Do I look like I care?"
-msgstr ""
+msgstr "我看起來像在乎嗎？"
 
 #. Id: 95968-Dialogue.mod
 #. -- Index: 2.0
@@ -910,4 +910,3 @@ msgstr ""
 #: 95968-Dialogue.mod:0
 msgid "Is that the thanks I get? As protector of the elite Empire? You should know better than to disrepect our authority, /PEASANT/. Gonna show me some appreciation, a donation? Or do I need to teach you how to fear?"
 msgstr ""
-

@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 5372-gamedata.base:0 3829-gamedata.base:5 3846-gamedata.base:1 3832-gamedata.base:4
 msgid "Well well well!"
-msgstr ""
+msgstr "好吧！"
 
 #. Id: 5372-gamedata.base
 #. -- Index: 0.1
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 5372-gamedata.base:1
 msgid "Hang on..."
-msgstr ""
+msgstr "不掛斷..."
 
 #. Id: 5372-gamedata.base
 #. -- Index: 0.2
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: slave spotting escapING
 #: 5372-gamedata.base:2 5390-gamedata.base:0
 msgid "Wait a minute..."
-msgstr ""
+msgstr "等一下..."
 
 #. Id: 5372-gamedata.base
 #. -- Index: 0.3
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Group title: police slave spotting escapED
 #: 5374-gamedata.base:0
 msgid "You look suspicious..."
-msgstr ""
+msgstr "你看起來很可疑......"
 
 #. Id: 5387-gamedata.base
 #. -- Index: 2.0
@@ -132,5 +132,4 @@ msgstr ""
 #. -- Group title: police see crime
 #: 5387-gamedata.base:0 13619-Escapes.mod:0 12593-gamedata.base:3 15621-Dialogue.mod:4 12583-gamedata.base:2
 msgid "You're under arrest!"
-msgstr ""
-
+msgstr "你被捕了！"

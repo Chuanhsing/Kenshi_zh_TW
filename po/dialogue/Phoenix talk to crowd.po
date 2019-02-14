@@ -50,7 +50,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 57134-Dialogue.mod:0 59901-Dialogue.mod:2 59956-Dialogue.mod:1 64645-Dialogue.mod:1 64646-Dialogue.mod:2 64647-Dialogue.mod:1
 msgid "Protect the Holy Lord Phoenix!"
-msgstr ""
+msgstr "保護神聖鳳凰！"
 
 #. Id: 57134-Dialogue.mod
 #. -- Index: 0.1
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 57134-Dialogue.mod:2
 msgid "Holy Lord Phoenix!"
-msgstr ""
+msgstr "聖鳳凰！"
 
 #. Id: 59901-Dialogue.mod
 #. -- Index: 0.0
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 59901-Dialogue.mod:0 64646-Dialogue.mod:0
 msgid "Flotsam! Protect the Holy Lord Phoenix!"
-msgstr ""
+msgstr "廢料！保護神聖鳳凰！"
 
 #. Id: 59901-Dialogue.mod
 #. -- Index: 0.1
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 59901-Dialogue.mod:1 64338-Dialogue.mod:0 64646-Dialogue.mod:1
 msgid "Flotsam!"
-msgstr ""
+msgstr "廢料！"
 
 #. Id: 59956-Dialogue.mod
 #. -- Index: 0.0
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 59956-Dialogue.mod:0 64647-Dialogue.mod:0
 msgid "Skeleton lover!"
-msgstr ""
+msgstr "骷髏情人！"
 
 #. Id: 59956-Dialogue.mod
 #. -- Index: 0.2
@@ -152,5 +152,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 59956-Dialogue.mod:2 64645-Dialogue.mod:2 64647-Dialogue.mod:2
 msgid "Minion of Tinfist!"
-msgstr ""
-
+msgstr "Tinfist的奴才！"

@@ -30,7 +30,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 9248-D-Dialogue.mod:0 15873-Dialogue.mod:0 15877-Dialogue.mod:1
 msgid "Hey! What are you doing?! Get off of me!"
-msgstr ""
+msgstr "嘿!你在做什麼？！你離我遠點！"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.1
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 9248-D-Dialogue.mod:1 15873-Dialogue.mod:1
 msgid "No! Get off me! What are you doing?"
-msgstr ""
+msgstr "沒有！離開我！你在做什麼？"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.2
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 9248-D-Dialogue.mod:2 15879-Dialogue.mod:1
 msgid "Wh-what are you doing to me!?"
-msgstr ""
+msgstr "什麼 - 你在跟我做什麼！？"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.3
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 9248-D-Dialogue.mod:3 15873-Dialogue.mod:3 15877-Dialogue.mod:2
 msgid "No! Back off! Don't touch me!"
-msgstr ""
+msgstr "沒有！退後！別碰我！"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.4
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: Marked for death shek civ
 #: 9248-D-Dialogue.mod:4 15879-Dialogue.mod:2 12203-Dialogue?(10).mod:3
 msgid "Go away! Leave me alone!"
-msgstr ""
+msgstr "走開！請別打擾我！"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.5
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 9248-D-Dialogue.mod:5 15879-Dialogue.mod:0
 msgid "Wh-what do you want from me!?"
-msgstr ""
+msgstr "什麼 - 你想要我什麼！？"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.6
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 9248-D-Dialogue.mod:6 15873-Dialogue.mod:7
 msgid "Wh... why are you helping me?"
-msgstr ""
+msgstr "誰...你為什麼幫我？"
 
 #. Id: 9248-D-Dialogue.mod
 #. -- Index: 0.7
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 9248-D-Dialogue.mod:7 15873-Dialogue.mod:8
 msgid "You're... you're helping me?"
-msgstr ""
+msgstr "你......你在幫助我？"
 
 #. Id: 15871-Dialogue.mod
 #. -- Index: 0.0
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
 #: 15871-Dialogue.mod:0 15874-Dialogue.mod:0 3588-dialogue-01.mod:0
 msgid "Why are you healing me?"
-msgstr ""
+msgstr "你為什麼要治愈我？"
 
 #. Id: 15871-Dialogue.mod
 #. -- Index: 0.1
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
 #: 15871-Dialogue.mod:1 15874-Dialogue.mod:1 3588-dialogue-01.mod:1
 msgid "What're you doing? We're enemies."
-msgstr ""
+msgstr "你在做什麼？我們是敵人。"
 
 #. Id: 15871-Dialogue.mod
 #. -- Index: 0.2
@@ -209,7 +209,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
 #: 15871-Dialogue.mod:2 15874-Dialogue.mod:2 3588-dialogue-01.mod:2
 msgid "This a trick?"
-msgstr ""
+msgstr "這個伎倆？"
 
 #. Id: 15871-Dialogue.mod
 #. -- Index: 0.3
@@ -231,5 +231,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
 #: 15871-Dialogue.mod:3 15877-Dialogue.mod:0 3588-dialogue-01.mod:3
 msgid "The hell are you playing at?"
-msgstr ""
-
+msgstr "你到底在玩什麼？"

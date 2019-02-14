@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_IS_SLAVE_OF_MY_FACTION=1, Tag: -1
 #: 41026-Dialogue.mod:0
 msgid "You're not one of us!"
-msgstr ""
+msgstr "你不是我們中的一員！"
 
 #. Id: 41026-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_IS_SLAVE_OF_MY_FACTION=1, Tag: -1
 #: 41026-Dialogue.mod:1
 msgid "You... you're an imposter!"
-msgstr ""
+msgstr "你......你是冒名頂替者！"
 
 #. Id: 41026-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_IS_SLAVE_OF_MY_FACTION=1, Tag: -1
 #: 41026-Dialogue.mod:2
 msgid "You... you're wearing our uniform!"
-msgstr ""
+msgstr "你......你穿著我們的製服！"
 
 #. Id: 41027-Dialogue.mod
 #. -- Index: 1.0
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Group title: slaver paladin sees imposter
 #: 41027-Dialogue.mod:1
 msgid "Don't let the heretic escape!"
-msgstr ""
+msgstr "不要讓異教徒逃脫！"
 
 #. Id: 41027-Dialogue.mod
 #. -- Index: 1.2
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Group title: slaver paladin sees imposter
 #: 41027-Dialogue.mod:2
 msgid "Trying to escape? Okran will punish you!"
-msgstr ""
+msgstr "想逃跑？奧克蘭會懲罰你！"
 
 #. Id: 41031-Dialogue.mod
 #. -- Index: 0.0
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 41031-Dialogue.mod:0
 msgid "You! I know you!"
-msgstr ""
+msgstr "您！我認識你！"
 
 #. Id: 41031-Dialogue.mod
 #. -- Index: 0.1
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 41031-Dialogue.mod:1
 msgid "... You! I know your face!"
-msgstr ""
+msgstr "......你！我知道你的臉！"
 
 #. Id: 41033-Dialogue.mod
 #. -- Index: 1.0
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Group title: slaver paladin sees imposter
 #: 41033-Dialogue.mod:0
 msgid "Wearing our uniform? You'll escape over my dead body!"
-msgstr ""
+msgstr "穿我們的製服？你會逃脫我的屍體！"
 
 #. Id: 41033-Dialogue.mod
 #. -- Index: 1.1
@@ -133,4 +133,3 @@ msgstr ""
 #: 41034-Dialogue.mod:1
 msgid "Imposter! Don't let /HIM/ escape!"
 msgstr ""
-

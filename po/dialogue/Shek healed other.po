@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Shek healed other
 #: 12110-Dialogue?(10).mod:0
 msgid "Your body is fixed"
-msgstr ""
+msgstr "你的身體是固定的"
 
 #. Id: 12110-Dialogue (10).mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Shek healed other
 #: 12110-Dialogue?(10).mod:1
 msgid "You'll fight another day"
-msgstr ""
+msgstr "你會再戰鬥一天"
 
 #. Id: 12110-Dialogue (10).mod
 #. -- Index: 0.2
@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 12110-Dialogue?(10).mod:2 17523-Dialogue.mod:2
 msgid "All mended"
-msgstr ""
+msgstr "全修補"
 
 #. Id: 12110-Dialogue (10).mod
 #. -- Index: 0.3
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Group title: Shek healed other
 #: 12110-Dialogue?(10).mod:3
 msgid "Good enough for battle"
-msgstr ""
+msgstr "足以勝任戰鬥"
 
 #. Id: 17523-Dialogue.mod
 #. -- Index: 0.0
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 17523-Dialogue.mod:0 8469-Dialogue.mod:4
 msgid "Finished"
-msgstr ""
+msgstr "成品"
 
 #. Id: 17523-Dialogue.mod
 #. -- Index: 0.1
@@ -77,5 +77,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17523-Dialogue.mod:1
 msgid "All fixed"
-msgstr ""
-
+msgstr "全部固定"

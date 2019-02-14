@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Military training equipment
 #: 52908-Dialogue.mod:0
 msgid "You! What do you think you're doing? That's private equipment."
-msgstr ""
+msgstr "您！你覺得你在做什麼？那是私人設備。"
 
 #. Id: 52908-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Military training equipment
 #: 52908-Dialogue.mod:1
 msgid "You! Get away from there, that's private equipment."
-msgstr ""
+msgstr "您！遠離那裡，這是私人設備。"
 
 #. Id: 52909-Dialogue.mod
 #. -- Index: 1.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52909-Dialogue.mod:0
 msgid "Back away from there, now."
-msgstr ""
+msgstr "現在回到那裡。"
 
 #. Id: 52909-Dialogue.mod
 #. -- Index: 1.1
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52909-Dialogue.mod:1
 msgid "Back away from the machine, now."
-msgstr ""
+msgstr "現在退出機器。"
 
 #. Id: 52909-Dialogue.mod
 #. -- Index: 1.2
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52909-Dialogue.mod:2
 msgid "Step away from the machine, now."
-msgstr ""
+msgstr "現在離開機器。"
 
 #. Id: 52909-Dialogue.mod
 #. -- Index: 1.3
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52909-Dialogue.mod:3
 msgid "Step away from the apparatus, now."
-msgstr ""
+msgstr "現在離開裝置。"
 
 #. Id: 52938-Dialogue.mod
 #. -- Index: 2.0
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 52938-Dialogue.mod:0 61105-Dialogue.mod:0 61058-Dialogue.mod:0 62043-Dialogue.mod:0 53513-Dialogue.mod:1
 msgid "Last warning!"
-msgstr ""
+msgstr "最後一次警告！"
 
 #. Id: 52938-Dialogue.mod
 #. -- Index: 2.1
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52938-Dialogue.mod:1
 msgid "Last warning. I won't tell you again."
-msgstr ""
+msgstr "最後一次警告。我不會再告訴你了。"
 
 #. Id: 52938-Dialogue.mod
 #. -- Index: 2.2
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52938-Dialogue.mod:2
 msgid "I won't ask you again. Back away or pay the price."
-msgstr ""
+msgstr "我不會再問你了。退回或付出代價。"
 
 #. Id: 52938-Dialogue.mod
 #. -- Index: 2.3
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52938-Dialogue.mod:3
 msgid "Keep touching our property and I'll arrest you. Last warning."
-msgstr ""
+msgstr "繼續觸摸我們的財產，我會逮捕你。最後一次警告。"
 
 #. Id: 52938-Dialogue.mod
 #. -- Index: 2.4
@@ -148,7 +148,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52938-Dialogue.mod:5
 msgid "Keep ignoring me and you'll land yourself in prison. Leave, now."
-msgstr ""
+msgstr "繼續無視我，你將陷入監獄。現在離開。"
 
 #. Id: 52939-Dialogue.mod
 #. -- Index: 3.0
@@ -179,4 +179,3 @@ msgstr ""
 #: 52939-Dialogue.mod:2
 msgid "Interfering with official equipment... /SEIZE/ /HIM/."
 msgstr ""
-

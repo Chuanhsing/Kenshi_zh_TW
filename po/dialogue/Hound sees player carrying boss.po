@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Hound sees player carrying boss
 #: 66358-Dialogue.mod:0
 msgid "What are ya doin' with HIM?!"
-msgstr ""
+msgstr "與HIM有什麼關係？！"
 
 #. Id: 66356-Dialogue.mod
 #. -- Index: 0.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 66356-Dialogue.mod:0
 msgid "Big Gray?"
-msgstr ""
+msgstr "大灰？"
 
 #. Id: 66357-Dialogue.mod
 #. -- Index: 1.0
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
 #: 66361-Dialogue.mod:1 66363-Dialogue.mod:3 66365-Dialogue.mod:3
 msgid "... Oh... hell..."
-msgstr ""
+msgstr "... 哦地獄..."
 
 #. Id: 66366-Dialogue.mod
 #. -- Index: 1.0
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Group title: Hound sees player carrying boss
 #: 66367-Dialogue.mod:0
 msgid "'Causin' trouble? "
-msgstr ""
+msgstr "'因果'麻煩？"
 
 #. Id: 66368-Dialogue.mod
 #. -- Index: 3.0
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Group title: Hound sees player carrying boss
 #: 66368-Dialogue.mod:0
 msgid "Should put him back, eh? We got a good thing goin' here..."
-msgstr ""
+msgstr "應該把他放回去，嗯？我們在這裡做了一件好事......"
 
 #. Id: 66375-Dialogue.mod
 #. -- Index: 4.0
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Group title: Hound sees player carrying boss
 #: 66375-Dialogue.mod:0
 msgid "Don't wanna be pokin' no spider nests."
-msgstr ""
+msgstr "不想成為'沒有蜘蛛巢。"
 
 #. Id: 66375-Dialogue.mod
 #. -- Index: 4.1
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Group title: Hound sees player carrying boss
 #: 66375-Dialogue.mod:1
 msgid "Don't be chuckin' stones at spider nests."
-msgstr ""
+msgstr "不要在蜘蛛巢里扔石頭。"
 
 #. Id: 66362-Dialogue.mod
 #. -- Index: 0.0
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 66362-Dialogue.mod:0
 msgid "Big Darkbrow?"
-msgstr ""
+msgstr "大黑眉？"
 
 #. Id: 66369-Dialogue.mod
 #. -- Index: 1.0
@@ -143,7 +143,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 66364-Dialogue.mod:0
 msgid "Big Al?"
-msgstr ""
+msgstr "大鋁？"
 
 #. Id: 66379-Dialogue.mod
 #. -- Index: 1.0
@@ -162,7 +162,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 66376-Dialogue.mod:0
 msgid "Big Fang?"
-msgstr ""
+msgstr "大方？"
 
 #. Id: 66380-Dialogue.mod
 #. -- Index: 1.0
@@ -172,4 +172,3 @@ msgstr ""
 #: 66380-Dialogue.mod:0
 msgid "/WHATTHEFUCK/ are you doin' with Big Fang?"
 msgstr ""
-

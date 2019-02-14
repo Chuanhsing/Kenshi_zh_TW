@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=0, Tag: -1
 #: 45223-Dialogue.mod:0
 msgid "You ain't one of my men!? How the hell d'you find my tower!?"
-msgstr ""
+msgstr "你不是我的男人之一！？你怎麼找到我的塔！？"
 
 #. Id: 45224-Dialogue.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 45224-Dialogue.mod:0
 msgid "Wrong place to gate crash, meatbag! "
-msgstr ""
+msgstr "錯誤的地方門口崩潰，肉袋！"
 
 #. Id: 45226-Dialogue.mod
 #. -- Index: 2.0
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=0, Tag: -1
 #: 45226-Dialogue.mod:0
 msgid "I'll kill you! I'll gut you like a stinkin' fish!"
-msgstr ""
+msgstr "我會殺了你！我會讓你像一條臭魚！"
 
 #. Id: 45225-Dialogue.mod
 #. -- Index: 3.0
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 45234-Dialogue.mod:0
 msgid "I'll add you to the pile of other bounty huntin' meatbag carcasses!"
-msgstr ""
+msgstr "我會把你加到其他賞金亨廷'肉袋屍體上！"
 
 #. Id: 45249-Dialogue.mod
 #. -- Index: 0.0
@@ -70,5 +70,4 @@ msgstr ""
 #. -- Group title: Dust King sees player in lair
 #: 45249-Dialogue.mod:0
 msgid "You! How the hell d'you find my tower!?"
-msgstr ""
-
+msgstr "您！你怎麼找到我的塔！？"

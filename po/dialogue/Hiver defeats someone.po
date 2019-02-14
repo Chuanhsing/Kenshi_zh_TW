@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 18106-Dialogue.mod:0 19731-Dialogue.mod:7 19776-Dialogue.mod:0 19744-Dialogue.mod:6
 msgid "Protect the Queen!"
-msgstr ""
+msgstr "保護女王！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.1
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 18106-Dialogue.mod:1 56092-Dialogue.mod:3 19731-Dialogue.mod:0 19776-Dialogue.mod:1 56191-Dialogue.mod:1
 msgid "Protect the Hive!"
-msgstr ""
+msgstr "保護蜂巢！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.2
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 18106-Dialogue.mod:2 19737-Dialogue.mod:0 19731-Dialogue.mod:1
 msgid "Enemies of the Queen! Raze them!"
-msgstr ""
+msgstr "女王的敵人！拉扯他們！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.3
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 18106-Dialogue.mod:3 19737-Dialogue.mod:1 19731-Dialogue.mod:2
 msgid "Enemies of the Queen! Kill!"
-msgstr ""
+msgstr "女王的敵人！殺！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.4
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 18106-Dialogue.mod:4 19731-Dialogue.mod:3
 msgid "Preserve the Hive!"
-msgstr ""
+msgstr "保留蜂巢！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.5
@@ -156,7 +156,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 18106-Dialogue.mod:5 19731-Dialogue.mod:4
 msgid "Defend the Queen!"
-msgstr ""
+msgstr "保衛女王！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.6
@@ -197,7 +197,7 @@ msgstr ""
 #. -- Group title: Hiver witness generic assault
 #: 18106-Dialogue.mod:6 19737-Dialogue.mod:2 19729-Dialogue.mod:1 19731-Dialogue.mod:5 18140-Dialogue.mod:1 19749-Dialogue.mod:8
 msgid "Erase the enemy!"
-msgstr ""
+msgstr "消滅敵人！"
 
 #. Id: 18106-Dialogue.mod
 #. -- Index: 0.7
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 18106-Dialogue.mod:7 19731-Dialogue.mod:6
 msgid "Secure the Hive!"
-msgstr ""
+msgstr "保護蜂巢！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.3
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:3
 msgid "The enemy will be erased!"
-msgstr ""
+msgstr "敵人將被抹去！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.4
@@ -233,7 +233,7 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:4
 msgid "The enemy will not live!"
-msgstr ""
+msgstr "敵人不會活著！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.5
@@ -242,7 +242,7 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:5
 msgid "For the Queen! Erase the enemy!"
-msgstr ""
+msgstr "對於女王！消滅敵人！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.6
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:6
 msgid "For the Queen! Raze the enemy!"
-msgstr ""
+msgstr "對於女王！掠奪敵人！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.7
@@ -260,7 +260,7 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:7
 msgid "For the Queen! The enemy will be erased!"
-msgstr ""
+msgstr "對於女王！敵人將被抹去！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.8
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 19737-Dialogue.mod:8 18140-Dialogue.mod:2
 msgid "Erase the enemies of the Hive!"
-msgstr ""
+msgstr "擦除蜂巢的敵人！"
 
 #. Id: 19737-Dialogue.mod
 #. -- Index: 0.9
@@ -284,5 +284,4 @@ msgstr ""
 #. -- Group title: Hiver defeats someone
 #: 19737-Dialogue.mod:9
 msgid "Destroy the enemies of the Hive!"
-msgstr ""
-
+msgstr "消滅蜂巢的敵人！"

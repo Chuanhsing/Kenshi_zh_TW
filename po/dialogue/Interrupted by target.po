@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7082-Dialogue.mod:0
 msgid "What the hell!?"
-msgstr ""
+msgstr "我勒個去！？"
 
 #. Id: 7082-Dialogue.mod
 #. -- Index: 1.2
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:0
 msgid "Why!? "
-msgstr ""
+msgstr "為什麼！？"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.1
@@ -68,7 +68,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:1
 msgid "Why me!?"
-msgstr ""
+msgstr "為什麼是我！？"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.2
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:2
 msgid "Please, no!"
-msgstr ""
+msgstr "請不！"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.3
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Cannibals
 #: 7083-Dialogue.mod:3 6004-Dialogue.mod:15
 msgid "Please don't hurt me!"
-msgstr ""
+msgstr "請不要傷害我！"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.4
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:4
 msgid "Why are you doing this to me?!"
-msgstr ""
+msgstr "你為什麼這樣對我？！"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.5
@@ -121,7 +121,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:5
 msgid "I don't deserve this!"
-msgstr ""
+msgstr "我不值得這個！"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.6
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:6
 msgid "Wh- why!?"
-msgstr ""
+msgstr "為什麼！？"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.7
@@ -143,7 +143,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:7
 msgid "Wh- why do you do this?!"
-msgstr ""
+msgstr "你為什麼這樣做？！"
 
 #. Id: 7083-Dialogue.mod
 #. -- Index: 1.8
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7083-Dialogue.mod:8
 msgid "Why?! Whyyy?!"
-msgstr ""
+msgstr "為什麼？！ Whyyy？"
 
 #. Id: 7087-Dialogue.mod
 #. -- Index: 1.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
 #: 7087-Dialogue.mod:0
 msgid "Huh?! You won't get away with this!"
-msgstr ""
+msgstr "咦？你不會僥倖逃脫！"
 
 #. Id: 7087-Dialogue.mod
 #. -- Index: 1.1
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_OUTNUMBERED=1, Tag: -1
 #: 7087-Dialogue.mod:1
 msgid "What?! You'll never get away with this!"
-msgstr ""
+msgstr "什麼？！你永遠不會僥倖逃脫！"
 
 #. Id: 7087-Dialogue.mod
 #. -- Index: 1.2
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7093-Dialogue.mod:0
 msgid "Please! No!"
-msgstr ""
+msgstr "請！沒有！"
 
 #. Id: 7093-Dialogue.mod
 #. -- Index: 1.1
@@ -209,7 +209,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7093-Dialogue.mod:1
 msgid "Please! I have no chance against all of you!"
-msgstr ""
+msgstr "請！我沒有機會反對你們所有人！"
 
 #. Id: 7093-Dialogue.mod
 #. -- Index: 1.2
@@ -226,7 +226,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7093-Dialogue.mod:2 7097-Dialogue.mod:0
 msgid "Have mercy!"
-msgstr ""
+msgstr "憐憫！"
 
 #. Id: 7093-Dialogue.mod
 #. -- Index: 1.3
@@ -237,7 +237,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 7093-Dialogue.mod:3
 msgid "Please! I can't beat all of you!"
-msgstr ""
+msgstr "請！我不能打敗你們所有人！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.1
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:1
 msgid "I'm unarmed! Have mercy!"
-msgstr ""
+msgstr "我沒有武裝！憐憫！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.2
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:2
 msgid "I have no weapon! Please stop!"
-msgstr ""
+msgstr "我沒有武器！請停止！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.3
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:3
 msgid "No! Please!"
-msgstr ""
+msgstr "沒有！請！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.4
@@ -277,7 +277,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:4
 msgid "Wh- why!? Why!??"
-msgstr ""
+msgstr "為什麼！？為什麼！？？"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.7
@@ -287,7 +287,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:7
 msgid "Please, I'm unarmed!"
-msgstr ""
+msgstr "拜託，我沒有武裝！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.8
@@ -297,7 +297,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:8
 msgid "Please, I yield! I yield!"
-msgstr ""
+msgstr "拜託，我屈服！我屈服了！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.9
@@ -307,7 +307,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:9
 msgid "Why?! Please, no!"
-msgstr ""
+msgstr "為什麼？！請不！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.10
@@ -317,7 +317,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:10
 msgid "Why?! I'm unarmed!"
-msgstr ""
+msgstr "為什麼？！我沒有武裝！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.11
@@ -327,7 +327,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:11
 msgid "Why?! Have mercy!"
-msgstr ""
+msgstr "為什麼？！憐憫！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.12
@@ -337,7 +337,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:12
 msgid "Please, have mercy!"
-msgstr ""
+msgstr "請憐憫！"
 
 #. Id: 7097-Dialogue.mod
 #. -- Index: 1.15
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 7097-Dialogue.mod:15
 msgid "Mercy!"
-msgstr ""
+msgstr "憐憫！"
 
 #. Id: 7100-Dialogue.mod
 #. -- Index: 1.0
@@ -383,7 +383,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7100-Dialogue.mod:2
 msgid "Big mistake! I'll squash you like an insect!"
-msgstr ""
+msgstr "大錯！我會像昆蟲一樣壓扁你！"
 
 #. Id: 13688-Escapes.mod
 #. -- Index: 1.0
@@ -405,7 +405,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 13688-Escapes.mod:1
 msgid "Have you no honour? I'm unarmed!"
-msgstr ""
+msgstr "你沒有榮譽嗎？我沒有武裝！"
 
 #. Id: 13688-Escapes.mod
 #. -- Index: 1.2
@@ -436,7 +436,7 @@ msgstr ""
 #. -- Group title: Interrupted by target
 #: 15965-Dialogue.mod:0
 msgid "Huh?! Why are you doing this?!"
-msgstr ""
+msgstr "咦？你為什麼做這個？！"
 
 #. Id: 15965-Dialogue.mod
 #. -- Index: 1.1
@@ -445,7 +445,7 @@ msgstr ""
 #. -- Group title: Interrupted by target
 #: 15965-Dialogue.mod:1
 msgid "Why?!!!"
-msgstr ""
+msgstr "為什麼？！！！"
 
 #. Id: 43991-Dialogue.mod
 #. -- Index: 1.1
@@ -455,7 +455,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
 #: 43991-Dialogue.mod:1
 msgid "Get away! "
-msgstr ""
+msgstr "逃離！"
 
 #. Id: 43991-Dialogue.mod
 #. -- Index: 1.2
@@ -476,7 +476,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 43991-Dialogue.mod:2 8532-Dialogue.mod:5 15627-Dialogue.mod:2
 msgid "No! Get away from me!"
-msgstr ""
+msgstr "沒有！遠離我！"
 
 #. Id: 43991-Dialogue.mod
 #. -- Index: 1.3
@@ -486,5 +486,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
 #: 43991-Dialogue.mod:3
 msgid "No! Shoo! Go away!"
-msgstr ""
-
+msgstr "沒有！噓！走開！"

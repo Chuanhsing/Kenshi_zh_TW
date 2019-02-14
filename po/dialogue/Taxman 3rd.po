@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62009-Dialogue.mod:0
 msgid "Now, with the incurred late payment fee of 1000 Cats, plus an administration charge of 2000 Cats for the enforcement unit dispatch, the new amount owed is 6000 Cats."
-msgstr ""
+msgstr "現在，由於已經支付了1000貓的滯納金，加上執行單位派遣的2000貓的管理費，所欠的新金額是6000貓。"
 
 #. Id: 62017-Dialogue.mod
 #. -- Index: 3.0
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
 #: 62017-Dialogue.mod:1 60555-Dialogue.mod:1
 msgid "*Snort*... Now, perhaps make the place a little more presentable for my next visit, won't you? The Empire has standards to uphold, you know."
-msgstr ""
+msgstr "* Snort * ...現在，也許讓我的下一次訪問更適合這個地方，不是嗎？你知道，帝國有堅持的標準。"
 
 #. Id: 62017-Dialogue.mod
 #. -- Index: 3.2
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TOWN_LEVEL_CURRENT_LOCATION<2, Tag: -1
 #: 62017-Dialogue.mod:2 60555-Dialogue.mod:2
 msgid "[They glance sidelong at your outpost]..."
-msgstr ""
+msgstr "[他們瞥了一眼你的前哨] ......"
 
 #. Id: 62018-Dialogue.mod
 #. -- Index: 4.0
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Group title: UC Tax base visit talk to
 #: 62018-Dialogue.mod:0 95476-Dialogue.mod:0 60556-Dialogue.mod:0 60500-Dialogue.mod:0
 msgid "I'll see you in a week for the next contribution."
-msgstr ""
+msgstr "我會在一周內見到你的下一個貢獻。"
 
 #. Id: 62013-Dialogue.mod
 #. -- Index: 2.0
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 62013-Dialogue.mod:0 95468-Dialogue.mod:0 60538-Dialogue.mod:0 60546-Dialogue.mod:0 60516-Dialogue.mod:0
 msgid "I can't afford to pay that much."
-msgstr ""
+msgstr "我付不起那麼多錢。"
 
 #. Id: 62022-Dialogue.mod
 #. -- Index: 3.0
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62023-Dialogue.mod:0
 msgid "You have three days to vacate."
-msgstr ""
+msgstr "你有三天時間離開。"
 
 #. Id: 62015-Dialogue.mod
 #. -- Index: 2.0
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62030-Dialogue.mod:0
 msgid "If you'd paid your taxes on time, we wouldn't have had to take such action. I await your payment."
-msgstr ""
+msgstr "如果你按時繳稅，我們就不必採取這樣的行動。我在等你的付款。"
 
 #. Id: 62030-Dialogue.mod
 #. -- Index: 3.1
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62030-Dialogue.mod:1
 msgid "If you can't afford to pay the consequences, don't do the crime. Now, if you'll stop whining I await your payment."
-msgstr ""
+msgstr "如果你付不起後果，不要犯罪。現在，如果你停止抱怨我等待你的付款。"
 
 #. Id: 62016-Dialogue.mod
 #. -- Index: 2.0
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62016-Dialogue.mod:0
 msgid "Fuck. You."
-msgstr ""
+msgstr "他媽的。您。"
 
 #. Id: 62016-Dialogue.mod
 #. -- Index: 2.1
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Group title: holy nation shout at slave
 #: 62016-Dialogue.mod:1 49584-Dialogue.mod:3
 msgid "Bite me."
-msgstr ""
+msgstr "咬我。"
 
 #. Id: 62016-Dialogue.mod
 #. -- Index: 2.2
@@ -216,7 +216,7 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62016-Dialogue.mod:2
 msgid "Eat shit."
-msgstr ""
+msgstr "吃屎。"
 
 #. Id: 62031-Dialogue.mod
 #. -- Index: 3.0
@@ -225,5 +225,4 @@ msgstr ""
 #. -- Group title: Taxman 3rd
 #: 62031-Dialogue.mod:0
 msgid "Well! I see you've indeed learned nothing after all... I'll be reporting back to the enforcement division."
-msgstr ""
-
+msgstr "好！我發現你確實什麼都沒學到......我會向執法部門報告。"

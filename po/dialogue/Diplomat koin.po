@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58809-Dialogue.mod:0
 msgid "As you can see, Lord Tengu is rather... tied up right now... *Sigh*... If you have business here, you can speak with myself, Diplomat Koin."
-msgstr ""
+msgstr "正如你所看到的，天狗勳爵相當......現在被綁起來...... *嘆氣* ......如果你在這裡有生意，你可以和我自己說外交官Koin。"
 
 #. Id: 58810-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58810-Dialogue.mod:0
 msgid "I want to make an alliance."
-msgstr ""
+msgstr "我想結盟。"
 
 #. Id: 58811-Dialogue.mod
 #. -- Index: 2.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 58811-Dialogue.mod:0
 msgid "[He eyes you up and down and tightens his mouth]... Well, the United Cities is known as the land of opportunity after all... we'll see what we can do, shall we?"
-msgstr ""
+msgstr "[他盯著你上下收緊他的嘴] ......好吧，聯合城市畢竟被稱為機會之地......我們會看到我們能做什麼，不是嗎？"
 
 #. Id: 58812-Dialogue.mod
 #. -- Index: 3.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58812-Dialogue.mod:0
 msgid "There are three ways into the United Cities: Money, influence, or force."
-msgstr ""
+msgstr "聯合城市有三種方式：金錢，影響或力量。"
 
 #. Id: 58813-Dialogue.mod
 #. -- Index: 4.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58813-Dialogue.mod:0
 msgid "Tell me about the money option."
-msgstr ""
+msgstr "告訴我錢的選擇。"
 
 #. Id: 58816-Dialogue.mod
 #. -- Index: 5.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58816-Dialogue.mod:0
 msgid "The simplest of the three. A small matter of paying your way through the ranks. Sponsor a farm, gift a noble or donate to the elite samurai guards. We accept all payments in Cats."
-msgstr ""
+msgstr "三個中最簡單的。通過排隊支付你的方式的一個小問題。贊助農場，贈送貴族或捐贈給精英武士守衛。我們接受Cats的所有付款。"
 
 #. Id: 58825-Dialogue.mod
 #. -- Index: 6.0
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<20000, Tag: -1
 #: 58825-Dialogue.mod:0
 msgid "Donate 5000 Cats."
-msgstr ""
+msgstr "捐贈5000隻貓。"
 
 #. Id: 58837-Dialogue.mod
 #. -- Index: 7.0
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59007-Dialogue.mod:0
 msgid "This should buy me a stale loaf of bread *snort*..."
-msgstr ""
+msgstr "這應該給我買一塊陳舊的麵包* snort * ..."
 
 #. Id: 58826-Dialogue.mod
 #. -- Index: 6.0
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<50000, Tag: -1
 #: 58826-Dialogue.mod:0
 msgid "Donate 10,000 Cats."
-msgstr ""
+msgstr "捐贈10,000隻貓。"
 
 #. Id: 58838-Dialogue.mod
 #. -- Index: 7.0
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58838-Dialogue.mod:0
 msgid "[He squints and stares at the Cats in his hand]... Emptying your pocket change, I see..."
-msgstr ""
+msgstr "[他瞇著眼睛盯著手中的貓] ......換掉你的口袋，我看到......"
 
 #. Id: 59008-Dialogue.mod
 #. -- Index: 8.0
@@ -122,7 +122,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59008-Dialogue.mod:0
 msgid "Come back with the rest soon, won't you?"
-msgstr ""
+msgstr "很快就回來休息吧，不是嗎？"
 
 #. Id: 58827-Dialogue.mod
 #. -- Index: 6.0
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>20000, Tag: -1
 #: 58827-Dialogue.mod:0
 msgid "Donate 20,000 Cats."
-msgstr ""
+msgstr "捐贈20,000隻貓。"
 
 #. Id: 58846-Dialogue.mod
 #. -- Index: 7.0
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58846-Dialogue.mod:0
 msgid "Well, this will buy a lovely hat for Lord Inaba..."
-msgstr ""
+msgstr "好吧，這將為Lord Inaba買一頂可愛的帽子......"
 
 #. Id: 59009-Dialogue.mod
 #. -- Index: 8.0
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59009-Dialogue.mod:0
 msgid " I'll pass your donation on."
-msgstr ""
+msgstr " 我會通過你的捐款。"
 
 #. Id: 58828-Dialogue.mod
 #. -- Index: 6.0
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>50000, Tag: -1
 #: 58828-Dialogue.mod:0
 msgid "Donate 50,000 Cats."
-msgstr ""
+msgstr "捐贈50,000貓。"
 
 #. Id: 58847-Dialogue.mod
 #. -- Index: 7.0
@@ -169,7 +169,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58847-Dialogue.mod:0
 msgid "This will certainly help secure the farms against rotten workers..."
-msgstr ""
+msgstr "這肯定有助於保護農場免受腐爛的工人的傷害......"
 
 #. Id: 58829-Dialogue.mod
 #. -- Index: 6.0
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
 #: 58829-Dialogue.mod:0
 msgid "Donate 100,000 Cats."
-msgstr ""
+msgstr "捐贈100,000隻貓。"
 
 #. Id: 58848-Dialogue.mod
 #. -- Index: 7.0
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59010-Dialogue.mod:0 58869-Dialogue.mod:0
 msgid "Welcome to the United Cities."
-msgstr ""
+msgstr "歡迎來到聯合城市。"
 
 #. Id: 59024-Dialogue.mod
 #. -- Index: 6.0
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
 #: 59024-Dialogue.mod:0
 msgid "I don't have enough to donate right now."
-msgstr ""
+msgstr "我現在沒有足夠的捐款。"
 
 #. Id: 59026-Dialogue.mod
 #. -- Index: 7.0
@@ -221,7 +221,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59026-Dialogue.mod:0
 msgid "I know you don't, I can smell the poverty oozing out of your very pores..."
-msgstr ""
+msgstr "我知道你沒有，我能聞到你的毛孔滲出的貧窮......"
 
 #. Id: 59027-Dialogue.mod
 #. -- Index: 8.0
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 59027-Dialogue.mod:0
 msgid "Well... come back to me when you're worth something, hmm?"
-msgstr ""
+msgstr "嗯...當你有價值時回到我身邊，嗯？"
 
 #. Id: 58815-Dialogue.mod
 #. -- Index: 4.0
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58815-Dialogue.mod:0
 msgid "Tell me about the force option."
-msgstr ""
+msgstr "告訴我有關強制選項的信息。"
 
 #. Id: 58820-Dialogue.mod
 #. -- Index: 5.0
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58820-Dialogue.mod:0
 msgid "A case of proving your use to us. We have enemies that need... erasing, troublesome pests who are causing quite a stir in the United Cities. Clean up our criminal problem - Tinfinst and his anti slavers - and your power will soon be recognised. Be sure to take any captives to the police station."
-msgstr ""
+msgstr "證明您使用我們的案例。我們有需要的敵人......在聯合城市引起轟動的麻煩害蟲。清理我們的犯罪問題 -  Tinfinst和他的反奴隸 - 你的權力很快就會被認可。務必將任何俘虜帶到警察局。"
 
 #. Id: 58850-Dialogue.mod
 #. -- Index: 6.0
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58850-Dialogue.mod:0
 msgid "Got it, thanks."
-msgstr ""
+msgstr "知道了謝謝。"
 
 #. Id: 58814-Dialogue.mod
 #. -- Index: 4.0
@@ -266,7 +266,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58814-Dialogue.mod:0
 msgid "Tell me about the influence option."
-msgstr ""
+msgstr "告訴我有關影響力的選擇。"
 
 #. Id: 58817-Dialogue.mod
 #. -- Index: 5.0
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58817-Dialogue.mod:0
 msgid "Influence is your value to us as a trading power and military ally. Control of a strategically impressive outpost will be enough to show your worth to us. Hmm... Allow me to check my scout report, we'll see how you fare, shall we?"
-msgstr ""
+msgstr "影響力是你作為交易大國和軍事盟友對我們的價值。控制一個具有戰略意義的令人印象深刻的前哨基地足以向我們展示您的價值。嗯......請允許我查看我的偵察報告，我們會看到你的表現如何，好嗎？"
 
 #. Id: 58821-Dialogue.mod
 #. -- Index: 6.0
@@ -284,7 +284,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58821-Dialogue.mod:0
 msgid "[He sneers and raises an eyebrow]... I see you currently have no such thing to your name."
-msgstr ""
+msgstr "[他冷笑，抬起眉毛] ......我發現你現在對你的名字沒有這樣的意思了。"
 
 #. Id: 58864-Dialogue.mod
 #. -- Index: 7.0
@@ -293,7 +293,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58864-Dialogue.mod:0
 msgid "Nevermind then. I'll be leaving."
-msgstr ""
+msgstr "沒關係。我要走了。"
 
 #. Id: 58822-Dialogue.mod
 #. -- Index: 6.0
@@ -303,7 +303,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL=1, Tag: -1
 #: 58822-Dialogue.mod:0
 msgid "[He huffs and shakes his head]... Well, I wouldn't call that building site of yours an outpost. Your... shack... is of no use to us I'm afraid."
-msgstr ""
+msgstr "[他怒不可遏搖頭] ......好吧，我不會把你的建築工地稱為前哨。你...小屋......對我們沒用，我很害怕。"
 
 #. Id: 58823-Dialogue.mod
 #. -- Index: 6.0
@@ -313,7 +313,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERS_BEST_TOWN_LEVEL=2, Tag: -1
 #: 58823-Dialogue.mod:0
 msgid "[He holds his chin while he reads the report]... It's not the most impressive of outposts... But it has a use, certainly. Still, you'll need to pay a fee if you wish to join the Empire. 10,000 Cats."
-msgstr ""
+msgstr "[他在閱讀報告時握著下巴] ......這不是最令人印象深刻的前哨......但它確實有用。如果你想加入帝國，你還需要付費。 10,000貓。"
 
 #. Id: 58865-Dialogue.mod
 #. -- Index: 7.0
@@ -322,7 +322,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58865-Dialogue.mod:0
 msgid "What do I get in return?"
-msgstr ""
+msgstr "我能有什麼回報？"
 
 #. Id: 58866-Dialogue.mod
 #. -- Index: 8.0
@@ -331,7 +331,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58866-Dialogue.mod:0
 msgid "Our safety and protection, what else? Of course, we expect the same from you if the need ever arises. And your outpost will serve as a useful shelter for travelling caravans and military squads..."
-msgstr ""
+msgstr "我們的安全和保護，還有什麼？當然，如果需要，我們期望您也能如此。而你的前哨將成為旅行大篷車和軍隊的有用庇護所......"
 
 #. Id: 58867-Dialogue.mod
 #. -- Index: 7.0
@@ -341,7 +341,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>10000, Tag: -1
 #: 58867-Dialogue.mod:0
 msgid "Deal. (+60 Relations) "
-msgstr ""
+msgstr "應對。 （+60關係）"
 
 #. Id: 58824-Dialogue.mod
 #. -- Index: 6.0
@@ -360,7 +360,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58818-Dialogue.mod:0
 msgid "And how do you propose to go ahead? Will you be making a payment, or a trade agreement...?"
-msgstr ""
+msgstr "那你怎麼建議繼續？你會付款還是簽訂貿易協議......？"
 
 #. Id: 58851-Dialogue.mod
 #. -- Index: 3.0
@@ -369,7 +369,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58851-Dialogue.mod:0
 msgid "I want to make a payment."
-msgstr ""
+msgstr "我想付款。"
 
 #. Id: 58855-Dialogue.mod
 #. -- Index: 4.0
@@ -378,7 +378,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58855-Dialogue.mod:0
 msgid "And how much would you like to pay today?"
-msgstr ""
+msgstr "你今天想付多少錢？"
 
 #. Id: 58856-Dialogue.mod
 #. -- Index: 5.0
@@ -387,7 +387,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58856-Dialogue.mod:0
 msgid "Sorry, I've changed my mind."
-msgstr ""
+msgstr "對不起，我改變了主意。"
 
 #. Id: 58852-Dialogue.mod
 #. -- Index: 3.0
@@ -396,7 +396,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58852-Dialogue.mod:0
 msgid "I have an outpost and I want to offer a trade agreement."
-msgstr ""
+msgstr "我有一個前哨，我想提供貿易協議。"
 
 #. Id: 58854-Dialogue.mod
 #. -- Index: 4.0
@@ -405,7 +405,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58854-Dialogue.mod:0
 msgid "Hmm... Allow me to check my scout report, we'll see how you fair, shall we?"
-msgstr ""
+msgstr "嗯......請允許我查看我的偵察報告，我們會看到你的公平，不是嗎？"
 
 #. Id: 58853-Dialogue.mod
 #. -- Index: 3.0
@@ -414,7 +414,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 58853-Dialogue.mod:0
 msgid "What are my options again?"
-msgstr ""
+msgstr "我又有什麼選擇？"
 
 #. Id: 58882-Dialogue.mod
 #. -- Index: 0.0
@@ -424,7 +424,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
 #: 58882-Dialogue.mod:0
 msgid "Yes? How can I help?"
-msgstr ""
+msgstr "是？我該怎麼幫忙？"
 
 #. Id: 66204-Dialogue.mod
 #. -- Index: 0.0
@@ -433,7 +433,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 66204-Dialogue.mod:0
 msgid "I suggest you leave quickly, back to the Shek Kingdom where you belong, savage..."
-msgstr ""
+msgstr "我建議你快點離開，回到你所屬的石王國，野蠻人......"
 
 #. Id: 66205-Dialogue.mod
 #. -- Index: 1.0
@@ -442,7 +442,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 66205-Dialogue.mod:0
 msgid "Your people aren't welcome in the United Cities."
-msgstr ""
+msgstr "聯合城市不歡迎您的員工。"
 
 #. Id: 66206-Dialogue.mod
 #. -- Index: 0.0
@@ -451,7 +451,7 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 66206-Dialogue.mod:0
 msgid "I suggest you leave quickly, back to your Holy Lands where you belong, Okranite..."
-msgstr ""
+msgstr "我建議你快點離開，回到你所屬的聖地，Okranite ......"
 
 #. Id: 66207-Dialogue.mod
 #. -- Index: 0.0
@@ -460,5 +460,4 @@ msgstr ""
 #. -- Group title: Diplomat koin
 #: 66207-Dialogue.mod:0
 msgid "You've got guts walking into Tengu's palace, Anti-Slaver..."
-msgstr ""
-
+msgstr "你有膽量走進Tengu的宮殿，Anti-Slaver ......"

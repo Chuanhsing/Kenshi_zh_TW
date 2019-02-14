@@ -21,7 +21,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 45287-Dialogue.mod:1
 msgid "I'm free to go?!"
-msgstr ""
+msgstr "我有空嗎？！"
 
 #. Id: 45872-Dialogue.mod
 #. -- Index: 1.0
@@ -41,7 +41,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45872-Dialogue.mod:1
 msgid "I'm gettin' the hell away from you buncha crazies!"
-msgstr ""
+msgstr "我開始遠離你的地獄瘋狂！"
 
 #. Id: 45872-Dialogue.mod
 #. -- Index: 1.2
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 45872-Dialogue.mod:2 45880-Dialogue.mod:2
 msgid "I gotta get outta here! "
-msgstr ""
+msgstr "我得離開這裡！"
 
 #. Id: 45872-Dialogue.mod
 #. -- Index: 1.3
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 45872-Dialogue.mod:3 45880-Dialogue.mod:3
 msgid "Leave me alone! Don't put me back in there!"
-msgstr ""
+msgstr "請別打擾我！別把我放回去！"
 
 #. Id: 45873-Dialogue.mod
 #. -- Index: 1.0
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45873-Dialogue.mod:0
 msgid "Arghhh! Run, run, run!"
-msgstr ""
+msgstr "Arghhh！跑，跑，跑！"
 
 #. Id: 45873-Dialogue.mod
 #. -- Index: 1.1
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45873-Dialogue.mod:1
 msgid "Screw this! I'm gettin' the hell outta here!"
-msgstr ""
+msgstr "擰這個！我在這裡開始了！"
 
 #. Id: 45873-Dialogue.mod
 #. -- Index: 1.2
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45873-Dialogue.mod:2
 msgid "Don't try comin' after me! I'm warnin' you! Sadistic bastard!"
-msgstr ""
+msgstr "不要試著跟我說話！我警告你了！虐待狂的混蛋！"
 
 #. Id: 45873-Dialogue.mod
 #. -- Index: 1.3
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 45873-Dialogue.mod:3
 msgid "I'm gettin' outta here! Leave me alone!"
-msgstr ""
+msgstr "我開始離開了！請別打擾我！"
 
 #. Id: 45880-Dialogue.mod
 #. -- Index: 1.0
@@ -143,7 +143,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45874-Dialogue.mod:0
 msgid "... You're setting me free now, are ya?"
-msgstr ""
+msgstr "......你現在讓我自由，是嗎？"
 
 #. Id: 45874-Dialogue.mod
 #. -- Index: 0.1
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45874-Dialogue.mod:1
 msgid "... Aw, you're letting me go now, are ya?"
-msgstr ""
+msgstr "噢，你現在讓我走了，是嗎？"
 
 #. Id: 45874-Dialogue.mod
 #. -- Index: 0.2
@@ -163,7 +163,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45874-Dialogue.mod:2
 msgid "... So what, I'm free to go now, am I?"
-msgstr ""
+msgstr "......那麼，我現在可以自由地去，是嗎？"
 
 #. Id: 45875-Dialogue.mod
 #. -- Index: 1.0
@@ -173,7 +173,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 45875-Dialogue.mod:0
 msgid "Shoulda kept me locked up! I'll stab your face for putting me in there, bastard!"
-msgstr ""
+msgstr "應該把我鎖起來！我會刺傷你的臉，讓我在那裡，混蛋！"
 
 #. Id: 45875-Dialogue.mod
 #. -- Index: 1.1
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 45876-Dialogue.mod:0
 msgid "BAD MOVE, ASSHOLE! I'LL KILL YOU!"
-msgstr ""
+msgstr "BAD MOVE，ASSHOLE！我會殺了你！"
 
 #. Id: 45876-Dialogue.mod
 #. -- Index: 1.1
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 45876-Dialogue.mod:1
 msgid "Dumb move, scumbag! I'll kill you even if I die tryin'! "
-msgstr ""
+msgstr "愚蠢的舉動，卑鄙！即使我死了，我也會殺了你！"
 
 #. Id: 45876-Dialogue.mod
 #. -- Index: 1.2
@@ -213,7 +213,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 45876-Dialogue.mod:2
 msgid "Well ain't revenge just the sweetest thing, eh?! Ahahaha!"
-msgstr ""
+msgstr "好吧，不是報復最甜蜜的事情，嗯？！ Ahahaha！"
 
 #. Id: 45890-Dialogue.mod
 #. -- Index: 0.0
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45890-Dialogue.mod:0
 msgid "You ain't puttin' me back in those locks again!"
-msgstr ""
+msgstr "你不會再讓我回到那些鎖中了！"
 
 #. Id: 45890-Dialogue.mod
 #. -- Index: 0.1
@@ -235,7 +235,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 45890-Dialogue.mod:1
 msgid "I ain't lettin' you catch me again! I'll kill ya!"
-msgstr ""
+msgstr "我不會讓你再次抓住我！我會殺了你！"
 
 #. Id: 45940-Dialogue.mod
 #. -- Index: 0.0
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 45940-Dialogue.mod:0 16017-Dialogue.mod:3
 msgid "...?!"
-msgstr ""
+msgstr "...？！"
 
 #. Id: 45944-Dialogue.mod
 #. -- Index: 1.0
@@ -264,7 +264,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 45944-Dialogue.mod:0
 msgid "If I had a sword I'd gut ya! "
-msgstr ""
+msgstr "如果我有一把劍我會直覺！"
 
 #. Id: 45944-Dialogue.mod
 #. -- Index: 1.1
@@ -277,7 +277,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 45944-Dialogue.mod:1
 msgid "I'll kill you! I'll find myself a sword, I'll come back, and I'll butcher you!"
-msgstr ""
+msgstr "我會殺了你！我會發現自己是一把劍，我會回來的，我會屠殺你的！"
 
 #. Id: 45944-Dialogue.mod
 #. -- Index: 1.2
@@ -290,7 +290,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 45944-Dialogue.mod:2
 msgid "I'm comin' back for you! You're just lucky I'm unarmed or I'd flay your skin off!"
-msgstr ""
+msgstr "我正在為你回來！你很幸運我沒有武裝，或者我會脫掉你的皮膚！"
 
 #. Id: 45944-Dialogue.mod
 #. -- Index: 1.3
@@ -303,7 +303,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 45944-Dialogue.mod:3
 msgid "Hear my words, I'm gonna come back for you and I'm gonna kill you dead!"
-msgstr ""
+msgstr "聽到我的話，我會回來找你，我會殺了你死的！"
 
 #. Id: 45944-Dialogue.mod
 #. -- Index: 1.4
@@ -316,5 +316,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 45944-Dialogue.mod:4
 msgid "I'll be back for your head!"
-msgstr ""
-
+msgstr "我會回來的！"

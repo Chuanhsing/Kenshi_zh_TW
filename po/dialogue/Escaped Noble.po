@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Escaped Noble
 #: 18537-Dialogue.mod:0
 msgid "You did it, minion!"
-msgstr ""
+msgstr "你做到了，小兵！"
 
 #. Id: 18538-Dialogue.mod
 #. -- Index: 1.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>10000, Tag: -1
 #: 18538-Dialogue.mod:0 18541-Dialogue.mod:0 18542-Dialogue.mod:0 18546-Dialogue.mod:0 18549-Dialogue.mod:0
 msgid "Here! Have some Cats."
-msgstr ""
+msgstr "這裡！有一些貓。"
 
 #. Id: 18539-Dialogue.mod
 #. -- Index: 2.0
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY<1000, Tag: -1
 #: 18561-Dialogue.mod:0
 msgid "Oh... I must have left my coin sack back at the palace..."
-msgstr ""
+msgstr "哦......我一定把我的硬幣袋放回了宮殿......"
 
 #. Id: 18561-Dialogue.mod
 #. -- Index: 1.1
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: Escaped Noble
 #: 18561-Dialogue.mod:1 41979-Dialogue.mod:0
 msgid "Oh... I must have left my Cat sack back at the palace..."
-msgstr ""
+msgstr "哦......我一定把我的貓袋放回了宮殿......"
 
 #. Id: 18563-Dialogue.mod
 #. -- Index: 2.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 41977-Dialogue.mod:0
 msgid "Your heroism will be rewarded!"
-msgstr ""
+msgstr "你的英雄主義會得到回報！"
 
 #. Id: 41978-Dialogue.mod
 #. -- Index: 2.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>5000, Tag: -1
 #: 41978-Dialogue.mod:0
 msgid "Make it rain riches!"
-msgstr ""
+msgstr "讓它下雨！"
 
 #. Id: 41985-Dialogue.mod
 #. -- Index: 3.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>10000, Tag: -1
 #: 41980-Dialogue.mod:0
 msgid "Here! Have some riches, lots of riches!"
-msgstr ""
+msgstr "這裡！有一些財富，很多財富！"
 
 #. Id: 56385-Dialogue.mod
 #. -- Index: 0.0
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>15000, Tag: -1
 #: 56386-Dialogue.mod:0 56388-Dialogue.mod:0
 msgid "Here, compensation for your efforts. Take it..."
-msgstr ""
+msgstr "在這裡，為您的努力付出代價。接受..."
 
 #. Id: 56393-Dialogue.mod
 #. -- Index: 2.0
@@ -199,7 +199,7 @@ msgstr ""
 #. -- Group title: Escaped Noble
 #: 56393-Dialogue.mod:0
 msgid "The Traders Guild will remember this always. Farewell."
-msgstr ""
+msgstr "交易者協會將永遠記住這一點。告別。"
 
 #. Id: 56387-Dialogue.mod
 #. -- Index: 1.0
@@ -208,5 +208,4 @@ msgstr ""
 #. -- Group title: Escaped Noble
 #: 56387-Dialogue.mod:0
 msgid "Unfortunately I've been stripped of my Cats, but nonetheless..."
-msgstr ""
-
+msgstr "不幸的是，我被剝奪了我的貓，但仍然......"

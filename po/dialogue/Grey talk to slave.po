@@ -25,7 +25,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
 #: 59270-Dialogue.mod:0 59272-Dialogue.mod:0
 msgid "[He looks you up and down and smiles a sad smile]... A runaway slave?"
-msgstr ""
+msgstr "[他看著你上下，微笑著悲傷的笑容] ......一個失控的奴隸？"
 
 #. Id: 59274-Dialogue.mod
 #. -- Index: 1.0
@@ -34,7 +34,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59274-Dialogue.mod:0
 msgid "Yes. I heard you can help me..."
-msgstr ""
+msgstr "是。我聽說你可以幫我..."
 
 #. Id: 59277-Dialogue.mod
 #. -- Index: 2.0
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59277-Dialogue.mod:0
 msgid "Hiding slaves is what I do. Now, hold still while I hide those markings..."
-msgstr ""
+msgstr "隱藏奴隸是我的工作。現在，在我隱藏那些標記時保持不動......"
 
 #. Id: 59275-Dialogue.mod
 #. -- Index: 1.0
@@ -52,7 +52,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59275-Dialogue.mod:0
 msgid "No. I just like shaved heads and shackles..."
-msgstr ""
+msgstr "不，我就像剃光頭和鐐銬......"
 
 #. Id: 59276-Dialogue.mod
 #. -- Index: 2.0
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59276-Dialogue.mod:0
 msgid "[He raises an eyebrow]... Lucky for you not all of us need our shoes licked before we do you favours. Hold still while I hide those markings..."
-msgstr ""
+msgstr "[他挑起眉毛] ...幸運的是，在我們幫忙之前，並非所有人都需要我們的鞋子舔。我隱藏那些標記時保持不動......"
 
 #. Id: 59278-Dialogue.mod
 #. -- Index: 3.0
@@ -70,7 +70,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59278-Dialogue.mod:0
 msgid "... Alright. That should keep you out of the slavers' sights. "
-msgstr ""
+msgstr "... 好的。這應該讓你遠離奴隸的目光。"
 
 #. Id: 59279-Dialogue.mod
 #. -- Index: 4.0
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 59279-Dialogue.mod:0 40509-gamedata.base:2
 msgid "I owe you one."
-msgstr ""
+msgstr "我欠你一個人情。"
 
 #. Id: 59281-Dialogue.mod
 #. -- Index: 5.0
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59281-Dialogue.mod:0
 msgid "You owe me nothing. Pass it along."
-msgstr ""
+msgstr "你欠我什麼。傳遞它。"
 
 #. Id: 59290-Dialogue.mod
 #. -- Index: 6.0
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=0, Tag: -1
 #: 59290-Dialogue.mod:0
 msgid "Can I join the Anti-Slavers?"
-msgstr ""
+msgstr "我可以加入反奴隸嗎？"
 
 #. Id: 59291-Dialogue.mod
 #. -- Index: 7.0
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59291-Dialogue.mod:0
 msgid "Only a fool denies allies amidst a war. But freedom is a beautiful thing, and you're lucky to have found it again, ex-slave. Think hard how you want to spend that newfound freedom..."
-msgstr ""
+msgstr "只有傻瓜在戰爭中否認盟友。但是自由是一件美麗的事情，你很幸運能再次找到它，前奴隸。仔細想想你想要花費新發現的自由......"
 
 #. Id: 59292-Dialogue.mod
 #. -- Index: 8.0
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Group title: Grey talk to join
 #: 59292-Dialogue.mod:0 59203-Dialogue.mod:0 61612-Dialogue.mod:0
 msgid "You make allies with the Anti-Slavers, you make enemies with the Trader's Guild. You'll fight for people's freedom, yet those very people will spit on you with that freedom. You'll fight for what is noble and high, but you'll live grim and low, at battle for a simple loaf of bread. It is the price we pay to fight for what we believe in... Is it a price YOU can pay?"
-msgstr ""
+msgstr "你與反奴隸製造盟友，你與交易者公會製造敵人。你會為人民的自由而戰，然而那些人會用這種自由吐唾沫。你會為高尚而高尚的東西而戰，但是你會為了一條簡單的麵包而戰鬥。這是我們為我們所信仰的東西而付出的代價......這是你付出的代價嗎？"
 
 #. Id: 59293-Dialogue.mod
 #. -- Index: 9.0
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59293-Dialogue.mod:0
 msgid "No doubt about it. Sign me up."
-msgstr ""
+msgstr "毫無疑問。註冊我"
 
 #. Id: 59551-Dialogue.mod
 #. -- Index: 10.0
@@ -179,7 +179,7 @@ msgstr ""
 #. -- Group title: Grey talk to join
 #: 59552-Dialogue.mod:0 59268-Dialogue.mod:0 61618-Dialogue.mod:0
 msgid "Welcome to the Anti-Slavers."
-msgstr ""
+msgstr "歡迎來到反奴隸。"
 
 #. Id: 59294-Dialogue.mod
 #. -- Index: 9.0
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Group title: Grey talk to join
 #: 59294-Dialogue.mod:0 59206-Dialogue.mod:0 61619-Dialogue.mod:0
 msgid "I'll... think about it."
-msgstr ""
+msgstr "我會考慮的。"
 
 #. Id: 59295-Dialogue.mod
 #. -- Index: 10.0
@@ -217,7 +217,7 @@ msgstr ""
 #. -- Group title: Grey talk to join
 #: 59295-Dialogue.mod:0 59207-Dialogue.mod:0 61620-Dialogue.mod:0
 msgid "Think hard, comrade..."
-msgstr ""
+msgstr "想一想，同志......"
 
 #. Id: 59296-Dialogue.mod
 #. -- Index: 11.0
@@ -236,7 +236,7 @@ msgstr ""
 #. -- Group title: Grey talk to join
 #: 59296-Dialogue.mod:0 59285-Dialogue.mod:0 61621-Dialogue.mod:0
 msgid "I'll be here when you decide."
-msgstr ""
+msgstr "你決定我會在這裡。"
 
 #. Id: 59560-Dialogue.mod
 #. -- Index: 6.0
@@ -245,7 +245,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59560-Dialogue.mod:0
 msgid "Guess I'll be leaving now."
-msgstr ""
+msgstr "我猜我現在要走了。"
 
 #. Id: 59280-Dialogue.mod
 #. -- Index: 4.0
@@ -254,7 +254,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59280-Dialogue.mod:0
 msgid "Thanks I guess."
-msgstr ""
+msgstr "謝謝吧。"
 
 #. Id: 59559-Dialogue.mod
 #. -- Index: 5.0
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59559-Dialogue.mod:0
 msgid "Pass it forward. Put your freedom to good use."
-msgstr ""
+msgstr "傳遞它。充分利用自由。"
 
 #. Id: 59553-Dialogue.mod
 #. -- Index: 0.0
@@ -274,7 +274,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ESCAPED_SLAVE=1, Tag: -1
 #: 59553-Dialogue.mod:0
 msgid "[He shakes his head]... You got caught? Sloppy, comrade."
-msgstr ""
+msgstr "[他搖了搖頭] ......你被抓了？邋,,同志。"
 
 #. Id: 59556-Dialogue.mod
 #. -- Index: 1.0
@@ -288,7 +288,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 2
 #: 59556-Dialogue.mod:0 98071-Dialogue.mod:1
 msgid "Can you help me?"
-msgstr ""
+msgstr "你能幫助我嗎？"
 
 #. Id: 59557-Dialogue.mod
 #. -- Index: 2.0
@@ -297,7 +297,7 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59557-Dialogue.mod:0
 msgid "*Sigh* At least you made it out in one piece... Come, let me hide those markings for you."
-msgstr ""
+msgstr "*嘆氣*至少你把它做成了一件......來吧，讓我為你隱藏那些標記。"
 
 #. Id: 59558-Dialogue.mod
 #. -- Index: 3.0
@@ -306,5 +306,4 @@ msgstr ""
 #. -- Group title: Grey talk to slave
 #: 59558-Dialogue.mod:0
 msgid "Watch your back better next time, comrade."
-msgstr ""
-
+msgstr "同志，下次再看你的背。"

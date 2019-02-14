@@ -27,7 +27,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44626-Dialogue.mod:0 45024-Dialogue.mod:0
 msgid "Yeah, so what do you want? You tradin'?"
-msgstr ""
+msgstr "是的，那你想要什麼？你tra？'"
 
 #. Id: 44626-Dialogue.mod
 #. -- Index: 0.1
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44626-Dialogue.mod:2 45024-Dialogue.mod:2
 msgid "You here to gawk or you here to shop?"
-msgstr ""
+msgstr "你在這裡gawk或你在這裡購物？"
 
 #. Id: 45028-Dialogue.mod
 #. -- Index: 1.0
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Swamper trade
 #: 45028-Dialogue.mod:0
 msgid "Nothing, sorry."
-msgstr ""
+msgstr "沒什麼不好意思。"
 
 #. Id: 44850-Dialogue.mod
 #. -- Index: 0.0
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44850-Dialogue.mod:0
 msgid "So, let's get down to business, eh..."
-msgstr ""
+msgstr "那麼，讓我們開始做生意，呃......"
 
 #. Id: 44850-Dialogue.mod
 #. -- Index: 0.1
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44850-Dialogue.mod:1
 msgid "What are ya buyin'?"
-msgstr ""
+msgstr "什麼是你買？"
 
 #. Id: 44850-Dialogue.mod
 #. -- Index: 0.2
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44850-Dialogue.mod:2
 msgid "See somethin' ya like?"
-msgstr ""
+msgstr "看到你喜歡的東西？"
 
 #. Id: 44850-Dialogue.mod
 #. -- Index: 0.3
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44850-Dialogue.mod:3
 msgid "Yeah, what is it? You tradin'?"
-msgstr ""
+msgstr "是的，它是什麼？你tra？'"
 
 #. Id: 44850-Dialogue.mod
 #. -- Index: 0.4
@@ -122,7 +122,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=0, Tag: STOLE_FROM_ME
 #: 44850-Dialogue.mod:4
 msgid "Lookin' to buy somethin'?"
-msgstr ""
+msgstr "看著'買點東西'？"
 
 #. Id: 46976-Dialogue.mod
 #. -- Index: 0.0
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 46976-Dialogue.mod:0
 msgid "I ain't tradin' with a thief!"
-msgstr ""
+msgstr "我不是一個小偷！"
 
 #. Id: 46976-Dialogue.mod
 #. -- Index: 0.1
@@ -142,5 +142,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 46976-Dialogue.mod:1
 msgid "I ain't tradin' with you, thief!"
-msgstr ""
-
+msgstr "小偷，我不是和你在一起的！"

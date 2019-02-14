@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52914-Dialogue.mod:0
 msgid "That's private property, get your mitts offa it."
-msgstr ""
+msgstr "這是私人財產，讓你的手套離開它。"
 
 #. Id: 52914-Dialogue.mod
 #. -- Index: 1.1
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52914-Dialogue.mod:1
 msgid "That's private equipment you're using, cut it out."
-msgstr ""
+msgstr "這是你正在使用的私人設備，切斷它。"
 
 #. Id: 52914-Dialogue.mod
 #. -- Index: 1.2
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52914-Dialogue.mod:2
 msgid "That ain't your equipment to use. Back away."
-msgstr ""
+msgstr "那不是你的設備。回去。"
 
 #. Id: 52915-Dialogue.mod
 #. -- Index: 2.0
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52915-Dialogue.mod:3
 msgid "Once more: Hands off my equipment, or I'll BREAK 'em off."
-msgstr ""
+msgstr "再一次：放下我的設備，或者我會打破它們。"
 
 #. Id: 52915-Dialogue.mod
 #. -- Index: 2.4
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52915-Dialogue.mod:4
 msgid "Keep touching my equipment and things are gonna get ugly."
-msgstr ""
+msgstr "繼續觸摸我的設備，事情會變得難看。"
 
 #. Id: 52915-Dialogue.mod
 #. -- Index: 2.5
@@ -166,7 +166,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52915-Dialogue.mod:8
 msgid "Listen up, I ain't warning you again. Leave it alone already."
-msgstr ""
+msgstr "聽著，我不再警告你了。別管它了。"
 
 #. Id: 52919-Dialogue.mod
 #. -- Index: 4.0
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52919-Dialogue.mod:1
 msgid "This freeloader's lookin' for a fight... "
-msgstr ""
+msgstr "這個freeloader正在尋找一場戰鬥......"
 
 #. Id: 52919-Dialogue.mod
 #. -- Index: 4.2
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52921-Dialogue.mod:0
 msgid "I'll teach you not to freeload offa us..."
-msgstr ""
+msgstr "我會教你不要讓我們離開..."
 
 #. Id: 52921-Dialogue.mod
 #. -- Index: 6.1
@@ -266,7 +266,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52921-Dialogue.mod:1
 msgid "This oughta teach you not to freeload again..."
-msgstr ""
+msgstr "這個oughta教你不要再為freeload ..."
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.0
@@ -276,7 +276,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:0
 msgid "And stay out."
-msgstr ""
+msgstr "並且待在外面。"
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.1
@@ -286,7 +286,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:1
 msgid "And stay out, freeloader."
-msgstr ""
+msgstr "並且留出來，freeloader。"
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.2
@@ -296,7 +296,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:2
 msgid "Good riddance to freeloaders, eh."
-msgstr ""
+msgstr "對貪圖主義者的好處，呃。"
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.3
@@ -306,7 +306,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:3
 msgid "'Bout time."
-msgstr ""
+msgstr "'回合時間。"
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.4
@@ -316,7 +316,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:4
 msgid "That's it. And stay out."
-msgstr ""
+msgstr "而已。並且待在外面。"
 
 #. Id: 52935-Dialogue.mod
 #. -- Index: 3.5
@@ -326,7 +326,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=0, Tag: -1
 #: 52935-Dialogue.mod:5
 msgid "That's it. And good riddance to ya."
-msgstr ""
+msgstr "而已。並且很好地解決了。"
 
 #. Id: 52912-Dialogue.mod
 #. -- Index: 0.0
@@ -345,7 +345,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52913-Dialogue.mod:0
 msgid "That's Shinobi equipment. Member's only, got it? Now get your mitts offa it."
-msgstr ""
+msgstr "這是Shinobi設備。會員是唯一的，得到了嗎？現在讓你的手套離開它。"
 
 #. Id: 52913-Dialogue.mod
 #. -- Index: 1.1
@@ -355,7 +355,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52913-Dialogue.mod:1
 msgid "That's Shinobi equipment you're using, cut it out. You want in, you gotta get a membership."
-msgstr ""
+msgstr "這是你正在使用的Shinobi設備，切掉它。你想要，你必須得到會員資格。"
 
 #. Id: 52913-Dialogue.mod
 #. -- Index: 1.2
@@ -365,7 +365,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52913-Dialogue.mod:2
 msgid "That ain't your equipment to use. Back away. You wanna use it, you gotta buy a membership."
-msgstr ""
+msgstr "那不是你的設備。回去。你想要使用它，你必須購買會員資格。"
 
 #. Id: 52913-Dialogue.mod
 #. -- Index: 1.3
@@ -375,5 +375,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52913-Dialogue.mod:3
 msgid "Members-only equipment. You wanna use it, buy a membership or get lost."
-msgstr ""
-
+msgstr "僅限會員的設備。你想使用它，購買會員資格或迷路。"

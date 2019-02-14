@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15034-Dialogue.mod:0
 msgid "Yeah, want to join up?"
-msgstr ""
+msgstr "是的，想加入嗎？"
 
 #. Id: 15034-Dialogue.mod
 #. -- Index: 1.1
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15034-Dialogue.mod:1
 msgid "Sure, will you join me?"
-msgstr ""
+msgstr "當然，你會加入我嗎？"
 
 #. Id: 15034-Dialogue.mod
 #. -- Index: 1.2
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15034-Dialogue.mod:2
 msgid "Yeah, want to join me?"
-msgstr ""
+msgstr "是的，想加入我嗎？"
 
 #. Id: 15034-Dialogue.mod
 #. -- Index: 1.4
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15034-Dialogue.mod:4
 msgid "Sure, I could use a new recruit"
-msgstr ""
+msgstr "當然，我可以使用一名新兵"
 
 #. Id: 15035-Dialogue.mod
 #. -- Index: 2.0
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15035-Dialogue.mod:1
 msgid "Sure, but I'll need 3000 Cats first. Help me out and I'll work off my debt for you"
-msgstr ""
+msgstr "當然，但我首先需要3000隻貓。幫助我，我將為你償還債務"
 
 #. Id: 15035-Dialogue.mod
 #. -- Index: 2.2
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15035-Dialogue.mod:2
 msgid "I would, but I need 3000 Cats before I can leave town... Will you help me out?"
-msgstr ""
+msgstr "我願意，但在離開小鎮之前我需要3000隻貓......你會幫助我嗎？"
 
 #. Id: 15035-Dialogue.mod
 #. -- Index: 2.3
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 15036-Dialogue.mod:0
 msgid "That's fine. Here (3000 Cats)"
-msgstr ""
+msgstr "沒關係。這裡（3000貓）"
 
 #. Id: 15037-Dialogue.mod
 #. -- Index: 4.0
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15037-Dialogue.mod:0
 msgid "You're a lifesaver..."
-msgstr ""
+msgstr "你是救星..."
 
 #. Id: 15037-Dialogue.mod
 #. -- Index: 4.1
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15037-Dialogue.mod:1
 msgid "Alright! You won't regret it"
-msgstr ""
+msgstr "好的！你不會後悔的"
 
 #. Id: 15037-Dialogue.mod
 #. -- Index: 4.2
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15037-Dialogue.mod:2
 msgid "I'll make it up to you"
-msgstr ""
+msgstr "我會補償你的"
 
 #. Id: 15037-Dialogue.mod
 #. -- Index: 4.3
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15037-Dialogue.mod:3
 msgid "Alright! I owe ya..."
-msgstr ""
+msgstr "好的！我欠你了..."
 
 #. Id: 15047-Dialogue.mod
 #. -- Index: 4.0
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 15047-Dialogue.mod:0
 msgid "Sure, I can run. I can swing a sword. What more do you want for 3000 Cats?"
-msgstr ""
+msgstr "當然，我可以跑。我可以揮劍。你還想要3000隻貓嗎？"
 
 #. Id: 15047-Dialogue.mod
 #. -- Index: 4.1
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 15047-Dialogue.mod:1
 msgid "I have the tenacity of a bemused Shek. So am I hired? "
-msgstr ""
+msgstr "我有一個困惑的石頭的堅韌。我被錄用了嗎？"
 
 #. Id: 15047-Dialogue.mod
 #. -- Index: 4.2
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 15047-Dialogue.mod:2
 msgid "What do you expect for 3000 Cats? I still got all my limbs.. good enough for ya?"
-msgstr ""
+msgstr "你對3000貓有什麼期望？我仍然得到了所有的肢體..對你來說足夠好嗎？"
 
 #. Id: 15050-Dialogue.mod
 #. -- Index: 5.0
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 15050-Dialogue.mod:0
 msgid "Fine, here (3000 Cats)"
-msgstr ""
+msgstr "好的，這裡（3000貓）"
 
 #. Id: 15050-Dialogue.mod
 #. -- Index: 5.1
@@ -204,7 +204,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 15050-Dialogue.mod:1
 msgid "Okay (3000 Cats)"
-msgstr ""
+msgstr "好的（3000貓）"
 
 #. Id: 15050-Dialogue.mod
 #. -- Index: 5.2
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 15050-Dialogue.mod:2
 msgid "Alright (3000 Cats)"
-msgstr ""
+msgstr "好的（3000貓）"
 
 #. Id: 15048-Dialogue.mod
 #. -- Index: 4.0
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 15048-Dialogue.mod:0
 msgid "I can do whatever the hell you want me to do. Are you gonna pay the 3000 Cats or what?"
-msgstr ""
+msgstr "我可以做你想要我做的任何事情。你會支付3000貓還是什麼？"
 
 #. Id: 15048-Dialogue.mod
 #. -- Index: 4.1
@@ -234,7 +234,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 15048-Dialogue.mod:1
 msgid "Not really. But if I did, I'd be makin' a tidier profit out of you than 3000 Cats. So are you gonna help me?"
-msgstr ""
+msgstr "並不是的。但是如果我這樣做的話，我就會比3000隻貓更加利潤。所以你會幫助我嗎？"
 
 #. Id: 15048-Dialogue.mod
 #. -- Index: 4.2
@@ -244,7 +244,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 15048-Dialogue.mod:2
 msgid "Sure, I'm a champion fighter 'round here. Gonna pay me already?"
-msgstr ""
+msgstr "當然，我是這裡的冠軍戰士。要付錢給我了嗎？"
 
 #. Id: 15051-Dialogue.mod
 #. -- Index: 4.0
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15051-Dialogue.mod:0
 msgid "Nope, but I learn real fast"
-msgstr ""
+msgstr "不，但我學得很快"
 
 #. Id: 15051-Dialogue.mod
 #. -- Index: 4.1
@@ -262,7 +262,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15051-Dialogue.mod:1
 msgid "Nah, not really"
-msgstr ""
+msgstr "不，不是真的"
 
 #. Id: 15043-Dialogue.mod
 #. -- Index: 3.0
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15043-Dialogue.mod:0
 msgid "You're trying to rip me off"
-msgstr ""
+msgstr "你試圖扯掉我"
 
 #. Id: 15043-Dialogue.mod
 #. -- Index: 3.1
@@ -280,7 +280,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15043-Dialogue.mod:1
 msgid "No way, sounds like a scam"
-msgstr ""
+msgstr "沒辦法，聽起來像騙局"
 
 #. Id: 15043-Dialogue.mod
 #. -- Index: 3.3
@@ -289,7 +289,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15043-Dialogue.mod:3
 msgid "Sounds like a rip-off"
-msgstr ""
+msgstr "聽起來像是一個騙局"
 
 #. Id: 15055-Dialogue.mod
 #. -- Index: 4.0
@@ -298,7 +298,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15055-Dialogue.mod:0
 msgid "I ain't trying to rip you off."
-msgstr ""
+msgstr "我不是想扯掉你。"
 
 #. Id: 15055-Dialogue.mod
 #. -- Index: 4.1
@@ -307,7 +307,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15055-Dialogue.mod:1
 msgid "Guess you'll just have to trust me"
-msgstr ""
+msgstr "猜猜你只需要相信我"
 
 #. Id: 15055-Dialogue.mod
 #. -- Index: 4.2
@@ -316,7 +316,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15055-Dialogue.mod:2
 msgid "I just need help, that's all there is to it"
-msgstr ""
+msgstr "我只是需要幫助，這就是它的全部"
 
 #. Id: 15055-Dialogue.mod
 #. -- Index: 4.3
@@ -325,7 +325,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15055-Dialogue.mod:3
 msgid "I just need some Cats, nothin' more to it than that"
-msgstr ""
+msgstr "我只需要一些貓，不僅如此"
 
 #. Id: 15044-Dialogue.mod
 #. -- Index: 3.1
@@ -334,7 +334,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15044-Dialogue.mod:1
 msgid "Nevermind then"
-msgstr ""
+msgstr "沒關係"
 
 #. Id: 15041-Dialogue.mod
 #. -- Index: 1.0
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Group title: Hire me Outlaw 800
 #: 15041-Dialogue.mod:0
 msgid "No, I'm not interested"
-msgstr ""
+msgstr "不，我不感興趣"
 
 #. Id: 16724-Dialogue.mod
 #. -- Index: 0.0
@@ -365,5 +365,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 16724-Dialogue.mod:1
 msgid "Back already? Guess you changed your mind, eh"
-msgstr ""
-
+msgstr "回來了嗎？猜猜你改變了主意，呃"

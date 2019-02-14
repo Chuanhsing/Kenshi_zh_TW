@@ -25,7 +25,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 40789-Dialogue.mod:4 41488-Dialogue.mod:4
 msgid "Darkness from the abyss!"
-msgstr ""
+msgstr "深淵的黑暗！"
 
 #. Id: 40790-Dialogue.mod
 #. -- Index: 1.0
@@ -34,7 +34,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 40790-Dialogue.mod:0
 msgid "You won't escape Okran's purging!"
-msgstr ""
+msgstr "你不會逃避奧克蘭的清洗！"
 
 #. Id: 40790-Dialogue.mod
 #. -- Index: 1.6
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 40790-Dialogue.mod:6
 msgid "You will not evade my sword, by Okran's will!"
-msgstr ""
+msgstr "按照奧克蘭的意願，你不會逃避我的劍！"
 
 #. Id: 40791-Dialogue.mod
 #. -- Index: 2.0
@@ -52,7 +52,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 40791-Dialogue.mod:0
 msgid "The agents of darkness must be burned!"
-msgstr ""
+msgstr "必須燒掉黑暗的代理人！"
 
 #. Id: 40791-Dialogue.mod
 #. -- Index: 2.2
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 40791-Dialogue.mod:2
 msgid "The Skeletons will not prevail!"
-msgstr ""
+msgstr "骷髏不會佔上風！"
 
 #. Id: 40791-Dialogue.mod
 #. -- Index: 2.3
@@ -70,7 +70,7 @@ msgstr ""
 #. -- Group title: Inquisitor spots skeleton
 #: 40791-Dialogue.mod:3
 msgid "Your reign of darkness must be stopped!"
-msgstr ""
+msgstr "你的黑暗統治必須停止！"
 
 #. Id: 40791-Dialogue.mod
 #. -- Index: 2.4
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41132-Dialogue.mod:0
 msgid "You!... This time I'll make sure you don't survive!"
-msgstr ""
+msgstr "你！...這次我會確保你不活下去！"
 
 #. Id: 41132-Dialogue.mod
 #. -- Index: 0.1
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41132-Dialogue.mod:1
 msgid "Still alive?!.. I won't let you live this time!"
-msgstr ""
+msgstr "還活著？！我這次不會讓你活下去！"
 
 #. Id: 41132-Dialogue.mod
 #. -- Index: 0.2
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41132-Dialogue.mod:2
 msgid "You survived?!... I failed Okran... This time you can't survive..."
-msgstr ""
+msgstr "你活了下來？！......我失敗了Okran ......這次你無法生存......"
 
 #. Id: 41134-Dialogue.mod
 #. -- Index: 0.0
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41134-Dialogue.mod:0
 msgid "Defeated by a Skeleton.. You'll burn for this!"
-msgstr ""
+msgstr "被骷髏擊敗..你會為此而燃燒！"
 
 #. Id: 41134-Dialogue.mod
 #. -- Index: 0.1
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41134-Dialogue.mod:1
 msgid "I won't be beaten by a Skeleton... I'll destroy you..."
-msgstr ""
+msgstr "我不會被骷髏擊敗......我會摧毀你......"
 
 #. Id: 41134-Dialogue.mod
 #. -- Index: 0.2
@@ -160,5 +160,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 41134-Dialogue.mod:2
 msgid "This time I won't be defeated"
-msgstr ""
-
+msgstr "這次我不會被打敗"

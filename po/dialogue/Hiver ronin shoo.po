@@ -27,7 +27,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 17997-Dialogue.mod:0 13928-Escapes.mod:0
 msgid "Please leave"
-msgstr ""
+msgstr "請離開"
 
 #. Id: 17997-Dialogue.mod
 #. -- Index: 0.1
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 17997-Dialogue.mod:1 13928-Escapes.mod:4
 msgid "Please go away"
-msgstr ""
+msgstr "請走開"
 
 #. Id: 17997-Dialogue.mod
 #. -- Index: 0.2
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 17997-Dialogue.mod:2
 msgid "Leave please"
-msgstr ""
+msgstr "請離開"
 
 #. Id: 17997-Dialogue.mod
 #. -- Index: 0.4
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 17997-Dialogue.mod:4
 msgid "Leave me alone"
-msgstr ""
+msgstr "請別打擾我"
 
 #. Id: 47415-Dialogue.mod
 #. -- Index: 2.0
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47415-Dialogue.mod:0
 msgid "Why won't you leave?"
-msgstr ""
+msgstr "你為什麼不離開？"
 
 #. Id: 47415-Dialogue.mod
 #. -- Index: 2.1
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47415-Dialogue.mod:1
 msgid "Why won't you leave me alone?"
-msgstr ""
+msgstr "你為什麼不讓我一個人呆著？"
 
 #. Id: 47415-Dialogue.mod
 #. -- Index: 2.2
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 47415-Dialogue.mod:2 43653-Dialogue.mod:3 46458-Dialogue.mod:4
 msgid "What do you want from me?"
-msgstr ""
+msgstr "你想從我這裡得到什麼？"
 
 #. Id: 47415-Dialogue.mod
 #. -- Index: 2.3
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47415-Dialogue.mod:3
 msgid "You need to go... You're intruding..."
-msgstr ""
+msgstr "你需要去...你正在闖入......"
 
 #. Id: 47415-Dialogue.mod
 #. -- Index: 2.4
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47415-Dialogue.mod:4
 msgid "You're intruding, please leave..."
-msgstr ""
+msgstr "你是在闖入，請離開......"
 
 #. Id: 18152-Dialogue.mod
 #. -- Index: 0.0
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 18152-Dialogue.mod:0
 msgid "You need to leave"
-msgstr ""
+msgstr "你需要離開"
 
 #. Id: 18152-Dialogue.mod
 #. -- Index: 0.1
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 18152-Dialogue.mod:1
 msgid "You need to go"
-msgstr ""
+msgstr "你需要去"
 
 #. Id: 47411-Dialogue.mod
 #. -- Index: 2.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47411-Dialogue.mod:0 42179-Dialogue.mod:4 12636-Dialogue?(11)?(2).mod:2 43026-Dialogue.mod:0
 msgid "I said leave!"
-msgstr ""
+msgstr "我說離開！"
 
 #. Id: 47411-Dialogue.mod
 #. -- Index: 2.1
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47411-Dialogue.mod:1
 msgid "I said go!"
-msgstr ""
+msgstr "我說去吧！"
 
 #. Id: 47411-Dialogue.mod
 #. -- Index: 2.2
@@ -210,7 +210,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47411-Dialogue.mod:2 12636-Dialogue?(11)?(2).mod:0 43026-Dialogue.mod:1
 msgid "I said get out!"
-msgstr ""
+msgstr "我說出去了！"
 
 #. Id: 47412-Dialogue.mod
 #. -- Index: 3.1
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47412-Dialogue.mod:1
 msgid "Damnit..."
-msgstr ""
+msgstr "該死的..."
 
 #. Id: 47412-Dialogue.mod
 #. -- Index: 3.2
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47412-Dialogue.mod:2
 msgid "Then I'll make you leave myself!"
-msgstr ""
+msgstr "然後我會讓你離開自己！"
 
 #. Id: 47412-Dialogue.mod
 #. -- Index: 3.3
@@ -240,5 +240,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47412-Dialogue.mod:3
 msgid "Leave, intruder!"
-msgstr ""
-
+msgstr "離開，入侵！"

@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Phoenix crowd trigger
 #: 64614-Dialogue.mod:0
 msgid "This, is The Lord incarnate. You will not approach without summon, my brother."
-msgstr ""
+msgstr "這是主的化身。沒有召喚，你不會接近我的兄弟。"
 
 #. Id: 64615-Dialogue.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 64615-Dialogue.mod:0
 msgid "Step away from the Holy Lord Phoenix Himself, blessed be his name."
-msgstr ""
+msgstr "遠離神聖鳳凰本人，祝福他的名字。"
 
 #. Id: 64616-Dialogue.mod
 #. -- Index: 0.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 64616-Dialogue.mod:0
 msgid "You wish to talk to The Lord incarnate, the Holy Phoenix Himself, blessed be his name?"
-msgstr ""
+msgstr "你想和主化身，聖鳳凰本人交談，祝福他的名字？"
 
 #. Id: 64617-Dialogue.mod
 #. -- Index: 1.0
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 64617-Dialogue.mod:0
 msgid "Then earn your audience..."
-msgstr ""
+msgstr "然後贏得觀眾..."
 
 #. Id: 64618-Dialogue.mod
 #. -- Index: 2.0
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 64618-Dialogue.mod:0
 msgid "Through blood, tears and sweat. Through the purging of Okran's enemies..."
-msgstr ""
+msgstr "通過血液，眼淚和汗水。通過清除奧克蘭的敵人......"
 
 #. Id: 64619-Dialogue.mod
 #. -- Index: 3.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 64619-Dialogue.mod:0
 msgid "As long as Narko's agents roam freely, the Holy Inquisitor will always need helping swords. "
-msgstr ""
+msgstr "只要Narko的特工自由地漫遊，神聖調查官就會一直需要幫助劍。"
 
 #. Id: 64620-Dialogue.mod
 #. -- Index: 4.0
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 64620-Dialogue.mod:0
 msgid "Find him in the Inquisitor station."
-msgstr ""
+msgstr "在調查員站找到他。"
 
 #. Id: 64624-Dialogue.mod
 #. -- Index: 0.0
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 64624-Dialogue.mod:0
 msgid "Wretched woman! Do not approach the Holy Lord Phoenix Himself, blessed be his name!"
-msgstr ""
+msgstr "猥瑣的女人！不要接近聖靈鳳凰自己，祝福他的名字！"
 
 #. Id: 64625-Dialogue.mod
 #. -- Index: 1.0
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Group title: Phoenix crowd trigger
 #: 64625-Dialogue.mod:0
 msgid "Shoo, woman! Be off with you!"
-msgstr ""
+msgstr "噓，女人！跟你一起去吧！"
 
 #. Id: 64626-Dialogue.mod
 #. -- Index: 0.0
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 64626-Dialogue.mod:0
 msgid "Vile beast! Keep your distance from the Holy Lord Phoenix Himself, blessed be his name!"
-msgstr ""
+msgstr "邪惡的野獸！保持與聖靈鳳凰彼此的距離，祝福他的名字！"
 
 #. Id: 64627-Dialogue.mod
 #. -- Index: 1.0
@@ -124,5 +124,4 @@ msgstr ""
 #. -- Group title: Phoenix crowd trigger
 #: 64627-Dialogue.mod:0
 msgid "I will not have the Lord incarnate's AIR defiled by the scourge of Narko!"
-msgstr ""
-
+msgstr "我不會讓Narko的禍害玷污了主的化身空氣！"

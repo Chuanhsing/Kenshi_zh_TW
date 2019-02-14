@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42381-Dialogue.mod:0
 msgid "What? What are you looking at, can't you see I'm busy here?"
-msgstr ""
+msgstr "什麼？你在看什麼，難道你不能看到我在這裡忙嗎？"
 
 #. Id: 42381-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42381-Dialogue.mod:1
 msgid "The hell do YOU want? Can't you see I'm busy here?"
-msgstr ""
+msgstr "你到底想要什麼？你不能看到我在這裡忙嗎？"
 
 #. Id: 42381-Dialogue.mod
 #. -- Index: 0.2
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42382-Dialogue.mod:0
 msgid "Is there a problem here? "
-msgstr ""
+msgstr "這裡有問題嗎？"
 
 #. Id: 42386-Dialogue.mod
 #. -- Index: 2.0
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42387-Dialogue.mod:0
 msgid "I'll pay their tax bill. How much is it?"
-msgstr ""
+msgstr "我會支付他們的稅單。多少錢？"
 
 #. Id: 42391-Dialogue.mod
 #. -- Index: 4.0
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42391-Dialogue.mod:0
 msgid "Oho! Got ourselves a do-gooder have we? Alright, 1200 Cats and they're off the hook."
-msgstr ""
+msgstr "啊哈！有我們自己做的事嗎？好吧，1200貓，他們已經擺脫困境。"
 
 #. Id: 42392-Dialogue.mod
 #. -- Index: 5.0
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 42392-Dialogue.mod:0 12663-Dialogue?(11)?(2).mod:1 12724-Dialogue?(11)?(2).mod:2 8449-Dialogue.mod:0
 msgid "Here"
-msgstr ""
+msgstr "這裡"
 
 #. Id: 42403-Dialogue.mod
 #. -- Index: 6.0
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42396-Dialogue.mod:0
 msgid "On second thought, I'll leave you to it..."
-msgstr ""
+msgstr "再想一想，我會告訴你的......"
 
 #. Id: 42409-Dialogue.mod
 #. -- Index: 6.0
@@ -172,7 +172,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42388-Dialogue.mod:0
 msgid "Damn tax-dodgers... "
-msgstr ""
+msgstr "該死的逃稅者..."
 
 #. Id: 42410-Dialogue.mod
 #. -- Index: 4.0
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42411-Dialogue.mod:0
 msgid "A guard's time is precious..."
-msgstr ""
+msgstr "守衛的時間很寶貴......"
 
 #. Id: 42389-Dialogue.mod
 #. -- Index: 3.0
@@ -199,7 +199,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42389-Dialogue.mod:0
 msgid "You're right, this is none of my concern."
-msgstr ""
+msgstr "你是對的，這不關心我。"
 
 #. Id: 42390-Dialogue.mod
 #. -- Index: 3.0
@@ -208,7 +208,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42390-Dialogue.mod:0
 msgid "Sounds like you're ripping them off to me."
-msgstr ""
+msgstr "聽起來你正在把它們扯到我身上。"
 
 #. Id: 51647-Dialogue.mod
 #. -- Index: 4.0
@@ -226,7 +226,7 @@ msgstr ""
 #. -- Group title: Interrupt guard bullying event
 #: 42383-Dialogue.mod:0
 msgid "No, didn't mean to bother you, I'll be going now..."
-msgstr ""
+msgstr "不，不是故意打擾你，我現在要去......"
 
 #. Id: 42384-Dialogue.mod
 #. -- Index: 1.0
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
 #: 42400-Dialogue.mod:0
 msgid "I've got it covered."
-msgstr ""
+msgstr "我已經覆蓋了它。"
 
 #. Id: 42400-Dialogue.mod
 #. -- Index: 2.1
@@ -302,5 +302,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_ALLY=1, Tag: -1
 #: 42400-Dialogue.mod:1
 msgid "I can handle it."
-msgstr ""
-
+msgstr "我能應付。"

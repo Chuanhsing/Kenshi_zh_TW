@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41302-Dialogue.mod:0
 msgid "And I say, \"Hey! Wiggle on over this way muffin!\" I tell you, ha, I tell you I've never seen someone so steamed so fast. So I took the- oh...glass is empty. Say pal, lend me some cash. I'll make it worth your while."
-msgstr ""
+msgstr "而且我說，“嘿！以這種方式擺動鬆餅！”我告訴你，哈哈，我告訴你我從沒見過如此快速蒸的人。所以我拿了 - 哦......玻璃是空的。說夥伴，借給我一些現金。我會讓你值得一試。"
 
 #. Id: 41303-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41303-Dialogue.mod:0
 msgid "Will you now?"
-msgstr ""
+msgstr "你現在好嗎？"
 
 #. Id: 41304-Dialogue.mod
 #. -- Index: 2.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41304-Dialogue.mod:0
 msgid "Tell ya what, I'll sing ya a song. AHEM. MMMmmm- chmmmm...On second thought, pay my 3000 cat tab and I'll sing you tales till the sun stops setting. Know all the good ones and got a voice worth writing songs about! Ha!"
-msgstr ""
+msgstr "告訴你什麼，我會唱一首歌。咳咳。 MMMmmm-chmmmm ......第二個想法，付我的3000貓標籤，我會唱你的故事，直到太陽停止設置。知道所有好的，並有一個值得寫歌的聲音！哈！"
 
 #. Id: 41305-Dialogue.mod
 #. -- Index: 3.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 41305-Dialogue.mod:0
 msgid "I know I'll regret this but...why not? Here."
-msgstr ""
+msgstr "我知道我會後悔但是......為什麼不呢？這裡。"
 
 #. Id: 41307-Dialogue.mod
 #. -- Index: 3.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 41307-Dialogue.mod:0
 msgid "I can hardly even pay my own tab right now. Sorry pal."
-msgstr ""
+msgstr "我現在幾乎無法支付我自己的標籤。對不起朋友。"
 
 #. Id: 41308-Dialogue.mod
 #. -- Index: 3.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 41308-Dialogue.mod:0
 msgid "How about a demonstration before I go all in?"
-msgstr ""
+msgstr "我全力以赴之前的示威怎麼樣？"
 
 #. Id: 41309-Dialogue.mod
 #. -- Index: 4.0
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41309-Dialogue.mod:0
 msgid "Ahem...There once was a pixie above all the clouds. She soared with the zephers, gallant and proud! She went to the neh neh, neh neh neh neh crest, and swam with something something, something her breast! She went to...to...ah I don't remember but they make her queen at the end. So, pretty good, eh?"
-msgstr ""
+msgstr "嗯......曾經有一個小精靈在雲層之上。她與zephers一起飆升，勇敢而自豪！她去了neh neh，neh neh neh neh crest，然後帶著什麼東西游泳，她的乳房！她去了......啊......我不記得了，但他們最後讓她成為女王。所以，非常好，嗯？"
 
 #. Id: 41310-Dialogue.mod
 #. -- Index: 5.0
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41310-Dialogue.mod:0
 msgid "...Surprisingly yeah. Worth the price."
-msgstr ""
+msgstr "......令人驚訝的是啊。值得的價格。"
 
 #. Id: 41311-Dialogue.mod
 #. -- Index: 5.0
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41311-Dialogue.mod:0
 msgid "...Get out of my face!"
-msgstr ""
+msgstr "...從我面前消失！"
 
 #. Id: 41312-Dialogue.mod
 #. -- Index: 5.0
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41314-Dialogue.mod:0
 msgid "I'm looking for fighters, not drunks. You wouldn't happen to be a fighter would you?"
-msgstr ""
+msgstr "我正在尋找戰士，而不是醉鬼。你不會碰巧成為戰士嗎？"
 
 #. Id: 41315-Dialogue.mod
 #. -- Index: 1.0
@@ -120,5 +120,4 @@ msgstr ""
 #. -- Group title: Sword for hire bard
 #: 41315-Dialogue.mod:0
 msgid "How about...no."
-msgstr ""
-
+msgstr "不要吧。"

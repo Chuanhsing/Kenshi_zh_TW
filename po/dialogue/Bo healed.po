@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Bo healed
 #: 8689-Dialogue.mod:0
 msgid "Phew, thanks"
-msgstr ""
+msgstr "哎呀，謝謝"
 
 #. Id: 8689-Dialogue.mod
 #. -- Index: 0.1
@@ -33,7 +33,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 8689-Dialogue.mod:1 8285-Dialogue.mod:1
 msgid "Damn, that smarts"
-msgstr ""
+msgstr "該死的，那個聰明人"
 
 #. Id: 8689-Dialogue.mod
 #. -- Index: 0.2
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 8689-Dialogue.mod:2 8550-Dialogue.mod:0
 msgid "Much better!"
-msgstr ""
+msgstr "好多了！"
 
 #. Id: 8689-Dialogue.mod
 #. -- Index: 0.3
@@ -57,5 +57,4 @@ msgstr ""
 #. -- Group title: Bo healed
 #: 8689-Dialogue.mod:3
 msgid "The Mighty Bo is back in action!"
-msgstr ""
-
+msgstr "Mighty Bo重新開始行動！"

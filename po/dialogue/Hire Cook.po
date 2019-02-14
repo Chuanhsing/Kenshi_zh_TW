@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52559-Dialogue.mod:0
 msgid "Was always told I'd never make it if I couldn't handle myself with a sword. Well, I'm still alive, aren't I? Melting the hearts of my enemies with my cooking, one ricebowl at a time!"
-msgstr ""
+msgstr "總是告訴我，如果我不能用劍來處理自己，我永遠不會成功。好吧，我還活著，不是嗎？用我的烹飪，一次一個飯碗，融化我的敵人的心！"
 
 #. Id: 52560-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52560-Dialogue.mod:0
 msgid "So, how about it? Need a cook on your team?"
-msgstr ""
+msgstr "那麼，怎麼樣？你的團隊需要做飯嗎？"
 
 #. Id: 52561-Dialogue.mod
 #. -- Index: 0.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52561-Dialogue.mod:2
 msgid "Cook for hire! Will work for companionship and protection..."
-msgstr ""
+msgstr "庫克出租！將為陪伴和保護工作......"
 
 #. Id: 52561-Dialogue.mod
 #. -- Index: 0.3
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52561-Dialogue.mod:4
 msgid "Killing and eating, that's all this world's good for... Me, I prefer the latter. How about it, need a chef?"
-msgstr ""
+msgstr "殺戮和吃飯，這就是這個世界對我有益...我，我更喜歡後者。怎麼樣，需要一個廚師？"
 
 #. Id: 52561-Dialogue.mod
 #. -- Index: 0.5
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52561-Dialogue.mod:5
 msgid "You there, need a cook? I could cook you up a ricebowl so good it'd have you drooling at the chops for weeks. You'll be on your knees begging for more of my special recipe...."
-msgstr ""
+msgstr "你在那裡，需要一個廚師？我可以把你的飯碗煮得那麼好，它讓你在排骨上流口水幾個星期。你會跪在地上乞求更多我的特殊食譜...."
 
 #. Id: 52561-Dialogue.mod
 #. -- Index: 0.6
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52668-Dialogue.mod:2
 msgid "First things first, what's your fee?"
-msgstr ""
+msgstr "首先，你的費用是多少？"
 
 #. Id: 52670-Dialogue.mod
 #. -- Index: 2.0
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52670-Dialogue.mod:0
 msgid "Usual fee, 6000 Cats."
-msgstr ""
+msgstr "通常費，6000貓。"
 
 #. Id: 52670-Dialogue.mod
 #. -- Index: 2.1
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52670-Dialogue.mod:1
 msgid "6000 Cats. So we got a deal?"
-msgstr ""
+msgstr "6000隻貓。所以我們達成了協議？"
 
 #. Id: 52670-Dialogue.mod
 #. -- Index: 2.2
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52670-Dialogue.mod:2
 msgid "I charge 6000 Cats. Are you interested?"
-msgstr ""
+msgstr "我給6000隻貓充電。你感興趣嗎？"
 
 #. Id: 52673-Dialogue.mod
 #. -- Index: 3.0
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52673-Dialogue.mod:0
 msgid "I'm not interested afterall."
-msgstr ""
+msgstr "我對此並不感興趣。"
 
 #. Id: 52673-Dialogue.mod
 #. -- Index: 3.1
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Group title: Headshot
 #: 52673-Dialogue.mod:1 53509-Dialogue.mod:0
 msgid "I've changed my mind, sorry."
-msgstr ""
+msgstr "我改變了主意，抱歉。"
 
 #. Id: 52669-Dialogue.mod
 #. -- Index: 1.1
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 52669-Dialogue.mod:1
 msgid "Sorry, not interested."
-msgstr ""
+msgstr "對不起，不感興趣。"
 
 #. Id: 52678-Dialogue.mod
 #. -- Index: 0.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
 #: 52678-Dialogue.mod:0
 msgid "You're back? Did you change your mind? I charge 6000 Cats if you need a cook."
-msgstr ""
+msgstr "你回來了？你改變了主意嗎？如果你需要一個廚師，我會收取6000貓。"
 
 #. Id: 52678-Dialogue.mod
 #. -- Index: 0.1
@@ -189,5 +189,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<18, Tag: -1
 #: 52678-Dialogue.mod:1
 msgid "Need a cook after all? 6000 Cat was my price."
-msgstr ""
-
+msgstr "畢竟需要一個廚師？ 6000貓是我的價格。"

@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 40997-Dialogue.mod:0
 msgid "Paladins! Deal with this!"
-msgstr ""
+msgstr "聖騎士！處理它！"
 
 #. Id: 40997-Dialogue.mod
 #. -- Index: 0.1
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 40997-Dialogue.mod:1
 msgid "Paladins! There are beasts that need taming..."
-msgstr ""
+msgstr "聖騎士！有野獸需要馴服......"
 
 #. Id: 40997-Dialogue.mod
 #. -- Index: 0.2
@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 40997-Dialogue.mod:2
 msgid "Paladins! I want this ruckus dealt with, now!"
-msgstr ""
+msgstr "聖騎士！我現在想要處理這個騷亂！"
 
 #. Id: 40997-Dialogue.mod
 #. -- Index: 0.3
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 40997-Dialogue.mod:3
 msgid "Paladins. Deal with them."
-msgstr ""
+msgstr "聖騎士。處理它們。"
 
 #. Id: 40997-Dialogue.mod
 #. -- Index: 0.4
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 40997-Dialogue.mod:4
 msgid "Paladins! Seize them for judgement."
-msgstr ""
+msgstr "聖騎士！抓住他們進行判斷。"
 
 #. Id: 43346-Dialogue.mod
 #. -- Index: 0.0
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43346-Dialogue.mod:0
 msgid "NOT IN MY CITY, AGENT OF DARKNESS!"
-msgstr ""
+msgstr "不在我的城市，黑暗的代理人！"
 
 #. Id: 43346-Dialogue.mod
 #. -- Index: 0.1
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43346-Dialogue.mod:1
 msgid "AGENTS OF DARKNESS BE PURGED!"
-msgstr ""
+msgstr "黑暗的代理人被拋棄！"
 
 #. Id: 43346-Dialogue.mod
 #. -- Index: 0.2
@@ -94,5 +94,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 43346-Dialogue.mod:2
 msgid "Be gone, AGENT OF DARKNESS!"
-msgstr ""
-
+msgstr "走了，黑暗的代理人！"

@@ -28,7 +28,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 15268-Dialogue.mod:0
 msgid "Back up!"
-msgstr ""
+msgstr "備份！"
 
 #. Id: 15268-Dialogue.mod
 #. -- Index: 1.3
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 15268-Dialogue.mod:4
 msgid "You can't outrun me, thief!"
-msgstr ""
+msgstr "小偷，你不能超過我！"
 
 #. Id: 15269-Dialogue.mod
 #. -- Index: 1.0
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
 #: 15269-Dialogue.mod:3
 msgid "Shouldn't 've tried that!"
-msgstr ""
+msgstr "不應該試過！"
 
 #. Id: 15269-Dialogue.mod
 #. -- Index: 1.4
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=0, Tag: -1
 #: 15269-Dialogue.mod:5
 msgid "You lootin'?"
-msgstr ""
+msgstr "你哄騙'？"
 
 #. Id: 15270-Dialogue.mod
 #. -- Index: 1.0
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 15270-Dialogue.mod:0
 msgid "I'll stab your eyes out for that!"
-msgstr ""
+msgstr "我會為此捅你的眼睛！"
 
 #. Id: 15270-Dialogue.mod
 #. -- Index: 1.1
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 15270-Dialogue.mod:1
 msgid "I'll gut you like a fish for that!"
-msgstr ""
+msgstr "我會把你當成一條魚！"
 
 #. Id: 15270-Dialogue.mod
 #. -- Index: 1.2
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 15270-Dialogue.mod:3
 msgid "I'll make you eat my sword for that!"
-msgstr ""
+msgstr "我會讓你吃掉我的劍！"
 
 #. Id: 48768-Dialogue.mod
 #. -- Index: 1.0
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Group title: Looting swamper ally
 #: 48781-Dialogue.mod:0
 msgid "Thief!.. Don't you know who we are?"
-msgstr ""
+msgstr "小偷！你不知道我們是誰嗎？"
 
 #. Id: 48781-Dialogue.mod
 #. -- Index: 0.1
@@ -183,7 +183,7 @@ msgstr ""
 #. -- Group title: Looting swamper ally
 #: 48781-Dialogue.mod:1
 msgid "You don't steal from US, thief!"
-msgstr ""
+msgstr "你不偷竊美國，小偷！"
 
 #. Id: 48780-Dialogue.mod
 #. -- Index: 1.0
@@ -219,7 +219,7 @@ msgstr ""
 #. -- Group title: Looting swamper ally
 #: 48780-Dialogue.mod:3
 msgid "I'll teach you not to steal from a Stone Rat!"
-msgstr ""
+msgstr "我會教你不要偷石鼠！"
 
 #. Id: 48780-Dialogue.mod
 #. -- Index: 1.4
@@ -229,4 +229,3 @@ msgstr ""
 #: 48780-Dialogue.mod:4
 msgid "You steal from a Stone Rat, you're in for a /STABBIN/!"
 msgstr ""
-

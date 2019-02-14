@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Esata disturbed
 #: 11382-Dialogue?(10).mod:0
 msgid "Who are you? Why do you disturb me?"
-msgstr ""
+msgstr "你是誰？你為什麼打擾我？"
 
 #. Id: 11382-Dialogue (10).mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Esata disturbed
 #: 11382-Dialogue?(10).mod:1
 msgid "Who is this? Why are you in here?"
-msgstr ""
+msgstr "這是誰？你為什麼在這裡？"
 
 #. Id: 11382-Dialogue (10).mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Esata disturbed
 #: 11382-Dialogue?(10).mod:2
 msgid "Who are you? Who let you in here?"
-msgstr ""
+msgstr "你是誰？誰讓你在這裡？"
 
 #. Id: 43081-Dialogue.mod
 #. -- Index: 1.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43081-Dialogue.mod:0
 msgid "Leave. I'm busy."
-msgstr ""
+msgstr "離開。我很忙。"
 
 #. Id: 43081-Dialogue.mod
 #. -- Index: 1.1
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43081-Dialogue.mod:1
 msgid "Bothersome. Remove yourself."
-msgstr ""
+msgstr "麻煩。刪除自己。"
 
 #. Id: 11383-Dialogue (10).mod
 #. -- Index: 2.0
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 43079-Dialogue.mod:2
 msgid "Think you're worthy of my sword? You're wasting my time."
-msgstr ""
+msgstr "認為你配得上我的劍嗎？你在浪費我的時間。"
 
 #. Id: 11384-Dialogue (10).mod
 #. -- Index: 3.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Group title: Esata disturbed
 #: 11384-Dialogue?(10).mod:0
 msgid "Vamoose"
-msgstr ""
+msgstr "匆匆離開"
 
 #. Id: 11384-Dialogue (10).mod
 #. -- Index: 3.1
@@ -173,5 +173,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 11384-Dialogue?(10).mod:1 12106-Dialogue?(10).mod:4 14706-Dialogue.mod:3 17590-Dialogue.mod:3
 msgid "Be gone"
-msgstr ""
-
+msgstr "走了"

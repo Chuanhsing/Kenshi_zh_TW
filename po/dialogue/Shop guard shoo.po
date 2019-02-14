@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Shop guard shoo
 #: 44134-Dialogue.mod:5
 msgid "Okay, let's wrap it up. Time to close."
-msgstr ""
+msgstr "好的，讓我們把它包起來。是時候結束了。"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.0
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:0
 msgid "Let's go. Door's that way."
-msgstr ""
+msgstr "我們走吧。門那樣。"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.1
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:1
 msgid "Exit's that way. Let's go."
-msgstr ""
+msgstr "退出那樣。我們走吧。"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.2
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:2
 msgid "I ain't paid overtime, so let's hurry this up, eh?"
-msgstr ""
+msgstr "我沒有加班費，所以讓我們快點，嗯？"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.3
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:3
 msgid "I'll show you the way out, shall I?"
-msgstr ""
+msgstr "我會告訴你出路，好嗎？"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.4
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:4
 msgid "Come on, let's get a move on."
-msgstr ""
+msgstr "來吧，讓我們繼續吧。"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.5
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:5
 msgid "We're closed for trading. Come back another time."
-msgstr ""
+msgstr "我們已暫停交易。再來一次。"
 
 #. Id: 44137-Dialogue.mod
 #. -- Index: 2.6
@@ -140,7 +140,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44137-Dialogue.mod:6
 msgid "Come on, I got places to be. Exit's that way."
-msgstr ""
+msgstr "來吧，我有空位。退出那樣。"
 
 #. Id: 44139-Dialogue.mod
 #. -- Index: 3.0
@@ -151,5 +151,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 44139-Dialogue.mod:0
 msgid "*huff*"
-msgstr ""
-
+msgstr "*一怒之下*"

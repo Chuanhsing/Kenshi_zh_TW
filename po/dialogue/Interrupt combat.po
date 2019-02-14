@@ -25,7 +25,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 6758-Dialogue.mod:0 14463-Dialogue?(4).mod:1
 msgid "Drop your weapons or die!"
-msgstr ""
+msgstr "放下你的武器或死！"
 
 #. Id: 6758-Dialogue.mod
 #. -- Index: 0.1
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 6758-Dialogue.mod:2
 msgid "Surrender yourselves or die!"
-msgstr ""
+msgstr "投降自己或死！"
 
 #. Id: 6758-Dialogue.mod
 #. -- Index: 0.3
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 6758-Dialogue.mod:3
 msgid "Drop you weapons, now!"
-msgstr ""
+msgstr "現在放棄你的武器！"
 
 #. Id: 6758-Dialogue.mod
 #. -- Index: 0.4
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 6758-Dialogue.mod:4
 msgid "Weapons! Drop 'em, now!"
-msgstr ""
+msgstr "武器！放下他們吧！"
 
 #. Id: 6758-Dialogue.mod
 #. -- Index: 0.5
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 6758-Dialogue.mod:5
 msgid "Drop your weapons or BLEED!"
-msgstr ""
+msgstr "放下你的武器或BLEED！"
 
 #. Id: 6758-Dialogue.mod
 #. -- Index: 0.6
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 6758-Dialogue.mod:6
 msgid "Weapons! Drop 'em!"
-msgstr ""
+msgstr "武器！放下他們！"
 
 #. Id: 6761-Dialogue.mod
 #. -- Index: 1.0
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6761-Dialogue.mod:0
 msgid "Wait! What do you want from me?"
-msgstr ""
+msgstr "等待！你想從我這裡得到什麼？"
 
 #. Id: 6761-Dialogue.mod
 #. -- Index: 1.1
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6761-Dialogue.mod:1
 msgid "Wait... I'll do whatever you want"
-msgstr ""
+msgstr "等等......我會做你想做的任何事"
 
 #. Id: 6761-Dialogue.mod
 #. -- Index: 1.2
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6761-Dialogue.mod:2
 msgid "Don't hurt me, I'll do whatever you want"
-msgstr ""
+msgstr "不要傷害我，我會做你想做的任何事"
 
 #. Id: 6762-Dialogue.mod
 #. -- Index: 2.0
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6763-Dialogue.mod:0
 msgid "I don't want to fight. Can't we work something out?"
-msgstr ""
+msgstr "我不想打架。我們不能解決問題嗎？"
 
 #. Id: 6763-Dialogue.mod
 #. -- Index: 3.1
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6763-Dialogue.mod:1
 msgid "No violence. Maybe we can come to an agreement?"
-msgstr ""
+msgstr "沒有暴力。也許我們可以達成協議？"
 
 #. Id: 6763-Dialogue.mod
 #. -- Index: 3.2
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6763-Dialogue.mod:2
 msgid "Okay, let's be civil about this... maybe we can come to an agreement?"
-msgstr ""
+msgstr "好吧，讓我們對此有所了解......也許我們可以達成協議？"
 
 #. Id: 6763-Dialogue.mod
 #. -- Index: 3.3
@@ -211,7 +211,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6763-Dialogue.mod:3
 msgid "Please, can't we settle this some other way?"
-msgstr ""
+msgstr "拜託，我們不能以其他方式解決這個問題嗎？"
 
 #. Id: 14469-Dialogue (4).mod
 #. -- Index: 4.0
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7140-Dialogue.mod:0
 msgid "I've worked hard for my money, I'm not going to let you take it"
-msgstr ""
+msgstr "我為我的錢努力工作，我不會讓你接受它"
 
 #. Id: 7140-Dialogue.mod
 #. -- Index: 3.2
@@ -265,7 +265,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7140-Dialogue.mod:2
 msgid "No, I've worked hard for my money"
-msgstr ""
+msgstr "不，我為我的錢努力了"
 
 #. Id: 7140-Dialogue.mod
 #. -- Index: 3.3
@@ -274,7 +274,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7140-Dialogue.mod:3
 msgid "... No. You're not taking my money"
-msgstr ""
+msgstr "......不，你沒有拿我的錢"
 
 #. Id: 7140-Dialogue.mod
 #. -- Index: 3.4
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7140-Dialogue.mod:4
 msgid "... I don't have any money, honestly"
-msgstr ""
+msgstr "...老實說，我沒有錢"
 
 #. Id: 7149-Dialogue.mod
 #. -- Index: 4.0
@@ -340,7 +340,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>300, Tag: -1
 #: 6765-Dialogue.mod:2
 msgid "No trouble. Here (300 Cats)"
-msgstr ""
+msgstr "沒有問題。這裡（300貓）"
 
 #. Id: 6769-Dialogue.mod
 #. -- Index: 4.0
@@ -414,7 +414,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
 #: 6775-Dialogue.mod:1
 msgid "No, wait! (500 Cats)"
-msgstr ""
+msgstr "不，等等！ （500貓）"
 
 #. Id: 6775-Dialogue.mod
 #. -- Index: 5.2
@@ -424,7 +424,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
 #: 6775-Dialogue.mod:2
 msgid "Wait! (500 Cats)"
-msgstr ""
+msgstr "等待！ （500貓）"
 
 #. Id: 6775-Dialogue.mod
 #. -- Index: 5.3
@@ -434,7 +434,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
 #: 6775-Dialogue.mod:3
 msgid "Okay, okay! (500 Cats)"
-msgstr ""
+msgstr "好吧好吧！ （500貓）"
 
 #. Id: 6779-Dialogue.mod
 #. -- Index: 5.0
@@ -494,7 +494,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6784-Dialogue.mod:1
 msgid "... Fine. A bum like you ain't worth fightin' anyway.. Let's go!"
-msgstr ""
+msgstr "好的無論如何，像你這樣的流浪漢不值得鬥爭..讓我們走吧！"
 
 #. Id: 6784-Dialogue.mod
 #. -- Index: 6.2
@@ -503,7 +503,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6784-Dialogue.mod:2
 msgid "... Fine. I ain't in the mood for fighting anyway.. Let's go!"
-msgstr ""
+msgstr "好的反正我也沒有打架的心情..我們走吧！"
 
 #. Id: 6787-Dialogue.mod
 #. -- Index: 6.0
@@ -587,7 +587,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6790-Dialogue.mod:0
 msgid "No, I'm not paying you any more!"
-msgstr ""
+msgstr "不，我不再付你了！"
 
 #. Id: 6790-Dialogue.mod
 #. -- Index: 7.1
@@ -596,7 +596,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6790-Dialogue.mod:1
 msgid "No, I won't give you any more!"
-msgstr ""
+msgstr "不，我不會再給你了！"
 
 #. Id: 15355-Dialogue.mod
 #. -- Index: 7.0
@@ -606,7 +606,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<500, Tag: -1
 #: 15355-Dialogue.mod:0
 msgid "I can't..."
-msgstr ""
+msgstr "我不能......"
 
 #. Id: 15355-Dialogue.mod
 #. -- Index: 7.1
@@ -616,7 +616,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<500, Tag: -1
 #: 15355-Dialogue.mod:1
 msgid "I really can't..."
-msgstr ""
+msgstr "我真的不能......"
 
 #. Id: 6792-Dialogue.mod
 #. -- Index: 6.0
@@ -645,7 +645,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7145-Dialogue.mod:0
 msgid "Okay okay, just take it (500 Cats)"
-msgstr ""
+msgstr "好吧，好吧，拿它（500貓）"
 
 #. Id: 7146-Dialogue.mod
 #. -- Index: 7.0
@@ -654,7 +654,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7146-Dialogue.mod:0
 msgid "You ain't touching me with THOSE dirty hands!"
-msgstr ""
+msgstr "你沒有用那雙臟手碰我！"
 
 #. Id: 7146-Dialogue.mod
 #. -- Index: 7.1
@@ -663,7 +663,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7146-Dialogue.mod:1
 msgid "You ain't touching me with THOSE dirty fingers!"
-msgstr ""
+msgstr "你沒有用那些臟手指觸碰我！"
 
 #. Id: 7146-Dialogue.mod
 #. -- Index: 7.2
@@ -681,7 +681,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7147-Dialogue.mod:0
 msgid "Fine. You've made your choice. We'll just have to strip it from your skin"
-msgstr ""
+msgstr "精細。你做出了自己的選擇。我們只需將它從皮膚上剝離"
 
 #. Id: 16768-Dialogue.mod
 #. -- Index: 7.0
@@ -690,7 +690,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16768-Dialogue.mod:0
 msgid "No, I can't give you any more..."
-msgstr ""
+msgstr "不，我不能再給你了......"
 
 #. Id: 14472-Dialogue (4).mod
 #. -- Index: 5.0
@@ -701,7 +701,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<700, Tag: -1
 #: 14472-Dialogue?(4).mod:0
 msgid "Ok... 400 Cats! Please."
-msgstr ""
+msgstr "好的... 400貓！請。"
 
 #. Id: 14476-Dialogue (4).mod
 #. -- Index: 6.0
@@ -710,7 +710,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 14476-Dialogue?(4).mod:0
 msgid "... Fine. Let's go!"
-msgstr ""
+msgstr "好的我們走吧！"
 
 #. Id: 6772-Dialogue.mod
 #. -- Index: 4.0
@@ -719,7 +719,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 6772-Dialogue.mod:0
 msgid "Okay. Come on, let's go"
-msgstr ""
+msgstr "好的。來吧，我們走吧"
 
 #. Id: 6772-Dialogue.mod
 #. -- Index: 4.1
@@ -747,7 +747,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>1, Tag: -1
 #: 7137-Dialogue.mod:0
 msgid "Are you tellin' me, alls you can afford is 300 Cats? Even with all them big backpacks?"
-msgstr ""
+msgstr "你告訴我，你能負擔的是300隻貓嗎？即使他們都是大背包？"
 
 #. Id: 17774-Dialogue.mod
 #. -- Index: 4.2
@@ -788,7 +788,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>150, Tag: -1
 #: 6766-Dialogue.mod:0
 msgid "That's fine, just let me go. Here (150 Cats)"
-msgstr ""
+msgstr "那沒關係，讓我走吧。在這裡（150貓）"
 
 #. Id: 6766-Dialogue.mod
 #. -- Index: 3.1
@@ -851,7 +851,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 7130-Dialogue.mod:0 5131-gamedata.base:0
 msgid "Yoink!"
-msgstr ""
+msgstr "Yoink！"
 
 #. Id: 7132-Dialogue.mod
 #. -- Index: 7.0
@@ -869,7 +869,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7133-Dialogue.mod:0
 msgid "Then we'll just have to do this the hard way!"
-msgstr ""
+msgstr "那麼我們就必須以艱難的方式做到這一點！"
 
 #. Id: 7133-Dialogue.mod
 #. -- Index: 8.1
@@ -896,7 +896,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16757-Dialogue.mod:0
 msgid "It's all I have... I don't want to fight"
-msgstr ""
+msgstr "這就是我所擁有的......我不想打架"
 
 #. Id: 16758-Dialogue.mod
 #. -- Index: 6.0
@@ -905,7 +905,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16758-Dialogue.mod:0
 msgid "Urg! Fine! I don't wanna get blood on my rags anyway!"
-msgstr ""
+msgstr "URG！精細！無論如何，我不想讓我的衣服上的血！"
 
 #. Id: 16759-Dialogue.mod
 #. -- Index: 7.0
@@ -914,7 +914,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16759-Dialogue.mod:0
 msgid "Just give it here"
-msgstr ""
+msgstr "把它放在這裡"
 
 #. Id: 16762-Dialogue.mod
 #. -- Index: 6.0
@@ -923,7 +923,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16762-Dialogue.mod:0
 msgid "Not good enough!"
-msgstr ""
+msgstr "還不夠好！"
 
 #. Id: 16763-Dialogue.mod
 #. -- Index: 7.0
@@ -942,7 +942,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
 #: 16765-Dialogue.mod:0
 msgid "I don't have any money!"
-msgstr ""
+msgstr "我沒有錢！"
 
 #. Id: 16765-Dialogue.mod
 #. -- Index: 3.1
@@ -952,7 +952,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
 #: 16765-Dialogue.mod:1
 msgid "But I'm broke! I have no money..."
-msgstr ""
+msgstr "但我破產了！我沒錢..."
 
 #. Id: 16765-Dialogue.mod
 #. -- Index: 3.2
@@ -962,7 +962,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<150, Tag: -1
 #: 16765-Dialogue.mod:2
 msgid "But... I'm out of Cats!"
-msgstr ""
+msgstr "但是......我沒有貓！"
 
 #. Id: 16767-Dialogue.mod
 #. -- Index: 4.0
@@ -971,7 +971,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 16767-Dialogue.mod:0
 msgid "Then tough shit! I'll have to strip the clothes from your back!"
-msgstr ""
+msgstr "然後強硬的狗屎！我要把衣服脫掉！"
 
 #. Id: 7141-Dialogue.mod
 #. -- Index: 1.0
@@ -1016,7 +1016,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7142-Dialogue.mod:1
 msgid "Go to hell!"
-msgstr ""
+msgstr "去死吧！"
 
 #. Id: 7142-Dialogue.mod
 #. -- Index: 2.2
@@ -1025,7 +1025,7 @@ msgstr ""
 #. -- Group title: Interrupt combat
 #: 7142-Dialogue.mod:2
 msgid "Rot in hell!"
-msgstr ""
+msgstr "腐爛在地獄！"
 
 #. Id: 14466-Dialogue (4).mod
 #. -- Index: 1.0
@@ -1053,7 +1053,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 14463-Dialogue?(4).mod:0
 msgid "Surrender yourself or die!"
-msgstr ""
+msgstr "投降自己或死！"
 
 #. Id: 14463-Dialogue (4).mod
 #. -- Index: 0.2
@@ -1063,5 +1063,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 14463-Dialogue?(4).mod:2
 msgid "You! Drop you weapons, now!"
-msgstr ""
-
+msgstr "您！現在放棄你的武器！"

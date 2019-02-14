@@ -68,7 +68,7 @@ msgstr ""
 #. -- Group title: doctor shop
 #: 1375-gamedata.base:0 18216-Recruits?Dialogue.mod:0 49201-Dialogue.mod:0 18163-Recruits?Dialogue.mod:0 3953-gamedata.base:1 18123-Recruits?Dialogue.mod:7 42975-Dialogue.mod:0 14475-rebirth.mod:1
 msgid "Yes?"
-msgstr ""
+msgstr "是？"
 
 #. Id: 1376-gamedata.base
 #. -- Index: 1.0
@@ -77,7 +77,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1376-gamedata.base:0
 msgid "Are you looking to join up?"
-msgstr ""
+msgstr "你想加入嗎？"
 
 #. Id: 1376-gamedata.base
 #. -- Index: 1.1
@@ -95,7 +95,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:0
 msgid "I am, but it will cost you.  3000 cats."
-msgstr ""
+msgstr "我是，但它會花費你。 3000隻貓。"
 
 #. Id: 1377-gamedata.base
 #. -- Index: 2.1
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:1
 msgid "I am. But not for free. 3000 Cats."
-msgstr ""
+msgstr "我是。但不是免費的。 3000隻貓。"
 
 #. Id: 1377-gamedata.base
 #. -- Index: 2.2
@@ -113,7 +113,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:2
 msgid "Yeah, I am. But I'll need 3000 Cats."
-msgstr ""
+msgstr "對我是。但我需要3000隻貓。"
 
 #. Id: 1377-gamedata.base
 #. -- Index: 2.3
@@ -122,7 +122,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:3
 msgid "Yeah, I am, but it will cost you 3000 cats."
-msgstr ""
+msgstr "是的，我是，但它會花費你3000隻貓。"
 
 #. Id: 1377-gamedata.base
 #. -- Index: 2.4
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:4
 msgid "I am, but I have a price. 3000 Cats and I'm yours."
-msgstr ""
+msgstr "我是，但我有代價。 3000貓，我是你的。"
 
 #. Id: 1377-gamedata.base
 #. -- Index: 2.5
@@ -140,7 +140,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 1377-gamedata.base:5
 msgid "I am, but I have a price. 3000 Cats and I'll follow."
-msgstr ""
+msgstr "我是，但我有代價。 3000貓，我會跟著。"
 
 #. Id: 1381-gamedata.base
 #. -- Index: 3.2
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 1381-gamedata.base:2
 msgid "You're on."
-msgstr ""
+msgstr "輪到你了。"
 
 #. Id: 1381-gamedata.base
 #. -- Index: 3.3
@@ -177,7 +177,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>7500, Tag: -1
 #: 1381-gamedata.base:3 15104-Dialogue.mod:2 3577-dialogue-01.mod:1 5736-Recruits?Dialogue.mod:0
 msgid "Done."
-msgstr ""
+msgstr "完成。"
 
 #. Id: 1532-gamedata.base
 #. -- Index: 3.0
@@ -187,7 +187,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 1532-gamedata.base:0
 msgid "Damn, can't afford that."
-msgstr ""
+msgstr "該死的，買不起。"
 
 #. Id: 1532-gamedata.base
 #. -- Index: 3.1
@@ -197,7 +197,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 1532-gamedata.base:1
 msgid "Damn, I don't have enough"
-msgstr ""
+msgstr "該死的，我沒有足夠的"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.0
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:0
 msgid "Need a sword? I can be your sword... or whatever else you want me to be..."
-msgstr ""
+msgstr "需要一把劍嗎？我可以成為你的劍......或者你想讓我成為的任何其他東西......"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.1
@@ -217,7 +217,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:1
 msgid "Need some extra manpower? I can give you a hand..."
-msgstr ""
+msgstr "需要一些額外的人力？我可以幫你一臂之力......"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.2
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:5
 msgid "I'm looking to get out of town. You need a merc?"
-msgstr ""
+msgstr "我想要出城。你需要一個merc？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.6
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:6
 msgid "I'm looking for travel company. Need a cheap sword for hire?"
-msgstr ""
+msgstr "我在尋找旅遊公司。需要一把便宜的劍出租？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.7
@@ -277,7 +277,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:7
 msgid "Need a sword? I can be your sword..."
-msgstr ""
+msgstr "需要一把劍嗎？我可以成為你的劍......"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.8
@@ -287,7 +287,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:8
 msgid "Here's the deal: I need work and I need to eat. Are you looking to hire?"
-msgstr ""
+msgstr "這是交易：我需要工作，我需要吃飯。你想聘請嗎？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.9
@@ -317,7 +317,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:11
 msgid "You there! You hiring?"
-msgstr ""
+msgstr "你在那裡！你在招人嗎？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.12
@@ -327,7 +327,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:12
 msgid "I'm lookin' for work if you're lookin' on hiring?"
-msgstr ""
+msgstr "如果你正在招聘，我正在尋找工作嗎？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.13
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:14
 msgid "You must be looking to hire... am I right?"
-msgstr ""
+msgstr "你一定想僱用......我是對的嗎？"
 
 #. Id: 8642-Dialogue.mod
 #. -- Index: 0.15
@@ -377,7 +377,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander or Shek
 #: 8642-Dialogue.mod:17
 msgid "You there, you look like you could use some company. You recruiting?"
-msgstr ""
+msgstr "你在那裡，你看起來可以使用一些公司。你招聘？"
 
 #. Id: 8643-Dialogue.mod
 #. -- Index: 1.0
@@ -386,7 +386,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 8643-Dialogue.mod:0
 msgid "Yes. What's your price?"
-msgstr ""
+msgstr "是。你的價格是多少？"
 
 #. Id: 8643-Dialogue.mod
 #. -- Index: 1.1
@@ -395,7 +395,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 8643-Dialogue.mod:1
 msgid "Sure. What are you charging?"
-msgstr ""
+msgstr "當然。你在收費甚麼？"
 
 #. Id: 8643-Dialogue.mod
 #. -- Index: 1.2
@@ -404,7 +404,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 8643-Dialogue.mod:2
 msgid "Yes. What's your cost?"
-msgstr ""
+msgstr "是。你的費用是多少？"
 
 #. Id: 8643-Dialogue.mod
 #. -- Index: 1.3
@@ -413,7 +413,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 8643-Dialogue.mod:3
 msgid "Yes. How much are your charging?"
-msgstr ""
+msgstr "是。你的充電費用是多少？"
 
 #. Id: 8643-Dialogue.mod
 #. -- Index: 1.4
@@ -432,7 +432,7 @@ msgstr ""
 #. -- Group title: Hire me medic shek
 #: 8643-Dialogue.mod:4 50526-Dialogue.mod:0 19628-Dialogue.mod:0
 msgid "Sure. How much?"
-msgstr ""
+msgstr "當然。多少？"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -441,7 +441,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:0
 msgid "I'm pretty desperate, so... 3000 Cats. "
-msgstr ""
+msgstr "我非常絕望，所以...... 3000隻貓。"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.1
@@ -450,7 +450,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:1
 msgid "3000 Cats and I'm yours."
-msgstr ""
+msgstr "3000貓，我是你的。"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.2
@@ -459,7 +459,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:2
 msgid "3000 Cats."
-msgstr ""
+msgstr "3000隻貓。"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.3
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:3
 msgid "3000 Cats. Is it a deal?"
-msgstr ""
+msgstr "3000隻貓。這是一筆交易嗎？"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.4
@@ -477,7 +477,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:4
 msgid "3000 Cats. Have we got a deal?"
-msgstr ""
+msgstr "3000隻貓。我們有交易嗎？"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.5
@@ -486,7 +486,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:5
 msgid "I'll charge you 3000 Cats. What do you say?"
-msgstr ""
+msgstr "我會向你收取3000隻貓的費用。你說什麼？"
 
 #. Id: 18215-Recruits Dialogue.mod
 #. -- Index: 2.6
@@ -495,7 +495,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18215-Recruits?Dialogue.mod:6
 msgid "3000 Cats upfront. Plus you better keep me well fed. You won't like me when I'm hungry."
-msgstr ""
+msgstr "3000隻貓預先。另外你最好讓我吃飽。我餓的時候你不會喜歡我的。"
 
 #. Id: 8612-Dialogue.mod
 #. -- Index: 1.0
@@ -514,7 +514,7 @@ msgstr ""
 #. -- Group title: Catcrawlers game
 #: 8612-Dialogue.mod:0 16733-Dialogue.mod:1 48367-Dialogue.mod:0
 msgid "No, nevermind"
-msgstr ""
+msgstr "沒關係"
 
 #. Id: 5611-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -525,7 +525,7 @@ msgstr ""
 #. -- Condition: My Race(s): Greenlander
 #: 5611-Recruits?Dialogue.mod:0
 msgid "Looking for a chef?"
-msgstr ""
+msgstr "尋找廚師？"
 
 #. Id: 5612-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -534,7 +534,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5612-Recruits?Dialogue.mod:0
 msgid "Are you any good?"
-msgstr ""
+msgstr "你有什麼好處嗎？"
 
 #. Id: 5613-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -543,7 +543,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5613-Recruits?Dialogue.mod:0
 msgid "Sis says I make great omlettes. Start with eggs, add some grain for texture, splash of rum, hemp seed to taste and...oh who am I kidding. I have more skill as a fighter and that's not saying much."
-msgstr ""
+msgstr "Sis說我做了很棒的小提琴。從雞蛋開始，添加一些紋理，朗姆酒，大麻籽的味道和...哦，我在開玩笑。作為一名戰士，我有更多的技能，而且說得不多。"
 
 #. Id: 5778-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -552,7 +552,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5778-Recruits?Dialogue.mod:0
 msgid "Then I guess you don't make the cut...heh heh...got 'em..."
-msgstr ""
+msgstr "然後我猜你沒有削減...嘿嘿......得到了他們......"
 
 #. Id: 5614-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -561,7 +561,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5614-Recruits?Dialogue.mod:0
 msgid "I'm looking for fighters. Think you can learn?"
-msgstr ""
+msgstr "我正在尋找戰士。認為你可以學習？"
 
 #. Id: 5615-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -570,7 +570,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5615-Recruits?Dialogue.mod:0
 msgid "I suppose. Sis kept telling me the local sword coach said I had perfect bone structure, whatever that means. I need to send some money to her. Pay me 3000 Cats cats and I'll cook for, er, run with your team."
-msgstr ""
+msgstr "我想。 Sis一直告訴我當地的劍教練說我有完美的骨骼結構，不管這意味著什麼。我需要寄錢給她。付我3000貓貓，我會做飯，呃，和你的團隊一起跑。"
 
 #. Id: 5616-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -580,7 +580,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 5616-Recruits?Dialogue.mod:0
 msgid "Sure. And I'll try an omlette sometime, even if it does sound a bit...uh...well here's the money."
-msgstr ""
+msgstr "當然。而且我會在某個時候嘗試一個omlette，即使它聽起來有點......呃......這就是金錢。"
 
 #. Id: 5618-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -589,7 +589,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5618-Recruits?Dialogue.mod:0
 msgid "I don't need a potato peeler, no matter how impecable your bone structure is."
-msgstr ""
+msgstr "無論你的骨骼結構有多麼脆弱，我都不需要土豆去皮機。"
 
 #. Id: 5619-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -599,7 +599,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 5619-Recruits?Dialogue.mod:0
 msgid "I don't have enough money, sorry."
-msgstr ""
+msgstr "對不起，我沒有足夠的錢。"
 
 #. Id: 5634-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -610,7 +610,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 5634-Recruits?Dialogue.mod:0
 msgid "You there! Are you looking for a teacher? Want to master the art of swordplay from a grandmaster such as myself? I'm a traveling teacher, what do you think?"
-msgstr ""
+msgstr "你在那裡！你在找老師嗎？想從像我這樣的大師那裡掌握劍術的藝術嗎？我是一名旅遊老師，您怎麼看？"
 
 #. Id: 5635-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -619,7 +619,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5635-Recruits?Dialogue.mod:0
 msgid "You...? Sure, uh...Tell me, how good are you?"
-msgstr ""
+msgstr "您...？當然，呃......告訴我，你有多好？"
 
 #. Id: 5636-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -628,7 +628,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5636-Recruits?Dialogue.mod:0
 msgid "Me? My blade has culled the fiercest foes, both beast and sapient alike. My fighting system will let you conquer kings, quell demons, dismantle armies, but wait, there's more!"
-msgstr ""
+msgstr "我？我的刀片已經淘汰了最兇猛的敵人，無論是野獸還是智慧都是如此。我的戰鬥系統會讓你征服國王，平息惡魔，拆除軍隊，但等等，還有更多！"
 
 #. Id: 5637-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -637,7 +637,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5637-Recruits?Dialogue.mod:0
 msgid "...Go on..."
-msgstr ""
+msgstr "...繼續..."
 
 #. Id: 5639-Recruits Dialogue.mod
 #. -- Index: 4.0
@@ -646,7 +646,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5639-Recruits?Dialogue.mod:0
 msgid "I'll teach you the secret techniques passed down through generations of warrior monk. The one legged monkey cut, then two finger death push, the hairy eyeball of dismay. But wait! There's more!"
-msgstr ""
+msgstr "我會教你幾代戰士和尚傳下來的秘密技巧。單腿猴子切，然後兩個手指死亡推動，沮喪的毛茸茸的眼球。可是等等！還有更多！"
 
 #. Id: 5640-Recruits Dialogue.mod
 #. -- Index: 5.0
@@ -655,7 +655,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5640-Recruits?Dialogue.mod:0
 msgid "...I'm listening..."
-msgstr ""
+msgstr "...我在聽..."
 
 #. Id: 5641-Recruits Dialogue.mod
 #. -- Index: 6.0
@@ -664,7 +664,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5641-Recruits?Dialogue.mod:0
 msgid "Reserve a spot for me, your personal grandmaster, and recieve two free blessings of good fortune. Just one easy payment of 3000 cats and you can be a grandmaster too!"
-msgstr ""
+msgstr "為我，你的個人大師保留一個位置，並收到兩個免費的祝福祝福。只需支付3000隻貓即可輕鬆付款，您也可以成為超級大師！"
 
 #. Id: 5642-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -674,7 +674,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 5642-Recruits?Dialogue.mod:0
 msgid "Wow. What an offer. Really, just wow. Here you are sensei. Worth every Cat."
-msgstr ""
+msgstr "哇。多麼好的。真的，哇。在這裡，你是老師。值得每一隻貓。"
 
 #. Id: 5643-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -683,7 +683,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5643-Recruits?Dialogue.mod:0
 msgid "Just...just go away."
-msgstr ""
+msgstr "只是......走吧。"
 
 #. Id: 5645-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -693,7 +693,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 5645-Recruits?Dialogue.mod:0
 msgid "I don't have the money to take you up on your offer, but somehow, I'm alright with that."
-msgstr ""
+msgstr "我沒有錢拿你的報價，但不知怎的，我沒關係。"
 
 #. Id: 5644-Recruits Dialogue.mod
 #. -- Index: 5.0
@@ -702,7 +702,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5644-Recruits?Dialogue.mod:0
 msgid "You're full of it. I'm out."
-msgstr ""
+msgstr "你滿滿的。我出去了。"
 
 #. Id: 5638-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -711,7 +711,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5638-Recruits?Dialogue.mod:0
 msgid "Yeah okay, no thank you, that's enough."
-msgstr ""
+msgstr "好的，不，謝謝，這就夠了。"
 
 #. Id: 5650-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -720,7 +720,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5650-Recruits?Dialogue.mod:0
 msgid "...Shut up. Get lost."
-msgstr ""
+msgstr "...閉嘴。走開。"
 
 #. Id: 5651-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -731,7 +731,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 5651-Recruits?Dialogue.mod:0
 msgid "You're a master swordslinger, right?"
-msgstr ""
+msgstr "你是劍士大師，對吧？"
 
 #. Id: 5652-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -740,7 +740,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5652-Recruits?Dialogue.mod:0
 msgid "Of course I am!"
-msgstr ""
+msgstr "我當然是！"
 
 #. Id: 5654-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -749,7 +749,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5654-Recruits?Dialogue.mod:0
 msgid "Take me with you."
-msgstr ""
+msgstr "帶我一起走。"
 
 #. Id: 5655-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -758,7 +758,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5655-Recruits?Dialogue.mod:0
 msgid "Why should I?"
-msgstr ""
+msgstr "我為什麼要？"
 
 #. Id: 5656-Recruits Dialogue.mod
 #. -- Index: 4.0
@@ -767,7 +767,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5656-Recruits?Dialogue.mod:0
 msgid "I've always wanted to learn the way of the blade and you can teach me. My father swore to keep me from it but I knew. When I found this old blade in the sand, I knew it was fate. I'll serve under you, do whatever you tell me, please swordslinger, take me with you."
-msgstr ""
+msgstr "我一直想學習刀片的方式，你可以教我。我父親發誓要阻止我，但我知道。當我在沙子裡發現這個舊刀片時，我知道這是命運。我會在你身邊服務，做任何你告訴我的事，請劍士，帶我一起去。"
 
 #. Id: 5657-Recruits Dialogue.mod
 #. -- Index: 5.0
@@ -776,7 +776,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5657-Recruits?Dialogue.mod:0
 msgid "Hmm. I could use another underling. You'll start as a grub. Fall in, grub."
-msgstr ""
+msgstr "嗯。我可以使用另一個下屬。你將從grub開始。陷入其中，grub。"
 
 #. Id: 5658-Recruits Dialogue.mod
 #. -- Index: 5.0
@@ -785,7 +785,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5658-Recruits?Dialogue.mod:0
 msgid "Sure, yeah, you can join. Only we don't serve under. We serve with."
-msgstr ""
+msgstr "當然可以，你可以加入。只有我們不服務。我們服務。"
 
 #. Id: 5659-Recruits Dialogue.mod
 #. -- Index: 6.1
@@ -794,7 +794,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5659-Recruits?Dialogue.mod:1
 msgid "Great! I'll do anything really, sure. But my father, I can't leave the guy with nothin' even a drunk as he is. Can you pass some cats his way, say 3000, just to keep him afloat, I'd appreciate it."
-msgstr ""
+msgstr "大！我肯定會做任何事情。但是我的父親，我不能離開那個甚至沒有像他一樣醉酒的傢伙。你可以按照自己的方式傳遞一些貓，比如3000，為了讓他漂浮，我會很感激。"
 
 #. Id: 5660-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -804,7 +804,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 5660-Recruits?Dialogue.mod:0
 msgid "Take it. It's time to go."
-msgstr ""
+msgstr "接受。該走了。"
 
 #. Id: 5661-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -813,7 +813,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5661-Recruits?Dialogue.mod:0
 msgid "On second thought, no, I don't think this fate is meant to be."
-msgstr ""
+msgstr "第二個想法，不，我不認為這種命運是有意義的。"
 
 #. Id: 5662-Recruits Dialogue.mod
 #. -- Index: 7.0
@@ -841,7 +841,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
 #: 5662-Recruits?Dialogue.mod:0 52672-Dialogue.mod:0 50553-Dialogue.mod:0 50530-Dialogue.mod:0
 msgid "I can't afford that right now."
-msgstr ""
+msgstr "我現在買不起。"
 
 #. Id: 5776-Recruits Dialogue.mod
 #. -- Index: 5.0
@@ -850,7 +850,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5776-Recruits?Dialogue.mod:0
 msgid "I don't deal with foolish dreamers."
-msgstr ""
+msgstr "我不和愚蠢的夢想家打交道。"
 
 #. Id: 5663-Recruits Dialogue.mod
 #. -- Index: 3.0
@@ -859,7 +859,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5663-Recruits?Dialogue.mod:0
 msgid "Yeah, ok."
-msgstr ""
+msgstr "是的，好的。"
 
 #. Id: 5653-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -868,7 +868,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5653-Recruits?Dialogue.mod:0
 msgid "No, not yet at least."
-msgstr ""
+msgstr "不，至少還沒有。"
 
 #. Id: 5664-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -877,7 +877,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 5664-Recruits?Dialogue.mod:0
 msgid "No, I'm outta here."
-msgstr ""
+msgstr "不，我不在這裡。"
 
 #. Id: 18216-Recruits Dialogue.mod
 #. -- Index: 0.1
@@ -888,7 +888,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
 #: 18216-Recruits?Dialogue.mod:1
 msgid "You came back?"
-msgstr ""
+msgstr "你回來了？"
 
 #. Id: 18216-Recruits Dialogue.mod
 #. -- Index: 0.3
@@ -923,7 +923,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
 #: 18216-Recruits?Dialogue.mod:3 20228-Dialogue.mod:4 98503-__March?18.mod:0 18163-Recruits?Dialogue.mod:4
 msgid "You again?"
-msgstr ""
+msgstr "又是你？"
 
 #. Id: 18216-Recruits Dialogue.mod
 #. -- Index: 0.4
@@ -952,7 +952,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<36, Tag: -1
 #: 18216-Recruits?Dialogue.mod:8 16721-Dialogue.mod:2
 msgid "So, did you change your mind?"
-msgstr ""
+msgstr "那麼，你改變了主意嗎？"
 
 #. Id: 18216-Recruits Dialogue.mod
 #. -- Index: 0.9
@@ -970,7 +970,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>24, Tag: -1
 #: 18216-Recruits?Dialogue.mod:9 9526-Dialogue.mod:0
 msgid "Back again so soon?"
-msgstr ""
+msgstr "又這麼快回來了？"
 
 #. Id: 18217-Recruits Dialogue.mod
 #. -- Index: 1.1
@@ -979,7 +979,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18217-Recruits?Dialogue.mod:1
 msgid "Had a change of plan. You're hired."
-msgstr ""
+msgstr "改變了計劃。你被錄取了。"
 
 #. Id: 18218-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -988,7 +988,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18218-Recruits?Dialogue.mod:0
 msgid "It's nothing, sorry to bother you"
-msgstr ""
+msgstr "沒什麼，抱歉打擾你"
 
 #. Id: 18218-Recruits Dialogue.mod
 #. -- Index: 1.1
@@ -1012,7 +1012,7 @@ msgstr ""
 #. -- Group title: Wandering slave trader
 #: 18218-Recruits?Dialogue.mod:1 20234-Dialogue.mod:0 19244-Dialogue.mod:0 54531-Dialogue.mod:0
 msgid "Nothing, nevermind"
-msgstr ""
+msgstr "沒什麼，沒關係"
 
 #. Id: 18218-Recruits Dialogue.mod
 #. -- Index: 1.2
@@ -1021,7 +1021,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18218-Recruits?Dialogue.mod:2
 msgid "Nevermind, I'm leaving..."
-msgstr ""
+msgstr "沒關係，我要走了......"
 
 #. Id: 18218-Recruits Dialogue.mod
 #. -- Index: 1.3
@@ -1030,7 +1030,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 18218-Recruits?Dialogue.mod:3
 msgid "Sorry, nevermind..."
-msgstr ""
+msgstr "對不起，沒關係......"
 
 #. Id: 47747-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -1040,7 +1040,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 47747-Recruits?Dialogue.mod:0
 msgid "You're here looking for recruits, yes? I'm available for hire if so. My fee is 3000 Cats."
-msgstr ""
+msgstr "你在這裡尋找新兵，是嗎？如果可以的話，我可以租用。我的費用是3000貓。"
 
 #. Id: 47747-Recruits Dialogue.mod
 #. -- Index: 0.1
@@ -1050,7 +1050,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 47747-Recruits?Dialogue.mod:1
 msgid "You must be here looking for recruits, correct? My sword is for hire if so, I charge 3000 Cats."
-msgstr ""
+msgstr "你必須在這裡尋找新兵，對嗎？如果是的話，我的劍是出租，我收取3000貓。"
 
 #. Id: 47747-Recruits Dialogue.mod
 #. -- Index: 0.2
@@ -1060,7 +1060,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 47747-Recruits?Dialogue.mod:2
 msgid "You're here to find new recruits, correct? I'm available for 3000 Cats if you need."
-msgstr ""
+msgstr "你在這裡尋找新兵，對嗎？如果你需要，我可以買3000貓。"
 
 #. Id: 47747-Recruits Dialogue.mod
 #. -- Index: 0.3
@@ -1110,7 +1110,7 @@ msgstr ""
 #. -- Condition: My Race(s): Skeleton
 #: 47747-Recruits?Dialogue.mod:7
 msgid "Are you hiring? I'm available for work if so, I charge 3000 Cats."
-msgstr ""
+msgstr "你們招人嗎？如果可以，我可以上班，我會收取3000貓。"
 
 #. Id: 47772-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -1121,7 +1121,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander
 #: 47772-Recruits?Dialogue.mod:0
 msgid "Stop talking so much, they say. I can't hear myself think, they say. So I like to talk, who cares. You hiring, buddy? I'm looking for work, ain't interested in hanging around this dull bar with these grumps..."
-msgstr ""
+msgstr "他們說，停止說話這麼多。他們說，我聽不到自己的想法。所以我喜歡說話，誰在乎。你招聘，伙計？我正在尋找工作，對這些沉悶的酒吧閒逛不感興趣......"
 
 #. Id: 47776-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -1135,7 +1135,7 @@ msgstr ""
 #. -- Group title: Hire me 700 Holy Nation Female
 #: 47776-Recruits?Dialogue.mod:0 19245-Dialogue.mod:0
 msgid "Sure, how much are you charging?"
-msgstr ""
+msgstr "當然，你收費多少錢？"
 
 #. Id: 47778-Recruits Dialogue.mod
 #. -- Index: 2.0
@@ -1144,7 +1144,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 47778-Recruits?Dialogue.mod:0
 msgid "I charge 3000 Cats. Bargain. And I make good company too, now that's a bonus for you."
-msgstr ""
+msgstr "我給3000隻貓充電。討價還價。我也是一個好公司，現在這對你來說是一個獎勵。"
 
 #. Id: 47778-Recruits Dialogue.mod
 #. -- Index: 2.1
@@ -1153,7 +1153,7 @@ msgstr ""
 #. -- Group title: hire me 700
 #: 47778-Recruits?Dialogue.mod:1
 msgid "3000 Cats upfront. Plus you better feed me well... I get hunger rage."
-msgstr ""
+msgstr "3000隻貓預先。另外你最好餵我...我感到飢餓。"
 
 #. Id: 47777-Recruits Dialogue.mod
 #. -- Index: 1.0
@@ -1167,7 +1167,7 @@ msgstr ""
 #. -- Group title: Hire Cook
 #: 47777-Recruits?Dialogue.mod:0 52669-Dialogue.mod:2
 msgid "I'm not hiring, sorry."
-msgstr ""
+msgstr "我不是在招人，抱歉。"
 
 #. Id: 47774-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -1211,7 +1211,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander
 #: 47774-Recruits?Dialogue.mod:3
 msgid "Oh? Who are you, an adventurer? You recruiting by any chance? I charge 3000 Cats, plus daily grub of course."
-msgstr ""
+msgstr "哦？你是誰，冒險家？你有機會招聘嗎？我收取3000隻貓，當然還有每日gr .."
 
 #. Id: 47775-Recruits Dialogue.mod
 #. -- Index: 0.0
@@ -1233,7 +1233,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 47779-Recruits?Dialogue.mod:0
 msgid "Ronin for hire, fresh from the hive... Looking for a new master for 2000 Cats."
-msgstr ""
+msgstr "Ronin出租，來自蜂巢...尋找2000 Cats的新主人。"
 
 #. Id: 47779-Recruits Dialogue.mod
 #. -- Index: 0.1
@@ -1244,7 +1244,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 47779-Recruits?Dialogue.mod:1
 msgid "Free hiver for hire. Will work for food and a 2000 Cat one-time fee."
-msgstr ""
+msgstr "免費租用hiver。將為食物和2000 Cat一次性費用。"
 
 #. Id: 47779-Recruits Dialogue.mod
 #. -- Index: 0.2
@@ -1255,7 +1255,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 47779-Recruits?Dialogue.mod:2
 msgid "Hiveless for hire. I'll work for meals and a 2000 Cat down payment."
-msgstr ""
+msgstr "Hiveless出租。我會為飯菜和2000 Cat預付款工作。"
 
 #. Id: 47779-Recruits Dialogue.mod
 #. -- Index: 0.3
@@ -1266,7 +1266,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 47779-Recruits?Dialogue.mod:3
 msgid "Hungry hiveless looking for a new master. My fee is only 2000 Cats."
-msgstr ""
+msgstr "飢腸轆轆地尋找新的主人。我的費用只有2000貓。"
 
 #. Id: 47779-Recruits Dialogue.mod
 #. -- Index: 0.4
@@ -1277,7 +1277,7 @@ msgstr ""
 #. -- Condition: My Race(s): Hive Prince
 #: 47779-Recruits?Dialogue.mod:4
 msgid "Hiveless without a master. I'll work for 2000 Cats plus food."
-msgstr ""
+msgstr "沒有主人的Hiveless。我會為2000貓和食物工作。"
 
 #. Id: 52537-Dialogue.mod
 #. -- Index: 1.0
@@ -1287,5 +1287,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
 #: 52537-Dialogue.mod:0
 msgid "Damn, can't afford that"
-msgstr ""
-
+msgstr "該死的，買不起"

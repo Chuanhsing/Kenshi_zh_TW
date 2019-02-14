@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 95568-Mourn.mod:0
 msgid "Old mining town. Weren't so great with their slave control, turns out. But it makes a good shelter for travellers, so long as the wildlife keeps at bay..."
-msgstr ""
+msgstr "老採礦鎮。事實證明，他們的奴隸控制並不是那麼好。但只要野生動物不停在海灣，這對旅行者來說就是一個很好的庇護所......"
 
 #. Id: 95569-Mourn.mod
 #. -- Index: 3.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 95569-Mourn.mod:0
 msgid "... Speaking of which, stay outta the HQ. And leave the gates locked... Call it a pest control measure that no one wants to deal with, eh."
-msgstr ""
+msgstr "......說到這一點，遠離總部。並且讓大門鎖定......稱之為無人控制的害蟲控制措施，呃。"
 
 #. Id: 95572-Mourn.mod
 #. -- Index: 4.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 95572-Mourn.mod:0
 msgid "Pest control? Maybe I can help..."
-msgstr ""
+msgstr "除害蟲？也許我可以幫忙......"
 
 #. Id: 95575-Mourn.mod
 #. -- Index: 5.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 95575-Mourn.mod:0
 msgid "With all due respect, no, don't touch those gates. I don't care if you think you're the next Tinfist, we lost two men trapping that thing in there. Only takes one wannabe hero to let it back out again..."
-msgstr ""
+msgstr "儘管如此，不要，不要碰那些門。我不在乎你是否覺得自己是下一個Tinfist，我們失去了兩個男人在那裡誘捕那個東西。只需要一個想成為英雄的英雄讓它再次退出......"
 
 #. Id: 95574-Mourn.mod
 #. -- Index: 4.0
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Group title: Flotsam Talk To
 #: 95574-Mourn.mod:0 49767-Dialogue.mod:0 1533186-__world?reactions?NE.mod:0 95592-__Mourn.mod:0 1533015-Dialogue.mod:0 49749-Dialogue.mod:0 50988-Dialogue.mod:0
 msgid "Thanks for the info."
-msgstr ""
+msgstr "謝謝（你的）信息。"
 
 #. Id: 95565-Mourn.mod
 #. -- Index: 0.3
@@ -106,7 +106,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95565-Mourn.mod:3 95588-__Mourn.mod:3 12613-gamedata.base:3
 msgid "I never forget a thief. Go shop somewhere else!"
-msgstr ""
+msgstr "我永遠不會忘記一個小偷。去其他地方購物！"
 
 #. Id: 95565-Mourn.mod
 #. -- Index: 0.4
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95565-Mourn.mod:4 95588-__Mourn.mod:4 12613-gamedata.base:4
 msgid "Go trade somewhere else, thief!"
-msgstr ""
+msgstr "在其他地方去交易，小偷！"
 
 #. Id: 95565-Mourn.mod
 #. -- Index: 0.5
@@ -150,7 +150,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 95565-Mourn.mod:5 95588-__Mourn.mod:5 12613-gamedata.base:5
 msgid "Thieve's ain't welcome!"
-msgstr ""
+msgstr "不歡迎Thieve！"
 
 #. Id: 1534123-__Fixes.mod
 #. -- Index: 0.0
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 1534124-__Fixes.mod:0
 msgid "Have a drink on me, eh?... Now, how about a round of applause for the Great White Killer?"
-msgstr ""
+msgstr "給我喝一杯，嗯？......現在，大白殺手的掌聲怎麼樣？"
 
 #. Id: 1534125-__Fixes.mod
 #. -- Index: 2.0
@@ -177,5 +177,4 @@ msgstr ""
 #. -- Group title: trader mourn
 #: 1534125-__Fixes.mod:0
 msgid "Cheers."
-msgstr ""
-
+msgstr "乾杯。"

@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=1, Tag: -1
 #: 15916-Dialogue.mod:0 15904-Dialogue.mod:2 40833-Dialogue.mod:2 58742-Dialogue.mod:0 8521-Dialogue.mod:4 53009-Dialogue.mod:0 44505-Dialogue.mod:2
 msgid "...?"
-msgstr ""
+msgstr "...？"
 
 #. Id: 15916-Dialogue.mod
 #. -- Index: 0.1
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: noble released by captor
 #: 15916-Dialogue.mod:1 46081-Dialogue.mod:2 58534-Dialogue.mod:0 45936-Dialogue.mod:0 46076-Dialogue.mod:4 45918-Dialogue.mod:3 60989-Dialogue.mod:0 60991-Dialogue.mod:0 45843-Dialogue.mod:1
 msgid "...!"
-msgstr ""
+msgstr "...！"
 
 #. Id: 15917-Dialogue.mod
 #. -- Index: 1.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Group title: Traitor spots bounty
 #: 15918-Dialogue.mod:1
 msgid "Over here, guards!"
-msgstr ""
+msgstr "在這裡，守衛！"
 
 #. Id: 15918-Dialogue.mod
 #. -- Index: 2.2
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Group title: Traitor spots bounty
 #: 15918-Dialogue.mod:2
 msgid "Guards, this way!"
-msgstr ""
+msgstr "衛兵，這樣！"
 
 #. Id: 15920-Dialogue.mod
 #. -- Index: 4.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 15920-Dialogue.mod:0
 msgid "So... can I have a piece of the reward?"
-msgstr ""
+msgstr "所以...我可以得到一塊獎勵嗎？"
 
 #. Id: 15920-Dialogue.mod
 #. -- Index: 4.1
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 15920-Dialogue.mod:1
 msgid "I did good right? Do I get a reward?"
-msgstr ""
+msgstr "我做得對嗎？我得到獎勵嗎？"
 
 #. Id: 15920-Dialogue.mod
 #. -- Index: 4.2
@@ -185,5 +185,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 15920-Dialogue.mod:2
 msgid "... Do I get some of the bounty?"
-msgstr ""
-
+msgstr "......我得到一些賞金嗎？"

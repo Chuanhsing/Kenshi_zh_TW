@@ -33,7 +33,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=0, Tag: -1
 #: 12067-Dialogue?(10).mod:3
 msgid "Natural selection at its finest"
-msgstr ""
+msgstr "最好的自然選擇"
 
 #. Id: 14714-Dialogue.mod
 #. -- Index: 0.1
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Group title: defeats squad
 #: 14714-Dialogue.mod:1 17567-Dialogue.mod:1
 msgid "Honor to Kral!"
-msgstr ""
+msgstr "對Kral的榮譽！"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:0
 msgid "You fought with honor..."
-msgstr ""
+msgstr "你以榮譽戰鬥......"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.1
@@ -68,7 +68,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:1
 msgid "Die with honor..."
-msgstr ""
+msgstr "榮幸地死去......"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.2
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:2
 msgid "Fight to the end, always..."
-msgstr ""
+msgstr "戰鬥到最後，總是......"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.3
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:3
 msgid "A glorious death..."
-msgstr ""
+msgstr "光榮的死亡......"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.4
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:4
 msgid "An honorable death..."
-msgstr ""
+msgstr "光榮的死亡......"
 
 #. Id: 17563-Dialogue.mod
 #. -- Index: 0.5
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 17563-Dialogue.mod:5
 msgid "It was an admirable effort..."
-msgstr ""
+msgstr "這是一項令人欽佩的努力......"
 
 #. Id: 17570-Dialogue.mod
 #. -- Index: 0.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
 #: 17570-Dialogue.mod:0
 msgid "They all fall down..."
-msgstr ""
+msgstr "他們都倒下了......"
 
 #. Id: 17570-Dialogue.mod
 #. -- Index: 0.1
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
 #: 17570-Dialogue.mod:1
 msgid "And down they fall..."
-msgstr ""
+msgstr "他們倒下了......"
 
 #. Id: 17570-Dialogue.mod
 #. -- Index: 0.2
@@ -152,7 +152,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>2, Tag: -1
 #: 17570-Dialogue.mod:3
 msgid "The stench of death..."
-msgstr ""
+msgstr "死亡的惡臭......"
 
 #. Id: 17578-Dialogue.mod
 #. -- Index: 0.1
@@ -162,7 +162,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17578-Dialogue.mod:1
 msgid "Don't mess with a Shek."
-msgstr ""
+msgstr "不要亂用石。"
 
 #. Id: 17578-Dialogue.mod
 #. -- Index: 0.2
@@ -172,7 +172,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17578-Dialogue.mod:2
 msgid "Weakling."
-msgstr ""
+msgstr "弱者。"
 
 #. Id: 17578-Dialogue.mod
 #. -- Index: 0.3
@@ -182,7 +182,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17578-Dialogue.mod:3
 msgid "Never cross a Shek."
-msgstr ""
+msgstr "永遠不要穿過石。"
 
 #. Id: 17578-Dialogue.mod
 #. -- Index: 0.4
@@ -192,7 +192,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17578-Dialogue.mod:4
 msgid "Stay down in the dirt."
-msgstr ""
+msgstr "留在泥土裡。"
 
 #. Id: 17578-Dialogue.mod
 #. -- Index: 0.5
@@ -202,5 +202,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17578-Dialogue.mod:5
 msgid "Let the blood flow."
-msgstr ""
-
+msgstr "讓血液流動。"

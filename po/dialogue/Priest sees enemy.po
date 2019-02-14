@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 41572-Dialogue.mod:3 41098-Dialogue.mod:1 41111-Dialogue.mod:1 15544-Dialogue.mod:7
 msgid "Unholy ones!"
-msgstr ""
+msgstr "不聖潔的人！"
 
 #. Id: 41572-Dialogue.mod
 #. -- Index: 0.4
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 41572-Dialogue.mod:4 41574-Dialogue.mod:4 15524-Dialogue.mod:2 15544-Dialogue.mod:9
 msgid "The darkened!"
-msgstr ""
+msgstr "黑暗！"
 
 #. Id: 41576-Dialogue.mod
 #. -- Index: 1.0
@@ -197,7 +197,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 41574-Dialogue.mod:3 41096-Dialogue.mod:1 41064-Dialogue.mod:0 15524-Dialogue.mod:0
 msgid "Unholy one!"
-msgstr ""
+msgstr "邪惡的一個！"
 
 #. Id: 41578-Dialogue.mod
 #. -- Index: 0.0
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 41578-Dialogue.mod:0
 msgid "Again?!"
-msgstr ""
+msgstr "再次？！"
 
 #. Id: 41578-Dialogue.mod
 #. -- Index: 0.1
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 41578-Dialogue.mod:1 65096-__october?17.mod:1
 msgid "You again?!"
-msgstr ""
+msgstr "又是你？！"
 
 #. Id: 41578-Dialogue.mod
 #. -- Index: 0.2
@@ -233,5 +233,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<10, Tag: -1
 #: 41578-Dialogue.mod:2
 msgid "Not you again!"
-msgstr ""
-
+msgstr "不是你了！"

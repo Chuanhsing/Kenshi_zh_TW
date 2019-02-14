@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:0
 msgid "Damn. Ran out of meds."
-msgstr ""
+msgstr "該死的。跑出藥物。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:1
 msgid "That was my last kit."
-msgstr ""
+msgstr "那是我的最後一個工具包。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:2
 msgid "Don't have any more medkits."
-msgstr ""
+msgstr "沒有更多的medkits。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:3
 msgid "I'll restock some medicine."
-msgstr ""
+msgstr "我會補充一些藥。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.4
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:4
 msgid "That was it. I'm out."
-msgstr ""
+msgstr "就是這樣。我出去了。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.5
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:5
 msgid "Low on supplies."
-msgstr ""
+msgstr "供應不足。"
 
 #. Id: 3603-dialogue-01.mod
 #. -- Index: 0.6
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: runs out of medkits while healing
 #: 3603-dialogue-01.mod:6
 msgid "No more meds left."
-msgstr ""
+msgstr "沒有更多的藥物了。"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.0
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:0
 msgid "Those are all the kits I have. Sorry."
-msgstr ""
+msgstr "這些都是我的所有套件。抱歉。"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.1
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:1
 msgid "Wish I could fix you up more, but..."
-msgstr ""
+msgstr "希望我能更好地解決你，但......"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.2
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:2
 msgid "I'm out of meds. You going to be okay?"
-msgstr ""
+msgstr "我沒有藥物了。你還好嗎？"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.3
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:3
 msgid "Hang in there. Maybe if I look around for another kit..."
-msgstr ""
+msgstr "在那裡掛。也許如果我四處尋找其他套件......"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.4
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:4
 msgid "Forgive me. I've run out of medicine."
-msgstr ""
+msgstr "原諒我。我已經沒藥了。"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.5
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:5
 msgid "I'd do more, if I could."
-msgstr ""
+msgstr "如果可以的話，我會做得更多。"
 
 #. Id: 3604-dialogue-01.mod
 #. -- Index: 0.6
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3604-dialogue-01.mod:6
 msgid "Sorry. That's all I can mend."
-msgstr ""
+msgstr "抱歉。這就是我能修復的全部內容。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.0
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:0
 msgid "Just so you know, that used up my last kit."
-msgstr ""
+msgstr "只是你知道，這耗盡了我的最後一個工具包。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.1
@@ -171,7 +171,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:1
 msgid "Out of medkits. You owe me."
-msgstr ""
+msgstr "出於medkits。你欠我。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.2
@@ -182,7 +182,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:2
 msgid "Half-done, but it's something."
-msgstr ""
+msgstr "完成了一半，但這是件事。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.3
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:3
 msgid "Did what I could, so shut up."
-msgstr ""
+msgstr "盡我所能，所以閉嘴。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.4
@@ -204,7 +204,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:4
 msgid "Whatever. Not like you're paying anyhow."
-msgstr ""
+msgstr "隨你。不管你是不是在付錢。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.5
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:5
 msgid "Get what you pay for."
-msgstr ""
+msgstr "得到你付出的代價。"
 
 #. Id: 3607-dialogue-01.mod
 #. -- Index: 0.6
@@ -226,5 +226,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3607-dialogue-01.mod:6
 msgid "Now I have to get more medicine."
-msgstr ""
-
+msgstr "現在我必須得到更多的藥。"

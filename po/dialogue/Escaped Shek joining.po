@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:0
 msgid "Freedom at last"
-msgstr ""
+msgstr "終於自由了"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:1
 msgid "Glorious freedom"
-msgstr ""
+msgstr "光榮的自由"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:2
 msgid "Magnificent freedom"
-msgstr ""
+msgstr "華麗的自由"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:3
 msgid "Free at last"
-msgstr ""
+msgstr "終於自由了"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.4
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:4
 msgid "Freedom"
-msgstr ""
+msgstr "自由"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.5
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:5
 msgid "We lost them"
-msgstr ""
+msgstr "我們失去了它們"
 
 #. Id: 17667-Dialogue.mod
 #. -- Index: 0.6
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17667-Dialogue.mod:6
 msgid "We are unfollowed"
-msgstr ""
+msgstr "我們被取消了"
 
 #. Id: 17669-Dialogue.mod
 #. -- Index: 1.0
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 17669-Dialogue.mod:0
 msgid "Let us keep moving, kin. We will return for their heads soon."
-msgstr ""
+msgstr "讓我們繼續前進，親屬。我們很快就會回來。"
 
 #. Id: 17669-Dialogue.mod
 #. -- Index: 1.1
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 17669-Dialogue.mod:1
 msgid "Let us press on, kin. Soon we will avenge our lost honour, I will tear their heads from their necks."
-msgstr ""
+msgstr "讓我們繼續，親。很快我們將為失去的榮譽報仇，我會從脖子上撕下他們的頭。"
 
 #. Id: 17669-Dialogue.mod
 #. -- Index: 1.2
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 17669-Dialogue.mod:2
 msgid "Let us move on, kin. We will return for their skins soon."
-msgstr ""
+msgstr "讓我們繼續前進，親屬。我們很快就會回歸他們的皮膚。"
 
 #. Id: 17677-Dialogue.mod
 #. -- Index: 1.0
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17677-Dialogue.mod:0
 msgid "Let us keep moving. I will not be put in a coop again."
-msgstr ""
+msgstr "讓我們繼續前進吧。我不會再被放在一個雞舍裡。"
 
 #. Id: 17677-Dialogue.mod
 #. -- Index: 1.1
@@ -122,7 +122,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17677-Dialogue.mod:1
 msgid "Let us press on. I will not be locked in a coop again."
-msgstr ""
+msgstr "讓我們繼續吧。我不會再被鎖在一個雞舍裡。"
 
 #. Id: 17668-Dialogue.mod
 #. -- Index: 1.0
@@ -163,7 +163,7 @@ msgstr ""
 #. -- Group title: Shek attack
 #: 17679-Dialogue.mod:2 15518-Dialogue.mod:1
 msgid "Hrm..."
-msgstr ""
+msgstr "人力資源管理..."
 
 #. Id: 17679-Dialogue.mod
 #. -- Index: 0.4
@@ -172,7 +172,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17679-Dialogue.mod:4
 msgid "Wait... you hear that?"
-msgstr ""
+msgstr "等等......你聽到了嗎？"
 
 #. Id: 17679-Dialogue.mod
 #. -- Index: 0.5
@@ -181,7 +181,7 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17679-Dialogue.mod:5
 msgid "We lost them..."
-msgstr ""
+msgstr "我們失去了他們......"
 
 #. Id: 17679-Dialogue.mod
 #. -- Index: 0.6
@@ -190,5 +190,4 @@ msgstr ""
 #. -- Group title: Escaped Shek joining
 #: 17679-Dialogue.mod:6
 msgid "They do not follow us anymore..."
-msgstr ""
-
+msgstr "他們不再關注我們了......"

@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8325-Dialogue.mod:1
 msgid "Yeah? What do you want?"
-msgstr ""
+msgstr "是嗎？你想要什麼？"
 
 #. Id: 8311-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8311-Dialogue.mod:0
 msgid "You pickpocketed my money!"
-msgstr ""
+msgstr "你扒了我的錢！"
 
 #. Id: 8312-Dialogue.mod
 #. -- Index: 2.1
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8312-Dialogue.mod:1
 msgid "You're talking crazy, stay the hell away from me and keep your voice down, will ya? You'll rile up the guards..."
-msgstr ""
+msgstr "你說話很瘋狂，遠離我，保持低調，是嗎？你會把警衛弄得一團糟......"
 
 #. Id: 8320-Dialogue.mod
 #. -- Index: 3.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8320-Dialogue.mod:0
 msgid "I'll TELL the guards if you don't give it back!"
-msgstr ""
+msgstr "如果你不回复，我會告訴警衛！"
 
 #. Id: 8321-Dialogue.mod
 #. -- Index: 4.0
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10872-Dialogue?(10).mod:0
 msgid "Fine. We'll do this the hard way (Attack)"
-msgstr ""
+msgstr "精細。我們將以艱難的方式做到這一點（攻擊）"
 
 #. Id: 10873-Dialogue (10).mod
 #. -- Index: 6.4
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10873-Dialogue?(10).mod:4
 msgid "Damn"
-msgstr ""
+msgstr "該死的"
 
 #. Id: 10873-Dialogue (10).mod
 #. -- Index: 6.5
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10873-Dialogue?(10).mod:5
 msgid "Whoa, shit"
-msgstr ""
+msgstr "哇，屎"
 
 #. Id: 10873-Dialogue (10).mod
 #. -- Index: 6.6
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 10873-Dialogue?(10).mod:6 46640-Dialogue.mod:0
 msgid "Wait, stop!"
-msgstr ""
+msgstr "等等，停下來！"
 
 #. Id: 58347-Dialogue.mod
 #. -- Index: 5.0
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 58347-Dialogue.mod:0
 msgid "[Scowl at her]"
-msgstr ""
+msgstr "[對她皺眉]"
 
 #. Id: 58348-Dialogue.mod
 #. -- Index: 6.0
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
 #: 58348-Dialogue.mod:0
 msgid "Eh! You won't miss 150 Cats anyway, will ya, fatsacks?"
-msgstr ""
+msgstr "誒！不管怎麼說，你不會錯過150隻貓，會不會是fatsacks？"
 
 #. Id: 58352-Dialogue.mod
 #. -- Index: 7.0
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 58352-Dialogue.mod:0
 msgid "Thanking you kindly for the donation!"
-msgstr ""
+msgstr "感謝您的捐贈！"
 
 #. Id: 8327-Dialogue.mod
 #. -- Index: 3.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8327-Dialogue.mod:0
 msgid "If you don't give that back, I'll kill you. I'll follow you and I'll kill you"
-msgstr ""
+msgstr "如果你不回复，我會殺了你。我會跟著你，我會殺了你"
 
 #. Id: 9406-Dialogue.mod
 #. -- Index: 4.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
 #: 9406-Dialogue.mod:0
 msgid "Oooooh! I'm so scared! This chump change will barely get me a loaf of bread anyway..."
-msgstr ""
+msgstr "哇，！我很害怕！無論如何，這個笨蛋改變幾乎不會給我一塊麵包......"
 
 #. Id: 9406-Dialogue.mod
 #. -- Index: 4.1
@@ -156,7 +156,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: WEAKER_THAN_ME=1, Tag: -1
 #: 9406-Dialogue.mod:1
 msgid "Oh noooo! I'm so frightened! This chump change will barely get me a loaf of bread anyway..."
-msgstr ""
+msgstr "哦，不！我嚇壞了！無論如何，這個笨蛋改變幾乎不會給我一塊麵包......"
 
 #. Id: 9407-Dialogue.mod
 #. -- Index: 5.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9407-Dialogue.mod:0
 msgid "But I ain't gonna be losing sleep at night over you, pal."
-msgstr ""
+msgstr "但是，伙計，我不會在晚上失去你的睡眠。"
 
 #. Id: 48334-Dialogue.mod
 #. -- Index: 4.0
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 48334-Dialogue.mod:0
 msgid "Okay, okay, take it easy..."
-msgstr ""
+msgstr "好的，好的，放輕鬆......"
 
 #. Id: 48335-Dialogue.mod
 #. -- Index: 5.0
@@ -183,7 +183,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 48335-Dialogue.mod:0
 msgid "This chump change will barely get me a loaf of bread anyway..."
-msgstr ""
+msgstr "無論如何，這個笨蛋改變幾乎不會給我一塊麵包......"
 
 #. Id: 8328-Dialogue.mod
 #. -- Index: 3.1
@@ -192,7 +192,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8328-Dialogue.mod:1
 msgid "Do I LOOK rich to you? I don't need this."
-msgstr ""
+msgstr "我能向你致富嗎？我不需要這個。"
 
 #. Id: 8328-Dialogue.mod
 #. -- Index: 3.2
@@ -201,7 +201,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8328-Dialogue.mod:2
 msgid "Do I LOOK rich to you? Come on..."
-msgstr ""
+msgstr "我能向你致富嗎？來吧..."
 
 #. Id: 8329-Dialogue.mod
 #. -- Index: 4.0
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>100000, Tag: -1
 #: 8329-Dialogue.mod:0
 msgid "Yep, you sure do!"
-msgstr ""
+msgstr "是的，你確實做到了！"
 
 #. Id: 8329-Dialogue.mod
 #. -- Index: 4.1
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9798-Dialogue.mod:0
 msgid "...You're an ass"
-msgstr ""
+msgstr "......你是個笨蛋"
 
 #. Id: 9799-Dialogue.mod
 #. -- Index: 6.0
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8339-Dialogue.mod:0
 msgid "Don't try your sob stories with me. Times are tough. I got the guards on my back and I'm damn hungry. You can't be that hard up if you've made it here from out of town. I can't even afford to get out of this dump"
-msgstr ""
+msgstr "不要和我一起試試你的啜泣故事。時間很艱難。我背上了守衛，我很餓。如果你從外面來到這裡，你就不會那麼難過。我甚至無法擺脫這個轉儲"
 
 #. Id: 8340-Dialogue.mod
 #. -- Index: 7.0
@@ -286,7 +286,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8343-Dialogue.mod:0
 msgid "... I do REALLY need to get out of this city... "
-msgstr ""
+msgstr "......我真的需要走出這座城市......"
 
 #. Id: 58343-Dialogue.mod
 #. -- Index: 9.0
@@ -304,7 +304,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9797-Dialogue.mod:0
 msgid "But first, give me back my money..."
-msgstr ""
+msgstr "但首先，把我的錢還給我......"
 
 #. Id: 9806-Dialogue.mod
 #. -- Index: 11.0
@@ -313,7 +313,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9806-Dialogue.mod:0
 msgid "This is exciting"
-msgstr ""
+msgstr "這真讓人興奮"
 
 #. Id: 8341-Dialogue.mod
 #. -- Index: 7.0
@@ -322,7 +322,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8341-Dialogue.mod:0
 msgid "I didn't ask for you life story. I just want my money back..."
-msgstr ""
+msgstr "我沒有問過你的生活故事。我只想要退錢..."
 
 #. Id: 8342-Dialogue.mod
 #. -- Index: 8.0
@@ -331,7 +331,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8342-Dialogue.mod:0
 msgid "Okay, just quit whining at me already..."
-msgstr ""
+msgstr "好吧，剛剛放棄對我的抱怨......"
 
 #. Id: 48337-Dialogue.mod
 #. -- Index: 7.0
@@ -340,7 +340,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 48337-Dialogue.mod:0
 msgid "I'm just trying to survive like you are."
-msgstr ""
+msgstr "我只是想像你一樣生存。"
 
 #. Id: 48338-Dialogue.mod
 #. -- Index: 8.0
@@ -349,7 +349,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 48338-Dialogue.mod:0
 msgid "... Fine. Stealing from the poor gives me chest pains anyway."
-msgstr ""
+msgstr "好的無論如何，從窮人身上偷東西會給我帶來胸痛。"
 
 #. Id: 9800-Dialogue.mod
 #. -- Index: 5.0
@@ -358,7 +358,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9800-Dialogue.mod:0
 msgid "I'm begging you, please..."
-msgstr ""
+msgstr "我求求你，拜託..."
 
 #. Id: 9801-Dialogue.mod
 #. -- Index: 6.0
@@ -367,7 +367,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9801-Dialogue.mod:0
 msgid "Ugh fine! Take your money back! Just quit cryin' about it and go find where you left your damn dignity."
-msgstr ""
+msgstr "好的！拿回你的錢！只是放棄哭泣，找到你離開你該死的尊嚴的地方。"
 
 #. Id: 48323-Dialogue.mod
 #. -- Index: 7.0
@@ -376,7 +376,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 48323-Dialogue.mod:0
 msgid "I'll find my supper elsewhere..."
-msgstr ""
+msgstr "我會在其他地方找到我的晚餐......"
 
 #. Id: 9803-Dialogue.mod
 #. -- Index: 5.0
@@ -385,7 +385,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9803-Dialogue.mod:0
 msgid "We're all hungry. It's no excuse to screw people over."
-msgstr ""
+msgstr "我們都餓了。把人們搞砸是沒有藉口的。"
 
 #. Id: 9804-Dialogue.mod
 #. -- Index: 6.0
@@ -394,7 +394,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 9804-Dialogue.mod:0
 msgid "Oh yeah?... You can't be that hard up if you've made it here from out of town. I can't even afford to get out of this dump. Times are tough. I got the guards on my back and I haven't eaten for 4 days. I'm not screwing you over, I'm just trying to survive..."
-msgstr ""
+msgstr "哦，是嗎？...如果你從外面來到這裡，你就不會那麼難過。我甚至無法擺脫這個轉儲。時間很艱難。我背上了守衛，我已經4天沒有吃了。我不是在搞砸你，我只是想活著......"
 
 #. Id: 8326-Dialogue.mod
 #. -- Index: 3.0
@@ -403,7 +403,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 8326-Dialogue.mod:0
 msgid "Whatever, keep it"
-msgstr ""
+msgstr "無論如何，保持它"
 
 #. Id: 10500-Dialogue (7).mod
 #. -- Index: 1.0
@@ -412,7 +412,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10500-Dialogue?(7).mod:0
 msgid "You don't want to mess with me, thief! Return my Cats or die!"
-msgstr ""
+msgstr "你不想惹我，小偷！歸還我的貓或死！"
 
 #. Id: 10871-Dialogue (10).mod
 #. -- Index: 1.0
@@ -421,7 +421,7 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10871-Dialogue?(10).mod:0
 msgid "You have one chance. Give me back the money you stole"
-msgstr ""
+msgstr "你有一次機會。把你偷走的錢還給我"
 
 #. Id: 10881-Dialogue (10).mod
 #. -- Index: 1.0
@@ -430,5 +430,4 @@ msgstr ""
 #. -- Group title: Mugging (recruit)
 #: 10881-Dialogue?(10).mod:0
 msgid "Nothing, forget it"
-msgstr ""
-
+msgstr "什麼都沒有，忘掉它"

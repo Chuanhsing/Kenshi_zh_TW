@@ -21,7 +21,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 5129-gamedata.base:0
 msgid "Sorry, I need a weapon"
-msgstr ""
+msgstr "對不起，我需要武器"
 
 #. Id: 5129-gamedata.base
 #. -- Index: 0.1
@@ -33,7 +33,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 5129-gamedata.base:1
 msgid "Just gonna borrow your weapon."
-msgstr ""
+msgstr "要藉用你的武器。"
 
 #. Id: 5129-gamedata.base
 #. -- Index: 0.2
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 5129-gamedata.base:2
 msgid "Need your sword a moment"
-msgstr ""
+msgstr "需要你的劍一會兒"
 
 #. Id: 5129-gamedata.base
 #. -- Index: 0.3
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 5129-gamedata.base:3
 msgid "I need this"
-msgstr ""
+msgstr "我需要這個"
 
 #. Id: 5133-gamedata.base
 #. -- Index: 0.0
@@ -70,7 +70,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
 #: 5133-gamedata.base:0
 msgid "You won't be needing this anymore"
-msgstr ""
+msgstr "你將不再需要這個了"
 
 #. Id: 5133-gamedata.base
 #. -- Index: 0.1
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: ___
 #: 5133-gamedata.base:2
 msgid "I need this, you don't"
-msgstr ""
+msgstr "我需要這個，你不需要"
 
 #. Id: 5135-gamedata.base
 #. -- Index: 0.0
@@ -106,7 +106,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5135-gamedata.base:0
 msgid "What goes around comes around"
-msgstr ""
+msgstr "善有善報惡有惡報"
 
 #. Id: 5135-gamedata.base
 #. -- Index: 0.1
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5135-gamedata.base:1
 msgid "I'm taking this"
-msgstr ""
+msgstr "我拿這個"
 
 #. Id: 5135-gamedata.base
 #. -- Index: 0.2
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5135-gamedata.base:2
 msgid "MY sword now."
-msgstr ""
+msgstr "我的劍現在。"
 
 #. Id: 5139-gamedata.base
 #. -- Index: 0.0
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
 #: 5139-gamedata.base:0
 msgid "You're dead, but your sword will live on"
-msgstr ""
+msgstr "你已經死了，但你的劍會活下去"
 
 #. Id: 5139-gamedata.base
 #. -- Index: 0.1
@@ -148,7 +148,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
 #: 5139-gamedata.base:1
 msgid "Your sword will live on, rest in peace."
-msgstr ""
+msgstr "你的劍將繼續存在，安息吧。"
 
 #. Id: 5142-gamedata.base
 #. -- Index: 0.0
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5142-gamedata.base:0
 msgid "What's that Mr Sword? You want to be mine now?"
-msgstr ""
+msgstr "劍先生是什麼意思？你現在想成為我的？"
 
 #. Id: 5146-gamedata.base
 #. -- Index: 1.0
@@ -172,7 +172,7 @@ msgstr ""
 #. -- Group title: Loot Sword (Bandit)
 #: 5146-gamedata.base:0 8597-Dialogue.mod:0
 msgid "\"Yes!\""
-msgstr ""
+msgstr "“是！”"
 
 #. Id: 5147-gamedata.base
 #. -- Index: 2.0
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Group title: Loot Sword (Bandit)
 #: 5147-gamedata.base:0 8598-Dialogue.mod:0
 msgid "Well if the sword says so..."
-msgstr ""
+msgstr "如果劍說的那麼......"
 
 #. Id: 5148-gamedata.base
 #. -- Index: 3.0
@@ -229,7 +229,7 @@ msgstr ""
 #. -- Group title: Loot Sword (Bandit)
 #: 5167-gamedata.base:0 8601-Dialogue.mod:0
 msgid "I'm gonna be joining him soon anyway..."
-msgstr ""
+msgstr "不管怎樣我還是要加入他..."
 
 #. Id: 5171-gamedata.base
 #. -- Index: 6.0
@@ -243,7 +243,7 @@ msgstr ""
 #. -- Group title: Loot Sword (Bandit)
 #: 5171-gamedata.base:0 8603-Dialogue.mod:0
 msgid "WOULD YOU JUST SHUT UP AND FIGHT!?!?"
-msgstr ""
+msgstr "你只需要關閉並戰鬥！？！？"
 
 #. Id: 5171-gamedata.base
 #. -- Index: 6.1
@@ -252,7 +252,7 @@ msgstr ""
 #. -- Group title: loot weapon
 #: 5171-gamedata.base:1
 msgid "JUST SHUT UP AND FIGHT YOU IDIOT!!!!"
-msgstr ""
+msgstr "只是關閉並戰勝你的IDIOT !!!!"
 
 #. Id: 5150-gamedata.base
 #. -- Index: 2.0
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 5150-gamedata.base:0 5151-gamedata.base:1
 msgid "Tee hee!"
-msgstr ""
+msgstr "嘻嘻！"
 
 #. Id: 5151-gamedata.base
 #. -- Index: 0.0
@@ -283,5 +283,4 @@ msgstr ""
 #. -- Group title: biome- agnu beep random 1
 #: 5151-gamedata.base:0 1533681-rebirth.mod:0
 msgid "Tee hee hee!"
-msgstr ""
-
+msgstr "Tee嘻嘻！"

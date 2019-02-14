@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55601-Dialogue.mod:0
 msgid "Tell me if this hurts..."
-msgstr ""
+msgstr "告訴我，如果這傷害..."
 
 #. Id: 55602-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55602-Dialogue.mod:0
 msgid "Or don't. Because I don't care."
-msgstr ""
+msgstr "或者不。因為我不在乎。"
 
 #. Id: 55603-Dialogue.mod
 #. -- Index: 0.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 55603-Dialogue.mod:0
 msgid "I hate blood."
-msgstr ""
+msgstr "我恨血"
 
 #. Id: 55669-Dialogue.mod
 #. -- Index: 0.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55669-Dialogue.mod:0
 msgid "Sewing up humans like old potato sacks... "
-msgstr ""
+msgstr "像舊馬鈴薯袋一樣縫製人類......"
 
 #. Id: 55671-Dialogue.mod
 #. -- Index: 1.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55671-Dialogue.mod:0
 msgid "Terribly dull for a being of my intelligence, you know."
-msgstr ""
+msgstr "你知道，因為我的智力非常沉悶。"
 
 #. Id: 55672-Dialogue.mod
 #. -- Index: 0.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55672-Dialogue.mod:0
 msgid "More wounds to plug up then, is it? Terribly designed, you humans..."
-msgstr ""
+msgstr "那麼插上更多的傷口，是嗎？設計非常完美，你是人類......"
 
 #. Id: 55673-Dialogue.mod
 #. -- Index: 1.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55673-Dialogue.mod:0
 msgid "Spring leaks as easily as battered old boats."
-msgstr ""
+msgstr "彈簧像舊船一樣容易洩漏。"
 
 #. Id: 55674-Dialogue.mod
 #. -- Index: 0.0
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55674-Dialogue.mod:0
 msgid "'Stuffing' duty for me again, is it? Oh what a glamorous life I lead..."
-msgstr ""
+msgstr "再次給我“填充”的責任，是嗎？哦，我帶領的是多麼迷人的生活......"
 
 #. Id: 55676-Dialogue.mod
 #. -- Index: 1.0
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55676-Dialogue.mod:0
 msgid "Bite down and keep quiet then, let's stuff those entrails back in..."
-msgstr ""
+msgstr "咬一口，然後保持安靜，讓那些內臟回來......"
 
 #. Id: 55677-Dialogue.mod
 #. -- Index: 0.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
 #: 55677-Dialogue.mod:0
 msgid "Oh that's no good at all, is it? The state you're in, you may as well be inside out..."
-msgstr ""
+msgstr "哦，這根本不好，是嗎？你所在的州，你也可以在裡面......"
 
 #. Id: 55679-Dialogue.mod
 #. -- Index: 1.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55679-Dialogue.mod:0
 msgid "That's not pretty at all, I'll be surprised if you make it through the night, you know."
-msgstr ""
+msgstr "這根本不是很好，如果你徹夜難眠，我會感到驚訝，你知道。"
 
 #. Id: 55680-Dialogue.mod
 #. -- Index: 0.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55680-Dialogue.mod:0
 msgid "Just don't scream. "
-msgstr ""
+msgstr "只是不要尖叫。"
 
 #. Id: 55681-Dialogue.mod
 #. -- Index: 1.1
@@ -128,5 +128,4 @@ msgstr ""
 #. -- Group title: Sadneil healing other
 #: 55681-Dialogue.mod:1
 msgid "I detest screamers."
-msgstr ""
-
+msgstr "我厭惡尖叫者。"

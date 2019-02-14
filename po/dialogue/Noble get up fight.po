@@ -30,7 +30,7 @@ msgstr ""
 #. -- Group title: Merc thief caught stealing from me
 #: 18600-Dialogue.mod:0 17952-gamedata.base:0 12803-Dialogue?(11)?(2).mod:5
 msgid "You'll pay for this!"
-msgstr ""
+msgstr "你會為此付出代價！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.2
@@ -52,7 +52,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 18600-Dialogue.mod:2 18605-Dialogue.mod:2 40952-Dialogue.mod:0
 msgid "You'll never get away with this!"
-msgstr ""
+msgstr "你永遠不會僥倖逃脫！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.3
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 18600-Dialogue.mod:3
 msgid "You're in so much trouble!"
-msgstr ""
+msgstr "你遇到了這麼多麻煩！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.4
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 18600-Dialogue.mod:4
 msgid "You're in way over your heads!"
-msgstr ""
+msgstr "你已經超越了你的頭腦！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.5
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 18600-Dialogue.mod:5 18605-Dialogue.mod:3
 msgid "I'm bleeding!? YOU MADE ME BLEED!?"
-msgstr ""
+msgstr "我在流血！？你讓我發了！！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.6
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 18600-Dialogue.mod:6
 msgid "Is that... MY blood?... I'M BLEEDING!!!"
-msgstr ""
+msgstr "那是......我的血？......我出生了！"
 
 #. Id: 18600-Dialogue.mod
 #. -- Index: 0.7
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 18600-Dialogue.mod:7 18605-Dialogue.mod:4
 msgid "I- I'm bleeding!? I'M BLEEDING!!"
-msgstr ""
+msgstr "我 - 我在流血！？我在流血！！"
 
 #. Id: 18601-Dialogue.mod
 #. -- Index: 0.0
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 18601-Dialogue.mod:2
 msgid "We will NOT be defeated!"
-msgstr ""
+msgstr "我們不會被打敗！"
 
 #. Id: 18601-Dialogue.mod
 #. -- Index: 0.3
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Group title: Noble get up fight
 #: 18602-Dialogue.mod:0
 msgid "Fail me and I'll have your heads!"
-msgstr ""
+msgstr "讓我失望，我會有你的頭！"
 
 #. Id: 18602-Dialogue.mod
 #. -- Index: 1.1
@@ -196,7 +196,7 @@ msgstr ""
 #. -- Group title: Noble get up fight
 #: 18602-Dialogue.mod:2
 msgid "Fail me and I'll have you punished!"
-msgstr ""
+msgstr "讓我失望，我會受到你的懲罰！"
 
 #. Id: 18605-Dialogue.mod
 #. -- Index: 0.0
@@ -217,4 +217,3 @@ msgstr ""
 #: 18605-Dialogue.mod:1
 msgid "You'll pay for this, /WORM/!"
 msgstr ""
-

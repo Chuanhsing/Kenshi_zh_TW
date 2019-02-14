@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40942-Dialogue.mod:0
 msgid "You're interrupting my meditation, child!"
-msgstr ""
+msgstr "孩子，你在打擾我的冥想！"
 
 #. Id: 40942-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40942-Dialogue.mod:1
 msgid "Leave me, I'm praying, I need silence"
-msgstr ""
+msgstr "離開我，我在祈禱，我需要沉默"
 
 #. Id: 40942-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40942-Dialogue.mod:2
 msgid "Silence! You interrupt my prayers!"
-msgstr ""
+msgstr "安靜！你打斷了我的祈禱！"
 
 #. Id: 40943-Dialogue.mod
 #. -- Index: 1.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40943-Dialogue.mod:0
 msgid "Leave me!"
-msgstr ""
+msgstr "離開我吧！"
 
 #. Id: 40943-Dialogue.mod
 #. -- Index: 1.1
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40943-Dialogue.mod:1
 msgid "Leave now!"
-msgstr ""
+msgstr "現在離開！"
 
 #. Id: 40943-Dialogue.mod
 #. -- Index: 1.3
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40943-Dialogue.mod:3 40944-Dialogue.mod:6 40946-Dialogue.mod:4
 msgid "Go, now!"
-msgstr ""
+msgstr "現在出發！"
 
 #. Id: 40945-Dialogue.mod
 #. -- Index: 0.0
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40945-Dialogue.mod:0
 msgid "You're not supposed to be here, why do you disturb my meditation?"
-msgstr ""
+msgstr "你不應該在這裡，為什麼你打擾我的冥想？"
 
 #. Id: 40945-Dialogue.mod
 #. -- Index: 0.1
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40945-Dialogue.mod:1
 msgid "What are you doing here?! You disturb the Holy Phoenix!"
-msgstr ""
+msgstr "你在這裡做什麼？！你打擾了聖鳳凰！"
 
 #. Id: 40945-Dialogue.mod
 #. -- Index: 0.2
@@ -106,7 +106,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40945-Dialogue.mod:2
 msgid "You're not welcome here. Why do you disturb the Holy Lord Phoenix?!"
-msgstr ""
+msgstr "你在這裡不受歡迎。你為什麼打擾聖靈鳳凰？！"
 
 #. Id: 40945-Dialogue.mod
 #. -- Index: 0.3
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Group title: Phoenix Shoo
 #: 40945-Dialogue.mod:3
 msgid "Who are you? You're interrupting my meditation, you shouldn't be here"
-msgstr ""
+msgstr "你是誰？你打擾了我的冥想，你不應該在這裡"
 
 #. Id: 40944-Dialogue.mod
 #. -- Index: 1.0
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40944-Dialogue.mod:0
 msgid "Paladins, get rid of this wretched woman"
-msgstr ""
+msgstr "聖騎士，擺脫這個可憐的女人"
 
 #. Id: 40944-Dialogue.mod
 #. -- Index: 1.7
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40944-Dialogue.mod:7
 msgid "Wretched woman, get out!"
-msgstr ""
+msgstr "猥瑣的女人，滾出去！"
 
 #. Id: 40944-Dialogue.mod
 #. -- Index: 1.8
@@ -148,7 +148,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40944-Dialogue.mod:8
 msgid "Paladins, see to this woman"
-msgstr ""
+msgstr "聖騎士，看到這個女人"
 
 #. Id: 40944-Dialogue.mod
 #. -- Index: 1.9
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40944-Dialogue.mod:9 40946-Dialogue.mod:5
 msgid "Paladins, I will not be disturbed!"
-msgstr ""
+msgstr "聖騎士，我不會被打擾！"
 
 #. Id: 40946-Dialogue.mod
 #. -- Index: 1.0
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40946-Dialogue.mod:0
 msgid "Paladins, get rid of him"
-msgstr ""
+msgstr "聖騎士，擺脫他"
 
 #. Id: 40946-Dialogue.mod
 #. -- Index: 1.2
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40946-Dialogue.mod:2
 msgid "Get out, now!"
-msgstr ""
+msgstr "現在滾出去吧！"
 
 #. Id: 40946-Dialogue.mod
 #. -- Index: 1.6
@@ -195,7 +195,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40946-Dialogue.mod:6
 msgid "Paladins, see him out"
-msgstr ""
+msgstr "聖騎士，見他了"
 
 #. Id: 50569-Dialogue.mod
 #. -- Index: 0.0
@@ -205,7 +205,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 50569-Dialogue.mod:0
 msgid "A beast! In my holy quarters!"
-msgstr ""
+msgstr "一個怪獸！在我的聖地！"
 
 #. Id: 50569-Dialogue.mod
 #. -- Index: 0.1
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 50569-Dialogue.mod:1
 msgid "A dark one! In my holy quarters!"
-msgstr ""
+msgstr "一個黑暗的！在我的聖地！"
 
 #. Id: 50569-Dialogue.mod
 #. -- Index: 0.2
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 50569-Dialogue.mod:2
 msgid "An abomination! In my sacred quarters!"
-msgstr ""
+msgstr "憎惡！在我神聖的宿舍！"
 
 #. Id: 50571-Dialogue.mod
 #. -- Index: 1.0
@@ -253,4 +253,3 @@ msgstr ""
 #: 50571-Dialogue.mod:2
 msgid "/BURNHIM/! Our city must be cleansed!"
 msgstr ""
-

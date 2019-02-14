@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 41096-Dialogue.mod:0
 msgid "Enemy of Okran!"
-msgstr ""
+msgstr "奧克蘭的敵人！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.3
@@ -44,7 +44,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 41096-Dialogue.mod:3 41098-Dialogue.mod:3 41111-Dialogue.mod:4
 msgid "The darkness comes!"
-msgstr ""
+msgstr "黑暗來了！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.4
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 41096-Dialogue.mod:4
 msgid "You! Enemy of the Light!"
-msgstr ""
+msgstr "您！光之敵人！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.5
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 41096-Dialogue.mod:5 41098-Dialogue.mod:5 41111-Dialogue.mod:6
 msgid "It's the enemy! The darkened!"
-msgstr ""
+msgstr "這是敵人！黑暗！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.6
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 41096-Dialogue.mod:6
 msgid "Heretic! Enemy!"
-msgstr ""
+msgstr "異教徒！敵人！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.7
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 41096-Dialogue.mod:7 15536-Dialogue.mod:2 15548-Dialogue.mod:1
 msgid "Heretic!"
-msgstr ""
+msgstr "異教徒！"
 
 #. Id: 41096-Dialogue.mod
 #. -- Index: 0.8
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 41096-Dialogue.mod:8 41098-Dialogue.mod:8 41111-Dialogue.mod:5
 msgid "The enemy is here!"
-msgstr ""
+msgstr "敵人在這裡！"
 
 #. Id: 41097-Dialogue.mod
 #. -- Index: 1.0
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 41097-Dialogue.mod:0
 msgid "Darkness be purged!"
-msgstr ""
+msgstr "黑暗被清除！"
 
 #. Id: 41097-Dialogue.mod
 #. -- Index: 1.2
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 41098-Dialogue.mod:0 41111-Dialogue.mod:0
 msgid "Enemies of Okran!"
-msgstr ""
+msgstr "奧克蘭的敵人！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.2
@@ -245,7 +245,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 41098-Dialogue.mod:2 41111-Dialogue.mod:3 40798-Dialogue.mod:4 15544-Dialogue.mod:10
 msgid "Dark ones!"
-msgstr ""
+msgstr "黑暗的！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.4
@@ -255,7 +255,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
 #: 41098-Dialogue.mod:4
 msgid "You! Enemies of the Light!"
-msgstr ""
+msgstr "您！光明的敵人！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.6
@@ -265,7 +265,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
 #: 41098-Dialogue.mod:6
 msgid "Heretics! Enemy!"
-msgstr ""
+msgstr "異端！敵人！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.7
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>2, Tag: -1
 #: 41098-Dialogue.mod:7
 msgid "Heretics!"
-msgstr ""
+msgstr "異端！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.9
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: BRAVE
 #: 41098-Dialogue.mod:9 41111-Dialogue.mod:7
 msgid "Enemies of the Light!"
-msgstr ""
+msgstr "光明的敵人！"
 
 #. Id: 41098-Dialogue.mod
 #. -- Index: 0.10
@@ -330,7 +330,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 41098-Dialogue.mod:10 41111-Dialogue.mod:2 40798-Dialogue.mod:6 50101-Dialogue.mod:4
 msgid "The darkened have come!"
-msgstr ""
+msgstr "黑暗已經來了！"
 
 #. Id: 41114-Dialogue.mod
 #. -- Index: 1.0
@@ -339,7 +339,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 41114-Dialogue.mod:0
 msgid "Okran be with us!"
-msgstr ""
+msgstr "奧克蘭和我們在一起！"
 
 #. Id: 41114-Dialogue.mod
 #. -- Index: 1.2
@@ -363,7 +363,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 41114-Dialogue.mod:2 40799-Dialogue.mod:2 50100-Dialogue.mod:1
 msgid "Father be with us!"
-msgstr ""
+msgstr "父親和我們在一起！"
 
 #. Id: 41114-Dialogue.mod
 #. -- Index: 1.4
@@ -372,7 +372,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 41114-Dialogue.mod:4
 msgid "Light protect me!"
-msgstr ""
+msgstr "光保護我！"
 
 #. Id: 41114-Dialogue.mod
 #. -- Index: 1.5
@@ -381,7 +381,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 41114-Dialogue.mod:5
 msgid "Lord of Light, have mercy on me!"
-msgstr ""
+msgstr "光明之王，憐憫我吧！"
 
 #. Id: 41123-Dialogue.mod
 #. -- Index: 0.0
@@ -392,7 +392,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: MET_TARGET_BEFORE=1, Tag: -1
 #: 41123-Dialogue.mod:0
 msgid "You again!?"
-msgstr ""
+msgstr "又是你！？"
 
 #. Id: 64338-Dialogue.mod
 #. -- Index: 0.1
@@ -401,7 +401,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 64338-Dialogue.mod:1
 msgid "Whore of Flotsam!"
-msgstr ""
+msgstr "漂浮物的妓女！"
 
 #. Id: 64338-Dialogue.mod
 #. -- Index: 0.2
@@ -410,7 +410,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 64338-Dialogue.mod:2
 msgid "Flotsam have come!"
-msgstr ""
+msgstr "Flotsam來了！"
 
 #. Id: 64338-Dialogue.mod
 #. -- Index: 0.3
@@ -428,7 +428,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 64338-Dialogue.mod:4
 msgid "Darkened lackey of Moll!"
-msgstr ""
+msgstr "Moll變暗了！"
 
 #. Id: 66227-Dialogue.mod
 #. -- Index: 0.0
@@ -437,7 +437,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 66227-Dialogue.mod:0
 msgid "Whore of the Golem!"
-msgstr ""
+msgstr "傀儡！"
 
 #. Id: 66227-Dialogue.mod
 #. -- Index: 0.1
@@ -446,7 +446,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 66227-Dialogue.mod:1
 msgid "The Shek beasts have come!"
-msgstr ""
+msgstr "石獸來了！"
 
 #. Id: 66227-Dialogue.mod
 #. -- Index: 0.2
@@ -464,7 +464,7 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 66227-Dialogue.mod:3
 msgid "Darkened lackey of the Golem!"
-msgstr ""
+msgstr "傀儡的惡魔！"
 
 #. Id: 66227-Dialogue.mod
 #. -- Index: 0.4
@@ -473,5 +473,4 @@ msgstr ""
 #. -- Group title: Paladin spots enemy
 #: 66227-Dialogue.mod:4
 msgid "Golem's beasts!"
-msgstr ""
-
+msgstr "傀儡的野獸！"

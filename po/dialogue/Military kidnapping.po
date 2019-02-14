@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Military kidnapping
 #: 52366-Dialogue.mod:1
 msgid "Abduction!"
-msgstr ""
+msgstr "綁架！"
 
 #. Id: 52366-Dialogue.mod
 #. -- Index: 0.2
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Military kidnapping
 #: 52366-Dialogue.mod:2
 msgid "Kidnap!"
-msgstr ""
+msgstr "綁架！"
 
 #. Id: 52367-Dialogue.mod
 #. -- Index: 1.2
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 52903-Dialogue.mod:2
 msgid "Taken away by Narko's temptress!"
-msgstr ""
+msgstr "被Narko的誘惑所震撼！"
 
 #. Id: 52904-Dialogue.mod
 #. -- Index: 0.0
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 52904-Dialogue.mod:0
 msgid "Kidnapped by Narko's spawn!"
-msgstr ""
+msgstr "被Narko的產卵綁架了！"
 
 #. Id: 52904-Dialogue.mod
 #. -- Index: 0.1
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 52904-Dialogue.mod:1
 msgid "Kidnapped by Narko's dark beasts!"
-msgstr ""
+msgstr "被Narko的黑暗勢力綁架了！"
 
 #. Id: 52904-Dialogue.mod
 #. -- Index: 0.2
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 52904-Dialogue.mod:2
 msgid "Kidnapped by Narko's dark creatures!"
-msgstr ""
+msgstr "被Narko的黑暗生物綁架了！"
 
 #. Id: 52904-Dialogue.mod
 #. -- Index: 0.3
@@ -106,5 +106,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 52904-Dialogue.mod:3
 msgid "Taken away by a dark one!"
-msgstr ""
-
+msgstr "被一個黑暗的一個帶走！"

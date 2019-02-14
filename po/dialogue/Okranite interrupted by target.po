@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Okranite interrupted by target
 #: 46318-Dialogue.mod:0
 msgid "Demon possessed!"
-msgstr ""
+msgstr "惡魔附身！"
 
 #. Id: 46318-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Okranite interrupted by target
 #: 46318-Dialogue.mod:1
 msgid "Robot possessed!"
-msgstr ""
+msgstr "機器人附身！"
 
 #. Id: 46318-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Okranite interrupted by target
 #: 46318-Dialogue.mod:2
 msgid "Skeleton possessed!"
-msgstr ""
+msgstr "骷髏附身！"
 
 #. Id: 46318-Dialogue.mod
 #. -- Index: 0.4
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 46328-Dialogue.mod:0
 msgid "Skeleton demon spawn!"
-msgstr ""
+msgstr "骷髏惡魔產卵！"
 
 #. Id: 46328-Dialogue.mod
 #. -- Index: 0.1
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 46328-Dialogue.mod:1
 msgid "Skeleton attack!"
-msgstr ""
+msgstr "骷髏攻擊！"
 
 #. Id: 46328-Dialogue.mod
 #. -- Index: 0.2
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 46328-Dialogue.mod:2
 msgid "Robot attack!"
-msgstr ""
+msgstr "機器人攻擊！"
 
 #. Id: 46328-Dialogue.mod
 #. -- Index: 0.3
@@ -85,5 +85,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=1, Tag: -1
 #: 46328-Dialogue.mod:3
 msgid "Abomination!"
-msgstr ""
-
+msgstr "厭惡！"

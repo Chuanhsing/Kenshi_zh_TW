@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: police see thief
 #: 12573-gamedata.base:0
 msgid "Damn thief!"
-msgstr ""
+msgstr "該死的小偷！"
 
 #. Id: 12573-gamedata.base
 #. -- Index: 0.1
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: police see thief
 #: 12573-gamedata.base:2
 msgid "You're under arrest thief!"
-msgstr ""
+msgstr "你被逮捕了！"
 
 #. Id: 12577-gamedata.base
 #. -- Index: 0.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 12577-gamedata.base:0
 msgid "Stop! Thief!"
-msgstr ""
+msgstr "停止！賊！"
 
 #. Id: 12577-gamedata.base
 #. -- Index: 0.1
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 12577-gamedata.base:1
 msgid "Get back here thief!"
-msgstr ""
+msgstr "回到這裡小偷！"
 
 #. Id: 12577-gamedata.base
 #. -- Index: 0.2
@@ -66,5 +66,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 12577-gamedata.base:2
 msgid "Halt! You're under arrest! "
-msgstr ""
-
+msgstr "停！你被捕了！"

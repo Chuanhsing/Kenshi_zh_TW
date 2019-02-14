@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Looting Shek authority
 #: 15002-Dialogue.mod:0
 msgid "DON'T touch that"
-msgstr ""
+msgstr "別碰那個"
 
 #. Id: 15002-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Looting Shek authority
 #: 15002-Dialogue.mod:1
 msgid "Back away"
-msgstr ""
+msgstr "回去"
 
 #. Id: 15002-Dialogue.mod
 #. -- Index: 0.3
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Looting Shek authority
 #: 15002-Dialogue.mod:3
 msgid "Drop it"
-msgstr ""
+msgstr "算了吧"
 
 #. Id: 15002-Dialogue.mod
 #. -- Index: 0.4
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Looting Shek authority
 #: 15002-Dialogue.mod:4
 msgid "Leave it"
-msgstr ""
+msgstr "別管它"
 
 #. Id: 15002-Dialogue.mod
 #. -- Index: 0.5
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Group title: Shek sees swamp raptor looting
 #: 44111-Dialogue.mod:0 44111-Dialogue.mod:5 44105-Dialogue.mod:2
 msgid "Vermin..."
-msgstr ""
+msgstr "害蟲..."
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.1
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Group title: Shek sees swamp raptor looting
 #: 44111-Dialogue.mod:1 44105-Dialogue.mod:5
 msgid "Hrmph. Vermin."
-msgstr ""
+msgstr "Hrmph。害蟲。"
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.2
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Group title: Shek sees swamp raptor looting
 #: 44111-Dialogue.mod:2 44105-Dialogue.mod:3
 msgid "Troublesome vermin..."
-msgstr ""
+msgstr "麻煩的害蟲......"
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.3
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Group title: Shek sees swamp raptor looting
 #: 44111-Dialogue.mod:3 44105-Dialogue.mod:1
 msgid "Hmph. Reduced to exterminating vermin..."
-msgstr ""
+msgstr "哼。減少滅絕害蟲......"
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.4
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Group title: Shek sees swamp raptor looting
 #: 44111-Dialogue.mod:4 44105-Dialogue.mod:0
 msgid "Tch. Reduced to pest control..."
-msgstr ""
+msgstr "TCH。減少害蟲控制......"
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.6
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
 #: 44111-Dialogue.mod:6
 msgid "Just vermin..."
-msgstr ""
+msgstr "只是害蟲......"
 
 #. Id: 44111-Dialogue.mod
 #. -- Index: 0.7
@@ -164,5 +164,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
 #: 44111-Dialogue.mod:7
 msgid "Foul vermin..."
-msgstr ""
-
+msgstr "犯規害蟲......"

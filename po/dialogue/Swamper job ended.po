@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Swamper job ended
 #: 12436-Dialogue?(10)?(2).mod:0
 msgid "Alright. Time's up, I'm outta here"
-msgstr ""
+msgstr "好的。時間到了，我離開了"
 
 #. Id: 12436-Dialogue (10) (2).mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Swamper job ended
 #: 12436-Dialogue?(10)?(2).mod:1
 msgid "Looks like I'm done here. See ya around"
-msgstr ""
+msgstr "看起來我在這裡完成了。看到周圍的人"
 
 #. Id: 12436-Dialogue (10) (2).mod
 #. -- Index: 0.2
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Swamper job ended
 #: 12436-Dialogue?(10)?(2).mod:3
 msgid "That's it for me, I'm done. See ya"
-msgstr ""
+msgstr "這就是我，我已經完成了。拜拜"
 
 #. Id: 12437-Dialogue (10) (2).mod
 #. -- Index: 1.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 12437-Dialogue?(10)?(2).mod:0
 msgid "Now, where's the nearest bar...?"
-msgstr ""
+msgstr "現在，哪裡是最近的酒吧......？"
 
 #. Id: 12437-Dialogue (10) (2).mod
 #. -- Index: 1.1
@@ -65,7 +65,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 12437-Dialogue?(10)?(2).mod:1
 msgid "Now, where's the nearest brothel...?"
-msgstr ""
+msgstr "現在，哪裡是最近的妓院......？"
 
 #. Id: 12437-Dialogue (10) (2).mod
 #. -- Index: 1.2
@@ -75,5 +75,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 12437-Dialogue?(10)?(2).mod:2
 msgid "Now to find the nearest brothel..."
-msgstr ""
-
+msgstr "現在找到最近的妓院......"

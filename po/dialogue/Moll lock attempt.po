@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Moll lock attempt
 #: 51091-Dialogue.mod:0
 msgid "Quickly, there's no time to waste."
-msgstr ""
+msgstr "很快，沒有時間浪費。"
 
 #. Id: 51092-Dialogue.mod
 #. -- Index: 0.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: RELATIONS>70, Tag: -1
 #: 51092-Dialogue.mod:0
 msgid "Get out of here and save yourself, while you still can."
-msgstr ""
+msgstr "離開這裡並保存自己，而你仍然可以。"
 
 #. Id: 51094-Dialogue.mod
 #. -- Index: 0.0
@@ -38,5 +38,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: RELATIONS<-40, Tag: -1
 #: 51094-Dialogue.mod:0
 msgid "You're helping me now? What's the catch?"
-msgstr ""
-
+msgstr "你現在在幫我嗎？有什麼收穫？"

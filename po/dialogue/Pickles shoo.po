@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 49442-Dialogue.mod:0
 msgid "Hi, who are you?"
-msgstr ""
+msgstr "嗨，你是誰？"
 
 #. Id: 49443-Dialogue.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 49443-Dialogue.mod:0
 msgid "Got any food?"
-msgstr ""
+msgstr "有什麼食物嗎？"
 
 #. Id: 49446-Dialogue.mod
 #. -- Index: 4.0
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 49446-Dialogue.mod:0
 msgid "This is Ells' house."
-msgstr ""
+msgstr "這是Ells的家。"
 
 #. Id: 49447-Dialogue.mod
 #. -- Index: 5.0
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: TARGET_IF_PLAYER, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 49447-Dialogue.mod:0 49449-Dialogue.mod:0 12635-Dialogue?(11)?(2).mod:3 45380-Dialogue.mod:1 45737-Dialogue.mod:2 46401-Dialogue.mod:5
 msgid "You need to leave."
-msgstr ""
+msgstr "你需要離開。"
 
 #. Id: 49448-Dialogue.mod
 #. -- Index: 6.0
@@ -89,5 +89,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 49448-Dialogue.mod:0
 msgid "Ma always told Ells not to talk to strangers."
-msgstr ""
-
+msgstr "馬總是告訴Ells不要和陌生人說話。"

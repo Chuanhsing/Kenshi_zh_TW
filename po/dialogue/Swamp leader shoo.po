@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Swamp leader shoo
 #: 48492-Dialogue.mod:0
 msgid "Who the hell are you? This is the Hound den..."
-msgstr ""
+msgstr "你到底是誰？這是獵犬窩......"
 
 #. Id: 48493-Dialogue.mod
 #. -- Index: 1.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 48493-Dialogue.mod:0
 msgid "We run this town and we run you."
-msgstr ""
+msgstr "我們經營這個小鎮，我們經營著你。"
 
 #. Id: 48494-Dialogue.mod
 #. -- Index: 2.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 48494-Dialogue.mod:0
 msgid "Stay out of our way if you know what's good for you."
-msgstr ""
+msgstr "如果你知道什麼對你有好處，請不要管我們。"
 
 #. Id: 48495-Dialogue.mod
 #. -- Index: 3.0
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 48495-Dialogue.mod:0
 msgid "... You deaf or something? I ain't tellin' you again."
-msgstr ""
+msgstr "你聾了什麼？我不再告訴你了。"
 
 #. Id: 48497-Dialogue.mod
 #. -- Index: 5.0
@@ -59,4 +59,3 @@ msgstr ""
 #: 48497-Dialogue.mod:0
 msgid "... Deal with /HIM/."
 msgstr ""
-

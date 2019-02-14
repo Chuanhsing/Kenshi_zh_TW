@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 44153-Dialogue.mod:0
 msgid "Thought you could outrun the law, did you, fugitive?"
-msgstr ""
+msgstr "以為你可以超越法律，你呢，逃亡？"
 
 #. Id: 44153-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 44153-Dialogue.mod:1
 msgid "A piece of advice from me to you, convict: You can never outrun the law, better to get your punishment over with than to play with fire...."
-msgstr ""
+msgstr "我向你提出的一條建議，定罪：你永遠不能超越法律，更好地得到你的懲罰而不是玩火...."
 
 #. Id: 44155-Dialogue.mod
 #. -- Index: 1.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44155-Dialogue.mod:0
 msgid "Well, I'm a nice guy, so I'll give you a chance. Pay the fine and I'll set you free, I'll wipe your bounty clean and you can safely walk the cities once again..."
-msgstr ""
+msgstr "好吧，我是一個好人，所以我會給你一個機會。支付罰款，我會讓你自由，我會擦你的賞金乾淨，你可以安全地再次走遍城市......"
 
 #. Id: 44156-Dialogue.mod
 #. -- Index: 2.0
@@ -77,7 +77,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 44156-Dialogue.mod:0 62010-Dialogue.mod:0 95466-Dialogue.mod:0 60534-Dialogue.mod:0 60543-Dialogue.mod:0 60479-Dialogue.mod:0
 msgid "Okay, I'll pay."
-msgstr ""
+msgstr "好的，我付錢。"
 
 #. Id: 44159-Dialogue.mod
 #. -- Index: 3.0
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL<251, Tag: -1
 #: 44159-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 300 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看......刑事指控和利息......這將是300隻貓。"
 
 #. Id: 44188-Dialogue.mod
 #. -- Index: 4.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>1100, Tag: -1
 #: 44188-Dialogue.mod:0 44206-Dialogue.mod:0 44207-Dialogue.mod:0 44208-Dialogue.mod:0 44209-Dialogue.mod:0 44210-Dialogue.mod:0 44211-Dialogue.mod:0 44212-Dialogue.mod:0 44213-Dialogue.mod:0
 msgid "Fine. Here"
-msgstr ""
+msgstr "精細。這裡"
 
 #. Id: 44391-Dialogue.mod
 #. -- Index: 5.0
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44391-Dialogue.mod:0
 msgid "Good. Now stay out of trouble, I don't want any repeat offences..."
-msgstr ""
+msgstr "好。現在遠離麻煩，我不希望任何重複犯罪......"
 
 #. Id: 44392-Dialogue.mod
 #. -- Index: 6.0
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44392-Dialogue.mod:0
 msgid "You're clear."
-msgstr ""
+msgstr "你很清楚。"
 
 #. Id: 44392-Dialogue.mod
 #. -- Index: 6.1
@@ -183,7 +183,7 @@ msgstr ""
 #. -- Group title: Prisoner free to go
 #: 44392-Dialogue.mod:1 12821-gamedata.base:0 48356-Dialogue.mod:0
 msgid "You're free to go."
-msgstr ""
+msgstr "你可以走了。"
 
 #. Id: 44222-Dialogue.mod
 #. -- Index: 4.0
@@ -227,7 +227,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44222-Dialogue.mod:0 44237-Dialogue.mod:0 44238-Dialogue.mod:0 44239-Dialogue.mod:0 44240-Dialogue.mod:0 44241-Dialogue.mod:0 44242-Dialogue.mod:0 44243-Dialogue.mod:0
 msgid "What? This is extortion!"
-msgstr ""
+msgstr "什麼？這是勒索！"
 
 #. Id: 44234-Dialogue.mod
 #. -- Index: 5.0
@@ -236,7 +236,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44234-Dialogue.mod:0
 msgid "I'm doing you a favour, criminal. Call it my fee for granting your freedom, it's a bargain. You're lucky I'm in a generous mood!"
-msgstr ""
+msgstr "我幫你一個忙，犯罪。把它作為給予你自由的費用，這是一個討價還價。你很幸運，我心情很慷慨！"
 
 #. Id: 44235-Dialogue.mod
 #. -- Index: 6.0
@@ -245,7 +245,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44235-Dialogue.mod:0
 msgid "... But if you'd rather not pay, there's a perfectly good jail cell with your name on it."
-msgstr ""
+msgstr "...但是如果你不願意付錢，那麼你的名字上就有一個非常好的牢房。"
 
 #. Id: 44160-Dialogue.mod
 #. -- Index: 3.0
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>250, Tag: -1
 #: 44160-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 400 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看...刑事指控和利息......這將是400貓。"
 
 #. Id: 44161-Dialogue.mod
 #. -- Index: 3.0
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>350, Tag: -1
 #: 44161-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 500 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看...刑事指控和利息......這將是500隻貓。"
 
 #. Id: 44162-Dialogue.mod
 #. -- Index: 3.0
@@ -278,7 +278,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>450, Tag: -1
 #: 44162-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 600 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看...刑事指控和利息......這將是600隻貓。"
 
 #. Id: 44163-Dialogue.mod
 #. -- Index: 3.0
@@ -289,7 +289,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>550, Tag: -1
 #: 44163-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 700 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看...刑事指控和利息......這將是700貓。"
 
 #. Id: 44164-Dialogue.mod
 #. -- Index: 3.0
@@ -300,7 +300,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>650, Tag: -1
 #: 44164-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 800 Cats."
-msgstr ""
+msgstr "好的，讓我們看看......刑事指控和利息......這將是800貓。"
 
 #. Id: 44165-Dialogue.mod
 #. -- Index: 3.0
@@ -311,7 +311,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>750, Tag: -1
 #: 44165-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 900 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看......刑事指控和利息......這將是900貓。"
 
 #. Id: 44166-Dialogue.mod
 #. -- Index: 3.0
@@ -322,7 +322,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>850, Tag: -1
 #: 44166-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 1000 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看...刑事指控和利息......這將是1000隻貓。"
 
 #. Id: 44167-Dialogue.mod
 #. -- Index: 3.0
@@ -333,7 +333,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BOUNTY_AMOUNT_ACTUAL>950, Tag: -1
 #: 44167-Dialogue.mod:0
 msgid "Okay, let's see... Criminal charges plus interest... that will be 1100 Cats."
-msgstr ""
+msgstr "好吧，讓我們看看......刑事指控和利息......這將是1100貓。"
 
 #. Id: 96205-Dialogue.mod
 #. -- Index: 3.0
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Group title: Empire pro-slave
 #: 96205-Dialogue.mod:0 51761-Dialogue.mod:0
 msgid "Can't talk?"
-msgstr ""
+msgstr "不能說話？"
 
 #. Id: 44158-Dialogue.mod
 #. -- Index: 2.0
@@ -356,7 +356,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44158-Dialogue.mod:0
 msgid "Nope, not interested."
-msgstr ""
+msgstr "不，不感興趣。"
 
 #. Id: 96204-Dialogue.mod
 #. -- Index: 3.0
@@ -365,7 +365,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 96204-Dialogue.mod:0
 msgid "Too bad, I guess rotting in a prison cage will interest you more..."
-msgstr ""
+msgstr "太糟糕了，我猜在籠子裡腐爛會讓你感興趣..."
 
 #. Id: 44154-Dialogue.mod
 #. -- Index: 0.0
@@ -374,7 +374,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44154-Dialogue.mod:0
 msgid "Since your bounty's only a small one, I'll give you a chance to buy your freedom. Pay the bounty, or sit out your sentence in jail, your choice."
-msgstr ""
+msgstr "既然你的賞金只是一小部分，我會給你一個購買自由的機會。支付賞金，或者在監獄裡坐下你的選擇。"
 
 #. Id: 44357-Dialogue.mod
 #. -- Index: 1.0
@@ -383,7 +383,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44357-Dialogue.mod:0
 msgid "I'll pay my bounty"
-msgstr ""
+msgstr "我要付出我的賞金"
 
 #. Id: 44358-Dialogue.mod
 #. -- Index: 1.0
@@ -393,7 +393,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY<100, Tag: -1
 #: 44358-Dialogue.mod:0
 msgid "I don't have enough money to pay..."
-msgstr ""
+msgstr "我沒有足夠的錢支付......"
 
 #. Id: 44393-Dialogue.mod
 #. -- Index: 2.0
@@ -402,7 +402,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44393-Dialogue.mod:0
 msgid "Tough break... But I've no sympathy for criminals, you'll serve your time in jail and pay for your damages."
-msgstr ""
+msgstr "艱難的休息......但我對犯罪分子沒有同情，你將在監獄服刑並支付賠償金。"
 
 #. Id: 44394-Dialogue.mod
 #. -- Index: 3.0
@@ -450,7 +450,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44359-Dialogue.mod:0
 msgid "No. You ain't getting a single Cat out of me."
-msgstr ""
+msgstr "不，你沒有從我這裡得到一隻貓。"
 
 #. Id: 44396-Dialogue.mod
 #. -- Index: 2.0
@@ -459,7 +459,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44396-Dialogue.mod:0
 msgid "A poor choice. If you won't pay your bounty, you'll pay for your crimes in jail..."
-msgstr ""
+msgstr "一個糟糕的選擇。如果您不支付您的賞金，您將支付您在監獄中的罪行......"
 
 #. Id: 44396-Dialogue.mod
 #. -- Index: 2.1
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44396-Dialogue.mod:1
 msgid "Your stubborness does you no favours. If you won't pay your charges, then you'll pay for your crimes with your time..."
-msgstr ""
+msgstr "你的無所事事對你沒有好處。如果你不支付你的費用，那麼你將用你的時間支付你的罪行......"
 
 #. Id: 44360-Dialogue.mod
 #. -- Index: 1.0
@@ -477,7 +477,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44360-Dialogue.mod:0
 msgid "Ha... You think you can actually arrest me?"
-msgstr ""
+msgstr "哈......你覺得你真的可以逮捕我了？"
 
 #. Id: 44360-Dialogue.mod
 #. -- Index: 1.1
@@ -486,7 +486,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44360-Dialogue.mod:1
 msgid "How cute! You think you can arrest me"
-msgstr ""
+msgstr "真可愛！你認為你可以逮捕我"
 
 #. Id: 44360-Dialogue.mod
 #. -- Index: 1.2
@@ -495,7 +495,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44360-Dialogue.mod:2
 msgid "Ha! Fool, I'd like to see you try arresting me"
-msgstr ""
+msgstr "哈！傻瓜，我想看到你試著逮捕我"
 
 #. Id: 44360-Dialogue.mod
 #. -- Index: 1.3
@@ -504,7 +504,7 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44360-Dialogue.mod:3
 msgid "You want to arrest me?...  Ha, try me."
-msgstr ""
+msgstr "你想逮捕我？...哈，試試我吧。"
 
 #. Id: 44361-Dialogue.mod
 #. -- Index: 2.0
@@ -543,7 +543,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: RELATIONS<-60, Tag: -1
 #: 44372-Dialogue.mod:0
 msgid "Don't you know who I am? I suggest you turn and run."
-msgstr ""
+msgstr "你不知道我是誰嗎？我建議你轉身跑。"
 
 #. Id: 44375-Dialogue.mod
 #. -- Index: 2.0
@@ -572,5 +572,4 @@ msgstr ""
 #. -- Group title: Bounty extortion pay
 #: 44382-Dialogue.mod:0
 msgid "One of these days you'll be hunted down!... Fall back!"
-msgstr ""
-
+msgstr "有一天你會被追捕！......回來！"

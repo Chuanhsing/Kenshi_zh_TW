@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Mean Shoo
 #: 16670-Dialogue.mod:0
 msgid "You're not allowed here"
-msgstr ""
+msgstr "你不能在這裡"
 
 #. Id: 16670-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Mean Shoo
 #: 16670-Dialogue.mod:1
 msgid "Out of bounds"
-msgstr ""
+msgstr "出界"
 
 #. Id: 16670-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Mean Shoo
 #: 16670-Dialogue.mod:2
 msgid "You're not supposed to be here"
-msgstr ""
+msgstr "你不應該在這裡"
 
 #. Id: 16670-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Mean Shoo
 #: 16670-Dialogue.mod:3
 msgid "You're trespassing"
-msgstr ""
+msgstr "你擅自闖入"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.0
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:0 14713-Dialogue.mod:3
 msgid "Leave here"
-msgstr ""
+msgstr "離開這裡"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.1
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:1
 msgid "Leave at once"
-msgstr ""
+msgstr "馬上離開"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.2
@@ -88,7 +88,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 16671-Dialogue.mod:2 12479-Dialogue?(10)?(2).mod:8
 msgid "Clear out"
-msgstr ""
+msgstr "清除"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.3
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:3 17997-Dialogue.mod:3 18152-Dialogue.mod:2 12479-Dialogue?(10)?(2).mod:3 11854-Dialogue?(10).mod:0 14708-Dialogue.mod:0 14713-Dialogue.mod:0
 msgid "Leave"
-msgstr ""
+msgstr "離開"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.4
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:4
 msgid "Take exit"
-msgstr ""
+msgstr "走出去"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.5
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:5 18152-Dialogue.mod:3 12479-Dialogue?(10)?(2).mod:4 12106-Dialogue?(10).mod:3 14706-Dialogue.mod:0 17590-Dialogue.mod:1 14713-Dialogue.mod:2
 msgid "Get out"
-msgstr ""
+msgstr "出去"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.6
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:6
 msgid "Clear off"
-msgstr ""
+msgstr "清除"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.7
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 16671-Dialogue.mod:7 18152-Dialogue.mod:4 12479-Dialogue?(10)?(2).mod:5 11854-Dialogue?(10).mod:1 16503-Dialogue.mod:0 16507-Dialogue.mod:1 16534-Dialogue.mod:0 14713-Dialogue.mod:1
 msgid "Go"
-msgstr ""
+msgstr "走"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.8
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Group title: Empire terrorist hunt
 #: 16671-Dialogue.mod:8 16503-Dialogue.mod:1
 msgid "Move it"
-msgstr ""
+msgstr "移動它"
 
 #. Id: 16671-Dialogue.mod
 #. -- Index: 1.9
@@ -295,7 +295,7 @@ msgstr ""
 #. -- Group title: Empire terrorist hunt
 #: 16671-Dialogue.mod:9 12479-Dialogue?(10)?(2).mod:0 16503-Dialogue.mod:2 16534-Dialogue.mod:2
 msgid "Scram"
-msgstr ""
+msgstr "急停"
 
 #. Id: 42351-Dialogue.mod
 #. -- Index: 2.0
@@ -305,7 +305,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42351-Dialogue.mod:0
 msgid "Or don't then!"
-msgstr ""
+msgstr "或者不要那麼！"
 
 #. Id: 42351-Dialogue.mod
 #. -- Index: 2.1
@@ -315,7 +315,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42351-Dialogue.mod:1
 msgid "Fine, then I'll MAKE you leave!"
-msgstr ""
+msgstr "好的，那我就叫你離開！"
 
 #. Id: 42351-Dialogue.mod
 #. -- Index: 2.2
@@ -325,7 +325,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42351-Dialogue.mod:2
 msgid "If you won't leave, I'll just have to make you!"
-msgstr ""
+msgstr "如果你不離開，我只需要讓你！"
 
 #. Id: 42351-Dialogue.mod
 #. -- Index: 2.3
@@ -335,7 +335,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42351-Dialogue.mod:3
 msgid "No? Then I'll just have to make you leave!"
-msgstr ""
+msgstr "沒有？然後我就得讓你離開！"
 
 #. Id: 42351-Dialogue.mod
 #. -- Index: 2.4
@@ -356,4 +356,3 @@ msgstr ""
 #: 42351-Dialogue.mod:5
 msgid "Stubborn /IDIOT/! Leave already!"
 msgstr ""
-

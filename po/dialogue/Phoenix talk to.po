@@ -22,7 +22,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: RELATIONS>75, Tag: -1
 #: 57103-Dialogue.mod:0
 msgid "The Lord Of Light recognizes your good deeds, holy brother. The Lord sees all... Virtue is in your destiny, as it is my own. We are united, both, in our paths for greatness, for change and for goodness... Come! [He motions for you to come closer]"
-msgstr ""
+msgstr "光明之王承認你的善行，聖潔的兄弟。主看到所有......美德在你的命運中，因為它是我自己的命運。我們在偉大，變革和善良的道路上團結一致......來吧！ [他動議讓你走近]"
 
 #. Id: 57111-Dialogue.mod
 #. -- Index: 1.0
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Group title: Phoenix talk to
 #: 57111-Dialogue.mod:0
 msgid "[Step forward]"
-msgstr ""
+msgstr "[向前一步]"
 
 #. Id: 57112-Dialogue.mod
 #. -- Index: 2.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Group title: Phoenix talk to
 #: 57112-Dialogue.mod:0
 msgid "[He gives you a bear hug and squeezes tight. There's a potent smell of vegetables. He presses a thumb to your forehead]"
-msgstr ""
+msgstr "[他給你一個熊抱，擠緊。有強烈的蔬菜味道。他用拇指按在你的額頭上]"
 
 #. Id: 57113-Dialogue.mod
 #. -- Index: 3.0
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Group title: Phoenix talk to
 #: 57113-Dialogue.mod:0
 msgid "Bless this one, holy father. Protect him from all that may harm his spirit and body. Bless this one, holy father, my own brother..."
-msgstr ""
+msgstr "祝福這個，聖父。保護他免受可能傷害他的精神和身體的一切。祝福這一個，聖父，我自己的兄弟......"
 
 #. Id: 57114-Dialogue.mod
 #. -- Index: 4.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Group title: Phoenix talk to
 #: 57114-Dialogue.mod:0
 msgid "Here, take my gift with you. The Chalice of Fire, a beacon of light. May it ward you from darkness wherever your journey may take you."
-msgstr ""
+msgstr "在這裡，帶上我的禮物。火聖杯，光明的燈塔。無論你的旅程在哪裡，它都可以讓你遠離黑暗。"
 
 #. Id: 57115-Dialogue.mod
 #. -- Index: 5.0
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Group title: Phoenix talk to
 #: 57115-Dialogue.mod:0
 msgid "... Now, go forth, holy one! Continue your path..."
-msgstr ""
+msgstr "......現在，出去吧，聖潔的！繼續你的道路......"
 
 #. Id: 57123-Dialogue.mod
 #. -- Index: 0.0
@@ -78,5 +78,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ROBOT_LIMBS=0, Tag: -1
 #: 57123-Dialogue.mod:0
 msgid "*Hiss*"
-msgstr ""
-
+msgstr "*嘶*"

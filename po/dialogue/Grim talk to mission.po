@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<5, Tag: -1
 #: 58942-Dialogue.mod:0
 msgid "Whaddya waitin' for? It ain't gonna dump itself..."
-msgstr ""
+msgstr "Whaddya等待？它不會傾倒自己......"
 
 #. Id: 58943-Dialogue.mod
 #. -- Index: 1.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58943-Dialogue.mod:0
 msgid "Gid outta here already, pup!"
-msgstr ""
+msgstr "Gid已經離開這裡了，小狗！"
 
 #. Id: 58944-Dialogue.mod
 #. -- Index: 0.0
@@ -38,7 +38,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>24, Tag: -1
 #: 58944-Dialogue.mod:0
 msgid "Heheh. Ain't stuck in a jail cell yet... done me proud so far, pup. So, got my profits for me? Oughtta be 4000 Cats... Go."
-msgstr ""
+msgstr "Heheh。還沒有卡在監獄牢房裡......到目前為止，讓我自豪，小狗。那麼，為我獲得了利潤？ Oughtta是4000貓......去。"
 
 #. Id: 58951-Dialogue.mod
 #. -- Index: 1.0
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58951-Dialogue.mod:0
 msgid "I... don't have the money."
-msgstr ""
+msgstr "我......沒有錢。"
 
 #. Id: 58954-Dialogue.mod
 #. -- Index: 2.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58954-Dialogue.mod:0
 msgid "What are ya, tryin' to squeeze me out? Ain't nobody squeezes Big Grim out! I ain't listenin' to your excuses either..."
-msgstr ""
+msgstr "什麼是你，試著把我擠出來？是不是沒有人擠出Big Grim！我不是在聽你的藉口......"
 
 #. Id: 58952-Dialogue.mod
 #. -- Index: 1.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
 #: 58952-Dialogue.mod:0
 msgid "I've got it"
-msgstr ""
+msgstr "我懂了"
 
 #. Id: 58970-Dialogue.mod
 #. -- Index: 2.0
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58971-Dialogue.mod:0
 msgid "Smokes on me today, hound..."
-msgstr ""
+msgstr "今天抽煙，獵犬......"
 
 #. Id: 58972-Dialogue.mod
 #. -- Index: 4.0
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58972-Dialogue.mod:0
 msgid "Good work."
-msgstr ""
+msgstr "幹得好。"
 
 #. Id: 58953-Dialogue.mod
 #. -- Index: 1.0
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 58953-Dialogue.mod:0
 msgid "I came a little short... [c. 3000]"
-msgstr ""
+msgstr "我來得有點短...... [c。 3000]"
 
 #. Id: 58957-Dialogue.mod
 #. -- Index: 2.0
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>168, Tag: -1
 #: 58949-Dialogue.mod:0
 msgid "... You're late."
-msgstr ""
+msgstr "... 你遲到了。"
 
 #. Id: 58964-Dialogue.mod
 #. -- Index: 1.0
@@ -140,7 +140,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58964-Dialogue.mod:0
 msgid "But I got here in the end..."
-msgstr ""
+msgstr "但我最終到了這裡......"
 
 #. Id: 58964-Dialogue.mod
 #. -- Index: 1.1
@@ -149,7 +149,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58964-Dialogue.mod:1
 msgid "Better late than never..."
-msgstr ""
+msgstr "遲到總比不到好..."
 
 #. Id: 58976-Dialogue.mod
 #. -- Index: 2.0
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58965-Dialogue.mod:0
 msgid "I'm sorry, Big Grim."
-msgstr ""
+msgstr "對不起，Big Grim。"
 
 #. Id: 58966-Dialogue.mod
 #. -- Index: 1.0
@@ -185,5 +185,4 @@ msgstr ""
 #. -- Group title: Grim talk to mission
 #: 58966-Dialogue.mod:0
 msgid "What of it?"
-msgstr ""
-
+msgstr "它是什麼？"

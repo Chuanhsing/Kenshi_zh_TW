@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_ONLY_ANIMALS=1, Tag: -1
 #: 5046-gamedata.base:0
 msgid "Beast attack!"
-msgstr ""
+msgstr "野獸襲擊！"
 
 #. Id: 5046-gamedata.base
 #. -- Index: 0.1
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: civilian Interrupted by
 #: 5049-gamedata.base:0 15264-Dialogue.mod:0 13957-Escapes.mod:0
 msgid "Cannibals!"
-msgstr ""
+msgstr "食人族！"
 
 #. Id: 5049-gamedata.base
 #. -- Index: 0.1
@@ -152,7 +152,7 @@ msgstr ""
 #. -- Group title: Bandit attacked by someone else
 #: 5049-gamedata.base:1 13459-Escapes.mod:2
 msgid "Cannibal attack!"
-msgstr ""
+msgstr "食人族攻擊！"
 
 #. Id: 5049-gamedata.base
 #. -- Index: 0.2
@@ -161,7 +161,7 @@ msgstr ""
 #. -- Group title: combat interrupt by stranger
 #: 5049-gamedata.base:2
 msgid "Cannibal attack! Form up!"
-msgstr ""
+msgstr "食人族攻擊！組建！"
 
 #. Id: 5057-gamedata.base
 #. -- Index: 0.0
@@ -171,7 +171,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5057-gamedata.base:0
 msgid "What?! I'll deal with you!"
-msgstr ""
+msgstr "什麼？！我會和你打交道！"
 
 #. Id: 5057-gamedata.base
 #. -- Index: 0.1
@@ -181,7 +181,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5057-gamedata.base:1
 msgid "Want a fight, eh!?"
-msgstr ""
+msgstr "想要打架，呃！？"
 
 #. Id: 5057-gamedata.base
 #. -- Index: 0.2
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Group title: shek wander fight starter
 #: 5057-gamedata.base:2 5059-gamedata.base:1 12848-Dialogue?(11)?(2).mod:1 11589-Dialogue?(10).mod:0 44971-Dialogue.mod:2 5032-Dialogue.mod:0 51352-rebirth.mod:2
 msgid "Bring it on!"
-msgstr ""
+msgstr "來吧！"
 
 #. Id: 5057-gamedata.base
 #. -- Index: 0.3
@@ -233,7 +233,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 5057-gamedata.base:3
 msgid "Looking for a fight, ah?"
-msgstr ""
+msgstr "找個打架啊？"
 
 #. Id: 5057-gamedata.base
 #. -- Index: 0.4
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Group title: Bo attacked
 #: 5057-gamedata.base:4 8691-Dialogue.mod:1
 msgid "Come on then!"
-msgstr ""
+msgstr "來吧！"
 
 #. Id: 5059-gamedata.base
 #. -- Index: 0.0
@@ -259,7 +259,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>1, Tag: -1
 #: 5059-gamedata.base:0
 msgid "We're under attack! Form up!"
-msgstr ""
+msgstr "我們受到了攻擊！組建！"
 
 #. Id: 5059-gamedata.base
 #. -- Index: 0.2
@@ -376,7 +376,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
 #: 12846-Dialogue?(11)?(2).mod:0
 msgid "Come for my bounty ah?"
-msgstr ""
+msgstr "來為我賞金啊？"
 
 #. Id: 12846-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -386,7 +386,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BOUNTY_AMOUNT_ACTUAL>5, Tag: -1
 #: 12846-Dialogue?(11)?(2).mod:1
 msgid "Another bounty hunter with a suicide wish ah?"
-msgstr ""
+msgstr "又一個賞金獵人帶著自殺的願望啊？"
 
 #. Id: 12848-Dialogue (11) (2).mod
 #. -- Index: 1.0
@@ -405,7 +405,7 @@ msgstr ""
 #. -- Group title: Territorial thug (interrupt) (pt2)
 #: 12848-Dialogue?(11)?(2).mod:0 11999-Dialogue?(10).mod:4 9906-Dialogue.mod:0
 msgid "Try me!"
-msgstr ""
+msgstr "試試我！"
 
 #. Id: 12848-Dialogue (11) (2).mod
 #. -- Index: 1.2
@@ -419,7 +419,7 @@ msgstr ""
 #. -- Group title: Moll intruder found
 #: 12848-Dialogue?(11)?(2).mod:2 51077-Dialogue.mod:0
 msgid "You'll never take me alive!"
-msgstr ""
+msgstr "你永遠不會把我活著！"
 
 #. Id: 12848-Dialogue (11) (2).mod
 #. -- Index: 1.3
@@ -428,7 +428,7 @@ msgstr ""
 #. -- Group title: combat interrupt by stranger
 #: 12848-Dialogue?(11)?(2).mod:3
 msgid "You'll have to kill me before you can cage me up!"
-msgstr ""
+msgstr "在你把我關起來之前你必須殺了我！"
 
 #. Id: 12848-Dialogue (11) (2).mod
 #. -- Index: 1.4
@@ -507,7 +507,7 @@ msgstr ""
 #. -- Group title: Shek attack
 #: 12848-Dialogue?(11)?(2).mod:4 41723-Dialogue.mod:3 11866-Dialogue?(10).mod:5 11866-Dialogue?(10).mod:7 14738-Dialogue.mod:5 10970-Dialogue?(10).mod:6 8705-Dialogue.mod:5 11999-Dialogue?(10).mod:3 15969-Dialogue.mod:3 44971-Dialogue.mod:0 3624-dialogue-01.mod:3 17599-Dialogue.mod:3 5032-Dialogue.mod:1 15422-Dialogue.mod:0
 msgid "Come at me!"
-msgstr ""
+msgstr "來我這！"
 
 #. Id: 12848-Dialogue (11) (2).mod
 #. -- Index: 1.5
@@ -521,7 +521,7 @@ msgstr ""
 #. -- Group title: Thug3
 #: 12848-Dialogue?(11)?(2).mod:5 44971-Dialogue.mod:1
 msgid "Just try me!"
-msgstr ""
+msgstr "試試吧！"
 
 #. Id: 12849-Dialogue (11) (2).mod
 #. -- Index: 0.0
@@ -606,4 +606,3 @@ msgstr ""
 #: 12870-Dialogue?(11)?(2).mod:3
 msgid "/ANIMALTYPE/s! Someone, give me a hand!"
 msgstr ""
-

@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:0
 msgid "Better put them down if you wanna live!"
-msgstr ""
+msgstr "如果你想活下去，最好放下它們！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.2
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:2
 msgid "Drop 'em or die!"
-msgstr ""
+msgstr "放棄他們或死！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.3
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:3
 msgid "Drop 'em!"
-msgstr ""
+msgstr "放下他們！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.4
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:4
 msgid "You wanna take them, you gotta get through me first!"
-msgstr ""
+msgstr "你想帶他們，你必須先通過我！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.5
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:5
 msgid "Not gonna let you take 'em away!"
-msgstr ""
+msgstr "不會讓你帶走他們！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.6
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:6
 msgid "You ain't taking my friend away!"
-msgstr ""
+msgstr "你沒有帶走我的朋友！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.7
@@ -94,7 +94,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 52362-Dialogue.mod:7 47412-Dialogue.mod:0 57696-Dialogue.mod:1 8487-Dialogue.mod:4 17505-Dialogue.mod:1
 msgid "Kch!"
-msgstr ""
+msgstr "KCH！"
 
 #. Id: 52362-Dialogue.mod
 #. -- Index: 0.8
@@ -103,7 +103,7 @@ msgstr ""
 #. -- Group title: TOUGH kidnapping
 #: 52362-Dialogue.mod:8
 msgid "Kidnapping my pal? Not on my watch!"
-msgstr ""
+msgstr "綁架我的朋友？不在我的手錶上！"
 
 #. Id: 52374-Dialogue.mod
 #. -- Index: 0.0
@@ -143,5 +143,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: SQUAD_SIZE>3, Tag: -1
 #: 52374-Dialogue.mod:3
 msgid "We gotta get 'em back! Don't let the kidnapper escape!"
-msgstr ""
-
+msgstr "我們得回去了！不要讓綁架者逃脫！"

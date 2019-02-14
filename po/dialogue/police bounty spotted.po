@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: police bounty spotted
 #: 12593-gamedata.base:0
 msgid "I recognise you!"
-msgstr ""
+msgstr "我認出你了！"
 
 #. Id: 12593-gamedata.base
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: police bounty spotted
 #: 12593-gamedata.base:1
 msgid "A bounty!"
-msgstr ""
+msgstr "賞金！"
 
 #. Id: 12593-gamedata.base
 #. -- Index: 0.2
@@ -80,7 +80,7 @@ msgstr ""
 #. -- Group title: police see crime
 #: 12593-gamedata.base:2 15557-Dialogue.mod:3 5242-gamedata.base:0 13644-Escapes.mod:1 15155-Dialogue.mod:3 42019-Dialogue.mod:1 54002-Dialogue.mod:3 12583-gamedata.base:5
 msgid "Halt!"
-msgstr ""
+msgstr "停！"
 
 #. Id: 12593-gamedata.base
 #. -- Index: 0.4
@@ -95,5 +95,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
 #: 12593-gamedata.base:4 5242-gamedata.base:5
 msgid "Stop right there!"
-msgstr ""
-
+msgstr "停在那兒！"

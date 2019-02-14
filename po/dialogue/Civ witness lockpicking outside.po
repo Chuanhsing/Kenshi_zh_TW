@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 44503-Dialogue.mod:1
 msgid "I didn't see anything!"
-msgstr ""
+msgstr "我什麼都沒看到！"
 
 #. Id: 44503-Dialogue.mod
 #. -- Index: 1.2
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 44503-Dialogue.mod:2
 msgid "I saw nothing!"
-msgstr ""
+msgstr "我什麼也沒看見！"
 
 #. Id: 44503-Dialogue.mod
 #. -- Index: 1.3
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 44503-Dialogue.mod:3
 msgid "I didn't see nothing!"
-msgstr ""
+msgstr "我什麼都沒看到！"
 
 #. Id: 44506-Dialogue.mod
 #. -- Index: 1.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 44506-Dialogue.mod:0 13857-Escapes.mod:1
 msgid "I'm not getting involved in this..."
-msgstr ""
+msgstr "我沒參與這個......"
 
 #. Id: 44506-Dialogue.mod
 #. -- Index: 1.1
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 44506-Dialogue.mod:1 41456-Dialogue.mod:1
 msgid "Screw this..."
-msgstr ""
+msgstr "擰這個......"
 
 #. Id: 44506-Dialogue.mod
 #. -- Index: 1.2
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: Civ witness lockpicking outside
 #: 44506-Dialogue.mod:2
 msgid "Nope... not getting involved"
-msgstr ""
+msgstr "不......沒參與其中"
 
 #. Id: 44508-Dialogue.mod
 #. -- Index: 0.5
@@ -95,5 +95,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 44508-Dialogue.mod:5
 msgid "You sneak!"
-msgstr ""
-
+msgstr "你潛行！"

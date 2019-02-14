@@ -26,7 +26,7 @@ msgstr ""
 #. -- Group title: Civilian kidnapping reaction
 #: 52318-Dialogue.mod:0 52330-Dialogue.mod:3
 msgid "Help! Kidnapping!"
-msgstr ""
+msgstr "救命！綁架！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.1
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Group title: Civilian kidnapping reaction
 #: 52318-Dialogue.mod:1 52330-Dialogue.mod:4
 msgid "Abduction! Help!"
-msgstr ""
+msgstr "綁架！救命！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.2
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 52318-Dialogue.mod:3
 msgid "What are you doing with them?! Help!"
-msgstr ""
+msgstr "你在跟他們做什麼？！救命！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.4
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 52318-Dialogue.mod:4
 msgid "Where are you taking them?! Somebody help!"
-msgstr ""
+msgstr "你帶他們去哪兒了？！有人幫忙！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.5
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Group title: Civilian kidnapping reaction
 #: 52318-Dialogue.mod:5 52330-Dialogue.mod:0
 msgid "Kidnapping! Kidnapping!"
-msgstr ""
+msgstr "綁架！綁架！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.6
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 52318-Dialogue.mod:6
 msgid "Help! Over here! Abduction!"
-msgstr ""
+msgstr "救命！在這裡！綁架！"
 
 #. Id: 52318-Dialogue.mod
 #. -- Index: 0.7
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_A_TRADER=0, Tag: -1
 #: 52318-Dialogue.mod:7
 msgid "Kidnap! Someone, help us!"
-msgstr ""
+msgstr "綁架！有人，幫助我們！"
 
 #. Id: 52330-Dialogue.mod
 #. -- Index: 0.1
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Group title: Civilian kidnapping reaction
 #: 52330-Dialogue.mod:1
 msgid "Where are you taking them?! "
-msgstr ""
+msgstr "你帶他們去哪兒了？！"
 
 #. Id: 52330-Dialogue.mod
 #. -- Index: 0.2
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: Civilian kidnapping reaction
 #: 52330-Dialogue.mod:2
 msgid "What are you doing with them?! "
-msgstr ""
+msgstr "你在跟他們做什麼？！"
 
 #. Id: 52330-Dialogue.mod
 #. -- Index: 0.5
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Group title: Kidnapping hive worker
 #: 52330-Dialogue.mod:5 52366-Dialogue.mod:0 52346-Dialogue.mod:0
 msgid "Kidnapping!"
-msgstr ""
+msgstr "綁架！"
 
 #. Id: 52321-Dialogue.mod
 #. -- Index: 1.0
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Group title: Military spots animals
 #: 52321-Dialogue.mod:0 47740-Dialogue.mod:2 45456-Dialogue.mod:0 15732-Dialogue.mod:1 15710-Dialogue.mod:3
 msgid "I need help!"
-msgstr ""
+msgstr "我需要幫助！"
 
 #. Id: 52325-Dialogue.mod
 #. -- Index: 1.0
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 52325-Dialogue.mod:0
 msgid "I can't let you take them!"
-msgstr ""
+msgstr "我不能讓你拿走它們！"
 
 #. Id: 52325-Dialogue.mod
 #. -- Index: 1.1
@@ -210,7 +210,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 52325-Dialogue.mod:1
 msgid "You won't take them!"
-msgstr ""
+msgstr "你不會帶他們的！"
 
 #. Id: 52325-Dialogue.mod
 #. -- Index: 1.2
@@ -220,5 +220,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 52325-Dialogue.mod:2
 msgid "You want them, you've got to kill me first!"
-msgstr ""
-
+msgstr "你想要他們，你必須先殺了我！"

@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41687-Dialogue.mod:0
 msgid "You fell once for me. You'll fall again."
-msgstr ""
+msgstr "你曾經為我摔倒過一次。你會再次跌倒。"
 
 #. Id: 41687-Dialogue.mod
 #. -- Index: 0.1
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41687-Dialogue.mod:1
 msgid "Back for another thrashing?"
-msgstr ""
+msgstr "回到另一個捶打？"
 
 #. Id: 41687-Dialogue.mod
 #. -- Index: 0.2
@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41687-Dialogue.mod:2
 msgid "Back for another round?"
-msgstr ""
+msgstr "回到另一輪？"
 
 #. Id: 41687-Dialogue.mod
 #. -- Index: 0.3
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41687-Dialogue.mod:3
 msgid "Returning for another defeat? This one's got spine."
-msgstr ""
+msgstr "再次失敗？這個人有脊椎。"
 
 #. Id: 41687-Dialogue.mod
 #. -- Index: 0.4
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41687-Dialogue.mod:4
 msgid "I cut you down once. I'll cut you down again."
-msgstr ""
+msgstr "我把你砍了一次。我會再次打倒你。"
 
 #. Id: 41702-Dialogue.mod
 #. -- Index: 1.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41702-Dialogue.mod:0
 msgid "Fight me like a true warrior! Bleed!"
-msgstr ""
+msgstr "像一個真正的戰士一樣戰鬥我！流血！"
 
 #. Id: 41702-Dialogue.mod
 #. -- Index: 1.1
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41702-Dialogue.mod:1
 msgid "Come fight me! My sword hungers for another victory!"
-msgstr ""
+msgstr "快來打我！我的劍渴望另一場胜利！"
 
 #. Id: 41702-Dialogue.mod
 #. -- Index: 1.2
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41702-Dialogue.mod:2
 msgid "Fight me again! Reclaim your lost honour!"
-msgstr ""
+msgstr "再次打擊我！收回你失去的榮譽！"
 
 #. Id: 41711-Dialogue.mod
 #. -- Index: 1.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41708-Dialogue.mod:0
 msgid "The warrior returns!"
-msgstr ""
+msgstr "戰士回來了！"
 
 #. Id: 41708-Dialogue.mod
 #. -- Index: 0.1
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41708-Dialogue.mod:1
 msgid "We meet again, warrior"
-msgstr ""
+msgstr "我們再見面，戰士"
 
 #. Id: 41708-Dialogue.mod
 #. -- Index: 0.2
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 41708-Dialogue.mod:2
 msgid "My rival returns!"
-msgstr ""
+msgstr "我的競爭對手回歸！"
 
 #. Id: 41689-Dialogue.mod
 #. -- Index: 1.0
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41689-Dialogue.mod:3
 msgid "To live through defeat is the greatest of dishonours for a Shek Warrior..."
-msgstr ""
+msgstr "對於一個石戰士而言，經歷失敗是最大的恥辱......"
 
 #. Id: 41703-Dialogue.mod
 #. -- Index: 2.0
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41703-Dialogue.mod:0
 msgid "Fight me again! Today I reclaim my lost honour."
-msgstr ""
+msgstr "再次打擊我！今天我收回了失去的榮譽。"
 
 #. Id: 41703-Dialogue.mod
 #. -- Index: 2.1
@@ -195,7 +195,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41703-Dialogue.mod:1
 msgid "Fight me again! Today I reclaim my stolen glory."
-msgstr ""
+msgstr "再次打擊我！今天我收回了被盜的榮耀。"
 
 #. Id: 41703-Dialogue.mod
 #. -- Index: 2.2
@@ -205,7 +205,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41703-Dialogue.mod:2
 msgid "Honour before death! Bring me a good battle... and this time finish it properly."
-msgstr ""
+msgstr "死前榮譽！給我帶來一場精彩的戰鬥......這次正確地完成它。"
 
 #. Id: 41703-Dialogue.mod
 #. -- Index: 2.3
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41703-Dialogue.mod:3
 msgid "Raise your sword and fight me again! Today is a good day to die!"
-msgstr ""
+msgstr "舉起劍再次打我！今天是美好的一天！"
 
 #. Id: 41710-Dialogue.mod
 #. -- Index: 2.0
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41710-Dialogue.mod:0
 msgid "This time, at least one of us dies."
-msgstr ""
+msgstr "這一次，至少有一個人死了。"
 
 #. Id: 41710-Dialogue.mod
 #. -- Index: 2.1
@@ -235,7 +235,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41710-Dialogue.mod:1
 msgid "This time only one of us survives."
-msgstr ""
+msgstr "這一次，我們只有一個人倖免於難。"
 
 #. Id: 41710-Dialogue.mod
 #. -- Index: 2.2
@@ -245,7 +245,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41710-Dialogue.mod:2
 msgid "No more games! This time, only the victor survives."
-msgstr ""
+msgstr "沒有比賽了！這一次，只有勝利者倖存。"
 
 #. Id: 41710-Dialogue.mod
 #. -- Index: 2.3
@@ -255,7 +255,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41710-Dialogue.mod:3
 msgid "No more games! This time, we find death."
-msgstr ""
+msgstr "沒有比賽了！這一次，我們發現了死亡。"
 
 #. Id: 41712-Dialogue.mod
 #. -- Index: 0.0
@@ -265,7 +265,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41712-Dialogue.mod:0
 msgid "You, warrior..."
-msgstr ""
+msgstr "你，戰士......"
 
 #. Id: 41712-Dialogue.mod
 #. -- Index: 0.1
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: KILLED_MY_FRIEND
 #: 41712-Dialogue.mod:1
 msgid "Warrior..."
-msgstr ""
+msgstr "戰士..."
 
 #. Id: 41714-Dialogue.mod
 #. -- Index: 1.0
@@ -285,7 +285,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41714-Dialogue.mod:0
 msgid "I've come to avenge my brethren's defeat..."
-msgstr ""
+msgstr "我來為我的弟兄們的失敗報仇......"
 
 #. Id: 41714-Dialogue.mod
 #. -- Index: 1.1
@@ -305,7 +305,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41714-Dialogue.mod:2
 msgid "My kin's death will not be in vain. They will be avenged."
-msgstr ""
+msgstr "我的親死不會白費。他們將報仇。"
 
 #. Id: 41714-Dialogue.mod
 #. -- Index: 1.3
@@ -315,7 +315,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: TRAITOROUS
 #: 41714-Dialogue.mod:3
 msgid "My kin fell to your sword... But I'll reclaim their lost honour for them."
-msgstr ""
+msgstr "我的親戚落到你的劍上......但我會為他們奪回他們失去的榮譽。"
 
 #. Id: 41715-Dialogue.mod
 #. -- Index: 2.0
@@ -324,7 +324,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41715-Dialogue.mod:0
 msgid "So, fight me warrior! I live for the challenge!"
-msgstr ""
+msgstr "所以，打我戰士！我為挑戰而活！"
 
 #. Id: 41715-Dialogue.mod
 #. -- Index: 2.1
@@ -333,7 +333,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41715-Dialogue.mod:1
 msgid "So, come at me warrior! Let's see how you do against ME!"
-msgstr ""
+msgstr "那麼，來找我戰士吧！讓我們看看你如何反對我！"
 
 #. Id: 41715-Dialogue.mod
 #. -- Index: 2.2
@@ -342,7 +342,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41715-Dialogue.mod:2
 msgid "So, come fight me warrior! Only one of us will come out of this alive!"
-msgstr ""
+msgstr "所以，來打我戰士吧！只有我們中的一個人會活著出來！"
 
 #. Id: 41722-Dialogue.mod
 #. -- Index: 1.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41722-Dialogue.mod:0
 msgid "You defeated my kin... but can you defeat me?"
-msgstr ""
+msgstr "你打敗了我的親人...但你能打敗我嗎？"
 
 #. Id: 41722-Dialogue.mod
 #. -- Index: 1.1
@@ -362,7 +362,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41722-Dialogue.mod:1
 msgid "You slayed my kin... but can you defeat me?"
-msgstr ""
+msgstr "你殺了我的親戚......但是你能打敗我嗎？"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.0
@@ -371,7 +371,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41723-Dialogue.mod:0
 msgid "Let's see how you do!"
-msgstr ""
+msgstr "我們來看看你是怎麼做的！"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.1
@@ -380,7 +380,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41723-Dialogue.mod:1
 msgid "Raise your sword and fight me!"
-msgstr ""
+msgstr "舉起劍來打我！"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.2
@@ -389,7 +389,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41723-Dialogue.mod:2
 msgid "Try me."
-msgstr ""
+msgstr "試試我"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.4
@@ -420,7 +420,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 41723-Dialogue.mod:4 59676-Dialogue.mod:4 99658-Dialogue.mod:2 99659-Dialogue.mod:5 17599-Dialogue.mod:10
 msgid "Today is a good day to die!"
-msgstr ""
+msgstr "今天是美好的一天！"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.5
@@ -441,7 +441,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 41723-Dialogue.mod:5 14719-Dialogue.mod:5 10968-Dialogue?(10).mod:4
 msgid "Only the weak fear death"
-msgstr ""
+msgstr "只有弱者恐懼死亡"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.6
@@ -462,7 +462,7 @@ msgstr ""
 #. -- Group title: Berserker tracks down player assault
 #: 41723-Dialogue.mod:6 14726-Dialogue.mod:3 61405-Dialogue.mod:3
 msgid "Bring me a good battle!"
-msgstr ""
+msgstr "帶給我一場好戰！"
 
 #. Id: 41723-Dialogue.mod
 #. -- Index: 2.7
@@ -471,7 +471,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41723-Dialogue.mod:7
 msgid "Honour before death!"
-msgstr ""
+msgstr "死前榮譽！"
 
 #. Id: 41716-Dialogue.mod
 #. -- Index: 0.0
@@ -482,7 +482,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41716-Dialogue.mod:0
 msgid "You again? I already defeated you..."
-msgstr ""
+msgstr "又是你？我已經打敗了你......"
 
 #. Id: 41716-Dialogue.mod
 #. -- Index: 0.1
@@ -493,7 +493,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41716-Dialogue.mod:1
 msgid "You? I already took care of you..."
-msgstr ""
+msgstr "您？我已經照顧好你了......"
 
 #. Id: 41716-Dialogue.mod
 #. -- Index: 0.2
@@ -504,7 +504,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 41716-Dialogue.mod:2
 msgid "Tch, you again? Still alive after I thrashed you last time?"
-msgstr ""
+msgstr "Tch，你呢？我上次捶打你後還活著嗎？"
 
 #. Id: 41718-Dialogue.mod
 #. -- Index: 1.0
@@ -513,7 +513,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41718-Dialogue.mod:0
 msgid "Hmph. This is no challenge."
-msgstr ""
+msgstr "哼。這不是挑戰。"
 
 #. Id: 41718-Dialogue.mod
 #. -- Index: 1.1
@@ -522,7 +522,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41718-Dialogue.mod:1
 msgid "Mmh! Too easy..."
-msgstr ""
+msgstr "Mmh的！太容易了..."
 
 #. Id: 41719-Dialogue.mod
 #. -- Index: 1.0
@@ -531,7 +531,7 @@ msgstr ""
 #. -- Group title: Hundred guardians spots tagged enemy
 #: 41719-Dialogue.mod:0
 msgid "You're not worthy to be my rival...."
-msgstr ""
+msgstr "你不值得成為我的對手......"
 
 #. Id: 41719-Dialogue.mod
 #. -- Index: 1.1
@@ -541,4 +541,3 @@ msgstr ""
 #: 41719-Dialogue.mod:1
 msgid "Such a /PALTRY/ opponent... this is no fun."
 msgstr ""
-

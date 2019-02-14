@@ -33,7 +33,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 2
 #: 98181-Dialogue.mod:0 98182-Dialogue.mod:0 98183-Dialogue.mod:0 98082-Dialogue.mod:0
 msgid "Thank you, friend..."
-msgstr ""
+msgstr "謝謝你，朋友..."
 
 #. Id: 98198-Dialogue.mod
 #. -- Index: 3.0
@@ -43,7 +43,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
 #: 98198-Dialogue.mod:0
 msgid "Where are we going now?"
-msgstr ""
+msgstr "我們現在要去哪兒？"
 
 #. Id: 98198-Dialogue.mod
 #. -- Index: 3.1
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=0, Tag: -1
 #: 98198-Dialogue.mod:1
 msgid "Where are we going?"
-msgstr ""
+msgstr "我們去哪？"
 
 #. Id: 98200-Dialogue.mod
 #. -- Index: 3.0
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 3 ally
 #: 98200-Dialogue.mod:0
 msgid "I'll just hang around here a bit..."
-msgstr ""
+msgstr "我會在這裡閒逛......"
 
 #. Id: 98200-Dialogue.mod
 #. -- Index: 3.1
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 3 ally
 #: 98200-Dialogue.mod:1
 msgid "I'll make myself comfortable..."
-msgstr ""
+msgstr "我會讓自己舒服......"
 
 #. Id: 98200-Dialogue.mod
 #. -- Index: 3.2
@@ -80,7 +80,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 3 ally
 #: 98200-Dialogue.mod:2
 msgid "This place is starting to look nice and cosy..."
-msgstr ""
+msgstr "這個地方開始看起來很舒適......"
 
 #. Id: 98172-Dialogue.mod
 #. -- Index: 1.0
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>500, Tag: -1
 #: 98172-Dialogue.mod:0
 msgid "Take this..."
-msgstr ""
+msgstr "拿著這個..."
 
 #. Id: 98173-Dialogue.mod
 #. -- Index: 1.0
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
 #: 98173-Dialogue.mod:0
 msgid "This is all I have..."
-msgstr ""
+msgstr "這就是我所擁有的......"
 
 #. Id: 98174-Dialogue.mod
 #. -- Index: 1.0
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 3 ally
 #: 98174-Dialogue.mod:0
 msgid "I can't help you right now..."
-msgstr ""
+msgstr "我現在無法幫助你......"
 
 #. Id: 98184-Dialogue.mod
 #. -- Index: 2.0
@@ -118,5 +118,4 @@ msgstr ""
 #. -- Group title: Starver interrupt 3 ally
 #: 98184-Dialogue.mod:0
 msgid "So hungry..."
-msgstr ""
-
+msgstr "好餓......"

@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Vault guard
 #: 63508-Dialogue.mod:0
 msgid "This is a high security zone, leave immediately."
-msgstr ""
+msgstr "這是一個高安全區，立即離開。"
 
 #. Id: 63508-Dialogue.mod
 #. -- Index: 1.1
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Group title: Vault guard
 #: 63508-Dialogue.mod:1
 msgid "This is a United Cities military zone, leave now. "
-msgstr ""
+msgstr "這是一個聯合城市軍事區，現在離開。"
 
 #. Id: 63509-Dialogue.mod
 #. -- Index: 2.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Vault guard
 #: 63509-Dialogue.mod:0
 msgid "There will be no other warning."
-msgstr ""
+msgstr "沒有其他警告。"
 
 #. Id: 63511-Dialogue.mod
 #. -- Index: 0.1
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 63511-Dialogue.mod:1
 msgid "BREACH!"
-msgstr ""
+msgstr "違反！"
 
 #. Id: 63513-Dialogue.mod
 #. -- Index: 1.0
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Empire assault on enemy player
 #: 63513-Dialogue.mod:0 60690-Dialogue.mod:0
 msgid "Attack to kill!"
-msgstr ""
+msgstr "攻擊殺！"
 
 #. Id: 63513-Dialogue.mod
 #. -- Index: 1.1
@@ -81,5 +81,4 @@ msgstr ""
 #. -- Group title: Vault guard
 #: 63513-Dialogue.mod:1
 msgid "Lock down the Vault!"
-msgstr ""
-
+msgstr "鎖定保險櫃！"

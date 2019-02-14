@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
 #: 15937-Dialogue.mod:3
 msgid "You thieving shit! I'll cut your hands off!"
-msgstr ""
+msgstr "你偷了屎！我會砍你的手！"
 
 #. Id: 15937-Dialogue.mod
 #. -- Index: 0.4
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
 #: 15937-Dialogue.mod:4 3434-dialogue-01.mod:1
 msgid "You! You'll pay for that in blood!"
-msgstr ""
+msgstr "您！你會用鮮血付出代價！"
 
 #. Id: 15937-Dialogue.mod
 #. -- Index: 0.5
@@ -93,7 +93,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IM_UNARMED=0, Tag: -1
 #: 15937-Dialogue.mod:5 3434-dialogue-01.mod:2
 msgid "Stealing from me?! I don't fucking think so!"
-msgstr ""
+msgstr "偷我？？我他媽的不這麼認真！"
 
 #. Id: 15940-Dialogue.mod
 #. -- Index: 0.0
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 15940-Dialogue.mod:0 3437-dialogue-01.mod:0
 msgid "Put that down and get out of here!"
-msgstr ""
+msgstr "把它放下來離開這裡！"
 
 #. Id: 15940-Dialogue.mod
 #. -- Index: 0.1
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 15940-Dialogue.mod:1 3437-dialogue-01.mod:1
 msgid "Steal from me and you'll regret it!"
-msgstr ""
+msgstr "偷我，你會後悔的！"
 
 #. Id: 15940-Dialogue.mod
 #. -- Index: 0.2
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 15940-Dialogue.mod:2 3437-dialogue-01.mod:2
 msgid "You'd best be paying for that."
-msgstr ""
+msgstr "你最好為此付出代價。"
 
 #. Id: 15940-Dialogue.mod
 #. -- Index: 0.3
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 15940-Dialogue.mod:3 3437-dialogue-01.mod:3
 msgid "Hey! I see what you're doing!"
-msgstr ""
+msgstr "嘿!我明白你在做什麼！"
 
 #. Id: 15940-Dialogue.mod
 #. -- Index: 0.5
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: sees someone stealing from them
 #: 15940-Dialogue.mod:5 3437-dialogue-01.mod:5
 msgid " I'll call the law!"
-msgstr ""
+msgstr " 我會打電話給法律！"
 
 #. Id: 15941-Dialogue.mod
 #. -- Index: 0.2
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Deadcat
 #: 50385-Dialogue.mod:2
 msgid "Somebody, help!"
-msgstr ""
+msgstr "有人幫忙！"
 
 #. Id: 15943-Dialogue.mod
 #. -- Index: 0.4
@@ -228,7 +228,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 15943-Dialogue.mod:4 18149-Dialogue.mod:2 13919-Escapes.mod:4
 msgid "You thief!"
-msgstr ""
+msgstr "你小偷！"
 
 #. Id: 15944-Dialogue.mod
 #. -- Index: 1.2
@@ -239,4 +239,3 @@ msgstr ""
 #: 15944-Dialogue.mod:2
 msgid "/GUARD/s, help!"
 msgstr ""
-

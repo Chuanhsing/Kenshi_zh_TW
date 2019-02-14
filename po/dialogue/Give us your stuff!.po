@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Give us your stuff!
 #: 14462-Dialogue?(4).mod:2
 msgid "Hold up!"
-msgstr ""
+msgstr "耽誤！"
 
 #. Id: 7284-Dialogue.mod
 #. -- Index: 1.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Give us your stuff!
 #: 7284-Dialogue.mod:2
 msgid "Give us all your food!"
-msgstr ""
+msgstr "給我們所有的食物！"
 
 #. Id: 7284-Dialogue.mod
 #. -- Index: 1.3
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 14548-Dialogue?(4).mod:0
 msgid "Keep running from me an' you're in for a world of hurt!"
-msgstr ""
+msgstr "繼續向我跑去'你是為了一個受傷的世界！"
 
 #. Id: 14552-Dialogue (4).mod
 #. -- Index: 3.2
@@ -121,7 +121,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7287-Dialogue.mod:1
 msgid "Gimme all yer shiny stuff!"
-msgstr ""
+msgstr "給我所有閃亮的東西！"
 
 #. Id: 7287-Dialogue.mod
 #. -- Index: 1.2
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7287-Dialogue.mod:2
 msgid "I want food! I want it now!"
-msgstr ""
+msgstr "我要食物！我現在就想要！"
 
 #. Id: 7287-Dialogue.mod
 #. -- Index: 1.3
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7287-Dialogue.mod:3
 msgid "I want shiny things! Gimme all yer gear!"
-msgstr ""
+msgstr "我想要閃亮的東西！給我所有的裝備！"
 
 #. Id: 7289-Dialogue.mod
 #. -- Index: 1.0
@@ -151,7 +151,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7289-Dialogue.mod:0
 msgid "Give us all your stuff! Quit hoggin' all that food!"
-msgstr ""
+msgstr "給我們你所有的東西！退出'所有的食物！"
 
 #. Id: 7289-Dialogue.mod
 #. -- Index: 1.1
@@ -171,7 +171,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7289-Dialogue.mod:2
 msgid "Gimme all your food! Now!"
-msgstr ""
+msgstr "給我所有的食物！現在！"
 
 #. Id: 7291-Dialogue.mod
 #. -- Index: 1.0
@@ -192,4 +192,3 @@ msgstr ""
 #: 7291-Dialogue.mod:1
 msgid "Hand over all your gear! I swear I'll /THREAT_ACTION/ your face otherwise!"
 msgstr ""
-

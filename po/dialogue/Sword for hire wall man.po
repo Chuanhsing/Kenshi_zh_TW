@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41350-Dialogue.mod:0
 msgid "You look like someone who can appreciate a good wall."
-msgstr ""
+msgstr "你看起來像是一個能欣賞到好牆的人。"
 
 #. Id: 41351-Dialogue.mod
 #. -- Index: 1.0
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41351-Dialogue.mod:0
 msgid "A wall? They're alright I guess."
-msgstr ""
+msgstr "一堵牆？我猜他們沒問題。"
 
 #. Id: 41352-Dialogue.mod
 #. -- Index: 2.0
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41352-Dialogue.mod:0
 msgid "I can't stop thinking about them, they're everywhere! Town walls, building walls, walls in chests, walls of rock, walls behind walls, sheild walls, cell walls, invisible walls, walls between people, walls around our hearts, walls between my spouse and I, walls! Walls are everywhere!"
-msgstr ""
+msgstr "我無法停止思考它們，它們無處不在！城牆，建築牆壁，牆壁，牆壁，牆壁後面牆壁，牆壁，細胞牆，隱形牆壁，人與人之間的牆壁，心臟周圍的牆壁，配偶與我之間的牆壁，牆壁！牆到處都是！"
 
 #. Id: 41353-Dialogue.mod
 #. -- Index: 3.0
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41353-Dialogue.mod:0
 msgid "This might be a stretch but...Can you build walls for me?"
-msgstr ""
+msgstr "這可能是一段時間，但是......你能為我建造一堵牆嗎？"
 
 #. Id: 41354-Dialogue.mod
 #. -- Index: 4.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41354-Dialogue.mod:0
 msgid "Can I!? I'll build, toil, labor all day for the sake of making more walls. I don't mind and I'm good at it too! All I need is a 5000 Cat advance. After all, my service is behind a pay wall."
-msgstr ""
+msgstr "我可以嗎！？為了製造更多的牆壁，我會整天勞動，勞動。我不介意，我也很擅長！我所需要的只是5000 Cat前進。畢竟，我的服務是支付牆。"
 
 #. Id: 41355-Dialogue.mod
 #. -- Index: 5.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
 #: 41355-Dialogue.mod:0
 msgid "Alright, here's the dough. Let's get you to building walls."
-msgstr ""
+msgstr "好吧，這是麵團。讓我們來建築牆。"
 
 #. Id: 41356-Dialogue.mod
 #. -- Index: 5.0
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41356-Dialogue.mod:0
 msgid "Wait what am I thinking? You're crazy! Get out of here!"
-msgstr ""
+msgstr "等等我在想什麼？你瘋了！離開這裡！"
 
 #. Id: 41357-Dialogue.mod
 #. -- Index: 5.0
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
 #: 41357-Dialogue.mod:0
 msgid "I can't...my funds are all walled off..."
-msgstr ""
+msgstr "我不能......我的資金都被圍了......"
 
 #. Id: 41359-Dialogue.mod
 #. -- Index: 6.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41359-Dialogue.mod:0
 msgid "...Break...walls...? I don't...I don't even..."
-msgstr ""
+msgstr "... ...破牆壁......？我不...我甚至不......"
 
 #. Id: 41360-Dialogue.mod
 #. -- Index: 3.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41360-Dialogue.mod:0
 msgid "Uhuh... So, you're an engineer I take it?"
-msgstr ""
+msgstr "呃...那麼，你是我的工程師嗎？"
 
 #. Id: 41361-Dialogue.mod
 #. -- Index: 4.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41361-Dialogue.mod:0
 msgid "I am! And you can hire me for just 5000 Cat advance. After all, my service is behind a pay wall."
-msgstr ""
+msgstr "我是！而你可以僱用我只需5000 Cat前進。畢竟，我的服務是支付牆。"
 
 #. Id: 41363-Dialogue.mod
 #. -- Index: 1.0
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41363-Dialogue.mod:0
 msgid "You're talkin' walls? Love 'em!"
-msgstr ""
+msgstr "你在說牆嗎？愛他們！"
 
 #. Id: 41364-Dialogue.mod
 #. -- Index: 1.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41364-Dialogue.mod:0
 msgid "Walls blow. I'm out of here."
-msgstr ""
+msgstr "牆壁吹。我離開了。"
 
 #. Id: 41365-Dialogue.mod
 #. -- Index: 2.0
@@ -137,5 +137,4 @@ msgstr ""
 #. -- Group title: Sword for hire wall man
 #: 41365-Dialogue.mod:0
 msgid "Oh. Bye."
-msgstr ""
-
+msgstr "哦。再見。"

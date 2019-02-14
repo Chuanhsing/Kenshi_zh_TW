@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:0
 msgid "Well, well, looks like we got us a bounty in town!"
-msgstr ""
+msgstr "嗯，好吧，看起來我們在城裡給了我們賞金！"
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:1
 msgid "I know you... the guards are after you..."
-msgstr ""
+msgstr "我認識你......守衛在追你..."
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.2
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:3
 msgid "I know that face..."
-msgstr ""
+msgstr "我知道那張臉......"
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.4
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:4
 msgid "I know who you are..."
-msgstr ""
+msgstr "我知道你是誰..."
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.5
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:5
 msgid "You know, I've seen your face before... yeah, plastered all 'round the police station..."
-msgstr ""
+msgstr "你知道，我以前見過你的臉......是的，在警察局周圍貼滿了......"
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.6
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:6
 msgid "The police are lookin' for you, ya know..."
-msgstr ""
+msgstr "警察正在尋找你，你知道......"
 
 #. Id: 44286-Dialogue.mod
 #. -- Index: 0.7
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): The Holy Nation or United Cities
 #: 44286-Dialogue.mod:7
 msgid "There's a reward on your head, ya know... the police are after you."
-msgstr ""
+msgstr "你的頭上有獎勵，你知道......警察在追你。"
 
 #. Id: 44326-Dialogue.mod
 #. -- Index: 1.0
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Group title: Thug spots bounty
 #: 44326-Dialogue.mod:0
 msgid "I think we need to have ourselves a chat..."
-msgstr ""
+msgstr "我想我們需要自己聊聊......"
 
 #. Id: 44326-Dialogue.mod
 #. -- Index: 1.1
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Group title: Thug spots bounty
 #: 44326-Dialogue.mod:2
 msgid "Why don't we have a 'lil chat, eh?..."
-msgstr ""
+msgstr "為什麼我們沒有'聊天，呃？..."
 
 #. Id: 44326-Dialogue.mod
 #. -- Index: 1.3
@@ -125,7 +125,7 @@ msgstr ""
 #. -- Group title: Thug spots bounty
 #: 44326-Dialogue.mod:3
 msgid "Maybe we can come to an agreement... and I won't tell."
-msgstr ""
+msgstr "也許我們可以達成協議......我不會告訴你。"
 
 #. Id: 44404-Dialogue.mod
 #. -- Index: 3.0
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 44404-Dialogue.mod:0
 msgid "I'll tell the guards! I swear, I'll tell 'em!"
-msgstr ""
+msgstr "我會告訴警衛！我發誓，我會告訴他們！"
 
 #. Id: 44407-Dialogue.mod
 #. -- Index: 4.0
@@ -145,5 +145,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=1, Tag: -1
 #: 44407-Dialogue.mod:0
 msgid "BOUNTY!... GUARDS! "
-msgstr ""
-
+msgstr "BOUNTY！......守衛！"

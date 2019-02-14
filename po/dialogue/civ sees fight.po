@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:2
 msgid "Damn it, you're gonna get blood everywhere!"
-msgstr ""
+msgstr "該死的，你到處都會流血！"
 
 #. Id: 4763-D-dialogue-02.mod
 #. -- Index: 0.3
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:3
 msgid "Oh come on!"
-msgstr ""
+msgstr "哦加油！"
 
 #. Id: 4763-D-dialogue-02.mod
 #. -- Index: 0.4
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:4
 msgid "I just finished scrubbing the floor!"
-msgstr ""
+msgstr "我剛洗完地板！"
 
 #. Id: 4763-D-dialogue-02.mod
 #. -- Index: 0.5
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:5
 msgid "Out! All of you!"
-msgstr ""
+msgstr "出來了！大家好！"
 
 #. Id: 4763-D-dialogue-02.mod
 #. -- Index: 0.6
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:6
 msgid "Outside! Outside, I said!"
-msgstr ""
+msgstr "外！外面，我說！"
 
 #. Id: 4763-D-dialogue-02.mod
 #. -- Index: 0.7
@@ -97,7 +97,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 4763-D-dialogue-02.mod:7
 msgid "Not here, dammit!"
-msgstr ""
+msgstr "不在這裡，該死！"
 
 #. Id: 4767-D-dialogue-02.mod
 #. -- Index: 1.0
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
 #: 4767-D-dialogue-02.mod:0
 msgid "What'd you say?!"
-msgstr ""
+msgstr "你說什麼？！"
 
 #. Id: 4767-D-dialogue-02.mod
 #. -- Index: 1.1
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
 #: 4767-D-dialogue-02.mod:1
 msgid "You say something?!"
-msgstr ""
+msgstr "你說了什麼？！"
 
 #. Id: 4767-D-dialogue-02.mod
 #. -- Index: 1.2
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=1, Tag: -1
 #: 4767-D-dialogue-02.mod:2
 msgid "Little busy here!"
-msgstr ""
+msgstr "這裡有點忙！"
 
 #. Id: 4769-D-dialogue-02.mod
 #. -- Index: 2.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: civ sees fight
 #: 4769-D-dialogue-02.mod:0
 msgid "Forget it."
-msgstr ""
+msgstr "算了吧。"
 
 #. Id: 4769-D-dialogue-02.mod
 #. -- Index: 2.1
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 4769-D-dialogue-02.mod:1 49645-Dialogue.mod:0 1380-gamedata.base:0 1533043-Dialogue.mod:0 59333-Dialogue.mod:0
 msgid "Nothing."
-msgstr ""
+msgstr "沒有。"
 
 #. Id: 4769-D-dialogue-02.mod
 #. -- Index: 2.2
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Group title: civ sees fight
 #: 4769-D-dialogue-02.mod:2
 msgid "Never mind."
-msgstr ""
+msgstr "沒關係。"
 
 #. Id: 4770-D-dialogue-02.mod
 #. -- Index: 3.0
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Group title: Forbidden/ drug check holy nation part 2
 #: 4770-D-dialogue-02.mod:0 96046-Dialogue.mod:0 52802-Dialogue.mod:0
 msgid "Carry on."
-msgstr ""
+msgstr "繼續。"
 
 #. Id: 4770-D-dialogue-02.mod
 #. -- Index: 3.1
@@ -202,7 +202,7 @@ msgstr ""
 #. -- Group title: civ sees fight
 #: 4770-D-dialogue-02.mod:1
 msgid "Go right ahead."
-msgstr ""
+msgstr "向前走"
 
 #. Id: 4770-D-dialogue-02.mod
 #. -- Index: 3.2
@@ -211,7 +211,7 @@ msgstr ""
 #. -- Group title: civ sees fight
 #: 4770-D-dialogue-02.mod:2
 msgid "Don't mind me."
-msgstr ""
+msgstr "別介意我。"
 
 #. Id: 4774-D-dialogue-02.mod
 #. -- Index: 4.0
@@ -222,7 +222,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
 #: 4774-D-dialogue-02.mod:0
 msgid "You missed a spot."
-msgstr ""
+msgstr "你錯過了一個地方。"
 
 #. Id: 4774-D-dialogue-02.mod
 #. -- Index: 4.1
@@ -233,7 +233,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
 #: 4774-D-dialogue-02.mod:1
 msgid "Still a clean spot over there."
-msgstr ""
+msgstr "那邊還是一個乾淨的地方。"
 
 #. Id: 4774-D-dialogue-02.mod
 #. -- Index: 4.2
@@ -244,7 +244,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: COLD_CRUEL
 #: 4774-D-dialogue-02.mod:2
 msgid "Oh look. A place you haven't spilled blood."
-msgstr ""
+msgstr "哦，看。一個你沒有灑血的地方。"
 
 #. Id: 4772-D-dialogue-02.mod
 #. -- Index: 1.0
@@ -254,7 +254,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=1, Tag: -1
 #: 4772-D-dialogue-02.mod:0
 msgid "And how'd you get in?!"
-msgstr ""
+msgstr "你怎麼進來的？！"
 
 #. Id: 4772-D-dialogue-02.mod
 #. -- Index: 1.1
@@ -264,5 +264,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BUILDING_IS_CLOSED_AND_SECURED=1, Tag: -1
 #: 4772-D-dialogue-02.mod:1
 msgid "What're you doing in here, anyway?!"
-msgstr ""
-
+msgstr "無論如何，你在這做什麼？！"

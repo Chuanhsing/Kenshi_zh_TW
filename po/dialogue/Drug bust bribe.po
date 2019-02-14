@@ -45,7 +45,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
 #: 6698-Dialogue.mod:2
 msgid "Reason for visit?"
-msgstr ""
+msgstr "訪問原因？"
 
 #. Id: 9447-Dialogue.mod
 #. -- Index: 1.0
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9447-Dialogue.mod:0
 msgid "Just passing through."
-msgstr ""
+msgstr "只是經過。"
 
 #. Id: 9447-Dialogue.mod
 #. -- Index: 1.1
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9447-Dialogue.mod:1
 msgid "Just stopping by."
-msgstr ""
+msgstr "只是停下來。"
 
 #. Id: 9447-Dialogue.mod
 #. -- Index: 1.2
@@ -72,7 +72,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9447-Dialogue.mod:2
 msgid "Stocking up on supplies."
-msgstr ""
+msgstr "儲備物資。"
 
 #. Id: 9447-Dialogue.mod
 #. -- Index: 1.3
@@ -81,7 +81,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9447-Dialogue.mod:3
 msgid "Taking a rest stop."
-msgstr ""
+msgstr "休息一下。"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.0
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9448-Dialogue.mod:0
 msgid "All visitors need to be checked for contraband before entry into town. I can't let you past without frisking you"
-msgstr ""
+msgstr "所有訪客在進入城鎮之前都需要檢查違禁品。我不能讓你過去，不要惹你生氣"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.1
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9448-Dialogue.mod:1
 msgid "All entrants need to be examined for prohibited goods before being allowed through. I can't let you through without a search"
-msgstr ""
+msgstr "所有參賽者在被允許通過之前需要接受檢查。沒有搜索，我不能讓你通過"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.2
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9448-Dialogue.mod:2
 msgid "I need to inspect your belongings for illicit goods before I can allow you to enter"
-msgstr ""
+msgstr "在我允許你進入之前，我需要檢查你的隨身物品是否有非法貨物"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.3
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9448-Dialogue.mod:3
 msgid "I'm going to need to do a contraband check before I can let you through. All travellers must be checked"
-msgstr ""
+msgstr "在我能讓你通過之前，我需要做一個違禁品檢查。必須檢查所有旅客"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.4
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9448-Dialogue.mod:4
 msgid "I have to search you for illegal items before I can let you on in"
-msgstr ""
+msgstr "在我允許你進入之前，我必須搜索你的非法物品"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.5
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
 #: 9448-Dialogue.mod:6 52154-Dialogue.mod:1
 msgid "All entrants need to be examined for prohibited goods before being allowed through. I can't let you pass without a search."
-msgstr ""
+msgstr "所有參賽者在被允許通過之前需要接受檢查。沒有搜索，我不能讓你通過。"
 
 #. Id: 9448-Dialogue.mod
 #. -- Index: 2.7
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9451-Dialogue.mod:0
 msgid "I understand, go ahead..."
-msgstr ""
+msgstr "我明白了，繼續......"
 
 #. Id: 9451-Dialogue.mod
 #. -- Index: 3.1
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9451-Dialogue.mod:1
 msgid "Okay, go ahead..."
-msgstr ""
+msgstr "好的，繼續......"
 
 #. Id: 9451-Dialogue.mod
 #. -- Index: 3.2
@@ -221,7 +221,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9451-Dialogue.mod:2
 msgid "I see, go ahead..."
-msgstr ""
+msgstr "我明白了，繼續......"
 
 #. Id: 9451-Dialogue.mod
 #. -- Index: 3.3
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9451-Dialogue.mod:3
 msgid "That's fine, I understand..."
-msgstr ""
+msgstr "那很好，我明白了......"
 
 #. Id: 9454-Dialogue.mod
 #. -- Index: 4.0
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9454-Dialogue.mod:0 52175-Dialogue.mod:0
 msgid "Spread your legs and lift your arms above your head... "
-msgstr ""
+msgstr "伸展雙腿，抬起雙臂高舉頭部......"
 
 #. Id: 9454-Dialogue.mod
 #. -- Index: 4.1
@@ -264,7 +264,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9454-Dialogue.mod:1 52175-Dialogue.mod:1
 msgid "Okay, hold still... "
-msgstr ""
+msgstr "好的，保持不動......"
 
 #. Id: 52195-Dialogue.mod
 #. -- Index: 5.0
@@ -273,7 +273,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52195-Dialogue.mod:0
 msgid "What the-?! Narcotics?! Goddamn smugglers! Trying to sneak this past us?"
-msgstr ""
+msgstr "什麼 - ？！毒品？！該死的走私者！試圖偷偷過去我們？"
 
 #. Id: 52195-Dialogue.mod
 #. -- Index: 5.1
@@ -282,7 +282,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52195-Dialogue.mod:1
 msgid "Huh?! Looks like I found something... Narcotics. So you thought you could smuggle this in, huh?"
-msgstr ""
+msgstr "咦？看起來我發現了一些東西......麻醉品。所以你以為你可以走私這個，對吧？"
 
 #. Id: 9459-Dialogue.mod
 #. -- Index: 6.0
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9459-Dialogue.mod:0
 msgid "No!... It's not mine! I swear I'm innocent!"
-msgstr ""
+msgstr "不！......不是我的！我發誓我是無辜的！"
 
 #. Id: 9481-Dialogue.mod
 #. -- Index: 7.0
@@ -309,7 +309,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9460-Dialogue.mod:0
 msgid "Wait, I can explain... This isn't how it looks..."
-msgstr ""
+msgstr "等等，我可以解釋......這不是它的樣子......"
 
 #. Id: 9460-Dialogue.mod
 #. -- Index: 6.1
@@ -318,7 +318,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9460-Dialogue.mod:1
 msgid "Wait, let's talk about this... I can explain."
-msgstr ""
+msgstr "等等，我們來談談這個......我可以解釋一下。"
 
 #. Id: 9461-Dialogue.mod
 #. -- Index: 7.0
@@ -337,7 +337,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 6701-Dialogue.mod:0
 msgid "I didn't know it was classed illegal in this town! I'm no smuggler."
-msgstr ""
+msgstr "我不知道在這個鎮上被歸類為非法！我不是走私者。"
 
 #. Id: 6719-Dialogue.mod
 #. -- Index: 9.0
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 6719-Dialogue.mod:0
 msgid "Think me stupid? Your lies and your desperation are an insult! Whatever your reasons, smuggling in drugs is illegal in this city... "
-msgstr ""
+msgstr "想我傻嗎？你的謊言和你的絕望是一種侮辱！無論你的理由是什麼，在這個城市偷運毒品都是違法的......"
 
 #. Id: 9637-Dialogue.mod
 #. -- Index: 10.0
@@ -356,7 +356,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9637-Dialogue.mod:0
 msgid "I'll give you a cut... (2000 cats)"
-msgstr ""
+msgstr "我會給你一個切...（2000隻貓）"
 
 #. Id: 51867-Dialogue.mod
 #. -- Index: 11.0
@@ -366,7 +366,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 51867-Dialogue.mod:0
 msgid "Glad we're on the same page..."
-msgstr ""
+msgstr "很高興我們在同一頁上......"
 
 #. Id: 53124-Dialogue.mod
 #. -- Index: 11.0
@@ -377,7 +377,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
 #: 53124-Dialogue.mod:0
 msgid "... Go on, where's my cut then? What have you got for me?"
-msgstr ""
+msgstr "......繼續，我的切割在哪裡？你有什麼給我的？"
 
 #. Id: 53128-Dialogue.mod
 #. -- Index: 12.0
@@ -386,7 +386,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53128-Dialogue.mod:0
 msgid "Uhh... (Show them your Cats)"
-msgstr ""
+msgstr "呃......（給他們看你的貓）"
 
 #. Id: 53130-Dialogue.mod
 #. -- Index: 13.0
@@ -395,7 +395,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53130-Dialogue.mod:0
 msgid "... That's it? Don't waste my time with chump change!"
-msgstr ""
+msgstr "... 而已？不要浪費我的時間改變笨蛋！"
 
 #. Id: 53130-Dialogue.mod
 #. -- Index: 13.1
@@ -404,7 +404,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53130-Dialogue.mod:1
 msgid "... That's it!? This is an insult! Talking big but you don't even have the Cats to back it up!"
-msgstr ""
+msgstr "... 而已！？這是一種侮辱！說話很大，但你甚至沒有貓支持它！"
 
 #. Id: 53129-Dialogue.mod
 #. -- Index: 12.0
@@ -418,7 +418,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53129-Dialogue.mod:0 53142-Dialogue.mod:0
 msgid "... I guess I don't have enough after all..."
-msgstr ""
+msgstr "......我想我畢竟還不夠......"
 
 #. Id: 53131-Dialogue.mod
 #. -- Index: 13.0
@@ -427,7 +427,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53131-Dialogue.mod:0
 msgid "Don't even have the Cats to back up the big talk? Nothing but a time wasting criminal..."
-msgstr ""
+msgstr "甚至不讓貓來支持大談？只是浪費罪犯的時間......"
 
 #. Id: 51861-Dialogue.mod
 #. -- Index: 10.0
@@ -436,7 +436,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51861-Dialogue.mod:0
 msgid "Screw your city and it's rules!"
-msgstr ""
+msgstr "擰緊你的城市，這是規則！"
 
 #. Id: 51863-Dialogue.mod
 #. -- Index: 10.0
@@ -445,7 +445,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51863-Dialogue.mod:0
 msgid "Trust me, you do not want to cross me, guard. Let me through."
-msgstr ""
+msgstr "相信我，你不想越過我，守衛。讓我通過。"
 
 #. Id: 51864-Dialogue.mod
 #. -- Index: 11.0
@@ -454,7 +454,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51864-Dialogue.mod:0
 msgid "Threatening the law now? "
-msgstr ""
+msgstr "現在威脅到法律？"
 
 #. Id: 52230-Dialogue.mod
 #. -- Index: 12.0
@@ -514,7 +514,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52464-Dialogue.mod:0
 msgid "A crime's a crime! Whatever your reason, it's my job to protect against smugglers!"
-msgstr ""
+msgstr "犯罪是犯罪！無論你的原因是什麼，我的工作都是防範走私者！"
 
 #. Id: 9482-Dialogue.mod
 #. -- Index: 8.0
@@ -523,7 +523,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9482-Dialogue.mod:0
 msgid "I'm worth a lot of Cats. I can make your wildest dreams come true..."
-msgstr ""
+msgstr "我值得很多貓。我可以讓你最瘋狂的夢想成真......"
 
 #. Id: 9482-Dialogue.mod
 #. -- Index: 8.1
@@ -532,7 +532,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9482-Dialogue.mod:1
 msgid "You guards deserve more. Work with me, I have a lot of Cats to share..."
-msgstr ""
+msgstr "你的守衛值得更多。和我一起工作，我有很多貓要分享......"
 
 #. Id: 9486-Dialogue.mod
 #. -- Index: 10.0
@@ -541,7 +541,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9486-Dialogue.mod:0
 msgid "We can be partners. You scratch my back, I scratch yours. With Cats. Lots of Cats"
-msgstr ""
+msgstr "我們可以成為合作夥伴你刮我的背，我抓你的。與貓。很多貓"
 
 #. Id: 9486-Dialogue.mod
 #. -- Index: 10.1
@@ -550,7 +550,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9486-Dialogue.mod:1
 msgid "We can be partners. You scratch my back, I scratch yours."
-msgstr ""
+msgstr "我們可以成為合作夥伴你刮我的背，我抓你的。"
 
 #. Id: 9511-Dialogue.mod
 #. -- Index: 11.0
@@ -559,7 +559,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9511-Dialogue.mod:0
 msgid "... Partners you say... Okay, let's talk about figures first. You pay me a 2500 Cat cut and I'll get you in town, whenever you want, no questions asked. You betray me at any point and I'll hunt you down."
-msgstr ""
+msgstr "...你說合作夥伴......好的，讓我們先談談數字。你付給我一個2500 Cat切割，我會帶你到城裡，隨時隨地，沒問題。你在任何時候都背叛了我，我會追捕你。"
 
 #. Id: 9511-Dialogue.mod
 #. -- Index: 11.1
@@ -568,7 +568,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9511-Dialogue.mod:1
 msgid "... I hear you... Okay, I want 2500 Cats for each visit. I'll keep the other guards busy while you slip through the gates. Deal?"
-msgstr ""
+msgstr "......我聽到了......好的，我每次訪問都需要2500隻貓。當你滑過大門時，我會讓其他守衛忙。交易嗎？"
 
 #. Id: 9514-Dialogue.mod
 #. -- Index: 12.0
@@ -578,7 +578,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 9514-Dialogue.mod:0
 msgid "It's a deal. Here's your first payment (Give 2500 Cats)"
-msgstr ""
+msgstr "就這麼說定咯。這是您的第一筆付款（贈送2500貓）"
 
 #. Id: 9515-Dialogue.mod
 #. -- Index: 13.0
@@ -596,7 +596,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51873-Dialogue.mod:0
 msgid "No. No deal."
-msgstr ""
+msgstr "沒有。沒有交易。"
 
 #. Id: 51874-Dialogue.mod
 #. -- Index: 13.0
@@ -605,7 +605,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51874-Dialogue.mod:0
 msgid "... What happened to your bags of money? Don't have the Cats to back up the big talk, huh?"
-msgstr ""
+msgstr "你的錢袋子怎麼了？沒有貓來支持大談話，對吧？"
 
 #. Id: 52453-Dialogue.mod
 #. -- Index: 11.0
@@ -615,7 +615,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52453-Dialogue.mod:0
 msgid " *Scratches head*... I don't know about that... Sounds risky... I'm not allowed to take gifts."
-msgstr ""
+msgstr " *划痕頭* ......我不知道......聽起來有風險......我不允許帶禮物。"
 
 #. Id: 52455-Dialogue.mod
 #. -- Index: 12.0
@@ -625,7 +625,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 52455-Dialogue.mod:0
 msgid "Trust me, I won't tell. I'll give you 2500 Cats for each visit..."
-msgstr ""
+msgstr "相信我，我不會告訴你。每次訪問我會給你2500貓"
 
 #. Id: 52457-Dialogue.mod
 #. -- Index: 13.0
@@ -634,7 +634,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52457-Dialogue.mod:0
 msgid "Okay, I'll do it. I want my first payment though."
-msgstr ""
+msgstr "好的，我會的。我想要我的第一筆付款。"
 
 #. Id: 52458-Dialogue.mod
 #. -- Index: 14.0
@@ -643,7 +643,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52458-Dialogue.mod:0
 msgid "Why, of course! (Give 2500 Cats)"
-msgstr ""
+msgstr "為什麼，當然！ （給2500貓）"
 
 #. Id: 52459-Dialogue.mod
 #. -- Index: 15.0
@@ -652,7 +652,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52459-Dialogue.mod:0
 msgid "Okay. Go on in."
-msgstr ""
+msgstr "好的。繼續。"
 
 #. Id: 52456-Dialogue.mod
 #. -- Index: 12.0
@@ -662,7 +662,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 52456-Dialogue.mod:0
 msgid "If you don't risk, you don't get. 2500 Cats whenever I need your help. You'll be rich."
-msgstr ""
+msgstr "如果你沒有風險，你就得不到。每當我需要你的幫助時，2500隻貓。你會變得富有。"
 
 #. Id: 52461-Dialogue.mod
 #. -- Index: 12.0
@@ -671,7 +671,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52461-Dialogue.mod:0
 msgid "You're right. It's too risky, forget it."
-msgstr ""
+msgstr "你是對的。這太冒險了，算了吧。"
 
 #. Id: 52462-Dialogue.mod
 #. -- Index: 13.0
@@ -680,7 +680,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52462-Dialogue.mod:0
 msgid "... Then I gotta arrest you, stop distracting me with your smooth talk!"
-msgstr ""
+msgstr "......然後我要抓住你，不要用流暢的說話分散我的注意力！"
 
 #. Id: 52449-Dialogue.mod
 #. -- Index: 9.0
@@ -691,7 +691,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 52449-Dialogue.mod:0
 msgid "Uh... *Looks over their shoulder*... What do you mean?"
-msgstr ""
+msgstr "呃...... *看著他們的肩膀* ......你的意思是什麼？"
 
 #. Id: 53133-Dialogue.mod
 #. -- Index: 10.0
@@ -701,7 +701,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2500, Tag: -1
 #: 53133-Dialogue.mod:0
 msgid "Uhh... (Pull out your meager sack of Cats) How about it, eh? Eh?"
-msgstr ""
+msgstr "呃......（拉出你那些微薄的貓）這怎麼樣，是嗎？嗯？"
 
 #. Id: 53620-Dialogue.mod
 #. -- Index: 9.0
@@ -712,7 +712,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 53620-Dialogue.mod:0
 msgid "You'd better have a decent offer to back this up, bigshot..."
-msgstr ""
+msgstr "你最好有一個體面的報價支持這個，bigshot ......"
 
 #. Id: 53624-Dialogue.mod
 #. -- Index: 10.0
@@ -721,7 +721,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53624-Dialogue.mod:0
 msgid "On second thought, maybe I don't have that much on me..."
-msgstr ""
+msgstr "第二個想法，也許我對我沒那麼多......"
 
 #. Id: 53625-Dialogue.mod
 #. -- Index: 11.0
@@ -730,7 +730,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53625-Dialogue.mod:0
 msgid "Just as I thought. Don't have the Cats to back up the big talk, huh?"
-msgstr ""
+msgstr "正如我所預料的那樣。沒有貓來支持大談話，對吧？"
 
 #. Id: 9487-Dialogue.mod
 #. -- Index: 8.0
@@ -739,7 +739,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9487-Dialogue.mod:0
 msgid "Gangsters made me do it. They threatened to kill me."
-msgstr ""
+msgstr "歹徒讓我這樣做。他們威脅要殺了我。"
 
 #. Id: 9487-Dialogue.mod
 #. -- Index: 8.1
@@ -748,7 +748,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9487-Dialogue.mod:1
 msgid "Swampers made me do it. They threatened to kill me."
-msgstr ""
+msgstr "沼澤地讓我做到了。他們威脅要殺了我。"
 
 #. Id: 9490-Dialogue.mod
 #. -- Index: 9.0
@@ -757,7 +757,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9490-Dialogue.mod:0
 msgid "Right, right... And how did they 'make' you smuggle drugs into an Empire town exactly, hm? Maybe you'd be safer in a jail cell?"
-msgstr ""
+msgstr "對，對......他們是怎麼讓你把藥物偷偷帶進帝國城鎮的，嗯？也許你在監獄裡更安全？"
 
 #. Id: 9492-Dialogue.mod
 #. -- Index: 10.0
@@ -766,7 +766,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9492-Dialogue.mod:0
 msgid "They said that if I end up in a jail cell, they'll murder the town guards."
-msgstr ""
+msgstr "他們說，如果我最終進入牢房，他們會殺死城鎮警衛。"
 
 #. Id: 9493-Dialogue.mod
 #. -- Index: 11.0
@@ -785,7 +785,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52447-Dialogue.mod:0
 msgid "... Stop trying to trick me! Just stop talking!... You're under arrest for smuggling."
-msgstr ""
+msgstr "...別試圖欺騙我了！只是停止說話！......你因偷運而被捕。"
 
 #. Id: 51875-Dialogue.mod
 #. -- Index: 10.0
@@ -794,7 +794,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51875-Dialogue.mod:0
 msgid "Look, let me off the hook. I'll share my cut (2000 Cats)"
-msgstr ""
+msgstr "看，讓我擺脫困境。我會分享我的切（2000貓）"
 
 #. Id: 51876-Dialogue.mod
 #. -- Index: 10.0
@@ -803,7 +803,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51876-Dialogue.mod:0
 msgid "Fine, you got me. Either you can arrest me, or we can make a deal..."
-msgstr ""
+msgstr "好的，你有我。要么你可以逮捕我，要么我們可以達成協議......"
 
 #. Id: 9494-Dialogue.mod
 #. -- Index: 9.0
@@ -823,7 +823,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52443-Dialogue.mod:0
 msgid "... Well even so, I still gotta arrest you for smuggling. A crime is a crime."
-msgstr ""
+msgstr "......即便如此，我還是要因偷運而逮捕你。犯罪是一種犯罪。"
 
 #. Id: 52429-Dialogue.mod
 #. -- Index: 8.0
@@ -832,7 +832,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52429-Dialogue.mod:0
 msgid "It was all just a test! And you passed! Congratulations!"
-msgstr ""
+msgstr "這只是一個考驗！你過去了！恭喜！"
 
 #. Id: 52430-Dialogue.mod
 #. -- Index: 9.0
@@ -842,7 +842,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52430-Dialogue.mod:0
 msgid "Wh... Eh?"
-msgstr ""
+msgstr "呃...呃？"
 
 #. Id: 52431-Dialogue.mod
 #. -- Index: 10.0
@@ -851,7 +851,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52431-Dialogue.mod:0
 msgid "That's right, quality management. I'm working undercover. Well done, you!"
-msgstr ""
+msgstr "這是正確的，質量管理。我正在秘密工作。幹得好，你！"
 
 #. Id: 52432-Dialogue.mod
 #. -- Index: 11.0
@@ -860,7 +860,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52432-Dialogue.mod:0
 msgid "Uh... I'm not sure, I've never heard of quality management before..."
-msgstr ""
+msgstr "呃......我不確定，我以前從未聽說過質量管理......"
 
 #. Id: 52433-Dialogue.mod
 #. -- Index: 12.0
@@ -869,7 +869,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52433-Dialogue.mod:0
 msgid "Of course! Hamut sent me. And I must say, you're a magnificent gate guard. Really."
-msgstr ""
+msgstr "當然！哈穆特送我。我必須說，你是一個華麗的門衛。真。"
 
 #. Id: 52434-Dialogue.mod
 #. -- Index: 13.0
@@ -878,7 +878,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52434-Dialogue.mod:0
 msgid "Oh... Uh, thanks..."
-msgstr ""
+msgstr "哦......呃，謝謝......"
 
 #. Id: 52435-Dialogue.mod
 #. -- Index: 14.0
@@ -887,7 +887,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52435-Dialogue.mod:0
 msgid "I'm so confused."
-msgstr ""
+msgstr "我很困惑。"
 
 #. Id: 52986-Dialogue.mod
 #. -- Index: 11.0
@@ -896,7 +896,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52986-Dialogue.mod:0
 msgid "Just... stop talking! I've been fooled enough. Now, tell it to the prison guard, I'm arresting your for smuggling!"
-msgstr ""
+msgstr "只是......別說了！我被愚弄了。現在，告訴監獄看守，我正在逮捕你的走私！"
 
 #. Id: 52437-Dialogue.mod
 #. -- Index: 9.0
@@ -924,7 +924,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 52440-Dialogue.mod:0
 msgid "Take me for a fool? Enough of your excuses! Smuggling is a serious crime in this city!"
-msgstr ""
+msgstr "帶我去傻瓜？足夠的藉口了！走私是這個城市的嚴重犯罪！"
 
 #. Id: 9484-Dialogue.mod
 #. -- Index: 7.0
@@ -943,7 +943,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52438-Dialogue.mod:0
 msgid "... Then how is it?"
-msgstr ""
+msgstr "......那怎麼回事？"
 
 #. Id: 52514-Dialogue.mod
 #. -- Index: 7.0
@@ -953,7 +953,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52514-Dialogue.mod:0
 msgid "No stories, no excuses, I've heard it all. You're under arrest for smuggling."
-msgstr ""
+msgstr "沒有故事，沒有藉口，我聽到了這一切。你因偷運而被捕。"
 
 #. Id: 9639-Dialogue.mod
 #. -- Index: 6.0
@@ -967,7 +967,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9639-Dialogue.mod:0 52179-Dialogue.mod:0
 msgid "You'll never take me alive! (Attack)"
-msgstr ""
+msgstr "你永遠不會把我活著！ （攻擊）"
 
 #. Id: 52428-Dialogue.mod
 #. -- Index: 5.0
@@ -977,7 +977,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52428-Dialogue.mod:0
 msgid "What the-?! Trying to smuggle in drugs!"
-msgstr ""
+msgstr "什麼 - ？！試圖走私毒品！"
 
 #. Id: 9455-Dialogue.mod
 #. -- Index: 4.0
@@ -989,7 +989,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 9455-Dialogue.mod:0
 msgid "Okay, open your bags up ... "
-msgstr ""
+msgstr "好的，打開你的包......"
 
 #. Id: 9455-Dialogue.mod
 #. -- Index: 4.1
@@ -1001,7 +1001,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 9455-Dialogue.mod:1
 msgid "Let's see what you've got here then..."
-msgstr ""
+msgstr "讓我們看看你在這裡得到了什麼......"
 
 #. Id: 52198-Dialogue.mod
 #. -- Index: 5.0
@@ -1010,7 +1010,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52198-Dialogue.mod:0
 msgid "Hmph. And what's this?"
-msgstr ""
+msgstr "哼。這是什麼？"
 
 #. Id: 9463-Dialogue.mod
 #. -- Index: 4.0
@@ -1032,7 +1032,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
 #: 9463-Dialogue.mod:0 10750-Dialogue?(10).mod:0
 msgid "Okay, raise your arms.... "
-msgstr ""
+msgstr "好的，舉起你的手臂...."
 
 #. Id: 9463-Dialogue.mod
 #. -- Index: 4.1
@@ -1054,7 +1054,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: DUMB
 #: 9463-Dialogue.mod:1 10750-Dialogue?(10).mod:1
 msgid "Okay, arms up..."
-msgstr ""
+msgstr "好的，武裝起來......"
 
 #. Id: 51893-Dialogue.mod
 #. -- Index: 5.0
@@ -1063,7 +1063,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51893-Dialogue.mod:0
 msgid "Uhuh, narcotics... Well well, looks like we got us a smuggler. Our town doesn't take too kindly to smugglers, you're going to be spending a long time in the cages for this!"
-msgstr ""
+msgstr "Uhuh，麻醉劑......好吧，看起來我們給了我們一個走私者。我們的小鎮對走私者並不太友好，你會花很長時間在籠子里為此做好準備！"
 
 #. Id: 51893-Dialogue.mod
 #. -- Index: 5.1
@@ -1081,7 +1081,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9468-Dialogue.mod:0
 msgid "What the-?! That's not mine!"
-msgstr ""
+msgstr "什麼 - ？！那不是我的！"
 
 #. Id: 9641-Dialogue.mod
 #. -- Index: 7.0
@@ -1108,7 +1108,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9642-Dialogue.mod:0
 msgid "No! You must have snuck it on me! Are you serious?!"
-msgstr ""
+msgstr "沒有！你一定是偷偷溜過來的！你是認真的嗎？！"
 
 #. Id: 9644-Dialogue.mod
 #. -- Index: 9.0
@@ -1191,7 +1191,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51884-Dialogue.mod:0
 msgid "But I don't have enough money..."
-msgstr ""
+msgstr "但我沒有足夠的錢......"
 
 #. Id: 51890-Dialogue.mod
 #. -- Index: 11.0
@@ -1209,7 +1209,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51886-Dialogue.mod:0
 msgid "How about I pay you with the end of my sword instead!"
-msgstr ""
+msgstr "我怎麼樣用劍結束你呢！"
 
 #. Id: 51886-Dialogue.mod
 #. -- Index: 10.1
@@ -1218,7 +1218,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51886-Dialogue.mod:1
 msgid "How about you choke on my sword instead!"
-msgstr ""
+msgstr "你怎麼嗆我的劍！"
 
 #. Id: 9656-Dialogue.mod
 #. -- Index: 9.0
@@ -1236,7 +1236,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51888-Dialogue.mod:0
 msgid "... So I guess you want something from me, huh?"
-msgstr ""
+msgstr "...所以我猜你想要我的東西，對吧？"
 
 #. Id: 51889-Dialogue.mod
 #. -- Index: 9.0
@@ -1254,7 +1254,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9469-Dialogue.mod:0
 msgid "Corrupt snake! You planted that on me!"
-msgstr ""
+msgstr "腐敗的蛇！你把它種在我身上！"
 
 #. Id: 51881-Dialogue.mod
 #. -- Index: 6.0
@@ -1263,7 +1263,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51881-Dialogue.mod:0
 msgid "So that's how it is, huh? What do you want from me?"
-msgstr ""
+msgstr "這是怎麼回事，是嗎？你想從我這裡得到什麼？"
 
 #. Id: 51881-Dialogue.mod
 #. -- Index: 6.1
@@ -1272,7 +1272,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51881-Dialogue.mod:1
 msgid "So it's a setup, huh? What do you want from me then?"
-msgstr ""
+msgstr "所以這是一個設置，對吧？那你對我有什麼要求？"
 
 #. Id: 51882-Dialogue.mod
 #. -- Index: 7.0
@@ -1294,7 +1294,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2500, Tag: -1
 #: 9465-Dialogue.mod:0
 msgid "Let me see inside your bag... "
-msgstr ""
+msgstr "讓我看看你的包裡面......"
 
 #. Id: 51894-Dialogue.mod
 #. -- Index: 5.0
@@ -1341,7 +1341,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>5, Tag: -1
 #: 52478-Dialogue.mod:0
 msgid "Ugh... Why do you have to have so many bags... "
-msgstr ""
+msgstr "呃......你為什麼要這麼多包......"
 
 #. Id: 52479-Dialogue.mod
 #. -- Index: 5.0
@@ -1350,7 +1350,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52479-Dialogue.mod:0
 msgid "[They lazily glance through the tops of your bags]"
-msgstr ""
+msgstr "[他們懶洋洋地瞥了一眼袋子的頂部]"
 
 #. Id: 52488-Dialogue.mod
 #. -- Index: 6.0
@@ -1364,7 +1364,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52488-Dialogue.mod:0 52489-Dialogue.mod:0
 msgid "That'll do. Go on in."
-msgstr ""
+msgstr "那就行了。繼續。"
 
 #. Id: 52485-Dialogue.mod
 #. -- Index: 4.0
@@ -1374,7 +1374,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52485-Dialogue.mod:0
 msgid "*Sigh*... Okay, let's see what you've got I guess... [They glance lazily over your stuff]"
-msgstr ""
+msgstr "*嘆氣......好吧，讓我們看看你猜到了什麼...... [他們懶洋洋地看著你的東西]"
 
 #. Id: 52490-Dialogue.mod
 #. -- Index: 5.0
@@ -1384,7 +1384,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 52490-Dialogue.mod:0
 msgid "... Wait, drugs... *Sigh*... Great, more work for me to do. I'm arresting you for smuggling, criminal."
-msgstr ""
+msgstr "......等等，毒品...... *嘆氣...... ......很棒，我還有更多工作要做。我逮捕你是為了走私，犯罪。"
 
 #. Id: 52492-Dialogue.mod
 #. -- Index: 6.0
@@ -1393,7 +1393,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52492-Dialogue.mod:0
 msgid "Then let's make this easy for us both, eh? I've got Cats."
-msgstr ""
+msgstr "那麼讓我們兩個都這麼容易，嗯？我有貓。"
 
 #. Id: 52493-Dialogue.mod
 #. -- Index: 7.0
@@ -1402,7 +1402,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52493-Dialogue.mod:0
 msgid "... What's your offer?"
-msgstr ""
+msgstr "你的報價是多少？"
 
 #. Id: 52494-Dialogue.mod
 #. -- Index: 8.0
@@ -1411,7 +1411,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52494-Dialogue.mod:0
 msgid "A deal. How about we be partners?"
-msgstr ""
+msgstr "一個交易。我們如何成為合作夥伴？"
 
 #. Id: 52503-Dialogue.mod
 #. -- Index: 9.0
@@ -1420,7 +1420,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52503-Dialogue.mod:0
 msgid "Alright. My neck against the nobles, my terms. 3000 Cats for each time I bail you out of inspections."
-msgstr ""
+msgstr "好的。我的脖子反對貴族，我的條件。每次3000隻貓我都會讓你退出檢查。"
 
 #. Id: 52504-Dialogue.mod
 #. -- Index: 10.0
@@ -1436,7 +1436,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>3000, Tag: -1
 #: 52504-Dialogue.mod:0 15050-Dialogue.mod:3
 msgid "Deal (3000 Cats)"
-msgstr ""
+msgstr "交易（3000貓）"
 
 #. Id: 52505-Dialogue.mod
 #. -- Index: 11.0
@@ -1445,7 +1445,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52505-Dialogue.mod:0
 msgid "Pleasure doing business. Go on through."
-msgstr ""
+msgstr "快樂做生意。繼續。"
 
 #. Id: 53611-Dialogue.mod
 #. -- Index: 10.0
@@ -1455,7 +1455,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 53611-Dialogue.mod:0
 msgid "... I don't have that much money on me this time..."
-msgstr ""
+msgstr "......這次我沒有那麼多錢......"
 
 #. Id: 52495-Dialogue.mod
 #. -- Index: 8.0
@@ -1465,7 +1465,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 52495-Dialogue.mod:0
 msgid "A cut. 2000 Cats and we both walk away."
-msgstr ""
+msgstr "切割。 2000貓和我們都走開了。"
 
 #. Id: 52496-Dialogue.mod
 #. -- Index: 9.0
@@ -1475,7 +1475,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52496-Dialogue.mod:0
 msgid "4000 Cats."
-msgstr ""
+msgstr "4000隻貓。"
 
 #. Id: 52497-Dialogue.mod
 #. -- Index: 10.0
@@ -1485,7 +1485,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>4000, Tag: -1
 #: 52497-Dialogue.mod:0
 msgid "Deal (4000 Cats)"
-msgstr ""
+msgstr "交易（4000貓）"
 
 #. Id: 52501-Dialogue.mod
 #. -- Index: 11.0
@@ -1494,7 +1494,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52501-Dialogue.mod:0
 msgid "Go through."
-msgstr ""
+msgstr "經過。"
 
 #. Id: 52512-Dialogue.mod
 #. -- Index: 11.0
@@ -1503,7 +1503,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52512-Dialogue.mod:0
 msgid "Then no deal. I'm not risking my neck for less."
-msgstr ""
+msgstr "然後沒有交易。我不是為了減少我的脖子。"
 
 #. Id: 9452-Dialogue.mod
 #. -- Index: 3.0
@@ -1512,7 +1512,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9452-Dialogue.mod:0
 msgid "Seriously? I don't have time for this..."
-msgstr ""
+msgstr "真的嗎？我沒有時間......"
 
 #. Id: 9452-Dialogue.mod
 #. -- Index: 3.1
@@ -1530,7 +1530,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9473-Dialogue.mod:0
 msgid "I don't give a damn if you don't have time, rules are rules. Comply and let me search you, or say hello to the inside of a jail cell..."
-msgstr ""
+msgstr "如果你沒有時間，我不會給你一個該死的，規則就是規則。遵守並讓我搜索你，或者在監獄牢房內打個招呼......"
 
 #. Id: 9473-Dialogue.mod
 #. -- Index: 4.1
@@ -1539,7 +1539,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9473-Dialogue.mod:1
 msgid "Do I look like I give a damn? Procedure is procedure. If you refuse to be searched, then you can rot in the cells out of my sight..."
-msgstr ""
+msgstr "我看起來像是該死的嗎？程序是程序。如果你拒絕被搜查，那麼你可以在我的視線中腐爛細胞......"
 
 #. Id: 9474-Dialogue.mod
 #. -- Index: 5.0
@@ -1557,7 +1557,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9474-Dialogue.mod:1
 msgid "... Fine. Go ahead, search away."
-msgstr ""
+msgstr "好的來吧，搜索一下。"
 
 #. Id: 9474-Dialogue.mod
 #. -- Index: 5.2
@@ -1566,7 +1566,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9474-Dialogue.mod:2
 msgid "... Okay... Search away."
-msgstr ""
+msgstr "......好的......搜索一下。"
 
 #. Id: 9474-Dialogue.mod
 #. -- Index: 5.3
@@ -1584,7 +1584,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52172-Dialogue.mod:0
 msgid "How about we speed this up, hm? (Bribe)"
-msgstr ""
+msgstr "我們加快速度怎麼樣呢，嗯？ （賄賂）"
 
 #. Id: 53633-Dialogue.mod
 #. -- Index: 6.0
@@ -1600,7 +1600,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53633-Dialogue.mod:0 53609-Dialogue.mod:0
 msgid "You really want to make this quick, you'd better have the Cats for it, bigshot..."
-msgstr ""
+msgstr "你真的想快速做到這一點，你最好有Cats for it，bigshot ......"
 
 #. Id: 52164-Dialogue.mod
 #. -- Index: 4.0
@@ -1610,7 +1610,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 52164-Dialogue.mod:0
 msgid "Time's valuable, huh? Well, we can either make this quick, or we can drag this out... Just how much is your time worth to you exactly?"
-msgstr ""
+msgstr "時間很有價值，對吧？好吧，我們可以快速做到這一點，或者我們可以把它拖出來......你的時間究竟對你有多少價值？"
 
 #. Id: 52168-Dialogue.mod
 #. -- Index: 5.0
@@ -1620,7 +1620,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 52168-Dialogue.mod:0
 msgid "Alot. How about a share?"
-msgstr ""
+msgstr "很多。分享怎麼樣？"
 
 #. Id: 52169-Dialogue.mod
 #. -- Index: 5.0
@@ -1630,7 +1630,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 52169-Dialogue.mod:0
 msgid "About 2000 Cats (Bribe)"
-msgstr ""
+msgstr "約2000隻貓（賄賂）"
 
 #. Id: 52170-Dialogue.mod
 #. -- Index: 5.0
@@ -1639,7 +1639,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52170-Dialogue.mod:0
 msgid "Try your extortion on me again and I'll gut you."
-msgstr ""
+msgstr "再次嘗試敲詐我，我會給你帶來麻煩。"
 
 #. Id: 52426-Dialogue.mod
 #. -- Index: 4.0
@@ -1649,7 +1649,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52426-Dialogue.mod:0
 msgid "Last time. Bags. Check."
-msgstr ""
+msgstr "上次。手袋。校驗。"
 
 #. Id: 52525-Dialogue.mod
 #. -- Index: 4.0
@@ -1659,7 +1659,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52525-Dialogue.mod:0
 msgid "Neither do I. Hurry it up, let's get this over with."
-msgstr ""
+msgstr "我也沒有。快點，讓我們把它解決。"
 
 #. Id: 9453-Dialogue.mod
 #. -- Index: 3.0
@@ -1668,7 +1668,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9453-Dialogue.mod:0
 msgid "Nevermind, I'll just leave..."
-msgstr ""
+msgstr "沒關係，我會離開......"
 
 #. Id: 51903-Dialogue.mod
 #. -- Index: 4.0
@@ -1696,7 +1696,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
 #: 51904-Dialogue.mod:0
 msgid "Open your bags. And that's an order, not a request."
-msgstr ""
+msgstr "打開你的包。這是一個訂單，而不是一個請求。"
 
 #. Id: 51907-Dialogue.mod
 #. -- Index: 6.0
@@ -1705,7 +1705,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51907-Dialogue.mod:0
 msgid "Make me. I dare you. (Grab your sword)"
-msgstr ""
+msgstr "讓我。我賭你。 （抓住你的劍）"
 
 #. Id: 51907-Dialogue.mod
 #. -- Index: 6.1
@@ -1714,7 +1714,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51907-Dialogue.mod:1
 msgid "Try and make me. You'll regret it."
-msgstr ""
+msgstr "試試讓我。你會後悔的。"
 
 #. Id: 51907-Dialogue.mod
 #. -- Index: 6.2
@@ -1723,7 +1723,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51907-Dialogue.mod:2
 msgid "Not. Gonna. Happen. (Grab your sword)"
-msgstr ""
+msgstr "不。要去。發生。 （抓住你的劍）"
 
 #. Id: 51907-Dialogue.mod
 #. -- Index: 6.3
@@ -1732,7 +1732,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51907-Dialogue.mod:3
 msgid "Tell me what to do one more time. (Grab your sword)"
-msgstr ""
+msgstr "告訴我再做些什麼。 （抓住你的劍）"
 
 #. Id: 51907-Dialogue.mod
 #. -- Index: 6.4
@@ -1741,7 +1741,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51907-Dialogue.mod:4
 msgid "Got a deathwish, guardsman? (Grab your weapon)"
-msgstr ""
+msgstr "有一個死亡願望，衛兵？ （抓住你的武器）"
 
 #. Id: 51905-Dialogue.mod
 #. -- Index: 5.0
@@ -1750,7 +1750,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51905-Dialogue.mod:0
 msgid "Spread your legs and raise your arms for checks. And that's an order, not a request."
-msgstr ""
+msgstr "伸展雙腿，抬起手臂進行檢查。這是一個訂單，而不是一個請求。"
 
 #. Id: 52527-Dialogue.mod
 #. -- Index: 5.0
@@ -1760,7 +1760,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52527-Dialogue.mod:0
 msgid "I need to check you. And that's an order, not a request."
-msgstr ""
+msgstr "我需要檢查你。這是一個訂單，而不是一個請求。"
 
 #. Id: 52157-Dialogue.mod
 #. -- Index: 3.0
@@ -1769,7 +1769,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52157-Dialogue.mod:0
 msgid "Not gonna happen."
-msgstr ""
+msgstr "不會發生。"
 
 #. Id: 52158-Dialogue.mod
 #. -- Index: 4.0
@@ -1787,7 +1787,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52395-Dialogue.mod:0
 msgid "Whoa! Behind you, quick!"
-msgstr ""
+msgstr "哇！在你身後，快點！"
 
 #. Id: 52396-Dialogue.mod
 #. -- Index: 4.0
@@ -1796,7 +1796,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52396-Dialogue.mod:0
 msgid "... [They look at you with narrowed eyes, the hatred for you burns strong]"
-msgstr ""
+msgstr "...... [他們瞇著眼睛看著你，對你的仇恨燒得很厲害]"
 
 #. Id: 52401-Dialogue.mod
 #. -- Index: 5.0
@@ -1820,7 +1820,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 52523-Dialogue.mod:0
 msgid "Just for that, I'm going to check you extra throroughly..."
-msgstr ""
+msgstr "只是為了那個，我要特別檢查你..."
 
 #. Id: 52397-Dialogue.mod
 #. -- Index: 4.0
@@ -1830,7 +1830,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52397-Dialogue.mod:0
 msgid "What, what?! [They jump and turn away from you to look around]"
-msgstr ""
+msgstr "什麼什麼？！ [他們跳起來轉身遠離你環顧四周]"
 
 #. Id: 52397-Dialogue.mod
 #. -- Index: 4.1
@@ -1840,7 +1840,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52397-Dialogue.mod:1
 msgid "Aaah! What!? [They jump and turn away from you to look around]"
-msgstr ""
+msgstr "啊哈！什麼！？ [他們跳起來轉身遠離你環顧四周]"
 
 #. Id: 52398-Dialogue.mod
 #. -- Index: 5.0
@@ -1849,7 +1849,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52398-Dialogue.mod:0
 msgid "(Wing all your illegal goods out of sight)"
-msgstr ""
+msgstr "（將你所有的非法商品都放在視線之外）"
 
 #. Id: 52399-Dialogue.mod
 #. -- Index: 6.0
@@ -1867,7 +1867,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52402-Dialogue.mod:0
 msgid "Oh, it was just a really ugly person. False alarm."
-msgstr ""
+msgstr "哦，這只是一個非常醜陋的人。誤報。"
 
 #. Id: 52406-Dialogue.mod
 #. -- Index: 8.0
@@ -1876,7 +1876,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52406-Dialogue.mod:0
 msgid "*Sigh*... Whatever. Let me check your stuff then..."
-msgstr ""
+msgstr "*嘆氣......無論如何。讓我檢查你的東西然後......"
 
 #. Id: 52407-Dialogue.mod
 #. -- Index: 9.0
@@ -1885,7 +1885,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52407-Dialogue.mod:0
 msgid "Of course, go ahead."
-msgstr ""
+msgstr "當然，繼續吧。"
 
 #. Id: 52409-Dialogue.mod
 #. -- Index: 10.0
@@ -1894,7 +1894,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52409-Dialogue.mod:0
 msgid "Alright let's see here... All good."
-msgstr ""
+msgstr "好吧，讓我們看看這裡......一切都好。"
 
 #. Id: 52408-Dialogue.mod
 #. -- Index: 9.0
@@ -1903,7 +1903,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52408-Dialogue.mod:0
 msgid "Sure, knock yourself out, heheheh... HEHEHEH!"
-msgstr ""
+msgstr "當然，把自己打倒，呵呵...... Heheheh！"
 
 #. Id: 52410-Dialogue.mod
 #. -- Index: 10.0
@@ -1912,7 +1912,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52410-Dialogue.mod:0
 msgid "You really are an oddball... Okay, you look clean."
-msgstr ""
+msgstr "你真的很奇怪......好吧，你看起來很乾淨。"
 
 #. Id: 52465-Dialogue.mod
 #. -- Index: 8.0
@@ -1921,7 +1921,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52465-Dialogue.mod:0
 msgid "... That's my sister! She took a shovel to the face! How dare you!"
-msgstr ""
+msgstr "......那是我的妹妹！她拿起一把鐵鍬到臉上！你怎麼敢！"
 
 #. Id: 52466-Dialogue.mod
 #. -- Index: 9.0
@@ -1930,7 +1930,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52466-Dialogue.mod:0
 msgid "No more talking! Open your bags!"
-msgstr ""
+msgstr "不再說話了！打開你的包！"
 
 #. Id: 52467-Dialogue.mod
 #. -- Index: 10.0
@@ -1939,7 +1939,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52467-Dialogue.mod:0
 msgid "No! And buy your 'sister' a facelift, it offends my eyes!"
-msgstr ""
+msgstr "沒有！買你的'姐姐'整容，它冒犯了我的眼睛！"
 
 #. Id: 52468-Dialogue.mod
 #. -- Index: 11.0
@@ -1948,7 +1948,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52468-Dialogue.mod:0
 msgid "You goddamn piece of... I'll make you pay!"
-msgstr ""
+msgstr "你該死的一塊......我會讓你買單！"
 
 #. Id: 52403-Dialogue.mod
 #. -- Index: 7.0
@@ -1957,7 +1957,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52403-Dialogue.mod:0
 msgid "Huh, wierd. Thought I saw a monster. Was just a funny shaped rock."
-msgstr ""
+msgstr "嗯，太奇怪了。以為我看到了一個怪物。只是一個有趣的形狀搖滾。"
 
 #. Id: 52404-Dialogue.mod
 #. -- Index: 7.0
@@ -1966,7 +1966,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52404-Dialogue.mod:0
 msgid "Ah sorry. Had another flashback from my soldiering days..."
-msgstr ""
+msgstr "對不起啊從我的士兵時代又有一次回憶......"
 
 #. Id: 52530-Dialogue.mod
 #. -- Index: 4.0
@@ -1976,7 +1976,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 52530-Dialogue.mod:0
 msgid "No way. I'm not falling for that one again. Now, open your bags, no more funny business."
-msgstr ""
+msgstr "沒門。我不會再為那個墮落了。現在，打開行李，沒有更多有趣的事情。"
 
 #. Id: 9449-Dialogue.mod
 #. -- Index: 1.0
@@ -1985,7 +1985,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9449-Dialogue.mod:0
 msgid "I'm a merchant. I'm here to trade."
-msgstr ""
+msgstr "我是商人。我來這裡交易。"
 
 #. Id: 9449-Dialogue.mod
 #. -- Index: 1.1
@@ -1994,7 +1994,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9449-Dialogue.mod:1
 msgid "Trade. I'm here to barter."
-msgstr ""
+msgstr "貿易。我來這裡是以物易物。"
 
 #. Id: 9449-Dialogue.mod
 #. -- Index: 1.2
@@ -2003,7 +2003,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9449-Dialogue.mod:2
 msgid "Work. I'm here to trade goods."
-msgstr ""
+msgstr "工作。我來這裡交易貨物。"
 
 #. Id: 9449-Dialogue.mod
 #. -- Index: 1.3
@@ -2012,7 +2012,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 9449-Dialogue.mod:3
 msgid "Here to trade with the merchants."
-msgstr ""
+msgstr "在這裡與商家進行交易。"
 
 #. Id: 6700-Dialogue.mod
 #. -- Index: 1.0
@@ -2030,7 +2030,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 6700-Dialogue.mod:1
 msgid "Showing my appreciation. You're a credit to all gate guards (Bribe 2000 Cats) "
-msgstr ""
+msgstr "表示讚賞。你是所有門衛（Bribe 2000 Cats）的功勞"
 
 #. Id: 6704-Dialogue.mod
 #. -- Index: 2.0
@@ -2041,7 +2041,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6704-Dialogue.mod:0
 msgid "... Okay then"
-msgstr ""
+msgstr "... 好吧"
 
 #. Id: 6704-Dialogue.mod
 #. -- Index: 2.1
@@ -2052,7 +2052,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6704-Dialogue.mod:1
 msgid "... Thank you"
-msgstr ""
+msgstr "... 謝謝"
 
 #. Id: 6704-Dialogue.mod
 #. -- Index: 2.2
@@ -2063,7 +2063,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6704-Dialogue.mod:2
 msgid "... Appreciated. Go on through."
-msgstr ""
+msgstr "......讚賞。繼續。"
 
 #. Id: 6708-Dialogue.mod
 #. -- Index: 2.1
@@ -2073,7 +2073,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6708-Dialogue.mod:1
 msgid "... Keen to get away, aren't we?"
-msgstr ""
+msgstr "...渴望逃脫，不是嗎？"
 
 #. Id: 6708-Dialogue.mod
 #. -- Index: 2.2
@@ -2083,7 +2083,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6708-Dialogue.mod:2
 msgid "... Something to hide?"
-msgstr ""
+msgstr "......隱藏的東西？"
 
 #. Id: 51914-Dialogue.mod
 #. -- Index: 3.0
@@ -2092,7 +2092,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51914-Dialogue.mod:0
 msgid "Open your bags."
-msgstr ""
+msgstr "打開你的包。"
 
 #. Id: 51915-Dialogue.mod
 #. -- Index: 4.0
@@ -2110,7 +2110,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52176-Dialogue.mod:0
 msgid "Huh?! Looks like I found something... Narcotics. So you thought you could smuggle this in, huh? And with a stingy 2000 Cat bribe at that..."
-msgstr ""
+msgstr "咦？看起來我發現了一些東西......麻醉品。所以你以為你可以走私這個，對吧？在那場吝嗇的2000 Cat賄賂......"
 
 #. Id: 52176-Dialogue.mod
 #. -- Index: 6.1
@@ -2119,7 +2119,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52176-Dialogue.mod:1
 msgid "What the-?! Narcotics?! Goddamn smugglers, trying to sneak this past me? What's more, offering me a chump change bribe too!"
-msgstr ""
+msgstr "什麼 - ？！毒品？！該死的走私者，試圖偷偷過去我？更重要的是，給我一個笨蛋改變賄賂！"
 
 #. Id: 52178-Dialogue.mod
 #. -- Index: 7.0
@@ -2128,7 +2128,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52178-Dialogue.mod:0
 msgid "Guess you got me."
-msgstr ""
+msgstr "猜猜你有我。"
 
 #. Id: 52178-Dialogue.mod
 #. -- Index: 7.1
@@ -2137,7 +2137,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52178-Dialogue.mod:1
 msgid "You're a sharp one, aren't you?"
-msgstr ""
+msgstr "你是個犀利的，不是嗎？"
 
 #. Id: 52180-Dialogue.mod
 #. -- Index: 7.0
@@ -2146,7 +2146,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52180-Dialogue.mod:0
 msgid "Ah, so it's more you're after, eh? Should have just said in the first place."
-msgstr ""
+msgstr "啊，所以你要追求的更多，是嗎？本來應該剛才說的。"
 
 #. Id: 52180-Dialogue.mod
 #. -- Index: 7.1
@@ -2155,7 +2155,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52180-Dialogue.mod:1
 msgid "Ah, getting greedy, eh? All you had to was ask."
-msgstr ""
+msgstr "啊，變得貪心，嗯？所有你不得不問。"
 
 #. Id: 52181-Dialogue.mod
 #. -- Index: 8.0
@@ -2164,7 +2164,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52181-Dialogue.mod:0
 msgid "Either you can rot in a jail cell, or you can pay me a FAIR price for risking my neck. I want 5000 Cats. Cats or jail, your choice."
-msgstr ""
+msgstr "要么你可以在牢房中腐爛，要么你可以付我公平的價格冒險我的脖子。我想要5000隻貓。貓或監獄，你的選擇。"
 
 #. Id: 52182-Dialogue.mod
 #. -- Index: 9.0
@@ -2183,7 +2183,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52185-Dialogue.mod:0
 msgid "Good. Go on through."
-msgstr ""
+msgstr "好。繼續。"
 
 #. Id: 52183-Dialogue.mod
 #. -- Index: 9.0
@@ -2192,7 +2192,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52183-Dialogue.mod:0
 msgid "Robbery! Then throw me in jail. I can handle it."
-msgstr ""
+msgstr "搶劫！然後把我扔進監獄。我能應付。"
 
 #. Id: 52184-Dialogue.mod
 #. -- Index: 9.0
@@ -2201,7 +2201,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52184-Dialogue.mod:0
 msgid "Tch, tch. Greedy. No deal."
-msgstr ""
+msgstr "Tch，tch。貪婪。沒有成交。"
 
 #. Id: 53613-Dialogue.mod
 #. -- Index: 10.0
@@ -2210,7 +2210,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53613-Dialogue.mod:0
 msgid "Then I guess you've made your choice..."
-msgstr ""
+msgstr "然後我想你已經做出了選擇......"
 
 #. Id: 52189-Dialogue.mod
 #. -- Index: 9.0
@@ -2219,7 +2219,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52189-Dialogue.mod:0
 msgid "Even better. How about you become my accomplice?"
-msgstr ""
+msgstr "更好。你怎麼成為我的幫兇？"
 
 #. Id: 52177-Dialogue.mod
 #. -- Index: 6.0
@@ -2228,7 +2228,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52177-Dialogue.mod:0
 msgid "Huh... Guess you're clean after all. Go on through..."
-msgstr ""
+msgstr "嗯......猜猜你畢竟很乾淨。繼續......"
 
 #. Id: 51916-Dialogue.mod
 #. -- Index: 4.0
@@ -2252,7 +2252,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51919-Dialogue.mod:0 52259-Dialogue.mod:0
 msgid "... Go on through."
-msgstr ""
+msgstr "......繼續。"
 
 #. Id: 51917-Dialogue.mod
 #. -- Index: 4.0
@@ -2261,7 +2261,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51917-Dialogue.mod:0
 msgid "Come on, you don't care what's in my bags..."
-msgstr ""
+msgstr "來吧，你不在乎我的包裡有什麼......"
 
 #. Id: 51921-Dialogue.mod
 #. -- Index: 6.0
@@ -2270,7 +2270,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51921-Dialogue.mod:0
 msgid "Tell me what you want. I'll give it to you."
-msgstr ""
+msgstr "告訴我你想要什麼。我會把它給你。"
 
 #. Id: 51923-Dialogue.mod
 #. -- Index: 7.0
@@ -2279,7 +2279,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51923-Dialogue.mod:0
 msgid "Alright, bigshot. I want 5000 Cats. 5000 Cats and I'll ask no questions."
-msgstr ""
+msgstr "好吧，大人物。我想要5000隻貓。 5000貓，我不會問任何問題。"
 
 #. Id: 51926-Dialogue.mod
 #. -- Index: 8.0
@@ -2289,7 +2289,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<5000, Tag: -1
 #: 51926-Dialogue.mod:0
 msgid "5000 Cats!? I can't afford that!"
-msgstr ""
+msgstr "5000貓！？我買不起！"
 
 #. Id: 51931-Dialogue.mod
 #. -- Index: 9.0
@@ -2298,7 +2298,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51931-Dialogue.mod:0
 msgid "And I'm not risking my neck for less. I'm taking you in for checks."
-msgstr ""
+msgstr "而且我不是為了減少我的脖子。我帶你去檢查。"
 
 #. Id: 51927-Dialogue.mod
 #. -- Index: 8.0
@@ -2307,7 +2307,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51927-Dialogue.mod:0
 msgid "5000 Cats!?"
-msgstr ""
+msgstr "5000貓！？"
 
 #. Id: 51929-Dialogue.mod
 #. -- Index: 9.0
@@ -2316,7 +2316,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51929-Dialogue.mod:0
 msgid "It's better than a month in a jail cell. And I'm not risking my neck for you for any less."
-msgstr ""
+msgstr "在監獄牢房中，這比一個月好。而且我不會為你而冒險。"
 
 #. Id: 51930-Dialogue.mod
 #. -- Index: 10.0
@@ -2326,7 +2326,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
 #: 51930-Dialogue.mod:0
 msgid "... Fine (5000) Cats."
-msgstr ""
+msgstr "......好（5000）貓。"
 
 #. Id: 51928-Dialogue.mod
 #. -- Index: 8.0
@@ -2336,7 +2336,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>5000, Tag: -1
 #: 51928-Dialogue.mod:0
 msgid "Of course."
-msgstr ""
+msgstr "當然。"
 
 #. Id: 51922-Dialogue.mod
 #. -- Index: 6.0
@@ -2354,7 +2354,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51924-Dialogue.mod:0
 msgid "Then you won't mind me checking them, will you? Of course, stay on my good side, and you won't have to rot in a jail cell for possessing illegal goods. Hoy, you won't like it in our jail cells, I warn you..."
-msgstr ""
+msgstr "然後你不介意我檢查它們，好嗎？當然，保持我的好的一面，你不會因為擁有非法商品而在監獄裡腐爛。好的，你不會喜歡我們的監獄牢房，我警告你......"
 
 #. Id: 52190-Dialogue.mod
 #. -- Index: 8.0
@@ -2363,7 +2363,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52190-Dialogue.mod:0
 msgid "... Then go ahead. Search me."
-msgstr ""
+msgstr "......然後繼續搜索我"
 
 #. Id: 52191-Dialogue.mod
 #. -- Index: 8.0
@@ -2372,7 +2372,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52191-Dialogue.mod:0
 msgid "(Draw your weapon)"
-msgstr ""
+msgstr "（畫你的武器）"
 
 #. Id: 6702-Dialogue.mod
 #. -- Index: 2.0
@@ -2382,7 +2382,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6702-Dialogue.mod:0
 msgid "Okay. Now go."
-msgstr ""
+msgstr "好的。現在，走吧。"
 
 #. Id: 6702-Dialogue.mod
 #. -- Index: 2.1
@@ -2392,7 +2392,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 6702-Dialogue.mod:1
 msgid "... Go on through, you're clear."
-msgstr ""
+msgstr "......繼續，你很清楚。"
 
 #. Id: 9479-Dialogue.mod
 #. -- Index: 2.0
@@ -2431,7 +2431,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<2000, Tag: -1
 #: 53135-Dialogue.mod:0
 msgid "... Got the Cats to back that up, bigshot?"
-msgstr ""
+msgstr "......得到了Cats來支持那個，bigshot？"
 
 #. Id: 53141-Dialogue.mod
 #. -- Index: 3.0
@@ -2440,7 +2440,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53141-Dialogue.mod:0
 msgid "Uhh... (Show them your meagre sack of Cats)"
-msgstr ""
+msgstr "呃......（給他們展示你那些微薄的貓）"
 
 #. Id: 53143-Dialogue.mod
 #. -- Index: 4.0
@@ -2449,7 +2449,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53143-Dialogue.mod:0
 msgid "Thought as much... but nevertheless, a bribe's a bribe and I'm going to have to punish you for your crime."
-msgstr ""
+msgstr "儘管如此......但是，賄賂是一種賄賂，我將不得不因你的罪行而懲罰你。"
 
 #. Id: 51910-Dialogue.mod
 #. -- Index: 1.0
@@ -2463,7 +2463,7 @@ msgstr ""
 #. -- Group title: Hire me empire 700
 #: 51910-Dialogue.mod:0 12714-Dialogue?(11)?(2).mod:2
 msgid "Is there a problem?"
-msgstr ""
+msgstr "有問題嗎？"
 
 #. Id: 51910-Dialogue.mod
 #. -- Index: 1.1
@@ -2472,7 +2472,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51910-Dialogue.mod:1
 msgid "Why, what's the problem?"
-msgstr ""
+msgstr "為什麼，問題是什麼？"
 
 #. Id: 51910-Dialogue.mod
 #. -- Index: 1.2
@@ -2481,7 +2481,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 51910-Dialogue.mod:2
 msgid "... Is there something wrong?"
-msgstr ""
+msgstr "... 有什麼不對？"
 
 #. Id: 9498-Dialogue.mod
 #. -- Index: 0.0
@@ -2555,7 +2555,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 10746-Dialogue?(10).mod:0
 msgid "Just passing through, I want no trouble"
-msgstr ""
+msgstr "剛剛經過，我沒有麻煩"
 
 #. Id: 10747-Dialogue (10).mod
 #. -- Index: 1.0
@@ -2564,7 +2564,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 10747-Dialogue?(10).mod:0
 msgid "Trading, I'm here on business"
-msgstr ""
+msgstr "交易，我在這裡出差"
 
 #. Id: 52154-Dialogue.mod
 #. -- Index: 0.2
@@ -2615,7 +2615,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52161-Dialogue.mod:2
 msgid "Your gear, show it to me. I won't say it again."
-msgstr ""
+msgstr "你的裝備，給我看。我不會再說了。"
 
 #. Id: 6699-Dialogue.mod
 #. -- Index: 1.0
@@ -2676,7 +2676,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>2000, Tag: -1
 #: 52418-Dialogue.mod:0
 msgid "Uh... *Looks over their shoulder, then looks to you with hesitation*"
-msgstr ""
+msgstr "呃...... *看著他們的肩膀，然後猶豫地看著你*"
 
 #. Id: 52419-Dialogue.mod
 #. -- Index: 3.0
@@ -2685,7 +2685,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52419-Dialogue.mod:0
 msgid "Go on. You know you want it..."
-msgstr ""
+msgstr "繼續。你知道你想要它..."
 
 #. Id: 52420-Dialogue.mod
 #. -- Index: 3.0
@@ -2694,7 +2694,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52420-Dialogue.mod:0
 msgid "No-one will ever know. Shhh..."
-msgstr ""
+msgstr "沒有人會知道。噓..."
 
 #. Id: 52420-Dialogue.mod
 #. -- Index: 3.1
@@ -2703,7 +2703,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52420-Dialogue.mod:1
 msgid "Relax, nobody will ever know. Our little secret..."
-msgstr ""
+msgstr "放鬆，沒有人會知道。我們的小秘密......"
 
 #. Id: 52424-Dialogue.mod
 #. -- Index: 4.0
@@ -2730,7 +2730,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52422-Dialogue.mod:0
 msgid "It's money. It doesn't bite."
-msgstr ""
+msgstr "這是錢。它不會咬人。"
 
 #. Id: 52155-Dialogue.mod
 #. -- Index: 0.0
@@ -2808,7 +2808,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
 #: 52155-Dialogue.mod:5
 msgid "Bags, I need to inspect them. Standard illegal goods checks, no problem if you've got nothing to hide."
-msgstr ""
+msgstr "袋子，我需要檢查它們。標準的非法商品檢查，如果你沒有什麼可隱瞞的話沒問題。"
 
 #. Id: 52163-Dialogue.mod
 #. -- Index: 2.0
@@ -2826,7 +2826,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52163-Dialogue.mod:1
 msgid "Your bags, open them. I won't say it again."
-msgstr ""
+msgstr "你的包，打開它們。我不會再說了。"
 
 #. Id: 52163-Dialogue.mod
 #. -- Index: 2.2
@@ -2890,7 +2890,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
 #: 52414-Dialogue.mod:4
 msgid "Bags, I need to look them over. Standard checks for illegal stuff, no problem if you've got nothing to hide."
-msgstr ""
+msgstr "包包，我需要看看它們。標準檢查非法的東西，沒有問題，如果你沒有什麼可隱藏的。"
 
 #. Id: 52415-Dialogue.mod
 #. -- Index: 0.0
@@ -2901,7 +2901,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=0, Tag: -1
 #: 52415-Dialogue.mod:0
 msgid "[They look almost half asleep, slumped in their stance, devoid of all enthusiasm] Alright, I need to check your stuff before you can enter town. Spot check, rules, yada yada, you get the picture."
-msgstr ""
+msgstr "[他們看起來差不多半睡半醒，站立不動，沒有熱情]好吧，我需要檢查你的東西才能進城。抽查，規則，yada yada，你得到的圖片。"
 
 #. Id: 52482-Dialogue.mod
 #. -- Index: 1.0
@@ -2923,7 +2923,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
 #: 53949-Dialogue.mod:1
 msgid "... Ugh..."
-msgstr ""
+msgstr "......呃......"
 
 #. Id: 53949-Dialogue.mod
 #. -- Index: 0.2
@@ -2935,7 +2935,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STARVING=1, Tag: -1
 #: 53949-Dialogue.mod:2
 msgid "... Great. Another dreg for the mines."
-msgstr ""
+msgstr "......好極了另一個礦井的渣滓。"
 
 #. Id: 53950-Dialogue.mod
 #. -- Index: 1.0
@@ -2980,7 +2980,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53954-Dialogue.mod:0
 msgid "Have pity, I just need food..."
-msgstr ""
+msgstr "很可惜，我只需要食物......"
 
 #. Id: 53958-Dialogue.mod
 #. -- Index: 3.0
@@ -2989,7 +2989,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53958-Dialogue.mod:0
 msgid "There is no pity for the weak, and your kind certainly won't be left to drag the rest of the Empire down with you. There's only one place you belong: The mines"
-msgstr ""
+msgstr "對於弱者來說，沒有任何遺憾，你的善意肯定不會讓帝國的其餘部分與你同行。你所屬的地方只有一個：地雷"
 
 #. Id: 53970-Dialogue.mod
 #. -- Index: 4.0
@@ -2998,7 +2998,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53970-Dialogue.mod:0
 msgid "I'm arresting you for destitution on United City grounds"
-msgstr ""
+msgstr "我在曼聯的場地上因為貧困而逮捕你"
 
 #. Id: 53953-Dialogue.mod
 #. -- Index: 3.0
@@ -3038,7 +3038,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
 #: 53955-Dialogue.mod:0
 msgid "Here, is this proof enough for you? (Give 500 Cats)"
-msgstr ""
+msgstr "在這裡，這個證明對你來說足夠了嗎？ （給500隻貓）"
 
 #. Id: 53959-Dialogue.mod
 #. -- Index: 3.0
@@ -3047,7 +3047,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53959-Dialogue.mod:0
 msgid "Okay, that's good enough for me. Now, go get yourself a dustwich already, you look like crap."
-msgstr ""
+msgstr "好的，這對我來說已經足夠了。現在，去看看自己的垃圾，你看起來像垃圾。"
 
 #. Id: 53959-Dialogue.mod
 #. -- Index: 3.1
@@ -3056,7 +3056,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53959-Dialogue.mod:1
 msgid "Proof enough for me. Now, go buy yourself a meatwrap or something... Just looking at your bony carcass is making me feel ill."
-msgstr ""
+msgstr "對我來說足夠的證明。現在，去給自己買一個肉餡餅或其他東西......只是看著你的骨胴體讓我感到噁心。"
 
 #. Id: 53959-Dialogue.mod
 #. -- Index: 3.2
@@ -3094,7 +3094,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 53961-Dialogue.mod:0
 msgid "... Guess you don't have any proof for me then. It's the mines for you, dreg."
-msgstr ""
+msgstr "......猜猜你當時沒有任何證據。這是你的地雷，dreg。"
 
 #. Id: 53973-Dialogue.mod
 #. -- Index: 3.0
@@ -3121,7 +3121,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53957-Dialogue.mod:0
 msgid "Then what? You're going to arrest me for being down on my luck?"
-msgstr ""
+msgstr "那又怎樣？你是不是因為我的運氣而逮捕我？"
 
 #. Id: 53952-Dialogue.mod
 #. -- Index: 1.0
@@ -3149,7 +3149,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>500, Tag: -1
 #: 53968-Dialogue.mod:0
 msgid "I'm no beggar. Let me in. (Give 500 Cats)"
-msgstr ""
+msgstr "我不是乞丐。讓我進來。（給500隻貓）"
 
 #. Id: 53969-Dialogue.mod
 #. -- Index: 3.0
@@ -3167,7 +3167,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53969-Dialogue.mod:1
 msgid "Well... I guess looks can be deceiving. You can go in."
-msgstr ""
+msgstr "嗯......我猜看外表可能是騙人的。你可以進去"
 
 #. Id: 53969-Dialogue.mod
 #. -- Index: 3.2
@@ -3176,5 +3176,4 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 53969-Dialogue.mod:2
 msgid "Well, I'll be damned, you certainly don't LOOK like anything more than a beggar..."
-msgstr ""
-
+msgstr "好吧，我會被詛咒，你肯定不會像乞丐一樣......"

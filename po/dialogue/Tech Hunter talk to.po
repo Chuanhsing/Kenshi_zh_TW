@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Ancient Ruins or Second Empire or The Old Empire
 #: 55153-Dialogue.mod:0
 msgid "Hoy, what I need is a good hard drink..."
-msgstr ""
+msgstr "好，我需要的是一杯好喝的..."
 
 #. Id: 55154-Dialogue.mod
 #. -- Index: 1.0
@@ -33,7 +33,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55154-Dialogue.mod:0 55171-Dialogue.mod:0
 msgid "Did you want somethi-"
-msgstr ""
+msgstr "你想要什麼嗎？"
 
 #. Id: 55158-Dialogue.mod
 #. -- Index: 2.0
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55159-Dialogue.mod:0
 msgid "I'm sorry to hear that..."
-msgstr ""
+msgstr "聽到這個消息我很遺憾"
 
 #. Id: 55161-Dialogue.mod
 #. -- Index: 4.0
@@ -61,7 +61,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
 #: 55161-Dialogue.mod:0
 msgid "Anyway, judging by that hefty bag of yours, I'm guessing you've had plenty of luck tech hunting, am I right?"
-msgstr ""
+msgstr "無論如何，從你那個沉重的包來判斷，我猜你有很多運氣科技狩獵，我是對的嗎？"
 
 #. Id: 55161-Dialogue.mod
 #. -- Index: 4.1
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NUM_BACKPACKS>0, Tag: -1
 #: 55161-Dialogue.mod:1
 msgid "Anyway, looks like you're carrying a heavy load in that bag of yours. Here's hoping you've had more luck than me with your tech hunting..."
-msgstr ""
+msgstr "無論如何，看起來你在你的那個包裡承受著沉重的負擔。這里希望你的技術狩獵比我更幸運..."
 
 #. Id: 55162-Dialogue.mod
 #. -- Index: 4.0
@@ -80,7 +80,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55162-Dialogue.mod:0
 msgid "How about you? Had any luck hunting? You know, Skeletech, that's the good stuff, I consider myself a collector of sorts... Found any?"
-msgstr ""
+msgstr "你呢？有運氣狩獵嗎？你知道，Skeletech，這是好東西，我認為自己是各種各樣的收藏家......找到了嗎？"
 
 #. Id: 55162-Dialogue.mod
 #. -- Index: 4.1
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55162-Dialogue.mod:3
 msgid "How about you, find anything? Gotta show your findings to your fellow adventurers, you know... Tech hunter code... [They nod proudly to themselves]"
-msgstr ""
+msgstr "你怎麼樣，找到什麼？要向你的冒險家們展示你的發現，你知道......技術獵人代碼...... [他們自豪地向自己點頭]"
 
 #. Id: 55163-Dialogue.mod
 #. -- Index: 5.0
@@ -125,7 +125,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55163-Dialogue.mod:1
 msgid "Of course. You're looking at a master adventurer."
-msgstr ""
+msgstr "當然。你正在尋找一位冒險家。"
 
 #. Id: 55164-Dialogue.mod
 #. -- Index: 6.0
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: MANIACAL
 #: 55164-Dialogue.mod:0
 msgid "Marvellous... Look, how about we join forces a while? Might be a thing or two for me to learn from a pro like yourself, eh?"
-msgstr ""
+msgstr "奇妙......看，我們一起加入力量怎麼樣？對我來說，向像我這樣的職業選手學習可能是一兩件事，嗯？"
 
 #. Id: 55164-Dialogue.mod
 #. -- Index: 6.1
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55176-Dialogue.mod:0
 msgid "All you tech hunters are the same, you're only after my loot!"
-msgstr ""
+msgstr "所有技術獵人都是一樣的，你只是在我的戰利品之後！"
 
 #. Id: 55181-Dialogue.mod
 #. -- Index: 8.0
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55181-Dialogue.mod:0
 msgid "I... just wanted some company..."
-msgstr ""
+msgstr "我...只想要一些公司......"
 
 #. Id: 55177-Dialogue.mod
 #. -- Index: 7.0
@@ -176,7 +176,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55177-Dialogue.mod:0
 msgid "Sorry, no room for rookies."
-msgstr ""
+msgstr "對不起，沒有新手的空間。"
 
 #. Id: 55182-Dialogue.mod
 #. -- Index: 8.0
@@ -185,7 +185,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55182-Dialogue.mod:0
 msgid "I'll show you whose a rookie! Just you wait, I'll find the mother lode of Skeletech and you'll regret ever rejecting me!"
-msgstr ""
+msgstr "我會告訴你誰是新秀！等你，我會找到Skeletech的母親，你會後悔拒絕我！"
 
 #. Id: 55178-Dialogue.mod
 #. -- Index: 7.0
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55178-Dialogue.mod:0
 msgid "Why not? Could use some extra muscle..."
-msgstr ""
+msgstr "為什麼不？可以使用一些額外的肌肉......"
 
 #. Id: 55186-Dialogue.mod
 #. -- Index: 8.0
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55186-Dialogue.mod:0
 msgid "Then let's go get rich!"
-msgstr ""
+msgstr "然後讓我們變得富有！"
 
 #. Id: 55179-Dialogue.mod
 #. -- Index: 9.0
@@ -221,7 +221,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55165-Dialogue.mod:0
 msgid "Well, then I guess it looks like my luck's finally turned, eh? This time round, my treasure's walked right into my hands!"
-msgstr ""
+msgstr "嗯，那我覺得好像我的運氣終於轉了，是嗎？這一次，我的寶貝一直走到我的手中！"
 
 #. Id: 55166-Dialogue.mod
 #. -- Index: 7.0
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55166-Dialogue.mod:0
 msgid "Hand over the loot!"
-msgstr ""
+msgstr "交出戰利品！"
 
 #. Id: 55173-Dialogue.mod
 #. -- Index: 5.0
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55173-Dialogue.mod:0
 msgid "Don't think that's any of your business."
-msgstr ""
+msgstr "不要以為這是你的任何業務。"
 
 #. Id: 55187-Dialogue.mod
 #. -- Index: 6.0
@@ -248,7 +248,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55187-Dialogue.mod:0
 msgid "... Hoggin' all the loot and you won't even share, eh? What kinda attitude is that amongst your fellow tech hunters?"
-msgstr ""
+msgstr "...... Hoggin'所有的戰利品，你甚至不會分享，是嗎？在你的科技獵手中，你有什麼樣的態度？"
 
 #. Id: 55188-Dialogue.mod
 #. -- Index: 7.0
@@ -257,7 +257,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55188-Dialogue.mod:0
 msgid "See, stranger, I don't like competition. And out here in these ruins, there ain't no-one around but the dead ancients to hear you scream..."
-msgstr ""
+msgstr "看，陌生人，我不喜歡比賽。在這些廢墟中，周圍沒有人，但死去的古人聽到你尖叫......"
 
 #. Id: 55189-Dialogue.mod
 #. -- Index: 8.0
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Group title: Tech Hunter Rival
 #: 55189-Dialogue.mod:0 55111-Dialogue.mod:0
 msgid "A rival tech hunter is a dead tech hunter!"
-msgstr ""
+msgstr "對手技術獵人是一個死技術獵人！"
 
 #. Id: 55174-Dialogue.mod
 #. -- Index: 5.0
@@ -280,7 +280,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55174-Dialogue.mod:0
 msgid "Nope, no luck."
-msgstr ""
+msgstr "不，沒有運氣。"
 
 #. Id: 55202-Dialogue.mod
 #. -- Index: 6.0
@@ -289,7 +289,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55202-Dialogue.mod:0
 msgid "Ain't that a shame. Looks like we'll both be heading back home with our tails between our legs, eh..."
-msgstr ""
+msgstr "這不是一個恥辱。看起來我們兩個都會在我們的雙腿之間走回家，呃......"
 
 #. Id: 55213-Dialogue.mod
 #. -- Index: 7.0
@@ -307,7 +307,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55199-Dialogue.mod:0
 msgid "You've mistaken me. I'm no adventurer."
-msgstr ""
+msgstr "你誤會了我。我不是冒險家。"
 
 #. Id: 55200-Dialogue.mod
 #. -- Index: 6.0
@@ -316,7 +316,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55200-Dialogue.mod:0
 msgid "Huh. Strange place to hang out if you're not adventuring. Nothing but bones and relics around these parts."
-msgstr ""
+msgstr "呵呵。如果你沒有冒險，那就是閒逛的奇怪地方。除了這些部分周圍的骨頭和遺物外什麼都沒有。"
 
 #. Id: 55201-Dialogue.mod
 #. -- Index: 7.0
@@ -334,7 +334,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55198-Dialogue.mod:0
 msgid "Kch... No sense of comradery these days..."
-msgstr ""
+msgstr "Kch ......這些天沒有同志的感覺......"
 
 #. Id: 55198-Dialogue.mod
 #. -- Index: 4.1
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55198-Dialogue.mod:1
 msgid "Tch... No sense of brotherhood these days..."
-msgstr ""
+msgstr "Tch ......這些天沒有兄弟情誼......"
 
 #. Id: 55172-Dialogue.mod
 #. -- Index: 3.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55172-Dialogue.mod:0
 msgid "Shit happens."
-msgstr ""
+msgstr "屎發生了。"
 
 #. Id: 55155-Dialogue.mod
 #. -- Index: 1.0
@@ -366,7 +366,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55155-Dialogue.mod:0 55193-Dialogue.mod:0
 msgid "That's too bad but-"
-msgstr ""
+msgstr "那太糟糕但是 - "
 
 #. Id: 55156-Dialogue.mod
 #. -- Index: 1.0
@@ -380,7 +380,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55156-Dialogue.mod:0 55195-Dialogue.mod:0
 msgid "Sounds rough..."
-msgstr ""
+msgstr "聽起來很粗糙......"
 
 #. Id: 55168-Dialogue.mod
 #. -- Index: 0.0
@@ -390,7 +390,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Ancient Ruins
 #: 55168-Dialogue.mod:0
 msgid "Hoo, it's been a long week! [They sip on a flask of drink] ... Wanna swig? "
-msgstr ""
+msgstr "嘿，這是一個漫長的一周！ [他們啜飲一瓶飲料] ...想喝酒嗎？"
 
 #. Id: 55170-Dialogue.mod
 #. -- Index: 1.0
@@ -399,7 +399,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55170-Dialogue.mod:0
 msgid "Sure, why no-"
-msgstr ""
+msgstr "當然，為什麼不 - "
 
 #. Id: 55152-Dialogue.mod
 #. -- Index: 2.0
@@ -417,7 +417,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55192-Dialogue.mod:0
 msgid "No thanks, I-"
-msgstr ""
+msgstr "不，謝謝，我 - "
 
 #. Id: 55194-Dialogue.mod
 #. -- Index: 1.0
@@ -426,7 +426,7 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55194-Dialogue.mod:0
 msgid "What is-"
-msgstr ""
+msgstr "什麼是-"
 
 #. Id: 55169-Dialogue.mod
 #. -- Index: 0.0
@@ -436,7 +436,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Ancient Ruins or Second Empire or The Old Empire
 #: 55169-Dialogue.mod:0
 msgid "Tell me you've had better luck than me here, stranger... Because I've had one hell of a week..."
-msgstr ""
+msgstr "告訴我你在這裡比我好運，陌生人......因為我有一個星期的地獄......"
 
 #. Id: 55157-Dialogue.mod
 #. -- Index: 2.0
@@ -445,5 +445,4 @@ msgstr ""
 #. -- Group title: Tech Hunter talk to
 #: 55157-Dialogue.mod:0
 msgid "Took me three weeks to travel to these ruins. Get here and nothin'. Nada. Place's been completely ransacked already. Hoy, the lady's gonna wring my neck when I go back empty handed..."
-msgstr ""
-
+msgstr "我花了三個星期去了這些廢墟。來到這裡，沒什麼。納達。地方已被徹底洗劫一空。好的，當我空手而歸的時候，這位女士要擰我的脖子......"

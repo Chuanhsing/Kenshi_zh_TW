@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 3581-dialogue-01.mod:0
 msgid "Sorry to trouble you."
-msgstr ""
+msgstr "對不起，麻煩您了。"
 
 #. Id: 3581-dialogue-01.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 3581-dialogue-01.mod:1
 msgid "Really, I'm fine."
-msgstr ""
+msgstr "我真的沒事。"
 
 #. Id: 3581-dialogue-01.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 3581-dialogue-01.mod:2
 msgid "You don't have to do this."
-msgstr ""
+msgstr "你不必這樣做。"
 
 #. Id: 3581-dialogue-01.mod
 #. -- Index: 0.3
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 3581-dialogue-01.mod:3
 msgid "Reckless of me to let this happen."
-msgstr ""
+msgstr "不顧我讓這件事發生。"
 
 #. Id: 3581-dialogue-01.mod
 #. -- Index: 0.4
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: ___
 #: 3581-dialogue-01.mod:4
 msgid "Please. I'm all right."
-msgstr ""
+msgstr "請。我很好。"
 
 #. Id: 3583-dialogue-01.mod
 #. -- Index: 0.0
@@ -70,7 +70,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3583-dialogue-01.mod:0
 msgid "Don't need you to fix me."
-msgstr ""
+msgstr "不需要你修理我。"
 
 #. Id: 3583-dialogue-01.mod
 #. -- Index: 0.3
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3583-dialogue-01.mod:3 15857-Dialogue.mod:7
 msgid "You have fat fingers, don't you."
-msgstr ""
+msgstr "你有肥胖的手指，不是嗎。"
 
 #. Id: 3583-dialogue-01.mod
 #. -- Index: 0.4
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3583-dialogue-01.mod:4
 msgid "Did I ask for your help?"
-msgstr ""
+msgstr "我有沒有請求你的幫助？"
 
 #. Id: 3583-dialogue-01.mod
 #. -- Index: 0.5
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 3583-dialogue-01.mod:5 15857-Dialogue.mod:8
 msgid "You ever actually done this before?"
-msgstr ""
+msgstr "你以前真的這麼做過嗎？"
 
 #. Id: 3585-dialogue-01.mod
 #. -- Index: 0.0
@@ -125,7 +125,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3585-dialogue-01.mod:0
 msgid "Don't worry about me."
-msgstr ""
+msgstr "別擔心我。"
 
 #. Id: 3585-dialogue-01.mod
 #. -- Index: 0.1
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3585-dialogue-01.mod:1 15869-Dialogue.mod:0
 msgid "Not as bad as it looks."
-msgstr ""
+msgstr "沒有它看起來那麼糟糕。"
 
 #. Id: 3585-dialogue-01.mod
 #. -- Index: 0.2
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3585-dialogue-01.mod:2 15869-Dialogue.mod:1
 msgid "I've suffered worse."
-msgstr ""
+msgstr "我的情況更糟。"
 
 #. Id: 3585-dialogue-01.mod
 #. -- Index: 0.3
@@ -173,7 +173,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3585-dialogue-01.mod:3 15869-Dialogue.mod:2
 msgid "Doesn't hurt much."
-msgstr ""
+msgstr "不會傷害太多。"
 
 #. Id: 3585-dialogue-01.mod
 #. -- Index: 0.4
@@ -189,7 +189,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 3585-dialogue-01.mod:4 15869-Dialogue.mod:3
 msgid "Sure it'll heal on its own eventually."
-msgstr ""
+msgstr "當然它最終會自行治愈。"
 
 #. Id: 3588-dialogue-01.mod
 #. -- Index: 0.4
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ENEMY=1, Tag: -1
 #: 3588-dialogue-01.mod:4
 msgid "I've killed friends of yours."
-msgstr ""
+msgstr "我殺了你的朋友。"
 
 #. Id: 3590-dialogue-01.mod
 #. -- Index: 0.0
@@ -217,7 +217,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3590-dialogue-01.mod:0 15851-Dialogue.mod:7
 msgid "Glad we're on the same side."
-msgstr ""
+msgstr "很高興我們站在同一邊。"
 
 #. Id: 3590-dialogue-01.mod
 #. -- Index: 0.1
@@ -228,7 +228,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ALLY=1, Tag: -1
 #: 3590-dialogue-01.mod:1
 msgid "What friends are for, right?"
-msgstr ""
+msgstr "朋友們是為了什麼，對吧？"
 
 #. Id: 3590-dialogue-01.mod
 #. -- Index: 0.2
@@ -239,7 +239,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_ALLY=1, Tag: -1
 #: 3590-dialogue-01.mod:2
 msgid "Everyone'll hear about this."
-msgstr ""
+msgstr "每個人都會聽到這個。"
 
 #. Id: 3590-dialogue-01.mod
 #. -- Index: 0.4
@@ -256,5 +256,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 3590-dialogue-01.mod:4 15851-Dialogue.mod:5
 msgid "Next time, I'll watch your back."
-msgstr ""
-
+msgstr "下次，我會看你的背。"

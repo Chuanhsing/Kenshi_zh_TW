@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5096-gamedata.base:0
 msgid "Okay job's over, see ya!"
-msgstr ""
+msgstr "好的工作結束了，看你的！"
 
 #. Id: 5096-gamedata.base
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5096-gamedata.base:1
 msgid "Job's finished, time to go."
-msgstr ""
+msgstr "工作完了，時間到了。"
 
 #. Id: 5103-gamedata.base
 #. -- Index: 1.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
 #: 5103-gamedata.base:0
 msgid "Don't worry, I'll finish up here first, but then I'm outta here!"
-msgstr ""
+msgstr "別擔心，我先在這裡完成，但後來我離開了！"
 
 #. Id: 5103-gamedata.base
 #. -- Index: 1.1
@@ -47,7 +47,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=1, Tag: -1
 #: 5103-gamedata.base:1
 msgid "After this fight of course!"
-msgstr ""
+msgstr "當然這場鬥爭之後！"
 
 #. Id: 5107-gamedata.base
 #. -- Index: 1.0
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
 #: 5107-gamedata.base:0
 msgid "Uhhh... guess you're not conscious... heh."
-msgstr ""
+msgstr "呃......猜你沒意識......嘿。"
 
 #. Id: 5107-gamedata.base
 #. -- Index: 1.1
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
 #: 5107-gamedata.base:1
 msgid ".... you can't hear me can you?"
-msgstr ""
+msgstr "....你聽不到我的聲音嗎？"
 
 #. Id: 5107-gamedata.base
 #. -- Index: 1.2
@@ -77,7 +77,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_KO=1, Tag: -1
 #: 5107-gamedata.base:2
 msgid "Hello? Still alive? Hmmm."
-msgstr ""
+msgstr "你好？還活著？嗯。"
 
 #. Id: 5109-gamedata.base
 #. -- Index: 2.0
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE=1, Tag: -1
 #: 5109-gamedata.base:0
 msgid "Guess I can't really leave you here all alone..."
-msgstr ""
+msgstr "猜猜我真的不能一個人留在這裡......"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.0
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:0
 msgid "Fine, I'll guard you a little longer..."
-msgstr ""
+msgstr "好吧，我會再保護你一點......"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.1
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:1
 msgid "Ok, this one's a freebie."
-msgstr ""
+msgstr "好的，這個是免費贈品。"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.2
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:2
 msgid "Look at me, working for free now. Geez."
-msgstr ""
+msgstr "看著我，現在免費工作。吉茲。"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.3
@@ -123,7 +123,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:3
 msgid "Can't believe I'm doing this..."
-msgstr ""
+msgstr "不敢相信我這樣做......"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.4
@@ -132,7 +132,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:4
 msgid "Damn... Workin' overtime."
-msgstr ""
+msgstr "該死的......工作加班。"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.5
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:7
 msgid "I'm too old for this shit..."
-msgstr ""
+msgstr "我太老了這個狗屎......"
 
 #. Id: 5114-gamedata.base
 #. -- Index: 3.8
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5114-gamedata.base:8
 msgid "Working for free now..."
-msgstr ""
+msgstr "現在免費工作......"
 
 #. Id: 5120-gamedata.base
 #. -- Index: 3.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5120-gamedata.base:0
 msgid "But I will anyway!"
-msgstr ""
+msgstr "但無論如何我會的！"
 
 #. Id: 5120-gamedata.base
 #. -- Index: 3.1
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5120-gamedata.base:1
 msgid "But that's life!"
-msgstr ""
+msgstr "但這就是生活！"
 
 #. Id: 5120-gamedata.base
 #. -- Index: 3.2
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5120-gamedata.base:2
 msgid "Life is tough, eh?"
-msgstr ""
+msgstr "生活很艱難，是嗎？"
 
 #. Id: 5120-gamedata.base
 #. -- Index: 3.4
@@ -208,7 +208,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5120-gamedata.base:4
 msgid "I will though!"
-msgstr ""
+msgstr "我會的！"
 
 #. Id: 5120-gamedata.base
 #. -- Index: 3.5
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5120-gamedata.base:5 40512-gamedata.base:3
 msgid "Bye!"
-msgstr ""
+msgstr "再見！"
 
 #. Id: 5111-gamedata.base
 #. -- Index: 2.0
@@ -233,7 +233,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5111-gamedata.base:0
 msgid "Well.... good luck!"
-msgstr ""
+msgstr "好吧，祝你好運！"
 
 #. Id: 5111-gamedata.base
 #. -- Index: 2.1
@@ -242,7 +242,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5111-gamedata.base:1
 msgid "Good luck..."
-msgstr ""
+msgstr "祝好運..."
 
 #. Id: 5111-gamedata.base
 #. -- Index: 2.2
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5111-gamedata.base:2
 msgid "....bye then!"
-msgstr ""
+msgstr "....那再見！"
 
 #. Id: 5111-gamedata.base
 #. -- Index: 2.3
@@ -260,7 +260,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 5111-gamedata.base:3
 msgid "Oh well, see you later!  ...I hope."
-msgstr ""
+msgstr "哦，以後見！ ...我希望。"
 
 #. Id: 5112-gamedata.base
 #. -- Index: 2.0
@@ -271,7 +271,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 5112-gamedata.base:0
 msgid "Damn..."
-msgstr ""
+msgstr "該死的..."
 
 #. Id: 5112-gamedata.base
 #. -- Index: 2.1
@@ -282,7 +282,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 5112-gamedata.base:1
 msgid "...can't leave it like this..."
-msgstr ""
+msgstr "......不能這樣離開......"
 
 #. Id: 5112-gamedata.base
 #. -- Index: 2.2
@@ -293,7 +293,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 5112-gamedata.base:2
 msgid "Wouldn't be right to leave you now..."
-msgstr ""
+msgstr "現在離開你是不對的..."
 
 #. Id: 5112-gamedata.base
 #. -- Index: 2.3
@@ -304,7 +304,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 5112-gamedata.base:3
 msgid "Wouldn't be honorable to just leave you in the dirt..."
-msgstr ""
+msgstr "把你留在塵土中是不光彩的......"
 
 #. Id: 5112-gamedata.base
 #. -- Index: 2.4
@@ -315,7 +315,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 5112-gamedata.base:4
 msgid "Ain't right..."
-msgstr ""
+msgstr "不對......"
 
 #. Id: 5115-gamedata.base
 #. -- Index: 2.0
@@ -326,7 +326,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 5115-gamedata.base:0
 msgid "Awwww..."
-msgstr ""
+msgstr "Awwww ..."
 
 #. Id: 5115-gamedata.base
 #. -- Index: 2.1
@@ -337,7 +337,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 5115-gamedata.base:1
 msgid "....I can't just leave you like this..."
-msgstr ""
+msgstr "....我不能像這樣離開你......"
 
 #. Id: 5115-gamedata.base
 #. -- Index: 2.2
@@ -348,7 +348,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 5115-gamedata.base:2
 msgid "...can't just leave you in the dirt..."
-msgstr ""
+msgstr "...不能只是讓你陷入困境......"
 
 #. Id: 5115-gamedata.base
 #. -- Index: 2.3
@@ -359,7 +359,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 5115-gamedata.base:3
 msgid "I feel a bit bad..."
-msgstr ""
+msgstr "我覺得有點不好......"
 
 #. Id: 5101-gamedata.base
 #. -- Index: 0.0
@@ -369,7 +369,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
 #: 5101-gamedata.base:0
 msgid "Damn that was a rough job."
-msgstr ""
+msgstr "該死的，這是一項艱苦的工作。"
 
 #. Id: 5101-gamedata.base
 #. -- Index: 0.1
@@ -379,7 +379,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: NEARLY_KO=1, Tag: -1
 #: 5101-gamedata.base:1
 msgid "Damn job nearly killed me this time. Time's up!"
-msgstr ""
+msgstr "這次該死的工作差點殺了我。時間到！"
 
 #. Id: 5105-gamedata.base
 #. -- Index: 1.0
@@ -399,7 +399,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_NEARLY_KO=1, Tag: -1
 #: 5105-gamedata.base:1
 msgid "Looks like you got it rough too, eh?"
-msgstr ""
+msgstr "看起來你也很粗糙，是嗎？"
 
 #. Id: 5105-gamedata.base
 #. -- Index: 1.2
@@ -443,7 +443,7 @@ msgstr ""
 #. -- Group title: Shek purchased reaction
 #: 59610-Dialogue.mod:0 54931-Dialogue.mod:0
 msgid "See you on the other side."
-msgstr ""
+msgstr "在另一邊見。"
 
 #. Id: 59611-Dialogue.mod
 #. -- Index: 1.0
@@ -461,7 +461,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 59611-Dialogue.mod:1
 msgid "As fun as this is..."
-msgstr ""
+msgstr "這很有趣......"
 
 #. Id: 59616-Dialogue.mod
 #. -- Index: 1.0
@@ -471,7 +471,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 59616-Dialogue.mod:0
 msgid "Hm. Out cold?"
-msgstr ""
+msgstr "嗯。出冷？"
 
 #. Id: 59616-Dialogue.mod
 #. -- Index: 1.1
@@ -481,7 +481,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 59616-Dialogue.mod:1
 msgid "Hm... Knocked out..."
-msgstr ""
+msgstr "嗯......被淘汰......"
 
 #. Id: 59620-Dialogue.mod
 #. -- Index: 2.1
@@ -541,7 +541,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 59619-Dialogue.mod:0
 msgid "But I must get back to my duties now..."
-msgstr ""
+msgstr "但我現在必須回到我的職責......"
 
 #. Id: 59619-Dialogue.mod
 #. -- Index: 1.1
@@ -550,7 +550,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 59619-Dialogue.mod:1
 msgid "But my kingdom needs me now, I must return to the Stone Golem..."
-msgstr ""
+msgstr "但我的王國現在需要我，我必須回到Stone Golem ......"
 
 #. Id: 60804-Dialogue.mod
 #. -- Index: 0.0
@@ -560,7 +560,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 60804-Dialogue.mod:0
 msgid "Should be getting back to base now..."
-msgstr ""
+msgstr "現在應該回到基地......"
 
 #. Id: 60808-Dialogue.mod
 #. -- Index: 1.0
@@ -579,7 +579,7 @@ msgstr ""
 #. -- Group title: bodyguard finished job
 #: 60810-Dialogue.mod:0
 msgid "Stay safe, comrade."
-msgstr ""
+msgstr "保持安全，同志。"
 
 #. Id: 98193-Dialogue.mod
 #. -- Index: 0.1
@@ -619,5 +619,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_IS_DOWN=1, Tag: -1
 #: 98194-Dialogue.mod:0
 msgid "I won't leave you like this, friend..."
-msgstr ""
-
+msgstr "我不會這樣離開你，朋友......"

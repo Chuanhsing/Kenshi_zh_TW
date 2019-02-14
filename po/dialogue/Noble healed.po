@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
 #: 18489-Dialogue.mod:0
 msgid "What do you want, a cookie?!"
-msgstr ""
+msgstr "你想要什麼，一個cookie？！"
 
 #. Id: 18489-Dialogue.mod
 #. -- Index: 0.1
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=0, Tag: -1
 #: 18489-Dialogue.mod:1
 msgid "What do you want, a medal?!"
-msgstr ""
+msgstr "你想要什麼，一枚獎牌？！"
 
 #. Id: 18491-Dialogue.mod
 #. -- Index: 1.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18491-Dialogue.mod:0
 msgid "Get back to work!"
-msgstr ""
+msgstr "回去工作！"
 
 #. Id: 18492-Dialogue.mod
 #. -- Index: 0.0
@@ -50,7 +50,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 18492-Dialogue.mod:0
 msgid "Good... Now get away from me"
-msgstr ""
+msgstr "好......現在離開我吧"
 
 #. Id: 18492-Dialogue.mod
 #. -- Index: 0.1
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 18492-Dialogue.mod:1
 msgid "Good... Now begone"
-msgstr ""
+msgstr "好......現在開始了"
 
 #. Id: 18494-Dialogue.mod
 #. -- Index: 1.0
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18494-Dialogue.mod:0
 msgid "Your breath stinks!"
-msgstr ""
+msgstr "你的嘴真臭！"
 
 #. Id: 18494-Dialogue.mod
 #. -- Index: 1.1
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18494-Dialogue.mod:1
 msgid "Your breath reeks!"
-msgstr ""
+msgstr "你的呼吸充滿了氣息！"
 
 #. Id: 18494-Dialogue.mod
 #. -- Index: 1.2
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18494-Dialogue.mod:2
 msgid "You STINK of poor!"
-msgstr ""
+msgstr "你好窮！"
 
 #. Id: 18495-Dialogue.mod
 #. -- Index: 0.0
@@ -117,7 +117,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 18495-Dialogue.mod:2
 msgid "Today you have served me well, minion"
-msgstr ""
+msgstr "今天你服務我很好，僕從"
 
 #. Id: 18495-Dialogue.mod
 #. -- Index: 0.3
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 18495-Dialogue.mod:3
 msgid "Good. Now get out of my way."
-msgstr ""
+msgstr "好。現在離開我的路。"
 
 #. Id: 18495-Dialogue.mod
 #. -- Index: 0.4
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 18497-Dialogue.mod:0
 msgid "I feel like I've been hit by a leviathyn! A LEVIATHYN!"
-msgstr ""
+msgstr "我覺得我被leviathyn擊中了！一個LEVIATHYN！"
 
 #. Id: 18497-Dialogue.mod
 #. -- Index: 0.1
@@ -157,7 +157,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 18497-Dialogue.mod:1
 msgid "I feel like I've been in a fight with a cheese grater."
-msgstr ""
+msgstr "我覺得我和奶酪刨絲器打架了。"
 
 #. Id: 18498-Dialogue.mod
 #. -- Index: 1.0
@@ -166,7 +166,7 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18498-Dialogue.mod:0
 msgid "*sigh*... now I am in a most foul mood"
-msgstr ""
+msgstr "*嘆氣......現在我的情緒最糟糕"
 
 #. Id: 18498-Dialogue.mod
 #. -- Index: 1.1
@@ -175,5 +175,4 @@ msgstr ""
 #. -- Group title: Noble healed
 #: 18498-Dialogue.mod:1
 msgid "Now I am feeling QUITE unhappy"
-msgstr ""
-
+msgstr "現在我感到很不開心"

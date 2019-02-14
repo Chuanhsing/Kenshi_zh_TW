@@ -97,7 +97,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4871-dialogue-02.mod:2
 msgid "Hand over your food."
-msgstr ""
+msgstr "交出你的食物。"
 
 #. Id: 4871-dialogue-02.mod
 #. -- Index: 1.3
@@ -107,7 +107,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4871-dialogue-02.mod:3
 msgid "Food. Now!"
-msgstr ""
+msgstr "餐飲。現在！"
 
 #. Id: 4871-dialogue-02.mod
 #. -- Index: 1.4
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 4872-dialogue-02.mod:1
 msgid "You're not getting a damn thing."
-msgstr ""
+msgstr "你沒有得到一個該死的東西。"
 
 #. Id: 4872-dialogue-02.mod
 #. -- Index: 2.2
@@ -147,7 +147,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 4872-dialogue-02.mod:2
 msgid "You won't take shit."
-msgstr ""
+msgstr "你不會屎。"
 
 #. Id: 4872-dialogue-02.mod
 #. -- Index: 2.3
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Group title: starver marks a target
 #: 4877-dialogue-02.mod:0
 msgid "Wrong answer."
-msgstr ""
+msgstr "錯誤的答案。"
 
 #. Id: 4877-dialogue-02.mod
 #. -- Index: 3.1
@@ -195,7 +195,7 @@ msgstr ""
 #. -- Group title: starver marks a target
 #: 4877-dialogue-02.mod:1
 msgid "Oh? Let's try that again!"
-msgstr ""
+msgstr "哦？讓我們再試一次！"
 
 #. Id: 4877-dialogue-02.mod
 #. -- Index: 3.2
@@ -213,7 +213,7 @@ msgstr ""
 #. -- Group title: starver marks a target
 #: 4877-dialogue-02.mod:3
 msgid "You'll regret that."
-msgstr ""
+msgstr "你會後悔的。"
 
 #. Id: 4893-dialogue-02.mod
 #. -- Index: 3.0
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 4894-dialogue-02.mod:1
 msgid "Why's it always come to this."
-msgstr ""
+msgstr "為什麼總是這樣。"
 
 #. Id: 4894-dialogue-02.mod
 #. -- Index: 3.2
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 4894-dialogue-02.mod:2
 msgid "No way around this, then."
-msgstr ""
+msgstr "那麼就沒辦法了。"
 
 #. Id: 4894-dialogue-02.mod
 #. -- Index: 3.3
@@ -273,7 +273,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 4894-dialogue-02.mod:3
 msgid "No other way."
-msgstr ""
+msgstr "沒有其它的方法。"
 
 #. Id: 4894-dialogue-02.mod
 #. -- Index: 3.4
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 4894-dialogue-02.mod:4
 msgid "Wish it hadn't come to this, but..."
-msgstr ""
+msgstr "希望它沒有來到這個，但......"
 
 #. Id: 4879-dialogue-02.mod
 #. -- Index: 1.0
@@ -305,7 +305,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4879-dialogue-02.mod:1
 msgid "Let's make a deal."
-msgstr ""
+msgstr "我們來做個交易吧。"
 
 #. Id: 4879-dialogue-02.mod
 #. -- Index: 1.2
@@ -316,7 +316,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4879-dialogue-02.mod:2
 msgid "How about this:"
-msgstr ""
+msgstr "這個怎麼樣："
 
 #. Id: 4880-dialogue-02.mod
 #. -- Index: 2.0
@@ -326,7 +326,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4880-dialogue-02.mod:0
 msgid "You give us food..."
-msgstr ""
+msgstr "你給我們食物......"
 
 #. Id: 4880-dialogue-02.mod
 #. -- Index: 2.1
@@ -336,7 +336,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4880-dialogue-02.mod:1
 msgid "Hand over your food..."
-msgstr ""
+msgstr "交出你的食物......"
 
 #. Id: 4880-dialogue-02.mod
 #. -- Index: 2.2
@@ -346,7 +346,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4880-dialogue-02.mod:2
 msgid "We take everything we can eat..."
-msgstr ""
+msgstr "我們採取一切可以吃的東西......"
 
 #. Id: 4880-dialogue-02.mod
 #. -- Index: 2.3
@@ -356,7 +356,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4880-dialogue-02.mod:3
 msgid "Leave your food here..."
-msgstr ""
+msgstr "把食物留在這裡......"
 
 #. Id: 4881-dialogue-02.mod
 #. -- Index: 3.0
@@ -366,7 +366,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4881-dialogue-02.mod:0
 msgid "...and we won't slaughter you."
-msgstr ""
+msgstr "......我們不會屠殺你。"
 
 #. Id: 4881-dialogue-02.mod
 #. -- Index: 3.1
@@ -376,7 +376,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4881-dialogue-02.mod:1
 msgid "...and you might live."
-msgstr ""
+msgstr "......你可能活著。"
 
 #. Id: 4881-dialogue-02.mod
 #. -- Index: 3.2
@@ -386,7 +386,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4881-dialogue-02.mod:2
 msgid "...and you won't die."
-msgstr ""
+msgstr "......你不會死"
 
 #. Id: 4881-dialogue-02.mod
 #. -- Index: 3.3
@@ -405,7 +405,7 @@ msgstr ""
 #. -- Group title: starver marks a target
 #: 98117-Dialogue.mod:0
 msgid "... Not gonna share anything?"
-msgstr ""
+msgstr "......不會分享任何東西？"
 
 #. Id: 98118-Dialogue.mod
 #. -- Index: 6.0
@@ -414,7 +414,7 @@ msgstr ""
 #. -- Group title: starver marks a target
 #: 98118-Dialogue.mod:0
 msgid "Fine. Have it your way..."
-msgstr ""
+msgstr "精細。按你的方式行事......"
 
 #. Id: 4883-dialogue-02.mod
 #. -- Index: 1.0
@@ -447,7 +447,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4883-dialogue-02.mod:2
 msgid "Not looking for trouble, friend."
-msgstr ""
+msgstr "朋友，不是在尋找麻煩。"
 
 #. Id: 4883-dialogue-02.mod
 #. -- Index: 1.3
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4888-dialogue-02.mod:0
 msgid "Just food."
-msgstr ""
+msgstr "只是食物。"
 
 #. Id: 4888-dialogue-02.mod
 #. -- Index: 2.1
@@ -478,7 +478,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4888-dialogue-02.mod:1
 msgid "Only food."
-msgstr ""
+msgstr "只有食物。"
 
 #. Id: 4889-dialogue-02.mod
 #. -- Index: 3.0
@@ -508,7 +508,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4889-dialogue-02.mod:2
 msgid "Enough for a day or two."
-msgstr ""
+msgstr "足夠一兩天。"
 
 #. Id: 4890-dialogue-02.mod
 #. -- Index: 4.0
@@ -518,7 +518,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4890-dialogue-02.mod:0
 msgid "And everyone gets to walk away."
-msgstr ""
+msgstr "每個人都走開了。"
 
 #. Id: 4890-dialogue-02.mod
 #. -- Index: 4.1
@@ -528,7 +528,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4890-dialogue-02.mod:1
 msgid "Then everyone's happy."
-msgstr ""
+msgstr "然後大家都很開心。"
 
 #. Id: 4890-dialogue-02.mod
 #. -- Index: 4.2
@@ -538,7 +538,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4890-dialogue-02.mod:2
 msgid "All swords stay undrawn."
-msgstr ""
+msgstr "所有劍都未被拉伸。"
 
 #. Id: 4890-dialogue-02.mod
 #. -- Index: 4.3
@@ -548,5 +548,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 4890-dialogue-02.mod:3
 msgid "No one has to be a killer today."
-msgstr ""
-
+msgstr "今天沒有人必須成為殺手。"

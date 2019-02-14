@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:0
 msgid "Wretched woman! Leave!"
-msgstr ""
+msgstr "猥瑣的女人！離開！"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:1
 msgid "Leave, woman! Or I'll call the paladins."
-msgstr ""
+msgstr "離開，女人！或者我會打電話給聖騎士。"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:2
 msgid "You're not allowed in here, temptress"
-msgstr ""
+msgstr "你不被允許進入這裡，誘惑"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.3
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:3
 msgid "Get out of here, temptress"
-msgstr ""
+msgstr "離開這裡，誘惑"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.4
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:4
 msgid "What are you doing in here? Wretched woman!"
-msgstr ""
+msgstr "你在這做什麼？猥瑣的女人！"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.7
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40653-Dialogue.mod:7 40652-Dialogue.mod:1
 msgid "Shoo! Shoo!"
-msgstr ""
+msgstr "噓！噓！"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.9
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40653-Dialogue.mod:9 40652-Dialogue.mod:6
 msgid "You're not allowed in here!"
-msgstr ""
+msgstr "你不被允許進入這裡！"
 
 #. Id: 40653-Dialogue.mod
 #. -- Index: 0.10
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 40653-Dialogue.mod:10
 msgid "Wretched woman! Get out!"
-msgstr ""
+msgstr "猥瑣的女人！出去！"
 
 #. Id: 47446-Dialogue.mod
 #. -- Index: 0.0
@@ -110,7 +110,7 @@ msgstr ""
 #. -- Group title: Priest shoo
 #: 47446-Dialogue.mod:0
 msgid "This is private property."
-msgstr ""
+msgstr "這是私人財產。"
 
 #. Id: 47446-Dialogue.mod
 #. -- Index: 0.1
@@ -119,7 +119,7 @@ msgstr ""
 #. -- Group title: Priest shoo
 #: 47446-Dialogue.mod:1
 msgid "You're intruding..."
-msgstr ""
+msgstr "你在干擾......"
 
 #. Id: 47446-Dialogue.mod
 #. -- Index: 0.2
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Group title: Priest shoo
 #: 47446-Dialogue.mod:2
 msgid "You're not supposed to be in here."
-msgstr ""
+msgstr "你不應該在這裡。"
 
 #. Id: 47446-Dialogue.mod
 #. -- Index: 0.3
@@ -137,7 +137,7 @@ msgstr ""
 #. -- Group title: Priest shoo
 #: 47446-Dialogue.mod:3
 msgid "Please leave, you shouldn't be here."
-msgstr ""
+msgstr "請離開，你不應該在這裡。"
 
 #. Id: 47446-Dialogue.mod
 #. -- Index: 0.4
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Group title: shoo civ
 #: 47446-Dialogue.mod:4 13927-Escapes.mod:1 3127-gamedata.base:0
 msgid "What are you doing in here?"
-msgstr ""
+msgstr "你在這做什麼？"
 
 #. Id: 40652-Dialogue.mod
 #. -- Index: 1.3
@@ -170,7 +170,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40652-Dialogue.mod:3
 msgid "Get out, intruder! Paladins!"
-msgstr ""
+msgstr "出去，入侵！聖騎士！"
 
 #. Id: 40652-Dialogue.mod
 #. -- Index: 1.4
@@ -180,7 +180,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40652-Dialogue.mod:4
 msgid "Leave, or I'll call the paladins"
-msgstr ""
+msgstr "離開，或者我會打電話給聖騎士"
 
 #. Id: 40652-Dialogue.mod
 #. -- Index: 1.5
@@ -190,7 +190,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 40652-Dialogue.mod:5
 msgid "Leave at once!"
-msgstr ""
+msgstr "馬上離開吧！"
 
 #. Id: 42327-Dialogue.mod
 #. -- Index: 2.0
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42327-Dialogue.mod:0
 msgid "I'm warning you!"
-msgstr ""
+msgstr "我警告你！"
 
 #. Id: 42327-Dialogue.mod
 #. -- Index: 2.1
@@ -210,7 +210,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42327-Dialogue.mod:1
 msgid "What's wrong with you? I said leave!"
-msgstr ""
+msgstr "你這人怎麼回事？我說離開！"
 
 #. Id: 42327-Dialogue.mod
 #. -- Index: 2.2
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42327-Dialogue.mod:2
 msgid "You! Get out!"
-msgstr ""
+msgstr "您！出去！"
 
 #. Id: 42327-Dialogue.mod
 #. -- Index: 2.3
@@ -230,7 +230,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42327-Dialogue.mod:3
 msgid "I'm talking to you!"
-msgstr ""
+msgstr "我在跟你說話！"
 
 #. Id: 42328-Dialogue.mod
 #. -- Index: 3.2
@@ -240,7 +240,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42328-Dialogue.mod:2
 msgid "Paladins! Paladins, over here!"
-msgstr ""
+msgstr "聖騎士！聖騎士，在這裡！"
 
 #. Id: 42328-Dialogue.mod
 #. -- Index: 3.3
@@ -250,7 +250,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 42328-Dialogue.mod:3
 msgid "Paladins! I need help!"
-msgstr ""
+msgstr "聖騎士！我需要幫助！"
 
 #. Id: 42328-Dialogue.mod
 #. -- Index: 3.4
@@ -281,4 +281,3 @@ msgstr ""
 #: 42328-Dialogue.mod:6
 msgid "Paladins, don't let /HIM/ escape!"
 msgstr ""
-

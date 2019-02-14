@@ -171,7 +171,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12776-Dialogue?(11)?(2).mod:0
 msgid "I see what you're doing. Have some shame damnit"
-msgstr ""
+msgstr "我明白你在做什麼。有些羞恥該死的"
 
 #. Id: 12776-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -236,7 +236,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
 #: 12777-Dialogue?(11)?(2).mod:0
 msgid "Get out of here, go!"
-msgstr ""
+msgstr "離開這裡，走吧！"
 
 #. Id: 12777-Dialogue (11) (2).mod
 #. -- Index: 1.1
@@ -256,7 +256,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RUNNING=0, Tag: -1
 #: 12777-Dialogue?(11)?(2).mod:2
 msgid "Leave... go!"
-msgstr ""
+msgstr "離開......去！"
 
 #. Id: 12779-Dialogue (11) (2).mod
 #. -- Index: 0.0
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Condition: My Sub-Race(s): Greenlander or Shek
 #: 12779-Dialogue?(11)?(2).mod:0
 msgid "Hey! Get out of here!"
-msgstr ""
+msgstr "嘿!離開這裡！"
 
 #. Id: 12779-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -302,7 +302,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 12779-Dialogue?(11)?(2).mod:1 13939-Escapes.mod:2 13945-Escapes.mod:7 15638-Dialogue.mod:3 12350-Dialogue?(10).mod:3
 msgid "Scram!"
-msgstr ""
+msgstr "急停！"
 
 #. Id: 12779-Dialogue (11) (2).mod
 #. -- Index: 0.3
@@ -409,7 +409,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 12788-Dialogue?(11)?(2).mod:0 44128-Dialogue.mod:0 47388-Dialogue.mod:0
 msgid "Hey! Scram!"
-msgstr ""
+msgstr "嘿!急停！"
 
 #. Id: 12788-Dialogue (11) (2).mod
 #. -- Index: 0.1
@@ -449,7 +449,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 12794-Dialogue?(11)?(2).mod:1
 msgid "Start running before I cut you!"
-msgstr ""
+msgstr "在我砍你之前開始跑！"
 
 #. Id: 12794-Dialogue (11) (2).mod
 #. -- Index: 1.2
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 12794-Dialogue?(11)?(2).mod:2 46446-Dialogue.mod:3
 msgid "I said scram!"
-msgstr ""
+msgstr "我說scram！"
 
 #. Id: 12794-Dialogue (11) (2).mod
 #. -- Index: 1.3
@@ -479,5 +479,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 12794-Dialogue?(11)?(2).mod:3
 msgid "You'd better start running!"
-msgstr ""
-
+msgstr "你最好開始跑！"

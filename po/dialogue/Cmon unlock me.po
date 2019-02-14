@@ -24,7 +24,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7311-Dialogue.mod:0 6036-Dialogue.mod:4
 msgid "Yeah yeah, c'mon unlock me!"
-msgstr ""
+msgstr "是的，拜託解鎖我吧！"
 
 #. Id: 7311-Dialogue.mod
 #. -- Index: 0.1
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7311-Dialogue.mod:1 6039-Dialogue.mod:4
 msgid "That's it, that's it! Help me out!"
-msgstr ""
+msgstr "就是這樣，就是這樣！幫幫我！"
 
 #. Id: 7311-Dialogue.mod
 #. -- Index: 0.2
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 7311-Dialogue.mod:2 6041-Dialogue.mod:5
 msgid "Yeah yeah yeah, get me out, get me out!"
-msgstr ""
+msgstr "是的對，是的，讓我出去，讓我出去！"
 
 #. Id: 7311-Dialogue.mod
 #. -- Index: 0.3
@@ -71,7 +71,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 7311-Dialogue.mod:3 6041-Dialogue.mod:6
 msgid "Yes! C'mon, c'mon, let me out!"
-msgstr ""
+msgstr "是!來吧，來吧，讓我出去！"
 
 #. Id: 7312-Dialogue.mod
 #. -- Index: 0.0
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 7312-Dialogue.mod:1 16786-Dialogue.mod:1
 msgid "... you?"
-msgstr ""
+msgstr "你呢？"
 
 #. Id: 7314-Dialogue.mod
 #. -- Index: 1.0
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Group title: Cmon unlock me
 #: 7314-Dialogue.mod:0
 msgid "Why are you helping me..."
-msgstr ""
+msgstr "你為什麼幫我..."
 
 #. Id: 7314-Dialogue.mod
 #. -- Index: 1.2
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 7314-Dialogue.mod:2 6056-Dialogue.mod:2
 msgid "You're helping me?"
-msgstr ""
+msgstr "你在幫我嗎？"
 
 #. Id: 7314-Dialogue.mod
 #. -- Index: 1.3
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Group title: Cmon unlock me
 #: 7314-Dialogue.mod:3
 msgid "You're helping me now?"
-msgstr ""
+msgstr "你現在在幫我嗎？"
 
 #. Id: 7315-Dialogue.mod
 #. -- Index: 0.0
@@ -170,7 +170,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7315-Dialogue.mod:1 6039-Dialogue.mod:5
 msgid "Jackpot! Yes! Get me out of here, please!"
-msgstr ""
+msgstr "大獎！是!請讓我離開這裡！"
 
 #. Id: 7315-Dialogue.mod
 #. -- Index: 0.2
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7315-Dialogue.mod:2 6036-Dialogue.mod:5
 msgid "That's it! Thank you thank you! Don't leave me here!"
-msgstr ""
+msgstr "而已！謝謝謝謝！不要離開我！"
 
 #. Id: 17743-Dialogue.mod
 #. -- Index: 0.0
@@ -204,7 +204,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17743-Dialogue.mod:0 16828-Dialogue.mod:0
 msgid "Wh- what you doin'?!"
-msgstr ""
+msgstr "什麼，你做什麼？！"
 
 #. Id: 17743-Dialogue.mod
 #. -- Index: 0.1
@@ -222,7 +222,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17743-Dialogue.mod:1 16828-Dialogue.mod:1
 msgid "H- hey! No! Don't do that!"
-msgstr ""
+msgstr "嘿！沒有！不要那樣做！"
 
 #. Id: 17743-Dialogue.mod
 #. -- Index: 0.2
@@ -240,7 +240,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17743-Dialogue.mod:2 16828-Dialogue.mod:2
 msgid "Stop! No..."
-msgstr ""
+msgstr "停止！沒有..."
 
 #. Id: 17745-Dialogue.mod
 #. -- Index: 1.0
@@ -254,7 +254,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 17745-Dialogue.mod:0 16831-Dialogue.mod:0
 msgid "Go away... Th- the master will see!"
-msgstr ""
+msgstr "走開......主人會看到！"
 
 #. Id: 17745-Dialogue.mod
 #. -- Index: 1.1
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 17745-Dialogue.mod:1 16831-Dialogue.mod:1
 msgid "Leave me alone... Th- the master will punish me!"
-msgstr ""
+msgstr "別管我了......主人會懲罰我！"
 
 #. Id: 17745-Dialogue.mod
 #. -- Index: 1.2
@@ -282,7 +282,7 @@ msgstr ""
 #. -- Group title: Bandit rescue attemp
 #: 17745-Dialogue.mod:2 16831-Dialogue.mod:2
 msgid "Th- the master will see!"
-msgstr ""
+msgstr "主人會看到！"
 
 #. Id: 17745-Dialogue.mod
 #. -- Index: 1.3
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Group title: Cmon unlock me
 #: 17745-Dialogue.mod:3
 msgid "Noooo! What about the master!? THE MASTER!!!"
-msgstr ""
+msgstr "不要！主人怎麼樣？？大師！！！"
 
 #. Id: 17746-Dialogue.mod
 #. -- Index: 0.0
@@ -309,7 +309,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 17746-Dialogue.mod:0 16834-Dialogue.mod:0
 msgid "H- huh?!"
-msgstr ""
+msgstr "嗯？！"
 
 #. Id: 17746-Dialogue.mod
 #. -- Index: 0.1
@@ -334,7 +334,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17746-Dialogue.mod:1 16834-Dialogue.mod:1 16825-Dialogue.mod:1
 msgid "N- no..."
-msgstr ""
+msgstr "N-不..."
 
 #. Id: 17746-Dialogue.mod
 #. -- Index: 0.2
@@ -359,5 +359,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 17746-Dialogue.mod:2 12949-Dialogue?(11)?(2).mod:2 16834-Dialogue.mod:2
 msgid "No... no..."
-msgstr ""
-
+msgstr "不，不..."

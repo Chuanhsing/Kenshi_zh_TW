@@ -44,7 +44,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_FEMALE=1, Tag: -1
 #: 1534128-__Fixes.mod:0 95563-Mourn.mod:0 18900-gamedata.base:1 95737-__Mourn.mod:3 181-gamedata.quack:0 42992-Dialogue.mod:0
 msgid "Looking to trade?"
-msgstr ""
+msgstr "想交易？"
 
 #. Id: 1534128-__Fixes.mod
 #. -- Index: 0.1
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 1534128-__Fixes.mod:1 95563-Mourn.mod:1 181-gamedata.quack:1 42992-Dialogue.mod:4 42975-Dialogue.mod:3
 msgid "See anything you like?"
-msgstr ""
+msgstr "看到你喜歡的一切？"
 
 #. Id: 1534128-__Fixes.mod
 #. -- Index: 0.2
@@ -108,7 +108,7 @@ msgstr ""
 #. -- Group title: Hire me empire 700
 #: 1534128-__Fixes.mod:2 95563-Mourn.mod:2 95737-__Mourn.mod:0 181-gamedata.quack:2 12718-Dialogue?(11)?(2).mod:0
 msgid "How can I help?"
-msgstr ""
+msgstr "我該怎麼幫忙？"
 
 #. Id: 1534128-__Fixes.mod
 #. -- Index: 0.3
@@ -152,7 +152,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 1534128-__Fixes.mod:3 95563-Mourn.mod:3 52849-rebirth.mod:2 95737-__Mourn.mod:1 181-gamedata.quack:3 42975-Dialogue.mod:2
 msgid "Looking to buy?"
-msgstr ""
+msgstr "想買？"
 
 #. Id: 1534128-__Fixes.mod
 #. -- Index: 0.4
@@ -183,7 +183,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: WARM_KIND
 #: 1534128-__Fixes.mod:4 95563-Mourn.mod:4 95737-__Mourn.mod:2 181-gamedata.quack:4 8403-Dialogue.mod:0
 msgid "Here to buy?"
-msgstr ""
+msgstr "在這買？"
 
 #. Id: 1534130-__Fixes.mod
 #. -- Index: 1.1
@@ -212,7 +212,7 @@ msgstr ""
 #. -- Group title: trader1
 #: 1534130-__Fixes.mod:1 95564-Mourn.mod:1 45027-Dialogue.mod:1 95585-__Mourn.mod:1 182-gamedata.quack:1
 msgid "Show me your goods."
-msgstr ""
+msgstr "告訴我你的貨物。"
 
 #. Id: 1534130-__Fixes.mod
 #. -- Index: 1.3
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Group title: trader1
 #: 1534130-__Fixes.mod:3 95564-Mourn.mod:3 45027-Dialogue.mod:3 95585-__Mourn.mod:3 182-gamedata.quack:3
 msgid "Let's do business."
-msgstr ""
+msgstr "我們做生意吧。"
 
 #. Id: 1534132-__Fixes.mod
 #. -- Index: 1.0
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Group title: Hire me 700 Shek Kingdom
 #: 1534132-__Fixes.mod:0 95566-Mourn.mod:0 1767-gamedata.base:0 95587-__Mourn.mod:0 184-gamedata.quack:0 19592-Dialogue.mod:0
 msgid "No, sorry."
-msgstr ""
+msgstr "不，對不起"
 
 #. Id: 1534133-__Fixes.mod
 #. -- Index: 0.0
@@ -309,5 +309,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: STOLE_FROM_ME
 #: 1534133-__Fixes.mod:0 95565-Mourn.mod:1 12596-gamedata.base:3 95588-__Mourn.mod:1 12613-gamedata.base:1
 msgid "Get lost, thief!"
-msgstr ""
-
+msgstr "迷路，小偷！"

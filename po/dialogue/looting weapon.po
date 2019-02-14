@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 12065-Dialogue?(10).mod:0
 msgid "Piece of junk..."
-msgstr ""
+msgstr "一塊垃圾..."
 
 #. Id: 12065-Dialogue (10).mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 12065-Dialogue?(10).mod:1
 msgid "Call this a sword...?"
-msgstr ""
+msgstr "稱之為劍......？"
 
 #. Id: 12065-Dialogue (10).mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 12065-Dialogue?(10).mod:2
 msgid "This is no sword..."
-msgstr ""
+msgstr "這不是劍......"
 
 #. Id: 12073-Dialogue (10).mod
 #. -- Index: 0.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Group title: looting weapon
 #: 14654-Dialogue?(4).mod:0
 msgid "Trashbags don't deserve swords"
-msgstr ""
+msgstr "垃圾袋不配劍"
 
 #. Id: 14654-Dialogue (4).mod
 #. -- Index: 0.1
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Group title: looting weapon
 #: 14654-Dialogue?(4).mod:1
 msgid "Mutts like you don't deserve to own swords"
-msgstr ""
+msgstr "像你這樣的笨蛋不值得擁有劍"
 
 #. Id: 14654-Dialogue (4).mod
 #. -- Index: 0.2
@@ -116,7 +116,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 14654-Dialogue?(4).mod:2 14655-Dialogue?(4).mod:2
 msgid "You don't deserve a sword"
-msgstr ""
+msgstr "你不值得一把劍"
 
 #. Id: 14654-Dialogue (4).mod
 #. -- Index: 0.3
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 14654-Dialogue?(4).mod:3 14655-Dialogue?(4).mod:3
 msgid "You aren't worthy of your sword"
-msgstr ""
+msgstr "你不配得勝劍"
 
 #. Id: 14655-Dialogue (4).mod
 #. -- Index: 0.0
@@ -141,7 +141,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 14655-Dialogue?(4).mod:0
 msgid "Scumbags don't deserve swords"
-msgstr ""
+msgstr "Scumbags不值得劍"
 
 #. Id: 14655-Dialogue (4).mod
 #. -- Index: 0.1
@@ -151,7 +151,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 14655-Dialogue?(4).mod:1
 msgid "Mutts like you don't deserve to own a sword"
-msgstr ""
+msgstr "像你這樣的笨蛋不值得擁有一把劍"
 
 #. Id: 17501-Dialogue.mod
 #. -- Index: 0.0
@@ -171,7 +171,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17501-Dialogue.mod:1
 msgid "One can never have too many swords"
-msgstr ""
+msgstr "一個人永遠不會有太多劍"
 
 #. Id: 17501-Dialogue.mod
 #. -- Index: 0.2
@@ -181,5 +181,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 17501-Dialogue.mod:2
 msgid "Fighting isn't for you"
-msgstr ""
-
+msgstr "戰鬥不適合你"

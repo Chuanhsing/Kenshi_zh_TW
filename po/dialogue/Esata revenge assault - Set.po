@@ -23,7 +23,7 @@ msgstr ""
 #. -- Group title: Esata revenge assault - Bayan
 #: 59788-Dialogue.mod:0 58589-Dialogue.mod:0
 msgid "You take my kin, you feel the wrath of Kral!"
-msgstr ""
+msgstr "你帶走了我的親人，你感受到了Kral的憤怒！"
 
 #. Id: 59789-Dialogue.mod
 #. -- Index: 2.0
@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: Esata revenge assault - Set
 #: 59789-Dialogue.mod:0
 msgid "Vengeance for Seto!"
-msgstr ""
+msgstr "瀨戶的複仇！"
 
 #. Id: 59789-Dialogue.mod
 #. -- Index: 2.1
@@ -41,7 +41,7 @@ msgstr ""
 #. -- Group title: Esata revenge assault - Set
 #: 59789-Dialogue.mod:1
 msgid "For Seto!"
-msgstr ""
+msgstr "對於瀨戶！"
 
 #. Id: 59789-Dialogue.mod
 #. -- Index: 2.2
@@ -50,7 +50,7 @@ msgstr ""
 #. -- Group title: Esata revenge assault - Set
 #: 59789-Dialogue.mod:2
 msgid "Blood for Seto!"
-msgstr ""
+msgstr "瀨戶的鮮血！"
 
 #. Id: 61354-Dialogue.mod
 #. -- Index: 0.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 61354-Dialogue.mod:0 61350-Dialogue.mod:0
 msgid "As long as I still breath, I am not defeated..."
-msgstr ""
+msgstr "只要我還在呼吸，我就不會被打敗......"
 
 #. Id: 61354-Dialogue.mod
 #. -- Index: 0.1
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 61354-Dialogue.mod:1 61350-Dialogue.mod:1
 msgid "Thought you'd be rid of me that easily? Think again..."
-msgstr ""
+msgstr "以為你會輕易擺脫我？再想想..."
 
 #. Id: 61354-Dialogue.mod
 #. -- Index: 0.2
@@ -98,7 +98,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 61354-Dialogue.mod:2 61350-Dialogue.mod:2
 msgid "I don't die so easily, enemy. You should have finished me when you had the chance..."
-msgstr ""
+msgstr "我不會那麼容易死，敵人。當你有機會的時候，你應該完成我的..."
 
 #. Id: 61354-Dialogue.mod
 #. -- Index: 0.3
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 61354-Dialogue.mod:3 61350-Dialogue.mod:3
 msgid "I'm back from the dead, enemy. And I won't rest until victory is mine..."
-msgstr ""
+msgstr "我從死裡復活，敵人。直到勝利是我的，我才會休息......"
 
 #. Id: 61354-Dialogue.mod
 #. -- Index: 0.4
@@ -130,7 +130,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: DEFEATED_MY_SQUAD_ONCE
 #: 61354-Dialogue.mod:4 61350-Dialogue.mod:4
 msgid "I AM NOT DEFEATED!"
-msgstr ""
+msgstr "我沒有被打敗！"
 
 #. Id: 61355-Dialogue.mod
 #. -- Index: 0.0
@@ -146,7 +146,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 61355-Dialogue.mod:0 61352-Dialogue.mod:0
 msgid "You fell to me once, you'll fall again..."
-msgstr ""
+msgstr "你摔倒在我身上，你會再次跌倒......"
 
 #. Id: 61355-Dialogue.mod
 #. -- Index: 0.1
@@ -162,5 +162,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: SQUAD_LOST_TO_ME_ONCE
 #: 61355-Dialogue.mod:1 61352-Dialogue.mod:1
 msgid "Vermin. They just refuse to die..."
-msgstr ""
-
+msgstr "害蟲。他們只是拒絕死..."

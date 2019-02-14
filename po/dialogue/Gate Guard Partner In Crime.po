@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 9522-Dialogue.mod:1
 msgid "How's business?"
-msgstr ""
+msgstr "生意怎麼樣？"
 
 #. Id: 9522-Dialogue.mod
 #. -- Index: 0.2
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 9522-Dialogue.mod:2
 msgid "Making the rounds?"
-msgstr ""
+msgstr "輪流？"
 
 #. Id: 9524-Dialogue.mod
 #. -- Index: 1.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9524-Dialogue.mod:0
 msgid "Just let me check your stuff real quick..."
-msgstr ""
+msgstr "讓我快速檢查你的東西......"
 
 #. Id: 9533-Dialogue.mod
 #. -- Index: 2.0
@@ -50,7 +50,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9533-Dialogue.mod:0
 msgid "Okay, looks good. Go on in"
-msgstr ""
+msgstr "好的，看起來不錯。繼續"
 
 #. Id: 52690-Dialogue.mod
 #. -- Index: 2.0
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 52690-Dialogue.mod:0
 msgid "Okay, looks good. Go on in."
-msgstr ""
+msgstr "好的，看起來不錯。繼續。"
 
 #. Id: 9523-Dialogue.mod
 #. -- Index: 0.0
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 9523-Dialogue.mod:0
 msgid "Well, if it isn't my favourite merchant..."
-msgstr ""
+msgstr "好吧，如果不是我最喜歡的商人......"
 
 #. Id: 9523-Dialogue.mod
 #. -- Index: 0.1
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9535-Dialogue.mod:0
 msgid "You're all clear. Go on in."
-msgstr ""
+msgstr "你們都很清楚。繼續。"
 
 #. Id: 9678-Dialogue.mod
 #. -- Index: 2.0
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 9678-Dialogue.mod:0
 msgid "Wink!"
-msgstr ""
+msgstr "眨眼！"
 
 #. Id: 9682-Dialogue.mod
 #. -- Index: 4.0
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9682-Dialogue.mod:0
 msgid "Wink? You know you're not supposed to actually shout 'wink', right? "
-msgstr ""
+msgstr "眨眼？你知道你不應該真的喊“眨眼”，對嗎？"
 
 #. Id: 53012-Dialogue.mod
 #. -- Index: 2.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 53014-Dialogue.mod:0
 msgid "If I don't get my cut, then you don't get free entry!"
-msgstr ""
+msgstr "如果我沒有得到我的切，那麼你不能免費進入！"
 
 #. Id: 53015-Dialogue.mod
 #. -- Index: 4.0
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9537-Dialogue.mod:0
 msgid "Go ahead, you can pass"
-msgstr ""
+msgstr "來吧，你可以通過"
 
 #. Id: 9532-Dialogue.mod
 #. -- Index: 1.0
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9532-Dialogue.mod:0
 msgid "Just going to need to seach you before you enter..."
-msgstr ""
+msgstr "在你進入之前需要先找到你..."
 
 #. Id: 9532-Dialogue.mod
 #. -- Index: 1.1
@@ -183,7 +183,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9532-Dialogue.mod:1
 msgid "Let me check your belongings "
-msgstr ""
+msgstr "讓我查看你的隨身物品"
 
 #. Id: 52192-Dialogue.mod
 #. -- Index: 2.0
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Group title: Drug bust bribe
 #: 52192-Dialogue.mod:0 51870-Dialogue.mod:0 52411-Dialogue.mod:0 53960-Dialogue.mod:0
 msgid "Go on through."
-msgstr ""
+msgstr "繼續。"
 
 #. Id: 9527-Dialogue.mod
 #. -- Index: 0.0
@@ -240,7 +240,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9528-Dialogue.mod:0
 msgid "You're clear, go on in"
-msgstr ""
+msgstr "你很清楚，繼續"
 
 #. Id: 9530-Dialogue.mod
 #. -- Index: 0.0
@@ -249,7 +249,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9530-Dialogue.mod:0
 msgid "Wait a minute. Just going to need to seach you before you enter..."
-msgstr ""
+msgstr "等一下。在你進入之前需要先找到你..."
 
 #. Id: 9530-Dialogue.mod
 #. -- Index: 0.1
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 9530-Dialogue.mod:1
 msgid "Okay, hold up a second. Let me check your belongings "
-msgstr ""
+msgstr "好的，舉起一秒鐘。讓我查看你的隨身物品"
 
 #. Id: 9539-Dialogue.mod
 #. -- Index: 1.0
@@ -268,7 +268,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_ILLEGAL_ITEM=1, Tag: -1
 #: 9539-Dialogue.mod:0
 msgid "Okay go ahead"
-msgstr ""
+msgstr "好的，繼續吧"
 
 #. Id: 52987-Dialogue.mod
 #. -- Index: 0.0
@@ -327,7 +327,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 52988-Dialogue.mod:0
 msgid "Clean as always. Go on through."
-msgstr ""
+msgstr "一如既往地清潔。繼續。"
 
 #. Id: 53000-Dialogue.mod
 #. -- Index: 1.0
@@ -336,7 +336,7 @@ msgstr ""
 #. -- Group title: Gate Guard Partner In Crime
 #: 53000-Dialogue.mod:0
 msgid "You're all clear, go on through."
-msgstr ""
+msgstr "你們都清楚了，繼續。"
 
 #. Id: 53021-Dialogue.mod
 #. -- Index: 1.0
@@ -347,7 +347,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<3000, Tag: -1
 #: 53021-Dialogue.mod:0
 msgid "... Wait..."
-msgstr ""
+msgstr "......等等......"
 
 #. Id: 52994-Dialogue.mod
 #. -- Index: 0.0
@@ -358,7 +358,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>400, Tag: -1
 #: 52994-Dialogue.mod:0
 msgid "Well, well, look who it is. Back to see our beautiful city, eh?"
-msgstr ""
+msgstr "嗯，好吧，看看它是誰。回去看看我們美麗的城市，嗯？"
 
 #. Id: 52994-Dialogue.mod
 #. -- Index: 0.1
@@ -381,4 +381,3 @@ msgstr ""
 #: 52994-Dialogue.mod:2
 msgid "I've missed you, /YOURNAME/. Well, my Cat sack has anyway."
 msgstr ""
-

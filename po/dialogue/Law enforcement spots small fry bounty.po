@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: SMART
 #: 13832-Escapes.mod:0
 msgid "...? Hmm?"
-msgstr ""
+msgstr "...？嗯？"
 
 #. Id: 13833-Escapes.mod
 #. -- Index: 1.0
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
 #: 13833-Escapes.mod:0
 msgid "... You... "
-msgstr ""
+msgstr "你......"
 
 #. Id: 13834-Escapes.mod
 #. -- Index: 2.0
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
 #: 13834-Escapes.mod:0
 msgid "Who are-"
-msgstr ""
+msgstr "誰是-"
 
 #. Id: 13835-Escapes.mod
 #. -- Index: 3.0
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: TARGET_IN_TALKING_RANGE=1, Tag: -1
 #: 13835-Escapes.mod:0
 msgid "You!... Halt! Criminal!"
-msgstr ""
+msgstr "你！......停下來！刑事！"
 
 #. Id: 13835-Escapes.mod
 #. -- Index: 3.1
@@ -68,7 +68,7 @@ msgstr ""
 #. -- Group title: Law enforcement spots small fry bounty
 #: 13843-Escapes.mod:0
 msgid ".. Nothing"
-msgstr ""
+msgstr ".. 沒有"
 
 #. Id: 14457-Dialogue (4).mod
 #. -- Index: 0.2
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 14457-Dialogue?(4).mod:2 15015-Dialogue.mod:2
 msgid "Outlaw!"
-msgstr ""
+msgstr "取締！"
 
 #. Id: 14457-Dialogue (4).mod
 #. -- Index: 0.3
@@ -92,5 +92,4 @@ msgstr ""
 #. -- Group title: Law enforcement spots small fry bounty
 #: 14457-Dialogue?(4).mod:3
 msgid "Villain!"
-msgstr ""
-
+msgstr "惡棍！"

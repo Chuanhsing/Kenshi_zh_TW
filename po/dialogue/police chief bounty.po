@@ -23,7 +23,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 1828-gamedata.base:0 59332-Dialogue.mod:0
 msgid "I'm a bounty hunter, looking for work."
-msgstr ""
+msgstr "我是賞金獵人，正在尋找工作。"
 
 #. Id: 1848-gamedata.base
 #. -- Index: 2.0
@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1848-gamedata.base:0
 msgid "I can't give you any leads right now.  Keep a look out for the big-time criminals like bandit leaders.  If you can take one down, bring 'em back here and you'll be rewarded."
-msgstr ""
+msgstr "我現在不能給你任何線索。留意像強盜領袖這樣的重要犯罪分子。如果你可以拿下一個，把他們帶回來，你會得到獎勵。"
 
 #. Id: 1849-gamedata.base
 #. -- Index: 3.0
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Group title: Shek law bounty
 #: 1849-gamedata.base:0 59335-Dialogue.mod:0
 msgid "Ok thanks for the info."
-msgstr ""
+msgstr "好的，謝謝你的信息。"
 
 #. Id: 1834-gamedata.base
 #. -- Index: 2.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1834-gamedata.base:0
 msgid "If you catch any bounties, bring em to me."
-msgstr ""
+msgstr "如果你抓到任何賞金，請把它帶給我。"
 
 #. Id: 12824-gamedata.base
 #. -- Index: 2.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 12824-gamedata.base:0
 msgid "Sure take a look"
-msgstr ""
+msgstr "當然看看"
 
 #. Id: 12824-gamedata.base
 #. -- Index: 2.1
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 12824-gamedata.base:1
 msgid "Heh heh, yeah"
-msgstr ""
+msgstr "嘿嘿，是的"
 
 #. Id: 12824-gamedata.base
 #. -- Index: 2.2
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 12824-gamedata.base:2
 msgid "Have a look at what I've got"
-msgstr ""
+msgstr "看看我有什麼"
 
 #. Id: 1835-gamedata.base
 #. -- Index: 0.0
@@ -92,7 +92,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 1835-gamedata.base:0
 msgid "Looks like you've caught a bounty.  Want a reward I suppose?"
-msgstr ""
+msgstr "看起來你已經獲得了賞金。我想要一個獎勵？"
 
 #. Id: 1840-gamedata.base
 #. -- Index: 1.0
@@ -126,7 +126,7 @@ msgstr ""
 #. -- Group title: Grey talk to (enemy capture)
 #: 1840-gamedata.base:0 62198-Dialogue.mod:0 62222-Dialogue.mod:0 59536-Dialogue.mod:0 59550-Dialogue.mod:0 60711-Dialogue.mod:0
 msgid "Take him."
-msgstr ""
+msgstr "帶他。"
 
 #. Id: 1844-gamedata.base
 #. -- Index: 0.0
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 1844-gamedata.base:0
 msgid "Looks like you've caught a bounty.  Is he dead?  You only get paid half for that."
-msgstr ""
+msgstr "看起來你已經獲得了賞金。他死了嗎？你只得到一半的報酬。"
 
 #. Id: 1846-gamedata.base
 #. -- Index: 1.0
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1846-gamedata.base:0
 msgid "Whatever.  Give me my money."
-msgstr ""
+msgstr "隨你。給我錢"
 
 #. Id: 1841-gamedata.base
 #. -- Index: 1.0
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1841-gamedata.base:0 62199-Dialogue.mod:0 62223-Dialogue.mod:0
 msgid "No, I was just showing him off."
-msgstr ""
+msgstr "不，我只是在炫耀他。"
 
 #. Id: 59056-Dialogue.mod
 #. -- Index: 0.0
@@ -180,7 +180,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59056-Dialogue.mod:0 59113-Dialogue.mod:0
 msgid "Looks like you've caught a- Is that Tinfist?... No, can't be... Bring him closer to me..."
-msgstr ""
+msgstr "看起來你已經抓住了 - 是Tinfist？...不，不能......讓他離我更近......"
 
 #. Id: 59057-Dialogue.mod
 #. -- Index: 1.0
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59057-Dialogue.mod:0 62200-Dialogue.mod:0
 msgid "Hoho! This'll put the boss in a good mood! And you, you'll go down a hero for this!"
-msgstr ""
+msgstr "HOHO！這會讓老闆心情愉快！而你，你會為此而犧牲英雄！"
 
 #. Id: 59058-Dialogue.mod
 #. -- Index: 2.0
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59058-Dialogue.mod:0
 msgid "Whatever. Give me my money."
-msgstr ""
+msgstr "隨你。給我錢"
 
 #. Id: 59064-Dialogue.mod
 #. -- Index: 3.0
@@ -231,7 +231,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59059-Dialogue.mod:0
 msgid "All in a day's work."
-msgstr ""
+msgstr "所有在一天的工作。"
 
 #. Id: 59067-Dialogue.mod
 #. -- Index: 2.0
@@ -250,7 +250,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59067-Dialogue.mod:0 59079-Dialogue.mod:0 62233-Dialogue.mod:0
 msgid "No, I was just showing them off."
-msgstr ""
+msgstr "不，我只是把它們展示出來。"
 
 #. Id: 59068-Dialogue.mod
 #. -- Index: 3.0
@@ -266,7 +266,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 59068-Dialogue.mod:0 59081-Dialogue.mod:0
 msgid "... Harbouring a wanted criminal is a serious offence. I'll give you one more chance, hunter. Hand the bounty over."
-msgstr ""
+msgstr "......窩藏被通緝犯是一種嚴重的罪行。我會再給你一次機會，獵人。交出賞金。"
 
 #. Id: 59069-Dialogue.mod
 #. -- Index: 4.0
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59069-Dialogue.mod:0
 msgid "Not going to happen."
-msgstr ""
+msgstr "不會發生。"
 
 #. Id: 59074-Dialogue.mod
 #. -- Index: 0.0
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59074-Dialogue.mod:0 59114-Dialogue.mod:0
 msgid "Well, well, well! If it isn't Big Bo... Not so big after all, is she? "
-msgstr ""
+msgstr "好吧，好吧！如果不是大博......畢竟不是那麼大，是嗎？"
 
 #. Id: 59076-Dialogue.mod
 #. -- Index: 1.0
@@ -300,7 +300,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59076-Dialogue.mod:0
 msgid "You'll want your reward I suppose?"
-msgstr ""
+msgstr "我想你會得到你的獎勵嗎？"
 
 #. Id: 59078-Dialogue.mod
 #. -- Index: 2.0
@@ -309,7 +309,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 59078-Dialogue.mod:0
 msgid "Take them."
-msgstr ""
+msgstr "拿走這些。"
 
 #. Id: 62208-Dialogue.mod
 #. -- Index: 3.0
@@ -323,7 +323,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 2
 #: 62208-Dialogue.mod:0 98095-Dialogue.mod:0
 msgid "I see..."
-msgstr ""
+msgstr "我知道了..."
 
 #. Id: 59075-Dialogue.mod
 #. -- Index: 0.0
@@ -339,7 +339,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59075-Dialogue.mod:0 59115-Dialogue.mod:0
 msgid "Grey... It's about time. This one's been outrunning the law long enough. That's quite a catch you got there, hunter."
-msgstr ""
+msgstr "格雷......這是關於時間的。這個人已經足夠長的時間了。獵人，你到達那裡真是太棒了。"
 
 #. Id: 59077-Dialogue.mod
 #. -- Index: 0.0
@@ -355,7 +355,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_DEAD=1, Tag: -1
 #: 59077-Dialogue.mod:0 59116-Dialogue.mod:0
 msgid "So you caught Jaegar, huh? This ought to put Tengu in a good mood for the week."
-msgstr ""
+msgstr "所以你抓住了Jaegar，是嗎？本週應該讓Tengu心情愉快。"
 
 #. Id: 62190-Dialogue.mod
 #. -- Index: 0.0
@@ -365,7 +365,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 62190-Dialogue.mod:0
 msgid "The lord of the Okranites?! You caught him?!"
-msgstr ""
+msgstr "奧克拉尼斯之王？！你抓住了他？！"
 
 #. Id: 62213-Dialogue.mod
 #. -- Index: 2.0
@@ -375,7 +375,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 62213-Dialogue.mod:0
 msgid "... You haul the leader himself of the Holy Nation all the way into United Cities headquarters, and you expect us to let you walk out with him alive? Hand him over."
-msgstr ""
+msgstr "......你把神聖國家的領導者一直拖到聯合城市總部，你希望我們讓你和他一起活著走出去嗎？把他交給他。"
 
 #. Id: 62191-Dialogue.mod
 #. -- Index: 0.0
@@ -385,7 +385,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
 #: 62191-Dialogue.mod:0
 msgid "The lord of the Okranites?! You killed him?!"
-msgstr ""
+msgstr "奧克拉尼斯之王？！你殺了他？！"
 
 #. Id: 62192-Dialogue.mod
 #. -- Index: 0.0
@@ -413,7 +413,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
 #: 62192-Dialogue.mod:0 62193-Dialogue.mod:0 62194-Dialogue.mod:0 62195-Dialogue.mod:0
 msgid "That's the high inquisitor of the Okranites... you caught him?"
-msgstr ""
+msgstr "那是Okranites的高級調查官......你抓住了他？"
 
 #. Id: 62228-Dialogue.mod
 #. -- Index: 2.0
@@ -422,7 +422,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 62228-Dialogue.mod:0
 msgid "You drag a high inquisitor all the way into United Cities headquarters, and then expect us to let you walk away with him alive? Hand him over."
-msgstr ""
+msgstr "你把一名高級調查員拖到聯合城市總部，然後期望我們讓你和他一起活著走開？把他交給他。"
 
 #. Id: 62196-Dialogue.mod
 #. -- Index: 0.0
@@ -438,7 +438,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=0, Tag: -1
 #: 62196-Dialogue.mod:0 62197-Dialogue.mod:0
 msgid "That's-!... Never expected to see the Queen of the Shek taken down so easy..."
-msgstr ""
+msgstr "那是 - ！......沒想到會看到石之女王如此輕鬆......"
 
 #. Id: 62229-Dialogue.mod
 #. -- Index: 1.0
@@ -452,7 +452,7 @@ msgstr ""
 #. -- Group title: Grey talk to (enemy capture)
 #: 62229-Dialogue.mod:0 60754-Dialogue.mod:0
 msgid "Take her."
-msgstr ""
+msgstr "帶她去。"
 
 #. Id: 62235-Dialogue.mod
 #. -- Index: 2.0
@@ -462,7 +462,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: CARRYING_BOUNTY_ALIVE=1, Tag: -1
 #: 62235-Dialogue.mod:0
 msgid "You know I can't let you walk out of here with her alive... Hand her over."
-msgstr ""
+msgstr "你知道我不能讓你和她一起走出這裡......把她交給她。"
 
 #. Id: 1534070-__Fixes.mod
 #. -- Index: 0.0
@@ -476,7 +476,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1534070-__Fixes.mod:0 1534071-__Fixes.mod:0
 msgid "You killed the King Gurgler!"
-msgstr ""
+msgstr "你殺死了Gurgler國王！"
 
 #. Id: 1534072-__Fixes.mod
 #. -- Index: 1.0
@@ -490,7 +490,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1534072-__Fixes.mod:0 1534075-__Fixes.mod:0
 msgid "Yep. Can I have my reward?"
-msgstr ""
+msgstr "是的。我可以獲得獎勵嗎？"
 
 #. Id: 1534080-__Fixes.mod
 #. -- Index: 1.0
@@ -504,7 +504,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1534080-__Fixes.mod:0 1534088-__Fixes.mod:0
 msgid "Damn straight I did."
-msgstr ""
+msgstr "該死的，我做了。"
 
 #. Id: 1534082-__Fixes.mod
 #. -- Index: 2.0
@@ -522,7 +522,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1534085-__Fixes.mod:0
 msgid "A trophy collector will pay well for that head. You should be able to sell it at a good price."
-msgstr ""
+msgstr "獎杯收藏家將為這個頭付出好的代價。你應該能夠以合理的價格出售它。"
 
 #. Id: 1534086-__Fixes.mod
 #. -- Index: 4.0
@@ -531,7 +531,7 @@ msgstr ""
 #. -- Group title: police chief bounty
 #: 1534086-__Fixes.mod:0
 msgid "... Ugh, that thing stinks like rotten fish, now get it out of here already."
-msgstr ""
+msgstr "......呃，那東西像腐爛的魚一樣臭，現在已經把它帶出了這裡。"
 
 #. Id: 1534091-__Fixes.mod
 #. -- Index: 2.0
@@ -541,4 +541,3 @@ msgstr ""
 #: 1534091-__Fixes.mod:0
 msgid "No, not from me... job well done, /YOURNAME/ but this is a police station, not an animal house. What were you thinking bringing a wild monster like that in here?!"
 msgstr ""
-

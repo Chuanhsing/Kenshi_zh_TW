@@ -94,7 +94,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 47880-Dialogue.mod:1
 msgid "I don't like breathers. Give me the excuse to kill you and I will."
-msgstr ""
+msgstr "我不喜歡呼吸。給我藉口殺了你，我會。"
 
 #. Id: 47881-Dialogue.mod
 #. -- Index: 2.0
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47881-Dialogue.mod:0
 msgid "Last warning."
-msgstr ""
+msgstr "最後一次警告。"
 
 #. Id: 47881-Dialogue.mod
 #. -- Index: 2.1
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47881-Dialogue.mod:1
 msgid "No more warning."
-msgstr ""
+msgstr "沒有更多的警告。"
 
 #. Id: 47881-Dialogue.mod
 #. -- Index: 2.2
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47881-Dialogue.mod:2
 msgid "This is your last warning."
-msgstr ""
+msgstr "這是你的最後一個警告。"
 
 #. Id: 47882-Dialogue.mod
 #. -- Index: 3.0
@@ -191,7 +191,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 47882-Dialogue.mod:0 10682-Dialogue?(10).mod:0 45957-Dialogue.mod:3 55263-Dialogue.mod:0 3129-gamedata.base:0 1534391-Dialogue.mod:0 47317-Dialogue.mod:0 47318-Dialogue.mod:0 12635-Dialogue?(11)?(2).mod:2 46044-Dialogue.mod:0 44139-Dialogue.mod:3
 msgid "Leave."
-msgstr ""
+msgstr "離開。"
 
 #. Id: 47882-Dialogue.mod
 #. -- Index: 3.1
@@ -232,7 +232,7 @@ msgstr ""
 #. -- Group title: Get up fight dark skeleton
 #: 47882-Dialogue.mod:1 46071-Dialogue.mod:0 47905-Dialogue.mod:6 49118-Dialogue.mod:0 47902-Dialogue.mod:5 47903-Dialogue.mod:0
 msgid "Die."
-msgstr ""
+msgstr "死。"
 
 #. Id: 47882-Dialogue.mod
 #. -- Index: 3.2
@@ -284,7 +284,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BUILDING_IS_CLOSED_AND_SECURED=0, Tag: -1
 #: 47882-Dialogue.mod:2 96199-Dialogue.mod:0 43288-Dialogue.mod:0 53259-Dialogue.mod:0 49909-Dialogue.mod:0 53990-Dialogue.mod:0 9567-Dialogue.mod:5 52294-Dialogue.mod:0 44139-Dialogue.mod:4
 msgid "Go."
-msgstr ""
+msgstr "走。"
 
 #. Id: 47882-Dialogue.mod
 #. -- Index: 3.3
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47882-Dialogue.mod:3
 msgid "Sleep."
-msgstr ""
+msgstr "睡覺。"
 
 #. Id: 47892-Dialogue.mod
 #. -- Index: 1.0
@@ -304,7 +304,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47892-Dialogue.mod:0
 msgid "Leave or I will destroy you."
-msgstr ""
+msgstr "離開或我會毀了你。"
 
 #. Id: 47892-Dialogue.mod
 #. -- Index: 1.1
@@ -314,5 +314,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 47892-Dialogue.mod:1
 msgid "Leave here."
-msgstr ""
-
+msgstr "離開這裡。"

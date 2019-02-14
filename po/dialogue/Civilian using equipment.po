@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Civilian using equipment
 #: 52340-Dialogue.mod:0
 msgid "Private property, you can't use that. "
-msgstr ""
+msgstr "私有財產，你不能使用它。"
 
 #. Id: 52340-Dialogue.mod
 #. -- Index: 0.1
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: Civilian using equipment
 #: 52340-Dialogue.mod:2
 msgid "That's not for public use. Leave it alone, please."
-msgstr ""
+msgstr "這不是公眾使用的。請不要管它。"
 
 #. Id: 52340-Dialogue.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: Civilian using equipment
 #: 52340-Dialogue.mod:3
 msgid "Whoa, don't touch that."
-msgstr ""
+msgstr "哇，別碰那個。"
 
 #. Id: 52340-Dialogue.mod
 #. -- Index: 0.4
@@ -54,7 +54,7 @@ msgstr ""
 #. -- Group title: Civilian using equipment
 #: 52340-Dialogue.mod:4
 msgid "Whoa, what are you doing? Don't touch that."
-msgstr ""
+msgstr "哇，你在幹嘛？別碰那個。"
 
 #. Id: 52341-Dialogue.mod
 #. -- Index: 1.0
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52341-Dialogue.mod:0
 msgid "I said you can't use that."
-msgstr ""
+msgstr "我說你不能用那個。"
 
 #. Id: 52341-Dialogue.mod
 #. -- Index: 1.1
@@ -74,7 +74,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52341-Dialogue.mod:1
 msgid "I said you can't use it!"
-msgstr ""
+msgstr "我說你不能用它！"
 
 #. Id: 52341-Dialogue.mod
 #. -- Index: 1.2
@@ -84,7 +84,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52341-Dialogue.mod:2
 msgid "You hearing me? I said you can't use that!"
-msgstr ""
+msgstr "你聽到了嗎？我說你不能用那個！"
 
 #. Id: 52341-Dialogue.mod
 #. -- Index: 1.3
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52342-Dialogue.mod:0
 msgid "Get your filthy paws off my stuff!"
-msgstr ""
+msgstr "把你骯髒的爪子弄掉我的東西！"
 
 #. Id: 52342-Dialogue.mod
 #. -- Index: 2.1
@@ -114,7 +114,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52342-Dialogue.mod:1
 msgid "It's mine! Get off it!"
-msgstr ""
+msgstr "這是我的！下車吧！"
 
 #. Id: 52342-Dialogue.mod
 #. -- Index: 2.2
@@ -124,7 +124,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52342-Dialogue.mod:2
 msgid "Seriously, stop that!"
-msgstr ""
+msgstr "說真的，停下來！"
 
 #. Id: 52343-Dialogue.mod
 #. -- Index: 3.0
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52343-Dialogue.mod:1
 msgid "If you don't leave, I swear I'll call the guards!"
-msgstr ""
+msgstr "如果你不離開，我發誓我會打電話給警衛！"
 
 #. Id: 52343-Dialogue.mod
 #. -- Index: 3.2
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52343-Dialogue.mod:2
 msgid "Am I gonna have to call the guards here?!"
-msgstr ""
+msgstr "我在這裡打電話給警衛嗎？！"
 
 #. Id: 52343-Dialogue.mod
 #. -- Index: 3.3
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52343-Dialogue.mod:3
 msgid "Are you really gonna make me have to call the guards?!"
-msgstr ""
+msgstr "你真的要讓我打電話給守衛嗎？！"
 
 #. Id: 52884-Dialogue.mod
 #. -- Index: 4.0
@@ -174,7 +174,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52884-Dialogue.mod:0
 msgid "That's it! Now you're asking for trouble!"
-msgstr ""
+msgstr "而已！現在你要麻煩了！"
 
 #. Id: 52884-Dialogue.mod
 #. -- Index: 4.1
@@ -184,7 +184,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52884-Dialogue.mod:1
 msgid "... I don't even..."
-msgstr ""
+msgstr "......我甚至都不......"
 
 #. Id: 52884-Dialogue.mod
 #. -- Index: 4.2
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52884-Dialogue.mod:2
 msgid "Why are you even still here?!"
-msgstr ""
+msgstr "你為什麼還在這裡？！"
 
 #. Id: 52884-Dialogue.mod
 #. -- Index: 4.4
@@ -204,7 +204,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52884-Dialogue.mod:4
 msgid "Oh sure, just ignore me..."
-msgstr ""
+msgstr "哦，當然，請理睬我......"
 
 #. Id: 52886-Dialogue.mod
 #. -- Index: 5.2
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 52888-Dialogue.mod:0
 msgid "What are you doing? That's private property, leave it!"
-msgstr ""
+msgstr "你在做什麼？這是私人財產，離開吧！"
 
 #. Id: 52888-Dialogue.mod
 #. -- Index: 0.1
@@ -252,7 +252,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_FEMALE=0, Tag: -1
 #: 52888-Dialogue.mod:1
 msgid "Don't touch that! Get off it!"
-msgstr ""
+msgstr "別碰那個！下車吧！"
 
 #. Id: 52888-Dialogue.mod
 #. -- Index: 0.2
@@ -273,7 +273,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52892-Dialogue.mod:0
 msgid "I won't warn you again, woman! Leave it!"
-msgstr ""
+msgstr "我不會再警告你了，女人！別管它！"
 
 #. Id: 52893-Dialogue.mod
 #. -- Index: 2.1
@@ -283,5 +283,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52893-Dialogue.mod:1
 msgid "Disobedient woman..."
-msgstr ""
-
+msgstr "不聽話的女人......"

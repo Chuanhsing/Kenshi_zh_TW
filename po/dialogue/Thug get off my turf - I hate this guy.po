@@ -35,7 +35,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7642-Dialogue.mod:0 7668-Dialogue.mod:0 7693-Dialogue.mod:0
 msgid "Get the fuck out of here!"
-msgstr ""
+msgstr "他媽的離開這裡！"
 
 #. Id: 7642-Dialogue.mod
 #. -- Index: 0.1
@@ -46,7 +46,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 7642-Dialogue.mod:1
 msgid "This is MY territory!"
-msgstr ""
+msgstr "這是我的領土！"
 
 #. Id: 7642-Dialogue.mod
 #. -- Index: 0.2
@@ -57,7 +57,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 7642-Dialogue.mod:2
 msgid "You got balls showin' your faces around here"
-msgstr ""
+msgstr "你有球在這裡露面"
 
 #. Id: 7642-Dialogue.mod
 #. -- Index: 0.3
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7647-Dialogue.mod:2
 msgid "You're some pieces of shit aintcha"
-msgstr ""
+msgstr "你是一些狗屎aintcha"
 
 #. Id: 7647-Dialogue.mod
 #. -- Index: 0.3
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7647-Dialogue.mod:3
 msgid "Who do these guys think they are!"
-msgstr ""
+msgstr "這些傢伙認為他們是誰！"
 
 #. Id: 7647-Dialogue.mod
 #. -- Index: 0.4
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7647-Dialogue.mod:4
 msgid "I don't like your faces!"
-msgstr ""
+msgstr "我不喜歡你的臉！"
 
 #. Id: 7652-Dialogue.mod
 #. -- Index: 0.0
@@ -192,7 +192,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_MY_BUILDING=1, Tag: -1
 #: 7652-Dialogue.mod:0 12864-Dialogue?(11)?(2).mod:0 16193-Dialogue.mod:2 13929-Escapes.mod:4 13943-Escapes.mod:0 3130-gamedata.base:0 41472-Dialogue.mod:1 12350-Dialogue?(10).mod:1
 msgid "Get out of here!"
-msgstr ""
+msgstr "離開這裡！"
 
 #. Id: 7652-Dialogue.mod
 #. -- Index: 0.1
@@ -214,7 +214,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 7655-Dialogue.mod:0
 msgid "It's them..."
-msgstr ""
+msgstr "是他們......"
 
 #. Id: 7655-Dialogue.mod
 #. -- Index: 0.1
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 7655-Dialogue.mod:1
 msgid "It's those guys..."
-msgstr ""
+msgstr "那些人......"
 
 #. Id: 7655-Dialogue.mod
 #. -- Index: 0.2
@@ -267,7 +267,7 @@ msgstr ""
 #. -- Group title: Patritoic bandit sees player base
 #: 7655-Dialogue.mod:2 14625-Dialogue?(4).mod:0 98715-Dialogue.mod:0 42289-gamedata.base:0 97861-Dialogue.mod:0 3734-gamedata.base:4 97878-Dialogue.mod:0
 msgid "Get 'em!"
-msgstr ""
+msgstr "抓住他們！"
 
 #. Id: 7657-Dialogue.mod
 #. -- Index: 0.0
@@ -293,7 +293,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7657-Dialogue.mod:0 7687-Dialogue.mod:0 7735-Dialogue.mod:0
 msgid "Hm! Some new target practise"
-msgstr ""
+msgstr "哼！一些新的目標實踐"
 
 #. Id: 7657-Dialogue.mod
 #. -- Index: 0.1
@@ -319,7 +319,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7657-Dialogue.mod:1 7687-Dialogue.mod:1 7735-Dialogue.mod:1
 msgid "Do I smell a fight?"
-msgstr ""
+msgstr "我聞到了一場戰鬥嗎？"
 
 #. Id: 7657-Dialogue.mod
 #. -- Index: 0.2
@@ -345,7 +345,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7657-Dialogue.mod:2 7687-Dialogue.mod:3 7735-Dialogue.mod:3
 msgid "Time to try out mah new sword!"
-msgstr ""
+msgstr "是時候嘗試新劍！"
 
 #. Id: 7659-Dialogue.mod
 #. -- Index: 0.0
@@ -389,7 +389,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 7659-Dialogue.mod:3
 msgid "Urgh. I really hate these guys"
-msgstr ""
+msgstr "Urgh。我真的很討厭這些傢伙"
 
 #. Id: 7716-Dialogue.mod
 #. -- Index: 1.0
@@ -398,7 +398,7 @@ msgstr ""
 #. -- Group title: Thug get off my turf - I hate this guy
 #: 7716-Dialogue.mod:0
 msgid "Why can't you all just die already?"
-msgstr ""
+msgstr "為什麼你們不能都死了？"
 
 #. Id: 7716-Dialogue.mod
 #. -- Index: 1.1
@@ -412,7 +412,7 @@ msgstr ""
 #. -- Group title: Thug get off my turf - I hate this guy
 #: 7716-Dialogue.mod:1 7729-Dialogue.mod:0
 msgid "Just fuck off and die already"
-msgstr ""
+msgstr "只是他媽的已經死了"
 
 #. Id: 7716-Dialogue.mod
 #. -- Index: 1.2
@@ -426,7 +426,7 @@ msgstr ""
 #. -- Group title: Thug get off my turf - I hate this guy
 #: 7716-Dialogue.mod:2 7729-Dialogue.mod:1
 msgid "Leave us the hell alone!"
-msgstr ""
+msgstr "讓我們孤單一人吧！"
 
 #. Id: 7716-Dialogue.mod
 #. -- Index: 1.3
@@ -440,7 +440,7 @@ msgstr ""
 #. -- Group title: Thug get off my turf - I hate this guy
 #: 7716-Dialogue.mod:3 7729-Dialogue.mod:2
 msgid "Will you just die already?"
-msgstr ""
+msgstr "你會死嗎？"
 
 #. Id: 7716-Dialogue.mod
 #. -- Index: 1.4
@@ -449,7 +449,7 @@ msgstr ""
 #. -- Group title: Thug get off my turf - I hate this guy
 #: 7716-Dialogue.mod:4
 msgid "Somebody just hurry up and kill them"
-msgstr ""
+msgstr "有人只是快點殺了他們"
 
 #. Id: 7664-Dialogue.mod
 #. -- Index: 0.0
@@ -460,7 +460,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7664-Dialogue.mod:0
 msgid "Get the hell outta here yous!"
-msgstr ""
+msgstr "在這裡得到你的地獄！"
 
 #. Id: 7664-Dialogue.mod
 #. -- Index: 0.1
@@ -471,7 +471,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7664-Dialogue.mod:1
 msgid "What are yous doin' on our land?!"
-msgstr ""
+msgstr "你在我們的土地上做什麼？！"
 
 #. Id: 7664-Dialogue.mod
 #. -- Index: 0.2
@@ -530,7 +530,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 7666-Dialogue.mod:2 7692-Dialogue.mod:2 7738-Dialogue.mod:2
 msgid "I'm gonna make you pay for messing with us! "
-msgstr ""
+msgstr "我要付錢給我們搞砸！"
 
 #. Id: 7666-Dialogue.mod
 #. -- Index: 0.3
@@ -560,7 +560,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7668-Dialogue.mod:1 7693-Dialogue.mod:1
 msgid "I'll pop your head clean off!"
-msgstr ""
+msgstr "我會把你的頭清理乾淨！"
 
 #. Id: 7668-Dialogue.mod
 #. -- Index: 0.2
@@ -579,7 +579,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7668-Dialogue.mod:2 7693-Dialogue.mod:2
 msgid "You got balls showin' your face around here"
-msgstr ""
+msgstr "你有球在這裡露面"
 
 #. Id: 7668-Dialogue.mod
 #. -- Index: 0.3
@@ -601,7 +601,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 7668-Dialogue.mod:4
 msgid "This joker?"
-msgstr ""
+msgstr "這個小丑？"
 
 #. Id: 7668-Dialogue.mod
 #. -- Index: 0.5
@@ -651,7 +651,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7679-Dialogue.mod:0 7694-Dialogue.mod:0
 msgid "You're a piece of shit aintcha"
-msgstr ""
+msgstr "你是一塊狗屎aintcha"
 
 #. Id: 7679-Dialogue.mod
 #. -- Index: 0.1
@@ -683,7 +683,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7679-Dialogue.mod:2 7694-Dialogue.mod:2
 msgid "I don't like your face!"
-msgstr ""
+msgstr "我不喜歡你的臉！"
 
 #. Id: 7679-Dialogue.mod
 #. -- Index: 0.3
@@ -782,7 +782,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 7683-Dialogue.mod:1
 msgid "You gonna run away? Or you gonna fight?"
-msgstr ""
+msgstr "你會逃跑？或者你會打架？"
 
 #. Id: 7683-Dialogue.mod
 #. -- Index: 0.2
@@ -891,7 +891,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 7688-Dialogue.mod:3
 msgid "Urgh. I really hate this guy"
-msgstr ""
+msgstr "Urgh。我真的很討厭這個人"
 
 #. Id: 7729-Dialogue.mod
 #. -- Index: 1.3
@@ -911,7 +911,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7691-Dialogue.mod:0
 msgid "You! Get the hell outta here!"
-msgstr ""
+msgstr "您！在這裡得到地獄！"
 
 #. Id: 7691-Dialogue.mod
 #. -- Index: 0.1
@@ -933,7 +933,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7691-Dialogue.mod:2
 msgid "What are YOU doin' on our land?!"
-msgstr ""
+msgstr "你在我們的土地上做什麼？！"
 
 #. Id: 7692-Dialogue.mod
 #. -- Index: 0.0
@@ -1103,7 +1103,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 7695-Dialogue.mod:4
 msgid "I ain't gonna be pushed around by some WOMAN"
-msgstr ""
+msgstr "我不會被一些女人推開"
 
 #. Id: 7696-Dialogue.mod
 #. -- Index: 0.0
@@ -1115,7 +1115,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 7696-Dialogue.mod:0
 msgid "Looks like your luck's run out now, little girl"
-msgstr ""
+msgstr "看起來你的運氣現在用完了，小女孩"
 
 #. Id: 7696-Dialogue.mod
 #. -- Index: 0.1
@@ -1127,7 +1127,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 7696-Dialogue.mod:1
 msgid "You gonna run away, girl? Or you gonna fight?"
-msgstr ""
+msgstr "女孩，你會逃跑嗎？或者你會打架？"
 
 #. Id: 7696-Dialogue.mod
 #. -- Index: 0.2
@@ -1139,7 +1139,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 7696-Dialogue.mod:2
 msgid "C'mon, fight me. Show me what all the fuss is about, little girl"
-msgstr ""
+msgstr "來吧，打我吧。告訴我所有的大驚小怪，小女孩"
 
 #. Id: 7734-Dialogue.mod
 #. -- Index: 0.0
@@ -1156,7 +1156,7 @@ msgstr ""
 #. -- Group title: Swamper Gang Bad Relations
 #: 7734-Dialogue.mod:0 7820-Dialogue.mod:0
 msgid "Get her!"
-msgstr ""
+msgstr "得到她！"
 
 #. Id: 7734-Dialogue.mod
 #. -- Index: 0.1
@@ -1168,7 +1168,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=0, Tag: FEARFUL
 #: 7734-Dialogue.mod:1
 msgid "It's her! Attack, attack!"
-msgstr ""
+msgstr "是她！攻擊，攻擊！"
 
 #. Id: 7735-Dialogue.mod
 #. -- Index: 0.2
@@ -1240,7 +1240,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 7736-Dialogue.mod:3
 msgid "Urgh. I really hate this woman"
-msgstr ""
+msgstr "Urgh。我真的很討厭這個女人"
 
 #. Id: 7737-Dialogue.mod
 #. -- Index: 0.0
@@ -1276,7 +1276,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7737-Dialogue.mod:2
 msgid "What are YOU doin' on our land, woman?!"
-msgstr ""
+msgstr "你在我們的土地上做什麼，女人？！"
 
 #. Id: 7737-Dialogue.mod
 #. -- Index: 0.3
@@ -1288,7 +1288,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: DUMB
 #: 7737-Dialogue.mod:3
 msgid "This mouthy woman needs to be put in her place eh"
-msgstr ""
+msgstr "這個悶悶的女人需要放在她的位置呃"
 
 #. Id: 7738-Dialogue.mod
 #. -- Index: 0.0
@@ -1334,4 +1334,3 @@ msgstr ""
 #: 7761-Dialogue.mod:1
 msgid "/QUICKLAUGH/ this should be fun"
 msgstr ""
-

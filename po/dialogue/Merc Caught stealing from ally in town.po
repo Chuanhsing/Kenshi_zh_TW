@@ -69,7 +69,7 @@ msgstr ""
 #. -- Group title: Stealing from shop guard
 #: 43799-Dialogue.mod:4 43361-Dialogue.mod:2 14356-Dialogue?(4).mod:7
 msgid "Drop it, thief!"
-msgstr ""
+msgstr "放下它，小偷！"
 
 #. Id: 43799-Dialogue.mod
 #. -- Index: 0.5
@@ -112,7 +112,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 43801-Dialogue.mod:0 43364-Dialogue.mod:3
 msgid "Wrong place at the wrong time, thief!"
-msgstr ""
+msgstr "在錯誤的時間錯誤的地方，小偷！"
 
 #. Id: 43801-Dialogue.mod
 #. -- Index: 0.1
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 43801-Dialogue.mod:1 43364-Dialogue.mod:4
 msgid "Sinners be sinning..."
-msgstr ""
+msgstr "罪人犯罪......"
 
 #. Id: 43801-Dialogue.mod
 #. -- Index: 0.2
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 43801-Dialogue.mod:2
 msgid "Wrong place to steal from, thief!"
-msgstr ""
+msgstr "小偷從錯誤的地方竊取！"
 
 #. Id: 43801-Dialogue.mod
 #. -- Index: 0.3
@@ -154,7 +154,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 43801-Dialogue.mod:3 43364-Dialogue.mod:0
 msgid "Just you try me, thief!"
-msgstr ""
+msgstr "只是你試試我，小偷！"
 
 #. Id: 43803-Dialogue.mod
 #. -- Index: 0.0
@@ -170,7 +170,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 43803-Dialogue.mod:0 43365-Dialogue.mod:1
 msgid "Thieves be damned!"
-msgstr ""
+msgstr "小偷被詛咒！"
 
 #. Id: 43803-Dialogue.mod
 #. -- Index: 0.1
@@ -186,7 +186,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 43803-Dialogue.mod:1 43365-Dialogue.mod:2
 msgid "Curse you, thief!"
-msgstr ""
+msgstr "詛咒你，小偷！"
 
 #. Id: 43803-Dialogue.mod
 #. -- Index: 0.3
@@ -224,7 +224,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 43803-Dialogue.mod:4 43365-Dialogue.mod:4 14360-Dialogue?(4).mod:1
 msgid "Give it up, thief!"
-msgstr ""
+msgstr "放棄，小偷！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.0
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:0 43380-Dialogue.mod:1
 msgid "Curse you, beast!"
-msgstr ""
+msgstr "詛咒你，野獸！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.1
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:1 43380-Dialogue.mod:2
 msgid "Damn you, beast!"
-msgstr ""
+msgstr "該死的，野獸！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.2
@@ -275,7 +275,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:2 43380-Dialogue.mod:3
 msgid "Damn you, dark one!"
-msgstr ""
+msgstr "該死的，黑暗的！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.3
@@ -292,7 +292,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:3 43380-Dialogue.mod:4
 msgid "Leave here, beast!"
-msgstr ""
+msgstr "離開這裡，野獸！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.4
@@ -309,7 +309,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:4 43380-Dialogue.mod:5
 msgid "You're not welcome here, thieving damn beast!"
-msgstr ""
+msgstr "你在這裡不受歡迎，偷看該死的野獸！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.5
@@ -326,7 +326,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince or Hive Soldier Drone or Hive Worker Drone or Shek or Skeleton or Scorchlander
 #: 43806-Dialogue.mod:5 43380-Dialogue.mod:0
 msgid "Curse you, dark one!"
-msgstr ""
+msgstr "詛咒你，黑暗一個！"
 
 #. Id: 43806-Dialogue.mod
 #. -- Index: 0.6
@@ -336,7 +336,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 43806-Dialogue.mod:6
 msgid "Sinful beast!"
-msgstr ""
+msgstr "有罪的野獸！"
 
 #. Id: 43808-Dialogue.mod
 #. -- Index: 0.0
@@ -352,7 +352,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 43808-Dialogue.mod:0 43362-Dialogue.mod:0
 msgid "Thief! Sinners get burned!"
-msgstr ""
+msgstr "賊！罪人被燒了！"
 
 #. Id: 43808-Dialogue.mod
 #. -- Index: 0.1
@@ -368,7 +368,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 43808-Dialogue.mod:1 43362-Dialogue.mod:1
 msgid "Thief! Sinners be burned!"
-msgstr ""
+msgstr "賊！罪人被燒死！"
 
 #. Id: 43808-Dialogue.mod
 #. -- Index: 0.2
@@ -384,7 +384,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 43808-Dialogue.mod:2 43362-Dialogue.mod:2
 msgid "Thief! Evil! I'll break your fingers off!"
-msgstr ""
+msgstr "賊！邪惡！我會打斷你的手指！"
 
 #. Id: 43808-Dialogue.mod
 #. -- Index: 0.3
@@ -416,5 +416,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 43808-Dialogue.mod:4 43362-Dialogue.mod:4
 msgid "Sinners get broken fingers, thief!"
-msgstr ""
-
+msgstr "罪人手指壞了，小偷！"

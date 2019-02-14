@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 14226-Dialogue?(4).mod:1
 msgid "What are you doing there?!"
-msgstr ""
+msgstr "你在那裡做什麼？！"
 
 #. Id: 14226-Dialogue (4).mod
 #. -- Index: 0.2
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO>1, Tag: -1
 #: 14226-Dialogue?(4).mod:2
 msgid "You! What are you up to!?"
-msgstr ""
+msgstr "您！你要做什麼！？"
 
 #. Id: 14229-Dialogue (4).mod
 #. -- Index: 0.0
@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 14229-Dialogue?(4).mod:0
 msgid "What are you sneaking around for?!"
-msgstr ""
+msgstr "你在偷偷溜走的是什麼？！"
 
 #. Id: 14229-Dialogue (4).mod
 #. -- Index: 0.1
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_COMBAT=0, Tag: -1
 #: 14229-Dialogue?(4).mod:1
 msgid "You sneak, what are you doing?!"
-msgstr ""
+msgstr "你潛行，你在做什麼？！"
 
 #. Id: 14230-Dialogue (4).mod
 #. -- Index: 1.0
@@ -110,4 +110,3 @@ msgstr ""
 #: 14451-Dialogue?(4).mod:6
 msgid "Don't let /HIM/ get away! /SEIZE/ /HIM/!"
 msgstr ""
-

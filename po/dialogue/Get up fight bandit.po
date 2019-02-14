@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: MANIACAL
 #: 13428-Escapes.mod:0
 msgid "DIE!"
-msgstr ""
+msgstr "死！"
 
 #. Id: 13428-Escapes.mod
 #. -- Index: 0.5
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Group title: Get up fight bandit
 #: 13435-Escapes.mod:2
 msgid "... Nngh!"
-msgstr ""
+msgstr "...... Nngh！"
 
 #. Id: 45509-Dialogue.mod
 #. -- Index: 0.2
@@ -75,7 +75,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45509-Dialogue.mod:2
 msgid "Spare me!"
-msgstr ""
+msgstr "別管我！"
 
 #. Id: 45509-Dialogue.mod
 #. -- Index: 0.3
@@ -90,7 +90,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45509-Dialogue.mod:3
 msgid "Mercy! I yield!"
-msgstr ""
+msgstr "憐憫！我屈服了！"
 
 #. Id: 45509-Dialogue.mod
 #. -- Index: 0.4
@@ -105,7 +105,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45509-Dialogue.mod:4
 msgid "I yield! I yield!"
-msgstr ""
+msgstr "我屈服了！我屈服了！"
 
 #. Id: 45509-Dialogue.mod
 #. -- Index: 0.6
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45509-Dialogue.mod:6
 msgid "Don't kill me!"
-msgstr ""
+msgstr "別殺了我！"
 
 #. Id: 45509-Dialogue.mod
 #. -- Index: 0.7
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45509-Dialogue.mod:7
 msgid "I surrender!"
-msgstr ""
+msgstr "我投降！"
 
 #. Id: 45533-Dialogue.mod
 #. -- Index: 0.0
@@ -215,7 +215,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45533-Dialogue.mod:4
 msgid "Spare me! I quit!"
-msgstr ""
+msgstr "別管我！我不干了！"
 
 #. Id: 45533-Dialogue.mod
 #. -- Index: 0.5
@@ -231,7 +231,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45533-Dialogue.mod:5
 msgid "Spare me! I don't wanna die!"
-msgstr ""
+msgstr "別管我！我不想死！"
 
 #. Id: 45533-Dialogue.mod
 #. -- Index: 0.6
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 45533-Dialogue.mod:6
 msgid "Have mercy! I'm just a hungry bandit!"
-msgstr ""
+msgstr "憐憫！我只是一個飢餓的土匪！"
 
 #. Id: 45540-Dialogue.mod
 #. -- Index: 0.0
@@ -338,4 +338,3 @@ msgstr ""
 #: 45540-Dialogue.mod:5
 msgid "Rgh... /HEIS/ hurt... this is /MYOUR/ chance! Get /HIM/!"
 msgstr ""
-

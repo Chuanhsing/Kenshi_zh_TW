@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 55790-Dialogue.mod:0
 msgid "Welcome, dear human, and please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back in the cha- uh... back some time ago..."
-msgstr ""
+msgstr "歡迎，親愛的人，請原諒這個爛攤子。任何有光澤的，Dack囤積。真的很簡單。我確定他的頭腦在被擊中頭部後被炸了......回到前一段時間......"
 
 #. Id: 55791-Dialogue.mod
 #. -- Index: 1.0
@@ -28,7 +28,7 @@ msgstr ""
 #. -- Group title: Junkyard skeleton talk to
 #: 55791-Dialogue.mod:0
 msgid "Old magazines, fragments of old wreckages, funny shaped rocks... we don't have anything of much use here but then, of course, one man's junk is another man's treasure. So, how can I help you?"
-msgstr ""
+msgstr "舊雜誌，舊殘骸碎片，滑稽形狀的岩石......我們這裡沒有什麼用處，但當然，一個男人的垃圾是另一個男人的寶藏。那麼，我該如何幫助你？"
 
 #. Id: 55793-Dialogue.mod
 #. -- Index: 2.0
@@ -37,7 +37,7 @@ msgstr ""
 #. -- Group title: Junkyard skeleton talk to
 #: 55793-Dialogue.mod:0
 msgid "I've got enough junk, thanks."
-msgstr ""
+msgstr "我有足夠的垃圾，謝謝。"
 
 #. Id: 55797-Dialogue.mod
 #. -- Index: 0.0
@@ -48,7 +48,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Hive Prince
 #: 55797-Dialogue.mod:0
 msgid "Welcome, dear huma- uh... welcome, dear. Please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back in the cha- uh... back some time ago..."
-msgstr ""
+msgstr "親愛的，親愛的，歡迎，親愛的。請原諒這個爛攤子。任何有光澤的，Dack囤積。真的很簡單。我確定他的頭腦在被擊中頭部後被炸了......回到前一段時間......"
 
 #. Id: 55798-Dialogue.mod
 #. -- Index: 0.0
@@ -58,7 +58,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<120, Tag: -1
 #: 55798-Dialogue.mod:0
 msgid "Back in our little junkyard already? Each to their own, I suppose. How can I help?"
-msgstr ""
+msgstr "回到我們的小垃圾場了嗎？我想，每個都屬於他們自己。我該怎麼幫忙？"
 
 #. Id: 56014-Dialogue.mod
 #. -- Index: 0.0
@@ -68,5 +68,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 56014-Dialogue.mod:0
 msgid "Welcome, and please excuse the mess. Anything shiny, Dack hoards. A simpleton really. I'm sure his mind was fried when he got hit on the head back during the chaos age. Trying times I'm sure you remember..."
-msgstr ""
-
+msgstr "歡迎，請原諒這個爛攤子。任何有光澤的，Dack囤積。真的很簡單。在混沌時代，當他被擊中頭部時，我確信他的思緒是油炸的。嘗試時間我相信你還記得......"

@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 97951-Dialogue.mod:0
 msgid "Hand over your food and nobody dies..."
-msgstr ""
+msgstr "交出你的食物，沒有人死..."
 
 #. Id: 97956-Dialogue.mod
 #. -- Index: 1.0
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97956-Dialogue.mod:2
 msgid "You look half dead. You're in no condition to rob me..."
-msgstr ""
+msgstr "你看起來半死了。你沒有條件搶我..."
 
 #. Id: 97960-Dialogue.mod
 #. -- Index: 2.0
@@ -76,7 +76,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 97960-Dialogue.mod:0
 msgid "You don't even know... what hunger does to you. What it feels like, what it drives you to... I don't want to fight you. But more than I don't want to fight, I want to live another day..."
-msgstr ""
+msgstr "你甚至都不知道......飢餓對你有什麼影響。它是什麼感覺，是什麼驅使你...我不想打你。但是，我不想再戰鬥，我希望再過一天......"
 
 #. Id: 97964-Dialogue.mod
 #. -- Index: 3.0
@@ -86,7 +86,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PLAYERMONEY>200, Tag: -1
 #: 97964-Dialogue.mod:0
 msgid "Put your sword away. I can help you."
-msgstr ""
+msgstr "把你的劍拿走。我能幫你。"
 
 #. Id: 97967-Dialogue.mod
 #. -- Index: 5.0
@@ -142,7 +142,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 97967-Dialogue.mod:0 97968-Dialogue.mod:0 97969-Dialogue.mod:0 14611-Dialogue?(4).mod:0 41880-Dialogue.mod:0 6951-Dialogue.mod:0 15845-Dialogue.mod:0 98171-Dialogue.mod:0 1532726-Dialogue.mod:0
 msgid "Here..."
-msgstr ""
+msgstr "這裡..."
 
 #. Id: 97983-Dialogue.mod
 #. -- Index: 6.0
@@ -151,7 +151,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97983-Dialogue.mod:0
 msgid "Great... that will get me half a chewstick..."
-msgstr ""
+msgstr "太棒了...這會讓我半個嚼子......"
 
 #. Id: 97984-Dialogue.mod
 #. -- Index: 7.0
@@ -160,7 +160,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97984-Dialogue.mod:0
 msgid "... But it's better than a broken rib at least."
-msgstr ""
+msgstr "......但它至少比斷筋更好。"
 
 #. Id: 97985-Dialogue.mod
 #. -- Index: 6.0
@@ -191,7 +191,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Cannibals
 #: 97985-Dialogue.mod:0 13366-Escapes.mod:0 9875-Dialogue.mod:1 9884-Dialogue.mod:0 7064-Dialogue.mod:0
 msgid "Thank you..."
-msgstr ""
+msgstr "謝謝..."
 
 #. Id: 97985-Dialogue.mod
 #. -- Index: 6.1
@@ -200,7 +200,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97985-Dialogue.mod:1
 msgid "Look at all those Cats...!"
-msgstr ""
+msgstr "看看那些貓......！"
 
 #. Id: 97985-Dialogue.mod
 #. -- Index: 6.2
@@ -209,7 +209,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97985-Dialogue.mod:2
 msgid "You'd really just give me all those Cats...?"
-msgstr ""
+msgstr "你真的只是給我那些貓......？"
 
 #. Id: 97986-Dialogue.mod
 #. -- Index: 7.0
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Group title: Starver interrupt 2
 #: 97986-Dialogue.mod:0 98088-Dialogue.mod:0
 msgid "Thank you, friend."
-msgstr ""
+msgstr "謝謝你，朋友。"
 
 #. Id: 98211-Dialogue.mod
 #. -- Index: 7.0
@@ -232,7 +232,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 98211-Dialogue.mod:0
 msgid "Okay... this is good."
-msgstr ""
+msgstr "好的......這很好。"
 
 #. Id: 97965-Dialogue.mod
 #. -- Index: 3.0
@@ -241,7 +241,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97965-Dialogue.mod:0
 msgid "Cry me a river, dreg. You can't win. Run while you can."
-msgstr ""
+msgstr "哭我一條河，渣滓。你不能贏。盡可能跑。"
 
 #. Id: 97988-Dialogue.mod
 #. -- Index: 4.0
@@ -251,7 +251,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_OUTNUMBERED=1, Tag: -1
 #: 97988-Dialogue.mod:0
 msgid "[Their eyes dart around themselves as they size up your squad]"
-msgstr ""
+msgstr "[當他們把你的小隊放大時，他們的眼睛盯著自己]"
 
 #. Id: 97997-Dialogue.mod
 #. -- Index: 5.0
@@ -260,7 +260,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97997-Dialogue.mod:0
 msgid "Today isn't our day. Let's get outta here..."
-msgstr ""
+msgstr "今天不是我們的日子。讓我們離開這裡......"
 
 #. Id: 97989-Dialogue.mod
 #. -- Index: 4.0
@@ -272,7 +272,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
 #: 97989-Dialogue.mod:0
 msgid "I've nowhere to run."
-msgstr ""
+msgstr "我無處可逃。"
 
 #. Id: 97993-Dialogue.mod
 #. -- Index: 4.0
@@ -281,7 +281,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97993-Dialogue.mod:0
 msgid "[They cough feebly and give a pained look]"
-msgstr ""
+msgstr "[他們無力地咳嗽，看起來很痛苦]"
 
 #. Id: 97971-Dialogue.mod
 #. -- Index: 3.0
@@ -290,7 +290,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97971-Dialogue.mod:0
 msgid "I have nothing to give. I'm not worth fighting."
-msgstr ""
+msgstr "我沒什麼可給的。我不值得打架。"
 
 #. Id: 97991-Dialogue.mod
 #. -- Index: 4.0
@@ -302,7 +302,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: DAMAGED_HEAD=0, Tag: -1
 #: 97991-Dialogue.mod:0
 msgid "I doubt that..."
-msgstr ""
+msgstr "我不信..."
 
 #. Id: 97961-Dialogue.mod
 #. -- Index: 2.0
@@ -322,7 +322,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 97961-Dialogue.mod:1
 msgid "All I give a shit about is filling my stomach."
-msgstr ""
+msgstr "我所說的只是填飽肚子。"
 
 #. Id: 98008-Dialogue.mod
 #. -- Index: 3.0
@@ -343,7 +343,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: BROKEN_LEG=0, Tag: -1
 #: 98010-Dialogue.mod:0
 msgid "Then you'll have plenty to loot..."
-msgstr ""
+msgstr "然後你將有足夠的掠奪......"
 
 #. Id: 97962-Dialogue.mod
 #. -- Index: 2.0
@@ -361,7 +361,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97963-Dialogue.mod:0
 msgid "*cough* *hack* *splutter*"
-msgstr ""
+msgstr "*咳嗽* *黑客* * splutter *"
 
 #. Id: 98009-Dialogue.mod
 #. -- Index: 4.0
@@ -391,7 +391,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 98018-Dialogue.mod:0
 msgid "I'll show you just how intimidating I can be!"
-msgstr ""
+msgstr "我會告訴你我是多麼令人生畏！"
 
 #. Id: 98020-Dialogue.mod
 #. -- Index: 7.0
@@ -405,7 +405,7 @@ msgstr ""
 #. -- Group title: Tengu vault prisoner
 #: 98020-Dialogue.mod:0 63400-Dialogue.mod:0
 msgid "*cough* *hack*"
-msgstr ""
+msgstr "*咳嗽* *黑客*"
 
 #. Id: 97957-Dialogue.mod
 #. -- Index: 1.0
@@ -415,7 +415,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_PLAYER_TOWN=1, Tag: -1
 #: 97957-Dialogue.mod:0
 msgid "Leave! You're stinking up my town and the last thing I need are corpse flies..."
-msgstr ""
+msgstr "離開！你在我的小鎮上臭，最後我需要的是屍體蒼蠅......"
 
 #. Id: 98026-Dialogue.mod
 #. -- Index: 2.0
@@ -435,7 +435,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 98031-Dialogue.mod:0
 msgid "You should have handed over your food, friend..."
-msgstr ""
+msgstr "你應該交給你的食物，朋友......"
 
 #. Id: 98032-Dialogue.mod
 #. -- Index: 2.0
@@ -444,7 +444,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 98032-Dialogue.mod:0
 msgid "Then we'll just have to take your food..."
-msgstr ""
+msgstr "然後我們只需要你的食物......"
 
 #. Id: 97958-Dialogue.mod
 #. -- Index: 1.0
@@ -453,7 +453,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97958-Dialogue.mod:0
 msgid "Calm down... We don't need to spill blood here."
-msgstr ""
+msgstr "冷靜下來......我們不需要在這裡灑血。"
 
 #. Id: 97958-Dialogue.mod
 #. -- Index: 1.1
@@ -462,7 +462,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97958-Dialogue.mod:1
 msgid "There's no need for violence. Let's talk about this."
-msgstr ""
+msgstr "沒有必要暴力。我們來談談這個。"
 
 #. Id: 98027-Dialogue.mod
 #. -- Index: 2.0
@@ -472,7 +472,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 98027-Dialogue.mod:0
 msgid "Then cough up! Give me your food..."
-msgstr ""
+msgstr "然後咳嗽！給我你的食物......"
 
 #. Id: 98030-Dialogue.mod
 #. -- Index: 2.0
@@ -481,7 +481,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 98030-Dialogue.mod:0
 msgid "Then... please... help me. Spare some food..."
-msgstr ""
+msgstr "然後......拜託......幫助我。備用一些食物......"
 
 #. Id: 97959-Dialogue.mod
 #. -- Index: 1.0
@@ -490,7 +490,7 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97959-Dialogue.mod:0
 msgid "I've had it with you annoying starvers! (Attack)"
-msgstr ""
+msgstr "我已經和你討厭的飢餓者了！ （攻擊）"
 
 #. Id: 97959-Dialogue.mod
 #. -- Index: 1.1
@@ -508,5 +508,4 @@ msgstr ""
 #. -- Group title: Starver interrupt
 #: 97952-Dialogue.mod:0
 msgid "Drop your weapons and hand over your Cats..."
-msgstr ""
-
+msgstr "放下武器，交出你的貓......"

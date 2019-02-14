@@ -93,7 +93,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3244-gamedata.base:1
 msgid "You afraid of me?"
-msgstr ""
+msgstr "你怕我嗎？"
 
 #. Id: 3245-gamedata.base
 #. -- Index: 4.0
@@ -102,7 +102,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3245-gamedata.base:0
 msgid "RRAAARRR!!!"
-msgstr ""
+msgstr "RRAAARRR！"
 
 #. Id: 3766-gamedata.base
 #. -- Index: 5.0
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3766-gamedata.base:0
 msgid "HAHA HA!"
-msgstr ""
+msgstr "哈哈哈！"
 
 #. Id: 3850-gamedata.base
 #. -- Index: 6.0
@@ -121,7 +121,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 3850-gamedata.base:0
 msgid "Mind if we follow you?"
-msgstr ""
+msgstr "介意我們是否關注你？"
 
 #. Id: 3850-gamedata.base
 #. -- Index: 6.1
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 3850-gamedata.base:1
 msgid "Can we come with you?"
-msgstr ""
+msgstr "我們可以和你一起去嗎？"
 
 #. Id: 3850-gamedata.base
 #. -- Index: 6.2
@@ -159,7 +159,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3851-gamedata.base:1
 msgid "We should look after you. You look weak."
-msgstr ""
+msgstr "我們應該照顧你。你看起來很虛弱。"
 
 #. Id: 3851-gamedata.base
 #. -- Index: 7.2
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3851-gamedata.base:2
 msgid "We should band together for safety!"
-msgstr ""
+msgstr "為了安全，我們應該團結起來！"
 
 #. Id: 3852-gamedata.base
 #. -- Index: 8.0
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 3852-gamedata.base:0
 msgid "Give us some coin."
-msgstr ""
+msgstr "給我們一些硬幣。"
 
 #. Id: 3852-gamedata.base
 #. -- Index: 8.1
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 3852-gamedata.base:1
 msgid "Do you have any money?"
-msgstr ""
+msgstr "你有沒有錢？"
 
 #. Id: 3852-gamedata.base
 #. -- Index: 8.2
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=0, Tag: -1
 #: 3852-gamedata.base:2
 msgid "Show us your money. We'll keep it safe."
-msgstr ""
+msgstr "告訴我們你的錢。我們會保證它的安全。"
 
 #. Id: 3854-gamedata.base
 #. -- Index: 9.0
@@ -207,7 +207,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3854-gamedata.base:0
 msgid "How much are you going to pay us?"
-msgstr ""
+msgstr "你付多少錢給我們？"
 
 #. Id: 3854-gamedata.base
 #. -- Index: 9.1
@@ -216,7 +216,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3854-gamedata.base:1
 msgid "We can't do it for free, of course."
-msgstr ""
+msgstr "當然，我們不能免費這樣做。"
 
 #. Id: 3854-gamedata.base
 #. -- Index: 9.2
@@ -225,7 +225,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3854-gamedata.base:2
 msgid "How much money have you got?"
-msgstr ""
+msgstr "你有多少錢？"
 
 #. Id: 3854-gamedata.base
 #. -- Index: 9.3
@@ -234,7 +234,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3854-gamedata.base:3
 msgid "We can keep your valuables safe."
-msgstr ""
+msgstr "我們可以保護貴重物品的安全。"
 
 #. Id: 3856-gamedata.base
 #. -- Index: 11.0
@@ -252,7 +252,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3856-gamedata.base:1
 msgid "Pay us!"
-msgstr ""
+msgstr "付我們！"
 
 #. Id: 3856-gamedata.base
 #. -- Index: 11.2
@@ -306,7 +306,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 3746-gamedata.base:1 3749-gamedata.base:3 16035-Dialogue.mod:0 16075-Dialogue.mod:0
 msgid "Come here!"
-msgstr ""
+msgstr "過來！"
 
 #. Id: 3746-gamedata.base
 #. -- Index: 1.2
@@ -336,7 +336,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 3749-gamedata.base:2
 msgid "Why are you running away?"
-msgstr ""
+msgstr "你為什麼逃跑？"
 
 #. Id: 3749-gamedata.base
 #. -- Index: 2.4
@@ -366,7 +366,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 3749-gamedata.base:6
 msgid "We just want to talk!"
-msgstr ""
+msgstr "我們只是想談談！"
 
 #. Id: 3749-gamedata.base
 #. -- Index: 2.7
@@ -376,7 +376,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_RUNNING=1, Tag: -1
 #: 3749-gamedata.base:7
 msgid "Why are you running?"
-msgstr ""
+msgstr "你為何跑？"
 
 #. Id: 3752-gamedata.base
 #. -- Index: 3.0
@@ -386,7 +386,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: COPS_AROUND=1, Tag: -1
 #: 3752-gamedata.base:0
 msgid "Uh oh, cops."
-msgstr ""
+msgstr "呃哦，警察。"
 
 #. Id: 3755-gamedata.base
 #. -- Index: 3.0
@@ -414,7 +414,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3757-gamedata.base:1
 msgid "Screw this."
-msgstr ""
+msgstr "擰這個。"
 
 #. Id: 3757-gamedata.base
 #. -- Index: 3.2
@@ -423,7 +423,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3757-gamedata.base:2
 msgid "Fuck it!"
-msgstr ""
+msgstr "他媽的！"
 
 #. Id: 3757-gamedata.base
 #. -- Index: 3.3
@@ -432,7 +432,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3757-gamedata.base:3
 msgid "Ah for fuck's sake."
-msgstr ""
+msgstr "啊，他媽的緣故。"
 
 #. Id: 3758-gamedata.base
 #. -- Index: 4.0
@@ -468,7 +468,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3751-gamedata.base:1
 msgid "We're gonna have words!"
-msgstr ""
+msgstr "我們會說話！"
 
 #. Id: 3751-gamedata.base
 #. -- Index: 2.2
@@ -477,7 +477,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3751-gamedata.base:2
 msgid "What are you looking at?"
-msgstr ""
+msgstr "你在看什麼？"
 
 #. Id: 3751-gamedata.base
 #. -- Index: 2.3
@@ -486,7 +486,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3751-gamedata.base:3
 msgid "Think you are strong?"
-msgstr ""
+msgstr "認為你很堅強？"
 
 #. Id: 3274-gamedata.base
 #. -- Index: 0.1
@@ -495,7 +495,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3274-gamedata.base:1
 msgid "Raaarrrgggghhh!!!!"
-msgstr ""
+msgstr "Raaarrrgggghhh !!!!"
 
 #. Id: 3847-gamedata.base
 #. -- Index: 0.1
@@ -515,7 +515,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: STRONGER_THAN_ME=0, Tag: -1
 #: 3847-gamedata.base:2
 msgid "Oi oi oi!"
-msgstr ""
+msgstr "Oi oi oi！"
 
 #. Id: 3861-gamedata.base
 #. -- Index: 1.0
@@ -544,7 +544,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3863-gamedata.base:0
 msgid "Hey."
-msgstr ""
+msgstr "嘿。"
 
 #. Id: 3863-gamedata.base
 #. -- Index: 2.1
@@ -553,7 +553,7 @@ msgstr ""
 #. -- Group title: bandit fight picking new target in wilds
 #: 3863-gamedata.base:1
 msgid "Oi."
-msgstr ""
+msgstr "愛。"
 
 #. Id: 3864-gamedata.base
 #. -- Index: 3.0
@@ -583,7 +583,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 3865-gamedata.base:0 3867-gamedata.base:1
 msgid "Where you going?"
-msgstr ""
+msgstr "你去哪？"
 
 #. Id: 3865-gamedata.base
 #. -- Index: 4.2
@@ -649,4 +649,3 @@ msgstr ""
 #: 3873-gamedata.base:1
 msgid "Hey, /INSULT/?"
 msgstr ""
-

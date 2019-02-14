@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Civilian job ended
 #: 15960-Dialogue.mod:0
 msgid "Okay, I'm done here. Stay safe."
-msgstr ""
+msgstr "好的，我在這裡完成了。注意安全。"
 
 #. Id: 15960-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Civilian job ended
 #: 15960-Dialogue.mod:1
 msgid "I'm finished here. Safe travels."
-msgstr ""
+msgstr "我在這裡完成了。安全旅行。"
 
 #. Id: 15961-Dialogue.mod
 #. -- Index: 0.0
@@ -37,5 +37,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 15961-Dialogue.mod:0
 msgid "I'm done here. I'll be leaving."
-msgstr ""
-
+msgstr "我在這裡完成了。我要走了。"

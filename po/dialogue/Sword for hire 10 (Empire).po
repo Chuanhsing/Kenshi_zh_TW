@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Empire)
 #: 41200-Dialogue.mod:0
 msgid "You looking at my scar? It's rude to stare, you know... But since I'm in a cheery mood, buy me a drink and I'll tell you how I got it..."
-msgstr ""
+msgstr "你看著我的傷疤？盯著看是不禮貌的，你知道......但是因為我心情愉快，給我買一杯飲料，我會告訴你我是怎麼得到的......"
 
 #. Id: 41201-Dialogue.mod
 #. -- Index: 1.0
@@ -32,7 +32,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Swamper)
 #: 41201-Dialogue.mod:0 41184-Dialogue.mod:0
 msgid "How?"
-msgstr ""
+msgstr "怎麼樣？"
 
 #. Id: 41202-Dialogue.mod
 #. -- Index: 2.0
@@ -41,7 +41,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Empire)
 #: 41202-Dialogue.mod:0
 msgid "Honestly? Opened a can with my sword...slipped and nearly took my eye out. Usually though, I tell people I fought a ninja lord or something. I mean, I do twilight as a hitman and all."
-msgstr ""
+msgstr "說實話？用我的劍打開一個罐子......滑了一下，差點把我的眼睛拉出來。通常，我告訴別人我和忍者領主打過什麼。我的意思是，我作為一個殺手和所有人做暮光之城。"
 
 #. Id: 41203-Dialogue.mod
 #. -- Index: 3.0
@@ -55,7 +55,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Swamper)
 #: 41203-Dialogue.mod:0 41186-Dialogue.mod:0
 msgid "You still fight? Want to make some Cats?"
-msgstr ""
+msgstr "你還在打？想做一些貓嗎？"
 
 #. Id: 41207-Dialogue.mod
 #. -- Index: 4.0
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Swamper)
 #: 41207-Dialogue.mod:0 41187-Dialogue.mod:0
 msgid "Not...professionally. But I freelance, so to speak. And uh, well...for 6000 cats, I'll cut down who you want, when you want."
-msgstr ""
+msgstr "不...專業。但我可以說是自由職業者。呃，好吧......對於6000隻貓，當你想要的時候，我會減少你想要的人。"
 
 #. Id: 41208-Dialogue.mod
 #. -- Index: 5.0
@@ -85,7 +85,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 41208-Dialogue.mod:0 41188-Dialogue.mod:0
 msgid "I like your style. Fall in."
-msgstr ""
+msgstr "我喜歡你的風格。落入。"
 
 #. Id: 41209-Dialogue.mod
 #. -- Index: 5.0
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Swamper)
 #: 41209-Dialogue.mod:0 41189-Dialogue.mod:0
 msgid "Actually, forget we ever talked."
-msgstr ""
+msgstr "實際上，忘掉我們曾經說過的話。"
 
 #. Id: 41210-Dialogue.mod
 #. -- Index: 5.0
@@ -115,7 +115,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY<6000, Tag: -1
 #: 41210-Dialogue.mod:0 41190-Dialogue.mod:0
 msgid "I just...I just need to go grab some more money."
-msgstr ""
+msgstr "我只是......我只需要再多拿一些錢。"
 
 #. Id: 41204-Dialogue.mod
 #. -- Index: 3.0
@@ -129,7 +129,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Swamper)
 #: 41204-Dialogue.mod:0 41191-Dialogue.mod:0
 msgid "Wow, that's messed up. I'm out."
-msgstr ""
+msgstr "哇，那搞砸了。我出去了。"
 
 #. Id: 41205-Dialogue.mod
 #. -- Index: 1.0
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Group title: Sword for hire 10 (Empire)
 #: 41205-Dialogue.mod:0
 msgid "All I want to know is if you can fight and if you like Cats."
-msgstr ""
+msgstr "所有我想知道的是，如果你能戰鬥，如果你喜歡貓。"
 
 #. Id: 41206-Dialogue.mod
 #. -- Index: 1.0
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: TARGET_LAST_SEEN_X_HOURS_AGO<6, Tag: -1
 #: 41215-Dialogue.mod:0 18123-Recruits?Dialogue.mod:4
 msgid "So. You changed your mind."
-msgstr ""
+msgstr "所以。你改變了主意。"
 
 #. Id: 41218-Dialogue.mod
 #. -- Index: 1.0
@@ -180,7 +180,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: PLAYERMONEY>6000, Tag: -1
 #: 41218-Dialogue.mod:0 18125-Recruits?Dialogue.mod:3
 msgid "Had a change of heart. You're hired."
-msgstr ""
+msgstr "改變了主意。你被錄取了。"
 
 #. Id: 41219-Dialogue.mod
 #. -- Index: 2.0
@@ -194,7 +194,7 @@ msgstr ""
 #. -- Group title: hire me 2500
 #: 41219-Dialogue.mod:0 18129-Recruits?Dialogue.mod:0
 msgid "Then let's get going"
-msgstr ""
+msgstr "然後我們開始吧"
 
 #. Id: 41220-Dialogue.mod
 #. -- Index: 1.0
@@ -208,5 +208,4 @@ msgstr ""
 #. -- Group title: hire me 2500
 #: 41220-Dialogue.mod:0 18126-Recruits?Dialogue.mod:2
 msgid "Forget it, sorry to bother you"
-msgstr ""
-
+msgstr "算了，抱歉打擾你"

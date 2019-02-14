@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 40512-gamedata.base:0
 msgid "See you later!"
-msgstr ""
+msgstr "回頭見！"
 
 #. Id: 40512-gamedata.base
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 40512-gamedata.base:1
 msgid "So long, suckers!"
-msgstr ""
+msgstr "這麼久，吸盤！"
 
 #. Id: 40536-gamedata.base
 #. -- Index: 0.0
@@ -40,7 +40,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40536-gamedata.base:0
 msgid "You freed me from that hell, I owe you now friend."
-msgstr ""
+msgstr "你把我從那個地獄中解救出來，我欠你的朋友。"
 
 #. Id: 40536-gamedata.base
 #. -- Index: 0.1
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40536-gamedata.base:1
 msgid "I don't forget good deeds, count me in."
-msgstr ""
+msgstr "我不會忘記善行，算我。"
 
 #. Id: 40536-gamedata.base
 #. -- Index: 0.2
@@ -62,7 +62,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40536-gamedata.base:2
 msgid "I will repay you for this."
-msgstr ""
+msgstr "我會為此報答你的。"
 
 #. Id: 40536-gamedata.base
 #. -- Index: 0.3
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40536-gamedata.base:3
 msgid "I'll join you"
-msgstr ""
+msgstr "我會加入你的"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.0
@@ -82,7 +82,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:0
 msgid "I appreciate you setting me free, but I need to get back to my home."
-msgstr ""
+msgstr "我很感激你讓我自由，但我需要回到我的家。"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.1
@@ -91,7 +91,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:1
 msgid "I will repay you someday"
-msgstr ""
+msgstr "總有一天我會報答你的"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.2
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:2
 msgid "I have to go, I'm sorry"
-msgstr ""
+msgstr "我得走了，對不起"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.3
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:3
 msgid "Sorry I can't hang around, but I have to find my family"
-msgstr ""
+msgstr "對不起，我不能閒逛，但我必須找到我的家人"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.4
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:4
 msgid "My family needs me"
-msgstr ""
+msgstr "我的家人需要我"
 
 #. Id: 40540-gamedata.base
 #. -- Index: 0.5
@@ -127,7 +127,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40540-gamedata.base:5
 msgid "I have to get back home"
-msgstr ""
+msgstr "我得回家了"
 
 #. Id: 40541-gamedata.base
 #. -- Index: 1.1
@@ -136,7 +136,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40541-gamedata.base:1
 msgid "Sorry!"
-msgstr ""
+msgstr "抱歉!"
 
 #. Id: 40541-gamedata.base
 #. -- Index: 1.4
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Group title: purchased slave reaction- general
 #: 40541-gamedata.base:4
 msgid "I won't forget this!"
-msgstr ""
+msgstr "我不會忘記這個！"
 
 #. Id: 40542-gamedata.base
 #. -- Index: 0.0
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40542-gamedata.base:0
 msgid "Well, guess I'll join up"
-msgstr ""
+msgstr "好吧，猜猜我會加入"
 
 #. Id: 40542-gamedata.base
 #. -- Index: 0.1
@@ -165,7 +165,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40542-gamedata.base:1
 msgid "I don't have anywhere left to go"
-msgstr ""
+msgstr "我沒有任何地方可去"
 
 #. Id: 40542-gamedata.base
 #. -- Index: 0.2
@@ -175,7 +175,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40542-gamedata.base:2
 msgid "If you are anti-slaver, I'm on your side"
-msgstr ""
+msgstr "如果你是反奴隸，我就在你身邊"
 
 #. Id: 40542-gamedata.base
 #. -- Index: 0.3
@@ -185,5 +185,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_RECRUITABLE=1, Tag: -1
 #: 40542-gamedata.base:3
 msgid "I guess I owe you one now."
-msgstr ""
-
+msgstr "我想我現在欠你一個。"

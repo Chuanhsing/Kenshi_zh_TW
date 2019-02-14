@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: TOUGH using my equipment
 #: 52952-Dialogue.mod:1
 msgid "Hey, leave that alone, would you? That's for private use."
-msgstr ""
+msgstr "嘿，別管那個，好嗎？那是供私人使用的。"
 
 #. Id: 52952-Dialogue.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: TOUGH using my equipment
 #: 52952-Dialogue.mod:2
 msgid "Don't touch that."
-msgstr ""
+msgstr "別碰那個。"
 
 #. Id: 52954-Dialogue.mod
 #. -- Index: 2.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52954-Dialogue.mod:1
 msgid "I said that's private property. Would you leave it alone already?"
-msgstr ""
+msgstr "我說那是私有財產。你會不管它了嗎？"
 
 #. Id: 52954-Dialogue.mod
 #. -- Index: 2.2
@@ -66,7 +66,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52954-Dialogue.mod:2
 msgid "What's wrong with you? I said leave it alone."
-msgstr ""
+msgstr "你這人怎麼回事？我說不管它。"
 
 #. Id: 52955-Dialogue.mod
 #. -- Index: 3.0
@@ -96,7 +96,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52956-Dialogue.mod:0
 msgid "So that's how it's gonna be, eh?"
-msgstr ""
+msgstr "那就是它會怎麼樣，是嗎？"
 
 #. Id: 52956-Dialogue.mod
 #. -- Index: 4.1
@@ -116,5 +116,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: USING_MY_TRAINING_EQUIPMENT=1, Tag: -1
 #: 52957-Dialogue.mod:0
 msgid "You asked for it."
-msgstr ""
-
+msgstr "你自找的。"

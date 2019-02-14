@@ -24,7 +24,7 @@ msgstr ""
 #. -- Group title: Merc marked for death cannibals
 #: 5242-gamedata.base:3 12625-Dialogue?(11)?(2).mod:2
 msgid "Don't come any closer!"
-msgstr ""
+msgstr "不要再近了！"
 
 #. Id: 5242-gamedata.base
 #. -- Index: 0.4
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: STARVING=0, Tag: -1
 #: 5242-gamedata.base:4 15155-Dialogue.mod:2 54002-Dialogue.mod:2
 msgid "Hold it right there!"
-msgstr ""
+msgstr "把它抱在那兒！"
 
 #. Id: 5248-gamedata.base
 #. -- Index: 1.0
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Group title: gate guard spotting
 #: 5248-gamedata.base:0
 msgid "This is a private outpost, turn around and leave."
-msgstr ""
+msgstr "這是一個私人前哨，轉身離開。"
 
 #. Id: 5248-gamedata.base
 #. -- Index: 1.1
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Group title: gate guard spotting
 #: 5248-gamedata.base:1
 msgid "This is a private outpost. Trespass and you will be shot"
-msgstr ""
+msgstr "這是一個私人前哨。非法侵入，你將被槍殺"
 
 #. Id: 5248-gamedata.base
 #. -- Index: 1.2
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Group title: gate guard spotting
 #: 5248-gamedata.base:2
 msgid "This is private land. Leave immediately"
-msgstr ""
+msgstr "這是私人土地。馬上離開"
 
 #. Id: 5248-gamedata.base
 #. -- Index: 1.3
@@ -87,7 +87,7 @@ msgstr ""
 #. -- Group title: gate guard spotting
 #: 5248-gamedata.base:3
 msgid "This is private property. Entry to visitors is prohibited"
-msgstr ""
+msgstr "這是私人財產。禁止進入遊客"
 
 #. Id: 5248-gamedata.base
 #. -- Index: 1.4
@@ -96,5 +96,4 @@ msgstr ""
 #. -- Group title: gate guard spotting
 #: 5248-gamedata.base:4
 msgid "Come any closer and you'll be shot"
-msgstr ""
-
+msgstr "再往前走，你就會被槍殺"

@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: slave escape opportunity
 #: 42181-rebirth.mod:0
 msgid "That's it, I'm out of here!"
-msgstr ""
+msgstr "就是這樣，我離開了！"
 
 #. Id: 42181-rebirth.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: slave escape opportunity
 #: 42181-rebirth.mod:1
 msgid "Time to run."
-msgstr ""
+msgstr "是時候跑了。"
 
 #. Id: 42181-rebirth.mod
 #. -- Index: 0.2
@@ -36,7 +36,7 @@ msgstr ""
 #. -- Group title: slave escape opportunity
 #: 42181-rebirth.mod:2
 msgid "Good riddance."
-msgstr ""
+msgstr "甩掉包袱。"
 
 #. Id: 42181-rebirth.mod
 #. -- Index: 0.3
@@ -45,7 +45,7 @@ msgstr ""
 #. -- Group title: slave escape opportunity
 #: 42181-rebirth.mod:3
 msgid "Run for it!"
-msgstr ""
+msgstr "跑吧！"
 
 #. Id: 42314-rebirth.mod
 #. -- Index: 0.0
@@ -56,7 +56,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 42314-rebirth.mod:0
 msgid "What's going on!? Where are the masters!?"
-msgstr ""
+msgstr "這是怎麼回事！？主人在哪裡！？"
 
 #. Id: 42314-rebirth.mod
 #. -- Index: 0.1
@@ -67,7 +67,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 42314-rebirth.mod:1
 msgid "I'm not leaving my cage!"
-msgstr ""
+msgstr "我不是要離開我的籠子！"
 
 #. Id: 42314-rebirth.mod
 #. -- Index: 0.2
@@ -78,7 +78,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 42314-rebirth.mod:2
 msgid "Aaaaaaaaaaaaaaaaahhhhhhhhhhhhhh!"
-msgstr ""
+msgstr "Aaaaaaaaaaaaaaaaahhhhhhhhhhhhhh！"
 
 #. Id: 42314-rebirth.mod
 #. -- Index: 0.3
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 42314-rebirth.mod:3
 msgid "Aaaaaaaaaaaaaaaaaaaaaaaaaaaahhh!"
-msgstr ""
+msgstr "Aaaaaaaaaaaaaaaaaaaaaaaaaaaahhh！"
 
 #. Id: 42314-rebirth.mod
 #. -- Index: 0.4
@@ -100,7 +100,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: FEARFUL
 #: 42314-rebirth.mod:4
 msgid "AAAAAAAAAAAAAAHHHHHHHHH!"
-msgstr ""
+msgstr "AAAAAAAAAAAAAAHHHHHHHHH！"
 
 #. Id: 42319-rebirth.mod
 #. -- Index: 1.0
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Group title: slave escape opportunity
 #: 42319-rebirth.mod:2
 msgid "Where we going?"
-msgstr ""
+msgstr "我們去哪兒了？"
 
 #. Id: 42319-rebirth.mod
 #. -- Index: 1.3
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IN_COMBAT=0, Tag: -1
 #: 42319-rebirth.mod:3 46427-Dialogue.mod:4
 msgid "*ahem*"
-msgstr ""
+msgstr "*啊哈*"
 
 #. Id: 42321-rebirth.mod
 #. -- Index: 0.0
@@ -145,7 +145,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 42321-rebirth.mod:0
 msgid "Wait for me!"
-msgstr ""
+msgstr "等等我！"
 
 #. Id: 42321-rebirth.mod
 #. -- Index: 0.1
@@ -155,7 +155,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 42321-rebirth.mod:1
 msgid "I'm with you."
-msgstr ""
+msgstr "我和你在一起。"
 
 #. Id: 42321-rebirth.mod
 #. -- Index: 0.2
@@ -170,7 +170,7 @@ msgstr ""
 #. -- Group title: Caged bandit
 #: 42321-rebirth.mod:2 17017-Dialogue.mod:0
 msgid "We have to get out of here!"
-msgstr ""
+msgstr "我們必須離開這裡！"
 
 #. Id: 42321-rebirth.mod
 #. -- Index: 0.3
@@ -180,5 +180,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IN_A_NON_PLAYER_TOWN=1, Tag: -1
 #: 42321-rebirth.mod:3
 msgid "Let's get out of here."
-msgstr ""
-
+msgstr "我們離開這裡吧。"

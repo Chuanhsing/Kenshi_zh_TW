@@ -18,7 +18,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59450-Dialogue.mod:0
 msgid "Trying to run?"
-msgstr ""
+msgstr "想跑？"
 
 #. Id: 59450-Dialogue.mod
 #. -- Index: 0.1
@@ -27,7 +27,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59450-Dialogue.mod:1
 msgid "Trying to escape?"
-msgstr ""
+msgstr "想逃跑？"
 
 #. Id: 59451-Dialogue.mod
 #. -- Index: 1.0
@@ -42,7 +42,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 59451-Dialogue.mod:0 3690-dialogue-01.mod:2
 msgid "Coward!"
-msgstr ""
+msgstr "懦夫！"
 
 #. Id: 59452-Dialogue.mod
 #. -- Index: 1.0
@@ -51,7 +51,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59452-Dialogue.mod:0
 msgid "You're a Reaver now, whelp... you can't run from your fate."
-msgstr ""
+msgstr "你現在是個掠奪者，小時候......你無法逃脫命運。"
 
 #. Id: 59453-Dialogue.mod
 #. -- Index: 0.0
@@ -60,7 +60,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59453-Dialogue.mod:0
 msgid "Running away, coward?"
-msgstr ""
+msgstr "逃跑，懦夫？"
 
 #. Id: 59453-Dialogue.mod
 #. -- Index: 0.1
@@ -69,7 +69,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59453-Dialogue.mod:1
 msgid "Turning your back on the Reavers, coward?"
-msgstr ""
+msgstr "懦夫，躲開掠奪者？"
 
 #. Id: 59453-Dialogue.mod
 #. -- Index: 0.2
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Group title: Escaping reaver spotted
 #: 59454-Dialogue.mod:0
 msgid "You'll regret trying to escape us!"
-msgstr ""
+msgstr "你會後悔試圖逃避我們！"
 
 #. Id: 59454-Dialogue.mod
 #. -- Index: 1.1
@@ -286,5 +286,4 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 59454-Dialogue.mod:1 12836-Dialogue?(11)?(2).mod:0 12337-Dialogue?(10).mod:0 63193-Dialogue.mod:1 59502-Dialogue.mod:1 5033-gamedata.base:2
 msgid "Traitor!"
-msgstr ""
-
+msgstr "叛徒！"

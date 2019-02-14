@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 19780-Dialogue.mod:0
 msgid "WHAT'S HAPPENING!?"
-msgstr ""
+msgstr "發生了什麼！？"
 
 #. Id: 19780-Dialogue.mod
 #. -- Index: 0.1
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 19780-Dialogue.mod:1
 msgid "What are you doing, no-hive?!"
-msgstr ""
+msgstr "你做什麼，沒有蜂巢？！"
 
 #. Id: 19780-Dialogue.mod
 #. -- Index: 0.2
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 19780-Dialogue.mod:2
 msgid "WHAT IS THIS?!"
-msgstr ""
+msgstr "這是什麼？！"
 
 #. Id: 19780-Dialogue.mod
 #. -- Index: 0.3
@@ -49,7 +49,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 19780-Dialogue.mod:3
 msgid "Are you stealing, no-hive?!!"
-msgstr ""
+msgstr "你偷了嗎，沒有蜂巢？!!"
 
 #. Id: 19780-Dialogue.mod
 #. -- Index: 0.4
@@ -59,7 +59,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=0, Tag: -1
 #: 19780-Dialogue.mod:4
 msgid "Why are you doing that, no-hive?!!"
-msgstr ""
+msgstr "為什麼你這樣做，沒有蜂巢？!!"
 
 #. Id: 19782-Dialogue.mod
 #. -- Index: 1.1
@@ -73,7 +73,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19782-Dialogue.mod:1 19782-Dialogue.mod:6
 msgid "Stealer!"
-msgstr ""
+msgstr "偷竊者！"
 
 #. Id: 19782-Dialogue.mod
 #. -- Index: 1.2
@@ -104,7 +104,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 19782-Dialogue.mod:2 19785-Dialogue.mod:1 18129-Dialogue.mod:1 19762-Dialogue.mod:0 19765-Dialogue.mod:2
 msgid "They steal from us!"
-msgstr ""
+msgstr "他們偷了我們！"
 
 #. Id: 19782-Dialogue.mod
 #. -- Index: 1.3
@@ -135,7 +135,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 19782-Dialogue.mod:3 19785-Dialogue.mod:3 18129-Dialogue.mod:0 19762-Dialogue.mod:1 19765-Dialogue.mod:0
 msgid "They steal from the Hive!"
-msgstr ""
+msgstr "他們偷了蜂巢！"
 
 #. Id: 19782-Dialogue.mod
 #. -- Index: 1.4
@@ -144,7 +144,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19782-Dialogue.mod:4
 msgid "Stealing from the Hive! Stealing from the Queen!"
-msgstr ""
+msgstr "偷看蜂巢！偷走女王！"
 
 #. Id: 19782-Dialogue.mod
 #. -- Index: 1.5
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19782-Dialogue.mod:5
 msgid "No stealing!"
-msgstr ""
+msgstr "沒偷！"
 
 #. Id: 45176-Dialogue.mod
 #. -- Index: 1.0
@@ -164,7 +164,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45176-Dialogue.mod:0
 msgid "Don't let the no-hive escape! Kill them!"
-msgstr ""
+msgstr "不要讓無蜂巢逃脫！殺了他們！"
 
 #. Id: 45176-Dialogue.mod
 #. -- Index: 1.1
@@ -182,7 +182,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45176-Dialogue.mod:1 45178-Dialogue.mod:0
 msgid "They're trying to get away! Erase them!"
-msgstr ""
+msgstr "他們試圖逃脫！擦掉它們！"
 
 #. Id: 45176-Dialogue.mod
 #. -- Index: 1.2
@@ -193,7 +193,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45176-Dialogue.mod:2
 msgid "No! They can't get away from us!"
-msgstr ""
+msgstr "沒有！他們離不開我們！"
 
 #. Id: 45176-Dialogue.mod
 #. -- Index: 1.3
@@ -211,7 +211,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45176-Dialogue.mod:3 45178-Dialogue.mod:1
 msgid "Thief! No fair! No running away!"
-msgstr ""
+msgstr "賊！不公平！沒有逃跑！"
 
 #. Id: 19781-Dialogue.mod
 #. -- Index: 0.0
@@ -220,7 +220,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19781-Dialogue.mod:0
 msgid "Stealing!!"
-msgstr ""
+msgstr "偷！"
 
 #. Id: 19781-Dialogue.mod
 #. -- Index: 0.1
@@ -229,7 +229,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19781-Dialogue.mod:1
 msgid "What are you doing?! Gahh!"
-msgstr ""
+msgstr "你在做什麼？！ Gahh！"
 
 #. Id: 19781-Dialogue.mod
 #. -- Index: 0.2
@@ -238,7 +238,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19781-Dialogue.mod:2
 msgid "Ngahh! Why are you doing that?!"
-msgstr ""
+msgstr "Ngahh！你為什麼這樣做？！"
 
 #. Id: 19781-Dialogue.mod
 #. -- Index: 0.3
@@ -247,7 +247,7 @@ msgstr ""
 #. -- Group title: Hiver witness stealing
 #: 19781-Dialogue.mod:3
 msgid "Stealer!!"
-msgstr ""
+msgstr "偷竊者！"
 
 #. Id: 45178-Dialogue.mod
 #. -- Index: 1.2
@@ -258,7 +258,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45178-Dialogue.mod:2
 msgid "Don't let them escape! Kill them!"
-msgstr ""
+msgstr "不要讓他們逃脫！殺了他們！"
 
 #. Id: 45178-Dialogue.mod
 #. -- Index: 1.3
@@ -269,7 +269,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45178-Dialogue.mod:3
 msgid "You can't escape us! You can't escape the Queen!"
-msgstr ""
+msgstr "你無法逃避我們！你無法逃脫女王！"
 
 #. Id: 45178-Dialogue.mod
 #. -- Index: 1.4
@@ -280,7 +280,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45178-Dialogue.mod:4
 msgid "You can't escape the hive!"
-msgstr ""
+msgstr "你無法逃脫蜂巢！"
 
 #. Id: 45178-Dialogue.mod
 #. -- Index: 1.5
@@ -291,7 +291,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Western Hive
 #: 45178-Dialogue.mod:5
 msgid "You steal from the hive, you die in the hive!"
-msgstr ""
+msgstr "你偷了蜂巢，你死在蜂巢！"
 
 #. Id: 19785-Dialogue.mod
 #. -- Index: 0.0
@@ -301,7 +301,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 19785-Dialogue.mod:0
 msgid "Stealing from us!"
-msgstr ""
+msgstr "偷我們！"
 
 #. Id: 19785-Dialogue.mod
 #. -- Index: 0.2
@@ -317,7 +317,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: BRAVE
 #: 19785-Dialogue.mod:2 19765-Dialogue.mod:1
 msgid "Stealing from the Hive!"
-msgstr ""
+msgstr "偷看蜂巢！"
 
 #. Id: 45183-Dialogue.mod
 #. -- Index: 1.1
@@ -390,5 +390,4 @@ msgstr ""
 #. -- Group title: Stone rat wanders into base
 #: 45183-Dialogue.mod:1 64732-Dialogue.mod:1 1531964-__May?18.mod:0 14552-Dialogue?(4).mod:4 60655-Dialogue.mod:0 60663-Dialogue.mod:0 60670-Dialogue.mod:0 60674-Dialogue.mod:0 61487-Dialogue.mod:0 61488-Dialogue.mod:0 19729-Dialogue.mod:2 3695-dialogue-01.mod:1 61665-Dialogue.mod:0
 msgid "Kill!"
-msgstr ""
-
+msgstr "殺！"

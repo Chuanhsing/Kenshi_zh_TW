@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): Cannibals
 #: 13576-Escapes.mod:1
 msgid "Please! Get me out of here! Don't leave me!"
-msgstr ""
+msgstr "請！帶我離開這裡！別離開我！"
 
 #. Id: 13576-Escapes.mod
 #. -- Index: 0.2
@@ -83,7 +83,7 @@ msgstr ""
 #. -- Group title: Slave esc opp hiver ronin
 #: 13576-Escapes.mod:4 18532-Dialogue.mod:0 17982-Dialogue.mod:1 45813-Dialogue.mod:2 48873-Dialogue.mod:0
 msgid "I have to get out of here!"
-msgstr ""
+msgstr "我必須離開這裡！"
 
 #. Id: 13576-Escapes.mod
 #. -- Index: 0.5
@@ -118,7 +118,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_PLAYER=0, Tag: -1
 #: 13576-Escapes.mod:5 7866-Dialogue.mod:8 8756-Dialogue.mod:1 45509-Dialogue.mod:5
 msgid "I don't wanna die!"
-msgstr ""
+msgstr "我不想死！"
 
 #. Id: 13577-Escapes.mod
 #. -- Index: 0.0
@@ -128,7 +128,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 13577-Escapes.mod:0
 msgid "H- hey, what about me? Help me out!"
-msgstr ""
+msgstr "嘿，我呢？幫幫我！"
 
 #. Id: 13577-Escapes.mod
 #. -- Index: 0.1
@@ -138,7 +138,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 13577-Escapes.mod:1
 msgid "Hey... help me out... please"
-msgstr ""
+msgstr "嘿......請幫幫我......拜託"
 
 #. Id: 13577-Escapes.mod
 #. -- Index: 0.2
@@ -148,7 +148,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: IS_SLAVE=1, Tag: -1
 #: 13577-Escapes.mod:2
 msgid "Wait, don't leave me... help!"
-msgstr ""
+msgstr "等等，不要離開我......救命！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.0
@@ -158,7 +158,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:0
 msgid "I'll cut you a deal if you get me out!"
-msgstr ""
+msgstr "如果你讓我出局，我會給你一個交易！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.1
@@ -168,7 +168,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:1
 msgid "Let's sort something out!"
-msgstr ""
+msgstr "讓我們解決一些問題！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.2
@@ -178,7 +178,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:2
 msgid "I'll sort you out, come on!"
-msgstr ""
+msgstr "我會把你排除在外，來吧！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.3
@@ -188,7 +188,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:3
 msgid "I'll make it worth your while!"
-msgstr ""
+msgstr "我會值得你的！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.4
@@ -198,7 +198,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:4
 msgid "I'll make you a deal if you help me!"
-msgstr ""
+msgstr "如果你幫助我，我會幫你的！"
 
 #. Id: 13582-Escapes.mod
 #. -- Index: 1.5
@@ -208,7 +208,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13582-Escapes.mod:5
 msgid "We can sort something out! C'mon, help me!"
-msgstr ""
+msgstr "我們可以解決一些問題！來吧，救救我！"
 
 #. Id: 13579-Escapes.mod
 #. -- Index: 0.0
@@ -250,7 +250,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 13579-Escapes.mod:0 12507-Dialogue?(10)?(2).mod:0 12209-Dialogue?(10).mod:1 7067-Dialogue.mod:3 7071-Dialogue.mod:1 14091-Dialogue?(12).mod:1
 msgid "Get me out of here!"
-msgstr ""
+msgstr "帶我離開這裡！"
 
 #. Id: 13579-Escapes.mod
 #. -- Index: 0.1
@@ -261,7 +261,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 13579-Escapes.mod:1
 msgid "Help! Get me out of here!"
-msgstr ""
+msgstr "救命！帶我離開這裡！"
 
 #. Id: 13579-Escapes.mod
 #. -- Index: 0.2
@@ -272,7 +272,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 13579-Escapes.mod:2
 msgid "Help! Don't go..."
-msgstr ""
+msgstr "救命！不要去......"
 
 #. Id: 13586-Escapes.mod
 #. -- Index: 0.0
@@ -283,7 +283,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): United Cities
 #: 13586-Escapes.mod:0
 msgid "Go on... bust me out..."
-msgstr ""
+msgstr "繼續......讓我失望......"
 
 #. Id: 13586-Escapes.mod
 #. -- Index: 0.1
@@ -294,7 +294,7 @@ msgstr ""
 #. -- Condition: In town(s) of faction(s): United Cities
 #: 13586-Escapes.mod:1
 msgid "Come on, bust me out of here...."
-msgstr ""
+msgstr "來吧，讓我離開這裡......"
 
 #. Id: 13586-Escapes.mod
 #. -- Index: 0.2
@@ -315,7 +315,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13588-Escapes.mod:0
 msgid "I'll cut you a deal..."
-msgstr ""
+msgstr "我會給你一筆交易......"
 
 #. Id: 13588-Escapes.mod
 #. -- Index: 1.1
@@ -325,7 +325,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13588-Escapes.mod:1
 msgid "I'll make it worth your while..."
-msgstr ""
+msgstr "我會值得你的..."
 
 #. Id: 13588-Escapes.mod
 #. -- Index: 1.2
@@ -335,7 +335,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13588-Escapes.mod:2
 msgid "I'll make you a deal..."
-msgstr ""
+msgstr "我會幫你做個交易......"
 
 #. Id: 13588-Escapes.mod
 #. -- Index: 1.3
@@ -345,7 +345,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: SMART
 #: 13588-Escapes.mod:3
 msgid "We can work something out..."
-msgstr ""
+msgstr "我們可以解決一些問題......"
 
 #. Id: 13598-Escapes.mod
 #. -- Index: 0.0
@@ -387,7 +387,7 @@ msgstr ""
 #. -- Group title: Imprisoned thug
 #: 13600-Escapes.mod:0
 msgid "It's gonna be a cannibal massacre tonight!"
-msgstr ""
+msgstr "今晚這將是一場食人族大屠殺！"
 
 #. Id: 13600-Escapes.mod
 #. -- Index: 1.1
@@ -396,7 +396,7 @@ msgstr ""
 #. -- Group title: Imprisoned thug
 #: 13600-Escapes.mod:1
 msgid "I'll be butchering you cannibals good!"
-msgstr ""
+msgstr "我會屠殺你的食人族好！"
 
 #. Id: 13600-Escapes.mod
 #. -- Index: 1.2
@@ -405,5 +405,4 @@ msgstr ""
 #. -- Group title: Imprisoned thug
 #: 13600-Escapes.mod:2
 msgid "It's gonna be a cannibal slaughter I tell ya!"
-msgstr ""
-
+msgstr "我告訴你，這將是一個食人族的屠殺！"

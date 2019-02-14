@@ -19,7 +19,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 5131-gamedata.base:1
 msgid "Taking all your stuff, ok?"
-msgstr ""
+msgstr "拿走你所有的東西，好嗎？"
 
 #. Id: 5131-gamedata.base
 #. -- Index: 0.2
@@ -29,7 +29,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=0, Tag: HONORABLE
 #: 5131-gamedata.base:2
 msgid "All your stuff is mine now"
-msgstr ""
+msgstr "你現在所有的東西都是我的"
 
 #. Id: 5131-gamedata.base
 #. -- Index: 0.3
@@ -89,7 +89,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5172-gamedata.base:0
 msgid "Just so you know, I'm robbing you because I hate you."
-msgstr ""
+msgstr "只是你知道，我在搶劫你因為我恨你。"
 
 #. Id: 5172-gamedata.base
 #. -- Index: 0.1
@@ -99,7 +99,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5172-gamedata.base:1
 msgid "Looting your stupid body feels so right."
-msgstr ""
+msgstr "愚弄你的愚蠢身體感覺是對的。"
 
 #. Id: 5172-gamedata.base
 #. -- Index: 0.2
@@ -109,7 +109,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5172-gamedata.base:2
 msgid "You deserve a good lootin'"
-msgstr ""
+msgstr "你值得擁有一個好的笨蛋"
 
 #. Id: 5174-gamedata.base
 #. -- Index: 0.0
@@ -120,7 +120,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5174-gamedata.base:0
 msgid "I hate you, and now you're dead, and so I'm taking all your stuff."
-msgstr ""
+msgstr "我討厭你，現在你已經死了，所以我把你所有的東西拿走了。"
 
 #. Id: 5174-gamedata.base
 #. -- Index: 0.1
@@ -131,7 +131,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5174-gamedata.base:1
 msgid "All your stuff is mine now, you dead bastard"
-msgstr ""
+msgstr "你現在所有的東西都是我的，你死的混蛋"
 
 #. Id: 5174-gamedata.base
 #. -- Index: 0.2
@@ -142,7 +142,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5174-gamedata.base:2
 msgid "I'm glad you're dead."
-msgstr ""
+msgstr "我很高興你死了。"
 
 #. Id: 5174-gamedata.base
 #. -- Index: 0.3
@@ -153,7 +153,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: I_HATE_THIS_GUY=1, Tag: -1
 #: 5174-gamedata.base:3
 msgid "Looting your corpse feels so good."
-msgstr ""
+msgstr "射擊你的屍體感覺非常好。"
 
 #. Id: 5178-gamedata.base
 #. -- Index: 0.0
@@ -173,7 +173,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
 #: 5178-gamedata.base:1
 msgid "The dead don't need clothes"
-msgstr ""
+msgstr "死者不需要衣服"
 
 #. Id: 5178-gamedata.base
 #. -- Index: 0.2
@@ -203,7 +203,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
 #: 5178-gamedata.base:4
 msgid "Eurh, it's soaked in blood"
-msgstr ""
+msgstr "呃，它浸透了血液"
 
 #. Id: 5178-gamedata.base
 #. -- Index: 0.5
@@ -213,7 +213,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_DEAD=1, Tag: -1
 #: 5178-gamedata.base:5
 msgid "I'm taking all this, you don't need it where you're going"
-msgstr ""
+msgstr "我正在接受這一切，你不需要它去哪裡"
 
 #. Id: 5183-gamedata.base
 #. -- Index: 0.0
@@ -223,7 +223,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: HONORABLE
 #: 5183-gamedata.base:0
 msgid "This isn't right..."
-msgstr ""
+msgstr "這不對......"
 
 #. Id: 5186-gamedata.base
 #. -- Index: 0.0
@@ -243,7 +243,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 5186-gamedata.base:1
 msgid "Once I was your prisoner, now look at you."
-msgstr ""
+msgstr "一旦我成為你的囚犯，現在看著你。"
 
 #. Id: 5186-gamedata.base
 #. -- Index: 0.2
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 5186-gamedata.base:2
 msgid "Thought you had me caged up forever didn't you? Didn't think I would be looting your body one day!"
-msgstr ""
+msgstr "以為你讓我永遠關在籠子裡不是嗎？沒想到有一天我會掠奪你的身體！"
 
 #. Id: 5186-gamedata.base
 #. -- Index: 0.3
@@ -263,7 +263,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: HAS_TAG=1, Tag: MY_CAPTOR
 #: 5186-gamedata.base:3
 msgid "Looting the body of my captor. Best feeling ever."
-msgstr ""
+msgstr "掠奪我的俘虜身體。最好的感覺。"
 
 #. Id: 5189-gamedata.base
 #. -- Index: 0.0
@@ -272,7 +272,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5189-gamedata.base:0
 msgid "Ooohhh, medkits!"
-msgstr ""
+msgstr "噢，medkits！"
 
 #. Id: 5189-gamedata.base
 #. -- Index: 0.1
@@ -299,7 +299,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5190-gamedata.base:0
 msgid "Free food!"
-msgstr ""
+msgstr "免費食物！"
 
 #. Id: 5190-gamedata.base
 #. -- Index: 0.1
@@ -308,7 +308,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5190-gamedata.base:1
 msgid "Food! Yes!"
-msgstr ""
+msgstr "餐飲！是!"
 
 #. Id: 5190-gamedata.base
 #. -- Index: 0.2
@@ -326,7 +326,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5190-gamedata.base:3
 msgid "Food! Just in time too."
-msgstr ""
+msgstr "餐飲！及時。"
 
 #. Id: 5190-gamedata.base
 #. -- Index: 0.4
@@ -335,7 +335,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5190-gamedata.base:4
 msgid "Hey I found some food!"
-msgstr ""
+msgstr "嘿，我找到了一些食物！"
 
 #. Id: 5192-gamedata.base
 #. -- Index: 2.1
@@ -353,7 +353,7 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5192-gamedata.base:2
 msgid "Food! Let me have some!"
-msgstr ""
+msgstr "餐飲！讓我來吧！"
 
 #. Id: 5193-gamedata.base
 #. -- Index: 2.0
@@ -363,7 +363,7 @@ msgstr ""
 #. -- Condition: Who: ME, Condition: PERSONALITY_TAG=1, Tag: TRAITOROUS
 #: 5193-gamedata.base:0
 msgid "Food! Give it to me!"
-msgstr ""
+msgstr "餐飲！把它給我！"
 
 #. Id: 5195-gamedata.base
 #. -- Index: 3.0
@@ -372,5 +372,4 @@ msgstr ""
 #. -- Group title: loot everything
 #: 5195-gamedata.base:0
 msgid "No, it's mine!"
-msgstr ""
-
+msgstr "不，這是我的！"
