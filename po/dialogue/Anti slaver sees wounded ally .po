@@ -223,7 +223,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60794-Dialogue.mod:5 60795-Dialogue.mod:4 60796-Dialogue.mod:4 60801-Dialogue.mod:4
 msgid "Got yourself beat up bad, eh, comrade?"
-msgstr ""
+msgstr "你自己被打敗了，呃，同志？"
 
 #. Id: 60812-Dialogue.mod
 #. -- Index: 1.0
@@ -238,7 +238,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 60812-Dialogue.mod:0 60813-Dialogue.mod:0
 msgid "We'll stick together a while 'til you're feeling better, eh..."
-msgstr ""
+msgstr "我們會堅持一段時間，直到你感覺好些，呃......"
 
 #. Id: 60812-Dialogue.mod
 #. -- Index: 1.1
@@ -253,7 +253,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 60812-Dialogue.mod:1 60813-Dialogue.mod:1
 msgid "We'll stick around 'til you ain't looking like death, eh."
-msgstr ""
+msgstr "我們會堅持下去，直到你看起來不像死亡，呃。"
 
 #. Id: 60812-Dialogue.mod
 #. -- Index: 1.2
@@ -277,7 +277,7 @@ msgstr ""
 #. -- Group title: Anti slaver sees wounded ally
 #: 60812-Dialogue.mod:3
 msgid "Go it alone like this and you're gutter food."
-msgstr ""
+msgstr "像這樣單獨行動，你就是天溝食物。"
 
 #. Id: 60813-Dialogue.mod
 #. -- Index: 1.3
@@ -287,7 +287,7 @@ msgstr ""
 #. -- Condition: Target Race(s): Skeleton
 #: 60813-Dialogue.mod:3
 msgid "Go it alone like this and you're scrap metal."
-msgstr ""
+msgstr "像這樣單獨行動，你就是廢金屬。"
 
 #. Id: 60795-Dialogue.mod
 #. -- Index: 0.5
@@ -297,7 +297,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: DAMAGED_HEAD=1, Tag: -1
 #: 60795-Dialogue.mod:5
 msgid "Your head okay, comrade?"
-msgstr ""
+msgstr "你的頭好嗎，同志？"
 
 #. Id: 60796-Dialogue.mod
 #. -- Index: 0.5
@@ -307,7 +307,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_ARM=1, Tag: -1
 #: 60796-Dialogue.mod:5
 msgid "Your arm okay, comrade?"
-msgstr ""
+msgstr "你的手臂好嗎，同志？"
 
 #. Id: 60801-Dialogue.mod
 #. -- Index: 0.5
@@ -317,5 +317,4 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60801-Dialogue.mod:5
 msgid "Your leg okay, comrade?"
-msgstr ""
-
+msgstr "你的腿好嗎，同志？"

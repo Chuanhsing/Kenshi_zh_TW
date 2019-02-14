@@ -24,7 +24,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 9549-Dialogue.mod:0 53576-rebirth.mod:2
 msgid "Stop."
-msgstr ""
+msgstr "停止。"
 
 #. Id: 9549-Dialogue.mod
 #. -- Index: 0.1
@@ -39,7 +39,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_SAME_RACE_AS_ME=1, Tag: -1
 #: 9549-Dialogue.mod:1 53576-rebirth.mod:0
 msgid "You there."
-msgstr ""
+msgstr "你在那裡。"
 
 #. Id: 9549-Dialogue.mod
 #. -- Index: 0.2
@@ -63,7 +63,7 @@ msgstr ""
 #. -- Group title: Bag check (Shek)
 #: 9550-Dialogue.mod:0
 msgid "Bag check."
-msgstr ""
+msgstr "行李托運。"
 
 #. Id: 58552-Dialogue.mod
 #. -- Index: 0.0
@@ -79,7 +79,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: IS_PLAYER=1, Tag: -1
 #: 58552-Dialogue.mod:0 58553-Dialogue.mod:0
 msgid "... Take him to the Stone Golem..."
-msgstr ""
+msgstr "......把他帶到Stone Golem ......"
 
 #. Id: 58557-Dialogue.mod
 #. -- Index: 1.0
@@ -106,7 +106,7 @@ msgstr ""
 #. -- Group title: Bayan talk to (bugmaster locked)
 #: 58557-Dialogue.mod:0 61379-Dialogue.mod:0 57274-Dialogue.mod:4 1533569-Dialogue.mod:0
 msgid "Honor to you, kin."
-msgstr ""
+msgstr "親愛的，親屬。"
 
 #. Id: 53576-rebirth.mod
 #. -- Index: 0.3
@@ -117,4 +117,3 @@ msgstr ""
 #: 53576-rebirth.mod:3
 msgid "You there, /FLATSKIN/."
 msgstr ""
-
