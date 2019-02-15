@@ -20,7 +20,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 60793-Dialogue.mod:0
 msgid "Watch over /HIM/..."
-msgstr ""
+msgstr "監視 /HIM/..."
 
 #. Id: 60793-Dialogue.mod
 #. -- Index: 0.1
@@ -31,7 +31,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 60793-Dialogue.mod:1
 msgid "Hang back and keep an eye on /HIM/."
-msgstr ""
+msgstr "回去監視 /HIM/。"
 
 #. Id: 60793-Dialogue.mod
 #. -- Index: 0.2
@@ -53,7 +53,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 60793-Dialogue.mod:3
 msgid "What have you got yourself into this time, /YOURNAME/?"
-msgstr ""
+msgstr "這次你有什麼打算，/YOURNAME/？"
 
 #. Id: 60793-Dialogue.mod
 #. -- Index: 0.4
@@ -64,7 +64,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: SQUAD_SIZE>1, Tag: -1
 #: 60793-Dialogue.mod:4
 msgid "Tsk tsk. Need to take better care of yourself, /YOURNAME/."
-msgstr ""
+msgstr "嘖嘖。需要更好地照顧自己，/YOURNAME/。"
 
 #. Id: 60811-Dialogue.mod
 #. -- Index: 1.0
@@ -101,7 +101,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60794-Dialogue.mod:0 60795-Dialogue.mod:0 60796-Dialogue.mod:0 60801-Dialogue.mod:0
 msgid "Look like you could use some help, /YOURNAME/..."
-msgstr ""
+msgstr "看起來你可以得到一些幫助，/YOURNAME/..."
 
 #. Id: 60794-Dialogue.mod
 #. -- Index: 0.1
@@ -111,7 +111,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: NEARLY_KO=1, Tag: -1
 #: 60794-Dialogue.mod:1
 msgid "Need a hand, /YOURNAME/?"
-msgstr ""
+msgstr "需要幫忙，/YOURNAME/？"
 
 #. Id: 60794-Dialogue.mod
 #. -- Index: 0.2
@@ -139,7 +139,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60794-Dialogue.mod:2 60795-Dialogue.mod:1 60796-Dialogue.mod:1 60801-Dialogue.mod:1
 msgid "Ouch, you look a mess, /YOURNAME/..."
-msgstr ""
+msgstr "哎呀，你看起來很亂，/YOURNAME/..."
 
 #. Id: 60794-Dialogue.mod
 #. -- Index: 0.3
@@ -167,7 +167,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60794-Dialogue.mod:3 60795-Dialogue.mod:2 60796-Dialogue.mod:2 60801-Dialogue.mod:2
 msgid "Look like you could use some help, comrade/S/..."
-msgstr ""
+msgstr "看起來你可以讀到一些幫助，同志..."
 
 #. Id: 60794-Dialogue.mod
 #. -- Index: 0.4
@@ -195,7 +195,7 @@ msgstr ""
 #. -- Condition: Who: TARGET, Condition: BROKEN_LEG=1, Tag: -1
 #: 60794-Dialogue.mod:4 60795-Dialogue.mod:3 60796-Dialogue.mod:3 60801-Dialogue.mod:3
 msgid "Need a hand, comrade/S/?"
-msgstr ""
+msgstr "需要幫忙，同志？"
 
 #. Id: 60794-Dialogue.mod
 #. -- Index: 0.5
@@ -268,7 +268,7 @@ msgstr "我們會堅持下去，直到你看起來不像死亡，呃。"
 #. -- Condition: Target Race(s): Skeleton
 #: 60812-Dialogue.mod:2 60813-Dialogue.mod:2
 msgid "Stick with /MEUS/ a while, eh."
-msgstr ""
+msgstr "堅持/MEUS/一會兒，呃。"
 
 #. Id: 60812-Dialogue.mod
 #. -- Index: 1.3
